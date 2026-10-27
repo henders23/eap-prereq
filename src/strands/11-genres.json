@@ -1,0 +1,2186 @@
+{
+  "group": "11-genres",
+  "domains": [
+    {
+      "code": "GES",
+      "strand": "Academic Genres",
+      "name": "Essay & Examination Genres",
+      "summary": "This domain covers the essay, examination, review and source-based genres most often assessed in foundation, pre-sessional and taught programmes, together with the genre concepts and analytic strategies learners need to handle genres they have not been explicitly taught. Each genre topic integrates component skills from the writing, sources, argument, discourse and reading strands, and describes typical purposes, stages and language; because conventions vary by discipline, department and assignment brief, every topic stresses analysis of local exemplars, briefs and marking criteria rather than a single template. The domain draws on all three genre traditions (ESP, Sydney School and New Rhetoric) and on corpus evidence about genre families in UK student writing.",
+      "learnerSummary": "You will learn what different kinds of academic writing are for, how they are usually organised and what language they use, and how to analyse examples and assignment briefs so that you can write genres nobody has taught you.",
+      "stageEmphasis": {
+        "foundation": "Explanation, discussion, compare-and-contrast, problem–solution, short-answer and summary–response genres with strong scaffolding, plus the idea that texts are shaped by purpose and reader.",
+        "pre-sessional": "The shift from test-style opinion essays to source-based argumentative essays, critiques, annotated bibliographies and short literature reviews, with guided analysis of target-department exemplars.",
+        "in-sessional-ug": "Discipline-specific essays, exam essays, short answers, critiques and reflective writing, worked through real module briefs, criteria and feedback.",
+        "in-sessional-pgt": "Rapid adaptation to critiques, literature reviews, reflective and exam genres within a compressed year, with emphasis on criticality and independent genre analysis.",
+        "pgr": "Genre analysis as an independent research skill and book reviews as early publications; most doctoral genres are covered in the Research Communication strand."
+      },
+      "keyReferences": [
+        "swales1990",
+        "hyon1996",
+        "nesigardner2012",
+        "gardnernesi2013",
+        "tardy2009",
+        "rosemartin2012"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "ges.genre-concept",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Genre and discourse community",
+      "description": "Understand a genre as a recognisable, purpose-driven type of communicative event (an essay, a lab report, a case study, an email to a tutor) whose typical stages, content and language are shaped by the shared purposes and expectations of a discourse community. Seeing conventions as motivated responses to purpose, reader and context, rather than as arbitrary rules, lets learners explain why texts differ across modules and adapt to genres they have not been taught.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Explains, with reference to purpose and reader, why two texts on the same topic written in different genres differ in staging and language",
+        "Identifies the likely discourse community, readers and communicative purpose of an unfamiliar academic text",
+        "Distinguishes a genre (a socially recognised text type such as a case study) from a rhetorical function or text type used within it (such as explaining or comparing)",
+        "Recognises that conventions for a named genre vary across disciplines, departments and assignment briefs, and names the local evidence that would settle a question about them",
+        "Uses genre terms (purpose, audience, stage or move, convention) accurately when discussing their own and others' texts"
+      ],
+      "assessmentPrompt": "Show the learner the opening paragraphs of two texts on the same topic, one from a student lab report and one from a popular science article. Ask them to explain three differences and why each exists. A secure response attributes the differences to purpose, reader and context rather than to 'formality' alone, and does not claim that one text is simply more correct.",
+      "citations": [
+        "swales1990",
+        "hyon1996",
+        "bruce2008genre",
+        "johns1997"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:prag.flexibility",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.genre-analysis",
+      "type": "STRATEGIC",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Analysing genres independently",
+      "description": "Analyse exemplars of a target genre, alongside the assignment brief and marking criteria, to identify its purpose, stages or moves, typical content and characteristic language, and turn these observations into decisions for one's own text. This rhetorical consciousness-raising lets learners master genres an EAP course cannot cover and protects them against a generic model that the local department does not use.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Segments an exemplar into functional stages or moves and labels each by what it does for the reader, not by its topic",
+        "Identifies recurrent language associated with particular moves, such as tense, hedging, citation pattern or metadiscourse",
+        "Compares two or more exemplars to separate apparently conventional features from optional or writer-specific choices",
+        "Triangulates exemplar analysis with the assignment brief, marking criteria and tutor guidance before generalising",
+        "Explains how a specific feature of their own draft follows from the analysis"
+      ],
+      "assessmentPrompt": "Give the learner a short exemplar of a genre the class has not studied (for example a 250-word conference abstract or the introduction to a module case study). Ask them to divide it into moves, label each by function and name one language feature per move. Check whether labels are functional ('justifies the method') rather than topical ('about the sample'), and whether the learner cautions against generalising from a single exemplar.",
+      "citations": [
+        "swales1990",
+        "cheng2018",
+        "tardy2009",
+        "yasuda2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.read.information-argument",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:rec.strat.cues-inferring",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.genre-families",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Genre families in university assessment",
+      "description": "Know the range of genres in which students are assessed (essays, critiques, explanations, exercises, case studies, literature surveys, methodology recounts such as lab reports, research reports, proposals, design specifications, problem questions, and narrative or reflective recounts) and the broad social purposes they serve, from demonstrating knowledge to preparing for professional practice. This map helps learners recognise what an assignment is asking for and see that the essay is not the only, or even the dominant, genre in many disciplines.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Classifies a set of real assignment briefs by genre family and states the social purpose each serves",
+        "Explains why the same command word (for example 'discuss') can appear in briefs for different genres",
+        "Identifies which genre families predominate in their own discipline and level of study",
+        "Recognises when an assignment label names one genre but the brief and criteria require features of another, and seeks clarification"
+      ],
+      "assessmentPrompt": "Give the learner six anonymised assignment briefs from different disciplines. Ask them to sort the briefs into genre families and say, for each, what the marker most wants to see. Check whether sorting is based on purpose and expected structure rather than on subject or title alone.",
+      "citations": [
+        "gardnernesi2013",
+        "nesigardner2012",
+        "horowitz1986",
+        "mooremorton2005"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.argumentative-essay",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Argumentative essay",
+      "description": "Produce a thesis-led essay that takes a defensible position on a contested question and builds a cumulative, source-supported case for it, engaging with alternative views and qualifying the position where the evidence requires. Typical stages are an introduction that frames the issue and states the thesis, body paragraphs that each advance a reason with evidence and commentary, treatment of counter-positions, and a conclusion that answers the question in the light of the argument; characteristic language includes stance markers, hedges and boosters, concession–counter patterns and evaluative reporting of sources.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "States a specific, arguable thesis that directly answers the question and develops it, rather than merely repeating it, across the essay",
+        "Orders body paragraphs so that each sub-claim contributes to the overall case, with explicit links back to the thesis",
+        "Supports claims with relevant, attributed source evidence and explains how the evidence supports each claim",
+        "Represents at least one serious counter-position fairly and concedes or rebuts it with reasons",
+        "Calibrates claim strength to the evidence with hedges and boosters",
+        "Writes a conclusion that answers the question and states the limits or implications of the position"
+      ],
+      "assessmentPrompt": "Give the learner an essay question and 20 minutes to produce a thesis statement, three topic sentences and one counter-argument with a response. Check that the thesis takes a position, that the topic sentences advance distinct reasons for it rather than naming topics, and that the counter-argument is a credible objection answered with a reason rather than dismissed.",
+      "citations": [
+        "wingate2012argument",
+        "andrews2010",
+        "martinrose2008",
+        "mooremorton2005"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:prag.thematic-development",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "ielts:wr2.task-response",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.discussion-essay",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Discussion essay",
+      "description": "Produce an essay that represents two or more perspectives on an issue fairly, weighs them against evidence and explicit criteria, and reaches a reasoned, qualified conclusion. Typical stages are statement of the issue, presentation of perspectives (in blocks or point by point), evaluation and judgement; characteristic language includes attribution and reporting verbs, contrastive connectors, concession and evaluative lexis. In UK higher education even a 'discuss' essay is usually expected to arrive at a position, and often to signal it early.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Represents each perspective accurately and with comparable care, attributing views to their sources",
+        "Organises perspectives point by point or in blocks and can justify the choice",
+        "Evaluates perspectives against explicit criteria or evidence rather than simply juxtaposing them",
+        "Keeps their own evaluation linguistically distinguishable from reported views",
+        "Reaches a conclusion that follows from the weighing and is appropriately qualified"
+      ],
+      "assessmentPrompt": "Give the learner a 'Discuss' question and two short sources holding opposing views. Ask for an outline plan and the concluding paragraph. Check that the plan includes an evaluative stage, that both views are represented fairly, and that the conclusion takes a qualified position derived from the weighing rather than stating that both sides have advantages.",
+      "citations": [
+        "martinrose2008",
+        "wingate2012argument",
+        "leastreet1998"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "ielts:wr2.task-response",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.compare-contrast-essay",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Compare-and-contrast essay",
+      "description": "Produce an essay that compares two or more theories, cases, methods, policies or texts against explicit criteria and uses the comparison to make a point, such as which option is more appropriate or what a difference reveals, rather than listing similarities and differences. Typical stages are introduction of the items and the basis of comparison, criterion-led (point-by-point) or item-led (block) comparison, evaluation of the significance of the differences, and a conclusion stating the outcome; characteristic language includes comparative structures, contrastive connectors and hedged evaluative claims.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Selects comparison criteria relevant to the question and states them explicitly in the introduction",
+        "Organises the body point by point or in blocks and keeps the chosen pattern consistent and cross-referenced",
+        "Uses accurate comparative structures and contrastive connectors to express degrees of similarity and difference",
+        "Explains the significance of differences for the question rather than only recording them",
+        "Concludes with a judgement or insight that the comparison supports"
+      ],
+      "assessmentPrompt": "Give the learner a table comparing two items on four features and ask for a 150-word paragraph plus a one-sentence thesis. Check that the paragraph is organised by criterion, uses precise comparative language (for example 'considerably higher than', 'whereas'), and that the thesis states what the comparison shows.",
+      "citations": [
+        "mooremorton2005",
+        "carrell1985"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "ges.explanation-essay",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Explanation and cause–effect essay",
+      "description": "Produce an essay that explains how or why a phenomenon occurs: its causes (factorial explanation), its consequences (consequential explanation) or the mechanism or sequence by which it happens, evaluating the relative importance and certainty of the factors. Typical stages are identification of the phenomenon, an explanation sequence organised by factor, consequence or step, and a conclusion that weighs the factors; characteristic language includes causal verbs and nouns (lead to, result in, a consequence of), nominalised causal chains, hedged causal claims and sequencing.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies whether a question calls for causes, consequences or a mechanism and organises the essay accordingly",
+        "Groups causal factors into categories and sequences them by importance or chronology with explicit justification",
+        "Explains the mechanism by which a factor produces an effect rather than only naming the factor",
+        "Uses causal verbs, nouns and prepositions accurately, including nominalised causal chains",
+        "Hedges causal claims that rest on correlational evidence and concludes by weighing factors rather than restating them"
+      ],
+      "assessmentPrompt": "Ask the learner to write the introduction and one body paragraph for 'Explain the main causes of X' using a short source pack. Check whether the introduction maps the factors, whether the paragraph explains a mechanism rather than just naming a cause, and whether causal claims are hedged to suit the evidence.",
+      "citations": [
+        "martinrose2008",
+        "gardnernesi2013",
+        "hallidaymartin1993"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.problem-solution-essay",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Problem–solution essay",
+      "description": "Produce an essay that defines a problem, establishes its causes and significance, presents possible responses and evaluates them against criteria such as effectiveness, feasibility, cost and equity, ending with a justified recommendation. The genre realises the situation–problem–response–evaluation pattern; characteristic language includes problem-signalling nouns (challenge, barrier, shortfall), evaluative lexis, conditional and hypothetical reasoning, and recommending language.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Defines the problem precisely, establishing its scope and significance with evidence",
+        "Presents more than one response and evaluates each against stated criteria",
+        "Uses conditional and hypothetical language to discuss the likely effects of proposed responses",
+        "Recommends a response and justifies it in relation to the criteria and the limitations of alternatives",
+        "Uses problem and evaluation signalling nouns that make the pattern visible to the reader"
+      ],
+      "assessmentPrompt": "Give the learner a short case describing a campus or community problem and ask for one paragraph evaluating a proposed solution. Check that the paragraph applies at least two explicit criteria, acknowledges a limitation or trade-off and uses conditional language for predicted effects.",
+      "citations": [
+        "hoey1983",
+        "hoey2001",
+        "swalesfeak2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "ges.exam-essay",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Examination essay",
+      "description": "Write an essay under timed, usually closed-book conditions that answers the set question directly from revised knowledge, with a clear position, a quickly planned structure and selective use of remembered evidence. Compared with coursework essays, examiners typically expect a compact introduction, sustained relevance and less precisely referenced sources; expectations about citation, length and structure vary by department and should be checked in past papers, examiners' comments and module guidance.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Decodes the question's command words, scope and implied structure within the first minutes and plans accordingly",
+        "Allocates time across questions in proportion to marks and leaves time to check",
+        "States a direct answer to the question in the introduction and returns to it in each paragraph",
+        "Selects revised content that serves the argument rather than reproducing everything remembered",
+        "Refers to scholars, theories and evidence with the degree of precision expected locally in exams (for example author and approximate date)"
+      ],
+      "assessmentPrompt": "Set an unseen question from a past paper in the learner's subject area with 40 minutes' writing time. Check the first paragraph for a direct answer, whether body paragraphs stay relevant to the question rather than reproducing pre-learned material, and whether the essay is complete and visibly planned.",
+      "citations": [
+        "weigle2002",
+        "horowitz1986exam"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.strat.planning",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "ges.short-answer",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Short-answer responses",
+      "description": "Write concise, accurate answers, from a sentence to a paragraph, that define, identify, explain or briefly justify, as required in coursework exercises, short-answer exam questions and in-class tests. Markers reward precision, correct terminology and completeness relative to the marks available rather than introductions or elaboration; typical language includes formal definitions, compact causal and procedural explanation, and dense noun phrases.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Answers the question in the first sentence without restating it or adding an introduction",
+        "Scales the length and number of points to the marks available",
+        "Uses discipline terminology accurately and gives formal definitions where the question requires them",
+        "Includes the explanation step (how or why) when the command word requires more than identification",
+        "Adds an example or brief evidence only where it earns credit"
+      ],
+      "assessmentPrompt": "Give the learner three short-answer questions worth 2, 4 and 6 marks on content they have studied. Check whether answer length and number of points scale with the marks, whether the first sentence answers directly, and whether 'explain' items include a reason or mechanism rather than a bare identification.",
+      "citations": [
+        "gardnernesi2013",
+        "trimble1985"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.critique",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Critical review of an article",
+      "description": "Write a review of a single research article or theoretical text that summarises its aims, approach and main claims accurately and concisely, then evaluates it against appropriate criteria (such as quality of evidence, methodological soundness, coherence of argument, contribution and relevance) and reaches a balanced overall judgement. Typical stages are context and purpose, summary, evaluation of strengths and limitations, and conclusion; characteristic language includes evaluative reporting verbs, mitigated criticism, praise–criticism pairs and hedged judgements.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Summarises the text's purpose, approach and main claims accurately, in the proportion the brief requires",
+        "Evaluates against explicit criteria suited to the text type rather than personal agreement or disagreement",
+        "Supports each evaluative point with specific reference to the text and, where useful, to other literature",
+        "Balances strengths and limitations and mitigates criticism appropriately",
+        "Reaches an overall judgement about the text's value for a stated purpose or reader"
+      ],
+      "assessmentPrompt": "Give the learner the abstract and methods section of a short empirical article and ask for one evaluative paragraph. Check that the evaluation targets a specific feature (for example the sample or a measure), explains its consequence for the authors' claims, and is phrased with appropriate mitigation rather than as dismissal or unexplained praise.",
+      "citations": [
+        "swalesfeak2012",
+        "gardnernesi2013",
+        "wallacewray2016"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "acrl:authority",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.book-review",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Book review",
+      "description": "Write a review of a scholarly book for an academic readership that situates the book in its field, describes its aims, scope and structure selectively, evaluates its argument, evidence and contribution, and recommends it, or not, to specified readers. Unlike an article critique set as coursework, a published book review is a public evaluative act within a discipline: reviewers balance and often mitigate criticism, and follow venue conventions on length, structure and bibliographic header.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Situates the book in relation to its field and the debates it addresses",
+        "Describes the book's aims and structure selectively, foregrounding what the evaluation needs",
+        "Evaluates contribution, argument and evidence with specific reference to chapters or claims",
+        "Balances praise and criticism and mitigates criticism to suit the venue",
+        "Identifies the intended readership and recommends the book to them with reasons",
+        "Follows the conventions of a target journal or brief for length, headings and bibliographic details"
+      ],
+      "assessmentPrompt": "Give learners two published book reviews from a journal in their field. Ask them to mark where the reviewer evaluates, how criticism is softened and to whom the book is recommended, then to write the closing recommendation paragraph for a book they know. Check for a balanced, reasoned judgement addressed to a specified readership.",
+      "citations": [
+        "hyland2004disciplinary",
+        "swalesfeak2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "vitae-rdf:D2",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.reflective-writing",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Reflective writing",
+      "description": "Write structured reflection that describes a significant experience selectively, examines one's responses and assumptions, analyses the experience using relevant theory or evidence, and draws conclusions for future practice or learning. Assessed in education, health, business, engineering and EAP itself, the genre combines first-person, past-tense recount with present-tense analysis and future-oriented action planning; markers usually reward depth of analysis and links to theory rather than description or disclosure, and briefs differ widely on structure and citation.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Selects a specific, significant incident and describes it concisely as a basis for analysis",
+        "Moves from description to analysis by explaining why events unfolded as they did and questioning their own assumptions",
+        "Links the experience to relevant theory, research or professional standards",
+        "Uses first person, tense shifts and hedged interpretation appropriately across reflective stages",
+        "Formulates specific, realistic actions for future practice that follow from the analysis",
+        "Uses a reflective model as a scaffold without letting it dictate a formulaic text, following the local brief on structure"
+      ],
+      "assessmentPrompt": "Give the learner two short reflective paragraphs on the same incident, one largely descriptive and one analytical. Ask which would gain higher marks and why, then ask them to add two sentences to the weaker one. Check whether the additions interpret the experience, link it to theory or evidence, or derive a future action, rather than adding narrative or emotion.",
+      "citations": [
+        "gibbs1988",
+        "moon2004",
+        "ryan2011",
+        "schon1983"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.annotated-bibliography",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Annotated bibliography",
+      "description": "Compile an annotated bibliography in which each correctly formatted reference is followed by a concise annotation that summarises the source's purpose, approach and main findings or argument and, depending on the brief, evaluates its quality and explains its relevance to the writer's project. The genre isolates and trains selective summarising, source evaluation and relevance judgement; annotations are usually short paragraphs, report the source's claims with present-tense reporting verbs and mark evaluative and relevance comments as the writer's own.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Formats each entry accurately in the required referencing style",
+        "Summarises each source's purpose, approach and key claims concisely without reproducing its abstract",
+        "Evaluates each source with explicit criteria suited to its type (for example authority, evidence, currency)",
+        "Explains how each source will be used in the writer's project where the brief requires it",
+        "Keeps descriptive, evaluative and relevance comments distinguishable within each annotation"
+      ],
+      "assessmentPrompt": "Give the learner a journal article (or its abstract and methods) and a stated project focus, and ask for an annotation of about 150 words. Check that the annotation does not reproduce the abstract, includes a reasoned evaluation, states relevance to the project and is preceded by an accurate reference.",
+      "citations": [
+        "horowitz1986",
+        "gardnernesi2013"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "acrl:authority",
+          "contribution": "component"
+        },
+        {
+          "key": "acrl:conversation",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "ges.literature-review-assignment",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Literature review assignment",
+      "description": "Write a coursework literature review, stand-alone or as a section of a larger assignment, that maps and synthesises the literature on a defined question thematically, evaluates the strength and limits of the evidence, identifies agreements, tensions and gaps, and positions a question or argument in relation to them. Typical stages are scope and rationale, thematic sections in which sources are placed in dialogue, and a conclusion summarising the state of knowledge and its gaps; characteristic language includes varied integral and non-integral citation, evaluative reporting verbs, comparison, and the present perfect for the state of a field.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Defines and justifies the scope of the review and, where required, the search approach",
+        "Organises the review by themes, debates or methods rather than source by source",
+        "Synthesises several sources within paragraphs, showing agreement, disagreement and qualification",
+        "Evaluates the evidence base rather than only reporting it",
+        "Identifies gaps or tensions that follow from the review and states their significance for the question",
+        "Maintains authorial voice through topic sentences and commentary that frame the cited material"
+      ],
+      "assessmentPrompt": "Give learners five short source summaries on one question and 25 minutes to write one synthesis paragraph and one sentence identifying a gap. Check whether the paragraph is led by the writer's point, relates at least three sources to each other and evaluates them, and whether the gap follows from the synthesis rather than being asserted.",
+      "citations": [
+        "feakswales2009litrev",
+        "wallacewray2016",
+        "gardnernesi2013"
+      ],
+      "frameworks": [
+        {
+          "key": "acrl:conversation",
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "ges.summary-response",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Summary–response paper",
+      "description": "Write a paper that first summarises a source text accurately and even-handedly, then responds to it with a reasoned position (agreeing, disagreeing, qualifying or applying it to another context) supported by reasons and evidence. The genre makes explicit the boundary between reporting another writer's ideas and evaluating them and is a common bridge from reading to source-based argument; characteristic language includes attributive signal phrases and reporting verbs in the summary, and stance markers and concession in the response.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Summarises the source's main argument accurately in their own words, attributing it throughout",
+        "Separates summary from response clearly, without slipping evaluation into the summary",
+        "States a clear response position and supports it with reasons, examples or other sources",
+        "Engages with specific claims in the source rather than with its topic in general",
+        "Chooses reporting verbs that represent the source's stance accurately"
+      ],
+      "assessmentPrompt": "Give the learner a 400-word opinion article and 40 minutes for a 300-word summary–response. Check that the summary is accurate, attributed and even-handed, that the response engages a specific claim from the source, and that the boundary between the two parts is clearly signalled.",
+      "citations": [
+        "hirvela2004",
+        "horowitz1986",
+        "lekicarson1997",
+        "grabezhang2013"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "topicId": "ges.genre-concept",
+      "prerequisiteId": "reg.register-awareness",
+      "strength": "soft",
+      "reason": "Genre builds on the understanding that language varies systematically with field, tenor and mode; register awareness supplies the vocabulary of situational variation that genre adds purpose and staging to."
+    },
+    {
+      "topicId": "ges.genre-concept",
+      "prerequisiteId": "wpr.audience-purpose",
+      "strength": "soft",
+      "reason": "Treating genres as purposeful social actions starts from the simpler idea that every text is written for a reader and a purpose."
+    },
+    {
+      "topicId": "ges.genre-analysis",
+      "prerequisiteId": "ges.genre-concept",
+      "strength": "hard",
+      "reason": "Analysing exemplars for moves and purposes presupposes that genre features are motivated by purpose and audience rather than arbitrary."
+    },
+    {
+      "topicId": "ges.genre-analysis",
+      "prerequisiteId": "rds.text-organisation",
+      "strength": "soft",
+      "reason": "Recognising text structure and signalling while reading is the receptive base for segmenting an exemplar into stages or moves."
+    },
+    {
+      "topicId": "ges.genre-families",
+      "prerequisiteId": "ges.genre-concept",
+      "strength": "hard",
+      "reason": "Grouping assessed genres into families by social purpose requires the concept of genre as defined by purpose."
+    },
+    {
+      "topicId": "ges.genre-families",
+      "prerequisiteId": "fbk.assessment-literacy",
+      "strength": "soft",
+      "reason": "Knowing assessment types and learning outcomes helps learners see each genre family as a response to what an assessment is designed to measure."
+    },
+    {
+      "topicId": "ges.argumentative-essay",
+      "prerequisiteId": "ess.thesis-statement",
+      "strength": "hard",
+      "reason": "The genre is organised around a specific, arguable thesis that every section serves."
+    },
+    {
+      "topicId": "ges.argumentative-essay",
+      "prerequisiteId": "arg.extended-argument",
+      "strength": "hard",
+      "reason": "The body of the essay is a sequence of sub-claims that must build a cumulative case, which is the skill of structuring an extended argument."
+    },
+    {
+      "topicId": "ges.argumentative-essay",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "hard",
+      "reason": "University argumentative essays are source-based; each reason must be supported by evidence introduced, cited and commented on within paragraphs."
+    },
+    {
+      "topicId": "ges.argumentative-essay",
+      "prerequisiteId": "arg.rebuttal-concession",
+      "strength": "soft",
+      "reason": "Engaging counter-positions through concession and rebuttal is expected in most university argument, though one-sided expositions are acceptable in some early tasks."
+    },
+    {
+      "topicId": "ges.discussion-essay",
+      "prerequisiteId": "crt.multiple-perspectives",
+      "strength": "hard",
+      "reason": "The genre's core stage is fair representation of more than one perspective, including views the writer does not hold."
+    },
+    {
+      "topicId": "ges.discussion-essay",
+      "prerequisiteId": "fun.evaluating",
+      "strength": "hard",
+      "reason": "The judgement stage requires criteria-based evaluation of the perspectives, without which the essay remains descriptive."
+    },
+    {
+      "topicId": "ges.discussion-essay",
+      "prerequisiteId": "ess.body-organisation",
+      "strength": "soft",
+      "reason": "Choosing between block and point-by-point presentation of perspectives draws on general principles of sequencing essay body paragraphs."
+    },
+    {
+      "topicId": "ges.discussion-essay",
+      "prerequisiteId": "sta.averral-attribution",
+      "strength": "soft",
+      "reason": "Readers must be able to tell reported views from the writer's own evaluation, which depends on controlling averral and attribution."
+    },
+    {
+      "topicId": "ges.compare-contrast-essay",
+      "prerequisiteId": "fun.comparing-contrasting",
+      "strength": "hard",
+      "reason": "The genre is built from the language of similarity and difference and from point-by-point and block organisation."
+    },
+    {
+      "topicId": "ges.compare-contrast-essay",
+      "prerequisiteId": "ess.thesis-statement",
+      "strength": "soft",
+      "reason": "A comparison essay needs a thesis stating what the comparison shows, so that it does not become a list of features."
+    },
+    {
+      "topicId": "ges.compare-contrast-essay",
+      "prerequisiteId": "fun.evaluating",
+      "strength": "soft",
+      "reason": "Judging the significance of similarities and differences for the question draws on criteria-based evaluation."
+    },
+    {
+      "topicId": "ges.explanation-essay",
+      "prerequisiteId": "fun.cause-effect",
+      "strength": "hard",
+      "reason": "Factorial and consequential explanations are realised through cause–effect language and judgements of causal strength."
+    },
+    {
+      "topicId": "ges.explanation-essay",
+      "prerequisiteId": "fun.describing-process",
+      "strength": "soft",
+      "reason": "Sequential explanations of mechanisms draw on the sequencing and process language used to describe procedures and natural processes."
+    },
+    {
+      "topicId": "ges.explanation-essay",
+      "prerequisiteId": "crt.correlation-causation",
+      "strength": "soft",
+      "reason": "Calibrating causal claims in an explanation depends on understanding what kinds of evidence support causal rather than correlational conclusions."
+    },
+    {
+      "topicId": "ges.explanation-essay",
+      "prerequisiteId": "ess.body-organisation",
+      "strength": "soft",
+      "reason": "Organising factors by category, importance or chronology applies general principles of sequencing body paragraphs."
+    },
+    {
+      "topicId": "ges.problem-solution-essay",
+      "prerequisiteId": "fun.problem-solution",
+      "strength": "hard",
+      "reason": "The genre is an extended realisation of the situation–problem–response–evaluation pattern and its signalling language."
+    },
+    {
+      "topicId": "ges.problem-solution-essay",
+      "prerequisiteId": "fun.evaluating",
+      "strength": "hard",
+      "reason": "Each proposed response must be evaluated against criteria; without evaluation the essay lists solutions rather than analysing them."
+    },
+    {
+      "topicId": "ges.problem-solution-essay",
+      "prerequisiteId": "fun.recommending",
+      "strength": "soft",
+      "reason": "The genre usually closes with a justified recommendation, drawing on recommending language and priority and feasibility expressions."
+    },
+    {
+      "topicId": "ges.problem-solution-essay",
+      "prerequisiteId": "ess.thesis-statement",
+      "strength": "soft",
+      "reason": "A strong problem–solution essay signals its recommended response early, in a thesis that the evaluation then justifies."
+    },
+    {
+      "topicId": "ges.exam-essay",
+      "prerequisiteId": "exm.timed-writing",
+      "strength": "hard",
+      "reason": "The exam essay is the genre realised through the generic procedure of planning and writing under time pressure."
+    },
+    {
+      "topicId": "ges.exam-essay",
+      "prerequisiteId": "exm.question-analysis",
+      "strength": "hard",
+      "reason": "Relevance, the main criterion in exam essays, depends on interpreting the question and allocating time by marks in the first minutes."
+    },
+    {
+      "topicId": "ges.exam-essay",
+      "prerequisiteId": "ess.thesis-statement",
+      "strength": "soft",
+      "reason": "Most exam essay questions reward an early, direct answer expressed as a thesis that structures the response."
+    },
+    {
+      "topicId": "ges.exam-essay",
+      "prerequisiteId": "exm.revision-planning",
+      "strength": "soft",
+      "reason": "Writing from memory depends on having revised content in a form that can be retrieved and reorganised for an unseen question."
+    },
+    {
+      "topicId": "ges.short-answer",
+      "prerequisiteId": "fun.defining",
+      "strength": "hard",
+      "reason": "Many short-answer items require formal definitions of terms, which is the core of the genre's demonstration of knowledge."
+    },
+    {
+      "topicId": "ges.short-answer",
+      "prerequisiteId": "fun.explaining",
+      "strength": "hard",
+      "reason": "'Explain' items require giving a reason or mechanism compactly; identification alone does not earn the marks."
+    },
+    {
+      "topicId": "ges.short-answer",
+      "prerequisiteId": "exm.question-analysis",
+      "strength": "soft",
+      "reason": "Reading command words and mark allocations determines how many points and how much development an answer needs."
+    },
+    {
+      "topicId": "ges.short-answer",
+      "prerequisiteId": "sen.concision",
+      "strength": "soft",
+      "reason": "The genre penalises padding, so removing redundancy and empty phrases supports both time management and clarity."
+    },
+    {
+      "topicId": "ges.critique",
+      "prerequisiteId": "ges.summary-response",
+      "strength": "soft",
+      "reason": "Summary–response is usually taught first and establishes the summarise-then-evaluate staging and the boundary between source and writer voice; the critique adds criterion-based evaluation."
+    },
+    {
+      "topicId": "ges.critique",
+      "prerequisiteId": "sta.evaluating-others-language",
+      "strength": "hard",
+      "reason": "The evaluation stage depends on resources for praising, criticising and mitigating critique of published work."
+    },
+    {
+      "topicId": "ges.critique",
+      "prerequisiteId": "rdc.evidence-evaluation",
+      "strength": "hard",
+      "reason": "Judging the relevance, sufficiency and quality of the text's evidence supplies the substance of the evaluation."
+    },
+    {
+      "topicId": "ges.critique",
+      "prerequisiteId": "rdc.methods-critique",
+      "strength": "soft",
+      "reason": "Critiques of empirical articles usually require evaluation of sample, design and measures, although critiques of theoretical texts do not."
+    },
+    {
+      "topicId": "ges.book-review",
+      "prerequisiteId": "ges.critique",
+      "strength": "hard",
+      "reason": "The book review extends the summarise-and-evaluate staging of the article critique to a book-length text written for a public academic readership."
+    },
+    {
+      "topicId": "ges.book-review",
+      "prerequisiteId": "rdc.literature-mapping",
+      "strength": "soft",
+      "reason": "Situating a book in its field and judging its contribution depends on knowing the field's themes, debates and key works."
+    },
+    {
+      "topicId": "ges.reflective-writing",
+      "prerequisiteId": "crt.description-analysis-evaluation",
+      "strength": "hard",
+      "reason": "The commonest weakness in reflective writing is staying descriptive; distinguishing description from analysis and evaluation is the core prerequisite."
+    },
+    {
+      "topicId": "ges.reflective-writing",
+      "prerequisiteId": "crt.applying-theory",
+      "strength": "hard",
+      "reason": "Academic reflection is assessed largely on how experience is interpreted through relevant theory, research or standards."
+    },
+    {
+      "topicId": "ges.reflective-writing",
+      "prerequisiteId": "sta.self-mention",
+      "strength": "soft",
+      "reason": "Reflective writing requires comfortable, purposeful use of first-person self-mention, which some learners have been taught to avoid."
+    },
+    {
+      "topicId": "ges.reflective-writing",
+      "prerequisiteId": "fun.chronology-narration",
+      "strength": "soft",
+      "reason": "The description stage is a selective chronological recount that draws on time expressions and narrative sequencing."
+    },
+    {
+      "topicId": "ges.annotated-bibliography",
+      "prerequisiteId": "src.summarising-text",
+      "strength": "hard",
+      "reason": "Each annotation condenses a whole article or chapter into its main purpose, approach and findings."
+    },
+    {
+      "topicId": "ges.annotated-bibliography",
+      "prerequisiteId": "inf.source-evaluation",
+      "strength": "hard",
+      "reason": "Evaluative annotations require judging each source's authority, currency, evidence base and relevance."
+    },
+    {
+      "topicId": "ges.annotated-bibliography",
+      "prerequisiteId": "cit.reference-list",
+      "strength": "hard",
+      "reason": "Every entry is headed by a full reference that must be accurately formatted in the required style."
+    },
+    {
+      "topicId": "ges.annotated-bibliography",
+      "prerequisiteId": "rdc.reading-for-writing",
+      "strength": "soft",
+      "reason": "Relevance comments depend on reading each source in relation to a defined writing task or project."
+    },
+    {
+      "topicId": "ges.literature-review-assignment",
+      "prerequisiteId": "syn.synthesis-paragraphs",
+      "strength": "hard",
+      "reason": "The body of a literature review is built from paragraphs organised around a point with several sources in dialogue."
+    },
+    {
+      "topicId": "ges.literature-review-assignment",
+      "prerequisiteId": "syn.gaps-tensions",
+      "strength": "hard",
+      "reason": "Reviews culminate in identifying what is contested, unresolved or under-researched, which gives the review its purpose."
+    },
+    {
+      "topicId": "ges.literature-review-assignment",
+      "prerequisiteId": "rdc.literature-mapping",
+      "strength": "soft",
+      "reason": "Organising a review thematically depends on first mapping the themes, debates and key contributors in the literature."
+    },
+    {
+      "topicId": "ges.literature-review-assignment",
+      "prerequisiteId": "ges.annotated-bibliography",
+      "strength": "soft",
+      "reason": "Annotated bibliographies are often used as a staged scaffold that develops summary and evaluation of individual sources before they are synthesised."
+    },
+    {
+      "topicId": "ges.summary-response",
+      "prerequisiteId": "src.summarising-text",
+      "strength": "hard",
+      "reason": "The first part of the genre is an accurate, attributed summary of a whole text."
+    },
+    {
+      "topicId": "ges.summary-response",
+      "prerequisiteId": "rdc.critical-response",
+      "strength": "hard",
+      "reason": "The response part requires moving from comprehension to a reasoned personal evaluation of the text."
+    },
+    {
+      "topicId": "ges.summary-response",
+      "prerequisiteId": "src.voice-boundaries",
+      "strength": "hard",
+      "reason": "The genre depends on marking clearly where the source's ideas end and the writer's response begins."
+    }
+  ],
+  "guidance": [
+    {
+      "topicId": "ges.genre-concept",
+      "summary": "Introduce genre through contrasting texts before definitions, so that learners see purpose and readership motivating structure and wording, which is the core of Swales's (1990) account of genre and discourse community. Teachers should know the three traditions Hyon (1996) describes (ESP move analysis, Sydney School systemic functional pedagogy and New Rhetoric's emphasis on social action and context) because they imply different classroom emphases, from textual form to situated purpose; most EAP courses blend them. Bruce's (2008) distinction between social genres (the essay, the report) and cognitive genres or text types (explanation, discussion) helps learners see why a 'report' in one module may be argued like an essay. Present conventions as typified, flexible and locally negotiated rather than as templates (Johns, 1997).",
+      "activities": [
+        {
+          "title": "Same topic, different genres",
+          "learnerActions": [
+            "Read three short texts on one topic, for example an encyclopaedia entry, a lab report introduction and a student essay paragraph",
+            "For each, note who writes it, who reads it, why, and what the reader will do with it",
+            "Underline two language features in each text that serve that purpose",
+            "In pairs, write one sentence per text linking a feature to its purpose ('The report uses ... because its reader needs ...')"
+          ],
+          "intendedInsight": "Textual features are motivated by purpose and readership; 'academic style' is not a single fixed register.",
+          "rationale": "Holding the topic constant isolates purpose and audience as the variables, reflecting Swales's (1990) definition of genre by communicative purpose and Johns's (1997) emphasis on text, role and context.",
+          "citations": [
+            "swales1990",
+            "johns1997"
+          ]
+        },
+        {
+          "title": "Mapping my discourse communities",
+          "learnerActions": [
+            "List the communities you write for now or soon will (module, discipline, profession, online forum)",
+            "For one of them, list its typical genres, readers and what counts as a good text",
+            "Compare with a partner from a different discipline and identify one convention that differs",
+            "Note where you could find authentic evidence: exemplars, briefs, marking criteria, a tutor"
+          ],
+          "intendedInsight": "Expectations belong to communities, and learners can investigate them rather than wait to be told.",
+          "rationale": "Positions learners as investigators of genre in their own contexts, a central principle of Johns's (1997) socioliterate approach; Swales's (1990) characterisation of discourse communities gives the analysis a structure.",
+          "citations": [
+            "johns1997",
+            "swales1990"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Academic writing has one correct structure; my teacher just needs to tell me the rules.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Requests for a single template; transfer of a five-paragraph or test-essay structure to every assignment regardless of brief.",
+          "response": "Acknowledge that templates have served learners well in test preparation, then show two high-graded texts of the same nominal genre from different modules that are organised differently. Do not replace one template with another; teach learners to ask what the purpose and reader require.",
+          "reteachPrerequisiteId": "wpr.audience-purpose"
+        },
+        {
+          "pattern": "Confusing genre with topic or with text type ('This is a business essay'; 'Discussion is a genre').",
+          "kind": "conceptual",
+          "revealedBy": "Texts labelled by subject matter or rhetorical function rather than by social purpose; inability to say why a case study is not an essay.",
+          "response": "Use Bruce's social-versus-cognitive genre distinction explicitly and have learners label texts at both levels (social genre: report; dominant text type: explanation).",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Treating genre conventions as fixed and rejecting legitimate variation.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Learners reject a valid exemplar because it lacks a taught heading or move, or 'correct' an expert text towards a class model.",
+          "response": "Present conventions as tendencies with rationales, and set tasks in which learners find and justify a deviation in a high-graded or published text. Avoid presenting move models as obligatory checklists.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a short assignment brief and ask: what kind of text is this asking for, who will read it, and how might it differ from an essay?",
+        "strongResponse": "Names the genre, identifies the marker as an expert reader assessing stated outcomes, links at least two expected features (for example headings, recommendations) to purpose, and notes what to check locally (exemplars, criteria).",
+        "partialResponse": "Names the genre and lists features but cannot explain why they exist, or treats the features as universal.",
+        "gapResponse": "Describes only the topic, or assumes the task is 'an essay' without considering purpose or reader."
+      },
+      "contextNotes": "At foundation level keep the concept practical (purpose, reader, stages) and use familiar contrasts. On pre-sessionals it frames the move from test writing to university genres. In-sessional undergraduate and taught postgraduate learners apply it to their own modules' assignment types. For doctoral researchers, connect it to research genres and discourse community membership through publishing and reviewing, where Swales's framework applies most directly.",
+      "citations": [
+        "swales1990",
+        "hyon1996",
+        "bruce2008genre",
+        "johns1997"
+      ],
+      "reviewNotes": [
+        "Overlaps with acu.discourse-communities; it is not linked as a prerequisite to avoid a possible cycle if the socialisation strand links the reverse direction. Curriculum designers may wish to teach the two together."
+      ]
+    },
+    {
+      "topicId": "ges.genre-analysis",
+      "summary": "Treat learners as researchers of genre (Johns, 1997): the teacher models a move analysis, then progressively hands over the analytic questions. Swales's (1990) move analysis supplies the method; Cheng (2018) argues that graduate writers benefit when they analyse disciplinary exemplars themselves and articulate the rhetorical reasons for what they notice, and Tardy (2009) shows that genre knowledge combines formal, rhetorical, process and subject-matter dimensions that develop over repeated encounters. Yasuda (2011) reported gains in genre awareness and linguistic choices among EFL university writers after genre-based tasks. Always pair exemplars with the brief and criteria, and use more than one exemplar so that learners do not over-generalise from a single text.",
+      "activities": [
+        {
+          "title": "Move-labelling with a widening lens",
+          "learnerActions": [
+            "With the teacher, label the first two stages of a model text by their function",
+            "In pairs, label the remaining stages and agree a function label for each",
+            "Highlight the language that signals each move (tense, reporting verbs, hedges, frame markers)",
+            "Read a second exemplar of the same genre and record what is shared and what differs"
+          ],
+          "intendedInsight": "Moves are recognised by function and signalling language, and comparing exemplars separates conventions from individual choices.",
+          "rationale": "Applies Swales's (1990) move analysis as a learner procedure; the gradual handover follows the deconstruction stage of the teaching–learning cycle (Rose & Martin, 2012).",
+          "citations": [
+            "swales1990",
+            "rosemartin2012"
+          ]
+        },
+        {
+          "title": "Genre analysis log for a real assignment",
+          "learnerActions": [
+            "Collect the brief, marking criteria and, where permitted, one or two exemplars for an upcoming assignment",
+            "Complete a log: purpose, reader, stages, typical language, what the criteria reward",
+            "Note one question the materials do not answer and ask the module tutor",
+            "After receiving feedback, record what you would change in your analysis next time"
+          ],
+          "intendedInsight": "Local materials and tutors are the authority on local genres, and analysis is a reusable strategy rather than a one-off class exercise.",
+          "rationale": "Cheng (2018) and Tardy (2009) both emphasise learner-led, recurring engagement with disciplinary genres; the log makes the strategy portable beyond the EAP course.",
+          "citations": [
+            "cheng2018",
+            "tardy2009"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'The model text is the answer; I will copy its structure and phrases.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Drafts that reproduce the exemplar section by section, including topic-specific content and phrasing.",
+          "response": "Use at least two exemplars and ask learners to account for the differences; set analysis tasks that require function labels, not content summaries. Do not withhold exemplars altogether: the remedy is comparative analysis, not avoidance.",
+          "reteachPrerequisiteId": "ges.genre-concept"
+        },
+        {
+          "pattern": "Labelling stages by topic rather than function ('this paragraph is about the history').",
+          "kind": "developmental",
+          "revealedBy": "Move labels that name content; inability to say what a section does for the reader.",
+          "response": "Provide a bank of function verbs (introduces, justifies, concedes, evaluates, recommends) and ask 'What does this do for the reader?' rather than 'What is it about?'.",
+          "reteachPrerequisiteId": "rds.text-organisation"
+        },
+        {
+          "pattern": "Treating the EAP class model as more authoritative than departmental practice.",
+          "kind": "prior-schooling",
+          "revealedBy": "A learner insists on an EAP-taught structure that conflicts with the module brief or exemplars.",
+          "response": "Make the brief and local criteria the first source in every analysis, and frame EAP models as starting hypotheses to test against local evidence.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a 200–300-word exemplar from a genre the class has not studied and five minutes to label its moves and one language feature per move.",
+        "strongResponse": "Functional labels with plausible boundaries, accurate language observations linked to moves, and an explicit caution about generalising from one text.",
+        "partialResponse": "A mix of functional and topical labels; language features noticed but not linked to moves.",
+        "gapResponse": "A paragraph-by-paragraph summary of the content."
+      },
+      "contextNotes": "Foundation: highly guided analysis of short texts with given move labels. Pre-sessional: analysis of the genres in the progression assessment and of target-department exemplars where available. In-sessional undergraduate and taught postgraduate: analysis of real module briefs and exemplars, ideally with subject staff. PGR: independent analysis of research articles, theses and reviews in the field, extending to corpus-assisted analysis.",
+      "citations": [
+        "swales1990",
+        "johns1997",
+        "cheng2018",
+        "tardy2009",
+        "yasuda2011"
+      ],
+      "reviewNotes": [
+        "Access to authentic exemplars is often restricted by departmental policy. Where they are unavailable, analysis can use published models, past EAP student texts used with permission, or texts from openly available corpora of proficient student writing such as BAWE."
+      ]
+    },
+    {
+      "topicId": "ges.genre-families",
+      "summary": "Use Gardner and Nesi's (2013) classification, derived from the BAWE corpus of highly rated undergraduate and master's assignments, to show learners thirteen genre families grouped by five social purposes. Nesi and Gardner (2012) show that the essay predominates in arts, humanities and social sciences but much less so in the sciences and engineering, where methodology recounts, explanations, exercises and design specifications are common. Horowitz's (1986) earlier survey of the writing tasks university teachers actually set makes a similar point about diversity. Contrast these with proficiency-test tasks, which Moore and Morton (2005) found differ from university assignments in their reliance on personal knowledge and opinion. The aim is a usable mental map and the habit of asking what genre a brief requires, not memorisation of a taxonomy.",
+      "activities": [
+        {
+          "title": "Sort the briefs",
+          "learnerActions": [
+            "In groups, read 10–12 anonymised assignment briefs from several disciplines",
+            "Sort them into families and name the social purpose of each",
+            "Compare your groupings with the Gardner and Nesi families and discuss mismatches",
+            "Identify the families you are most likely to meet in your own programme"
+          ],
+          "intendedInsight": "University assessment uses many genres; the essay is one family among several and dominant mainly in some disciplines.",
+          "rationale": "Grounded in Gardner and Nesi's (2013) corpus-based classification, which was built from real assessed writing rather than textbook categories.",
+          "citations": [
+            "gardnernesi2013",
+            "nesigardner2012"
+          ]
+        },
+        {
+          "title": "Test task versus university task",
+          "learnerActions": [
+            "Compare a proficiency-test essay prompt with a first-year assignment brief on a related topic",
+            "List differences in sources, reader, length, structure and what counts as evidence",
+            "Decide which skills from test preparation transfer and which need to be developed"
+          ],
+          "intendedInsight": "Test essays and university genres differ in source use and purpose; test success does not guarantee readiness for assessed genres.",
+          "rationale": "Moore and Morton (2005) identified systematic differences between IELTS Task 2 and university writing tasks, particularly in the use of sources and the kinds of entities writers deal with.",
+          "citations": [
+            "mooremorton2005"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'All university writing is an essay.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Essay-style responses to report, case-study or lab tasks; missing headings, findings or recommendations where the brief requires them.",
+          "response": "Show high-graded examples from non-essay families in the learner's discipline and have learners compare the briefs and criteria that produced them.",
+          "reteachPrerequisiteId": "ges.genre-concept"
+        },
+        {
+          "pattern": "Taking the assignment label at face value.",
+          "kind": "conceptual",
+          "revealedBy": "A learner treats every task called 'report' or 'essay' identically, regardless of what the brief and criteria ask for.",
+          "response": "Teach learners to read the brief's purpose, reader and criteria as stronger evidence than the label, and to ask the tutor when they conflict; departmental labels are not used consistently.",
+          "reteachPrerequisiteId": "fbk.assessment-literacy"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: name three kinds of writing, other than essays, that students in your subject are likely to be assessed on, and say what each is for.",
+        "strongResponse": "Names plausible genres for the discipline with accurate purposes (for example: lab report, to show understanding of an experimental procedure and interpret its results).",
+        "partialResponse": "Names genres but cannot state their purposes, or confuses families.",
+        "gapResponse": "Cannot name genres beyond the essay and the exam."
+      },
+      "contextNotes": "Foundation and pre-sessional: build the map and link it to the learners' likely target departments, noting that pre-sessional assessments cover only a few families. In-sessional undergraduate: revisit with real module briefs, especially at entry to year 1 and before dissertations. Taught postgraduate: many learners meet unfamiliar families (reflective, professional, design) for the first time within a compressed year.",
+      "citations": [
+        "gardnernesi2013",
+        "nesigardner2012",
+        "horowitz1986",
+        "mooremorton2005"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "ges.argumentative-essay",
+      "summary": "Wingate (2012) found that many students do not understand what 'argument' means in essays, and proposes making three components explicit: developing a position by evaluating evidence, presenting that position, and structuring the text to support it. Andrews (2010) shows that argument is central to higher education but realised differently across disciplines, so any generic model should be tested against target-department exemplars. Martin and Rose's (2008) exposition and challenge genres give a useful staging vocabulary, and the university essay usually adds explicit engagement with counter-positions. Pre-sessional teachers should address Moore and Morton's (2005) finding that test essays draw on personal knowledge and opinion, whereas university essays build positions from sources.",
+      "activities": [
+        {
+          "title": "From topics to reasons",
+          "learnerActions": [
+            "Read a weak essay plan whose body paragraphs are topics ('Economic factors', 'Social factors')",
+            "Rewrite each as a claim that supports the thesis ('Economic incentives explain most of the rise because ...')",
+            "Test each topic sentence by asking what it contributes to the thesis",
+            "Reorder the claims to build a cumulative case and justify the order"
+          ],
+          "intendedInsight": "The body of an argumentative essay is a sequence of reasons, not a set of topics.",
+          "rationale": "Addresses the gap Wingate (2012) identifies between students' view of essays as displays of information and tutors' expectation of a position built through the text.",
+          "citations": [
+            "wingate2012argument"
+          ]
+        },
+        {
+          "title": "Joint construction of a counter-argument paragraph",
+          "learnerActions": [
+            "Analyse a model paragraph that concedes and counters an objection, labelling the concession, the counter and the evidence",
+            "As a class, jointly construct a parallel paragraph for a different objection, with the teacher scribing and prompting",
+            "Individually write a paragraph addressing an objection to your own thesis",
+            "Peer-check whether the objection is stated fairly and answered with a reason"
+          ],
+          "intendedInsight": "Engaging opposing views strengthens a position when the objection is fairly stated and answered with reasons.",
+          "rationale": "Joint construction follows the teaching–learning cycle (Rose & Martin, 2012). Qin and Karabacak (2010) found counter-argument and rebuttal elements relatively infrequent in a corpus of EFL university argumentative essays, suggesting explicit instruction in this stage is worthwhile.",
+          "citations": [
+            "rosemartin2012",
+            "qinkarabacak2010"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Argument means listing advantages and disadvantages and giving my opinion at the end.'",
+          "kind": "prior-schooling",
+          "revealedBy": "The position appears only in the conclusion; body paragraphs are balanced but uncommitted; 'In my opinion' arrives late.",
+          "response": "Show that the position should be visible from the introduction and shape every paragraph; have learners draft the thesis first and test each paragraph against it. Do not ban balanced treatment: the issue is that the evaluation must lead somewhere.",
+          "reteachPrerequisiteId": "ess.thesis-statement"
+        },
+        {
+          "pattern": "Claims supported by personal experience or general knowledge rather than sources.",
+          "kind": "prior-schooling",
+          "revealedBy": "Few or no citations; support such as 'everyone knows' or a personal anecdote; test-style responses to source-based tasks.",
+          "response": "Contrast a test response with a source-based university paragraph and require each body paragraph to introduce, cite and comment on at least one source.",
+          "reteachPrerequisiteId": "par.integrating-evidence"
+        },
+        {
+          "pattern": "Counter-arguments are straw men or dismissed in a sentence.",
+          "kind": "developmental",
+          "revealedBy": "Weak objections followed by 'but this is wrong'; no concession of anything valid.",
+          "response": "Ask learners to state the strongest objection a knowledgeable critic would make, and to concede what is valid in it before countering.",
+          "reteachPrerequisiteId": "arg.rebuttal-concession"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a 400-word student essay and ask them to underline the thesis, number the reasons and mark where an alternative view is addressed.",
+        "strongResponse": "Locates the thesis, recognises whether paragraphs are reasons or topics, and evaluates how well counter-views are handled.",
+        "partialResponse": "Finds the thesis but treats topical paragraphs as reasons, or overlooks the absence of counter-views.",
+        "gapResponse": "Cannot identify a position, or equates an opinion in the conclusion with the thesis."
+      },
+      "contextNotes": "Foundation: one-sided expositions with a clear thesis and two or three reasons, introducing source support. Pre-sessional: the transition from test-style opinion essays to source-based argument with counter-argument. In-sessional undergraduate: disciplinary argument (interpretive in the humanities, evidential in the social sciences) linked to marking criteria. Taught postgraduate: argument integrated with critical evaluation of literature and theory, often requiring recalibration from more descriptive prior writing.",
+      "citations": [
+        "wingate2012argument",
+        "andrews2010",
+        "martinrose2008",
+        "mooremorton2005",
+        "qinkarabacak2010"
+      ],
+      "reviewNotes": [
+        "'Argumentative essay' is an EAP label; departments rarely use it, but many 'critically evaluate' and 'to what extent' essays are argued in this way."
+      ]
+    },
+    {
+      "topicId": "ges.discussion-essay",
+      "summary": "Martin and Rose (2008) distinguish discussion (weighing two or more positions) from exposition (arguing for one), which helps learners see the discussion essay as having its own evaluative stage. The pedagogical challenge is that stage: Wingate (2012) shows students often understand 'discuss' as 'describe both sides', while tutors expect a reasoned position, and Lea and Street (1998) found that tutors' expectations about notions such as argument are frequently tacit. Teach balance as fair representation rather than neutrality, and make the criteria for judgement explicit.",
+      "activities": [
+        {
+          "title": "Weighing the views",
+          "learnerActions": [
+            "Read two short sources with opposing views and note each view's main claim and evidence",
+            "Agree three criteria for judging the issue, such as strength of evidence, cost or fairness",
+            "Rate each view against each criterion in a grid, with a brief reason",
+            "Write a conclusion stating which view is stronger and under what conditions"
+          ],
+          "intendedInsight": "A discussion is resolved by explicit criteria, and the conclusion follows from the weighing.",
+          "rationale": "Makes the evaluative stage visible, addressing the description-heavy pattern Wingate (2012) reports.",
+          "citations": [
+            "wingate2012argument"
+          ]
+        },
+        {
+          "title": "Block or point by point?",
+          "learnerActions": [
+            "Compare two model discussion essays on the same question, one organised in blocks and one point by point",
+            "Mark where evaluation appears in each",
+            "Decide which organisation suits your own question and justify the choice"
+          ],
+          "intendedInsight": "Organisation should serve evaluation; point-by-point structures often make it easier to keep evaluating throughout.",
+          "rationale": "Staging analysis based on Martin and Rose's (2008) description of the discussion genre.",
+          "citations": [
+            "martinrose2008"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'A discussion essay should be neutral; I shouldn't give my opinion.'",
+          "kind": "conceptual",
+          "revealedBy": "Conclusions such as 'there are both advantages and disadvantages'; little or no evaluative language.",
+          "response": "Distinguish fair representation from neutrality and show high-graded discussion essays that reach a qualified judgement. Check the local brief, since a few tasks do ask only for an account of views.",
+          "reteachPrerequisiteId": "fun.evaluating"
+        },
+        {
+          "pattern": "Reported views and the writer's view blur together.",
+          "kind": "developmental",
+          "revealedBy": "Unattributed claims the marker cannot assign to a source or to the writer; apparent shifts of position from paragraph to paragraph.",
+          "response": "Have learners highlight attributed and averred sentences in two colours, and teach signal phrases and stance markers that mark the move to the writer's evaluation.",
+          "reteachPrerequisiteId": "sta.averral-attribution"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a discussion essay plan and ask them to write its concluding paragraph.",
+        "strongResponse": "Weighs the views and reaches a qualified judgement with reasons and conditions.",
+        "partialResponse": "Reaches a judgement that is unrelated to the body or unsupported.",
+        "gapResponse": "Summarises both sides without any judgement."
+      },
+      "contextNotes": "Foundation: a common entry genre; keep to two perspectives with a short source pack. Pre-sessional: frequently a progression task; emphasise source-based perspectives and early signalling of position. In-sessional undergraduate: link to 'discuss' and 'to what extent' questions in modules and to departmental expectations, which differ in how explicitly a position must be stated.",
+      "citations": [
+        "martinrose2008",
+        "wingate2012argument",
+        "leastreet1998"
+      ],
+      "reviewNotes": [
+        "EAP materials often treat discussion and argumentative essays as distinct genres; in departmental practice they blur, and the distinction is better taught as a continuum of how early and how strongly the position is stated."
+      ]
+    },
+    {
+      "topicId": "ges.compare-contrast-essay",
+      "summary": "Comparison is a pervasive rhetorical function in university writing tasks (Moore & Morton, 2005), yet the compare-and-contrast essay is often taught as a symmetrical list of similarities and differences. Teach it instead as comparison in the service of a point: criteria are chosen because they matter to the question, and the essay says what the comparison reveals. Carrell (1985) found that explicitly teaching top-level text structures, comparison among them, helped L2 readers; the same structural awareness can be developed for writing by analysing exemplars before production.",
+      "activities": [
+        {
+          "title": "Criteria first",
+          "learnerActions": [
+            "Given two items and a question, brainstorm possible points of comparison",
+            "Select the three most relevant to the question and justify the selection",
+            "Build a comparison grid and decide what the overall pattern shows",
+            "Write a thesis statement that states the outcome of the comparison"
+          ],
+          "intendedInsight": "Criteria are chosen for relevance to the question, and the thesis states what the comparison shows.",
+          "rationale": "Shifts the task from description to purpose-driven comparison, reflecting the evaluative emphasis of university writing tasks (Moore & Morton, 2005).",
+          "citations": [
+            "mooremorton2005"
+          ]
+        },
+        {
+          "title": "Restructure the blocks",
+          "learnerActions": [
+            "Read a block-organised draft that describes item A and then item B",
+            "Highlight each criterion in a different colour across both blocks",
+            "Rewrite one section point by point with explicit comparative language",
+            "Discuss which version makes the significance of the differences clearer"
+          ],
+          "intendedInsight": "Point-by-point organisation tends to make comparison explicit; block organisation needs deliberate cross-referencing.",
+          "rationale": "Develops awareness of comparison as a text structure (Carrell, 1985) and transfers it to production.",
+          "citations": [
+            "carrell1985"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Compare means describe A, then describe B.'",
+          "kind": "developmental",
+          "revealedBy": "Two descriptive halves with comparison appearing only in the conclusion.",
+          "response": "Require a cross-referencing sentence in each paragraph and teach point-by-point organisation first. Do not forbid block organisation: it is acceptable when each block makes the comparison explicit.",
+          "reteachPrerequisiteId": "fun.comparing-contrasting"
+        },
+        {
+          "pattern": "Listing similarities and differences without saying why they matter.",
+          "kind": "conceptual",
+          "revealedBy": "No thesis, or a conclusion that restates the list.",
+          "response": "After each paragraph ask what the difference means for the question, and model evaluative sentences that answer it.",
+          "reteachPrerequisiteId": "fun.evaluating"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask learners to state in two sentences the outcome of comparing two familiar options (for example two ways of revising for exams) on criteria they choose.",
+        "strongResponse": "Names relevant criteria and states an outcome tied to them.",
+        "partialResponse": "Lists differences without stating an outcome.",
+        "gapResponse": "Describes each option separately."
+      },
+      "contextNotes": "Foundation: a manageable early genre that builds comparative language; use familiar items. Pre-sessional: move to comparing theories, models or policies using sources. In-sessional undergraduate: comparison questions occur across disciplines (theoretical approaches, cases, texts, methods), where the criteria themselves are disciplinary and should come from the module.",
+      "citations": [
+        "mooremorton2005",
+        "carrell1985"
+      ],
+      "reviewNotes": [
+        "There is little genre-analytic research on the compare-and-contrast essay as a distinct student genre; this guidance draws on research on comparison as a rhetorical function and as a text structure."
+      ]
+    },
+    {
+      "topicId": "ges.explanation-essay",
+      "summary": "Martin and Rose (2008) distinguish sequential, factorial and consequential explanations, giving learners a principled choice of structure depending on whether a question asks how something happens, why it happens or what it leads to. Gardner and Nesi (2013) identify Explanation as a distinct genre family in university assessment whose purpose is demonstrating knowledge and understanding. Halliday and Martin (1993) show how scientific explanation packages causal reasoning into nominal groups and verbs such as lead to, which is both a resource and a source of difficulty. The central teaching challenge is moving from naming causes to explaining mechanisms and calibrating certainty.",
+      "activities": [
+        {
+          "title": "Cause, consequence or mechanism?",
+          "learnerActions": [
+            "Sort six essay and exam questions by whether they ask for causes, consequences or a sequence",
+            "Choose an organising pattern for each (factorial, consequential, sequential)",
+            "Plan one essay, ranking factors by importance and giving a reason for the ranking"
+          ],
+          "intendedInsight": "The question determines the type of explanation and therefore the essay's structure.",
+          "rationale": "Applies Martin and Rose's (2008) explanation types as planning choices.",
+          "citations": [
+            "martinrose2008"
+          ]
+        },
+        {
+          "title": "From naming to explaining",
+          "learnerActions": [
+            "Read a paragraph that lists three causes in one sentence each",
+            "For one cause, add the mechanism (how it produces the effect) and supporting evidence",
+            "Adjust the strength of the causal verb and add hedging where the evidence is correlational",
+            "Compare your paragraph with a model"
+          ],
+          "intendedInsight": "Explanation requires a mechanism and calibrated certainty, not a list of factors.",
+          "rationale": "Targets the step from listing to explaining; Halliday and Martin (1993) show how causal relations are realised in scientific explanation, giving learners language to model.",
+          "citations": [
+            "hallidaymartin1993"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Listing causes without explaining how they operate.",
+          "kind": "developmental",
+          "revealedBy": "Paragraphs of one claim plus one example; repeated 'Another reason is ...'.",
+          "response": "Prompt with 'How exactly does this lead to ...?' and model mechanism sentences. Do not respond by supplying more connectors: the gap is explanatory content, not linking.",
+          "reteachPrerequisiteId": "fun.cause-effect"
+        },
+        {
+          "pattern": "Overstating causation ('X causes Y') on the basis of correlational evidence.",
+          "kind": "conceptual",
+          "revealedBy": "Unhedged causal verbs attached to survey or correlational findings.",
+          "response": "Review correlation and causation using examples from the learners' own sources, then practise rewording with 'is associated with' or 'may contribute to'.",
+          "reteachPrerequisiteId": "crt.correlation-causation"
+        },
+        {
+          "pattern": "Causal connectors used interchangeably regardless of the structure that follows (for example 'due to the population increased').",
+          "kind": "L1-transfer",
+          "revealedBy": "Prepositional causal expressions followed by clauses, or conjunctions followed by noun phrases.",
+          "response": "Where a learner's other languages use one causal connective before both clauses and noun phrases, contrast prepositional patterns (because of, due to + noun phrase) with conjunctive ones (because, since + clause), and practise nominalising the cause.",
+          "reteachPrerequisiteId": "fun.cause-effect"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a simple causal diagram and ask for a three-sentence explanation of it.",
+        "strongResponse": "Explains the mechanism with accurate causal language and appropriate hedging.",
+        "partialResponse": "Uses accurate causal language but gives no mechanism.",
+        "gapResponse": "Lists the elements linked by 'and' or 'also'."
+      },
+      "contextNotes": "Foundation: explanations of familiar processes and causes, often linked to subject-content modules, form a strong bridge into science and social science. Pre-sessional: source-based explanation with hedged causal claims. In-sessional undergraduate: explanation essays and exam answers in the sciences, social sciences and humanities (for example historical causation), where disciplinary norms for causal argument differ.",
+      "citations": [
+        "martinrose2008",
+        "gardnernesi2013",
+        "hallidaymartin1993"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "ges.problem-solution-essay",
+      "summary": "Hoey's (1983, 2001) situation–problem–response–evaluation pattern is the backbone of this genre and shows learners that a response is only complete once it is evaluated; a negative evaluation recycles the pattern towards a new response. Swales and Feak (2012) treat problem–process–solution texts as a foundational academic pattern. Teach the genre as evaluative, since the commonest weakness is presenting solutions without criteria, and use it as a bridge to case studies, business reports and policy briefs.",
+      "activities": [
+        {
+          "title": "Mapping the pattern",
+          "learnerActions": [
+            "Read a short problem–solution text and label the situation, problem, response and evaluation",
+            "Identify the signalling nouns that mark each element",
+            "Find a place where a negative evaluation leads to a new response",
+            "Plan your own essay as a chain of these elements"
+          ],
+          "intendedInsight": "The pattern is recursive, and evaluation is what makes it analytical.",
+          "rationale": "Hoey's pattern gives learners a functional map with recognisable lexical signals (Hoey, 1983, 2001).",
+          "citations": [
+            "hoey1983",
+            "hoey2001"
+          ]
+        },
+        {
+          "title": "Criteria matrix for solutions",
+          "learnerActions": [
+            "List possible responses to a problem from a source pack",
+            "Agree four criteria such as effectiveness, cost, feasibility and unintended consequences",
+            "Rate each response against the criteria with evidence",
+            "Write a recommendation paragraph that justifies the choice and acknowledges trade-offs"
+          ],
+          "intendedInsight": "Recommendations persuade when they are justified by explicit criteria and honest about trade-offs.",
+          "rationale": "Turns the evaluation element of the pattern into an explicit, criterion-based procedure that learners can reuse in report and case-study genres.",
+          "citations": []
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Describing the problem at length and listing solutions in a final paragraph.",
+          "kind": "developmental",
+          "revealedBy": "Most of the word count spent on background; solutions named but not evaluated.",
+          "response": "Set word budgets for each stage and require an evaluation for every response proposed.",
+          "reteachPrerequisiteId": "fun.problem-solution"
+        },
+        {
+          "pattern": "Recommendations phrased as unconditional commands ('The government must ban ...').",
+          "kind": "prior-schooling",
+          "revealedBy": "Strong 'must' and 'should' statements without justification or attention to feasibility, often carried over from test-essay practice.",
+          "response": "Contrast hortatory statements with justified, hedged recommendations and teach alternatives such as 'a more feasible option would be ...'.",
+          "reteachPrerequisiteId": "fun.recommending"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask learners to identify the problem, response and evaluation in a 150-word text and say whether the evaluation is positive or negative.",
+        "strongResponse": "Labels every element and points to the signals that mark them.",
+        "partialResponse": "Finds the problem and response but misses or misreads the evaluation.",
+        "gapResponse": "Summarises the text without identifying the pattern."
+      },
+      "contextNotes": "Foundation: familiar problems with short source packs, closely linked to recommending language. Pre-sessional: source-based evaluation of responses, often a progression essay type. In-sessional undergraduate: common in social sciences, environmental studies, engineering and health, and a natural step towards case-study and report genres.",
+      "citations": [
+        "hoey1983",
+        "hoey2001",
+        "swalesfeak2012",
+        "mooremorton2005"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "ges.exam-essay",
+      "summary": "Exam essays are a high-stakes genre that is largely absent from corpora of assessed coursework, so teaching should be built on local past papers, examiners' comments and departmental guidance. Horowitz's (1986) analysis of essay examination prompts (proposed reference) suggests that exam questions typically ask writers to select and organise known content in response to specific demands, which makes question analysis and selective use of revised material central. Weigle (2002) discusses how timed, impromptu writing constrains planning and revision; practice should therefore build fast planning routines, not only language. Make clear that university exam essays differ from proficiency-test essays: they are judged mainly on disciplinary content and its use, not on language display.",
+      "activities": [
+        {
+          "title": "Five-minute plans",
+          "learnerActions": [
+            "Read three past-paper questions",
+            "For each, spend five minutes writing only a thesis and a three-point plan",
+            "Swap plans and judge whether each point answers the question as set",
+            "Choose one plan and write its introduction in eight minutes"
+          ],
+          "intendedInsight": "Many marks are won or lost in planning and relevance rather than in language.",
+          "rationale": "Builds the fast planning routines that timed conditions constrain (Weigle, 2002).",
+          "citations": [
+            "weigle2002"
+          ]
+        },
+        {
+          "title": "Revise for questions, not topics",
+          "learnerActions": [
+            "Take a set of revision notes on one topic",
+            "Write four different exam questions that could be set on that topic",
+            "For each question, mark which notes are relevant and which are not",
+            "Write one paragraph for one question using only relevant notes"
+          ],
+          "intendedInsight": "Selecting and reorganising content for the question is the core exam-essay skill; reproducing everything learned is not.",
+          "rationale": "Responds to the content-selection demands identified in analyses of essay examination prompts (Horowitz, 1986, proposed).",
+          "citations": [
+            "horowitz1986exam"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I will write down everything I memorised about the topic.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Long descriptive answers loosely related to the question; a prepared essay adapted awkwardly to a different question.",
+          "response": "Practise answering differently worded questions on the same topic and mark for relevance first. Avoid encouraging memorised model essays as the main revision strategy.",
+          "reteachPrerequisiteId": "exm.question-analysis"
+        },
+        {
+          "pattern": "Running out of time and leaving answers unfinished.",
+          "kind": "performance",
+          "revealedBy": "A long first answer and incomplete final answers.",
+          "response": "Practise time allocation under realistic conditions and teach a fallback of bullet-point conclusions when time runs out. Do not focus only on shortening introductions; uneven allocation and skipped planning are usually the cause.",
+          "reteachPrerequisiteId": "exm.timed-writing"
+        },
+        {
+          "pattern": "Anxiety leading to blanking or loss of planned structure.",
+          "kind": "affective",
+          "revealedBy": "Learners report blanking; answers that start well and then lose direction.",
+          "response": "Rehearse a plan-first routine under realistic conditions so that it becomes automatic, and signpost anxiety-management strategies and support services.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a past-paper question and ask the learner to write only the plan and introduction in ten minutes.",
+        "strongResponse": "The introduction answers the question directly and the plan's points are relevant and logically ordered.",
+        "partialResponse": "The plan is relevant but the introduction is generic or defers the answer.",
+        "gapResponse": "A topic-focused plan that does not address the question's demand."
+      },
+      "contextNotes": "Foundation: many foundation programmes assess subject content through exams, so focus on question analysis and timed planning. Pre-sessional: timed writing appears in some progression assessments but differs from disciplinary exams; make the distinction explicit. In-sessional undergraduate: subject-specific practice with past papers, ideally with subject staff. Taught postgraduate: exams are less frequent but often require application to cases, and some programmes use seen or open-book formats.",
+      "citations": [
+        "weigle2002",
+        "horowitz1986exam"
+      ],
+      "reviewNotes": [
+        "Part of the summary rests on a proposed reference (Horowitz, 1986, on essay examination prompts); if it cannot be verified, remove that sentence and the related activity rationale.",
+        "Corpora of proficient student writing such as BAWE consist mainly of coursework, so genre-analytic evidence on exam essays is thin."
+      ]
+    },
+    {
+      "topicId": "ges.short-answer",
+      "summary": "Short answers serve the purpose of demonstrating knowledge and understanding that Gardner and Nesi (2013) associate with the Exercise and Explanation genre families. The main transfer problem is essay habits (introductions, restating the question, elaboration) that cost time and earn no marks. Teach command words and mark allocation, model formal definitions of the term–class–distinguishing-feature type described in rhetorical analyses of scientific English (Trimble, 1985), and use subject-specific past papers, because what counts as a complete answer is disciplinary.",
+      "activities": [
+        {
+          "title": "Marks to points",
+          "learnerActions": [
+            "Read short-answer questions with their mark allocations",
+            "Predict how many distinct points each requires",
+            "Compare your predictions with a marking scheme or teacher model",
+            "Rewrite a padded answer so that it fits the marks available"
+          ],
+          "intendedInsight": "Mark allocation signals expected content; length should follow content, not effort.",
+          "rationale": "Makes the economy of knowledge-display genres explicit (Gardner & Nesi, 2013).",
+          "citations": [
+            "gardnernesi2013"
+          ]
+        },
+        {
+          "title": "Definition upgrade",
+          "learnerActions": [
+            "Read a set of informal definitions ('Osmosis is when water moves')",
+            "Rewrite each as term + class + distinguishing features",
+            "Add an example only where it would earn credit",
+            "Check accuracy against a subject glossary with a partner"
+          ],
+          "intendedInsight": "Formal definitions are compact and precise, and are often exactly what the marks are for.",
+          "rationale": "Uses the definitional pattern described in rhetorical analyses of scientific and technical English (Trimble, 1985).",
+          "citations": [
+            "trimble1985"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Writing a mini-essay with an introduction and conclusion.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Restated questions, background sentences and time overruns on short items.",
+          "response": "Show marking schemes and practise first-sentence answers. Do not present this as 'style does not matter': accuracy and terminology still carry the marks.",
+          "reteachPrerequisiteId": "exm.question-analysis"
+        },
+        {
+          "pattern": "Identifying without explaining in 'explain' questions.",
+          "kind": "conceptual",
+          "revealedBy": "Answers that name a factor but give no reason or mechanism.",
+          "response": "Contrast 'state' and 'explain' answers to the same item and teach extensions such as 'because ...' and 'which means that ...'.",
+          "reteachPrerequisiteId": "fun.explaining"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to answer 'Define X and explain why it matters (4 marks)' on a familiar topic.",
+        "strongResponse": "An accurate formal definition and two developed points, with no padding.",
+        "partialResponse": "An accurate definition with an undeveloped explanation, or a padded answer.",
+        "gapResponse": "A vague or circular definition."
+      },
+      "contextNotes": "Foundation: highly relevant because subject modules often use short-answer tests; link closely to content teaching. In-sessional undergraduate: support for first-year science, health and social science assessments, ideally agreeing with subject tutors what counts as a full answer.",
+      "citations": [
+        "gardnernesi2013",
+        "trimble1985"
+      ],
+      "reviewNotes": [
+        "There is little EAP genre research on short-answer responses as such; this guidance extrapolates from work on definitions and on knowledge-display genres."
+      ]
+    },
+    {
+      "topicId": "ges.critique",
+      "summary": "Gardner and Nesi (2013) place the Critique family among genres whose purpose is developing independent reasoning, and Swales and Feak (2012) treat critiques as a core graduate writing task in which evaluation must be grounded and appropriately mitigated. Wallace and Wray (2016) offer critical questions about a text's claims, evidence and contribution that learners can turn into explicit evaluation criteria. Teach the balance between summary and evaluation explicitly, because briefs vary (some want very little summary), and check the local brief for required criteria or headings.",
+      "activities": [
+        {
+          "title": "Criteria before reading",
+          "learnerActions": [
+            "Before reading, agree evaluation criteria suited to the text type (empirical, review or theoretical)",
+            "Read and note evidence for each criterion with page references",
+            "Classify each note as a strength or limitation, and as minor or major",
+            "Write one judgement sentence that weighs the major points"
+          ],
+          "intendedInsight": "Critique is criterion-based judgement, not personal agreement.",
+          "rationale": "Operationalises the critical-questions approach of Wallace and Wray (2016).",
+          "citations": [
+            "wallacewray2016"
+          ]
+        },
+        {
+          "title": "Mitigating criticism",
+          "learnerActions": [
+            "Read a set of blunt evaluative sentences ('The study is useless because the sample is small')",
+            "Rewrite them using hedging, praise–criticism pairs and specific consequences for the claims",
+            "Compare your versions with evaluative sentences in published reviews"
+          ],
+          "intendedInsight": "Academic critique is specific, reasoned and courteous, and mitigation adds to rather than weakens the critic's credibility.",
+          "rationale": "Swales and Feak (2012) address evaluative language in critiques, and Hyland's (2004) analysis of reviews shows how academic critics typically temper criticism.",
+          "citations": [
+            "swalesfeak2012",
+            "hyland2004disciplinary"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Being critical means finding faults.'",
+          "kind": "conceptual",
+          "revealedBy": "Reviews that list only weaknesses, often in a dismissive tone.",
+          "response": "Show that evaluation weighs strengths and limitations relative to the text's purpose, and require at least one justified strength.",
+          "reteachPrerequisiteId": "sta.evaluating-others-language"
+        },
+        {
+          "pattern": "Reluctance to criticise published experts.",
+          "kind": "prior-schooling",
+          "revealedBy": "Summary-only reviews, or evaluation limited to praise.",
+          "response": "Frame critique as a disciplinary expectation and a form of respectful engagement, and model criterion-based, mitigated criticism. Avoid attributing the reluctance to a national 'culture'; it usually reflects prior assessment expectations.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Summary takes up most of the word count.",
+          "kind": "developmental",
+          "revealedBy": "Evaluation confined to a final short paragraph.",
+          "response": "Set word budgets from the brief and practise 100-word summaries of the same article.",
+          "reteachPrerequisiteId": "ges.summary-response"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a 150-word critique paragraph and ask them to identify its criterion, its evidence and its judgement.",
+        "strongResponse": "Identifies all three and comments on whether the evidence justifies the judgement.",
+        "partialResponse": "Identifies the judgement but not the criterion or evidence.",
+        "gapResponse": "Treats the paragraph as a summary."
+      },
+      "contextNotes": "Pre-sessional: often the first source-evaluation genre; use accessible articles and shared criteria. In-sessional undergraduate: article critiques are common in psychology, health, education and the social sciences, and criteria are disciplinary (for example validity in psychology). Taught postgraduate: critiques of empirical studies prepare for literature reviews and dissertation methodology, and expectations of methodological critique rise.",
+      "citations": [
+        "swalesfeak2012",
+        "gardnernesi2013",
+        "wallacewray2016",
+        "hyland2004disciplinary"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "ges.book-review",
+      "summary": "Hyland's (2004) study of published book reviews shows that reviewers commonly temper criticism, for example by pairing it with praise or hedging it, and that evaluative practices differ across disciplines. Swales and Feak (2012) treat reviews as a form of critique with particular audience demands. For student assignments, clarify whether the task is a disciplinary book review or a book-length critique; for doctoral researchers a published book review is a common first publication and an introduction to their field's review practices, so analysing recent reviews in a target journal is the best preparation.",
+      "activities": [
+        {
+          "title": "Anatomy of a review",
+          "learnerActions": [
+            "Read two reviews from a journal in your field",
+            "Label the stages: bibliographic details, context, description, evaluation, recommendation",
+            "Highlight praise in one colour and criticism in another, and note how criticism is softened",
+            "Write a short style sheet for reviews in that journal"
+          ],
+          "intendedInsight": "Reviews have recognisable stages and evaluative conventions that vary by venue and discipline.",
+          "rationale": "Learner-led analysis that tests Hyland's (2004) observations about praise and criticism in learners' own fields.",
+          "citations": [
+            "hyland2004disciplinary"
+          ]
+        },
+        {
+          "title": "Writing for readers",
+          "learnerActions": [
+            "Identify two possible readerships for a book (for example specialists and new postgraduates)",
+            "Write a short recommendation for each",
+            "Discuss how evaluation and terminology change between the two"
+          ],
+          "intendedInsight": "Reviews are written for readers deciding whether to read; evaluation is tied to readership.",
+          "rationale": "Applies the audience orientation that Swales and Feak (2012) emphasise in evaluative genres.",
+          "citations": [
+            "swalesfeak2012"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Chapter-by-chapter summary with a brief evaluation at the end.",
+          "kind": "developmental",
+          "revealedBy": "Description dominates and evaluation is confined to the last paragraph.",
+          "response": "Require evaluative comment within descriptive sections and set a word budget for description.",
+          "reteachPrerequisiteId": "ges.critique"
+        },
+        {
+          "pattern": "A tone that is either harsh or wholly deferential.",
+          "kind": "developmental",
+          "revealedBy": "Unmitigated criticism, or unreserved praise with no limitations noted.",
+          "response": "Compare hedged and unhedged versions of the same evaluation and analyse how published reviewers in the field calibrate theirs.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask learners to write two sentences evaluating a book they know, one on a strength and one on a limitation, for a stated reader.",
+        "strongResponse": "Specific, mitigated and oriented to the stated reader.",
+        "partialResponse": "Specific but unmitigated, or mitigated but vague.",
+        "gapResponse": "Expresses personal liking or disliking."
+      },
+      "contextNotes": "In-sessional undergraduate: book reviews occur mainly in the humanities and some social sciences, often as a first exercise in a published evaluative genre. Taught postgraduate: reviews of key texts on programme reading lists. PGR: published book reviews are a common early publication, and venue conventions and editors' expectations are the priority.",
+      "citations": [
+        "hyland2004disciplinary",
+        "swalesfeak2012"
+      ],
+      "reviewNotes": [
+        "Tagged EGAP because its features are shared across fields, but book reviews are concentrated in the humanities and social sciences and rare in science and engineering coursework; designers may treat it as ESAP for those programmes."
+      ]
+    },
+    {
+      "topicId": "ges.reflective-writing",
+      "summary": "Reflective writing draws on Schön's (1983) account of the reflective practitioner and is commonly scaffolded with models such as Gibbs's (1988) reflective cycle. Moon (2004) distinguishes descriptive writing from progressively deeper levels of reflection, which helps make markers' expectations explicit. Ryan (2011) argues that reflective writing must be taught as an academic genre with specific linguistic resources, for example the shift from past-tense reporting to present-tense reasoning and future-oriented reconstruction, rather than assumed to come naturally. Because reflective conventions range from personal journals to formal assignments with citations, the brief and local exemplars must guide the form.",
+      "activities": [
+        {
+          "title": "Depth ladder",
+          "learnerActions": [
+            "Read four extracts reflecting on the same incident at different depths",
+            "Rank them and agree what distinguishes each level",
+            "Highlight language that signals analysis ('this may have been because', 'in light of')",
+            "Rewrite a descriptive extract so that it reaches the next level"
+          ],
+          "intendedInsight": "Depth comes from interpretation, questioning and links to theory, not from more detail or stronger emotion.",
+          "rationale": "Based on Moon's (2004) distinction between descriptive writing and deeper levels of reflection; it makes tacit criteria visible.",
+          "citations": [
+            "moon2004"
+          ]
+        },
+        {
+          "title": "Mapping reflective language by stage",
+          "learnerActions": [
+            "Analyse a model reflection and label its reporting and responding, relating, reasoning and reconstructing stages",
+            "Note tense, pronoun and modal choices in each stage",
+            "Draft your own reflection stage by stage with a language bank",
+            "Peer-check that each stage does its job"
+          ],
+          "intendedInsight": "Each reflective stage has typical language; reflection is a learnable academic genre.",
+          "rationale": "Applies Ryan's (2011) social semiotic account of reflective writing and its 4Rs scaffold.",
+          "citations": [
+            "ryan2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Reflection is just describing what happened and how I felt.'",
+          "kind": "conceptual",
+          "revealedBy": "Narrative-dominated texts with little analysis; feelings reported without interpretation.",
+          "response": "Use word budgets per stage and the depth ladder. Do not respond by discouraging feelings altogether: feelings are data to be analysed.",
+          "reteachPrerequisiteId": "crt.description-analysis-evaluation"
+        },
+        {
+          "pattern": "Discomfort with the first person and with personal disclosure in assessed writing.",
+          "kind": "prior-schooling",
+          "revealedBy": "Impersonal reflections that avoid 'I', or, conversely, disclosure beyond what the task needs.",
+          "response": "Explain that the first person is expected here and that 'never use I' is not a rule of academic writing; discuss what to disclose, and how to protect privacy and confidentiality.",
+          "reteachPrerequisiteId": "sta.self-mention"
+        },
+        {
+          "pattern": "Mechanical use of a reflective cycle as a set of headings.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Six headings with one short paragraph each and a superficial action plan.",
+          "response": "Present models as thinking tools, compare formulaic and integrated reflections, and check the brief on whether headings are expected.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to spend ten minutes reflecting in writing on a recent learning experience in the course.",
+        "strongResponse": "Brief description, analysis with reasons, a link to a concept or source, and a specific future action.",
+        "partialResponse": "Some analysis but no link to theory, or a vague action ('I will work harder').",
+        "gapResponse": "Narrative and feelings only."
+      },
+      "contextNotes": "Foundation and pre-sessional: reflective learning logs and reflections on progress build the genre's language. In-sessional undergraduate: reflective assignments in education, nursing, business and engineering placements, where models and criteria differ. Taught postgraduate: reflective components of professional master's programmes usually require explicit links to theory; see also the professional practice portfolio.",
+      "citations": [
+        "gibbs1988",
+        "moon2004",
+        "ryan2011",
+        "schon1983"
+      ],
+      "reviewNotes": [
+        "Overlaps with dhl.reflective-practice (health-specific) and lrn.reflective-logs; this topic covers the general assessed genre."
+      ]
+    },
+    {
+      "topicId": "ges.annotated-bibliography",
+      "summary": "Horowitz (1986) found annotated bibliographies among the writing tasks university teachers actually set, and Gardner and Nesi (2013) place them in the Literature Survey family, whose purpose is building research skills. The genre is a useful scaffold because it isolates three skills (summarising, evaluating and judging relevance) that literature reviews later integrate. Briefs vary considerably (descriptive or evaluative annotations, word limits, ordering), so analyse the local brief first. Johns and Mayes (1990) found that less proficient summarisers relied more heavily on copying from the source, a risk that is acute when annotations are written from abstracts.",
+      "activities": [
+        {
+          "title": "Three-layer annotation",
+          "learnerActions": [
+            "Read an article and write one sentence on its purpose and approach and two on its findings",
+            "Add one or two evaluative sentences that use explicit criteria",
+            "Add one sentence on relevance to your project",
+            "Colour-code the three layers and check that the evaluation is not disguised description"
+          ],
+          "intendedInsight": "Annotations combine summary, evaluation and relevance, each with its own language.",
+          "rationale": "Separating the layers mirrors the main variations in annotated-bibliography briefs and prepares for later synthesis in literature reviews (Gardner & Nesi, 2013).",
+          "citations": [
+            "gardnernesi2013"
+          ]
+        },
+        {
+          "title": "An abstract is not an annotation",
+          "learnerActions": [
+            "Compare a source's abstract with a model annotation of the same source",
+            "Identify what the annotation adds and what it leaves out",
+            "Rewrite an annotation that was copied from an abstract"
+          ],
+          "intendedInsight": "Annotations are written for a different purpose and reader from an abstract.",
+          "rationale": "Targets the reliance on source wording that Johns and Mayes (1990) observed in less proficient summary writers.",
+          "citations": [
+            "johnsmayes1990"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Annotations that paraphrase the abstract.",
+          "kind": "developmental",
+          "revealedBy": "Close textual similarity to abstracts; no evaluation or relevance comment.",
+          "response": "Ask for annotations written from notes on the full text, and show that evaluation and relevance require the writer's own judgement.",
+          "reteachPrerequisiteId": "src.summarising-text"
+        },
+        {
+          "pattern": "Evaluation based on surface features ('a good article because it is recent and long').",
+          "kind": "developmental",
+          "revealedBy": "Generic evaluative comments that could apply to any source.",
+          "response": "Provide evaluation criteria tied to source type, such as sample and design for empirical studies or scope and currency for reviews.",
+          "reteachPrerequisiteId": "inf.source-evaluation"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners an annotation containing summary, evaluation and relevance sentences and ask them to label each sentence's function.",
+        "strongResponse": "Labels every sentence correctly and comments on the adequacy of the evaluation.",
+        "partialResponse": "Identifies the summary but confuses evaluation with relevance.",
+        "gapResponse": "Cannot distinguish summary from evaluation."
+      },
+      "contextNotes": "Foundation and pre-sessional: annotated bibliographies scaffold extended projects. In-sessional undergraduate: often a preparatory assessment before a dissertation or major essay. Taught postgraduate: used as a staged assessment before literature reviews, with higher expectations of evaluation.",
+      "citations": [
+        "horowitz1986",
+        "gardnernesi2013",
+        "johnsmayes1990"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "ges.literature-review-assignment",
+      "summary": "Feak and Swales (2009) present the literature review as telling a research story, with attention to organisation, citation choices and the writer's stance towards the literature. Wallace and Wray (2016) provide a framework for critical engagement with literature that makes evaluation explicit. Coursework literature reviews belong to Gardner and Nesi's (2013) Literature Survey family, whose purpose is building research skills; they differ from review sections in research articles and theses (res.literature-review) because the gap often serves a coursework question rather than justifying the writer's own study. Emphasise synthesis over serial summary, and analyse local exemplars, because expectations range from narrative reviews to systematic-style reviews with documented searches.",
+      "activities": [
+        {
+          "title": "From list to synthesis",
+          "learnerActions": [
+            "Read a source-by-source review extract",
+            "Use a synthesis matrix to regroup its sources by theme",
+            "Rewrite one paragraph led by a thematic topic sentence in your own voice, with sources in dialogue",
+            "Compare the two versions for voice and evaluation"
+          ],
+          "intendedInsight": "Reviews are organised by ideas, and sources serve the writer's points.",
+          "rationale": "Targets the serial-summary pattern and the questions of organisation and stance discussed by Feak and Swales (2009).",
+          "citations": [
+            "feakswales2009litrev"
+          ]
+        },
+        {
+          "title": "Critical questions for the review",
+          "learnerActions": [
+            "For your review question, list what is known, how it is known and what is disputed",
+            "Apply critical questions about claims, evidence and warrants to three key sources",
+            "Write a paragraph that evaluates the evidence base for one theme"
+          ],
+          "intendedInsight": "A literature review evaluates the evidence base rather than simply reporting it.",
+          "rationale": "Uses Wallace and Wray's (2016) critical reading framework as a writing scaffold.",
+          "citations": [
+            "wallacewray2016"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Source-by-source summaries ('Smith (2019) found ... Jones (2020) argued ...').",
+          "kind": "developmental",
+          "revealedBy": "Paragraphs beginning with author names; few comparative or evaluative statements.",
+          "response": "Require thematic topic sentences in the writer's voice and use synthesis matrices. Do not ban integral citation; teach when author prominence is rhetorically useful.",
+          "reteachPrerequisiteId": "syn.synthesis-paragraphs"
+        },
+        {
+          "pattern": "Unsupported or absolute gap claims ('no research has been done on this').",
+          "kind": "developmental",
+          "revealedBy": "Unhedged gap statements, or gaps unrelated to the literature reviewed.",
+          "response": "Teach hedged gap language and require that every gap claim follows from the reviewed literature.",
+          "reteachPrerequisiteId": "syn.gaps-tensions"
+        },
+        {
+          "pattern": "Uncertainty about what to include and how much is enough.",
+          "kind": "conceptual",
+          "revealedBy": "Over-inclusive reviews that cover everything found; anxiety about missing sources.",
+          "response": "Agree scope criteria tied to the question and keep a search record; explain that coverage depends on the review's purpose.",
+          "reteachPrerequisiteId": "rdc.literature-mapping"
+        }
+      ],
+      "diagnostic": {
+        "task": "Show two paragraphs reviewing the same three sources, one serial and one synthesised, and ask which is stronger and why.",
+        "strongResponse": "Prefers the synthesised paragraph and explains its use of voice, comparison and evaluation.",
+        "partialResponse": "Prefers the synthesised paragraph but cannot say why.",
+        "gapResponse": "Prefers the serial version as clearer."
+      },
+      "contextNotes": "Pre-sessional: short literature reviews within extended projects, often with provided sources. In-sessional undergraduate: reviews in second and final years, frequently preparing for dissertations. Taught postgraduate: stand-alone reviews and dissertation review chapters, with rising expectations of critical evaluation and justified scope.",
+      "citations": [
+        "feakswales2009litrev",
+        "wallacewray2016",
+        "gardnernesi2013"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "ges.summary-response",
+      "summary": "Horowitz (1986) found summary of, and reaction to, reading among the tasks university teachers set, and Hirvela (2004) argues that connecting reading and writing, with summary and response at its centre, is fundamental to L2 writing instruction. Leki and Carson (1997) contrasted EAP writing that could draw on personal knowledge with content-course writing that held students responsible for source texts; summary–response builds that text-responsible stance. Grabe and Zhang (2013) argue that reading and writing should be taught together, with explicit attention to summarising and responding.",
+      "activities": [
+        {
+          "title": "Two-colour paper",
+          "learnerActions": [
+            "Read a model summary–response",
+            "Highlight summary sentences in one colour and response sentences in another",
+            "Note the signal phrases and reporting verbs at the boundary",
+            "Find any sentence that mixes the two and rewrite it"
+          ],
+          "intendedInsight": "Readers need to know whose idea is whose, and the boundary is marked linguistically.",
+          "rationale": "Makes visible the text-responsible stance described by Leki and Carson (1997).",
+          "citations": [
+            "lekicarson1997"
+          ]
+        },
+        {
+          "title": "Respond to a claim, not a topic",
+          "learnerActions": [
+            "Identify the source's three main claims",
+            "Choose one and draft agree, disagree and qualify responses, each with a reason",
+            "Select the strongest and develop it with evidence"
+          ],
+          "intendedInsight": "A response must engage the source's argument rather than the general topic.",
+          "rationale": "Applies the reading–writing integration Hirvela (2004) advocates.",
+          "citations": [
+            "hirvela2004"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Evaluation leaking into the summary ('The author wrongly claims ...').",
+          "kind": "developmental",
+          "revealedBy": "Loaded reporting verbs and evaluative adjectives in the summary section.",
+          "response": "Contrast neutral and evaluative reporting verbs and reserve evaluation for the response.",
+          "reteachPrerequisiteId": "src.voice-boundaries"
+        },
+        {
+          "pattern": "The response addresses the general topic rather than the text.",
+          "kind": "conceptual",
+          "revealedBy": "Opinion essays only loosely connected to the source's argument.",
+          "response": "Require the response to quote or paraphrase the specific claim it answers.",
+          "reteachPrerequisiteId": "rdc.critical-response"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask learners to write a three-sentence summary and a two-sentence response to a short argumentative paragraph.",
+        "strongResponse": "An accurate, attributed summary and a response that engages a specific claim with a reason.",
+        "partialResponse": "An accurate summary followed by a generic response.",
+        "gapResponse": "Copies the source, or gives an opinion without a summary."
+      },
+      "contextNotes": "Foundation: a key entry genre into source-based writing. Pre-sessional: frequent in early weeks and closely related to integrated reading-into-writing tasks. In-sessional undergraduate: appears as reading responses and seminar papers, particularly in the humanities and social sciences.",
+      "citations": [
+        "hirvela2004",
+        "horowitz1986",
+        "lekicarson1997",
+        "grabezhang2013"
+      ],
+      "reviewNotes": [
+        "The summary–response paper is mainly a North American composition genre; in UK contexts it is more often an EAP or foundation teaching genre than a departmental assessment."
+      ]
+    }
+  ],
+  "proposedReferences": [
+    {
+      "key": "horowitz1986exam",
+      "apa": "Horowitz, D. (1986). Essay examination prompts and the teaching of academic writing. *English for Specific Purposes, 5*(2), 107–120.",
+      "note": "High confidence in author, year, title and journal; moderate confidence in volume, issue and page range, which should be checked. No DOI given because I am not certain of it. Cited for the general claim that exam essay prompts ask students to select and organise known content in response to specific demands."
+    }
+  ],
+  "authorNotes": [
+    "ess.essay-types (Essay Construction) overlaps substantially with the GES essay genres (argumentative, discussion, compare-and-contrast, explanation, problem–solution). Suggest scoping ess.essay-types as a brief conceptual overview that these genre topics may take as a soft prerequisite, or retiring it in favour of ges.genre-families.",
+    "ges.genre-concept overlaps with acu.discourse-communities. I have not linked them to avoid a potential cross-strand cycle; whichever strand links them should choose one direction (suggested: acu.discourse-communities as a soft prerequisite of ges.genre-concept).",
+    "ges.exam-essay overlaps with exm.timed-writing; the latter should remain the generic procedure and the former the genre, which is how they are linked here.",
+    "ges.literature-review-assignment and res.literature-review are appropriately split (coursework versus research writing); the research strand already links res.literature-review to this topic, which is the right direction.",
+    "ges.reflective-writing overlaps with dhl.reflective-practice and lrn.reflective-logs; dhl.reflective-practice already takes it as a prerequisite. lrn.reflective-logs is not linked to reflective writing to avoid presuming the learning strand's direction.",
+    "ges.summary-response is largely a North American composition genre; in UK contexts it is mainly an EAP or foundation teaching genre. Consider noting this in the skeleton scope.",
+    "The compare-and-contrast, explanation and problem–solution essays are partly 'cognitive genres' (in Bruce's sense) rather than distinct social genres; they are valid EAP teaching genres but departments rarely name them. A future revision could fold them into one topic on essay rhetorical patterns."
+  ]
+}

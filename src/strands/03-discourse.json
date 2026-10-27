@@ -1,0 +1,1799 @@
+{
+  "group": "03-discourse",
+  "domains": [
+    {
+      "code": "COH",
+      "strand": "Academic Discourse",
+      "name": "Cohesion & Coherence",
+      "summary": "This domain covers the resources that make a text hang together for its reader: cohesive ties (reference, conjunction, lexical cohesion) and the information-structuring choices (given–new order, thematic progression, encapsulation, text patterns) that make a sequence of sentences read as a purposeful whole. It treats cohesion as a means to coherence rather than a proxy for it, countering the connector-heavy, checklist approach that learner-corpus findings and test preparation tend to reinforce. Topics move from sentence-to-sentence linking towards text-level signalling and the reader-oriented expectations of English-medium academic writing, including spoken signposting in lectures and presentations.",
+      "learnerSummary": "You will learn how writers and speakers help their audience follow their thinking — by linking sentences, keeping key terms consistent, putting familiar information first and signalling where a text is going — and why adding more linking words does not by itself make writing clear.",
+      "stageEmphasis": {
+        "foundation": "Foundation programmes concentrate on basic connectors, pronoun and noun reference, paragraph-level patterns and signposting in lectures, using short model texts and subject textbooks.",
+        "pre-sessional": "Pre-sessional courses move learners from connector lists to information flow, encapsulation and reverse outlining for coherence in extended source-based writing.",
+        "in-sessional-ug": "Undergraduate in-sessional work diagnoses coherence problems in students' own assignments, especially reliance on connectors, unclear reference and weak transitions between paragraphs.",
+        "in-sessional-pgt": "Taught postgraduate support focuses on dissertation-length coherence, terminological consistency and transitions between sections, and on using text patterns to read efficiently.",
+        "pgr": "Doctoral writers refine flow in dense prose (thematic progression, encapsulation) and manage metatext and terminology across a thesis or article."
+      },
+      "keyReferences": [
+        "hallidayhasan1976",
+        "hoey2001",
+        "danes1974",
+        "flowerdew2003signalling",
+        "crossleymcnamara2012",
+        "swalesfeak2012"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "coh.cohesion-vs-coherence",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Cohesion versus coherence",
+      "description": "Distinguish cohesion — the explicit lexical and grammatical ties between sentences (reference, conjunction, substitution, ellipsis, lexical relations) — from coherence, the reader's sense that a text has a consistent topic, purpose and logical development. The distinction lets learners see that linking devices cannot rescue a text whose ideas are not ordered or connected, and that coherent texts often leave some relations implicit.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies the cohesive ties linking a pair of sentences and names their type (reference, conjunction, lexical)",
+        "Explains why a passage with many connectors can still be hard to follow, locating the missing logical or topical link",
+        "Distinguishes a cohesion problem (an ambiguous 'this') from a coherence problem (sentences that do not serve one point) in a sample text",
+        "Revises an incoherent paragraph by reordering or supplying a missing step of reasoning rather than by inserting connectors"
+      ],
+      "assessmentPrompt": "Give two versions of a short paragraph: one dense with connectors but containing an unstated logical leap, and one with few connectors but clear topical and logical progression. Ask which is easier to follow and why. A secure learner prefers the second and locates the leap in the first; an insecure learner equates more connectors with better organisation.",
+      "citations": [
+        "hallidayhasan1976",
+        "crossleymcnamara2012",
+        "hoey2001"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B1+",
+            "B2",
+            "B2+"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "contribution": "core"
+        }
+      ]
+    },
+    {
+      "id": "coh.lexical-cohesion",
+      "type": "LINGUISTIC",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Lexical cohesion and reference chains",
+      "description": "Keep a topic in view across sentences through repetition, synonymy, hyponymy and superordinate or general nouns, combined with pronoun and article reference, so that the reader can track each participant through a text. Controlled reference chains are a major source of cohesion in academic prose, which repeats key nouns more than learners trained to 'avoid repetition' tend to expect.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Traces the reference chain for a key participant through an academic paragraph, listing each realisation (repetition, pronoun, synonym, superordinate)",
+        "Repeats a key noun where a pronoun would have two possible antecedents",
+        "Selects a superordinate or general noun (these organisms, such measures) to refer back to a set of previously named items",
+        "Shifts from indefinite or zero article to 'the' for second mention of a specific referent",
+        "Revises a passage in which a synonym substitution implies a new referent"
+      ],
+      "assessmentPrompt": "Give a 120-word paragraph in which 'it' and 'they' could each refer to two antecedents and in which a synonym silently shifts the referent (participants → students → people). Ask the learner to mark each chain in a different colour and repair any ambiguity. Check whether both problems are found and fixed with repetition or a precise general noun rather than another pronoun.",
+      "citations": [
+        "hallidayhasan1976",
+        "thompson2014"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "coh.linking-adverbials",
+      "type": "LINGUISTIC",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Linking adverbials and connectors",
+      "description": "Use additive, adversative, causal, sequential and summative linking adverbials (in addition, however, therefore, first, overall) to make relations between sentences explicit where the reader needs them, with expert-like frequency, placement and punctuation. Learner corpora show both overuse of a small set of sentence-initial connectors and mismatches between connector and relation, so the aim is selective rather than maximal use.",
+      "cefrStart": "B1",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Classifies common linking adverbials by the relation they signal (addition, contrast/concession, result, sequence, summation, apposition)",
+        "Uses a linking adverbial only where the relation would otherwise be unclear, rather than at the start of most sentences",
+        "Places linking adverbials in initial and medial positions and punctuates them correctly between independent clauses",
+        "Distinguishes linking adverbials from coordinators and subordinators when combining clauses",
+        "Replaces speech-like connectors (Also, So, Besides) with register-appropriate choices in formal writing"
+      ],
+      "assessmentPrompt": "Ask the learner to write a 150-word paragraph explaining a cause and its consequences from a short set of notes. Count linking adverbials per sentence, check each one against the actual relation, and note any comma splices with 'however'. A secure learner uses two or three well-chosen connectors in varied positions; an insecure one opens nearly every sentence with a connector or mismatches connector and relation.",
+      "citations": [
+        "biber1999lgswe",
+        "granger1998",
+        "hinkel2002",
+        "grangertyson1996"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B1",
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "coh.connector-precision",
+      "type": "LINGUISTIC",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Precise logical relations",
+      "description": "Choose between connectors with related but distinct meanings and grammar — however, whereas, although, in contrast, on the contrary, nevertheless; therefore, thus, hence, consequently — according to the exact relation (contrast, concession or correction; inference or consequence) and the clause structure each requires. Precision here distinguishes argument that is clear from text that merely sounds connected.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Distinguishes contrast (whereas, in contrast), concession (although, nevertheless) and correction (on the contrary) and uses each appropriately",
+        "Constructs and punctuates subordinate clauses (although, whereas, while) and linking adverbials (however, nevertheless) correctly",
+        "Chooses among therefore, thus, hence and consequently according to whether the relation is inference or real-world consequence and according to register",
+        "Explains how replacing one connector with another in a sample sentence changes the claim made",
+        "Removes connectors that assert a relation the content does not support, such as 'therefore' after unrelated premises"
+      ],
+      "assessmentPrompt": "Give five sentence pairs with the connector gapped, including one where 'on the contrary' and 'in contrast' compete and one where 'although' requires combining the pair into a single sentence. Ask for the best choice and a one-line justification. Check that the justification names the relation rather than 'it sounds right', and that subordinators are integrated grammatically.",
+      "citations": [
+        "celcemurcia1999",
+        "biber1999lgswe",
+        "granger1998"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "coh.given-new",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Given–new information structure",
+      "description": "Understand and apply the tendency in English for clauses to begin with information the reader already has (given) and to end with new or newsworthy information, using choices such as voice, a different grammatical subject or a summarising noun phrase to achieve this. Respecting given–new order is a main reason expert prose reads smoothly with relatively few connectors.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies given and new information in each clause of a short academic paragraph, relative to the preceding sentence",
+        "Rewrites a clause so that information linked to the previous sentence comes first, using passive voice, a different subject or a summarising noun phrase",
+        "Explains why the choice between active and passive in a given sentence depends on the preceding context rather than on a rule about objectivity",
+        "Places long, heavy or newsworthy elements towards the end of the clause"
+      ],
+      "assessmentPrompt": "Give a three-sentence passage in which the second sentence begins with new information and ends with what was just mentioned. Ask the learner to improve the flow without changing meaning. A secure learner reorders the clause, often with a passive or a summarising noun subject, and justifies the change by pointing to the previous sentence.",
+      "citations": [
+        "hallidaymatthiessen2014",
+        "thompson2014",
+        "swalesfeak2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.thematic-development",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "coh.thematic-progression",
+      "type": "PROCEDURAL",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Thematic progression",
+      "description": "Manage the sequence of clause themes across a paragraph using Daneš's patterns — constant theme, linear progression in which the rheme of one clause becomes the next theme, and themes derived from a hypertheme — to move an argument forward while keeping it anchored. The patterns give writers a practical diagnostic for paragraphs that feel either repetitive or disjointed.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies the theme of each sentence in a paragraph and labels the progression pattern",
+        "Diagnoses a disjointed paragraph as one whose themes do not pick up an earlier rheme or the hypertheme",
+        "Rewrites a paragraph to create linear progression, for example by nominalising the previous rheme as the next theme",
+        "Writes a topic sentence whose elements become the derived themes of later sentences",
+        "Varies patterns to avoid a monotonous run of identical themes in extended description"
+      ],
+      "assessmentPrompt": "Ask the learner to underline the theme (everything up to and including the subject) of each sentence in a recent paragraph of their own and to draw an arrow from each theme to the earlier element it picks up. Check whether they find any sentence whose theme links to nothing and can propose a revision that restores a link.",
+      "citations": [
+        "danes1974",
+        "thompson2014",
+        "hallidaymartin1993"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.thematic-development",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "coh.signalling-nouns",
+      "type": "LINGUISTIC",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Encapsulation with signalling nouns",
+      "description": "Use signalling (shell) nouns with a demonstrative or definite determiner — this approach, these findings, such a view, the problem is that — to encapsulate a preceding stretch of text or set up a following one, labelling it as a claim, problem, finding or limitation. Encapsulation links sentences while also categorising, and often evaluating, what has just been said.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Replaces a bare sentence-initial 'This' with 'this + noun' that accurately labels the preceding content",
+        "Chooses a signalling noun whose meaning matches the stretch it encapsulates (finding, claim, assumption, limitation)",
+        "Uses signalling nouns cataphorically to set up following content (The difficulty is that…; Two factors…)",
+        "Recognises the evaluative force of labels such as claim, assertion or misconception and uses them deliberately",
+        "Replaces vague labels (this thing, this issue) with a more precise noun where one is available"
+      ],
+      "assessmentPrompt": "Give a paragraph containing three sentence-initial instances of 'This' with no noun. Ask the learner to add a noun to each. Check the accuracy of each label (not 'this finding' for a hypothesis) and whether the learner can say what each label implies about the writer's stance.",
+      "citations": [
+        "flowerdew2003signalling",
+        "swalesfeak2012",
+        "graycortes2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:ling.vocabulary-range",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "coh.text-patterns",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Text structure patterns",
+      "description": "Recognise and use recurrent text patterns — problem–solution (situation, problem, response, evaluation), general–specific, claim–counterclaim (hypothetical–real) and matching (comparison) — that organise stretches longer than a sentence and set up reader expectations. Knowing these patterns supports efficient reading, because readers can predict what comes next from lexical signals, and gives writers a frame for organising paragraphs and sections.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies the pattern organising an academic passage and labels its elements (for example situation, problem, response, evaluation)",
+        "Locates lexical signals of each element (difficulty, approach, effective, however, in fact) in a text",
+        "Predicts the likely next element of an incomplete passage from its pattern and signals",
+        "Organises a paragraph or short section according to a pattern suited to the task, including a negative evaluation that restarts the cycle where appropriate",
+        "Recognises a claim–counterclaim structure in which a writer reports a view in order to reject or qualify it"
+      ],
+      "assessmentPrompt": "Give a 250-word passage with its final paragraph removed. Ask the learner to identify the pattern, name its elements so far and predict what the missing paragraph will do. Check that the prediction is supported by signals in the text (evaluative adjectives, 'however', problem vocabulary) rather than by topic knowledge alone.",
+      "citations": [
+        "hoey1983",
+        "hoey2001",
+        "carrell1985",
+        "swalesfeak2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.thematic-development",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:rec.read.information-argument",
+          "levels": [
+            "B1+",
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "coh.frame-markers",
+      "type": "LINGUISTIC",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Frame markers and advance organisers",
+      "description": "Use frame markers — sequencing (first, finally), stage labels (to summarise, overall), goal announcements (this essay argues, the aim of this section is) and topic shifts (turning to, with regard to) — to make the organisation of an extended text visible at a density suited to its length and genre. Frame markers are an interactive metadiscourse resource that eases the reader's processing; they should not substitute for content.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Writes an introduction roadmap that previews the line of argument, not just a list of topics, in proportion to the text's length",
+        "Labels stages and marks topic shifts at section boundaries in extended writing",
+        "Distinguishes appropriate metatext in a dissertation chapter from excessive metatext in a short essay",
+        "Replaces procedural metatext (In this paragraph I will talk about…) with propositional signposting (This section shows that…)",
+        "Uses frame markers in published articles to navigate them selectively"
+      ],
+      "assessmentPrompt": "Give a 2,000-word essay brief and ask the learner to write the final two sentences of the introduction. Then ask what would change for a 12,000-word dissertation chapter. Check that the roadmap signals the argument rather than listing topics and that the learner scales the amount of metatext to text length.",
+      "citations": [
+        "hyland2005metadiscourse",
+        "hylandtse2004",
+        "bunton2002"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B1+",
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "coh.paragraph-transitions",
+      "type": "PROCEDURAL",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Transitions between paragraphs and sections",
+      "description": "Link one paragraph or section to the next with bridging sentences or clauses that state how the coming point relates to the previous one — extends, contrasts with, qualifies or applies it — typically by encapsulating the prior point and announcing the new one. Effective transitions make the line of argument visible across units instead of leaving each paragraph as a free-standing block.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Writes paragraph openings that refer back to the previous point and state the new one (While cost explains part of the decline, it does not account for…)",
+        "Identifies the relation between consecutive paragraphs in a reverse outline (extension, contrast, consequence, application)",
+        "Bridges sections with encapsulating noun phrases rather than with bare connectors",
+        "Reorders a sequence of paragraphs whose current order obscures the argument",
+        "Distinguishes a relational transition from a merely additive opening (Another point is…)"
+      ],
+      "assessmentPrompt": "Give the learner the last sentence of one paragraph and the topic of the next, and ask for an opening sentence. Then show a draft whose paragraphs all begin 'Another factor is…' and ask how the sequence could be made to argue. Check that the bridge names the relation and encapsulates the previous point.",
+      "citations": [
+        "swalesfeak2012",
+        "wingate2012argument",
+        "hoey2001"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prag.thematic-development",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "coh.terminological-consistency",
+      "type": "PROCEDURAL",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Terminological consistency",
+      "description": "Keep key technical and conceptual terms constant once introduced, varying wording only where the referent genuinely differs, so that readers do not infer distinctions the writer does not intend. In academic writing a change of term is often read as a change of concept, so the 'elegant variation' rewarded in some other kinds of writing can mislead.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Lists the key terms of their own text and checks that each is used with one meaning and one form throughout",
+        "Defines or glosses a key term on first use and uses that term thereafter",
+        "Distinguishes near-synonyms that are interchangeable in context from those that name distinct constructs in their field",
+        "Signals explicitly when a different term is introduced for a related but distinct concept",
+        "Keeps abbreviations, variable names and labels consistent across text, tables and figures"
+      ],
+      "assessmentPrompt": "Ask the learner to take a 600-word section of their own draft and list every expression used for its two central concepts. Check whether the variants refer to the same thing and whether any variation would lead a reader in the field to assume a different construct; ask the learner to justify any variation they keep.",
+      "citations": [
+        "hallidaymartin1993",
+        "hylandtse2007",
+        "hallidayhasan1976"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:ling.vocabulary-control",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "coh.writer-responsibility",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Reader and writer responsibility",
+      "description": "Understand the expectation, common in English-medium academic writing, that the writer rather than the reader is responsible for making purpose, structure and logical connections explicit, and recognise this as a convention that varies across disciplines, genres and writing traditions rather than a universal standard of good writing. The concept helps learners interpret feedback such as 'unclear' or 'make the link explicit' and decide how much to spell out for a given reader.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Explains the reader/writer responsibility distinction and what it implies for explicit thesis statements, topic sentences and links",
+        "Identifies points in their own draft where a reader would have to infer an unstated connection, and states it",
+        "Adjusts explicitness for different readers (expert examiner, non-specialist, peer)",
+        "Discusses the concept critically, recognising variation within English and the risk of stereotyping other writing traditions"
+      ],
+      "assessmentPrompt": "Give a paragraph whose main claim appears only implicitly in its last sentence and whose evidence-to-claim links are unstated. Ask how a UK marker might respond and what the learner would change, then ask whether the original could work well in another context. A strong answer revises for explicitness while recognising that the original is not illogical.",
+      "citations": [
+        "hinds1987",
+        "connor2004",
+        "kubotalehner2004"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:plu.pluricultural-repertoire",
+          "levels": [
+            "B2",
+            "B2+"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "coh.spoken-signposting",
+      "type": "LINGUISTIC",
+      "strand": "Academic Discourse",
+      "domain": "Cohesion & Coherence",
+      "name": "Signposting in spoken academic discourse",
+      "description": "Use and recognise macro-markers (Let's move on to…, What I want to focus on today is…) and micro-markers (so, now, right) together with pausing and intonation to organise spoken academic discourse in lectures, presentations and seminars. Because listeners cannot scan back, explicit structural signalling carries more of the organisational load in speech than in writing.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies macro-markers in a recorded lecture and uses them to reconstruct its structure in notes",
+        "Distinguishes structuring markers from markers that flag importance or relevance",
+        "Uses macro-markers to preview, move between and summarise the sections of a short presentation",
+        "Combines verbal markers with a pause or change of pitch at section boundaries",
+        "Uses spoken rather than written-style connectors (So, Now, The next thing is rather than Furthermore, Moreover) when speaking"
+      ],
+      "assessmentPrompt": "Play a three- to four-minute lecture extract and ask the learner to note each point where the speaker changes topic and the words that signalled it. Then ask for a one-minute spoken explanation of a process using at least two macro-markers. Check accurate identification of boundaries and natural spoken markers in production.",
+      "citations": [
+        "chaudronrichards1986",
+        "thompson2003lectures",
+        "biber2004bundles",
+        "young1994"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.oral.live-audience",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.oral.addressing-audiences",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "ielts:sp.fluency-coherence",
+          "contribution": "component"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "topicId": "coh.lexical-cohesion",
+      "prerequisiteId": "coh.cohesion-vs-coherence",
+      "strength": "soft",
+      "reason": "Knowing that cohesive ties serve the reader's tracking of topics frames lexical chains as a coherence tool rather than a vocabulary exercise"
+    },
+    {
+      "topicId": "coh.lexical-cohesion",
+      "prerequisiteId": "grm.reference-pronouns",
+      "strength": "soft",
+      "reason": "Reference chains interleave pronoun and demonstrative reference with lexical repetition, so unambiguous pronoun use is part of building a chain"
+    },
+    {
+      "topicId": "coh.lexical-cohesion",
+      "prerequisiteId": "grm.articles",
+      "strength": "soft",
+      "reason": "Second mention of a specific referent is signalled by the shift to 'the', which is how many lexical chains are marked"
+    },
+    {
+      "topicId": "coh.linking-adverbials",
+      "prerequisiteId": "coh.cohesion-vs-coherence",
+      "strength": "soft",
+      "reason": "Understanding that connectors signal but do not create logical relations is the basis for selective rather than maximal connector use"
+    },
+    {
+      "topicId": "coh.linking-adverbials",
+      "prerequisiteId": "sen.sentence-types",
+      "strength": "soft",
+      "reason": "Using linking adverbials correctly depends on recognising independent clauses and how they are combined, as distinct from coordination and subordination"
+    },
+    {
+      "topicId": "coh.connector-precision",
+      "prerequisiteId": "coh.linking-adverbials",
+      "strength": "hard",
+      "reason": "Fine distinctions among contrastive and resultative connectors presuppose control of the basic semantic categories of linking adverbials"
+    },
+    {
+      "topicId": "coh.connector-precision",
+      "prerequisiteId": "grm.subordination",
+      "strength": "hard",
+      "reason": "Choosing between although/whereas and however/nevertheless requires control of subordinate clause structure as well as meaning"
+    },
+    {
+      "topicId": "coh.given-new",
+      "prerequisiteId": "grm.clause-elements",
+      "strength": "hard",
+      "reason": "Placing given information first requires identifying and manipulating subject, verb and adverbial positions in the clause"
+    },
+    {
+      "topicId": "coh.given-new",
+      "prerequisiteId": "grm.passive-voice",
+      "strength": "soft",
+      "reason": "The passive is one of the main resources for moving given information into subject position, so control of its form makes the information-structure choice available"
+    },
+    {
+      "topicId": "coh.thematic-progression",
+      "prerequisiteId": "coh.given-new",
+      "strength": "hard",
+      "reason": "Thematic progression patterns describe how successive clause starting points pick up given information, so the given–new principle must be understood first"
+    },
+    {
+      "topicId": "coh.thematic-progression",
+      "prerequisiteId": "coh.lexical-cohesion",
+      "strength": "soft",
+      "reason": "Linking a new theme to an earlier rheme is usually realised through repetition, synonymy or a general noun"
+    },
+    {
+      "topicId": "coh.thematic-progression",
+      "prerequisiteId": "grm.nominalisation",
+      "strength": "soft",
+      "reason": "Linear progression in academic prose typically nominalises the process in one rheme so that it can become the next theme"
+    },
+    {
+      "topicId": "coh.signalling-nouns",
+      "prerequisiteId": "voc.abstract-shell-nouns",
+      "strength": "hard",
+      "reason": "Encapsulation depends on a repertoire of abstract nouns (approach, factor, issue, finding) whose meaning is filled in by the co-text"
+    },
+    {
+      "topicId": "coh.signalling-nouns",
+      "prerequisiteId": "grm.reference-pronouns",
+      "strength": "hard",
+      "reason": "The core structure is a demonstrative determiner plus noun, so control of this/these reference and its antecedents is required"
+    },
+    {
+      "topicId": "coh.signalling-nouns",
+      "prerequisiteId": "coh.lexical-cohesion",
+      "strength": "soft",
+      "reason": "Signalling nouns are a specialised form of the general-noun reference that maintains lexical chains"
+    },
+    {
+      "topicId": "coh.text-patterns",
+      "prerequisiteId": "coh.cohesion-vs-coherence",
+      "strength": "hard",
+      "reason": "Text patterns are a model of coherence above the sentence, so learners must first separate underlying organisation from surface linking"
+    },
+    {
+      "topicId": "coh.text-patterns",
+      "prerequisiteId": "par.paragraph-unit",
+      "strength": "soft",
+      "reason": "Patterns such as general–specific are first met inside single paragraphs before learners trace them across sections"
+    },
+    {
+      "topicId": "coh.frame-markers",
+      "prerequisiteId": "coh.linking-adverbials",
+      "strength": "soft",
+      "reason": "Sequencing and summative frame markers extend the linking adverbials learners already use between sentences to the level of the whole text"
+    },
+    {
+      "topicId": "coh.frame-markers",
+      "prerequisiteId": "ess.essay-structure",
+      "strength": "soft",
+      "reason": "Previewing and labelling stages presupposes a model of how an extended text is divided into introduction, body sections and conclusion"
+    },
+    {
+      "topicId": "coh.paragraph-transitions",
+      "prerequisiteId": "par.topic-sentences",
+      "strength": "hard",
+      "reason": "A transition relates one paragraph's controlling idea to the next, so writers need to be able to state each paragraph's point"
+    },
+    {
+      "topicId": "coh.paragraph-transitions",
+      "prerequisiteId": "coh.signalling-nouns",
+      "strength": "soft",
+      "reason": "Bridging sentences typically encapsulate the previous paragraph's point with a signalling noun phrase before introducing the new point"
+    },
+    {
+      "topicId": "coh.paragraph-transitions",
+      "prerequisiteId": "coh.given-new",
+      "strength": "soft",
+      "reason": "Effective transitions open with information carried over from the previous paragraph and end with the new point, applying given–new order at paragraph level"
+    },
+    {
+      "topicId": "coh.terminological-consistency",
+      "prerequisiteId": "coh.lexical-cohesion",
+      "strength": "hard",
+      "reason": "Consistency decisions require understanding how repetition and synonymy create or break reference chains"
+    },
+    {
+      "topicId": "coh.terminological-consistency",
+      "prerequisiteId": "voc.technical-terminology",
+      "strength": "soft",
+      "reason": "Learners need to recognise which words in their field function as defined technical terms that should not be varied"
+    },
+    {
+      "topicId": "coh.terminological-consistency",
+      "prerequisiteId": "voc.precision-near-synonyms",
+      "strength": "soft",
+      "reason": "Judging whether two expressions can be used interchangeably depends on knowing how near-synonyms differ in meaning and strength"
+    },
+    {
+      "topicId": "coh.writer-responsibility",
+      "prerequisiteId": "coh.cohesion-vs-coherence",
+      "strength": "hard",
+      "reason": "Writer responsibility concerns who makes coherence relations explicit, so the notion of coherence relations must already be in place"
+    },
+    {
+      "topicId": "coh.writer-responsibility",
+      "prerequisiteId": "wpr.audience-purpose",
+      "strength": "soft",
+      "reason": "Deciding how much to make explicit depends on a model of the intended reader and the purpose of the text"
+    },
+    {
+      "topicId": "coh.spoken-signposting",
+      "prerequisiteId": "coh.linking-adverbials",
+      "strength": "soft",
+      "reason": "Micro-markers and many macro-markers express the same additive, contrastive and sequential relations as written linking adverbials"
+    },
+    {
+      "topicId": "coh.spoken-signposting",
+      "prerequisiteId": "reg.spoken-vs-written",
+      "strength": "soft",
+      "reason": "Understanding that speech is processed in real time without the visual layout of writing explains why spoken discourse needs denser, differently worded signposting"
+    }
+  ],
+  "guidance": [
+    {
+      "topicId": "coh.cohesion-vs-coherence",
+      "summary": "Halliday and Hasan give teachers a precise vocabulary for cohesive ties, but their own account treats cohesion as only one condition of a text hanging together, alongside consistency with its context. Crossley and McNamara found that computational indices of explicit local cohesion did not predict higher human ratings of L2 essays, whereas indices of linguistic sophistication did, which supports teaching coherence as a matter of ordered ideas and reader expectations with devices in a supporting role. Begin from readers' experience (where did you lose the thread?) before naming devices.",
+      "activities": [
+        {
+          "title": "Connector-stripping test",
+          "learnerActions": [
+            "Read a well-organised model paragraph from which all connectors have been removed",
+            "Mark each sentence boundary where the relation is still clear and each where it is not",
+            "Reinsert connectors only where a relation was unclear, then compare with the original"
+          ],
+          "intendedInsight": "Much of a text's coherence is carried by order, repetition and topic continuity; connectors are needed only at certain junctures.",
+          "rationale": "Makes the cohesion/coherence distinction experiential and directly challenges the assumption that more devices mean better organisation, an assumption at odds with findings on cohesion indices and rated quality.",
+          "citations": [
+            "crossleymcnamara2012",
+            "hallidayhasan1976"
+          ]
+        },
+        {
+          "title": "Where did I lose the thread?",
+          "learnerActions": [
+            "Read a partner's paragraph and mark every point at which you had to pause to work out the connection",
+            "Discuss each mark and classify it as a tie problem (unclear reference, wrong connector) or a coherence problem (missing step, off-topic sentence)",
+            "Revise your own paragraph in light of your partner's marks"
+          ],
+          "intendedInsight": "Readers' difficulties have different causes, and only some are solved by adding linking words.",
+          "rationale": "Hoey models written text as an interaction in which the reader's implicit questions must be answered; peer reading makes those questions visible to the writer.",
+          "citations": [
+            "hoey2001"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'My feedback said cohesion, so I added Furthermore and Moreover to more sentences.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Connectors at the start of most sentences, often mismatched to the actual relation, while underlying problems of order or relevance remain.",
+          "response": "Show what the feedback was pointing to by tracing the reader's path through the text; ask the learner to name the relation each connector signals. Do not respond by banning connectors, which simply transfers the problem.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "'All my sentences are about climate change, so the paragraph is coherent.'",
+          "kind": "conceptual",
+          "revealedBy": "Paragraphs that list related facts on one topic with no controlling point and no progression from one sentence to the next.",
+          "response": "Have the learner write a one-line function for each sentence (claim, reason, example, consequence) and check whether each advances the paragraph's point; distinguish topic from point.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner reads a six-sentence paragraph in which sentence four introduces an unrelated point but is linked by 'Moreover', and comments on how well the paragraph hangs together.",
+        "strongResponse": "Identifies sentence four as breaking the paragraph's logical unity despite the connector, explains that a connector signals but cannot create a relation, and proposes moving or cutting the sentence.",
+        "partialResponse": "Senses a problem but attributes it to the choice of connector and proposes a different one.",
+        "gapResponse": "Judges the paragraph well organised because it uses linking words."
+      },
+      "contextNotes": "At foundation level, introduce the distinction through reader experience and simple paragraph models without heavy terminology. On pre-sessional courses, connect it to marking criteria that separate coherence from cohesion and to reverse outlining. In undergraduate in-sessional work it is most useful diagnostically, in tutorials on students' own drafts.",
+      "citations": [
+        "hallidayhasan1976",
+        "crossleymcnamara2012",
+        "hoey2001"
+      ],
+      "reviewNotes": [
+        "The Crossley and McNamara finding derives from automated indices applied to a particular L2 essay corpus; it supports caution about equating device counts with quality rather than any claim that cohesion is irrelevant."
+      ]
+    },
+    {
+      "topicId": "coh.lexical-cohesion",
+      "summary": "Halliday and Hasan's categories of reiteration (repetition, synonym, superordinate, general word) and collocation, together with reference, give learners a toolkit for analysing how expert texts keep participants in view. Thompson offers an accessible functional account suitable for teacher explanation. Chain-tracing on authentic disciplinary paragraphs shows that key nouns are repeated far more than school advice about avoiding repetition implies, and that article choice often signals second mention.",
+      "activities": [
+        {
+          "title": "Colour the chains",
+          "learnerActions": [
+            "Take a paragraph from a textbook or article in your field and highlight every expression referring to each main participant in a different colour",
+            "Count how often each participant is repeated, pronominalised, replaced by a synonym or referred to with a general noun",
+            "Compare counts with a partner from a different discipline"
+          ],
+          "intendedInsight": "Expert writers repeat key nouns frequently and use pronouns mainly where the antecedent is unmistakable.",
+          "rationale": "Visual analysis promotes noticing of a pattern learners tend to underestimate; noticing is widely argued to be a condition for uptake.",
+          "citations": [
+            "hallidayhasan1976",
+            "schmidt1990"
+          ]
+        },
+        {
+          "title": "Repair the referent",
+          "learnerActions": [
+            "Revise a learner-style paragraph that contains ambiguous it/they and a drifting synonym chain",
+            "Justify each change to a partner by stating what the reader would otherwise have assumed"
+          ],
+          "intendedInsight": "Changing the word for a referent is a meaning choice, not a stylistic decoration.",
+          "rationale": "Working on plausible learner text targets the repair skill needed for self-editing and links reference choices to reader inference.",
+          "citations": [
+            "thompson2014"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I was taught never to repeat a word, so I change it every time.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Synonym cycling (participants, subjects, people, individuals) that leads readers to wonder whether different groups are meant.",
+          "response": "Show textbook or corpus evidence of repetition of key nouns; distinguish variation in non-technical wording from fixed reference to key participants. Avoid replacing one blanket rule with another ('always repeat').",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Second mention with 'a' or no article, or omitted subject pronouns, so that chains break down.",
+          "kind": "L1-transfer",
+          "revealedBy": "'A participant… A participant said…' for the same person; missing 'it' as subject; readers unsure whether a new entity is introduced.",
+          "response": "Writers whose other languages lack articles or allow null subjects benefit from focused work on first versus subsequent mention, using the learner's own texts as data.",
+          "reteachPrerequisiteId": "grm.articles"
+        },
+        {
+          "pattern": "'It' or 'they' placed after several intervening nouns in long sentences.",
+          "kind": "developmental",
+          "revealedBy": "Readers cannot resolve the pronoun without rereading; peer readers propose different antecedents.",
+          "response": "Teach a simple check: if two candidate antecedents exist, repeat the noun or use a precise general noun.",
+          "reteachPrerequisiteId": "grm.reference-pronouns"
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner writes three linked sentences about a process or study in their field and underlines every expression referring to the main participant.",
+        "strongResponse": "The chain mixes repetition, pronoun and a general noun; every reference is resolvable; articles shift appropriately from first to second mention.",
+        "partialResponse": "The chain is resolvable but relies on a single device (only pronouns or only repetition), or contains one article slip.",
+        "gapResponse": "The referent shifts or is ambiguous; synonyms imply different entities."
+      },
+      "contextNotes": "At foundation level, focus on pronoun and article reference and simple repetition in textbook paragraphs. Pre-sessional and undergraduate in-sessional work extends to general nouns and the risks of synonym substitution in source-based writing. For taught postgraduates the emphasis moves to longer chains across sections and to disciplinary expectations about repeating technical terms.",
+      "citations": [
+        "hallidayhasan1976",
+        "thompson2014"
+      ],
+      "reviewNotes": [
+        "The claim that expert prose repeats key nouns more than learners expect is a teaching generalisation consistent with corpus descriptions; it is not quantified here for particular disciplines."
+      ]
+    },
+    {
+      "topicId": "coh.linking-adverbials",
+      "summary": "Biber et al. describe the semantic categories of linking adverbials and show that a relatively small set accounts for most uses in academic prose. Learner-corpus studies, including Altenberg and Tapper's chapter in Granger's collection and Granger and Tyson's comparison of native and non-native student essays, report overuse of some connectors, underuse of others and sentence-initial stacking; Hinkel similarly documents L2 writers' reliance on sentence-level transitions. Teach connectors by relation and with evidence of expert frequency, aiming for fewer, better-chosen links rather than long lists of supposed equivalents.",
+      "activities": [
+        {
+          "title": "Frequency reality check",
+          "learnerActions": [
+            "Count linking adverbials per 100 words in a paragraph of your own and in a published paragraph from your field",
+            "Note their positions (initial, medial) and the relations they signal",
+            "Delete connectors from your paragraph wherever the relation is already clear, and reread"
+          ],
+          "intendedInsight": "Expert prose uses fewer connectors, places some medially and relies on content to carry many relations.",
+          "rationale": "Self-comparison with expert texts targets the overuse and sentence-initial stacking documented in learner corpora.",
+          "citations": [
+            "biber1999lgswe",
+            "granger1998"
+          ]
+        },
+        {
+          "title": "Relation first, connector second",
+          "learnerActions": [
+            "For each of ten sentence pairs, decide the relation (addition, contrast, concession, result, exemplification) before choosing any connector",
+            "Choose a connector or decide that none is needed",
+            "Discuss pairs where the group chose no connector"
+          ],
+          "intendedInsight": "A connector should follow from a judged relation, and sometimes the best choice is none.",
+          "rationale": "Halliday and Hasan's grouping of conjunctive relations into additive, adversative, causal and temporal gives learners a manageable framework for the prior judgement.",
+          "citations": [
+            "hallidayhasan1976"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Every sentence should start with a linking word to show cohesion.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Chains such as Firstly… Secondly… Moreover… Furthermore… In addition… with a connector before most sentences.",
+          "response": "Show expert density and ask learners to justify each connector by naming the relation. Do not ban connectors or impose an arbitrary quota.",
+          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
+        },
+        {
+          "pattern": "Treating connectors from a list as interchangeable, for example 'On the other hand' to add a point.",
+          "kind": "overgeneralisation",
+          "revealedBy": "'On the other hand' with no preceding contrast; 'Besides' as a neutral additive in formal writing.",
+          "response": "Teach connectors grouped by relation and register with authentic examples, and return to mismatches in the learner's own text.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Using 'however' like 'but' to join two clauses with a comma.",
+          "kind": "developmental",
+          "revealedBy": "Comma splices of the form '…, however, …' between independent clauses.",
+          "response": "Contrast 'but' (coordinator), 'although' (subordinator) and 'however' (adverbial) with the same content, and show the punctuation each requires.",
+          "reteachPrerequisiteId": "sen.sentence-types"
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner rewrites a 100-word paragraph in which five of six sentences begin with a connector, keeping only the links a reader needs.",
+        "strongResponse": "Keeps two or three connectors that mark genuine contrast or result, removes additive stacking, moves at least one connector medially and punctuates correctly.",
+        "partialResponse": "Removes some connectors but keeps mismatched ones or retains sentence-initial positioning throughout.",
+        "gapResponse": "Replaces connectors with different connectors, keeping the density unchanged."
+      },
+      "contextNotes": "Foundation learners need the core semantic categories and punctuation. Pre-sessional courses should explicitly address test-preparation habits of connector stacking. Undergraduate in-sessional support works best on students' own assignments, where connector overuse often masks problems of argument structure.",
+      "citations": [
+        "biber1999lgswe",
+        "granger1998",
+        "hinkel2002",
+        "grangertyson1996"
+      ],
+      "reviewNotes": [
+        "Hinkel (2002) reports frequencies across specific L1 groups and essay prompts; verify feature labels before quoting figures to teachers.",
+        "grangertyson1996 is a proposed reference; the supporting claim is also attributed to the Granger (1998) collection."
+      ]
+    },
+    {
+      "topicId": "coh.connector-precision",
+      "summary": "Celce-Murcia and Larsen-Freeman treat logical connectors by both semantic class and grammatical type, which is the combination learners need: what relation is meant, and what syntax follows. Biber et al. provide frequency and positional evidence, and learner-corpus studies show that common errors involve mismatch rather than absence of connectors. Teach through minimal pairs that make the change in claim visible, and through the consequences of an unjustified 'therefore' for the argument.",
+      "activities": [
+        {
+          "title": "Minimal pairs",
+          "learnerActions": [
+            "Read two versions of a sentence pair that differ only in the connector (however versus on the contrary; whereas versus although)",
+            "Paraphrase the claim each version makes",
+            "Decide which version the writer most plausibly intended given the surrounding text"
+          ],
+          "intendedInsight": "Connectors change propositions, not just style.",
+          "rationale": "Contrasting forms in controlled pairs focuses attention on meaning differences that are easily blurred in lists.",
+          "citations": [
+            "celcemurcia1999"
+          ]
+        },
+        {
+          "title": "Concordance check: therefore, thus, hence",
+          "learnerActions": [
+            "Examine prepared concordance lines from an academic corpus for therefore, thus and hence",
+            "Record typical positions and what follows each (for example thus + -ing clause)",
+            "Rewrite three of your own sentences using the pattern you found"
+          ],
+          "intendedInsight": "Near-synonymous resultative connectors have distinct grammatical and positional preferences.",
+          "rationale": "Corpus consultation lets learners discover usage patterns directly; meta-analytic evidence suggests data-driven learning can be effective, though effects vary with design.",
+          "citations": [
+            "biber1999lgswe",
+            "boultoncobb2017"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Although the sample was small, but the results were clear.'",
+          "kind": "L1-transfer",
+          "revealedBy": "Double marking of concession with although…but or though…yet.",
+          "response": "Writers whose other languages mark both clauses of a concessive construction need to see that English marks only one; contrast the two English options with the same content.",
+          "reteachPrerequisiteId": "grm.subordination"
+        },
+        {
+          "pattern": "'On the contrary' used for simple contrast between two entities.",
+          "kind": "overgeneralisation",
+          "revealedBy": "'X is expensive. On the contrary, Y is cheap.'",
+          "response": "Teach 'on the contrary' as rejecting a preceding (often negated) proposition, and 'in contrast' for comparing two items.",
+          "reteachPrerequisiteId": "coh.linking-adverbials"
+        },
+        {
+          "pattern": "'Therefore' introducing a conclusion the preceding sentences do not support.",
+          "kind": "conceptual",
+          "revealedBy": "A list of facts followed by 'Therefore,…' with no warrant connecting them to the claim.",
+          "response": "Ask 'why does this follow?' and have the learner write the missing step; treat the connector as a promise the content must keep.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner explains the difference between 'Sales fell. However, profits rose.' and 'Sales did not fall. On the contrary, they rose.' and writes one sentence with 'whereas' comparing two methods.",
+        "strongResponse": "Identifies contrast versus correction of a negated claim, and produces a well-formed 'whereas' sentence comparing two parallel items.",
+        "partialResponse": "Senses a difference but cannot name it, or misuses 'whereas' as a sentence-initial adverbial.",
+        "gapResponse": "Treats the connectors as interchangeable."
+      },
+      "contextNotes": "On pre-sessional courses this topic is best integrated with argument writing and feedback on learners' own texts. Undergraduate and taught postgraduate in-sessional support can tie precision to disciplinary reasoning, for example inference in quantitative fields or concession in humanities argument.",
+      "citations": [
+        "celcemurcia1999",
+        "biber1999lgswe",
+        "granger1998"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "coh.given-new",
+      "summary": "Systemic functional accounts distinguish theme–rheme (the clause's point of departure) from given–new (what the reader is assumed to know), which typically but not always coincide. For EAP, Swales and Feak's advice on old-to-new information flow offers a practical entry point, and Thompson explains the systems accessibly. The passive is best taught here as a tool for arranging information rather than as a marker of objectivity, and work should use sentence pairs so that 'given' is always relative to preceding text.",
+      "activities": [
+        {
+          "title": "Which version follows?",
+          "learnerActions": [
+            "Read sentence 1 of a short passage, then choose between an active and a passive version of sentence 2",
+            "Explain your choice by pointing to what sentence 1 has already introduced",
+            "Repeat with a different sentence 1 that reverses the best choice"
+          ],
+          "intendedInsight": "Voice and subject choice depend on context; neither active nor passive is better in itself.",
+          "rationale": "Directly counters the myth that the passive is inherently more objective or academic, and shows information flow as the reason for the choice.",
+          "citations": [
+            "swalesfeak2012",
+            "hallidaymatthiessen2014"
+          ]
+        },
+        {
+          "title": "Old-to-new audit",
+          "learnerActions": [
+            "Underline the first noun phrase of each sentence in your own paragraph",
+            "Check whether it links back to something already mentioned",
+            "Rewrite any sentence that opens with brand-new information"
+          ],
+          "intendedInsight": "Many 'choppy' paragraphs open sentences with new information.",
+          "rationale": "Applying the principle to one's own text builds a self-editing routine rather than abstract knowledge.",
+          "citations": [
+            "thompson2014"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'The passive is more academic, so I use it whenever I can.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Passive sentences that place new information first and push given information to the end.",
+          "response": "Show pairs where the active is the better choice because of what precedes it. Do not replace this with 'avoid the passive'.",
+          "reteachPrerequisiteId": "grm.passive-voice"
+        },
+        {
+          "pattern": "Fronting a topic and then repeating it with a pronoun: 'This problem, researchers have studied it for decades.'",
+          "kind": "L1-transfer",
+          "revealedBy": "Dislocated topics with resumptive pronouns; unusual word order at the start of clauses.",
+          "response": "Writers whose other languages mark topic through word order or particles benefit from seeing the English resources for the same purpose: passive, a different subject, existential there or a summarising noun phrase.",
+          "reteachPrerequisiteId": "grm.clause-elements"
+        },
+        {
+          "pattern": "Very long subjects carrying new information before the main verb.",
+          "kind": "developmental",
+          "revealedBy": "Readers wait a long time for the verb; heavy noun phrases at the start of clauses.",
+          "response": "Show how moving the heavy, new element to the end (end-weight) improves processing; link to sentence-level editing.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner improves the flow of: 'Rising sea levels threaten coastal cities. Large-scale relocation programmes may be required by this threat.'",
+        "strongResponse": "Rewrites so that 'This threat' opens sentence two (This threat may require…) and explains that it links back to the previous sentence.",
+        "partialResponse": "Improves the sentence but cannot explain why the new version reads better.",
+        "gapResponse": "Leaves the order unchanged or makes only lexical changes."
+      },
+      "contextNotes": "Pre-sessional courses can introduce the principle through sentence pairs and short paragraphs. In undergraduate and taught postgraduate in-sessional support it becomes a revision tool for students' own drafts. Doctoral writers benefit from applying it to dense methods and discussion prose, where long subjects are common.",
+      "citations": [
+        "hallidaymatthiessen2014",
+        "thompson2014",
+        "swalesfeak2012"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "coh.thematic-progression",
+      "summary": "Daneš's typology of thematic progression gives a compact model learners can apply to their own drafts, and Thompson's functional grammar explains theme without heavy terminology. Halliday and Martin show how scientific writing nominalises the rheme of one clause so that it can serve as the theme of the next, building chains of reasoning — a pattern worth making explicit to writers in all fields. Present the patterns as diagnostic tools rather than templates: expert paragraphs mix them.",
+      "activities": [
+        {
+          "title": "Theme arrows on your own draft",
+          "learnerActions": [
+            "Mark the theme of each sentence in a paragraph you have written",
+            "Draw an arrow from each theme to the earlier theme or rheme it picks up",
+            "Revise any sentence whose theme has no arrow"
+          ],
+          "intendedInsight": "Disjointed paragraphs often contain themes that do not connect to anything earlier.",
+          "rationale": "Daneš's patterns become a practical revision check when applied to learners' own writing rather than only to model texts.",
+          "citations": [
+            "danes1974",
+            "thompson2014"
+          ]
+        },
+        {
+          "title": "Nominalise to move on",
+          "learnerActions": [
+            "For each sentence pair, turn the process described in sentence 1 into a noun phrase that can open sentence 2 (Temperatures rose → This rise…)",
+            "Compare the result with a version that uses bare 'This' or 'It'"
+          ],
+          "intendedInsight": "Nominalisation lets a writer carry a whole process forward as the starting point of the next step.",
+          "rationale": "Halliday and Martin identify this rheme-to-theme nominalisation as central to how scientific argument is built.",
+          "citations": [
+            "hallidaymartin1993"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'The study… The study… It… The study…' — the same theme throughout a paragraph that should develop an argument.",
+          "kind": "developmental",
+          "revealedBy": "List-like paragraphs in which each sentence adds a fact about the same participant without building a line of reasoning.",
+          "response": "Show how linear progression lets each sentence build on the last. Do not tell learners to vary the subject with synonyms, which damages reference.",
+          "reteachPrerequisiteId": "coh.given-new"
+        },
+        {
+          "pattern": "Confusing theme with topic, or treating a fronted adverbial as the whole theme.",
+          "kind": "conceptual",
+          "revealedBy": "Inconsistent analysis of themes in exercises; uncertainty about what counts as the theme.",
+          "response": "Use an operational teaching definition (everything up to and including the subject) and acknowledge it as a simplification of the grammatical account.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Nominalising every process to create linear progression, producing dense, opaque sentences.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Strings of abstract nouns with weak verbs (the implementation of the improvement of…).",
+          "response": "Treat nominalisation as a resource with costs for clarity; use it at the point of linkage, not throughout.",
+          "reteachPrerequisiteId": "grm.nominalisation"
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner analyses the themes in a five-sentence published paragraph, names the dominant pattern and identifies one sentence that would be harder to follow if its theme were changed.",
+        "strongResponse": "Labels themes accurately, recognises a mix of linear and derived progression and explains the link that a changed theme would break.",
+        "partialResponse": "Labels most themes but cannot relate them to the progression patterns or explain their effect.",
+        "gapResponse": "Cannot identify themes consistently or sees no connection between successive sentence openings."
+      },
+      "contextNotes": "On pre-sessional courses keep terminology light and focus on arrows and linking. Undergraduate and taught postgraduate in-sessional support can use the patterns to diagnose paragraphs in assignments and dissertations. Doctoral writers often respond well to the full model when revising dense theoretical or methods prose.",
+      "citations": [
+        "danes1974",
+        "thompson2014",
+        "hallidaymartin1993"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "coh.signalling-nouns",
+      "summary": "Flowerdew's work on signalling nouns shows how nouns such as problem, process and aspect take specific meaning from co-text, both anaphorically and cataphorically. Swales and Feak's 'this + summary word' advice gives a teachable rule of thumb, while corpus work on this and these in published prose suggests that bare 'this' also occurs, so the issue is reader clarity rather than an absolute ban. Teach labels as choices that categorise and evaluate as well as link.",
+      "activities": [
+        {
+          "title": "Label the shell",
+          "learnerActions": [
+            "Find every this/these/such + noun in a research article extract",
+            "Bracket the stretch of text each one encapsulates",
+            "Decide whether the noun also evaluates (claim, assertion, problem) and how"
+          ],
+          "intendedInsight": "Signalling nouns both summarise and classify what came before, often with an evaluative angle.",
+          "rationale": "Flowerdew's analysis shows that the meaning of these nouns is realised in co-text, so learners need to see the stretch being encapsulated.",
+          "citations": [
+            "flowerdew2003signalling"
+          ]
+        },
+        {
+          "title": "Upgrade the bare 'this'",
+          "learnerActions": [
+            "Search your draft for sentence-initial This and It",
+            "Decide for each whether a reader could misidentify the referent",
+            "Add a precise noun where needed and compare two alternative labels for their effect"
+          ],
+          "intendedInsight": "Adding a noun clarifies reference and lets the writer characterise the previous content.",
+          "rationale": "A search-and-revise routine converts a known rule of thumb into a self-editing habit.",
+          "citations": [
+            "swalesfeak2012"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'This shows that…' where 'this' could refer to several preceding ideas.",
+          "kind": "developmental",
+          "revealedBy": "Readers ask 'this what?'; peers bracket different antecedents.",
+          "response": "Ask the learner to name what 'this' refers to; if it takes more than a word or two to say, add a signalling noun.",
+          "reteachPrerequisiteId": "grm.reference-pronouns"
+        },
+        {
+          "pattern": "A narrow repertoire: 'this issue', 'this problem', 'this thing' for every kind of content.",
+          "kind": "developmental",
+          "revealedBy": "The same two or three labels used for findings, arguments, methods and proposals alike.",
+          "response": "Build a sorted bank of signalling nouns from reading in the learner's field (finding, trend, assumption, limitation, distinction).",
+          "reteachPrerequisiteId": "voc.abstract-shell-nouns"
+        },
+        {
+          "pattern": "Inadvertent evaluation, such as calling a well-supported result 'this claim' or 'this assumption'.",
+          "kind": "conceptual",
+          "revealedBy": "Labels that undercut the writer's own or a source's position without the writer intending it.",
+          "response": "Compare the effect of finding, claim, assertion and assumption on the same content and discuss the stance each implies.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner reads two sentences reporting a study's result and continues with a sentence beginning 'This ___ suggests…'.",
+        "strongResponse": "Supplies an accurate label (result, finding, pattern) and can explain why 'claim' or 'assumption' would change the stance.",
+        "partialResponse": "Supplies a plausible but vague label (issue, situation).",
+        "gapResponse": "Leaves 'This' bare or chooses a label that misrepresents the content."
+      },
+      "contextNotes": "Pre-sessional courses can introduce 'this + noun' as a high-yield revision habit. Undergraduate and taught postgraduate in-sessional support should extend to cataphoric uses and evaluative labelling in literature reviews. Doctoral writers benefit from attention to how labelling positions others' work.",
+      "citations": [
+        "flowerdew2003signalling",
+        "swalesfeak2012",
+        "graycortes2011"
+      ],
+      "reviewNotes": [
+        "graycortes2011 is a proposed reference; if it cannot be verified, the statement that bare 'this' occurs in published prose should be supported from another corpus source or softened."
+      ]
+    },
+    {
+      "topicId": "coh.text-patterns",
+      "summary": "Hoey's accounts of culturally popular text patterns, building on Winter's clause relations, show that readers recognise patterns through lexical signals and that patterns can be recursive, as when a negatively evaluated response creates a new problem. Carrell found that explicit training in top-level rhetorical structure improved ESL readers' recall, supporting the teaching of patterns for reading as well as writing. Swales and Feak's units on general–specific and problem–process–solution texts provide graduate-level writing models.",
+      "activities": [
+        {
+          "title": "Signal hunt",
+          "learnerActions": [
+            "Highlight the problem, response and evaluation vocabulary in a problem–solution passage",
+            "Map the passage onto situation–problem–response–evaluation boxes",
+            "Find any point where a negative evaluation triggers a further problem and response"
+          ],
+          "intendedInsight": "Patterns are signalled lexically and can repeat within one text.",
+          "rationale": "Hoey shows that readers rely on lexical signals to recognise pattern elements; making signals explicit builds this recognition.",
+          "citations": [
+            "hoey1983",
+            "hoey2001"
+          ]
+        },
+        {
+          "title": "Predict the next paragraph",
+          "learnerActions": [
+            "Read a text paragraph by paragraph with the remainder covered",
+            "Before uncovering each paragraph, predict its function from the pattern so far",
+            "Compare predictions with the original and discuss the signals that helped"
+          ],
+          "intendedInsight": "Knowing the pattern lets readers anticipate content and read more efficiently.",
+          "rationale": "Carrell's study of ESL readers found that training in text structure improved recall, which suggests pattern awareness supports comprehension.",
+          "citations": [
+            "carrell1985"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Treating patterns as fixed templates and forcing every task into problem–solution.",
+          "kind": "overgeneralisation",
+          "revealedBy": "A compare-and-contrast task answered as a problem–solution essay; artificial 'problems' invented to fit the frame.",
+          "response": "Present patterns as reader expectations that the task and content select, and practise matching tasks to patterns.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Responses listed without any evaluation, so the pattern stops short.",
+          "kind": "developmental",
+          "revealedBy": "Paragraphs that describe several solutions but never assess whether they work.",
+          "response": "Show that evaluation is an expected element; ask 'did it work, and how do we know?' after each response.",
+          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
+        },
+        {
+          "pattern": "Reading a reported view in a claim–counterclaim structure as the writer's own position.",
+          "kind": "conceptual",
+          "revealedBy": "Summaries that attribute to the writer a view the writer goes on to reject.",
+          "response": "Teach the signals of the hypothetical element (it is often claimed, many assume) and the real element (in fact, however, the evidence suggests).",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner reads a 200-word passage and labels its pattern elements, then writes one sentence that would continue the pattern.",
+        "strongResponse": "Labels elements correctly with reference to signals, and the continuation fits the next expected element (for example an evaluation of the response).",
+        "partialResponse": "Identifies the overall pattern but mislabels one element or writes a continuation that repeats an earlier element.",
+        "gapResponse": "Summarises the content without recognising any organising pattern."
+      },
+      "contextNotes": "At foundation level, use simple problem–solution and general–specific texts from subject textbooks for both reading and writing. Pre-sessional and undergraduate in-sessional courses can add claim–counterclaim structures, which are important for following argument. Taught postgraduates benefit from using patterns to read research articles and policy documents efficiently.",
+      "citations": [
+        "hoey1983",
+        "hoey2001",
+        "carrell1985",
+        "swalesfeak2012"
+      ],
+      "reviewNotes": [
+        "Carrell (1985) used Meyer's top-level structures rather than Hoey's patterns; the two frameworks overlap but are not identical, so the evidence supports pattern awareness in general rather than Hoey's taxonomy specifically."
+      ]
+    },
+    {
+      "topicId": "coh.frame-markers",
+      "summary": "In Hyland's interpersonal model, frame markers are one category of interactive metadiscourse; Hyland and Tse's study of postgraduate dissertations shows metadiscourse use varying by discipline and by degree level. Bunton's analysis of PhD thesis introductions identifies outlining the structure of the thesis as a regular element. Teach density relative to genre and length: roadmaps that suit a thesis can read as mechanical in a short essay, and propositional signposting (what a section shows) is more useful than procedural announcement (what it talks about).",
+      "activities": [
+        {
+          "title": "Roadmap scaling",
+          "learnerActions": [
+            "Compare roadmap sentences from a short essay, a dissertation chapter and a research article",
+            "Note how much each previews and how it is worded",
+            "Write a roadmap for your current assignment at the appropriate scale"
+          ],
+          "intendedInsight": "The amount and form of signposting should match the length and genre of the text.",
+          "rationale": "Hyland and Tse's evidence of variation across disciplines and levels supports teaching metadiscourse as genre-sensitive rather than as a fixed formula.",
+          "citations": [
+            "hylandtse2004",
+            "bunton2002"
+          ]
+        },
+        {
+          "title": "Metatext audit",
+          "learnerActions": [
+            "Highlight all metatext in your draft",
+            "Delete any that does not help a reader navigate",
+            "Rewrite procedural metatext as propositional signposting"
+          ],
+          "intendedInsight": "Useful frame markers tell readers what a part of the text establishes, not only what it is about.",
+          "rationale": "Treating frame markers as reader-oriented metadiscourse focuses revision on their function for the reader.",
+          "citations": [
+            "hyland2005metadiscourse"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'This essay will discuss X, Y and Z' followed by 'In this paragraph I will…' at the start of every paragraph.",
+          "kind": "prior-schooling",
+          "revealedBy": "Formulaic roadmaps and paragraph-level announcements in short essays.",
+          "response": "Show propositional roadmaps that preview the argument; reserve paragraph-level metatext for long texts. Do not ban 'This essay will', which is acceptable in many contexts.",
+          "reteachPrerequisiteId": "ess.essay-structure"
+        },
+        {
+          "pattern": "A roadmap that no longer matches the body after revision.",
+          "kind": "performance",
+          "revealedBy": "Sections appear in a different order from the one promised, or a promised section is missing.",
+          "response": "Encourage writing or revising the roadmap last and checking it against a reverse outline.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Relying on Firstly, Secondly, Thirdly as the only structure for a complex argument.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Enumerated points of unequal weight with no indication of how they relate.",
+          "response": "Show how stage labels and topic shifts can signal relations (more importantly, a further complication) as well as order.",
+          "reteachPrerequisiteId": "coh.linking-adverbials"
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner rewrites the sentence 'This essay will talk about the causes, effects and solutions of urban flooding.' as a roadmap for a 2,500-word argumentative essay.",
+        "strongResponse": "Produces a roadmap that previews the argument and its stages (for example, argues that drainage policy matters more than climate factors, first by…), at an appropriate length.",
+        "partialResponse": "Improves register but still lists topics without signalling the argument.",
+        "gapResponse": "Retains a topic list or adds paragraph-by-paragraph announcements."
+      },
+      "contextNotes": "Foundation and pre-sessional learners need simple, accurate roadmaps for short essays and reports. Undergraduate and taught postgraduate in-sessional work should address scaling for dissertations. Doctoral writers need chapter-level metatext across a thesis, which links to thesis macrostructure.",
+      "citations": [
+        "hyland2005metadiscourse",
+        "hylandtse2004",
+        "bunton2002"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "coh.paragraph-transitions",
+      "summary": "Transitions are where coherence at text level becomes visible to the reader. Wingate's work on students' understanding of argument identifies the coherent presentation of a position across a text as a component many students do not recognise, and Hoey's view of text as interaction suggests that a paragraph opening should answer the reader's question 'how does this relate to what I just read?'. Teach transitions through reverse outlining of paragraph relations and through encapsulation with signalling nouns, rather than through inventories of 'transition words'.",
+      "activities": [
+        {
+          "title": "Relation map",
+          "learnerActions": [
+            "Write a one-line summary of each paragraph in your draft",
+            "Label the relation between each pair of consecutive paragraphs (extends, contrasts, qualifies, applies, results from)",
+            "Rewrite each paragraph opening so that it expresses that relation"
+          ],
+          "intendedInsight": "Paragraph relations should be stated where the reader needs them — at the opening of the new paragraph.",
+          "rationale": "Making the argument's structure explicit addresses the component of argument Wingate found students often overlook.",
+          "citations": [
+            "wingate2012argument"
+          ]
+        },
+        {
+          "title": "Bridge building",
+          "learnerActions": [
+            "Read pairs of paragraph endings and beginnings joined only by 'Furthermore'",
+            "Replace each with a bridging sentence that encapsulates the previous point and introduces the new one",
+            "Compare versions and discuss which shows the argument more clearly"
+          ],
+          "intendedInsight": "A summarising noun phrase plus the new point does more work than a bare connector.",
+          "rationale": "Swales and Feak's advice on linking ideas with summary words gives a concrete technique for bridging.",
+          "citations": [
+            "swalesfeak2012"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Another reason is… Another reason is… Another reason is…'",
+          "kind": "developmental",
+          "revealedBy": "Paragraphs added in sequence with no indication of how they relate or build.",
+          "response": "Ask the learner to rank the points and decide which depends on which, then write openings that reflect that structure.",
+          "reteachPrerequisiteId": "par.topic-sentences"
+        },
+        {
+          "pattern": "Paragraph-initial 'Furthermore' or 'Moreover' used as the transition regardless of relation.",
+          "kind": "prior-schooling",
+          "revealedBy": "Additive connectors opening paragraphs that actually contrast with or qualify the previous one.",
+          "response": "Show encapsulating openings and ask learners to state the relation in words before choosing any connector.",
+          "reteachPrerequisiteId": "coh.signalling-nouns"
+        },
+        {
+          "pattern": "Transitions written before paragraphs were reordered, so bridges no longer fit.",
+          "kind": "performance",
+          "revealedBy": "Openings that refer back to points that now come later or have been cut.",
+          "response": "Add a final check of every paragraph opening after any structural revision.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner is given two consecutive paragraph summaries (Paragraph A: cost explains part of a decline; Paragraph B: changing consumer attitudes) and writes the opening of Paragraph B.",
+        "strongResponse": "Writes a bridging sentence that encapsulates A and positions B in relation to it (While cost explains part of the decline, it cannot account for…).",
+        "partialResponse": "Introduces B clearly but links to A only with a connector (In addition, attitudes…).",
+        "gapResponse": "Begins B with no reference to A."
+      },
+      "contextNotes": "Pre-sessional courses should introduce relational transitions in extended essays. Undergraduate in-sessional work can use students' assignments for reverse outlining. Taught postgraduate support extends to transitions between dissertation sections and chapters.",
+      "citations": [
+        "swalesfeak2012",
+        "wingate2012argument",
+        "hoey2001"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "coh.terminological-consistency",
+      "summary": "Halliday and Martin show that technical terms in science form taxonomies, so a change of term can imply a different place in the taxonomy; Hyland and Tse show that apparently general academic words take discipline-specific meanings. Both point to the same teaching message: in academic writing, lexical variation carries meaning. Address the prior-schooling expectation that repetition is poor style, and give learners a concrete self-editing routine.",
+      "activities": [
+        {
+          "title": "Term inventory",
+          "learnerActions": [
+            "List the five most important concepts in your draft",
+            "Use find-all to locate every expression you used for each",
+            "Standardise wherever variants refer to the same concept, and add an explicit note where a distinct term is intended"
+          ],
+          "intendedInsight": "Many apparent synonyms in one's own text turn out to be unintended variation.",
+          "rationale": "Repetition is itself a cohesive device; a mechanical search turns this principle into a reliable editing habit.",
+          "citations": [
+            "hallidayhasan1976"
+          ]
+        },
+        {
+          "title": "Same or different?",
+          "learnerActions": [
+            "In discipline groups, judge pairs of terms from your field (for example sex and gender; effect and impact; learner autonomy and self-directed learning)",
+            "Check how glossaries or key sources in the field distinguish them",
+            "Report one pair that the field treats as distinct and one it treats as interchangeable"
+          ],
+          "intendedInsight": "Whether two terms are interchangeable is a disciplinary question, not a dictionary one.",
+          "rationale": "Hyland and Tse's evidence on discipline-specific meaning and Halliday and Martin's account of technical taxonomies both support discipline-based judgement.",
+          "citations": [
+            "hylandtse2007",
+            "hallidaymartin1993"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Repeating the same word is boring, so I use synonyms.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Key concepts referred to by three or four different terms; readers or markers asking whether a new concept has been introduced.",
+          "response": "Show published texts that repeat key terms; distinguish variation in everyday wording from fixed technical reference.",
+          "reteachPrerequisiteId": "coh.lexical-cohesion"
+        },
+        {
+          "pattern": "One concept rendered by different English terms in different sections.",
+          "kind": "L1-transfer",
+          "revealedBy": "Inconsistent English equivalents for one source-language term, especially when drafting through the first language or machine translation.",
+          "response": "Encourage a personal bilingual term list for each project and a final find-all consistency check.",
+          "reteachPrerequisiteId": "voc.technical-terminology"
+        },
+        {
+          "pattern": "Avoiding pronouns and general nouns altogether to stay 'consistent'.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Mechanical repetition of long noun phrases where a pronoun or 'this approach' would be clear.",
+          "response": "Clarify that consistency applies to the naming of concepts, not to banning reference devices.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner reads a 200-word paragraph that uses 'motivation', 'drive', 'willingness' and 'engagement' for the same construct, and comments on it.",
+        "strongResponse": "Identifies the variation, explains that a reader in the field might take these as distinct constructs, and standardises with a justification.",
+        "partialResponse": "Notices variation but considers it acceptable style, or standardises without explaining why.",
+        "gapResponse": "Sees no issue, or praises the variety of vocabulary."
+      },
+      "contextNotes": "On pre-sessional courses, introduce the principle with extended source-based writing. Undergraduate and taught postgraduate in-sessional support should link it to disciplinary terminology and dissertation editing. Doctoral writers need consistency across chapters, publications and figures, often for a large set of defined constructs.",
+      "citations": [
+        "hallidaymartin1993",
+        "hylandtse2007",
+        "hallidayhasan1976"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "coh.writer-responsibility",
+      "summary": "Hinds proposed reader versus writer responsibility as a dimension of variation between writing traditions; later intercultural rhetoric (Connor) and critical contrastive rhetoric (Kubota and Lehner) caution against treating such typologies as fixed national or cultural traits. Teach the concept as an explicit statement of a tacit expectation among many anglophone markers, framed as a convention to manage rather than a deficit to correct. Biber and Gray's evidence that academic prose leaves many relations implicit within compressed noun phrases is a useful counterweight: explicitness is selective even in English.",
+      "activities": [
+        {
+          "title": "Where would a reader stop?",
+          "learnerActions": [
+            "Read a partner's paragraph aloud and pause wherever you have to infer a connection",
+            "The writer notes each pause and decides whether to state the connection",
+            "Discuss which inferences an expert reader in the field could reasonably be expected to make"
+          ],
+          "intendedInsight": "How much to make explicit depends on the reader, but many markers expect key links to be stated.",
+          "rationale": "Turns Hinds's abstract typology into a concrete, reader-based judgement about a specific text.",
+          "citations": [
+            "hinds1987"
+          ]
+        },
+        {
+          "title": "Comparing traditions without stereotypes",
+          "learnerActions": [
+            "Bring a short academic text from another language you know or from a different discipline",
+            "Identify where its main point and key links are made explicit (title, opening, headings, conclusion)",
+            "Discuss the variation you find within each language as well as between them"
+          ],
+          "intendedInsight": "Explicitness conventions vary by genre and discipline as well as by language, and no tradition is uniform.",
+          "rationale": "Draws on learners' plurilingual resources while reflecting intercultural and critical critiques of contrastive generalisations.",
+          "citations": [
+            "connor2004",
+            "kubotalehner2004"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'If I state my point at the start, the reader will think I am not subtle.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Main claims withheld until the conclusion or left implicit; feedback such as 'what is your argument?'.",
+          "response": "Writers whose previous schooling rewarded delayed or implied conclusions can be shown the genre expectation and asked to compare effects for the target reader, without implying their earlier practice was wrong.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "'Changing how I write means my previous writing was bad.'",
+          "kind": "affective",
+          "revealedBy": "Resistance to feedback on explicitness; discomfort when discussing other writing traditions.",
+          "response": "Frame the topic as expanding a repertoire for different readers rather than replacing a deficient habit.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Over-explicitness after instruction: stating the obvious and narrating every step.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Heavy metatext and explanations of points an expert reader would take for granted.",
+          "response": "Return to the intended reader: explicitness is about the links that matter to the argument, not about everything.",
+          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner explains in their own words why a UK tutor might write 'make your argument explicit' on an essay whose main point appears only in the conclusion.",
+        "strongResponse": "Explains the expectation that the writer states the position and links early and clearly, and notes that this is a convention of the context rather than a universal rule.",
+        "partialResponse": "Explains the expectation but presents it as the only logical way to write.",
+        "gapResponse": "Cannot connect the comment to explicitness, or interprets it as a grammar issue."
+      },
+      "contextNotes": "At foundation and pre-sessional level the concept is useful for interpreting feedback and for introductions and topic sentences. Undergraduate and taught postgraduate in-sessional support can address it in tutorials when students are puzzled by comments on clarity. Handle it with care in multilingual groups to avoid stereotyping.",
+      "citations": [
+        "hinds1987",
+        "connor2004",
+        "kubotalehner2004",
+        "bibergray2010"
+      ],
+      "reviewNotes": [
+        "Hinds's typology is contested; the topic name is retained from the skeleton, but teachers should present it as a heuristic about reader expectations rather than as a description of national writing styles."
+      ]
+    },
+    {
+      "topicId": "coh.spoken-signposting",
+      "summary": "Chaudron and Richards found that macro-markers aided lecture comprehension more than micro-markers alone; Thompson showed that lecturers also signal organisation through intonation and that EAP listening materials do not always reflect authentic structuring patterns. Biber, Conrad and Cortes found discourse-organising lexical bundles particularly frequent in classroom teaching, and Young's analysis of lecture phases offers a frame for what markers signal. Teach from authentic or authentic-like recordings, combining reception and production and attending to prosody.",
+      "activities": [
+        {
+          "title": "Lecture skeleton from markers",
+          "learnerActions": [
+            "Listen to a lecture extract and log every phrase that signals a change of topic or phase",
+            "Use the log to reconstruct an outline of the lecture",
+            "Compare outlines and discuss boundaries signalled only by pause or pitch"
+          ],
+          "intendedInsight": "Macro-markers and prosody give listeners the structure they cannot see.",
+          "rationale": "Chaudron and Richards's finding on macro-markers and Young's phase model both suggest that attention to structuring language supports lecture comprehension.",
+          "citations": [
+            "chaudronrichards1986",
+            "young1994"
+          ]
+        },
+        {
+          "title": "Written-to-spoken swap",
+          "learnerActions": [
+            "Take a written paragraph that uses Furthermore and Moreover",
+            "Turn it into a one-minute spoken explanation using spoken markers and pauses",
+            "Record it, listen back and note where a listener might get lost"
+          ],
+          "intendedInsight": "Spoken signposting is worded and paced differently from written linking.",
+          "rationale": "Biber, Conrad and Cortes show that classroom teaching uses distinctive discourse-organising bundles, and Thompson highlights the role of intonation in signalling organisation.",
+          "citations": [
+            "biber2004bundles",
+            "thompson2003lectures"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Hearing 'so' or 'OK' as a signal that the lecture is concluding.",
+          "kind": "developmental",
+          "revealedBy": "Notes that stop recording after a micro-marker; learners missing the main point that follows.",
+          "response": "Show the range of functions of micro-markers in authentic transcripts and contrast them with macro-markers that do signal conclusion.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Presentations that sound read aloud because they use written connectors.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Furthermore, Moreover and In addition in spoken presentations; listeners losing the structure.",
+          "response": "Model spoken markers and rehearse them as chunks; draw attention to differences between spoken and written registers.",
+          "reteachPrerequisiteId": "reg.spoken-vs-written"
+        },
+        {
+          "pattern": "Markers planned in advance disappear under the pressure of live delivery.",
+          "kind": "performance",
+          "revealedBy": "Presentations with clear slides but no verbal signalling between sections.",
+          "response": "Rehearse transitions specifically and attach them to slide changes; avoid scripting entire talks.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "The learner listens to a two-minute lecture extract and writes down the phrase that marks each new section, then gives a 30-second spoken preview of a topic of their choice.",
+        "strongResponse": "Identifies all section boundaries with their markers, and produces a natural spoken preview with at least two macro-markers and a pause at the boundary.",
+        "partialResponse": "Identifies most boundaries but misses one marked only by prosody, or produces a preview in written style.",
+        "gapResponse": "Cannot identify boundaries; the preview lacks any structuring language."
+      },
+      "contextNotes": "Foundation and pre-sessional courses emphasise recognition in lectures alongside short presentations. Undergraduate in-sessional work concentrates on assessed presentations and seminar contributions. Taught postgraduate and doctoral learners need signposting for longer research presentations and, for doctoral students who teach, for their own lecturing.",
+      "citations": [
+        "chaudronrichards1986",
+        "thompson2003lectures",
+        "biber2004bundles",
+        "young1994"
+      ],
+      "reviewNotes": []
+    }
+  ],
+  "proposedReferences": [
+    {
+      "key": "grangertyson1996",
+      "kind": "article",
+      "apa": "Granger, S., & Tyson, S. (1996). Connector usage in the English essay writing of native and non-native EFL speakers of English. *World Englishes, 15*(1), 17–27.",
+      "note": "High confidence in authors, title, journal, year, volume and page range. DOI omitted because I am not certain of it."
+    },
+    {
+      "key": "graycortes2011",
+      "kind": "article",
+      "apa": "Gray, B., & Cortes, V. (2011). Perception vs. evidence: An analysis of *this* and *these* in academic prose. *English for Specific Purposes, 30*(1), 31–43.",
+      "note": "Confident in authors, title, journal and year; moderately confident in volume, issue and pages, which should be checked. DOI omitted."
+    },
+    {
+      "key": "hylandmilton1997",
+      "kind": "article",
+      "apa": "Hyland, K., & Milton, J. (1997). Qualification and certainty in L1 and L2 students' writing. *Journal of Second Language Writing, 6*(2), 183–205.",
+      "note": "High confidence in all bibliographic details; DOI omitted because not certain. Cited for L2 student writers' narrower range of hedges and stronger certainty compared with L1 peers."
+    },
+    {
+      "key": "hyland2001reader",
+      "kind": "article",
+      "apa": "Hyland, K. (2001). Bringing in the reader: Addressee features in academic articles. *Written Communication, 18*(4), 549–574.",
+      "note": "High confidence in authors, title, journal, year and volume; pages should be checked. DOI omitted."
+    },
+    {
+      "key": "hyland2007gloss",
+      "kind": "article",
+      "apa": "Hyland, K. (2007). Applying a gloss: Exemplifying and reformulating in academic discourse. *Applied Linguistics, 28*(2), 266–285.",
+      "note": "Confident in author, title, journal and year; volume, issue and pages should be checked. DOI omitted."
+    }
+  ],
+  "authorNotes": [
+    "coh.signalling-nouns overlaps voc.abstract-shell-nouns and grm.reference-pronouns (both mention 'this + summarising noun'). I treat voc.abstract-shell-nouns as the lexical prerequisite and grm.reference-pronouns as the grammatical prerequisite; VOC and GRM authors should not make either depend on coh.signalling-nouns, or a cycle will form.",
+    "coh.connector-precision and coh.linking-adverbials overlap grm.linking-adverbial-placement and phr.bundles-text-oriented. I deliberately did not use grm.linking-adverbial-placement as a prerequisite, because placement presupposes knowing the connectors; I suggest grm.linking-adverbial-placement depend on coh.linking-adverbials.",
+    "coh.given-new depends softly on grm.passive-voice. If the GRM author makes grm.passive-voice depend on coh.given-new (function of the passive), one direction must be dropped at integration; I suggest keeping form before function as here.",
+    "Gap: Hyland's interactive categories of endophoric markers ('see Section 3', 'as noted above') and evidentials have no topic. They are partly covered by coh.frame-markers and dat.referring-to-visuals; consider broadening coh.frame-markers' scope or adding a topic.",
+    "coh.text-patterns and fun.problem-solution overlap (situation–problem–response–evaluation appears in both scope notes). I scope coh.text-patterns as recognising and using the family of patterns as reader expectations, and fun.problem-solution as the problem–solution function and its language; the edge fun.problem-solution ← coh.text-patterns encodes this.",
+    "coh.spoken-signposting overlaps lis.lecture-discourse-markers and prs.signposting. I authored it as the shared linguistic resource; I suggest lis.lecture-discourse-markers and prs.signposting take it as a prerequisite rather than the reverse.",
+    "coh.writer-responsibility: Hinds's typology is contested. Consider renaming the topic 'Explicitness and reader expectations' so the taxonomy does not appear to endorse a national typology. I suggest idn.intercultural-rhetoric depend on this topic rather than the reverse.",
+    "Cycle-risk edges to check when strands are merged: coh.frame-markers ← ess.essay-structure; coh.paragraph-transitions ← par.topic-sentences; coh.text-patterns ← par.paragraph-unit; coh.writer-responsibility ← wpr.audience-purpose. Each assumes the PAR/ESS/WPR topic is the more foundational one."
+  ]
+}

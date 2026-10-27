@@ -1,18 +1,219 @@
 [
- {"findingId":"R5-02","change":{"kind":"edge-add","topicId":"pub.multilingual-scholars","prerequisiteId":"acu.critical-eap","strength":"soft","reason":"Questioning publishing norms builds on making informed, justified choices about academic conventions"}},
- {"findingId":"R5-02","change":{"kind":"edge-add","topicId":"idn.translingual-writing","prerequisiteId":"acu.critical-eap","strength":"soft","reason":"Negotiating translingual choices draws on the skill of justifying choices about conventions"}},
- {"findingId":"R5-02","change":{"kind":"edge-add","topicId":"idn.standards-legitimacy","prerequisiteId":"acu.critical-eap","strength":"soft","reason":"Questioning native-speaker standards extends critical examination of academic conventions"}},
- {"findingId":"R1-23","change":{"kind":"edge-add","topicId":"lrn.content-through-english","prerequisiteId":"acu.emi-tne","strength":"soft","reason":"Learning content through English is shaped by the EMI or transnational context in which it happens"}},
- {"findingId":"R5-02","change":{"kind":"edge-add","topicId":"fbk.marking-criteria","prerequisiteId":"acu.hidden-curriculum","strength":"soft","reason":"Marking criteria encode tacit expectations that are easier to interpret once they are made explicit"}},
- {"findingId":"R5-02","change":{"kind":"edge-add","topicId":"fbk.feedback-literacy","prerequisiteId":"acu.hidden-curriculum","strength":"soft","reason":"Feedback often presupposes tacit expectations that learners need to recognise"}},
- {"findingId":"R1-28","change":{"kind":"edge-strength","topicId":"ges.genre-concept","prerequisiteId":"acu.discourse-communities","strength":"soft"}},
- {"findingId":"R1-21","change":{"kind":"edge-add","topicId":"pub.conference-participation","prerequisiteId":"prg.informal-academic-interaction","strength":"soft","reason":"Networking at conferences extends informal academic interaction"}},
- {"findingId":"R5-04","change":{"kind":"edge-add","topicId":"int.policy-processes","prerequisiteId":"prg.formal-statements","strength":"soft","reason":"Responding within integrity processes uses the conventions of formal statements and appeals"}},
- {"findingId":"R1-25","change":{"kind":"edge-remove","topicId":"lis.lecture-structure","prerequisiteId":"acu.teaching-formats"}},
- {"findingId":"R5-02","change":{"kind":"edge-add","topicId":"rdp.plurilingual-reading","prerequisiteId":"idn.plurilingual-repertoire","strength":"soft","reason":"Strategic L1 and translation use in reading applies a plurilingual repertoire"}},
- {"findingId":"R5-02","change":{"kind":"edge-add","topicId":"dig.machine-translation","prerequisiteId":"rdp.plurilingual-reading","strength":"soft","reason":"Translation-tool use builds on deliberate plurilingual reading strategies"}},
- {"findingId":"R9-x","change":{"kind":"edge-add","topicId":"res.literature-review","prerequisiteId":"cit.citation-politics","strength":"soft","reason":"Positioning a study within literature involves deliberate choices about whose work is cited"}},
- {"findingId":"R11-x","change":{"kind":"edge-add","topicId":"tst.presessional-progression","prerequisiteId":"ges.extended-source-based-project","strength":"soft","reason":"The extended source-based project is a common progression assessment"}},
- {"findingId":"R2-x","change":{"kind":"edge-add","topicId":"fun.describing-process","prerequisiteId":"grm.unaccusative-verbs","strength":"soft","reason":"Describing processes often uses unaccusative verbs (occur, emerge) that do not take the passive"}},
- {"findingId":"R2-x","change":{"kind":"edge-add","topicId":"dat.describing-trends","prerequisiteId":"grm.unaccusative-verbs","strength":"soft","reason":"Trend verbs (rise, fall, increase) alternate between transitive and intransitive use"}}
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "pub.multilingual-scholars",
+   "prerequisiteId": "acu.critical-eap",
+   "strength": "soft",
+   "reason": "Questioning publishing norms builds on making informed, justified choices about academic conventions"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "idn.translingual-writing",
+   "prerequisiteId": "acu.critical-eap",
+   "strength": "soft",
+   "reason": "Negotiating translingual choices draws on the skill of justifying choices about conventions"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "idn.standards-legitimacy",
+   "prerequisiteId": "acu.critical-eap",
+   "strength": "soft",
+   "reason": "Questioning native-speaker standards extends critical examination of academic conventions"
+  }
+ },
+ {
+  "findingId": "R1-23",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "lrn.content-through-english",
+   "prerequisiteId": "acu.emi-tne",
+   "strength": "soft",
+   "reason": "Learning content through English is shaped by the EMI or transnational context in which it happens"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "fbk.marking-criteria",
+   "prerequisiteId": "acu.hidden-curriculum",
+   "strength": "soft",
+   "reason": "Marking criteria encode tacit expectations that are easier to interpret once they are made explicit"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "fbk.feedback-literacy",
+   "prerequisiteId": "acu.hidden-curriculum",
+   "strength": "soft",
+   "reason": "Feedback often presupposes tacit expectations that learners need to recognise"
+  }
+ },
+ {
+  "findingId": "R1-28",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "ges.genre-concept",
+   "prerequisiteId": "acu.discourse-communities",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R1-21",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "pub.conference-participation",
+   "prerequisiteId": "prg.informal-academic-interaction",
+   "strength": "soft",
+   "reason": "Networking at conferences extends informal academic interaction"
+  }
+ },
+ {
+  "findingId": "R5-04",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "int.policy-processes",
+   "prerequisiteId": "prg.formal-statements",
+   "strength": "soft",
+   "reason": "Responding within integrity processes uses the conventions of formal statements and appeals"
+  }
+ },
+ {
+  "findingId": "R1-25",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "lis.lecture-structure",
+   "prerequisiteId": "acu.teaching-formats"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "rdp.plurilingual-reading",
+   "prerequisiteId": "idn.plurilingual-repertoire",
+   "strength": "soft",
+   "reason": "Strategic L1 and translation use in reading applies a plurilingual repertoire"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "dig.machine-translation",
+   "prerequisiteId": "rdp.plurilingual-reading",
+   "strength": "soft",
+   "reason": "Translation-tool use builds on deliberate plurilingual reading strategies"
+  }
+ },
+ {
+  "findingId": "R9-x",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "res.literature-review",
+   "prerequisiteId": "cit.citation-politics",
+   "strength": "soft",
+   "reason": "Positioning a study within literature involves deliberate choices about whose work is cited"
+  }
+ },
+ {
+  "findingId": "R11-x",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "tst.presessional-progression",
+   "prerequisiteId": "ges.extended-source-based-project",
+   "strength": "soft",
+   "reason": "The extended source-based project is a common progression assessment"
+  }
+ },
+ {
+  "findingId": "R2-x",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "fun.describing-process",
+   "prerequisiteId": "grm.unaccusative-verbs",
+   "strength": "soft",
+   "reason": "Describing processes often uses unaccusative verbs (occur, emerge) that do not take the passive"
+  }
+ },
+ {
+  "findingId": "R2-x",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "dat.describing-trends",
+   "prerequisiteId": "grm.unaccusative-verbs",
+   "strength": "soft",
+   "reason": "Trend verbs (rise, fall, increase) alternate between transitive and intransitive use"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "pub.multilingual-scholars",
+   "prerequisiteId": "idn.translingual-writing",
+   "strength": "soft",
+   "reason": "Publishing as a multilingual scholar includes deciding when translingual choices are viable"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "src.multilingual-sources",
+   "prerequisiteId": "idn.translingual-writing",
+   "strength": "soft",
+   "reason": "Using sources in other languages connects to translingual approaches to academic text"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "sta.authorial-voice",
+   "prerequisiteId": "idn.translingual-writing",
+   "strength": "soft",
+   "reason": "Translingual choices are one resource for constructing an authorial voice"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "sta.authorial-voice",
+   "prerequisiteId": "idn.academic-identity",
+   "strength": "soft",
+   "reason": "Authorial voice is the textual construction of an academic identity"
+  }
+ },
+ {
+  "findingId": "R5-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "cit.citation-politics",
+   "prerequisiteId": "idn.standards-legitimacy",
+   "strength": "soft",
+   "reason": "Whose knowledge is cited connects to questions of whose English counts as legitimate"
+  }
+ },
+ {
+  "findingId": "R6-02",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "res.systematic-review-writing",
+   "prerequisiteId": "dhl.critical-appraisal",
+   "strength": "soft",
+   "reason": "Systematic reviews in health and related fields report the appraisal of included studies"
+  }
+ }
 ]

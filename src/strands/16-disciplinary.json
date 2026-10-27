@@ -9,9 +9,10 @@
       "learnerSummary": "You will learn how to talk and write about visual work, present and discuss your work in studio critiques, and write statements and rationales that explain your concept, process and decisions.",
       "stageEmphasis": {
         "foundation": "On art and design foundation courses, build vocabulary for visual analysis and confidence in presenting work in crits.",
-        "pre-sessional": "On art and design pathways, prepare students for crits and for short statements about their work.",
         "in-sessional-ug": "Support crit participation, design rationales and statements in studio modules, ideally with tutors present.",
-        "in-sessional-pgt": "Focus on articulating a practice in relation to context and theory in statements, rationales and final crits."
+        "in-sessional-pgt": "Focus on articulating a practice in relation to context and theory in statements, rationales and final crits.",
+        "pre-sessional-ug": "On art and design pathways, prepare students for crits and for short statements about their work.",
+        "pre-sessional-pg": "On art and design pathways, prepare students for crits and for short statements about their work."
       },
       "keyReferences": [
         "kressvanleeuwen2006",
@@ -29,9 +30,10 @@
       "learnerSummary": "You will learn how to analyse business cases, use management frameworks critically, reason with economic models and write the reports, memos and pitches that business schools assess.",
       "stageEmphasis": {
         "foundation": "Introduce management frameworks, case analysis and the language of economic models within business foundation programmes.",
-        "pre-sessional": "On business pathways, contrast the business report and case analysis with the academic essay and practise frameworks applied to short cases.",
         "in-sessional-ug": "Embed support for case analyses, reports and economic reasoning in modules, using the school's own briefs and exemplars.",
-        "in-sessional-pgt": "Support the high volume of case-based and professional genres on master's programmes such as the MBA and MSc Management, where students often have little time to adjust."
+        "in-sessional-pgt": "Support the high volume of case-based and professional genres on master's programmes such as the MBA and MSc Management, where students often have little time to adjust.",
+        "pre-sessional-ug": "On business pathways, contrast the business report and case analysis with the academic essay and practise frameworks applied to short cases.",
+        "pre-sessional-pg": "On business pathways, contrast the business report and case analysis with the academic essay and practise frameworks applied to short cases."
       },
       "keyReferences": [
         "nathan2013",
@@ -49,10 +51,11 @@
       "learnerSummary": "You will learn how health professionals use evidence, reflect on practice, document and present patient care, appraise research and communicate safely with patients and colleagues in English.",
       "stageEmphasis": {
         "foundation": "Introduce evidence-based practice and the vocabulary of health care in foundation programmes that lead to health degrees.",
-        "pre-sessional": "On health pathways, prepare students for reflective writing and for spoken communication with patients and colleagues.",
         "in-sessional-ug": "Embed support for reflective assignments, care plans, case studies and placement communication in nursing, midwifery, medicine and allied health programmes.",
         "in-sessional-pgt": "Emphasise critical appraisal, evidence synthesis and reflective writing for experienced practitioners taking master's degrees.",
-        "pgr": "Support systematic review writing and reporting to recognised reporting guidelines."
+        "pgr": "Support systematic review writing and reporting to recognised reporting guidelines.",
+        "pre-sessional-ug": "On health pathways, prepare students for reflective writing and for spoken communication with patients and colleagues.",
+        "pre-sessional-pg": "On health pathways, prepare students for reflective writing and for spoken communication with patients and colleagues."
       },
       "keyReferences": [
         "sackett1996",
@@ -70,10 +73,11 @@
       "learnerSummary": "You will learn how to analyse texts closely, work with primary sources, argue for an interpretation with textual evidence and write philosophical arguments with objections and replies.",
       "stageEmphasis": {
         "foundation": "Introduce close reading and the use of quotation as evidence on humanities foundation programmes.",
-        "pre-sessional": "On humanities pathways, practise close analysis and the shift from summary to interpretation.",
         "in-sessional-ug": "Support interpretive essays, source analysis and philosophical argument in subject modules, using the department's exemplars.",
         "in-sessional-pgt": "Emphasise original interpretation, engagement with critical debates and archival or primary-source work for dissertations.",
-        "pgr": "Support doctoral researchers in sustaining interpretive arguments across chapters and in archival research and citation."
+        "pgr": "Support doctoral researchers in sustaining interpretive arguments across chapters and in archival research and citation.",
+        "pre-sessional-ug": "On humanities pathways, practise close analysis and the shift from summary to interpretation.",
+        "pre-sessional-pg": "On humanities pathways, practise close analysis and the shift from summary to interpretation."
       },
       "keyReferences": [
         "coffin2006",
@@ -91,9 +95,10 @@
       "learnerSummary": "You will learn how to read cases and legislation, use legal terms precisely, answer problem questions and write legal essays supported by legal authority and the referencing style your law school requires (often OSCOLA in the UK).",
       "stageEmphasis": {
         "foundation": "Introduce legal vocabulary, the structure of cases and the idea of precedent in law foundation programmes.",
-        "pre-sessional": "On law pathways, practise reading short judgments and statutes and contrast problem questions with essays.",
         "in-sessional-ug": "Embed support for case briefing, problem questions and essays in first-year LLB modules, where the conventions are new to everyone.",
-        "in-sessional-pgt": "Support LLM students, many trained in other legal systems, to read common-law materials efficiently and write analytical legal essays with OSCOLA referencing."
+        "in-sessional-pgt": "Support LLM students, many trained in other legal systems, to read common-law materials efficiently and write analytical legal essays with OSCOLA referencing.",
+        "pre-sessional-ug": "On law pathways, practise reading short judgments and statutes and contrast problem questions with essays.",
+        "pre-sessional-pg": "On law pathways, practise reading short judgments and statutes and contrast problem questions with essays."
       },
       "keyReferences": [
         "bhatia1993",
@@ -110,10 +115,11 @@
       "learnerSummary": "You will learn how scientists, engineers, mathematicians and programmers use English to explain, instruct, specify, prove and document, and how to write these texts the way your department expects.",
       "stageEmphasis": {
         "foundation": "Build control of scientific explanation, process description and experimental vocabulary alongside subject content, using textbook and practical-class texts.",
-        "pre-sessional": "On science and engineering pathways, raise awareness of nominalisation, technicality and explanation genres, and practise reading and writing short experimental and procedural texts.",
         "in-sessional-ug": "Embed work on lab-related language, specifications, proofs and documentation in modules, ideally co-designed with subject staff around real assignments.",
         "in-sessional-pgt": "Focus on precision in specifications, design documentation and project reports, and on the conventions of the student's specialism.",
-        "pgr": "Support protocol and methods writing, documentation of research software and the conventions of mathematical and technical publication."
+        "pgr": "Support protocol and methods writing, documentation of research software and the conventions of mathematical and technical publication.",
+        "pre-sessional-ug": "On science and engineering pathways, raise awareness of nominalisation, technicality and explanation genres, and practise reading and writing short experimental and procedural texts.",
+        "pre-sessional-pg": "On science and engineering pathways, raise awareness of nominalisation, technicality and explanation genres, and practise reading and writing short experimental and procedural texts."
       },
       "keyReferences": [
         "hallidaymartin1993",
@@ -130,10 +136,11 @@
       "summary": "This domain covers the literacies of sociology, politics, social policy, international relations, psychology's more interpretive traditions, education and related fields. These are 'soft' disciplines in Becher and Trowler's terms, where key concepts are contested, several research paradigms coexist and writers are expected to justify their conceptual and methodological choices explicitly. The topics address working with contested concepts, qualitative research writing, policy analysis and methodology justification, which recur from UG coursework to doctoral theses. Because expectations vary between fields and between supervisors, analysis of local exemplars with subject staff is essential.",
       "learnerSummary": "You will learn how social scientists and education researchers define contested concepts, justify their methods, write up qualitative research and analyse policy.",
       "stageEmphasis": {
-        "pre-sessional": "On social science pathways, introduce contested concepts and the idea that definitions and methods must be justified.",
         "in-sessional-ug": "Support concept work, policy analysis and the methods and findings chapters of final-year projects.",
         "in-sessional-pgt": "Focus on methodology chapters, qualitative findings and policy analysis in master's dissertations, where many students are new to the paradigms of the field.",
-        "pgr": "Support doctoral researchers in articulating paradigms, operationalising concepts and writing extended interpretive analysis."
+        "pgr": "Support doctoral researchers in articulating paradigms, operationalising concepts and writing extended interpretive analysis.",
+        "pre-sessional-ug": "On social science pathways, introduce contested concepts and the idea that definitions and methods must be justified.",
+        "pre-sessional-pg": "On social science pathways, introduce contested concepts and the idea that definitions and methods must be justified."
       },
       "keyReferences": [
         "creswell2018",
@@ -154,12 +161,6 @@
       "description": "Take part in studio critiques (crits) in their various forms, from one-to-one desk crits to group crits and formal reviews with a panel: present work concisely by explaining intentions, process and key decisions; listen to and clarify critique; respond to challenges by explaining or reconsidering choices without defensiveness; and give peers specific, constructive critique. Crits are a central, often assessed, speech event in art and design education with conventions and a vocabulary that are rarely made explicit.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Introduces their work in two to three minutes, covering intention, process and the main decisions, rather than describing every stage",
@@ -198,6 +199,18 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "arts-design"
       ]
     },
     {
@@ -209,12 +222,6 @@
       "description": "Write short statements, typically 50 to 300 words, that explain the concept, materials and process, and context of a work or body of practice for a specific purpose such as an exhibition label, degree show, portfolio or application. Effective statements are concrete and specific, usually written in the present tense, in the first person for statements the artist or designer authors but often in the third person for wall labels, catalogue entries and short bios, and connect the work to influences or ideas without inflated or unexplained theoretical language.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "States what the work is and what it explores in the opening sentence",
@@ -245,6 +252,18 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "arts-design"
       ]
     },
     {
@@ -256,11 +275,6 @@
       "description": "Document and justify the design process in sketchbooks, process journals, annotated boards and written rationales: record research, ideation, development, testing and refinement; explain each significant decision with reference to the brief, users, constraints and precedents; show alternatives considered and why they were rejected; and evaluate the outcome against the brief. Rationales make the designer's reasoning visible to assessors and are a major component of many practice-based assessments.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Annotates process images with brief notes that explain why a change was made, not only what was done",
@@ -292,6 +306,16 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "arts-design"
       ]
     },
     {
@@ -303,12 +327,6 @@
       "description": "Describe, analyse and interpret visual works such as artworks, designs, photographs, buildings and adverts using disciplinary vocabulary: formal elements (composition, line, colour, tone, texture, scale, space, medium), and social semiotic concepts such as salience, framing, information value and gaze. Move from what is visible to what it means in context, distinguishing observation from inference and hedging interpretations appropriately. Visual analysis underpins crits, statements, contextual studies essays and design rationales.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Describes a work's composition systematically using spatial language and formal vocabulary",
@@ -339,6 +357,18 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": [
+        "arts-design"
       ]
     },
     {
@@ -350,12 +380,6 @@
       "description": "Write a business case analysis or case report: identify the central problem in an organisational case, analyse its causes with appropriate frameworks and the data in the case, generate and evaluate options against explicit criteria, and make justified, feasible recommendations for a named decision-maker. The genre is problem- and decision-oriented rather than thesis-led and is among the most common assessments in business schools.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "States the central problem of the case in one or two sentences and distinguishes it from its symptoms",
@@ -387,6 +411,19 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "business-management",
+        "economics"
       ]
     },
     {
@@ -398,12 +435,6 @@
       "description": "Control the language economists use to reason with models: stating assumptions, holding other factors constant (ceteris paribus), conditional and counterfactual predictions, comparative statics (what happens to equilibrium when one variable changes), marginal reasoning, and the distinction between positive and normative statements. It also includes describing diagrams precisely (a shift of a curve versus a movement along it) and distinguishing causal from correlational claims in empirical economics.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "States the assumptions of a model before using it to predict an outcome",
@@ -433,6 +464,19 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "business-management",
+        "economics"
       ]
     },
     {
@@ -444,10 +488,6 @@
       "description": "Write and present the simulated professional genres business schools assess: memos, briefing notes, management reports and pitches. These genres put the main point or recommendation first, are organised for a busy decision-maker, use informative headings and selective bullet points, and adjust tone and directness to the relationship between writer and reader. Their conventions differ from the academic essay and can vary between schools and industries.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Places the purpose and main recommendation at the start of a memo or briefing note",
@@ -486,6 +526,16 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "business-management",
+        "economics"
       ]
     },
     {
@@ -497,12 +547,6 @@
       "description": "Use management frameworks such as SWOT, PESTLE, Porter's Five Forces and the value chain as analytical tools: choose a framework that fits the question, support each entry with case evidence, prioritise factors by significance, draw out implications for the organisation, and acknowledge the framework's limitations. Markers commonly criticise frameworks presented as unprioritised lists without analysis or implications.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Justifies the choice of framework in relation to the question being asked",
@@ -533,6 +577,19 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "business-management",
+        "economics"
       ]
     },
     {
@@ -544,11 +601,6 @@
       "description": "Understand evidence-based practice as the integration of the best available research evidence with clinical expertise and the values and circumstances of the patient, not as following research alone. In academic work this means framing focused clinical questions with a framework suited to the question (for example PICO for intervention questions, or PEO or SPIDER for questions about experience), recognising evidence hierarchies and their limits, and writing assignments in which recommendations for practice are justified by appraised evidence, professional judgement and patient perspective.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Explains the components of evidence-based practice and why research evidence alone does not determine a care decision",
@@ -576,6 +628,16 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "health-medicine"
       ]
     },
     {
@@ -587,11 +649,6 @@
       "description": "Write structured reflections on placement or practice experiences using a model the programme specifies (for example Gibbs's reflective cycle or a What? So what? Now what? model), moving from a concise, anonymised account of an event to analysis that draws on literature and professional standards, and ending with a concrete plan for future practice. Reflective writing is assessed throughout health programmes and in professional revalidation, and is judged on depth of analysis and professional judgement, not on confession.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Keeps the descriptive stage brief and anonymises people and settings in line with professional confidentiality requirements",
@@ -624,6 +681,17 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "health-medicine"
       ]
     },
     {
@@ -635,10 +703,6 @@
       "description": "Produce the case-based genres of health education: oral and written case presentations that order patient information conventionally (presenting complaint, history, examination, investigations, assessment, plan), and care plans, usually structured by the nursing process (assessment, problem identification or diagnosis, planning, implementation, evaluation) and often by a nursing model the programme specifies, that link assessed needs to goals, interventions with rationales, and evaluation. These genres select and order information for clinical decision-making, use standard abbreviations cautiously and must respect confidentiality.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Presents a case in the conventional order used by the programme, selecting information relevant to the clinical problem rather than recounting everything",
@@ -677,6 +741,15 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "health-medicine"
       ]
     },
     {
@@ -688,11 +761,6 @@
       "description": "Communicate safely and appropriately with patients, families and colleagues on placement: structuring consultations, asking open and closed questions, explaining in lay terms and checking understanding, responding to emotion, seeking consent, and giving concise structured handovers or escalations to colleagues. On placement, language is part of clinical safety and is assessed against professional standards; it also involves understanding colloquial and regional ways patients describe symptoms.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Explains a procedure or condition to a lay person without unexplained jargon and checks understanding by asking the person to say it back in their own words",
@@ -732,6 +800,17 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "health-medicine"
       ]
     },
     {
@@ -743,11 +822,6 @@
       "description": "Appraise health research with a structured tool suited to the study design (for example a CASP checklist) and write up the appraisal as a reasoned judgement about validity, results and applicability. At more advanced levels, report systematic or structured reviews transparently, following reporting guidance such as PRISMA 2020 for search, selection, risk-of-bias assessment and synthesis. Appraisal assignments are common in health programmes and are marked on judgement, not on checklist completion.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Selects an appraisal tool appropriate to the study design and justifies the choice",
@@ -778,6 +852,16 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "health-medicine"
       ]
     },
     {
@@ -789,12 +873,6 @@
       "description": "Analyse how a passage creates meaning through its language and form, noticing patterns of word choice, imagery, syntax, sound, structure, point of view and genre, and moving from observation to interpretation by explaining what each feature does and why it matters. Close reading underpins literary studies and is also used in history, philosophy and cultural studies; a multilingual reader's sensitivity to language is a resource for it.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Identifies patterns (repetition, contrast, shifts in tense or voice) in a short passage, not only isolated features",
@@ -825,6 +903,18 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "humanities"
       ]
     },
     {
@@ -836,11 +926,6 @@
       "description": "Interpret primary sources such as documents, letters, images, objects and archival records by sourcing them (who produced them, when, why and for whom), contextualising them in their period, corroborating them against other sources, reading them closely and noting their silences. Write about them with appropriate caution and cite them in the conventions of the discipline, including archival locations and translations. Whether a source counts as primary depends on the research question.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Identifies author, date, intended audience and purpose of a source and explains how they affect its reliability for a given question",
@@ -872,6 +957,16 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "humanities"
       ]
     },
     {
@@ -883,12 +978,6 @@
       "description": "Write essays that argue for an interpretation of texts, sources or events: pose an arguable interpretive thesis, build it through analysed textual or documentary evidence, position it in relation to existing critical or historiographical readings, address alternative readings and sustain an evaluative voice. Disciplinary conventions differ, for example the present tense for discussing literary works and the movement in history from recounting events to explaining and arguing about them.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "States an interpretive thesis that a reasonable reader could dispute, rather than a summary or a fact",
@@ -920,6 +1009,18 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "humanities"
       ]
     },
     {
@@ -931,11 +1032,6 @@
       "description": "Write philosophy essays that reconstruct an argument charitably in premise–conclusion form, evaluate whether it is valid and whether its premises are true, raise objections (including counterexamples and thought experiments), consider replies, and defend a position with clear distinctions and definitions. Philosophical prose values clarity, precision and explicit signposting over rhetorical flourish, and commonly uses the first person to mark the writer's argumentative moves.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Reconstructs a philosopher's argument as numbered premises and a conclusion in their own words, faithfully and charitably",
@@ -966,6 +1062,16 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "humanities"
       ]
     },
     {
@@ -977,12 +1083,6 @@
       "description": "Recognise the distinctive features of legal English and why they exist: terms of art with fixed legal meanings (consideration, negligence, estoppel), everyday words with specialised legal senses (party, action, hold, find), Latin and Law French expressions, binomials such as null and void, deontic modals, long sentences with embedded qualifications, and the plain-language movement's critique of archaic drafting. Legal terms are tied to a particular legal system, so their meaning cannot be assumed from another jurisdiction or from a bilingual dictionary.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Distinguishes the legal from the everyday sense of sub-technical words such as consideration, action, hold and party in context",
@@ -1013,6 +1113,18 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "law"
       ]
     },
     {
@@ -1024,12 +1136,6 @@
       "description": "Read law reports strategically and brief them: use the citation, court and headnote to orient (knowing that the headnote is an editor's summary, not authority), then identify the material facts, procedural history, legal issues, the parties' arguments, the decision, the ratio decidendi and any obiter dicta, and note concurring or dissenting judgments. Case reading is the foundation of common-law study because legal rules are extracted from, and argued about through, judgments.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Produces a case brief with facts, procedural history, issues, decision, reasoning, ratio and notable obiter dicta under conventional headings",
@@ -1061,6 +1167,18 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "law"
       ]
     },
     {
@@ -1072,11 +1190,6 @@
       "description": "Answer hypothetical fact scenarios by advising a party: identify every legal issue the facts raise, state the relevant rule with authority, apply it to the specific facts (including by analogy with and distinction from decided cases), consider alternative interpretations where facts are uncertain, and reach a reasoned, appropriately hedged conclusion. IRAC (Issue, Rule, Application, Conclusion) and variants such as CLEO are widely taught scaffolds, but lecturers differ on them and critics note that applied mechanically they encourage rule-stating without application.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Identifies all the legal issues in a scenario, including less obvious ones, and orders them logically",
@@ -1108,6 +1221,17 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "law"
       ]
     },
     {
@@ -1119,11 +1243,6 @@
       "description": "Navigate and interpret legislation: use its structure (long and short title, parts, sections, subsections, paragraphs, schedules, interpretation and commencement provisions) to find relevant provisions, follow cross-references and definitions (including the difference between 'means' and 'includes'), parse qualifications such as subject to, notwithstanding and unless, and recognise both the traditional textbook approaches to interpretation (literal, golden and mischief rules) and the contextual, purposive approach that UK courts now describe as the modern method. Statutory text is drafted for precision and comprehensiveness, so reading it requires slow, structural parsing.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Locates a provision using its section and subsection numbering and cites it accurately",
@@ -1153,6 +1272,17 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "law"
       ]
     },
     {
@@ -1164,11 +1294,6 @@
       "description": "Write essays that argue a position about the law or legal policy: explain the current law accurately from primary authority, analyse its coherence and development, evaluate it from doctrinal, theoretical, socio-legal or law-reform perspectives using academic commentary and official reports, and sustain a thesis in answer to the question. Legal essays rely on a hierarchy of authority, use reporting verbs with legal meanings (a court holds, a judge observes, counsel submits) and are usually referenced with footnotes in OSCOLA.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "States a thesis that answers the question and sustains it across the essay",
@@ -1191,6 +1316,17 @@
           ],
           "contribution": "core"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "law"
       ]
     },
     {
@@ -1202,12 +1338,6 @@
       "description": "Recognise how scientific English builds knowledge through technical terms organised into taxonomies, chains of interlocking definitions, grammatical metaphor (especially nominalisation) and high lexical density, and explain what each does for the scientific reader. Understanding these features as functional, not as obscurity, lets learners unpack dense textbook and research prose and begin to produce it.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Unpacks a nominalised scientific sentence into a sequence of congruent clauses (who did what, what caused what) and repacks it",
@@ -1240,6 +1370,21 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "computing",
+        "mathematics-statistics"
       ]
     },
     {
@@ -1251,11 +1396,6 @@
       "description": "Write and present explanations of how or why phenomena occur, choosing among sequential explanations (a chain of events in time), causal and factorial explanations (multiple causes), consequential explanations (multiple effects) and theoretical explanations that apply a model or law to a case. Explanation is one of the most frequently assessed genres in undergraduate science and engineering and underlies exam answers, lab-report discussions and textbook learning.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Selects an explanation type that fits the question (for example a sequential explanation for a cycle, a factorial explanation for a multi-cause outcome)",
@@ -1289,6 +1429,20 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "computing",
+        "mathematics-statistics"
       ]
     },
     {
@@ -1300,12 +1454,6 @@
       "description": "Read and write procedural and specification texts used in laboratories and engineering: experimental protocols and standard operating procedures, method statements, and requirements or design specifications. This involves numbered imperative steps with exact quantities, conditions and tolerances, safety notes placed before the hazardous step, and requirement statements that use modal verbs consistently (often shall or must for mandatory, should for recommended, may for optional) so that each statement can be verified.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Writes a protocol whose steps another student can follow without asking questions, with quantities, units, conditions and timings stated",
@@ -1337,6 +1485,20 @@
           ],
           "contribution": "core"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "computing",
+        "mathematics-statistics"
       ]
     },
     {
@@ -1348,12 +1510,6 @@
       "description": "Use the language of experimental design and measurement precisely: testable hypotheses and predictions, independent, dependent and controlled variables, control conditions, random and systematic error, accuracy versus precision, and statements of uncertainty (for example with ± and appropriate significant figures). Many of these words have everyday meanings (error, control, significant, precise) that differ from their technical sense, so misuse signals misunderstanding of method as well as of language.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Writes a hypothesis and a corresponding prediction that state the expected relationship between named independent and dependent variables",
@@ -1385,6 +1541,21 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "computing",
+        "mathematics-statistics"
       ]
     },
     {
@@ -1396,11 +1567,6 @@
       "description": "Write the main documentation genres of computing for their distinct readers: README files that tell a newcomer what a project does and how to install, run and contribute to it; code comments and docstrings that explain intent and non-obvious decisions rather than restating the code; API reference entries that specify parameters, return values, errors and examples; and design documents that set out context, goals and non-goals, alternatives considered and trade-offs. Documentation is assessed in computing projects and is a core professional literacy.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Produces a README that a peer can use to install and run the project, with a one-sentence purpose statement, prerequisites, usage example and licence or contribution note",
@@ -1431,6 +1597,19 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "computing",
+        "mathematics-statistics"
       ]
     },
     {
@@ -1442,12 +1621,6 @@
       "description": "Write proofs and worked solutions in which notation is embedded in grammatical, punctuated sentences and the logical steps are signalled in words: introducing objects (let, suppose, define), stating quantifiers (for all, there exists), marking inference (hence, it follows that, since), naming the proof strategy (by contradiction, by induction, by the contrapositive) and closing the argument. Markers in mathematics expect the reasoning, not only the answer, to be readable, and students used to answer-only assessment often lose marks for unexplained steps.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Introduces every symbol before it is used and states its type or domain",
@@ -1478,6 +1651,20 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "computing",
+        "mathematics-statistics"
       ]
     },
     {
@@ -1489,12 +1676,6 @@
       "description": "Handle contested social concepts (for example class, identity, power, inclusion, globalisation) explicitly: show that a concept is defined differently in different theoretical traditions, state and justify the definition adopted, and, in empirical work, operationalise it as indicators, measures or coding categories, or treat it as a sensitising concept in qualitative work. Markers in the social sciences reward conceptual precision and penalise treating contested terms as self-evident.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Shows that a key concept is contested by comparing at least two definitions from different sources or traditions",
@@ -1525,6 +1706,19 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "social-sciences",
+        "education"
       ]
     },
     {
@@ -1536,11 +1730,6 @@
       "description": "Produce the texts of qualitative social research: field notes that separate observational description from reflective and analytic comment; accounts of thematic or other qualitative analysis that make analytic decisions transparent; and findings sections that organise themes around interpretive claims, select and frame participant quotations, and interpret them rather than letting them speak for themselves. Qualitative writing positions the researcher reflexively and makes claims whose scope matches the data.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Writes field notes that separate concrete observation from interpretation and personal response",
@@ -1568,6 +1757,17 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "social-sciences",
+        "education"
       ]
     },
     {
@@ -1579,10 +1779,6 @@
       "description": "Write academic analyses of public or educational policy: define and critically examine how a policy problem is framed, identify stakeholders and interests, assess the evidence base, compare policy options against explicit criteria such as effectiveness, equity, cost and feasibility, and reach a justified recommendation or critical conclusion. Policy analysis ranges from technical option appraisal to critical approaches that ask how problems are represented, and assignments may expect either.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Explains how a policy defines its problem and what alternative framings would imply",
@@ -1612,6 +1808,16 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "social-sciences",
+        "education"
       ]
     },
     {
@@ -1623,11 +1829,6 @@
       "description": "Justify research design in writing: state the philosophical worldview or paradigm informing the study (for example post-positivist, constructivist, transformative or pragmatist), explain how the chosen approach and design follow from the research questions, justify sampling, data collection and analysis with reference to methodological literature, acknowledge trade-offs and ethical considerations, and distinguish methodology (the rationale) from methods (the procedures). Methodology chapters are where examiners judge coherence between questions, design and claims.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Links the chosen approach explicitly to the research questions and to a stated paradigm",
@@ -1654,6 +1855,17 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "social-sciences",
+        "education"
       ]
     }
   ],
@@ -2254,7 +2466,7 @@
     },
     {
       "topicId": "dse.mathematical-writing",
-      "prerequisiteId": "coh.connector-precision",
+      "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
       "reason": "Signalling inference steps (hence, thus, since, conversely) depends on precise use of logical connectors"
     },

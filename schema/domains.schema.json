@@ -1,42 +1,110 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "eap-skill-taxonomy/schema/domains.schema.json",
-  "title": "EAP Skill Taxonomy — strands and domains",
+  "title": "EAP Skill Taxonomy \u2014 strands and domains",
   "type": "object",
-  "required": ["version", "strandCount", "strands", "domainCount", "domains"],
+  "required": [
+    "version",
+    "strandCount",
+    "strands",
+    "domainCount",
+    "domains"
+  ],
   "additionalProperties": false,
   "properties": {
-    "version": { "type": "string" },
-    "strandCount": { "type": "integer" },
+    "version": {
+      "type": "string"
+    },
+    "strandCount": {
+      "type": "integer"
+    },
     "strands": {
       "type": "array",
-      "items": { "type": "object", "required": ["name", "domains"], "additionalProperties": false, "properties": { "name": { "type": "string" }, "domains": { "type": "array", "items": { "type": "string" } } } }
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "domains"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "domains": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
     },
-    "domainCount": { "type": "integer" },
+    "domainCount": {
+      "type": "integer"
+    },
     "domains": {
       "type": "array",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["code", "strand", "name", "summary", "learnerSummary", "stageEmphasis"],
+        "required": [
+          "code",
+          "strand",
+          "name",
+          "summary",
+          "learnerSummary",
+          "stageEmphasis"
+        ],
         "properties": {
-          "code": { "type": "string", "pattern": "^[A-Z]{3}$" },
-          "strand": { "type": "string" },
-          "name": { "type": "string" },
-          "summary": { "type": "string", "description": "For teachers and curriculum designers." },
-          "learnerSummary": { "type": "string", "description": "Plain-language summary addressed to learners." },
+          "code": {
+            "type": "string",
+            "pattern": "^[A-Z]{3}$"
+          },
+          "strand": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string",
+            "description": "For teachers and curriculum designers."
+          },
+          "learnerSummary": {
+            "type": "string",
+            "description": "Plain-language summary addressed to learners."
+          },
           "stageEmphasis": {
             "type": "object",
             "additionalProperties": false,
             "properties": {
-              "foundation": { "type": "string" },
-              "pre-sessional": { "type": "string" },
-              "in-sessional-ug": { "type": "string" },
-              "in-sessional-pgt": { "type": "string" },
-              "pgr": { "type": "string" }
+              "foundation": {
+                "type": "string"
+              },
+              "pre-sessional-ug": {
+                "type": "string"
+              },
+              "pre-sessional-pg": {
+                "type": "string"
+              },
+              "in-sessional-ug": {
+                "type": "string"
+              },
+              "in-sessional-pgt": {
+                "type": "string"
+              },
+              "pgr": {
+                "type": "string"
+              }
             }
           },
-          "keyReferences": { "type": "array", "items": { "type": "string" } }
+          "keyReferences": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
         }
       }
     }

@@ -1,0 +1,118 @@
+{
+  "mergedInto": "syn.integrated-tasks",
+  "finding": "R1-14",
+  "topic": {
+    "id": "tst.integrated-test-tasks",
+    "type": "PROCEDURAL",
+    "strand": "Learning & Autonomy",
+    "domain": "Proficiency Tests & Progression",
+    "name": "Integrated test tasks",
+    "description": "Handle integrated test tasks that require reading and/or listening before writing or speaking: noting key points from the input efficiently, identifying the relationship between sources (for example, a talk that challenges or extends a reading, or several speakers' views that must be summarised together), selecting and transforming content in one's own words, and organising the response around the task's specific demand within the time limit.",
+    "cefrStart": "B1+",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Takes notes on the input that capture the main points and the relationships between sources",
+      "Selects the source content the task requires rather than summarising everything",
+      "Reports source content in their own words with clear attribution to the reading or speaker",
+      "Organises the response around the relationship the task specifies, such as how a talk challenges a reading",
+      "Completes the response within the time, dividing it between processing the input and producing the response"
+    ],
+    "assessmentPrompt": "Use a short reading and a brief talk that challenges it, then ask for a short written response explaining how the talk relates to the reading. Look for the key points from both, an explicit relationship, attribution and transformed wording; copying strings from the reading or omitting the talk indicates a gap.",
+    "citations": [
+      "plakans2008",
+      "plakansgebril2012"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:med.text.processing-text",
+        "levels": [
+          "B2",
+          "B2+"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "cefr-cv:med.text.note-taking",
+        "levels": [
+          "B1+",
+          "B2"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "tst.integrated-test-tasks",
+    "summary": "Plakans (2008) found that reading-to-write test tasks elicited more interactive composing processes than writing-only tasks, and Plakans and Gebril (2012) showed that writers use sources in integrated tasks for ideas, support and organisation, with the selection of important source ideas and the handling of source language among the differences between performances. Teach integrated tasks as a test-specific application of source-based writing: efficient notes, attention to the relationship between sources, selective use of content, attribution and transformation of wording, all within strict time limits.",
+    "activities": [
+      {
+        "title": "Relationship notes",
+        "learnerActions": [
+          "Divide a page into two columns for the reading and the talk",
+          "Note the main points of each in the matching rows",
+          "Draw arrows to show how each point in the talk relates to the reading (challenges, supports, extends)",
+          "Write your response from the arrows rather than from the source text"
+        ],
+        "intendedInsight": "The task is usually about the relationship between sources, not about each source separately.",
+        "rationale": "Organising notes by relationship supports the selection of important ideas, which Plakans and Gebril (2012) link to differences in performance.",
+        "citations": [
+          "plakansgebril2012"
+        ]
+      },
+      {
+        "title": "Borrowing check",
+        "learnerActions": [
+          "Compare your response with the reading and highlight any strings of three or more words copied directly",
+          "Decide for each whether it is a technical term to keep or wording to transform",
+          "Rewrite the transformable strings"
+        ],
+        "intendedInsight": "Using your own wording shows understanding and avoids patchwriting.",
+        "rationale": "Plakans (2008) and Plakans and Gebril (2012) document how writers draw on source language in integrated tasks; making borrowing visible supports transformation.",
+        "citations": [
+          "plakans2008",
+          "plakansgebril2012"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Copying chunks of the reading into the response.",
+        "kind": "developmental",
+        "revealedBy": "Strings matching the reading; little transformation.",
+        "response": "Treat this as a stage in learning to use sources and teach transformation explicitly. Do not treat it as misconduct in a practice context.",
+        "reteachPrerequisiteId": "syn.integrated-tasks"
+      },
+      {
+        "pattern": "Ignoring or under-using the listening input.",
+        "kind": "performance",
+        "revealedBy": "Responses based mainly on the reading.",
+        "response": "Practise note-taking on short talks and require each point to be linked to the reading.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "Summarising each source separately without stating the relationship.",
+        "kind": "developmental",
+        "revealedBy": "Two-part responses ('The reading says… The lecture says…').",
+        "response": "Model responses organised around the relationship and use the relationship-notes format.",
+        "reteachPrerequisiteId": "syn.integrated-tasks"
+      }
+    ],
+    "diagnostic": {
+      "task": "Give a short reading and talk and ask for a two-to-three-sentence summary of how they relate.",
+      "strongResponse": "States the relationship accurately, includes key points from both and uses own wording with attribution.",
+      "partialResponse": "Summarises both but does not state the relationship, or states it with copied wording.",
+      "gapResponse": "Summarises only one source or misrepresents the relationship."
+    },
+    "contextNotes": "Foundation and pre-sessional learners preparing for tests that currently include integrated tasks need this directly (major tests have both added and removed integrated tasks in recent revisions, so check the test owner's current task list before teaching task-specific strategies); it also prepares them for the source-based tasks of pre-sessional progression and university study.",
+    "citations": [
+      "plakans2008",
+      "plakansgebril2012"
+    ],
+    "reviewNotes": []
+  }
+}

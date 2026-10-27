@@ -1,0 +1,111 @@
+{
+  "mergedInto": "wpr.task-analysis",
+  "finding": "R1-13",
+  "topic": {
+    "id": "exm.question-analysis",
+    "type": "PROCEDURAL",
+    "strand": "Learning & Autonomy",
+    "domain": "Exams & Timed Performance",
+    "name": "Analysing exam questions",
+    "description": "Analyse an exam question quickly and accurately, identifying the command word or words, topic, focus and limiting words, implicit sub-questions and the expected answer type, and allocate time across questions in proportion to marks.",
+    "cefrStart": "B1+",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Marks the command, topic, focus and limiting words in a question and paraphrases what it requires",
+      "Identifies multi-part questions and implicit sub-questions, such as the judgement of degree required by 'to what extent'",
+      "Distinguishes questions inviting description from those requiring evaluation or argument",
+      "Allocates time per question in proportion to marks, including time for planning and checking",
+      "Recognises when a question that superficially matches a revised topic actually asks for something different"
+    ],
+    "assessmentPrompt": "Give three exam questions on the same topic with different command words and limiting phrases (for example, 'Outline…', 'Critically evaluate… with reference to…', 'To what extent… since 2010?'). Ask the learner what a good answer to each would do. Look for distinctions in the shape of the answer and attention to limiting words; treating all three as 'write about the topic' indicates a gap.",
+    "citations": [
+      "horowitz1986",
+      "bereiter1987"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:rec.read.instructions",
+        "levels": [
+          "B1+",
+          "B2"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "exm.question-analysis",
+    "summary": "Under time pressure, writers may fall back on what Bereiter and Scardamalia (1987) call knowledge telling, retrieving content on the topic without transforming it to address the rhetorical problem. In an exam this produces answers that 'write all I know' instead of answering the question. Horowitz (1986) found that university tasks typically ask students to select and organise material for a specific purpose. Teach a fast, routine analysis of command, topic, focus and limiting words, and practise distinguishing questions on the same topic that require different answers.",
+    "activities": [
+      {
+        "title": "Same topic, different question",
+        "learnerActions": [
+          "Read three questions on the same topic with different command and limiting words",
+          "For each, mark the command, topic, focus and limiting words",
+          "Write a one-sentence description of what a good answer would do",
+          "Compare with a partner and discuss how the three answers would differ"
+        ],
+        "intendedInsight": "The same topic can require very different answers, and the question's wording decides which.",
+        "rationale": "Contrasting questions makes visible the transformation demand that knowledge telling misses (Bereiter & Scardamalia, 1987).",
+        "citations": [
+          "bereiter1987"
+        ]
+      },
+      {
+        "title": "Marks-to-minutes calculation",
+        "learnerActions": [
+          "Take a past paper and calculate the time available per mark",
+          "Allocate minutes to each question, including planning and checking time",
+          "Compare your allocation with how you actually spent your time in a previous exam"
+        ],
+        "intendedInsight": "Time should follow marks, and planning time is part of the allocation.",
+        "rationale": "Proportional time allocation prevents over-investment in early questions, a common performance problem in timed exams.",
+        "citations": [
+          "horowitz1986"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Recognising a revised topic in the question and writing a prepared answer that does not address the specific question.",
+        "kind": "prior-schooling",
+        "revealedBy": "Answers that are relevant to the topic but not to the question; feedback such as 'does not answer the question'.",
+        "response": "Practise with questions that deliberately twist familiar topics. Where learners come from assessment systems that rewarded reproducing model answers, make the different expectation explicit rather than criticising the habit.",
+        "reteachPrerequisiteId": "voc.command-words"
+      },
+      {
+        "pattern": "Misreading limiting words (dates, contexts, 'with reference to') under pressure.",
+        "kind": "performance",
+        "revealedBy": "Answers that go outside the specified scope.",
+        "response": "Build a habit of marking limiting words before planning. Do not respond by adding more content to revise; the problem is reading, not knowledge.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "Spending too long on the first question and running out of time.",
+        "kind": "performance",
+        "revealedBy": "Unfinished final answers; very long first answers.",
+        "response": "Practise timed papers with fixed time checkpoints.",
+        "reteachPrerequisiteId": "exm.exam-formats"
+      }
+    ],
+    "diagnostic": {
+      "task": "Give one exam question and ask the learner to explain, in one sentence, what a good answer must do.",
+      "strongResponse": "Identifies the command, focus and limits and describes the required answer shape, including any judgement required.",
+      "partialResponse": "Identifies the topic and command word but misses limiting words or implicit sub-questions.",
+      "gapResponse": "Restates the topic only."
+    },
+    "contextNotes": "Foundation and in-sessional UG learners need this for subject exams. Pre-sessional learners apply it to timed tasks in progression assessment. PGT learners face questions that often require critical evaluation within tightly specified contexts.",
+    "citations": [
+      "horowitz1986",
+      "bereiter1987"
+    ],
+    "reviewNotes": []
+  }
+}

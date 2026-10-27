@@ -1,0 +1,99 @@
+{
+  "mergedInto": "lrn.self-regulation",
+  "finding": "R1-32",
+  "topic": {
+    "id": "lrn.autonomy",
+    "type": "CONCEPTUAL",
+    "strand": "Learning & Autonomy",
+    "domain": "Self-Regulated Learning",
+    "name": "Learner autonomy",
+    "description": "Understand learner autonomy as a developing capacity to take control over one's learning (choosing objectives, content and methods, and monitoring and evaluating progress) that grows through supported practice, rather than as studying alone or without a teacher. Autonomy underpins the independent study, strategy choice and continued development that universities expect but rarely teach explicitly.",
+    "cefrStart": "B1",
+    "cefrEnd": "C1",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt",
+      "pgr"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Explains the difference between autonomy as control over learning decisions and isolation or unsupported self-instruction",
+      "Makes and justifies a learning decision that no teacher has prescribed, such as selecting additional materials for a known weakness",
+      "Evaluates the outcome of a self-initiated learning activity and decides whether to continue, adapt or abandon it",
+      "Identifies constraints on their control in a given context (assessment rules, time, resources) and works within or around them"
+    ],
+    "assessmentPrompt": "Ask: 'Describe something you learned in English in the last fortnight that no teacher asked you to learn. How did you choose it, how did you go about it, and how did you know whether it worked?' A strong answer shows a self-made decision at each stage; a weak one describes only teacher-set work or an intention without action.",
+    "citations": [
+      "holec1981",
+      "benson2011"
+    ],
+    "frameworks": []
+  },
+  "guidance": {
+    "topicId": "lrn.autonomy",
+    "summary": "Holec (1981) defines autonomy as the capacity to take charge of one's own learning across objectives, content, methods, monitoring and evaluation. Benson (2011) extends this to control over learning management, cognitive processes and content, and stresses that autonomy is developed, situated and a matter of degree. In EAP, build autonomy by progressively handing over decisions within the course (choice of texts, targets and feedback focus) rather than assigning unsupported 'self-study'. Avoid framing autonomy as a cultural trait some groups lack: differences reflect prior opportunities to exercise control.",
+    "activities": [
+      {
+        "title": "Handover ladder",
+        "learnerActions": [
+          "For a recurring task (for example, weekly reading-to-write), choose the text yourself in week 1",
+          "In week 2, also choose the language focus",
+          "In week 3, also decide how your work will be evaluated and by whom",
+          "After each step, note what was easier or harder with more control"
+        ],
+        "intendedInsight": "Control over learning decisions can be taken step by step, and each step brings both freedom and responsibility.",
+        "rationale": "Benson describes autonomy as developing through opportunities to exercise control; staged handover provides support while those opportunities increase.",
+        "citations": [
+          "benson2011"
+        ]
+      },
+      {
+        "title": "Self-directed mini-project",
+        "learnerActions": [
+          "Choose a target linked to your future studies (for example, following lectures in your field)",
+          "Select resources and design a three-week plan with a progress record",
+          "Carry out the plan and keep brief notes",
+          "Present a two-minute evaluation: what worked, what you changed and what you will do next"
+        ],
+        "intendedInsight": "Autonomy covers every stage of learning: choosing a goal, a method and a means of evaluation.",
+        "rationale": "Holec's account of autonomy includes deciding objectives, methods and evaluation; a short project lets learners exercise each decision with teacher support available.",
+        "citations": [
+          "holec1981",
+          "benson2011"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "'The teacher should tell me what to study; that's their job.'",
+        "kind": "prior-schooling",
+        "revealedBy": "Requests for exact instructions for independent work; little activity when tasks are open.",
+        "response": "Acknowledge that this is a reasonable expectation from previous experience, and scaffold with structured choices (for example, three texts to choose from) before fully open tasks. Do not remove all structure at once, which tends to produce anxiety and inactivity rather than autonomy.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "Equating autonomy with working alone and therefore avoiding peers, tutors and support services.",
+        "kind": "conceptual",
+        "revealedBy": "Reluctance to ask questions or join study groups; reports of struggling alone for long periods.",
+        "response": "Present strategic help-seeking and collaboration as autonomous decisions. Model examples of choosing when to ask for help and whom to ask.",
+        "reteachPrerequisiteId": "lrn.metacognitive-knowledge"
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask: 'What have you chosen to learn or practise recently that wasn't set by a teacher, and how did you decide?'",
+      "strongResponse": "Describes a self-chosen goal, method and way of judging success, with some adaptation along the way.",
+      "partialResponse": "Describes self-chosen activity, but with no clear goal or evaluation.",
+      "gapResponse": "Describes only teacher-set work or says there is no time for anything else."
+    },
+    "contextNotes": "At foundation and pre-sessional levels, autonomy is developed through scaffolded handover within the course. In in-sessional UG and PGT provision, it is exercised in choosing what support to use and how. For PGR researchers, autonomy is a central expectation of the doctorate and is negotiated within the supervisory relationship.",
+    "citations": [
+      "holec1981",
+      "benson2011"
+    ],
+    "reviewNotes": [
+      "Autonomy is difficult to measure; the mastery evidence relies on reported and observed learning decisions."
+    ]
+  }
+}

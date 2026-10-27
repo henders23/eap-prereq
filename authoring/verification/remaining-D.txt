@@ -1,0 +1,91 @@
+mueller2014 | web-verified | Psych Sci 25(6), 1159–1168 and DOI confirmed.
+morehead2019 | web-verified | Title, authors, journal and DOI 10.1007/s10648-019-09468-2 confirmed (Springer PDF); 31(3) pp. 753–780 not shown in results but DOI matches.
+nesbit2006 | web-verified | RER 76(3), 413–448 and DOI confirmed.
+ferristagg1996 | doi-doubtful | TESOL Q 30(1), 31–58 and title confirmed via citing reference list; DOI 10.2307/3587606 not shown in results.
+ferris1998oral | web-verified | Title, year and DOI 10.2307/3587585 confirmed; 32(2) pp. 289–318 not shown in results but the DOI matches.
+basturkmen2002 | doi-doubtful | ESP 2002, pp. 233–242 and title confirmed (Benjamins EBOP); DOI not shown in results.
+basturkmen2003 | unchecked | Search returned no record of this article; no budget left for a retry. Needs a manual check (JEAP 2(1), 21–33).
+aguilar2004 | unchecked | Search returned no record of this article; no budget left for a retry. Needs a manual check (JEAP 3(1), 55–72).
+hoodforey2005 | doi-doubtful | JEAP 4(4), 291–306 and authors confirmed (Bath research portal); DOI not shown in results.
+rowleyjolivet2005 | doi-doubtful | IJAL 15(1), 45–70 confirmed (Benjamins EBOP; one source gives 45–71). DOI not shown. One search summary named "Carter-Thomas and Rowley-Jolivet", but the HAL record and the usual citation have Rowley-Jolivet first; kept as input.
+rowleyjolivet2002 | web-verified | ESP 21(1), 19–40 and DOI confirmed.
+macintosh2007 | doi-doubtful | Science Communication 28, 347–376 and full title confirmed (Genre Across Borders); issue (3) and DOI not shown in results.
+derwingmunro2015 | web-verified | John Benjamins 2015 (LLLT 42) confirmed.
+munroderwing1995 | web-verified | Language Learning 45, 73–97 and DOI confirmed (FORRT record).
+levis2005 | web-verified | TESOL Q 39(3), 369–377 and DOI confirmed.
+jenkins2000 | corrected | CORRECTED: Jenkins, J. (2000). *The phonology of English as an international language: New models, new norms, new goals*. Oxford University Press. || DOI: none — added the missing subtitle (confirmed in library catalogues); OUP 2000 confirmed.
+field2005 | web-verified | TESOL Q 39(3), 399–423 and DOI 10.2307/3588487 confirmed.
+hahn2004 | web-verified | TESOL Q 38(2), 201–223 and DOI confirmed.
+pickering2001 | web-verified | TESOL Q 35(2), 233–255 and JSTOR 3587647 confirmed.
+levelt1989 | web-verified | MIT Press 1989 confirmed.
+segalowitz2010 | web-verified | Routledge 2010 confirmed.
+housenkuiken2009 | web-verified | Applied Linguistics 30(4), 461–473 and DOI confirmed.
+hirvela2017 | doi-doubtful | The work exists: JSLW 36 (June 2017) Disciplinary Dialogues lead piece, with responses such as Plakans & Gebril, pp. 85–86 (doi:10.1016/j.jslw.2017.05.008) and Atkinson's introduction at p. 68. Hirvela's own pages and DOI were not shown in two searches. Likely 69–74 and 10.1016/j.jslw.2017.05.002 (fits the section sequence; not confirmed). Leave unpaged until checked on ScienceDirect.
+walton2006 | web-verified | CUP 2006 confirmed.
+facione1990 | web-verified | California Academic Press 1990 (ERIC ED 315 423) confirmed.
+moore2013 | web-verified | Stud High Educ 38(4), 506–522 and DOI confirmed.
+atkinson1997 | web-verified | TESOL Q 31(1), 71–94 (most sources) and DOI 10.2307/3587975 confirmed.
+hoferpintrich1997 | web-verified | RER 67(1), 88–140 confirmed; the DOI follows SAGE's vol/issue/page pattern, which matches.
+perry1970 | corrected | CORRECTED: Perry, W. G., Jr. (1970). *Forms of intellectual and ethical development in the college years: A scheme*. Holt, Rinehart and Winston. || DOI: none — added the "Jr." suffix (catalogues list William G. Perry, Jr.; APA 7 keeps suffixes). Rest confirmed.
+kahneman2011 | web-verified | FSG 2011 confirmed.
+nickerson1998 | web-verified | Rev Gen Psychol 2(2), 175–220 confirmed; the APA DOI pattern encodes vol/issue/page, which matches.
+andersonkrathwohl2001 | web-verified | Longman 2001, eds. Anderson & Krathwohl confirmed.
+vangelder2005 | web-verified | College Teaching 53(1) confirmed. Sources vary on pages (41–46 / 41–48); the DOI suffix gives 41–48, which matches the input.
+samraj2002 | web-verified | ESP 21, 1–17 and DOI confirmed.
+yangallison2003 | doi-doubtful | Work confirmed through citing studies; vol 22(4), pp. 365–385 and the DOI were not shown in results.
+kanoksilapatham2005 | web-verified | ESP 24(3), 269–292 and DOI confirmed.
+hopkins1988 | doi-doubtful | ESP 7(2), 113–121 confirmed through multiple reference lists; DOI not shown in results.
+lim2006 | doi-doubtful | ESP 25(3), 282–309 confirmed (UMS repository); DOI not shown in results.
+cotos2017 | web-verified | ESP 46, 90–106 and DOI confirmed.
+kwan2006 | unchecked | Citing studies show the work exists, but the search returned no bibliographic record; no budget left for a retry. Needs a check of ESP 25(1), 30–55 and the DOI.
+santos1996 | doi-doubtful | Text 16, title and year confirmed; one reference list gives pp. 481–500 (input has 481–499). Issue and DOI not shown. Check the end page at De Gruyter.
+basturkmen2009 | unchecked | Search returned no record of this article; no budget left for a retry. Needs a manual check (JEAP 8(4), 241–251).
+paltridge2002 | web-verified | ESP 21(2), 125–143 and DOI confirmed.
+paltridgestarfield2020 | web-verified | Routledge 2nd ed., copyright 2020 confirmed (some retailers give Aug 2019).
+kamlerthomson2014 | web-verified | Routledge 2nd ed. 2014 confirmed.
+belcher1994 | web-verified | ESP 13(1), 23–34 and DOI confirmed.
+flowerdew1999 | web-verified | JSLW 8(3), 243–264 and DOI confirmed.
+lilliscurry2010 | web-verified | Routledge 2010 confirmed.
+belcherw2019 | web-verified | U Chicago Press 2nd ed. 2019 confirmed.
+connormauranen1999 | doi-doubtful | Authors, title, ESP 1999 confirmed; 18(1), 47–62 and the DOI not shown in results.
+creswell2018 | web-verified | SAGE 5th ed. 2018 confirmed.
+parkinson2017 | web-verified | ESP 45, 1–13 and DOI confirmed.
+brand2015credit | web-verified | Learned Publishing 28(2), 151–155 and DOI confirmed.
+vitae2010 | web-verified | RDF, © 2010 CRAC confirmed.
+gibbs1988 | web-verified | FEU / Oxford Polytechnic 1988 confirmed (Oxford Brookes).
+moon2004 | web-verified | RoutledgeFalmer 2004 confirmed.
+ryan2011 | web-verified | Teaching in HE 16(1), 99–111 and DOI confirmed.
+schon1983 | web-verified | Basic Books 1983 confirmed.
+sackett1996 | web-verified | BMJ 312(7023), 71–72 confirmed (bmj.com/content/312/7023/71).
+shahhoeffner2002 | web-verified | EPR 14(1), 47–69 and DOI confirmed.
+friel2001 | web-verified | JRME 32(2), 124–158 and DOI confirmed.
+gal2002 | web-verified | ISR 70(1), 1–25 and DOI confirmed.
+gigerenzer2007 | web-verified | PSPI 8(2), 53–96 and DOI confirmed.
+tufte2001 | web-verified | Graphics Press 2nd ed. 2001 confirmed.
+wasserstein2016 | web-verified | Am Stat 70(2), 129–133 and DOI confirmed.
+w3c2023wcag | web-verified | WCAG 2.2 became a W3C Recommendation on 5 Oct 2023.
+bipm2019 | web-verified | SI Brochure 9th ed. 2019 confirmed.
+zimmerman2002 | web-verified | TIP 41(2), 64–70 and DOI confirmed.
+oxford1990 | web-verified | Newbury House 1990 confirmed (one catalogue gives 1989).
+benson2011 | web-verified | 2nd ed. 2011, Longman/Pearson (Harlow) confirmed; now listed by Routledge.
+holec1981 | web-verified | Pergamon 1981 confirmed (first issued as a 1979 Council of Europe report).
+dunlosky2013 | web-verified | PSPI 14(1), 4–58 and DOI confirmed.
+roediger2006 | web-verified | Psych Sci 17(3), 249–255 and DOI confirmed.
+cepeda2006 | web-verified | Psych Bull 132(3), 354–380 and DOI confirmed.
+dornyei2009 | web-verified | Book (Multilingual Matters 2009) and chapter 2 confirmed; pp. 9–42 come from a citing reference.
+flavell1979 | web-verified | Am Psychol 34(10), 906–911 and DOI confirmed.
+schmidt1990 | web-verified | Applied Linguistics 11(2), 129–158 confirmed (OUP 11/2/129).
+norrisortega2000 | doi-doubtful | LL 50(3), 417–528 confirmed; DOI not shown in results.
+spadatomita2010 | doi-doubtful | LL 60, 263–308 confirmed (Cambridge erratum reference); issue (2) and DOI not shown in results.
+ellis2005principles | web-verified | System 33(2), 209–224 and DOI confirmed.
+cummins2008 | web-verified | Street & Hornberger (Eds.), 2nd ed., Vol. 2, pp. 71–83, Springer confirmed.
+snowuccelli2009 | web-verified | Cambridge handbook of literacy, pp. 112–133 confirmed.
+coe2001 | web-verified | CUP 2001 confirmed.
+coe2020 | web-verified | Council of Europe 2020 Companion volume confirmed.
+north2014 | web-verified | CUP 2014 (English Profile Studies 4) confirmed.
+kasneci2023 | web-verified | LID 103, 102274 and DOI confirmed.
+liang2023 | web-verified | Patterns 4(7), 100779 and DOI confirmed.
+perkins2023 | web-verified | JUTLP 20(2) art. 07 and DOI confirmed.
+unesco2023 | web-verified | UNESCO 2023 confirmed. The document names authors F. Miao & W. Holmes; APA 7 would allow "Miao, F., & Holmes, W. (2023)", but the corporate author is kept to protect existing in-text citations.
+bender2021 | web-verified | FAccT '21, pp. 610–623 and DOI confirmed; "Shmitchell" matches the published byline.
+walters2023 | web-verified | Sci Rep 13, 14045 and DOI confirmed.

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "grm.spoken-grammar",
+    "type": "LINGUISTIC",
+    "name": "Grammar of spoken academic interaction",
+    "scope": "Features and accuracy priorities of spoken academic English (heads and tails, ellipsis, vague language, discourse markers, clause chaining) for seminars, tutorials and presentations.",
+    "source": "R1-21"
+  },
+  {
+    "id": "grm.genitive-noun-modifiers",
+    "type": "LINGUISTIC",
+    "name": "Genitive and noun-modifier choices",
+    "scope": "Choosing between 's, of-phrases and noun + noun modifiers (the study's aim / the aim of the study / study aim), including inanimate genitives and the myth that they are wrong.",
+    "source": "R2-11"
+  },
+  {
+    "id": "grm.unaccusative-verbs",
+    "type": "LINGUISTIC",
+    "name": "Unaccusative and ergative verbs",
+    "scope": "Verbs such as occur, happen, emerge, increase and change that describe events without an agent or alternate between transitive and intransitive use; avoiding *was happened and *was emerged.",
+    "source": "R2-12"
+  },
+  {
+    "id": "sem.explaining-concepts",
+    "type": "PROCEDURAL",
+    "name": "Explaining concepts and readings to peers",
+    "scope": "Mediating a concept, text or dataset for classmates: simplifying, exemplifying, checking understanding and drawing on shared languages, in seminars, study groups and peer teaching.",
+    "source": "R1-22"
+  },
+  {
+    "id": "prs.research-pitches",
+    "type": "GENRE",
+    "name": "Short-format research pitches",
+    "scope": "Three-minute thesis and elevator-style pitches that compress a project into a single accessible narrative for mixed audiences.",
+    "source": "R1-05"
+  },
+  {
+    "id": "ges.extended-source-based-project",
+    "type": "GENRE",
+    "name": "Extended source-based project",
+    "scope": "An independently researched essay or report of several thousand words on a self-chosen focus in the learner's field, developed through proposal, annotated sources, drafts and tutorials, often with a reflective commentary; the capstone of many pre-sessional and foundation EAP courses.",
+    "source": "R1-20"
+  },
+  {
+    "id": "cit.citation-politics",
+    "type": "CONCEPTUAL",
+    "name": "Whose knowledge is cited",
+    "scope": "Recognising that citation and indexing practices shape whose knowledge becomes visible, including the dominance of English-language, Global North and highly indexed sources, and making deliberate, justified citation choices.",
+    "source": "R5-14"
+  },
+  {
+    "id": "res.progression-review",
+    "type": "GENRE",
+    "name": "Doctoral progression and confirmation reviews",
+    "scope": "Confirmation, upgrade and annual progression reports and the accompanying oral review: summarising progress, revising questions and design, presenting preliminary findings, planning, and responding to panel questions.",
+    "source": "R1-05, R6-01"
+  },
+  {
+    "id": "res.publication-based-thesis",
+    "type": "GENRE",
+    "name": "Thesis by publication",
+    "scope": "Framing chapters, linking narratives and co-authorship statements that turn stand-alone papers into one coherent thesis argument.",
+    "source": "R1-05"
+  },
+  {
+    "id": "res.systematic-review-writing",
+    "type": "GENRE",
+    "name": "Writing systematic and scoping reviews",
+    "scope": "Writing the protocol and report of a systematic, scoping or other structured review in any discipline: registration, transparent search and selection reporting, appraisal and synthesis, following reporting guidance such as PRISMA 2020.",
+    "source": "R1-34, R6-02"
+  },
+  {
+    "id": "res.instrument-wording",
+    "type": "PROCEDURAL",
+    "name": "Wording survey and interview questions",
+    "scope": "Writing clear, neutral, single-focus questionnaire items, response scales and interview prompts, and piloting them for comprehension with the intended participants.",
+    "source": "R1-26"
+  },
+  {
+    "id": "res.teaching-as-pgr",
+    "type": "SOCIOPRAGMATIC",
+    "name": "Teaching, demonstrating and marking as a doctoral researcher",
+    "scope": "Communicating as a graduate teaching assistant or demonstrator: explaining concepts and procedures, questioning, managing small-group discussion, giving spoken and written feedback, and handling student queries.",
+    "source": "R1-05, R6-04"
+  },
+  {
+    "id": "pub.funding-applications",
+    "type": "GENRE",
+    "name": "Funding, fellowship and grant applications",
+    "scope": "Case for support, lay summary, impact statement and track-record sections for studentships, travel grants and early-career fellowships.",
+    "source": "R1-05"
+  },
+  {
+    "id": "pub.conference-participation",
+    "type": "SOCIOPRAGMATIC",
+    "name": "Participating in conferences",
+    "scope": "Asking and answering questions from the floor, chairing a session, and networking and following up contacts at conferences and research seminars.",
+    "source": "R1-05"
+  },
+  {
+    "id": "pub.personal-statements",
+    "type": "GENRE",
+    "name": "Personal statements for postgraduate study and funding",
+    "scope": "Statements of purpose and scholarship applications that show fit, motivation and capability with evidence.",
+    "source": "R1-34"
+  },
+  {
+    "id": "pub.thesis-corrections",
+    "type": "GENRE",
+    "name": "Examiners' reports and thesis corrections",
+    "scope": "Interpreting examiners' reports and viva outcomes, turning them into a corrections plan, and documenting the changes made.",
+    "source": "R6-01"
+  },
+  {
+    "id": "pub.thesis-to-article",
+    "type": "PROCEDURAL",
+    "name": "From thesis to articles",
+    "scope": "Turning thesis chapters into journal articles, or integrating published papers into a thesis: re-scoping the argument for a journal readership, compressing the literature and methods, and managing self-plagiarism rules.",
+    "source": "R6-01"
+  },
+  {
+    "id": "pub.open-research",
+    "type": "PROCEDURAL",
+    "name": "Open research practices and statements",
+    "scope": "Writing the texts open-research practices require: preprints and versions, preregistration and registered reports, data and code availability statements, and other disclosure statements.",
+    "source": "R6-02"
+  },
+  {
+    "id": "dig.assistive-technology",
+    "type": "STRATEGIC",
+    "name": "Assistive technology and study adjustments",
+    "scope": "Using assistive and accessibility technologies (text-to-speech, dictation, screen readers, reading and planning supports) and institutional adjustments as legitimate academic practice, within assessment rules.",
+    "source": "R5-07"
+  },
+  {
+    "id": "prg.informal-academic-interaction",
+    "type": "SOCIOPRAGMATIC",
+    "name": "Informal academic interaction and networking",
+    "scope": "Small talk and relationship-building with peers, lab colleagues and staff around teaching and at departmental events, moving between informal and academic talk.",
+    "source": "R1-21"
+  },
+  {
+    "id": "prg.professional-applications",
+    "type": "GENRE",
+    "name": "Applications and interviews for placements and graduate roles",
+    "scope": "Cover letters, competency-based answers and interview talk that translate academic experience into evidence for employers.",
+    "source": "R1-36"
+  },
+  {
+    "id": "idn.translingual-writing",
+    "type": "CONCEPTUAL",
+    "name": "Translingual writing and code-meshing",
+    "scope": "Understanding translingual approaches in which writers deliberately bring other languages or Englishes into academic texts, when and how this is accepted, and how to negotiate it with readers and assessors.",
+    "source": "R5-06"
+  },
+  {
+    "id": "tst.score-reports",
+    "type": "CONCEPTUAL",
+    "name": "Score reports, validity and test choice",
+    "scope": "Reading proficiency-test score reports (overall and component scores, retake and combined-sitting rules where they exist), judging whether they meet a requirement, and choosing a test.",
+    "source": "R6-25"
+  },
+  {
+    "id": "dse.lab-notebooks",
+    "type": "GENRE",
+    "name": "Laboratory notebooks and research records",
+    "scope": "Keeping contemporaneous, reproducible lab, computational or fieldwork records that meet research-integrity and data-management expectations.",
+    "source": "R1-04"
+  },
+  {
+    "id": "dhl.clinical-reasoning-writing",
+    "type": "PROCEDURAL",
+    "name": "Writing clinical reasoning",
+    "scope": "Making assessment, problem identification and intervention reasoning explicit in nursing, pharmacy and allied-health assignments, linked to evidence and professional standards.",
+    "source": "R1-04"
+  },
+  {
+    "id": "dhl.care-plans",
+    "type": "GENRE",
+    "name": "Care plans",
+    "scope": "Care plans and care-planning assignments that move from holistic assessment to prioritised, person-centred needs, goals, evidence-based interventions and evaluation.",
+    "source": "R6-09"
+  },
+  {
+    "id": "dbe.accounting-finance-discourse",
+    "type": "GENRE",
+    "name": "Language and genres of accounting and finance",
+    "scope": "Financial statement commentary, audit and valuation reports, and the evaluative and hedged language of financial analysis in finance and accounting assessments.",
+    "source": "R1-04"
+  },
+  {
+    "id": "dbe.consultancy-report",
+    "type": "GENRE",
+    "name": "Consultancy and client project reports",
+    "scope": "Client-facing reports for live or simulated consultancy projects: problem framing, evidence-based recommendations, implementation and reflection, for a client and an academic marker.",
+    "source": "R1-04"
+  },
+  {
+    "id": "dlw.mooting",
+    "type": "GENRE",
+    "name": "Mooting and oral legal argument",
+    "scope": "Preparing and delivering oral legal submissions in moots and assessed advocacy: skeleton arguments, ordering grounds, citing authority orally and answering judicial questions.",
+    "source": "R6-03"
+  },
+  {
+    "id": "dlw.legal-research-writing",
+    "type": "PROCEDURAL",
+    "name": "Legal research and dissertation writing",
+    "scope": "Planning and writing a law dissertation: choosing and justifying a doctrinal, socio-legal, comparative or theoretical method, building a research question, and structuring sustained legal argument.",
+    "source": "R6-03"
+  },
+  {
+    "id": "dss.psychology-research-report",
+    "type": "GENRE",
+    "name": "Psychology research reports",
+    "scope": "APA-style empirical reports in psychology: hypotheses, participants and materials, statistical reporting conventions and the discipline's stance conventions.",
+    "source": "R1-04"
+  },
+  {
+    "id": "dss.education-practice-genres",
+    "type": "GENRE",
+    "name": "Education and TESOL practice genres",
+    "scope": "Lesson plans with rationale, teaching-practice reflections, materials evaluations and small-scale classroom research reports in education and TESOL programmes.",
+    "source": "R1-04"
+  },
+  {
+    "id": "dad.practice-research-exegesis",
+    "type": "GENRE",
+    "name": "Practice-based research and exegesis",
+    "scope": "The exegesis or critical commentary that accompanies practice-based research in art, design and performance, situating the practice in its field and articulating its contribution.",
+    "source": "R6-03"
+  }
+]

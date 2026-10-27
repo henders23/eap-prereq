@@ -1,24 +1,54 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "eap-skill-taxonomy/schema/teaching-guidance.schema.json",
-  "title": "EAP Skill Taxonomy — teaching guidance",
+  "title": "EAP Skill Taxonomy \u2014 teaching guidance",
   "type": "object",
-  "required": ["version", "recordCount", "coverage", "notes", "records"],
+  "required": [
+    "version",
+    "recordCount",
+    "coverage",
+    "notes",
+    "records"
+  ],
   "additionalProperties": false,
   "properties": {
-    "version": { "type": "string" },
-    "recordCount": { "type": "integer" },
-    "coverage": { "type": "object" },
-    "notes": { "type": "array", "items": { "type": "string" } },
+    "version": {
+      "type": "string"
+    },
+    "recordCount": {
+      "type": "integer"
+    },
+    "coverage": {
+      "type": "object"
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
     "records": {
       "type": "array",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["topicId", "summary", "activities", "difficulties", "diagnostic", "contextNotes", "citations", "reviewNotes"],
+        "required": [
+          "topicId",
+          "summary",
+          "activities",
+          "difficulties",
+          "diagnostic",
+          "contextNotes",
+          "citations",
+          "reviewNotes"
+        ],
         "properties": {
-          "topicId": { "type": "string" },
-          "summary": { "type": "string" },
+          "topicId": {
+            "type": "string"
+          },
+          "summary": {
+            "type": "string"
+          },
           "activities": {
             "type": "array",
             "minItems": 1,
@@ -26,13 +56,35 @@
             "items": {
               "type": "object",
               "additionalProperties": false,
-              "required": ["title", "learnerActions", "intendedInsight", "rationale"],
+              "required": [
+                "title",
+                "learnerActions",
+                "intendedInsight",
+                "rationale"
+              ],
               "properties": {
-                "title": { "type": "string" },
-                "learnerActions": { "type": "array", "minItems": 2, "items": { "type": "string" } },
-                "intendedInsight": { "type": "string" },
-                "rationale": { "type": "string" },
-                "citations": { "type": "array", "items": { "type": "string" } }
+                "title": {
+                  "type": "string"
+                },
+                "learnerActions": {
+                  "type": "array",
+                  "minItems": 2,
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "intendedInsight": {
+                  "type": "string"
+                },
+                "rationale": {
+                  "type": "string"
+                },
+                "citations": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
               }
             }
           },
@@ -43,30 +95,85 @@
             "items": {
               "type": "object",
               "additionalProperties": false,
-              "required": ["pattern", "kind", "revealedBy", "response", "reteachPrerequisiteId"],
+              "required": [
+                "pattern",
+                "kind",
+                "revealedBy",
+                "response",
+                "reteachPrerequisiteId"
+              ],
               "properties": {
-                "pattern": { "type": "string" },
-                "kind": { "enum": ["L1-transfer", "developmental", "conceptual", "prior-schooling", "overgeneralisation", "performance", "affective"] },
-                "revealedBy": { "type": "string" },
-                "response": { "type": "string" },
-                "reteachPrerequisiteId": { "type": ["string", "null"], "description": "A declared prerequisite to return to, or null to reteach in place." }
+                "pattern": {
+                  "type": "string"
+                },
+                "kind": {
+                  "enum": [
+                    "L1-transfer",
+                    "developmental",
+                    "conceptual",
+                    "prior-schooling",
+                    "overgeneralisation",
+                    "performance",
+                    "affective",
+                    "institutional"
+                  ]
+                },
+                "revealedBy": {
+                  "type": "string"
+                },
+                "response": {
+                  "type": "string"
+                },
+                "reteachPrerequisiteId": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "description": "A declared prerequisite to return to, or null to reteach in place."
+                }
               }
             }
           },
           "diagnostic": {
             "type": "object",
             "additionalProperties": false,
-            "required": ["task", "strongResponse", "partialResponse", "gapResponse"],
+            "required": [
+              "task",
+              "strongResponse",
+              "partialResponse",
+              "gapResponse"
+            ],
             "properties": {
-              "task": { "type": "string" },
-              "strongResponse": { "type": "string" },
-              "partialResponse": { "type": "string" },
-              "gapResponse": { "type": "string" }
+              "task": {
+                "type": "string"
+              },
+              "strongResponse": {
+                "type": "string"
+              },
+              "partialResponse": {
+                "type": "string"
+              },
+              "gapResponse": {
+                "type": "string"
+              }
             }
           },
-          "contextNotes": { "type": "string" },
-          "citations": { "type": "array", "minItems": 1, "items": { "type": "string" } },
-          "reviewNotes": { "type": "array", "items": { "type": "string" } }
+          "contextNotes": {
+            "type": "string"
+          },
+          "citations": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "reviewNotes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
         }
       }
     }

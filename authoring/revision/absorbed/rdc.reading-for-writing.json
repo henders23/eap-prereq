@@ -1,0 +1,120 @@
+{
+  "mergedInto": "wpr.reading-to-write",
+  "finding": "R1-14",
+  "topic": {
+    "id": "rdc.reading-for-writing",
+    "type": "STRATEGIC",
+    "strand": "Academic Reading",
+    "domain": "Critical & Multiple-Text Reading",
+    "name": "Reading for a writing task",
+    "description": "Select, read and organise sources around a specific writing task: analysing the question to set reading priorities, reading for what the task needs, noting material in usable form with full source details, and reading with the developing argument in mind. Most university writing is source-based, and both the efficiency and the integrity of source use depend on how the reading was done.",
+    "cefrStart": "B1+",
+    "cefrEnd": "C1",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Derives reading priorities and search directions from the assignment question",
+      "Selects sources and sections relevant to the question and justifies the choices",
+      "Organises notes by the points the task requires rather than by source alone",
+      "Records bibliographic details and distinguishes quotation, paraphrase and own comment in notes",
+      "Revises reading priorities as the argument develops"
+    ],
+    "assessmentPrompt": "Give an essay question and five sources of varying relevance. Ask the learner which they would use, which sections they would read and how they would organise their notes. Check that choices follow from the question and that the note plan supports an argument rather than summarising each source in turn.",
+    "citations": [
+      "grabezhang2013",
+      "hirvela2004",
+      "lekicarson1997",
+      "plakansgebril2012"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:med.text.processing-text",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "acrl:inquiry",
+        "contribution": "related"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "rdc.reading-for-writing",
+    "summary": "Studies of university tasks show that much assessed writing draws on reading sources (Horowitz, 1986; Leki & Carson, 1997), and Grabe and Zhang (2013) argue for teaching reading and writing together in EAP. Plakans and Gebril (2012) show that writers in integrated tasks use sources for ideas, organisation and language. Teach reading as driven by the question, with notes organised by the writer's emerging points, and integrate reading tasks with writing assignments rather than teaching them separately (Hirvela, 2004).",
+    "activities": [
+      {
+        "title": "Question-driven reading plan",
+        "learnerActions": [
+          "Break an essay question into sub-questions",
+          "Map each sub-question to likely sources and sections",
+          "Read and take notes under sub-question headings"
+        ],
+        "intendedInsight": "Reading for writing is organised by the question, not by the source.",
+        "rationale": "Integrates reading and writing in line with Grabe and Zhang (2013) and Hirvela (2004).",
+        "citations": [
+          "grabezhang2013",
+          "hirvela2004"
+        ]
+      },
+      {
+        "title": "From notes to paragraph",
+        "learnerActions": [
+          "Use notes from three sources to plan one paragraph",
+          "Check that your notes distinguish quotation, paraphrase and own comment",
+          "Write the paragraph and reflect on any gaps in your reading"
+        ],
+        "intendedInsight": "How you read and take notes determines how easily and how honestly you can write.",
+        "rationale": "Reflects the reading-to-write processes observed in integrated tasks (Plakans & Gebril, 2012).",
+        "citations": [
+          "plakansgebril2012"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Reads everything on the topic before deciding what the question requires.",
+        "kind": "performance",
+        "revealedBy": "Large volumes of notes, many irrelevant to the question.",
+        "response": "Begin with question analysis and set reading priorities before reading.",
+        "reteachPrerequisiteId": "wpr.task-analysis"
+      },
+      {
+        "pattern": "Copies source wording into notes without marking it.",
+        "kind": "developmental",
+        "revealedBy": "Patchwriting in drafts traceable to unmarked notes.",
+        "response": "Teach note conventions that distinguish quotation, paraphrase and comment. Treat early patchwriting as developmental rather than as misconduct.",
+        "reteachPrerequisiteId": "ntk.notes-from-reading"
+      },
+      {
+        "pattern": "Expects to write from personal opinion and general knowledge, as in many test and school essay tasks.",
+        "kind": "prior-schooling",
+        "revealedBy": "Assignments with few sources and much unsupported assertion.",
+        "response": "Use source-based writing tasks from the start of a course and make the expectation of source use explicit.",
+        "reteachPrerequisiteId": null
+      }
+    ],
+    "diagnostic": {
+      "task": "An essay question and five sources; ask which to use and how to organise notes.",
+      "strongResponse": "Question-driven selection and a note plan organised by points.",
+      "partialResponse": "Relevant selection but notes planned source by source.",
+      "gapResponse": "All sources treated equally, or selection unrelated to the question."
+    },
+    "contextNotes": "Foundation and pre-sessional courses should use source-based assessments. In-sessional undergraduates and PGT students apply the skill to disciplinary assignments and dissertations.",
+    "citations": [
+      "grabezhang2013",
+      "hirvela2004",
+      "lekicarson1997",
+      "plakansgebril2012",
+      "horowitz1986"
+    ],
+    "reviewNotes": []
+  }
+}

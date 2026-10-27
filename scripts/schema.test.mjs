@@ -5,7 +5,7 @@ import { resolve } from 'node:path';
 import { validateSchema } from './check-schema.mjs';
 import { DATA, ROOT } from './lib.mjs';
 
-const files = ['topics', 'dependencies', 'domains', 'teaching-guidance', 'references', 'frameworks'];
+const files = ['topics', 'dependencies', 'domains', 'teaching-guidance', 'references', 'frameworks', 'retired-topics'];
 
 for (const name of files) {
   test(`data/${name}.json conforms to schema/${name}.schema.json`, () => {

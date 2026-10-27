@@ -1,0 +1,106 @@
+{
+  "mergedInto": "ges.expository-essays",
+  "finding": "R1-16",
+  "topic": {
+    "id": "ges.compare-contrast-essay",
+    "type": "GENRE",
+    "strand": "Academic Genres",
+    "domain": "Essay & Examination Genres",
+    "name": "Compare-and-contrast essay",
+    "description": "Produce an essay that compares two or more theories, cases, methods, policies or texts against explicit criteria and uses the comparison to make a point, such as which option is more appropriate or what a difference reveals, rather than listing similarities and differences. Typical stages are introduction of the items and the basis of comparison, criterion-led (point-by-point) or item-led (block) comparison, evaluation of the significance of the differences, and a conclusion stating the outcome; characteristic language includes comparative structures, contrastive connectors and hedged evaluative claims.",
+    "cefrStart": "B1",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Selects comparison criteria relevant to the question and states them explicitly in the introduction",
+      "Organises the body point by point or in blocks and keeps the chosen pattern consistent and cross-referenced",
+      "Uses accurate comparative structures and contrastive connectors to express degrees of similarity and difference",
+      "Explains the significance of differences for the question rather than only recording them",
+      "Concludes with a judgement or insight that the comparison supports"
+    ],
+    "assessmentPrompt": "Give the learner a table comparing two items on four features and ask for a 150-word paragraph plus a one-sentence thesis. Check that the paragraph is organised by criterion, uses precise comparative language (for example 'considerably higher than', 'whereas'), and that the thesis states what the comparison shows.",
+    "citations": [
+      "mooremorton2005",
+      "carrell1985"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:prod.writ.reports-essays",
+        "levels": [
+          "B1+",
+          "B2"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "ges.compare-contrast-essay",
+    "summary": "Comparison is a pervasive rhetorical function in university writing tasks (Moore & Morton, 2005), yet the compare-and-contrast essay is often taught as a symmetrical list of similarities and differences. Teach it instead as comparison in the service of a point: criteria are chosen because they matter to the question, and the essay says what the comparison reveals. Carrell (1985) found that explicitly teaching top-level text structures, comparison among them, helped L2 readers; the same structural awareness can be developed for writing by analysing exemplars before production.",
+    "activities": [
+      {
+        "title": "Criteria first",
+        "learnerActions": [
+          "Given two items and a question, brainstorm possible points of comparison",
+          "Select the three most relevant to the question and justify the selection",
+          "Build a comparison grid and decide what the overall pattern shows",
+          "Write a thesis statement that states the outcome of the comparison"
+        ],
+        "intendedInsight": "Criteria are chosen for relevance to the question, and the thesis states what the comparison shows.",
+        "rationale": "Shifts the task from description to purpose-driven comparison, reflecting the evaluative emphasis of university writing tasks (Moore & Morton, 2005).",
+        "citations": [
+          "mooremorton2005"
+        ]
+      },
+      {
+        "title": "Restructure the blocks",
+        "learnerActions": [
+          "Read a block-organised draft that describes item A and then item B",
+          "Highlight each criterion in a different colour across both blocks",
+          "Rewrite one section point by point with explicit comparative language",
+          "Discuss which version makes the significance of the differences clearer"
+        ],
+        "intendedInsight": "Point-by-point organisation tends to make comparison explicit; block organisation needs deliberate cross-referencing.",
+        "rationale": "Develops awareness of comparison as a text structure (Carrell, 1985) and transfers it to production.",
+        "citations": [
+          "carrell1985"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "'Compare means describe A, then describe B.'",
+        "kind": "developmental",
+        "revealedBy": "Two descriptive halves with comparison appearing only in the conclusion.",
+        "response": "Require a cross-referencing sentence in each paragraph and teach point-by-point organisation first. Do not forbid block organisation: it is acceptable when each block makes the comparison explicit.",
+        "reteachPrerequisiteId": "fun.comparing-contrasting"
+      },
+      {
+        "pattern": "Listing similarities and differences without saying why they matter.",
+        "kind": "conceptual",
+        "revealedBy": "No thesis, or a conclusion that restates the list.",
+        "response": "After each paragraph ask what the difference means for the question, and model evaluative sentences that answer it.",
+        "reteachPrerequisiteId": "fun.evaluating"
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask learners to state in two sentences the outcome of comparing two familiar options (for example two ways of revising for exams) on criteria they choose.",
+      "strongResponse": "Names relevant criteria and states an outcome tied to them.",
+      "partialResponse": "Lists differences without stating an outcome.",
+      "gapResponse": "Describes each option separately."
+    },
+    "contextNotes": "Foundation: a manageable early genre that builds comparative language; use familiar items. Pre-sessional: move to comparing theories, models or policies using sources. In-sessional undergraduate: comparison questions occur across disciplines (theoretical approaches, cases, texts, methods), where the criteria themselves are disciplinary and should come from the module.",
+    "citations": [
+      "mooremorton2005",
+      "carrell1985"
+    ],
+    "reviewNotes": [
+      "There is little genre-analytic research on the compare-and-contrast essay as a distinct student genre; this guidance draws on research on comparison as a rhetorical function and as a text structure."
+    ]
+  }
+}

@@ -16,7 +16,7 @@ import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { findDependencyCycle } from './graph.mjs';
-import { CEFR, CONTRIBUTIONS, DATA, DIFFICULTY_KINDS, ID_PATTERN, SPECIFICITY, STAGES, TYPES, cefrIndex } from './lib.mjs';
+import { AUDIENCES, CEFR, CONTRIBUTIONS, DATA, DIFFICULTY_KINDS, DISCIPLINES, ID_PATTERN, SPECIFICITY, STAGES, STAGE_ENTRY_BAND, STAGE_ROLES, TYPES, cefrIndex } from './lib.mjs';
 
 const load = (name) => JSON.parse(readFileSync(resolve(DATA, name), 'utf8'));
 const errors = [];
@@ -59,7 +59,15 @@ for (const t of topics.topics) {
   check(domainNames.get(t.domain)?.strand === t.strand, `${w}: strand does not match its domain`);
   check(CEFR.includes(t.cefrStart) && CEFR.includes(t.cefrEnd), `${w}: bad CEFR level`);
   check(cefrIndex(t.cefrStart) <= cefrIndex(t.cefrEnd), `${w}: cefrStart after cefrEnd`);
-  check(t.stages.length > 0 && t.stages.every((s) => STAGES.includes(s)), `${w}: bad stages`);
+  check(Object.keys(t.stageRoles).length > 0 && Object.entries(t.stageRoles).every(([s, r]) => STAGES.includes(s) && STAGE_ROLES.includes(r)), `${w}: bad stageRoles`);
+  check(JSON.stringify(t.stages) === JSON.stringify(STAGES.filter((s) => s in t.stageRoles)), `${w}: stages does not match stageRoles`);
+  check(CEFR.includes(t.coreBand) && cefrIndex(t.coreBand) >= cefrIndex(t.cefrStart) && cefrIndex(t.coreBand) <= cefrIndex(t.cefrEnd), `${w}: coreBand outside range`);
+  check(AUDIENCES.includes(t.audience), `${w}: bad audience`);
+  check(t.disciplines.every((d) => DISCIPLINES.includes(d)), `${w}: unknown discipline`);
+  if (t.specificity === 'ESAP') check(t.disciplines.length > 0, `${w}: ESAP topic without disciplines`);
+  for (const [s, r] of Object.entries(t.stageRoles)) {
+    if (r === 'core' && cefrIndex(t.cefrEnd) < cefrIndex(STAGE_ENTRY_BAND[s])) warnings.push(`${w}: core at ${s} although its cefrEnd (${t.cefrEnd}) is below that stage's typical entry band (${STAGE_ENTRY_BAND[s]})`);
+  }
   check(SPECIFICITY.includes(t.specificity), `${w}: bad specificity`);
   check(t.masteryEvidence.length >= 3, `${w}: fewer than 3 mastery evidence items`);
   check(t.citations.length >= 1, `${w}: no citations`);
@@ -89,8 +97,8 @@ for (const d of deps.dependencies) {
   prereqsOf.get(d.topicId).add(d.prerequisiteId);
   const a = topicById.get(d.topicId);
   const b = topicById.get(d.prerequisiteId);
-  if (a && b && d.strength === 'hard' && cefrIndex(b.cefrStart) > cefrIndex(a.cefrEnd)) {
-    warnings.push(`${w}: hard prerequisite starts (${b.cefrStart}) above the topic's end level (${a.cefrEnd})`);
+  if (a && b && d.strength === 'hard' && cefrIndex(b.cefrStart) > cefrIndex(a.cefrStart)) {
+    warnings.push(`${w}: hard prerequisite starts (${b.cefrStart}) above the topic's start level (${a.cefrStart})`);
   }
   const firstStage = (t) => Math.min(...t.stages.map((s) => STAGES.indexOf(s)));
   if (a && b && d.strength === 'hard' && firstStage(b) > firstStage(a)) {
@@ -99,6 +107,12 @@ for (const d of deps.dependencies) {
 }
 const cycle = findDependencyCycle(deps.dependencies);
 check(cycle === null, `dependency cycle: ${cycle?.join(' -> ')}`);
+
+// --- stage role load -------------------------------------------------------------
+for (const s of STAGES) {
+  const core = topics.topics.filter((t) => t.stageRoles[s] === 'core').length;
+  if (core > 150) warnings.push(`stage ${s}: ${core} core topics (more than 150 is hard to teach as core in one programme)`);
+}
 
 // --- guidance ------------------------------------------------------------------------
 const guided = new Set();

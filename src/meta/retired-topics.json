@@ -1,0 +1,122 @@
+{
+  "ges.explanation-essay": {
+    "status": "renamed",
+    "replacedBy": "ges.expository-essays",
+    "reason": "R1-16: pattern essays consolidated into one expository-essay genre"
+  },
+  "sen.apostrophes-hyphens-dashes": {
+    "status": "renamed",
+    "replacedBy": "sen.punctuation-mechanics",
+    "reason": "R1-19: punctuation mechanics consolidated"
+  },
+  "prg.acknowledgements": {
+    "status": "renamed",
+    "replacedBy": "res.acknowledgements",
+    "reason": "R1-33: acknowledgements are a thesis/article part-genre"
+  },
+  "exm.question-analysis": {
+    "status": "merged",
+    "replacedBy": "wpr.task-analysis",
+    "reason": "Merged after adversarial review (R1-13)."
+  },
+  "ess.answering-question": {
+    "status": "merged",
+    "replacedBy": "wpr.task-analysis",
+    "reason": "Merged after adversarial review (R1-13)."
+  },
+  "rdc.reading-for-writing": {
+    "status": "merged",
+    "replacedBy": "wpr.reading-to-write",
+    "reason": "Merged after adversarial review (R1-14)."
+  },
+  "tst.integrated-test-tasks": {
+    "status": "merged",
+    "replacedBy": "syn.integrated-tasks",
+    "reason": "Merged after adversarial review (R1-14)."
+  },
+  "src.source-functions": {
+    "status": "merged",
+    "replacedBy": "cit.citation-functions",
+    "reason": "Merged after adversarial review (R1-15)."
+  },
+  "grp.student-abstract": {
+    "status": "merged",
+    "replacedBy": "res.abstracts",
+    "reason": "Merged after adversarial review (R1-15)."
+  },
+  "sta.generalisation-qualification": {
+    "status": "merged",
+    "replacedBy": "sta.hedging",
+    "reason": "Merged after adversarial review (R1-15)."
+  },
+  "coh.connector-precision": {
+    "status": "merged",
+    "replacedBy": "coh.linking-adverbials",
+    "reason": "Merged after adversarial review (R1-15)."
+  },
+  "ess.essay-types": {
+    "status": "merged",
+    "replacedBy": "ges.genre-families",
+    "reason": "Merged after adversarial review (R1-16)."
+  },
+  "ges.compare-contrast-essay": {
+    "status": "merged",
+    "replacedBy": "ges.expository-essays",
+    "reason": "Merged after adversarial review (R1-16)."
+  },
+  "ges.problem-solution-essay": {
+    "status": "merged",
+    "replacedBy": "ges.expository-essays",
+    "reason": "Merged after adversarial review (R1-16)."
+  },
+  "edt.editing-tools": {
+    "status": "merged",
+    "replacedBy": "dig.automated-feedback-tools",
+    "reason": "Merged after adversarial review (R1-17)."
+  },
+  "gai.prompting-for-learning": {
+    "status": "merged",
+    "replacedBy": "gai.language-support",
+    "reason": "Merged after adversarial review (R1-17)."
+  },
+  "coh.spoken-signposting": {
+    "status": "merged",
+    "replacedBy": "prs.signposting",
+    "reason": "Merged after adversarial review (R1-18)."
+  },
+  "sen.capitalisation": {
+    "status": "merged",
+    "replacedBy": "sen.punctuation-mechanics",
+    "reason": "Merged after adversarial review (R1-19)."
+  },
+  "sen.quotation-punctuation": {
+    "status": "merged",
+    "replacedBy": "sen.punctuation-mechanics",
+    "reason": "Merged after adversarial review (R1-19)."
+  },
+  "sen.numbers-units-style": {
+    "status": "merged",
+    "replacedBy": "num.number-expressions",
+    "reason": "Merged after adversarial review (R1-19)."
+  },
+  "mmd.poster-design": {
+    "status": "merged",
+    "replacedBy": "prs.posters",
+    "reason": "Merged after adversarial review (R1-30)."
+  },
+  "rdc.critical-questions": {
+    "status": "merged",
+    "replacedBy": "crt.questioning",
+    "reason": "Merged after adversarial review (R1-31)."
+  },
+  "lrn.autonomy": {
+    "status": "merged",
+    "replacedBy": "lrn.self-regulation",
+    "reason": "Merged after adversarial review (R1-32)."
+  },
+  "src.signal-phrases": {
+    "status": "merged",
+    "replacedBy": "src.reporting-verbs",
+    "reason": "Merged after adversarial review (R1-37)."
+  }
+}

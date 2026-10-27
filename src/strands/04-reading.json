@@ -9,10 +9,11 @@
       "learnerSummary": "You will learn to identify and judge the arguments and evidence in what you read, notice assumptions and perspectives, compare and connect several sources, map a body of research, and form your own reasoned response for discussion and writing.",
       "stageEmphasis": {
         "foundation": "Introduce critical reading through accessible argumentative texts, focusing on argument identification, critical questions and short reasoned responses.",
-        "pre-sessional": "Link critical reading to source-based writing: identifying arguments, evaluating evidence, reading for an assignment and responding critically to sources.",
         "in-sessional-ug": "Apply critical reading to disciplinary sources, including multiple texts and empirical studies, with attention to assumptions and perspective.",
         "in-sessional-pgt": "Emphasise methods critique, multiple-text integration and literature mapping for assignments and the dissertation.",
-        "pgr": "Focus on mapping and positioning within a literature, reading theoretical texts and critiquing methods at a specialist level."
+        "pgr": "Focus on mapping and positioning within a literature, reading theoretical texts and critiquing methods at a specialist level.",
+        "pre-sessional-ug": "Link critical reading to source-based writing: identifying arguments, evaluating evidence, reading for an assignment and responding critically to sources.",
+        "pre-sessional-pg": "Link critical reading to source-based writing: identifying arguments, evaluating evidence, reading for an assignment and responding critically to sources."
       },
       "keyReferences": [
         "wallacewray2016",
@@ -31,10 +32,11 @@
       "learnerSummary": "You will learn how reading works, why knowing more words and reading more makes everything else easier, and how to read more fluently, cope with long reading lists, read well on screen and use your other languages wisely.",
       "stageEmphasis": {
         "foundation": "Build automaticity and reading volume through extensive reading of graded and accessible texts, alongside explicit work on parsing long sentences, background knowledge and reading purpose.",
-        "pre-sessional": "Diagnose each learner's vocabulary size and reading rate early, set realistic fluency targets, and introduce reading-load management and on-screen reading of authentic disciplinary texts.",
         "in-sessional-ug": "Focus on coping with module reading lists, dense textbook and article prose, and strategic, transparent use of L1 resources and machine translation.",
         "in-sessional-pgt": "Emphasise triage of large reading loads on compressed timelines, deliberate background-knowledge building for students changing discipline, and efficient on-screen reading.",
-        "pgr": "Address sustainable reading of large literatures, realistic rate expectations for specialist and theoretical texts, and the place of plurilingual reading in research."
+        "pgr": "Address sustainable reading of large literatures, realistic rate expectations for specialist and theoretical texts, and the place of plurilingual reading in research.",
+        "pre-sessional-ug": "Diagnose each learner's vocabulary size and reading rate early, set realistic fluency targets, and introduce reading-load management and on-screen reading of authentic disciplinary texts.",
+        "pre-sessional-pg": "Diagnose each learner's vocabulary size and reading rate early, set realistic fluency targets, and introduce reading-load management and on-screen reading of authentic disciplinary texts."
       },
       "keyReferences": [
         "grabe2009",
@@ -53,10 +55,11 @@
       "learnerSummary": "You will learn how to get an overview of a text, find and follow its main ideas and structure, work out what is implied and whose view is being expressed, notice when you have lost understanding and fix it, and read graphs and tables together with the text.",
       "stageEmphasis": {
         "foundation": "Prioritise paragraph and text structure, main ideas, reference tracking and textbook reading, with strategies modelled on accessible texts.",
-        "pre-sessional": "Integrate strategies with careful reading of authentic academic texts used in source-based assignments, and avoid test-driven over-emphasis on skimming and scanning.",
         "in-sessional-ug": "Apply strategies to disciplinary textbooks and early encounters with research articles, with emphasis on stance, inference and visuals.",
         "in-sessional-pgt": "Focus on research-article navigation, stance and efficient previewing of large numbers of sources.",
-        "pgr": "Address fine-grained stance reading, comprehension monitoring with specialist texts and efficient navigation of research literature."
+        "pgr": "Address fine-grained stance reading, comprehension monitoring with specialist texts and efficient navigation of research literature.",
+        "pre-sessional-ug": "Integrate strategies with careful reading of authentic academic texts used in source-based assignments, and avoid test-driven over-emphasis on skimming and scanning.",
+        "pre-sessional-pg": "Integrate strategies with careful reading of authentic academic texts used in source-based assignments, and avoid test-driven over-emphasis on skimming and scanning."
       },
       "keyReferences": [
         "grabestoller2011",
@@ -78,12 +81,6 @@
       "description": "Understand critical reading as actively questioning a text's purpose, claims, evidence, reasoning, assumptions and significance in order to judge its value for one's own purposes, which includes recognising strengths as well as weaknesses. What counts as critical varies across disciplines, and the concept of critical thinking is itself contested, so learners need to see critical reading modelled in their field rather than as a universal checklist or as fault-finding.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains, with an example, the difference between describing what a text says and evaluating it",
@@ -110,7 +107,17 @@
           "key": "acrl:authority",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.argument-identification",
@@ -121,12 +128,6 @@
       "description": "Locate and reconstruct a writer's argument by identifying the main claim, the reasons and evidence offered, intermediate conclusions and the counter-arguments addressed, distinguishing argument from description, explanation and background. Reconstructing an argument accurately is the precondition for evaluating it and for representing it fairly in one's own writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the main claim of a text and the sentence or sentences that state it",
@@ -150,7 +151,17 @@
           ],
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.evidence-evaluation",
@@ -161,12 +172,6 @@
       "description": "Judge whether the evidence a text offers is relevant to its claims, sufficient for their scope and of adequate quality, taking into account the type of evidence (empirical data, statistics, expert opinion, cases, anecdote), its provenance and whether the reasoning from evidence to claim is sound. Evaluating evidence determines how far a source can be relied on and how it should be represented.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the type of evidence offered for each main claim",
@@ -194,7 +199,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.assumptions",
@@ -205,12 +220,6 @@
       "description": "Surface the unstated premises, values and framings on which an argument depends, including the assumptions that link evidence to claims, assumptions about definitions and scope, and value assumptions about what matters. Assumptions are often where disagreement between texts and disciplines really lies, and identifying them allows fair rather than superficial critique.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States an unstated premise that an argument needs in order to work",
@@ -237,7 +246,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.bias-perspective",
@@ -248,11 +267,6 @@
       "description": "Recognise how a text's perspective is shaped by its author's position, interests, funding, disciplinary or theoretical commitments and intended audience, and how this shows in the selection of evidence, framing and language. Recognising perspective is not the same as dismissing a text as biased: all texts are written from a position, so readers judge how that position affects reliability and which perspectives are missing, while also attending to their own biases as readers.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies an author's position, affiliation or interests and explains how they might shape the text",
@@ -280,7 +294,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.methods-critique",
@@ -291,11 +314,6 @@
       "description": "Evaluate the design of empirical studies at the level of an informed non-specialist: whether the sample and setting support the generalisations made, whether measures capture the construct, whether the design supports causal claims, how data were analysed and whether limitations are acknowledged. Criteria differ between quantitative and qualitative research and across disciplines; formal discipline-specific appraisal tools belong to dhl.critical-appraisal and to methods training.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the design, sample or data, measures and analysis of a study from its methods section",
@@ -325,7 +343,15 @@
           "key": "acrl:creation-process",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.multiple-texts",
@@ -336,12 +362,6 @@
       "description": "Read across several texts on a topic by attending to source information (who wrote it, when, where and for whom), identifying where texts agree, conflict or address different questions, corroborating claims, and building an integrated understanding that keeps track of which source said what. Multiple-text comprehension is distinct from single-text comprehension and is the reading basis of synthesis in writing.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Records source information for each text and uses it when weighing conflicting claims",
@@ -369,52 +389,17 @@
           "key": "acrl:conversation",
           "contribution": "component"
         }
-      ]
-    },
-    {
-      "id": "rdc.reading-for-writing",
-      "type": "STRATEGIC",
-      "strand": "Academic Reading",
-      "domain": "Critical & Multiple-Text Reading",
-      "name": "Reading for a writing task",
-      "description": "Select, read and organise sources around a specific writing task: analysing the question to set reading priorities, reading for what the task needs, noting material in usable form with full source details, and reading with the developing argument in mind. Most university writing is source-based, and both the efficiency and the integrity of source use depend on how the reading was done.",
-      "cefrStart": "B1+",
-      "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Derives reading priorities and search directions from the assignment question",
-        "Selects sources and sections relevant to the question and justifies the choices",
-        "Organises notes by the points the task requires rather than by source alone",
-        "Records bibliographic details and distinguishes quotation, paraphrase and own comment in notes",
-        "Revises reading priorities as the argument develops"
-      ],
-      "assessmentPrompt": "Give an essay question and five sources of varying relevance. Ask the learner which they would use, which sections they would read and how they would organise their notes. Check that choices follow from the question and that the note plan supports an argument rather than summarising each source in turn.",
-      "citations": [
-        "grabezhang2013",
-        "hirvela2004",
-        "lekicarson1997",
-        "plakansgebril2012"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:med.text.processing-text",
-          "levels": [
-            "B2",
-            "C1"
-          ],
-          "contribution": "component"
-        },
-        {
-          "key": "acrl:inquiry",
-          "contribution": "related"
-        }
-      ]
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.literature-mapping",
@@ -425,11 +410,6 @@
       "description": "Map a body of literature by identifying its main themes, debates, methodological approaches, key authors and schools of thought, and how they relate to one another over time, so that one's own work can be positioned within the scholarly conversation. Mapping is iterative and moves the reader from accumulating sources to understanding the structure of a field.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a map or matrix of a literature showing themes, positions and key contributors",
@@ -454,7 +434,15 @@
           "key": "vitae-rdf:A1",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdc.theoretical-texts",
@@ -465,11 +453,6 @@
       "description": "Read dense theoretical and conceptual texts, common in the humanities and social sciences, by identifying key concepts and how the author defines them, reconstructing the argument at the level of ideas, relating abstractions to examples, and situating the text within the debate it addresses. Theoretical prose combines high abstraction, nominalisation and specialised senses of everyday words, and usually requires more than one reading.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Identifies and defines the key concepts of a theoretical text in the author's own terms",
@@ -496,45 +479,16 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
-    },
-    {
-      "id": "rdc.critical-questions",
-      "type": "STRATEGIC",
-      "strand": "Academic Reading",
-      "domain": "Critical & Multiple-Text Reading",
-      "name": "Generating critical questions",
-      "description": "Generate and apply a set of critical questions to interrogate a text systematically: its purpose and audience, its main claims, the evidence and reasoning behind them, its assumptions and perspective, what it omits, and its implications and usefulness for the reader's purpose. Question sets are scaffolds to be internalised and adapted to disciplinary norms, not checklists to be completed mechanically.",
-      "cefrStart": "B1+",
-      "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Applies a question set to a text and gives answers grounded in the text",
-        "Generates questions specific to the text and discipline rather than only generic ones",
-        "Prioritises the questions most relevant to their reading purpose",
-        "Uses critical questions to prepare seminar contributions or plan a critique"
-      ],
-      "assessmentPrompt": "Give a short text and ask the learner to write five questions they would ask of it, then answer two. Check whether the questions go beyond comprehension to address claims, evidence, assumptions and implications, and whether the answers are grounded in the text.",
-      "citations": [
-        "walton2006",
-        "wallacewray2016"
-      ],
-      "frameworks": [
-        {
-          "key": "acrl:inquiry",
-          "contribution": "related"
-        },
-        {
-          "key": "vitae-rdf:A2",
-          "contribution": "related"
-        }
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -546,13 +500,6 @@
       "description": "Move from comprehension and analysis to a reasoned evaluation of a text: state a position on its claims, value or usefulness, support it with reasons and evidence from analysis of the text and other sources, and express it with appropriate qualification. A critical response is neither a summary nor an unsupported opinion but an argued judgement that can be defended in discussion or writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States a clear, appropriately qualified evaluative position on a text",
@@ -584,7 +531,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.interactive-reading",
@@ -595,12 +553,6 @@
       "description": "Understand comprehension as the interaction of lower-level processes (word recognition, syntactic parsing, forming propositions) with higher-level processes (building a model of what the text says and integrating it with background knowledge, purpose and inference). The concept explains why L2 readers who know many strategies can still fail when lexical and grammatical processing is slow or inaccurate, and gives learners and teachers a shared vocabulary for diagnosing reading problems.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains, using an example from their own reading, how an unknown word or a misparsed sentence caused a comprehension failure that background knowledge could not repair",
@@ -625,7 +577,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.word-recognition",
@@ -636,11 +598,6 @@
       "description": "Recognise frequent and core academic words quickly and accurately enough that recognition demands little attention, freeing working memory for building meaning. Recognition speed depends on the quality of stored form–meaning knowledge and is shaped by the reader's first-language writing system, so it develops mainly through large amounts of reading and timed practice with known words rather than through strategy instruction.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Recognises high-frequency and core academic words in context with near-ceiling accuracy and without visible decoding effort",
@@ -672,7 +629,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.reading-fluency-rate",
@@ -683,12 +649,6 @@
       "description": "Read connected academic text at a rate appropriate to purpose while maintaining comprehension, and build that rate through timed reading of easy texts, repeated reading and extensive reading. Learners also develop realistic expectations: silent reading of expository text by skilled adult L1 readers averages roughly 200–300 words per minute, slower for dense or unfamiliar material, and claims that speed-reading techniques multiply rate without loss of comprehension are not supported by eye-movement and comprehension research.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Records reading rate and comprehension on timed passages and tracks both over a course",
@@ -718,7 +678,17 @@
           "key": "ielts:rd.academic",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.extensive-reading",
@@ -729,12 +699,6 @@
       "description": "Read large quantities of self-selected, linguistically easy material, such as graded readers, accessible non-fiction and popular science, for meaning and enjoyment, with minimal dictionary use and no intensive exercises attached. Extensive reading supports reading rate, consolidation and incidental growth of vocabulary, and confidence, but its gains accumulate over months, so it must be planned into a programme and continued beyond it rather than recommended in passing.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects texts at a level where nearly all running words are known, using a quick page check for unknown words",
@@ -768,7 +732,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.reading-purpose",
@@ -779,12 +753,6 @@
       "description": "Set an explicit purpose before reading (to locate information, grasp gist, learn content, follow an argument, extract a method, integrate sources, write or evaluate) and adjust speed, depth, sequence and note-making to that purpose. Purpose-setting is what makes selective reading principled rather than careless, and it sets the standard for what counts as having understood a text well enough.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States before reading what they need from a text and how they will know when they have it",
@@ -815,7 +783,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.parsing-complex-sentences",
@@ -826,12 +804,6 @@
       "description": "Analyse long academic sentences by locating the finite verb of the main clause, its subject and the head nouns of heavily modified noun phrases, so that the core proposition can be separated from embedded and qualifying material. Academic prose packs information into phrases (nominalisations, prepositional chains, pre- and post-modification) rather than clauses, so readers who parse as they would conversation often misidentify what a sentence claims.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the main-clause subject and finite verb in sentences of 35 words or more containing several embedded phrases",
@@ -864,7 +836,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.background-knowledge",
@@ -875,13 +857,6 @@
       "description": "Recognise that comprehension depends on topic, disciplinary and text-type knowledge as well as language, and deliberately activate and build that knowledge before and during reading through accessible overviews, glossaries, textbooks and lectures. This explains why the same reader can read fluently in a familiar field yet struggle in a new one, and why building knowledge is a legitimate reading strategy, especially for postgraduates changing discipline.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Lists what they already know and expect about a topic before reading and revises the list afterwards",
@@ -913,7 +888,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.managing-reading-load",
@@ -924,13 +910,6 @@
       "description": "Plan and triage the reading that university study generates: distinguish essential from further reading, decide what to read closely, partially or not at all in relation to teaching sessions and assessments, and schedule reading realistically given one's own reading rate in English. Effective triage is a judgement about relevance rather than a speed technique, and it involves accepting that not every item on a list is meant to be read in full.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies a module reading list into essential, recommended and optional items and justifies the classification from module documents",
@@ -959,7 +938,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.digital-reading",
@@ -970,13 +960,6 @@
       "description": "Read academic texts on screen, as PDFs, e-books and web pages, in ways that sustain comprehension: choosing screen or paper for the task, using search and digital annotation purposefully, managing hyperlinks, tabs and notifications, and checking unfamiliar web sources before trusting them. Meta-analytic evidence suggests a small comprehension disadvantage for screen reading of expository text, particularly under time pressure, which appears to reflect shallower processing and overconfidence rather than the screen as such.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses PDF tools (search, highlighting, comments, bookmarks) in support of a stated reading purpose rather than as a substitute for processing",
@@ -1005,7 +988,18 @@
           "key": "acrl:authority",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rdp.plurilingual-reading",
@@ -1016,13 +1010,6 @@
       "description": "Use the first language and other languages, bilingual dictionaries, glossaries and machine translation to support comprehension of difficult academic texts while continuing to process the English text itself, verifying key terms and disciplinary meanings, and staying within institutional rules. Reading ability and academic concepts developed in another language are a transferable resource; the risks lie in translation replacing engagement with English, mistranslated technical terms and the loss of hedging, negation and attribution.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses L1 resources or machine translation selectively for passages that block comprehension, after first attempting them in English",
@@ -1056,7 +1043,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.previewing",
@@ -1067,12 +1065,6 @@
       "description": "Survey a text before reading it in detail by examining its title, abstract or summary, headings, introduction and conclusion, figures and section structure, in order to predict content, judge relevance and plan how to read. Previewing builds a framework that makes later careful reading faster and more accurate, and is the quickest reliable way to decide whether a source deserves more time.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Predicts the topic, purpose and probable main claim of an article from its title, abstract and headings, and checks the predictions after reading",
@@ -1095,7 +1087,17 @@
           ],
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.skimming",
@@ -1106,11 +1108,6 @@
       "description": "Read rapidly and selectively, sampling headings, the opening and closing sentences of paragraphs and salient words, to grasp the gist and overall structure of a text. Skimming is useful for orientation and relevance decisions, but it inevitably reduces comprehension of what is skipped, so it complements rather than replaces careful reading of texts that matter for the task.",
       "cefrStart": "A2",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the gist and overall structure of a 1,000–2,000-word text after a short timed skim",
@@ -1137,7 +1134,16 @@
           "key": "ielts:rd.academic",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "A2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.scanning",
@@ -1148,10 +1154,6 @@
       "description": "Locate specific information such as names, dates, figures, terms or a particular claim by searching for its likely form rather than reading continuously, then read the surrounding text carefully to confirm that it answers the question. In academic work scanning is used with indexes, tables, reference lists and long documents, increasingly through digital search, so anticipating wording and verifying context matter more than raw speed.",
       "cefrStart": "A2",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Locates specified items in a long text, table or index quickly and accurately",
@@ -1177,7 +1179,15 @@
           "key": "ielts:rd.academic",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "A2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.main-ideas",
@@ -1188,11 +1198,6 @@
       "description": "Identify the central claims of a paragraph, section and whole text and distinguish them from elaboration, examples, evidence and background. Main-idea identification underpins summarising, note-making and critical reading, and in academic texts main ideas are often implicit, distributed across sentences or signalled only through evaluation.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the main idea of a paragraph in their own words, including when it is not expressed in a single topic sentence",
@@ -1225,7 +1230,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.paragraph-structure-reading",
@@ -1236,10 +1250,6 @@
       "description": "Use knowledge of how academic paragraphs are built (controlling sentences, development patterns such as definition, exemplification, cause–effect and comparison, and concluding or linking sentences) to predict and follow paragraph content. Paragraph structure is a probabilistic cue rather than a rule: many expert paragraphs open with background or a counter-view and have delayed, implicit or multiple points.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the controlling sentence of a paragraph when there is one and recognises when there is none",
@@ -1270,7 +1280,15 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.text-organisation",
@@ -1281,12 +1299,6 @@
       "description": "Recognise the overall organisation of a text (problem–solution, claim–counterclaim, general–specific, comparison, cause–effect, chronological) and the signals that mark it (headings, frame markers, signalling nouns, connectors) in order to follow the writer's plan, anticipate what comes next and recall content in structured form. Explicit awareness of top-level structure has been shown to support L2 readers' recall.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the top-level pattern of an article or chapter and the sections that realise each element",
@@ -1318,7 +1330,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.research-article-navigation",
@@ -1329,12 +1351,6 @@
       "description": "Read empirical research articles non-linearly and efficiently by using their conventional structure (abstract; introduction establishing a gap and aims; methods; results; discussion; conclusion) and their figures and tables to locate what a given purpose requires. Experienced readers rarely read research articles from start to finish; knowing what each section typically does, and how this varies across disciplines and article types, lets novices do the same.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the typical function of each IMRaD section and where gaps, aims, findings and limitations are usually found",
@@ -1365,7 +1381,17 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.inference",
@@ -1376,12 +1402,6 @@
       "description": "Draw the inferences a text requires but does not state: bridging inferences that connect sentences (cause, contrast, reference), knowledge-based inferences that connect the text to what the reader knows, and inferences about implications and the writer's unstated position. Compressed academic phrasing leaves many logical relations implicit, so inferencing is essential, but inferences must be anchored in textual evidence and revised when the text contradicts them.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Supplies the implicit logical relation between two sentences and names the textual evidence for it",
@@ -1413,7 +1433,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.reference-tracking",
@@ -1424,11 +1454,6 @@
       "description": "Resolve reference across sentences while reading: pronouns, demonstratives (this, these, such), signalling and shell nouns (this approach, the problem, these findings), comparative reference (the former, other studies) and substitution or ellipsis. Academic writers often use 'this' plus a summarising noun to encapsulate whole stretches of preceding text, and wrongly resolved reference is a frequent, often unnoticed source of misunderstanding.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the antecedents of pronouns and demonstratives accurately, including when the antecedent is a clause or paragraph",
@@ -1459,7 +1484,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.fact-opinion-claim",
@@ -1470,11 +1504,6 @@
       "description": "Classify statements in academic texts by their epistemic status: background treated as established, the writer's own claim, a claim attributed to others, evidence offered in support, evaluation, and speculation. The school-level fact/opinion binary is inadequate for academic reading, because most academic statements are claims supported to different degrees and marked as such by hedges, boosters and attribution.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Labels sentences in an academic paragraph as background, claim, evidence, evaluation or speculation and justifies each label",
@@ -1496,7 +1525,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.writer-stance",
@@ -1507,12 +1545,6 @@
       "description": "Track whose voice is speaking at each point in an academic text and how strongly the writer endorses, distances themselves from or rejects attributed views, using reporting verbs, attribution, hedges, boosters, attitude markers and concessive structures as cues. Attributing a cited view to the writer, or missing the writer's evaluation of a source, is a common cause of misrepresentation in student summaries and essays.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes the writer's own claims from views attributed to other sources",
@@ -1537,7 +1569,17 @@
           ],
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.comprehension-monitoring",
@@ -1548,13 +1590,6 @@
       "description": "Notice while reading when comprehension has broken down or is too shallow for the purpose, diagnose the likely cause and apply a matching repair: rereading, slowing down, reading on for clarification, parsing a sentence, checking a key word, consulting a background source or asking a question. Monitoring is a metacognitive skill, and readers often overestimate their understanding, especially of difficult or unfamiliar texts.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Marks points of breakdown during reading and labels their likely cause",
@@ -1589,7 +1624,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.annotation",
@@ -1600,12 +1646,6 @@
       "description": "Annotate texts selectively and in one's own words, marking main claims, structure, key evidence, questions and links to a task, so that annotations support later summary, discussion or writing. Annotation helps to the extent that it requires processing; extensive highlighting without comment has low utility for learning, and annotations that do not separate the author's ideas from the reader's create risks for later source use.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Annotates with a small set of consistent codes or colours whose meanings are defined in advance",
@@ -1628,7 +1668,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.textbook-reading",
@@ -1639,11 +1689,6 @@
       "description": "Read introductory textbooks to learn disciplinary content, using their apparatus (chapter objectives, headings, definitions, worked examples, figures, summaries, review questions) to organise study and to check learning through self-testing. Textbooks are the main reading genre in many foundation and first-year programmes, and their dense definitions, taxonomies and technical explanations make them demanding despite their pedagogical design.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses chapter objectives and summaries to preview and review a chapter",
@@ -1667,7 +1712,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "rds.visuals-in-text",
@@ -1678,12 +1732,6 @@
       "description": "Integrate information from figures, tables and diagrams with the surrounding prose: follow references to visuals, consult them at the point they are needed, check whether the writer's description matches what they show, and notice what they show that the text does not mention. Many readers skip visuals or read them superficially, missing evidence on which the argument depends.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Locates the visual a passage refers to and states what it is meant to show",
@@ -1714,7 +1762,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -1738,7 +1796,7 @@
     },
     {
       "topicId": "rdc.argument-identification",
-      "prerequisiteId": "coh.connector-precision",
+      "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
       "reason": "Reasons, conclusions and counter-arguments are often signalled by causal and contrastive connectors"
     },
@@ -1827,24 +1885,6 @@
       "reason": "Tracking which source holds which view across texts depends on reading attribution and stance accurately within each text"
     },
     {
-      "topicId": "rdc.reading-for-writing",
-      "prerequisiteId": "wpr.task-analysis",
-      "strength": "hard",
-      "reason": "Reading priorities are derived from an analysis of the assignment question, scope and criteria"
-    },
-    {
-      "topicId": "rdc.reading-for-writing",
-      "prerequisiteId": "rdp.managing-reading-load",
-      "strength": "soft",
-      "reason": "Reading for a task applies triage and planning to the sources an assignment requires"
-    },
-    {
-      "topicId": "rdc.reading-for-writing",
-      "prerequisiteId": "ntk.notes-from-reading",
-      "strength": "soft",
-      "reason": "Usable task-oriented reading depends on notes that record source details and separate quotation, paraphrase and comment"
-    },
-    {
       "topicId": "rdc.literature-mapping",
       "prerequisiteId": "rdc.multiple-texts",
       "strength": "hard",
@@ -1881,26 +1921,8 @@
       "reason": "Theoretical texts give everyday words such as power, culture or structure specialised senses that readers must recognise"
     },
     {
-      "topicId": "rdc.critical-questions",
-      "prerequisiteId": "rdc.critical-reading",
-      "strength": "hard",
-      "reason": "Critical question sets operationalise an understanding of what critical reading involves"
-    },
-    {
-      "topicId": "rdc.critical-questions",
-      "prerequisiteId": "crt.questioning",
-      "strength": "soft",
-      "reason": "Text-specific critical questions build on a general habit of asking how, why and with what evidence"
-    },
-    {
-      "topicId": "rdc.critical-questions",
-      "prerequisiteId": "rdc.argument-identification",
-      "strength": "soft",
-      "reason": "Questions about claims, reasons and evidence presuppose that these can be located in the text"
-    },
-    {
       "topicId": "rdc.critical-response",
-      "prerequisiteId": "rdc.critical-questions",
+      "prerequisiteId": "crt.questioning",
       "strength": "hard",
       "reason": "A reasoned response is built from answers to systematic critical questions about the text"
     },
@@ -2334,7 +2356,7 @@
           "kind": "developmental",
           "revealedBy": "Conclusions misidentified; counter-arguments read as the author's position.",
           "response": "Highlight conclusion indicators and contrastive signals before mapping.",
-          "reteachPrerequisiteId": "coh.connector-precision"
+          "reteachPrerequisiteId": "coh.linking-adverbials"
         }
       ],
       "diagnostic": {
@@ -2697,77 +2719,6 @@
       "reviewNotes": []
     },
     {
-      "topicId": "rdc.reading-for-writing",
-      "summary": "Studies of university tasks show that much assessed writing draws on reading sources (Horowitz, 1986; Leki & Carson, 1997), and Grabe and Zhang (2013) argue for teaching reading and writing together in EAP. Plakans and Gebril (2012) show that writers in integrated tasks use sources for ideas, organisation and language. Teach reading as driven by the question, with notes organised by the writer's emerging points, and integrate reading tasks with writing assignments rather than teaching them separately (Hirvela, 2004).",
-      "activities": [
-        {
-          "title": "Question-driven reading plan",
-          "learnerActions": [
-            "Break an essay question into sub-questions",
-            "Map each sub-question to likely sources and sections",
-            "Read and take notes under sub-question headings"
-          ],
-          "intendedInsight": "Reading for writing is organised by the question, not by the source.",
-          "rationale": "Integrates reading and writing in line with Grabe and Zhang (2013) and Hirvela (2004).",
-          "citations": [
-            "grabezhang2013",
-            "hirvela2004"
-          ]
-        },
-        {
-          "title": "From notes to paragraph",
-          "learnerActions": [
-            "Use notes from three sources to plan one paragraph",
-            "Check that your notes distinguish quotation, paraphrase and own comment",
-            "Write the paragraph and reflect on any gaps in your reading"
-          ],
-          "intendedInsight": "How you read and take notes determines how easily and how honestly you can write.",
-          "rationale": "Reflects the reading-to-write processes observed in integrated tasks (Plakans & Gebril, 2012).",
-          "citations": [
-            "plakansgebril2012"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Reads everything on the topic before deciding what the question requires.",
-          "kind": "performance",
-          "revealedBy": "Large volumes of notes, many irrelevant to the question.",
-          "response": "Begin with question analysis and set reading priorities before reading.",
-          "reteachPrerequisiteId": "wpr.task-analysis"
-        },
-        {
-          "pattern": "Copies source wording into notes without marking it.",
-          "kind": "developmental",
-          "revealedBy": "Patchwriting in drafts traceable to unmarked notes.",
-          "response": "Teach note conventions that distinguish quotation, paraphrase and comment. Treat early patchwriting as developmental rather than as misconduct.",
-          "reteachPrerequisiteId": "ntk.notes-from-reading"
-        },
-        {
-          "pattern": "Expects to write from personal opinion and general knowledge, as in many test and school essay tasks.",
-          "kind": "prior-schooling",
-          "revealedBy": "Assignments with few sources and much unsupported assertion.",
-          "response": "Use source-based writing tasks from the start of a course and make the expectation of source use explicit.",
-          "reteachPrerequisiteId": null
-        }
-      ],
-      "diagnostic": {
-        "task": "An essay question and five sources; ask which to use and how to organise notes.",
-        "strongResponse": "Question-driven selection and a note plan organised by points.",
-        "partialResponse": "Relevant selection but notes planned source by source.",
-        "gapResponse": "All sources treated equally, or selection unrelated to the question."
-      },
-      "contextNotes": "Foundation and pre-sessional courses should use source-based assessments. In-sessional undergraduates and PGT students apply the skill to disciplinary assignments and dissertations.",
-      "citations": [
-        "grabezhang2013",
-        "hirvela2004",
-        "lekicarson1997",
-        "plakansgebril2012",
-        "horowitz1986"
-      ],
-      "reviewNotes": []
-    },
-    {
       "topicId": "rdc.literature-mapping",
       "summary": "Feak and Swales (2009) treat the literature review as a research story in which writers position their work; mapping the literature is its reading counterpart. Kwan (2006) describes the thematic organisation of doctoral literature reviews, and the ACRL (2016) frame of scholarship as conversation captures the idea that sources respond to one another over time. Teach mapping as iterative, visual and conceptual, using concept maps or matrices and citation networks.",
       "activities": [
@@ -2906,67 +2857,6 @@
       "reviewNotes": []
     },
     {
-      "topicId": "rdc.critical-questions",
-      "summary": "Walton (2006) pairs common argumentation schemes, such as argument from expert opinion or from analogy, with critical questions that test them, and Wallace and Wray (2016) propose a set of critical synopsis questions to guide postgraduate reading. Reciprocal teaching illustrates the value of questioning routines that are modelled and then handed over to learners (Palincsar & Brown, 1984). Teach a compact question set, model its use, and encourage learners to adapt it to their discipline and purpose.",
-      "activities": [
-        {
-          "title": "Applying a question set",
-          "learnerActions": [
-            "Apply a five-question set covering purpose, claims, evidence, assumptions and usefulness to a short text",
-            "Answer each question with references to the text",
-            "Discuss which questions were most productive for this text"
-          ],
-          "intendedInsight": "Systematic questions make critical reading manageable and focused.",
-          "rationale": "Adapts the critical synopsis approach of Wallace and Wray (2016).",
-          "citations": [
-            "wallacewray2016"
-          ]
-        },
-        {
-          "title": "Scheme-specific questions",
-          "learnerActions": [
-            "Identify an argument from expert opinion or from analogy in a text",
-            "Apply the critical questions associated with that type of argument",
-            "Judge the argument's strength"
-          ],
-          "intendedInsight": "Different kinds of argument invite different critical questions.",
-          "rationale": "Based on argumentation schemes and their critical questions (Walton, 2006).",
-          "citations": [
-            "walton2006"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Asks only comprehension questions.",
-          "kind": "developmental",
-          "revealedBy": "Questions that can be answered by locating information in the text.",
-          "response": "Model evaluative questions and contrast them with comprehension questions on the same text.",
-          "reteachPrerequisiteId": "rdc.critical-reading"
-        },
-        {
-          "pattern": "Applies the question set mechanically, regardless of text or purpose.",
-          "kind": "overgeneralisation",
-          "revealedBy": "Uniform, formulaic answers across very different texts.",
-          "response": "Ask learners to choose and adapt the questions most relevant to their purpose and discipline.",
-          "reteachPrerequisiteId": null
-        }
-      ],
-      "diagnostic": {
-        "task": "Ask for five questions about a short text and answers to two of them.",
-        "strongResponse": "Questions address claims, evidence, assumptions and implications, with text-based answers.",
-        "partialResponse": "A mix of comprehension and evaluative questions.",
-        "gapResponse": "Comprehension questions only."
-      },
-      "contextNotes": "Foundation learners can use simplified question sets with accessible texts. Pre-sessional and in-sessional learners use them for seminar preparation and critiques. Doctoral researchers adapt them to the norms of their field.",
-      "citations": [
-        "walton2006",
-        "wallacewray2016",
-        "palincsarbrown1984"
-      ],
-      "reviewNotes": []
-    },
-    {
       "topicId": "rdc.critical-response",
       "summary": "A critical response draws on an evaluativist view of knowledge, in which claims are weighed by evidence and argument rather than accepted as certain or dismissed as mere opinion (Hofer & Pintrich, 1997). Wallace and Wray (2016) and Swales and Feak (2012) treat critique as reasoned evaluation grounded in analysis of the text. Teach critical response through structured tasks that move from summary to analysis to evaluation, with models of qualified evaluative language.",
       "activities": [
@@ -3004,14 +2894,14 @@
           "kind": "conceptual",
           "revealedBy": "Responses whose reasons do not refer to the text's argument or evidence.",
           "response": "Require each reason to be linked to a specific feature of the text.",
-          "reteachPrerequisiteId": "rdc.critical-questions"
+          "reteachPrerequisiteId": "crt.questioning"
         },
         {
           "pattern": "Summarises at length and adds a one-line evaluation.",
           "kind": "developmental",
           "revealedBy": "Responses dominated by summary.",
           "response": "Limit the summary to a fixed length and scaffold the evaluation with critical questions.",
-          "reteachPrerequisiteId": "rdc.critical-questions"
+          "reteachPrerequisiteId": "crt.questioning"
         },
         {
           "pattern": "'Everyone has their own opinion, so all views are equally valid.'",

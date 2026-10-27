@@ -9,10 +9,11 @@
       "learnerSummary": "You will learn how academic knowledge is published, how to find relevant sources efficiently with library tools, and how to decide whether a source is reliable enough for the job you want it to do in your work.",
       "stageEmphasis": {
         "foundation": "Distinguishing scholarly from popular sources, simple catalogue and discovery-tool searches, and basic credibility checks, including lateral reading of web sources.",
-        "pre-sessional": "Focusing a topic for a project, building keyword searches with synonyms and Boolean operators, evaluating sources for an extended essay, and keeping records that make accurate citation possible.",
         "in-sessional-ug": "Subject databases, citation chaining from key readings, and module-specific judgements about what counts as an acceptable source.",
         "in-sessional-pgt": "Efficient, documented searching for dissertations, checking venues and retractions, and legitimate access to paywalled work.",
-        "pgr": "Systematic or scoping searching, comprehensive citation chaining and reproducible search records maintained across a multi-year project."
+        "pgr": "Systematic or scoping searching, comprehensive citation chaining and reproducible search records maintained across a multi-year project.",
+        "pre-sessional-ug": "Focusing a topic for a project, building keyword searches with synonyms and Boolean operators, evaluating sources for an extended essay, and keeping records that make accurate citation possible.",
+        "pre-sessional-pg": "Focusing a topic for a project, building keyword searches with synonyms and Boolean operators, evaluating sources for an extended essay, and keeping records that make accurate citation possible."
       },
       "keyReferences": [
         "acrl2016",
@@ -28,10 +29,11 @@
       "learnerSummary": "You will learn how to quote, paraphrase and summarise sources accurately, how to make clear which ideas come from a source and which are your own, and how to choose language that reports other writers' ideas precisely.",
       "stageEmphasis": {
         "foundation": "Accurate quotation, basic signal phrases, summarising paragraphs and early paraphrasing, with close dependence on source wording treated as a normal stage to work through.",
-        "pre-sessional": "Paraphrase and summary in assessed writing, reporting verbs, voice boundaries and integration of sources in extended essays.",
         "in-sessional-ug": "Disciplinary norms for quotation and citation form, summarising whole texts, and source use that serves analysis rather than display.",
         "in-sessional-pgt": "Rapid, accurate summarising of research articles, evaluative reporting, and clear voice boundaries in dense, multi-source writing.",
-        "pgr": "Fine control of reporting verbs, citation form and attribution in research writing, and transparent use of sources in other languages."
+        "pgr": "Fine control of reporting verbs, citation form and attribution in research writing, and transparent use of sources in other languages.",
+        "pre-sessional-ug": "Paraphrase and summary in assessed writing, reporting verbs, voice boundaries and integration of sources in extended essays.",
+        "pre-sessional-pg": "Paraphrase and summary in assessed writing, reporting verbs, voice boundaries and integration of sources in extended essays."
       },
       "keyReferences": [
         "pecorari2013",
@@ -50,10 +52,11 @@
       "learnerSummary": "You will learn how to bring several sources together around your own ideas, show how they agree, differ and leave questions open, and complete tasks that combine reading, listening and writing.",
       "stageEmphasis": {
         "foundation": "Understanding synthesis versus serial summary, simple matrices built from two or three sources, and short integrated tasks.",
-        "pre-sessional": "Thematic grouping and synthesis paragraphs in extended essays, and integrated reading-into-writing tasks used for progression decisions.",
         "in-sessional-ug": "Synthesising module readings in essays and literature review assignments, with explicit relationships between sources and, in final-year projects, identification of gaps.",
         "in-sessional-pgt": "Literature reviews that group sources by theme, relate them critically and identify gaps that justify a dissertation question.",
-        "pgr": "Synthesising large, contested literatures and articulating tensions and gaps that position an original contribution."
+        "pgr": "Synthesising large, contested literatures and articulating tensions and gaps that position an original contribution.",
+        "pre-sessional-ug": "Thematic grouping and synthesis paragraphs in extended essays, and integrated reading-into-writing tasks used for progression decisions.",
+        "pre-sessional-pg": "Thematic grouping and synthesis paragraphs in extended essays, and integrated reading-into-writing tasks used for progression decisions."
       },
       "keyReferences": [
         "spivey1990",
@@ -73,11 +76,6 @@
       "description": "Classify sources by their relation to the object of study (primary, secondary, tertiary), by the kind of knowledge they offer (empirical study, review, theoretical or conceptual work, practice or policy document) and by their intended readership (scholarly or popular). Classification tells the learner what a source can legitimately support, and it depends on the discipline and question: a newspaper report is a secondary source for a chemist but may be a primary source for a historian.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies a mixed set of sources as primary, secondary or tertiary for a stated discipline and justifies borderline cases",
@@ -99,7 +97,16 @@
           "key": "acrl:authority",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.scholarly-communication",
@@ -110,12 +117,6 @@
       "description": "Explain how academic knowledge is made public and checked: peer review, journal articles, monographs and edited books, conference papers, preprints and grey literature, and the versions a single study may pass through. This understanding underpins calibrated judgements about authority, currency and status, for example why a preprint is cited with caution and why a textbook lags behind the journal literature.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes the main stages of peer review and states what it does and does not guarantee",
@@ -139,7 +140,17 @@
           "key": "acrl:conversation",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.research-question",
@@ -150,12 +161,6 @@
       "description": "Narrow a broad assignment topic into a focused question by specifying context, population, period, variables or perspective, and test whether it is answerable within the word limit and the available literature. A focused question yields usable search concepts and inclusion decisions; an unfocused one produces unmanageable or irrelevant results and descriptive writing.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Reformulates a broad topic as a question that names its key concepts and at least two limiting dimensions, such as context and population",
@@ -173,7 +178,17 @@
           "key": "acrl:inquiry",
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.search-strategies",
@@ -184,12 +199,6 @@
       "description": "Build and refine searches by breaking a question into concepts, generating synonyms, spelling variants and broader or narrower terms for each, and combining them with Boolean operators, truncation, phrase searching and filters. Searching is iterative: learners read early results to harvest better terms and revise the strategy rather than typing a whole question into a search box.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a concept table with synonyms, British and American spellings, and broader and narrower terms for each concept",
@@ -207,7 +216,17 @@
           "key": "acrl:strategic-exploration",
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.databases",
@@ -218,13 +237,6 @@
       "description": "Choose between the library catalogue, the discovery layer, subject databases and Google Scholar according to what each indexes and how it can be searched, and use each tool's features (subject headings, filters, export, citation links, full-text links). Knowing what a tool covers stops learners concluding that 'there is nothing on this topic' after one search in an unsuitable tool.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects an appropriate tool for a stated need, such as the catalogue for a known book or a subject database for recent empirical studies",
@@ -242,7 +254,18 @@
           "key": "acrl:strategic-exploration",
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.source-evaluation",
@@ -253,12 +276,6 @@
       "description": "Judge whether a source is credible and fit for a specific purpose by weighing its authority, currency, relevance, purpose and evidence base against the task. Evaluation is contextual: the same source may be acceptable as an example of public debate but inadequate as evidence for a causal claim, and checklists help only when applied with judgement.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Justifies including or excluding a source with reasons tied to the purpose it will serve in the assignment",
@@ -286,7 +303,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.lateral-reading",
@@ -297,12 +324,6 @@
       "description": "Evaluate an unfamiliar website, organisation, author or claim by leaving it and opening new tabs to find out what independent, reliable sources say about it, rather than judging it from its appearance and 'About' page. Wineburg and McGrew found that professional fact-checkers worked this way and reached sounder judgements more quickly than historians and students who read vertically within the site.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Leaves an unfamiliar site early to search for information about its publisher, funder or author",
@@ -325,7 +346,17 @@
           "key": "acrl:strategic-exploration",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.problematic-publishing",
@@ -336,12 +367,6 @@
       "description": "Recognise the main routes by which unreliable material enters the record: deceptive ('predatory') venues that take fees without genuine peer review, published work that is later corrected or retracted, and misinformation that circulates through repeated citation, social media and fabricated references from generative AI tools. Learners need to verify venues and article status, and to understand that publication alone is not proof.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies warning signs of a deceptive journal (implausibly fast review, aggressive solicitation, unverifiable indexing or metric claims) and verifies them through independent sources",
@@ -365,7 +390,17 @@
           "key": "acrl:creation-process",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.citation-chaining",
@@ -376,12 +411,6 @@
       "description": "Use a relevant source as a node in the scholarly conversation: follow its references backward to earlier work and use 'cited by' tools to follow later work forward. Chaining finds sources that keyword searches miss, reveals key works in a debate and shows how a claim has been taken up, extended or challenged.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects references to follow from a source's introduction or literature review, giving a reason based on how the citing text uses each",
@@ -403,7 +432,17 @@
           "key": "acrl:strategic-exploration",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.search-records",
@@ -414,13 +453,6 @@
       "description": "Keep records that allow searches to be repeated and sources to be found and cited accurately: tools searched, search strings, filters, dates and result counts, together with complete bibliographic details and locators for each source used. Good records prevent lost references and inaccurate citations, and protect against unattributed borrowing when the origin of a note has been forgotten.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Records the bibliographic details needed for the source type at the point of first reading, including page numbers or other locators",
@@ -441,7 +473,18 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.open-access",
@@ -452,12 +495,6 @@
       "description": "Understand the routes by which scholarly work is made freely available (open-access journals with or without author charges, self-archiving in repositories, preprints) and the legitimate ways of obtaining paywalled work (library subscriptions, interlibrary loan, author copies, legal open-access finders). This lets learners find accessible versions, cite the right version and recognise the legal and security problems of unauthorised download sites.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains the main open-access routes in terms of who pays and where the work is held",
@@ -479,7 +516,17 @@
           "key": "acrl:creation-process",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "inf.systematic-searching",
@@ -490,11 +537,6 @@
       "description": "Design and report a transparent, reproducible search for a systematic, scoping or structured literature review: a protocol with a defined question, sources, full search strings for each database, supplementary methods such as chaining, explicit eligibility criteria and a record of screening decisions. Expectations depend on the field: such searching is standard in health and other evidence-synthesis fields and increasingly expected in education and social-policy dissertations.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Writes a search strategy that another person can run to reproduce the results, including database-specific syntax and subject headings",
@@ -518,42 +560,16 @@
           "key": "vitae-rdf:A1",
           "contribution": "component"
         }
-      ]
-    },
-    {
-      "id": "src.source-functions",
-      "type": "CONCEPTUAL",
-      "strand": "Sources & Academic Integrity",
-      "domain": "Summarising, Paraphrasing & Quoting",
-      "name": "Functions of sources in academic writing",
-      "description": "Recognise the jobs that sources do in academic texts (attributing an idea, supporting a claim, supplying an example or definition, establishing what is known, contrasting positions, justifying a method and positioning the writer's contribution) and choose sources to do those jobs in one's own writing. Understanding function moves learners from showing that they have read to using reading to build an argument.",
-      "cefrStart": "B1+",
-      "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Identifies the function of each citation in a paragraph of expert writing",
-        "States, before drafting, what job each planned source will do in the argument",
-        "Uses sources for at least three different functions in an extended text, not only attribution or support",
-        "Distinguishes citing a source to agree with it from citing it to contrast with or qualify it",
-        "Explains why a sequence of source summaries does not in itself constitute an argument"
-      ],
-      "assessmentPrompt": "Give the learner a 150-word paragraph from a published article containing four citations. Ask what each citation is doing for the writer. Check whether they go beyond 'it gives evidence' to name functions such as defining, establishing consensus, contrasting, justifying a method or establishing a gap.",
-      "citations": [
-        "petric2007",
-        "hyland1999attribution",
-        "swales1986citation"
-      ],
-      "frameworks": [
-        {
-          "key": "acrl:conversation",
-          "contribution": "core"
-        }
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -565,11 +581,6 @@
       "description": "Decide when direct quotation is warranted (the wording itself is the object of analysis, is a definition or formulation that cannot be bettered, or carries authority in the field) and quote accurately and economically, marking omissions and insertions and giving a locator. Norms differ by discipline: quotation is routine in the humanities and much social science but rare in the natural sciences and engineering.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Justifies each quotation by the reason its exact wording matters",
@@ -592,7 +603,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.integrating-quotations",
@@ -603,12 +623,6 @@
       "description": "Embed quotations grammatically and rhetorically: introduce them with a frame that names the source and signals relevance or stance, fit quoted fragments into the syntax of the surrounding sentence, and follow them with commentary that interprets the quotation and connects it to the writer's point. Unframed, 'dropped' quotations leave the reader to infer their relevance and blur the writer's voice.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Introduces every quotation with a signal phrase or framing clause that identifies the source and its relevance",
@@ -638,7 +652,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.paraphrasing",
@@ -649,12 +673,6 @@
       "description": "Restate a specific idea from a source in substantially new wording and sentence structure while preserving its meaning, scope and degree of certainty, and attribute it. Paraphrase lets writers integrate sources into their own argument rather than stitching quotations together, and it depends on full comprehension of the source before reformulation begins.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a paraphrase that a reader judges equivalent in meaning, including hedges, qualifications and scope",
@@ -687,7 +705,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.paraphrase-techniques",
@@ -698,11 +726,6 @@
       "description": "Control the lexicogrammatical operations used in reformulation: substitution with near-synonyms, word-class change, voice change, nominalisation and its reverse, clause reordering and combining, and change of perspective. Learners also need the limits of each operation: synonym substitution alone yields patchwriting, near-synonyms can shift meaning or strength, and technical terms should usually be kept.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Transforms a sentence using at least three different operations (for example word-class change, voice change and clause reordering) while preserving its meaning",
@@ -731,7 +754,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.patchwriting",
@@ -742,13 +774,6 @@
       "description": "Understand patchwriting (reproducing a source's structure and much of its wording with some words deleted, substituted or rearranged) as a common and contested stage in learning to write from sources, distinct from deliberate copying, and use strategies to move beyond it. Howard and Pecorari argue that it often reflects incomplete comprehension and limited linguistic resources rather than intent to deceive, although institutional policies may still classify it as plagiarism.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies patchwriting by comparing a text with its source and locating retained strings and structures",
@@ -764,7 +789,18 @@
         "pennycook1996",
         "pecorari2008"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.summarising-passage",
@@ -775,11 +811,6 @@
       "description": "Condense a paragraph or short section to its main idea and essential support, in the writer's own words and to a stated length, and attribute it to the source. Passage summary is the building block for note-making, summary–response writing and synthesis, and it depends on identifying main ideas and on reformulation.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the main idea of a paragraph in one sentence that does not reproduce its topic sentence",
@@ -810,7 +841,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.summarising-text",
@@ -821,12 +861,6 @@
       "description": "Summarise an article or chapter by building its macrostructure: deleting trivial and redundant material, replacing lists with superordinate terms, and selecting or constructing statements that capture each section's gist (Brown and Day's macrorules). The summary represents the author's purpose, argument and main findings in proportion, using reporting language to show the author's moves.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a summary that represents the text's purpose, main argument or findings and conclusion in proportion to their importance",
@@ -858,7 +892,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.reporting-verbs",
@@ -869,13 +913,6 @@
       "description": "Choose reporting verbs by what the source did (research acts such as find and observe; cognitive acts such as believe and assume; discourse acts such as argue, claim and note) and by the stance they convey towards the reported claim (accepting, neutral or distancing), and use their grammatical patterns accurately. Reporting verbs are a principal resource for representing sources precisely and signalling the writer's position on them.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects verbs that accurately describe the source's act, such as 'found' for a result and 'argued' for a position",
@@ -907,7 +944,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.citation-forms",
@@ -918,12 +966,6 @@
       "description": "Choose between integral citation, where the cited author is an element of the sentence ('Smith (2020) argues that…'), and non-integral citation, where the reference sits in brackets or a number and the information is foregrounded, according to the rhetorical effect required. Author-prominent forms highlight who said something, often to contrast positions; information-prominent forms present content as established or bundle several supporting sources. The balance between forms varies across disciplines.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies integral and non-integral citations in expert texts, including integral citations where the author's name is not the grammatical subject",
@@ -938,35 +980,17 @@
         "thompsontribble2001",
         "hyland1999attribution"
       ],
-      "frameworks": []
-    },
-    {
-      "id": "src.signal-phrases",
-      "type": "LINGUISTIC",
-      "strand": "Sources & Academic Integrity",
-      "domain": "Summarising, Paraphrasing & Quoting",
-      "name": "Signal phrases and attribution",
-      "description": "Use attribution frames ('according to X', 'X argues that', 'as X notes', 'in X's view') to introduce source material and to mark where attributed content begins and continues, so that readers can tell which propositions belong to a source. Signal phrases are the first resource learners need for transparent source use and underpin quotation, paraphrase and summary.",
-      "cefrStart": "B1",
-      "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Introduces source material with an appropriate attribution frame",
-        "Uses grammatically accurate frames, avoiding blends such as 'According to X, he argues that'",
-        "Maintains attribution across several sentences of source content with reference devices (the authors, this study, they)",
-        "Distinguishes frames that are neutral or distancing ('according to') from frames that signal agreement ('as X shows')"
-      ],
-      "assessmentPrompt": "Give the learner a three-sentence summary of a source in which only the first sentence is attributed. Ask them to revise it so that a reader can tell all three sentences come from the source. Check for continued attribution, such as 'The authors further note…', and grammatically accurate frames.",
-      "citations": [
-        "hunstonthompson2000",
-        "pecorari2013"
-      ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.voice-boundaries",
@@ -977,12 +1001,6 @@
       "description": "Make clear where source content begins and ends and where the writer's own interpretation, evaluation or argument takes over, using attribution, citation placement, averral markers and evaluative commentary. Readers need these signals to assign responsibility for claims, and markers judge both originality and integrity by them.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Marks the extent of each paraphrase or summary so that a reader can identify every attributed proposition",
@@ -1006,7 +1024,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.secondary-citation",
@@ -1017,12 +1045,6 @@
       "description": "Cite a source known only through another author's account transparently (for example with 'as cited in' in APA style), recognise when this is acceptable (the original is unobtainable or in an inaccessible language), and otherwise locate and read the original, since secondary accounts can simplify or misrepresent it. Citing an unread original as if it had been read misrepresents the writer's reading.",
       "cefrStart": "B1+",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Formats a secondary citation correctly in the required style, including which work appears in the reference list",
@@ -1034,7 +1056,17 @@
       "citations": [
         "apa2020"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "src.multilingual-sources",
@@ -1045,12 +1077,6 @@
       "description": "Use sources written in languages other than English transparently: translate or paraphrase their content accurately, mark one's own translations of quotations, give the original wording where conventions require, and reference the original-language work with a translated title as the style requires. Non-English scholarship can be a valuable resource, especially on local contexts, and using it well depends on clear signalling rather than silent translation.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Indicates when a quotation is the writer's own translation, following the style guide's convention",
@@ -1081,7 +1107,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "syn.synthesis-concept",
@@ -1092,12 +1128,6 @@
       "description": "Understand synthesis as building a new, writer-organised account from several sources (selecting relevant content, organising it around themes or claims, and connecting sources to one another) rather than summarising sources in turn. Synthesis underlies literature reviews and source-based essays, and markers commonly distinguish it from author-by-author description.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes a synthesised paragraph from a serial summary of the same sources and explains the difference",
@@ -1123,7 +1153,17 @@
           "key": "acrl:conversation",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "syn.synthesis-matrix",
@@ -1134,13 +1174,6 @@
       "description": "Record sources in a grid, with sources as rows and themes, aims, methods, findings or positions as columns, so that comparisons across sources become visible. The matrix is a note-making and planning tool that supports the shift from source-by-source to idea-by-idea organisation; columns can be set by the teacher or task at first and generated by the learner later.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Constructs a matrix with columns suited to the task, such as themes for an essay or design, sample and findings for empirical studies",
@@ -1159,7 +1192,18 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "syn.thematic-grouping",
@@ -1170,12 +1214,6 @@
       "description": "Identify themes, issues or positions that cut across a set of sources and group the sources, or parts of them, under those themes so that a text can be organised by idea. Thematic grouping requires classifying by explicit criteria and recognising that one source may contribute to several themes.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Proposes themes that are relevant to the question and supported by more than one source",
@@ -1194,7 +1232,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "syn.relating-sources",
@@ -1205,12 +1253,6 @@
       "description": "Express how sources relate to one another (agreement, corroboration, extension, qualification, contrast and contradiction) using precise reporting verbs, comparison and contrast language, and citation forms that group sources or set them against each other. Making these relationships explicit is what turns a set of citations into synthesis.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies whether two sources agree, whether one extends or qualifies the other, or whether they conflict",
@@ -1238,7 +1280,17 @@
           "key": "acrl:conversation",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "syn.gaps-tensions",
@@ -1249,12 +1301,6 @@
       "description": "Identify what a body of literature leaves unresolved (conflicting findings, competing interpretations, methodological limitations, under-studied populations or contexts, and untested assumptions) and express it accurately and with appropriate hedging. Gaps and tensions justify new work and give reviews and essays an argumentative direction, but a claimed gap must be grounded in the literature actually reviewed.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies at least two kinds of gap or tension (for example conflicting findings, an unstudied context, a shared methodological limitation) in a set of sources",
@@ -1278,7 +1324,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "syn.synthesis-paragraphs",
@@ -1289,12 +1345,6 @@
       "description": "Write paragraphs controlled by the writer's point, in which several sources are brought into dialogue as evidence, contrast or qualification, and the writer's commentary explains what the combination shows. A synthesis paragraph typically opens with the writer's claim, uses grouped and contrasted citations, keeps voice boundaries clear, and closes by drawing out significance for the wider argument.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Opens the paragraph with a topic sentence that expresses the writer's point rather than a source's",
@@ -1326,7 +1376,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "syn.integrated-tasks",
@@ -1337,11 +1397,6 @@
       "description": "Complete tasks that require reading and/or listening to sources and producing a written (or spoken) response that selects, transforms and integrates their content, such as summary–response tasks, reading-into-writing assessments and lecture-plus-reading syntheses. Success depends on comprehension, selective note-making, transformation of source language and organisation around the task rather than around the sources.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Analyses the task to determine what must be taken from each source and how the response should be organised",
@@ -1374,7 +1429,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -1523,20 +1587,14 @@
       "reason": "Reviews supplement database searches with backward and forward chaining"
     },
     {
-      "topicId": "src.source-functions",
-      "prerequisiteId": "arg.argument-concept",
-      "strength": "soft",
-      "reason": "Seeing sources as doing jobs presupposes the idea that an academic text advances a reasoned position which sources serve"
-    },
-    {
       "topicId": "src.quoting",
-      "prerequisiteId": "sen.quotation-punctuation",
+      "prerequisiteId": "sen.punctuation-mechanics",
       "strength": "hard",
       "reason": "Accurate quotation requires the conventions for quotation marks, ellipses and square brackets"
     },
     {
       "topicId": "src.quoting",
-      "prerequisiteId": "src.source-functions",
+      "prerequisiteId": "cit.citation-functions",
       "strength": "soft",
       "reason": "Deciding whether to quote depends on what the source is doing for the writer's text"
     },
@@ -1548,7 +1606,7 @@
     },
     {
       "topicId": "src.integrating-quotations",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Framing a quotation uses attribution frames to introduce the source"
     },
@@ -1626,7 +1684,7 @@
     },
     {
       "topicId": "src.summarising-passage",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "soft",
       "reason": "Summaries must be attributed to their source with signal phrases or citations"
     },
@@ -1649,14 +1707,8 @@
       "reason": "Representing an author's moves (argues, reports, concludes) uses reporting verbs"
     },
     {
-      "topicId": "src.reporting-verbs",
-      "prerequisiteId": "src.signal-phrases",
-      "strength": "hard",
-      "reason": "Reporting verbs extend basic attribution frames with choices of act and stance"
-    },
-    {
       "topicId": "src.citation-forms",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Integral citation builds on attribution frames that make the cited author a sentence element"
     },
@@ -1667,20 +1719,20 @@
       "reason": "Contrasting integral and non-integral forms presupposes the mechanics of in-text citation"
     },
     {
-      "topicId": "src.signal-phrases",
+      "topicId": "src.reporting-verbs",
       "prerequisiteId": "grm.reporting-structures",
       "strength": "soft",
       "reason": "Attribution frames instantiate reporting structures (verb + that-clause, according to, as X notes)"
     },
     {
-      "topicId": "src.signal-phrases",
+      "topicId": "src.reporting-verbs",
       "prerequisiteId": "cit.when-to-cite",
       "strength": "soft",
       "reason": "Learners need to know which content requires attribution before learning how to signal it in the sentence"
     },
     {
       "topicId": "src.voice-boundaries",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Marking where attributed content begins and continues uses signal phrases"
     },
@@ -1740,7 +1792,7 @@
     },
     {
       "topicId": "syn.synthesis-concept",
-      "prerequisiteId": "src.source-functions",
+      "prerequisiteId": "cit.citation-functions",
       "strength": "hard",
       "reason": "Synthesis rests on the idea that sources serve the writer's purposes rather than being reported for their own sake"
     },
@@ -1782,7 +1834,7 @@
     },
     {
       "topicId": "syn.thematic-grouping",
-      "prerequisiteId": "rdc.reading-for-writing",
+      "prerequisiteId": "wpr.reading-to-write",
       "strength": "soft",
       "reason": "Grouping sources around question-relevant themes presupposes reading selectively in relation to the writing task"
     },
@@ -1869,6 +1921,18 @@
       "prerequisiteId": "ntk.lecture-notes",
       "strength": "soft",
       "reason": "Listening-to-writing tasks require notes that preserve the structure and stance of spoken input"
+    },
+    {
+      "topicId": "syn.integrated-tasks",
+      "prerequisiteId": "tst.test-formats",
+      "strength": "hard",
+      "reason": "Strategies for integrated tasks depend on knowing the specific task structure and constraints of the test"
+    },
+    {
+      "topicId": "syn.integrated-tasks",
+      "prerequisiteId": "exm.timed-writing",
+      "strength": "soft",
+      "reason": "Integrated test responses are produced under strict time limits and draw on rapid planning and time allocation"
     }
   ],
   "guidance": [
@@ -2671,69 +2735,6 @@
       ]
     },
     {
-      "topicId": "src.source-functions",
-      "summary": "Petrić found that high-rated master's theses used citations for a wider range of rhetorical functions than low-rated ones, in which attribution dominated, and Hyland showed how citation is central to the way disciplines build knowledge and writers position themselves. Teaching function first gives learners a reason for every later technique: they paraphrase or quote in order to do something. Analysis of expert texts followed by planning source use by function in learners' own writing makes this concrete.",
-      "activities": [
-        {
-          "title": "What is this citation doing?",
-          "learnerActions": [
-            "Read a short published paragraph with several citations",
-            "Label each citation with a function from a given set (definition, support, example, contrast, gap, method justification)",
-            "Compare labels in pairs and discuss citations that do more than one job"
-          ],
-          "intendedInsight": "Citations perform different rhetorical jobs, and writers choose sources to do those jobs.",
-          "rationale": "Function-labelling draws on citation-function analyses such as Petrić's and makes expert practice visible.",
-          "citations": [
-            "petric2007"
-          ]
-        },
-        {
-          "title": "Source job plan",
-          "learnerActions": [
-            "Before drafting a paragraph, write the claim it will make",
-            "Assign each planned source a job (define, support, contrast, show a gap)",
-            "After drafting, check that each source did its job and that the paragraph's claim is the writer's own"
-          ],
-          "intendedInsight": "Planning source use by function keeps the writer's argument in control.",
-          "rationale": "Making function explicit at the planning stage addresses the tendency of less successful writers to use citations mainly for attribution.",
-          "citations": [
-            "petric2007",
-            "hyland1999attribution"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "I use sources to show the marker how much I have read.",
-          "kind": "prior-schooling",
-          "revealedBy": "Paragraphs that summarise sources one after another with no claim of the writer's own",
-          "response": "Discuss how markers read sources as support for the writer's argument and contrast a knowledge-display paragraph with an argued one. Do not dismiss display entirely: some exam genres reward it.",
-          "reteachPrerequisiteId": "arg.argument-concept"
-        },
-        {
-          "pattern": "Sources are there to prove my point, so I cite only those that agree.",
-          "kind": "conceptual",
-          "revealedBy": "No contrasting or qualifying sources in extended writing",
-          "response": "Introduce contrast and gap functions and show how acknowledging opposing sources strengthens an argument.",
-          "reteachPrerequisiteId": null
-        }
-      ],
-      "diagnostic": {
-        "task": "Ask the learner to explain why the writer of a given expert paragraph cited each of its sources.",
-        "strongResponse": "Identifies varied functions (defining a term, establishing consensus, contrasting a view, justifying a method) in relation to the paragraph's claim.",
-        "partialResponse": "Identifies support and attribution only.",
-        "gapResponse": "Says the sources are cited 'to avoid plagiarism' or 'to show research'."
-      },
-      "contextNotes": "At foundation level, introduce support, example and definition functions. On pre-sessional courses, add contrast and evaluation for extended essays. In-sessional and postgraduate learners should analyse functions in their own disciplines, linking to cit.citation-functions and res.literature-review.",
-      "citations": [
-        "petric2007",
-        "hyland1999attribution"
-      ],
-      "reviewNotes": [
-        "This topic overlaps with cit.why-cite and cit.citation-functions; see authorNotes."
-      ]
-    },
-    {
       "topicId": "src.quoting",
       "summary": "Treat quotation as a deliberate choice governed by discipline-dependent norms. Hyland's cross-disciplinary analysis found direct quotation concentrated in the humanities and social sciences and very rare in the sciences, so a single rule ('quote sparingly' or 'never quote') misleads some learners. Teach criteria for when wording matters, then precision: exact reproduction, economical selection, correctly marked omissions and insertions, and locators. Pecorari argues that good source use needs explicit, repeated teaching, and quotation is an accessible starting point.",
       "activities": [
@@ -2770,14 +2771,14 @@
           "kind": "affective",
           "revealedBy": "Essays composed largely of long quotations with little commentary",
           "response": "Acknowledge the anxiety, then show how over-quotation hides the writer's understanding and voice. Do not ban quotation; agree criteria and a proportion appropriate to the discipline, returning to what each source is meant to do.",
-          "reteachPrerequisiteId": "src.source-functions"
+          "reteachPrerequisiteId": "cit.citation-functions"
         },
         {
           "pattern": "I changed a few words inside the quotation to make it fit.",
           "kind": "conceptual",
           "revealedBy": "Quotation marks around wording that differs from the source",
           "response": "Teach that quotation marks guarantee exact wording, and show how to use square brackets or change the surrounding frame instead.",
-          "reteachPrerequisiteId": "sen.quotation-punctuation"
+          "reteachPrerequisiteId": "sen.punctuation-mechanics"
         },
         {
           "pattern": "In my previous studies we always quoted the authority.",
@@ -2849,7 +2850,7 @@
           "kind": "developmental",
           "revealedBy": "Repetitive frames that give no signal of relevance or stance",
           "response": "Once basic framing is secure, extend the range of frames and link to reporting verbs; avoid encouraging variation for its own sake.",
-          "reteachPrerequisiteId": "src.signal-phrases"
+          "reteachPrerequisiteId": "src.reporting-verbs"
         }
       ],
       "diagnostic": {
@@ -3134,7 +3135,7 @@
           "kind": "performance",
           "revealedBy": "Unattributed summaries in essays",
           "response": "Require a signal phrase or citation in every practice summary until it becomes automatic.",
-          "reteachPrerequisiteId": "src.signal-phrases"
+          "reteachPrerequisiteId": "src.reporting-verbs"
         }
       ],
       "diagnostic": {
@@ -3328,7 +3329,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Paragraphs that read 'X (2019) says… Y (2020) says…'",
           "response": "Show how information-prominent citation foregrounds ideas and supports synthesis. Do not ban integral forms; the aim is choice.",
-          "reteachPrerequisiteId": "src.signal-phrases"
+          "reteachPrerequisiteId": "src.reporting-verbs"
         },
         {
           "pattern": "Putting the name in brackets makes the source look less important.",
@@ -3353,66 +3354,6 @@
       "reviewNotes": [
         "The claim that novice paragraphs built from integral citations read as lists of authors is a practitioner observation; no source in the closed bibliography is cited for it."
       ]
-    },
-    {
-      "topicId": "src.signal-phrases",
-      "summary": "Hunston's distinction between averral and attribution explains why readers need signals: each proposition is either the writer's own or attributed to someone else, and readers rely on linguistic signals to tell which. Pecorari argues that good source use must be taught explicitly rather than assumed. Signal phrases are an early, high-yield resource: teach a small set of grammatically secure frames and, crucially, how to continue attribution across several sentences.",
-      "activities": [
-        {
-          "title": "Whose idea is it?",
-          "learnerActions": [
-            "Read a summary paragraph in which only the first sentence is attributed",
-            "Mark each sentence as 'source' or 'writer' and compare with a partner",
-            "Revise using continued attribution ('The authors further argue…', 'According to the same study…')"
-          ],
-          "intendedInsight": "Attribution must be maintained across sentences, not only at the start.",
-          "rationale": "The task turns the averral–attribution distinction into a practical reading and writing problem.",
-          "citations": [
-            "hunstonthompson2000"
-          ]
-        },
-        {
-          "title": "Frame toolkit",
-          "learnerActions": [
-            "Collect signal phrases from a model text",
-            "Sort them by grammatical pattern (according to + noun; X + verb + that-clause; as + X + verb)",
-            "Write one sentence with each pattern about a source you are using"
-          ],
-          "intendedInsight": "Signal phrases follow a few grammatical patterns that can be learned as units.",
-          "rationale": "Learning frames as patterns is intended to reduce the blending errors common at this stage (a practitioner proposal); Pecorari (2013) supports explicit teaching of source use, not this specific effect.",
-          "citations": [
-            "pecorari2013"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "According to Smith, he argues that…",
-          "kind": "developmental",
-          "revealedBy": "Double attribution and blended frames",
-          "response": "Contrast the two patterns and practise transforming one into the other; treat the blend as a stage in learning the patterns, not as carelessness.",
-          "reteachPrerequisiteId": "grm.reporting-structures"
-        },
-        {
-          "pattern": "After I cite once, the reader knows the rest is from the source.",
-          "kind": "conceptual",
-          "revealedBy": "Unclear attribution in later sentences of summaries",
-          "response": "Show that readers tend to assume unattributed sentences are the writer's own, and practise continuation devices.",
-          "reteachPrerequisiteId": "cit.when-to-cite"
-        }
-      ],
-      "diagnostic": {
-        "task": "Ask the learner to write three sentences reporting one source's argument so that a reader can tell all three come from the source.",
-        "strongResponse": "Uses an initial frame and accurate continuation devices.",
-        "partialResponse": "Attributes only the first sentence, or uses a blended frame.",
-        "gapResponse": "Gives no attribution, or only a citation at the end."
-      },
-      "contextNotes": "Foundation and early pre-sessional learners should automate basic frames. Undergraduates need continued attribution across longer summaries and multi-source paragraphs.",
-      "citations": [
-        "hunstonthompson2000",
-        "pecorari2013"
-      ],
-      "reviewNotes": []
     },
     {
       "topicId": "src.voice-boundaries",
@@ -3452,7 +3393,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Single end-of-paragraph citations covering mixed content",
           "response": "Show that an end-placed citation leaves the reader unsure what it covers, and teach citation placement and continued attribution.",
-          "reteachPrerequisiteId": "src.signal-phrases"
+          "reteachPrerequisiteId": "src.reporting-verbs"
         },
         {
           "pattern": "My own opinion is not allowed in academic writing.",
@@ -3659,7 +3600,7 @@
           "kind": "affective",
           "revealedBy": "Reluctance to impose an organising idea on sources",
           "response": "Present synthesis as interpretive work that experts themselves do in reviews, and model tentative organising claims. Return to the idea that sources serve the writer's purpose.",
-          "reteachPrerequisiteId": "src.source-functions"
+          "reteachPrerequisiteId": "cit.citation-functions"
         }
       ],
       "diagnostic": {

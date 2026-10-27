@@ -1,0 +1,111 @@
+{
+  "mergedInto": "dig.automated-feedback-tools",
+  "finding": "R1-17",
+  "topic": {
+    "id": "edt.editing-tools",
+    "type": "PROCEDURAL",
+    "strand": "Academic Writing",
+    "domain": "Revising, Editing & Proofreading",
+    "name": "Using editing tools critically",
+    "description": "Use spelling and grammar checkers, automated writing evaluation, readability measures and AI-based rewriting tools critically: knowing what they detect well and poorly, evaluating each suggestion against one's own knowledge and reference sources, and staying within institutional rules on permitted assistance. Tools can support accuracy but can also introduce errors, change meaning, flatten the writer's voice and, if over-used, raise integrity concerns.",
+    "cefrStart": "B1",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt",
+      "pgr"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Accepts or rejects tool suggestions with reasons, checking uncertain ones in a reference source",
+      "Identifies kinds of error that tools commonly miss or introduce",
+      "Explains why readability scores are not measures of academic quality",
+      "States the local rules on automated and AI tools in assessed work and complies with them",
+      "Keeps a record of tool use where disclosure is required"
+    ],
+    "assessmentPrompt": "Give a paragraph with the suggestions a grammar checker produced for it, some correct, some wrong and one that changes the meaning. Ask the learner to accept or reject each. Check the accuracy of their decisions and whether rejections are justified.",
+    "citations": [
+      "stevenson2016",
+      "lee2020mt"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:ling.grammatical-accuracy",
+        "levels": [
+          "B1",
+          "B2"
+        ],
+        "contribution": "related"
+      },
+      {
+        "key": "cefr-cv:ling.orthographic-control",
+        "levels": [
+          "B1",
+          "B2"
+        ],
+        "contribution": "related"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "edt.editing-tools",
+    "summary": "Stevenson's (2016) synthesis of research on automated writing evaluation suggests that AWE feedback concentrates on surface features and is most useful when integrated into teaching rather than used in isolation. Lee (2020) reports that EFL students who used machine-translation output as a reference while revising reduced some lexicogrammatical errors, illustrating a potentially productive but rule-dependent use. Teach tools as one input among several, with explicit evaluation of each suggestion, and connect tool use to institutional rules on AI and integrity.",
+    "activities": [
+      {
+        "title": "Accept or reject",
+        "learnerActions": [
+          "Run a paragraph through a grammar checker",
+          "Classify each suggestion as correct, wrong or meaning-changing",
+          "Verify uncertain suggestions with a learner dictionary or corpus"
+        ],
+        "intendedInsight": "Tool suggestions need human judgement before they are accepted.",
+        "rationale": "Positions the tool as one source of feedback within teaching, consistent with Stevenson (2016).",
+        "citations": [
+          "stevenson2016"
+        ]
+      },
+      {
+        "title": "Policy check",
+        "learnerActions": [
+          "Read the module or institutional rules on editing and AI tools",
+          "Classify five tool uses as permitted, permitted with disclosure, or not permitted",
+          "Discuss any uses the rules do not clearly cover"
+        ],
+        "intendedInsight": "Permissions vary between contexts and must be checked for each assessment.",
+        "rationale": "Makes local rules explicit so that learners can use tools confidently and legitimately."
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Accepting every suggestion the tool makes.",
+        "kind": "overgeneralisation",
+        "revealedBy": "New errors and changes of meaning introduced at the final stage.",
+        "response": "Use the accept-or-reject task and require learners to justify rejections.",
+        "reteachPrerequisiteId": "edt.grammar-editing"
+      },
+      {
+        "pattern": "Using AI rewriting tools to ‘improve’ whole paragraphs.",
+        "kind": "performance",
+        "revealedBy": "Shifts in voice, drift in meaning, unfamiliar vocabulary the learner cannot explain.",
+        "response": "Discuss rules, authorship and voice, and show how meaning can drift; restrict tools to targeted checks where required.",
+        "reteachPrerequisiteId": "gai.how-genai-works"
+      }
+    ],
+    "diagnostic": {
+      "task": "Give a paragraph with ten tool suggestions and ask the learner to decide on each in five minutes.",
+      "strongResponse": "Correct decisions on most suggestions, rejections justified, meaning-changing suggestion identified.",
+      "partialResponse": "Mostly correct but accepts the meaning-changing suggestion.",
+      "gapResponse": "Accepts all suggestions or rejects all without reasons."
+    },
+    "contextNotes": "Foundation and pre-sessional learners need explicit guidance on what tools can and cannot do and on local rules. In-sessional learners face varied module policies. Doctoral researchers must also consider confidentiality when uploading unpublished work to online tools (see gai.privacy-ip).",
+    "citations": [
+      "stevenson2016",
+      "lee2020mt"
+    ],
+    "reviewNotes": [
+      "Overlaps with dig.automated-feedback-tools and gai.language-support. Tool capabilities and institutional rules change rapidly; guidance is deliberately general."
+    ]
+  }
+}

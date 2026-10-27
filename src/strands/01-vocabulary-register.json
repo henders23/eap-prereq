@@ -9,10 +9,11 @@
       "learnerSummary": "You will learn to notice and use the word combinations that academic writers and lecturers rely on, and to check combinations yourself with corpus tools (searchable collections of real academic texts) and phrase resources without filling your writing with stock phrases.",
       "stageEmphasis": {
         "foundation": "Build the habit of noticing and recording combinations, with frequent academic collocations and text-organising bundles from course materials.",
-        "pre-sessional": "Extend collocational range, introduce research- and stance-oriented bundles linked to calibration, and train learners in collocation dictionaries, simple corpus searches and critical phrasebank use.",
         "in-sessional-ug": "Work on learners' own drafts: repair persistent miscollocations, reduce overused connectors and stance frames, and compare bundles with those in disciplinary texts.",
         "in-sessional-pgt": "Prioritise discipline-relevant collocations and bundles for source-based writing, checked against field texts in a compressed timeframe.",
-        "pgr": "Profile the phraseology of target journals with self-built corpora and refine stance formulas for research writing and publication."
+        "pgr": "Profile the phraseology of target journals with self-built corpora and refine stance formulas for research writing and publication.",
+        "pre-sessional-ug": "Extend collocational range, introduce research- and stance-oriented bundles linked to calibration, and train learners in collocation dictionaries, simple corpus searches and critical phrasebank use.",
+        "pre-sessional-pg": "Extend collocational range, introduce research- and stance-oriented bundles linked to calibration, and train learners in collocation dictionaries, simple corpus searches and critical phrasebank use."
       },
       "keyReferences": [
         "nesselhauf2003",
@@ -31,10 +32,11 @@
       "learnerSummary": "You will learn why academic writing and speech sound the way they do, how to adjust your style for different readers, purposes and disciplines, and how to tell real conventions from over-simplified 'rules'.",
       "stageEmphasis": {
         "foundation": "Build register awareness through concrete contrasts (email, forum post, assignment) and an explicit, reasoned checklist of formality features, including precise rather than vague reference.",
-        "pre-sessional": "Make spoken–written differences and formality choices explicit tools for reading-into-writing and presentations, and begin testing prescriptive style rules against exemplars.",
         "in-sessional-ug": "Reconcile conflicting module advice by examining disciplinary style, authorial presence and density in the student's own field and genres.",
         "in-sessional-pgt": "Calibrate density, impersonality and inclusive description for compressed source-based and professional writing, often in an unfamiliar discipline.",
-        "pgr": "Align style with target journals and examiners' fields, claim contribution with appropriate presence, and write lay summaries and engagement texts for non-specialists."
+        "pgr": "Align style with target journals and examiners' fields, claim contribution with appropriate presence, and write lay summaries and engagement texts for non-specialists.",
+        "pre-sessional-ug": "Make spoken–written differences and formality choices explicit tools for reading-into-writing and presentations, and begin testing prescriptive style rules against exemplars.",
+        "pre-sessional-pg": "Make spoken–written differences and formality choices explicit tools for reading-into-writing and presentations, and begin testing prescriptive style rules against exemplars."
       },
       "keyReferences": [
         "biberconrad2019",
@@ -53,10 +55,11 @@
       "learnerSummary": "You will learn which words are most worth your time for university study, how to learn and remember them efficiently, and how to use them accurately and precisely in your own writing and speaking.",
       "stageEmphasis": {
         "foundation": "Secure the high-frequency base, word families and the vocabulary of university study and assignments, and establish independent learning routines with dictionaries and word cards.",
-        "pre-sessional": "Build general academic vocabulary with its word grammar and collocations, set realistic size goals from coverage research, and practise inferring and checking meaning from context.",
         "in-sessional-ug": "Move academic and sub-technical vocabulary into accurate productive use within the student's discipline, including process verbs, evaluative lexis and discipline-specific senses.",
         "in-sessional-pgt": "Prioritise disciplinary terminology, lexical precision and evaluation for source-based writing on compressed one-year programmes.",
-        "pgr": "Refine precision, shell nouns and evaluative lexis for research writing, using evidence from the target field's literature."
+        "pgr": "Refine precision, shell nouns and evaluative lexis for research writing, using evidence from the target field's literature.",
+        "pre-sessional-ug": "Build general academic vocabulary with its word grammar and collocations, set realistic size goals from coverage research, and practise inferring and checking meaning from context.",
+        "pre-sessional-pg": "Build general academic vocabulary with its word grammar and collocations, set realistic size goals from coverage research, and practise inferring and checking meaning from context."
       },
       "keyReferences": [
         "nation2013",
@@ -78,11 +81,6 @@
       "description": "Understand that words habitually co-occur with particular other words (collocation) and that many meanings are carried by multi-word units rather than single words, and notice such units when reading and listening. This awareness is the basis for learning vocabulary in chunks, for natural-sounding production and for using collocation resources.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies collocations and other multi-word units in an academic text and records them as units",
@@ -113,7 +111,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.academic-collocations",
@@ -124,12 +131,6 @@
       "description": "Recognise and use frequent academic collocations — verb–noun ('conduct research', 'draw a conclusion', 'raise a question'), adjective–noun ('a significant difference', 'empirical evidence') and noun–preposition combinations ('an increase in', 'the effect on') — so that writing and speech express academic meanings in conventional, readily processed forms.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses a range of verb–noun and adjective–noun academic collocations accurately in writing",
@@ -156,7 +157,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.verb-noun-collocation-accuracy",
@@ -167,12 +178,6 @@
       "description": "Avoid and repair verb–noun miscollocations that arise when learners transfer combinations from another language or overextend general delexical verbs (e.g. 'make research', 'do a mistake', 'rise a question'), by identifying their own recurrent errors and checking combinations with collocation dictionaries or corpora. Verb–noun errors are among the most persistent lexical errors even in advanced learner writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies verb–noun miscollocations in own and others' writing",
@@ -200,7 +205,17 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.bundles-research-oriented",
@@ -211,12 +226,6 @@
       "description": "Recognise and use research-oriented lexical bundles — recurrent word sequences that structure content about the research world, such as location, procedure, quantification, description and topic ('the extent to which', 'the role of the', 'the nature of the', 'at the same time', 'a wide range of') — together with their typical grammatical continuations. These bundles are frequent in expert writing, vary by discipline and help writers express relations between concepts economically.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Recognises common research-oriented bundles and identifies their function in context (e.g. quantification, description, procedure)",
@@ -238,7 +247,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.bundles-text-oriented",
@@ -249,11 +268,6 @@
       "description": "Use text-oriented bundles that organise discourse and signal relations between ideas — transition ('on the other hand', 'in addition to the'), result ('as a result of'), structuring ('in the next section') and framing ('in terms of the', 'with respect to the', 'in the case of', 'on the basis of') — with accurate meaning and grammar and without overuse. These bundles support cohesion and help readers navigate a text.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses common text-oriented bundles with accurate meaning and grammar",
@@ -280,7 +294,16 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.bundles-stance",
@@ -291,12 +314,6 @@
       "description": "Use stance and engagement bundles — largely impersonal frames expressing likelihood, importance, necessity or evidentiality ('it is possible that', 'it is important to', 'it should be noted that', 'as can be seen') — to position claims and guide readers, matching the frame's strength to the evidence and avoiding formulaic overuse.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses anticipatory-it stance bundles accurately with the right complement (that-clause or to-infinitive)",
@@ -321,7 +338,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.spoken-academic-formulas",
@@ -332,12 +359,6 @@
       "description": "Recognise and use formulas typical of lectures, seminars and presentations ('what I want to do is', 'if you look at', 'the point is', 'I'd like to come back to') that organise talk, focus attention and manage interaction. Recognising them supports lecture comprehension; producing them supports fluent, well-structured speaking.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies formulas that signal topic shifts, emphasis, examples and returns to the main point in authentic lectures",
@@ -371,7 +392,17 @@
           "key": "ielts:sp.lexical-resource",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.fixed-expressions",
@@ -382,11 +413,6 @@
       "description": "Recognise idioms, binomials and other relatively fixed expressions ('pros and cons', 'by and large', 'trial and error', 'to a greater or lesser extent', 'in the long run') in academic texts and lectures and judge their register, using them in writing only where they are conventional and avoiding conversational idioms in formal prose.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Interprets common fixed expressions and idioms met in lectures and readings",
@@ -415,7 +441,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.corpus-consultation",
@@ -426,12 +461,6 @@
       "description": "Use concordancers and academic corpora, including small self-built corpora, to check collocation, frequency, grammatical patterns and register while writing — a data-driven learning approach that lets learners answer their own usage questions and interpret the evidence critically.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Turns a usage doubt (e.g. which preposition follows 'impact') into a corpus query",
@@ -456,7 +485,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "phr.phrasebank-use",
@@ -467,12 +506,6 @@
       "description": "Use function-organised phrase resources (academic phrasebanks, formula lists) to find conventional language for rhetorical moves — introducing a topic, reporting findings, acknowledging limitations — while adapting phrases to one's own content and avoiding formulaic, template-driven text in which phrases substitute for ideas.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Locates phrases for a target rhetorical function in a phrase resource",
@@ -493,7 +526,17 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.register-awareness",
@@ -504,11 +547,6 @@
       "description": "Recognise that language varies systematically with the situation of use — the activity and subject matter (field), the relationship between participants (tenor) and the channel and role of language (mode) — and that formality is a continuum rather than a binary. This lets learners explain why a seminar contribution, a lab report and an email to a tutor are worded differently, and adjust their own language accordingly.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes a text's situation of use in terms of subject matter, participants' relationship and channel, and links at least two linguistic features to those factors",
@@ -538,7 +576,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.spoken-vs-written",
@@ -549,12 +596,6 @@
       "description": "Understand how academic writing and academic speech package meaning differently: writing tends towards high lexical density and compressed noun phrases, whereas speech distributes meaning across chains of clauses, with repetition, discourse markers and direct address. Learners use this to unpack dense prose, follow lectures, and avoid carrying conversational clause-chaining into essays or essay-style density into presentations.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Rewrites a short spoken explanation as one or two written sentences that package the same content in fewer clauses and denser noun phrases",
@@ -585,7 +626,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.formality-features",
@@ -596,11 +647,6 @@
       "description": "Control the features conventionally associated with formal academic writing — avoiding contractions, colloquial vocabulary and conversational intensifiers, using direct questions and second-person address sparingly, and choosing pronouns deliberately — while understanding these as probabilistic tendencies that vary by genre and discipline rather than absolute rules. Control of these features lets writers meet reader expectations without adopting a stilted, over-formal voice.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Revises a paragraph to remove contractions, colloquialisms and conversational intensifiers (e.g. 'really', 'so', 'a lot of') using suitable alternatives",
@@ -628,7 +674,16 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.style-myths-variation",
@@ -639,12 +694,6 @@
       "description": "Evaluate prescriptive style 'rules' — never use I, never start a sentence with And or But, never split an infinitive, always prefer the passive — against evidence of what expert writers in a field actually do and how practice is changing. This replaces rule-following with informed choice and helps learners read assignment and journal guidance in the light of disciplinary norms.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies a style rule as prescriptive and states what evidence would be needed to test it",
@@ -668,7 +717,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.impersonality-presence",
@@ -679,12 +738,6 @@
       "description": "Choose between impersonal constructions (agentless passive, anticipatory 'it', inanimate subjects such as 'this study') and visible authorial presence (first-person pronouns, explicit evaluation) according to discipline, genre and rhetorical purpose. Understanding that impersonal forms background agency rather than make claims objective lets writers decide where to foreground their own role, for example in methodological decisions or claims of contribution.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies who is responsible for actions and claims in sentences built with passives, anticipatory 'it' and inanimate subjects",
@@ -708,7 +761,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.information-density",
@@ -719,12 +782,6 @@
       "description": "Balance the compressed phrasing typical of academic writing — nominalisation, long noun phrases, noun + noun sequences — against the intended reader's need to process the text, unpacking where density hides agency, causality or reference. Writers who control density can condense content for expert readers and loosen it for novices or mixed audiences.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Compresses a clause-heavy paragraph into fewer, denser sentences using nominalisation and noun-phrase modification without losing logical relations",
@@ -764,7 +821,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.vague-overgeneralised",
@@ -775,11 +842,6 @@
       "description": "Replace vague nouns and quantifiers ('things', 'stuff', 'a lot of', 'many aspects'), unbounded time references ('nowadays', 'since the dawn of time') and sweeping claims ('everyone knows', 'always', 'in all countries') with precise reference and bounded claims that could be supported. Vagueness and overgeneralisation weaken credibility because readers cannot tell exactly what is claimed or check it against evidence.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies vague nouns, empty quantifiers and sweeping generalisations in a draft",
@@ -811,7 +873,16 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.inclusive-language",
@@ -822,12 +893,6 @@
       "description": "Refer to people accurately and respectfully: use gender-neutral wording (including singular 'they'), specific and current terms for groups, and person-first or identity-first language according to the conventions of the field and the preferences of the communities concerned. Inclusive language is now expected by most style guides, journals and ethics processes, and it usually improves precision as well as respect.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Revises generic masculine forms using plurals, singular 'they' or restructuring, consistently across a text",
@@ -850,7 +915,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.non-specialist-audiences",
@@ -861,11 +936,6 @@
       "description": "Adapt specialist content for readers or listeners outside the field — lay summaries, participant information, public talks, blog posts — by selecting what matters to that audience, replacing or glossing technical terms, reducing density, using concrete examples, and keeping the expression of certainty faithful to the evidence. Students and researchers are increasingly required to communicate this way for ethics, funding, impact and engagement.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the technical terms, assumed knowledge and dense phrasing in a specialist text that a lay reader would not follow",
@@ -900,7 +970,15 @@
           "key": "vitae-rdf:D3",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "reg.disciplinary-style",
@@ -911,11 +989,6 @@
       "description": "Understand how disciplines differ in style — frequency of first person, passive voice, hedging and boosting, citation forms and the way arguments are built — and relate these differences to how fields create and validate knowledge (e.g. hard/soft and pure/applied tendencies). This lets learners interpret conflicting advice from different modules and align their writing with their target discipline.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Describes two or three stylistic features of writing in their own discipline, with examples from published texts",
@@ -948,6 +1021,16 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -959,10 +1042,6 @@
       "description": "Know, receptively and productively, the most frequent 2,000–3,000 word families of English, with fast, accurate recognition in reading and listening. Because these words make up the large majority of running words in any text, academic texts included, gaps at this level undermine comprehension more than gaps in specialised vocabulary.",
       "cefrStart": "A2",
       "cefrEnd": "B1+",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Recognises high-frequency words quickly in reading and listening, including their common senses",
@@ -992,7 +1071,15 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "A2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.lexical-coverage",
@@ -1003,10 +1090,6 @@
       "description": "Understand that comprehension depends strongly on the proportion of running words in a text that the reader or listener knows — commonly cited as around 95% for minimal and 98% for comfortable unassisted reading — and use this relationship, with a vocabulary size estimate, to set realistic goals and choose texts. Coverage figures are approximate: comprehension rises gradually with coverage rather than switching on at a threshold, and background knowledge also matters.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains the relationship between known-word coverage and comprehension, including why one unknown word in 20 feels very different from one in 50",
@@ -1039,7 +1122,15 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.word-families-morphology",
@@ -1050,11 +1141,6 @@
       "description": "Recognise and produce the word-class members of a word family (analyse, analysis, analyst, analytical, analytically), including members related by conversion with no affix (a study / to study; an INcrease / to inCREASE, with a stress shift) and choose the form a sentence slot requires. Control of derivational morphology multiplies the value of each word learned and prevents a frequent class of errors in academic writing, where nominal and adjectival forms predominate.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces the noun, verb, adjective and adverb forms of common academic words where they exist",
@@ -1089,7 +1175,16 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.affixes-roots",
@@ -1100,11 +1195,6 @@
       "description": "Use common academic prefixes (inter-, multi-, sub-, pre-, re-, non-), suffixes (-tion, -ity, -ise/-ize, -ology, -al) and Greco-Latin roots and combining forms (bio-, geo-, -graph-, -cracy) to infer and remember the meanings of unfamiliar words, while checking inferences, because word parts can mislead (e.g. 'inflammable', 'discursive').",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Segments unfamiliar academic words into prefix, root and suffix",
@@ -1135,7 +1225,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.core-academic-vocabulary",
@@ -1146,12 +1245,6 @@
       "description": "Recognise and use general academic vocabulary — words such as 'analyse', 'concept', 'significant', 'factor', 'establish' — that recurs across many disciplines and is more frequent in academic than general texts, using lists such as the Academic Word List (AWL) or Academic Vocabulary List (AVL) as starting points while recognising that the frequency, meaning and collocation of listed items vary considerably by discipline.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Recognises the meaning of most general academic words met in course readings",
@@ -1184,7 +1277,17 @@
           "key": "ielts:rd.academic",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.academic-verbs",
@@ -1195,12 +1298,6 @@
       "description": "Control verbs that describe research and reasoning processes — 'investigate', 'examine', 'demonstrate', 'indicate', 'suggest', 'constitute', 'derive', 'attribute' — including their meaning, the strength of claim they convey and their complementation patterns ('attribute X to Y', 'indicate that', 'derive from', 'account for'). These verbs carry much of the propositional and evaluative work of academic writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects a verb that accurately describes a research action (e.g. 'investigate' versus 'measure' versus 'compare')",
@@ -1227,7 +1324,17 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.abstract-shell-nouns",
@@ -1238,12 +1345,6 @@
       "description": "Use abstract nouns ('approach', 'issue', 'factor', 'notion') and shell nouns ('this problem', 'the fact that', 'the claim that', 'the aim is to') that label and encapsulate stretches of text, so that writers can refer back to and characterise ideas, build cohesion and signal stance through the label chosen (a 'finding' versus an 'assumption').",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses 'this/these + shell noun' to refer back to a preceding proposition, choosing a noun that characterises it accurately",
@@ -1271,7 +1372,17 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.technical-terminology",
@@ -1282,13 +1393,6 @@
       "description": "Learn field-specific terms as labels for concepts within a disciplinary knowledge structure, understand their precise definitions and relations to other terms, define them on first use where readers may need it, and use them consistently. Technical vocabulary can make up a substantial share of the words in specialised texts, and learning it is inseparable from learning disciplinary content.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Identifies technical terms in a disciplinary text and distinguishes them from general academic vocabulary",
@@ -1316,6 +1420,19 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -1327,12 +1444,6 @@
       "description": "Recognise that many general and academic words take specialised meanings in particular disciplines ('significant' in statistics, 'culture' in biology, 'power' in physics and politics, 'tissue', 'consistent', 'discourse'), and interpret and use the intended sense. Misreading such words is a hidden source of comprehension failure because learners believe they already know them.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Identifies words in a disciplinary text whose specialised sense differs from their everyday meaning",
@@ -1354,6 +1465,18 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -1365,12 +1488,6 @@
       "description": "Choose between near-synonyms (affect/effect/impact/influence; show/prove/suggest; method/methodology; increase/rise/growth) by meaning, strength, grammar, collocation and register, so that the chosen word states exactly what the writer intends. Imprecise word choice is a frequent reason markers judge writing unclear or overclaimed.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains differences within near-synonym sets in terms of meaning, strength, grammar and collocation",
@@ -1405,7 +1522,17 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.evaluative-lexis",
@@ -1416,12 +1543,6 @@
       "description": "Use adjectives, adverbs, nouns and verbs that evaluate ideas, evidence and work ('robust', 'compelling', 'limited', 'flawed', 'a shortcoming', 'a strength', 'overlooks', 'convincingly') with appropriate strength and polarity, so that evaluation is precise, justified and suitably mitigated. Evaluative lexis is central to critical writing, where markers expect judgement rather than description.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses a range of positive and negative evaluative words for evidence, arguments, methods and findings",
@@ -1447,7 +1568,17 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.multiword-verbs-register",
@@ -1458,11 +1589,6 @@
       "description": "Understand phrasal and prepositional verbs ('carry out', 'point out', 'set up', 'come up with', 'look into') in lectures, seminars and texts, and judge in writing when a single-word alternative ('conduct', 'note', 'establish') is more conventional and when the multi-word verb is the normal academic choice ('carry out', 'consist of', 'rule out'). The aim is register judgement, not avoidance: blanket replacement produces stilted prose.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Understands common phrasal verbs in lectures and seminar talk, including idiomatic ones",
@@ -1492,7 +1618,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.inferring-from-context",
@@ -1503,11 +1638,6 @@
       "description": "Infer the meaning of unknown words while reading or listening by using co-text (definitions, examples, contrasts, appositives), word parts and background knowledge, and check the inference against later context or a dictionary when the word matters. Successful inferencing depends on knowing most of the surrounding words, so it complements rather than replaces vocabulary learning.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses explicit co-text clues (definitions, appositives, 'such as', contrast markers) to infer meaning",
@@ -1539,7 +1669,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.dictionary-use",
@@ -1550,11 +1689,6 @@
       "description": "Use monolingual learner dictionaries, collocation dictionaries, specialist glossaries and bilingual or bilingualised dictionaries effectively — finding the right entry and sense, and using grammar codes, examples, frequency and register labels — while recognising the risks of taking the first bilingual equivalent or treating machine-translation output as a dictionary.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects the sense of a polysemous word that fits the context",
@@ -1585,7 +1719,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.deliberate-learning-systems",
@@ -1596,12 +1739,6 @@
       "description": "Set up and maintain a system for deliberately learning selected words — paper word cards or spaced-retrieval software recording form, meaning, collocates and an example — and review by retrieval at spaced intervals (expanding or equal; the evidence favours spacing itself more than any particular schedule). Deliberate learning efficiently establishes form–meaning links for priority vocabulary and complements the large amount of exposure needed for depth.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects words for deliberate study using frequency and relevance criteria",
@@ -1617,7 +1754,17 @@
         "cepeda2006",
         "roediger2006"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.receptive-to-productive",
@@ -1628,12 +1775,6 @@
       "description": "Develop depth of knowledge of selected words — form, meaning, grammar, collocation, register and constraints on use — so that words recognised in reading and listening can be used accurately in speech and writing, and trial new words in low-stakes production with feedback before relying on them in assessed work.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes words they can recognise from words they can use and selects a manageable number to activate",
@@ -1662,7 +1803,17 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.word-grammar-patterns",
@@ -1673,12 +1824,6 @@
       "description": "Know the grammatical patterns that individual verbs, nouns and adjectives take — dependent prepositions ('focus on', 'contribute to', 'an increase in', 'consistent with'), clause complements ('emphasise that', 'aim to', 'an attempt to') and object patterns — and use them accurately. Many errors perceived as 'grammar' in academic writing are word-specific pattern errors.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses dependent prepositions accurately with common academic verbs, nouns and adjectives",
@@ -1709,7 +1854,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.countability-academic-nouns",
@@ -1720,12 +1875,6 @@
       "description": "Handle the countability of nouns frequent in academic writing: uncountable nouns whose equivalents are countable in many other languages ('research', 'evidence', 'information', 'knowledge', 'equipment', 'feedback'), nouns with countable and uncountable senses ('theory', 'experience', 'work'), irregular plurals ('criterion/criteria', 'phenomenon/phenomena', 'hypothesis/hypotheses') and the variable treatment of 'data'. Countability errors propagate to articles, quantifiers and agreement.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses common academic uncountable nouns without plural -s or 'a/an', with suitable quantifiers or countable alternatives ('much research', 'a piece of evidence', 'several studies')",
@@ -1754,7 +1903,17 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.spelling-conventions",
@@ -1765,11 +1924,6 @@
       "description": "Spell academic vocabulary accurately and consistently: follow one variety (e.g. British or American) or whatever a style guide requires within a text, manage variable spellings such as -ise/-ize, and avoid frequently confused forms (principle/principal, affect/effect, dependent/dependant, licence/license, its/it's). Inconsistent or inaccurate spelling distracts readers and is penalised in many marking criteria.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Applies one spelling variety consistently within a text",
@@ -1796,7 +1950,16 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.university-terminology",
@@ -1807,12 +1970,6 @@
       "description": "Understand and use the vocabulary of university study and administration — module, credit, seminar, tutorial, assessment brief, learning outcome, formative and summative assessment, extension, extenuating (mitigating) circumstances, personal tutor, VLE — including institution-specific variants. Misunderstanding these terms can lead to missed deadlines, misdirected requests and lost marks.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains key terms in their own institution's handbook and assessment documents",
@@ -1842,7 +1999,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.command-words",
@@ -1853,12 +2020,6 @@
       "description": "Interpret assignment and examination command words — analyse, evaluate, discuss, critically assess, compare, outline, examine, explain, to what extent — in terms of the cognitive operations and text structures they typically require, while recognising that tutors use them inconsistently and that the whole task, criteria and context must be read together.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains what each common command word typically requires, distinguishing description from analysis and evaluation",
@@ -1886,7 +2047,17 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "voc.abbreviations-latin",
@@ -1897,11 +2068,6 @@
       "description": "Understand and use common academic abbreviations and Latin expressions (e.g., i.e., et al., cf., etc., vs., viz., ibid., n.d., ca.) correctly in reading and writing, following the conventions of the referencing or style guide in use, and introduce acronyms and initialisms in full on first use.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes 'e.g.' (for example) from 'i.e.' (that is) and uses each correctly",
@@ -1915,7 +2081,16 @@
         "apa2020",
         "chicago2024"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [

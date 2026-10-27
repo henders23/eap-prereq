@@ -1,0 +1,103 @@
+{
+  "mergedInto": "cit.citation-functions",
+  "finding": "R1-15",
+  "topic": {
+    "id": "src.source-functions",
+    "type": "CONCEPTUAL",
+    "strand": "Sources & Academic Integrity",
+    "domain": "Summarising, Paraphrasing & Quoting",
+    "name": "Functions of sources in academic writing",
+    "description": "Recognise the jobs that sources do in academic texts (attributing an idea, supporting a claim, supplying an example or definition, establishing what is known, contrasting positions, justifying a method and positioning the writer's contribution) and choose sources to do those jobs in one's own writing. Understanding function moves learners from showing that they have read to using reading to build an argument.",
+    "cefrStart": "B1+",
+    "cefrEnd": "C1",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Identifies the function of each citation in a paragraph of expert writing",
+      "States, before drafting, what job each planned source will do in the argument",
+      "Uses sources for at least three different functions in an extended text, not only attribution or support",
+      "Distinguishes citing a source to agree with it from citing it to contrast with or qualify it",
+      "Explains why a sequence of source summaries does not in itself constitute an argument"
+    ],
+    "assessmentPrompt": "Give the learner a 150-word paragraph from a published article containing four citations. Ask what each citation is doing for the writer. Check whether they go beyond 'it gives evidence' to name functions such as defining, establishing consensus, contrasting, justifying a method or establishing a gap.",
+    "citations": [
+      "petric2007",
+      "hyland1999attribution",
+      "swales1986citation"
+    ],
+    "frameworks": [
+      {
+        "key": "acrl:conversation",
+        "contribution": "core"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "src.source-functions",
+    "summary": "Petrić found that high-rated master's theses used citations for a wider range of rhetorical functions than low-rated ones, in which attribution dominated, and Hyland showed how citation is central to the way disciplines build knowledge and writers position themselves. Teaching function first gives learners a reason for every later technique: they paraphrase or quote in order to do something. Analysis of expert texts followed by planning source use by function in learners' own writing makes this concrete.",
+    "activities": [
+      {
+        "title": "What is this citation doing?",
+        "learnerActions": [
+          "Read a short published paragraph with several citations",
+          "Label each citation with a function from a given set (definition, support, example, contrast, gap, method justification)",
+          "Compare labels in pairs and discuss citations that do more than one job"
+        ],
+        "intendedInsight": "Citations perform different rhetorical jobs, and writers choose sources to do those jobs.",
+        "rationale": "Function-labelling draws on citation-function analyses such as Petrić's and makes expert practice visible.",
+        "citations": [
+          "petric2007"
+        ]
+      },
+      {
+        "title": "Source job plan",
+        "learnerActions": [
+          "Before drafting a paragraph, write the claim it will make",
+          "Assign each planned source a job (define, support, contrast, show a gap)",
+          "After drafting, check that each source did its job and that the paragraph's claim is the writer's own"
+        ],
+        "intendedInsight": "Planning source use by function keeps the writer's argument in control.",
+        "rationale": "Making function explicit at the planning stage addresses the tendency of less successful writers to use citations mainly for attribution.",
+        "citations": [
+          "petric2007",
+          "hyland1999attribution"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "I use sources to show the marker how much I have read.",
+        "kind": "prior-schooling",
+        "revealedBy": "Paragraphs that summarise sources one after another with no claim of the writer's own",
+        "response": "Discuss how markers read sources as support for the writer's argument and contrast a knowledge-display paragraph with an argued one. Do not dismiss display entirely: some exam genres reward it.",
+        "reteachPrerequisiteId": "arg.argument-concept"
+      },
+      {
+        "pattern": "Sources are there to prove my point, so I cite only those that agree.",
+        "kind": "conceptual",
+        "revealedBy": "No contrasting or qualifying sources in extended writing",
+        "response": "Introduce contrast and gap functions and show how acknowledging opposing sources strengthens an argument.",
+        "reteachPrerequisiteId": null
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask the learner to explain why the writer of a given expert paragraph cited each of its sources.",
+      "strongResponse": "Identifies varied functions (defining a term, establishing consensus, contrasting a view, justifying a method) in relation to the paragraph's claim.",
+      "partialResponse": "Identifies support and attribution only.",
+      "gapResponse": "Says the sources are cited 'to avoid plagiarism' or 'to show research'."
+    },
+    "contextNotes": "At foundation level, introduce support, example and definition functions. On pre-sessional courses, add contrast and evaluation for extended essays. In-sessional and postgraduate learners should analyse functions in their own disciplines, linking to cit.citation-functions and res.literature-review.",
+    "citations": [
+      "petric2007",
+      "hyland1999attribution"
+    ],
+    "reviewNotes": [
+      "This topic overlaps with cit.why-cite and cit.citation-functions; see authorNotes."
+    ]
+  }
+}

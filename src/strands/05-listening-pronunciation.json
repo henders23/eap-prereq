@@ -3,16 +3,17 @@
   "domains": [
     {
       "code": "LIS",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "name": "Lecture & Academic Listening",
       "summary": "Academic listening is modelled here as two interacting sets of processes: decoding, which turns the acoustic signal into words and clauses in real time, and meaning-building, which relates what has been decoded to context, discourse structure, speaker purpose and prior knowledge. The domain moves from perceptual topics (connected speech, segmentation, speech rate, accent) through lecture discourse (phases, organisational and relevance markers, main points, stance) to the settings in which students listen (live and recorded lectures, seminars, briefings, academic media), with metacognitive strategy running throughout. Listening is treated as something to be taught, not only tested, and accent variation is treated as normal in international universities rather than as deviation from a single native-speaker norm.",
       "learnerSummary": "You will learn how listening to lectures and discussions works, why fast natural speech is hard to catch, and practical ways to follow the structure, key points and viewpoints of lectures, seminars and recorded talks in English.",
       "stageEmphasis": {
         "foundation": "Build decoding of connected speech and confidence with short, clearly signposted lecture extracts on accessible content, together with simple preparation routines.",
-        "pre-sessional": "Extend to full-length authentic lectures by varied speakers, with explicit work on lecture phases, relevance markers and main-point selection, linked to note-taking and integrated listening-to-writing tasks.",
         "in-sessional-ug": "Use students' own module lectures and recordings to diagnose specific decoding or discourse problems and build independent review strategies.",
         "in-sessional-pgt": "Focus on dense, fast-paced specialist lectures, seminar discussion among peers from many language backgrounds, and inferring lecturer stance on contested material.",
-        "pgr": "Address research seminars, conference talks, podcasts and multi-party discussion, where speakers are specialists with varied accents who signpost less explicitly."
+        "pgr": "Address research seminars, conference talks, podcasts and multi-party discussion, where speakers are specialists with varied accents who signpost less explicitly.",
+        "pre-sessional-ug": "Extend to full-length authentic lectures by varied speakers, with explicit work on lecture phases, relevance markers and main-point selection, linked to note-taking and integrated listening-to-writing tasks.",
+        "pre-sessional-pg": "Extend to full-length authentic lectures by varied speakers, with explicit work on lecture phases, relevance markers and main-point selection, linked to note-taking and integrated listening-to-writing tasks."
       },
       "keyReferences": [
         "field2008",
@@ -25,16 +26,17 @@
     },
     {
       "code": "NTK",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "name": "Note-taking & Note-making",
       "summary": "The domain treats note-taking (recording from lectures in real time) and note-making (building notes from reading and from later review) as distinct but connected practices. Following Kiewra (1985), notes serve both an encoding function, through the processing involved in taking them, and an external-storage function for later review, and the review function often matters more; the domain therefore covers selection, shorthand and format, lecture and reading notes, review, digital tools and collaboration. Claims about particular formats, or about longhand versus laptop notes, are presented with their evidential limits.",
       "learnerSummary": "You will learn to take notes that capture the structure and key ideas of lectures and readings, keep a clear record of where every idea came from, and use your notes to learn, revise and write.",
       "stageEmphasis": {
         "foundation": "Establish selection, abbreviation and simple formats with short, well-structured inputs, and link notes from reading to avoiding unintentional plagiarism.",
-        "pre-sessional": "Develop real-time lecture notes from authentic lectures and source-tracked notes from multiple readings that feed directly into integrated writing tasks.",
         "in-sessional-ug": "Work with students' own lecture and reading notes, focusing on review through self-testing and on informed choices of tools.",
         "in-sessional-pgt": "Manage heavy reading loads with source-tracked, thematically organised notes that support synthesis and the dissertation.",
-        "pgr": "Note-making shifts towards literature management and research records; reading notes that keep source and own words strictly apart remain central."
+        "pgr": "Note-making shifts towards literature management and research records; reading notes that keep source and own words strictly apart remain central.",
+        "pre-sessional-ug": "Develop real-time lecture notes from authentic lectures and source-tracked notes from multiple readings that feed directly into integrated writing tasks.",
+        "pre-sessional-pg": "Develop real-time lecture notes from authentic lectures and source-tracked notes from multiple readings that feed directly into integrated writing tasks."
       },
       "keyReferences": [
         "kiewra1985",
@@ -53,10 +55,11 @@
       "learnerSummary": "You will learn which features of pronunciation most affect whether listeners understand you, and practise them in the speaking you do at university — presentations, seminars and explaining your work — without needing to sound like a native speaker.",
       "stageEmphasis": {
         "foundation": "Establish intelligibility as the goal, with focused work on word stress, thought groups and each learner's own highest-priority sounds.",
-        "pre-sessional": "Integrate prosody (thought groups, prominence, intonation) with presentation and seminar speaking, using recordings for self-analysis and listener feedback.",
         "in-sessional-ug": "Provide short, targeted support for assessed presentations and technical vocabulary, usually through individual feedback.",
         "in-sessional-pgt": "Focus on specialist terms, numbers and data in speech, and on fluent delivery of dense content within strict time limits.",
-        "pgr": "Support conference presentations, vivas and teaching (for example as graduate teaching assistants), where prosody affects how clearly explanations come across to audiences."
+        "pgr": "Support conference presentations, vivas and teaching (for example as graduate teaching assistants), where prosody affects how clearly explanations come across to audiences.",
+        "pre-sessional-ug": "Integrate prosody (thought groups, prominence, intonation) with presentation and seminar speaking, using recordings for self-analysis and listener feedback.",
+        "pre-sessional-pg": "Integrate prosody (thought groups, prominence, intonation) with presentation and seminar speaking, using recordings for self-analysis and listener feedback."
       },
       "keyReferences": [
         "derwingmunro2015",
@@ -72,17 +75,12 @@
     {
       "id": "lis.listening-processes",
       "type": "CONCEPTUAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Listening processes: decoding and meaning-building",
       "description": "Understand listening as the real-time interaction of decoding processes (perceiving sounds and syllables, recognising words, parsing clauses) and meaning-building processes (enriching what is decoded with context, background knowledge and discourse structure, and deciding what matters). The distinction lets learners and teachers locate where comprehension breaks down instead of treating 'I didn't understand' as a single problem with a single remedy.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes, with examples from their own listening, a decoding failure (not recognising in speech a word they know in writing) from a meaning-building failure (recognising the words but missing the point)",
@@ -114,23 +112,26 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.connected-speech",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Recognising connected speech",
       "description": "Recognise words whose form in natural speech differs from their citation form because of weak forms, elision, assimilation, linking and other reductions, which affect function words and frequent phrases most. Without this, learners fail to recognise words they already know in writing, and a few missed function words can make a whole clause impossible to parse.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Recognises weak forms of common function words (of, to, and, can, have, them) in unscripted academic speech",
@@ -162,22 +163,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.word-segmentation",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Segmenting the speech stream",
       "description": "Identify where words begin and end in continuous speech, using strong syllables (syllables with full, unreduced vowels, including those carrying primary stress), which in English mark the start of most content words, together with lexical knowledge, grammar and context to confirm or revise a hypothesis. Segmentation errors (hearing 'a notion' as 'an ocean') produce misrecognitions that then mislead interpretation of the rest of the utterance.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses stressed syllables as anchors to locate the probable onset of content words in an unfamiliar stretch of speech",
@@ -201,23 +207,26 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.speech-rate",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Coping with natural speech rate",
       "description": "Follow lectures and discussion delivered at natural, unscripted rates by building automatic word recognition through repeated exposure and by using compensatory strategies (continuing past gaps, using restatement and redundancy, prioritising) when decoding falls behind. A sense that speech is 'too fast' often reflects decoding that is not yet automatic rather than simply the speaker's rate.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Continues to follow an extended extract after missing a word or phrase instead of stopping to work out the gap",
@@ -251,24 +260,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.accent-variation",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Understanding varied accents",
       "description": "Adapt to the range of accents used by lecturers, supervisors and peers in international universities, including regional native-speaker varieties and the many accents of English used as a lingua franca. Comprehension of an unfamiliar accent typically improves with exposure, and treating varied accents as normal rather than as departures from one standard is part of listening competence and of participating on equal terms.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Shows improved comprehension of an initially unfamiliar accent after several minutes of exposure, measured by transcription or summary accuracy",
@@ -301,22 +313,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.metacognitive-listening",
       "type": "STRATEGIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Metacognitive listening strategies",
       "description": "Plan for, monitor, solve problems during and evaluate listening, drawing on knowledge of oneself as a listener, of the demands of listening tasks and of the strategies available. Metacognitive regulation lets learners direct their own listening development beyond the classroom, but it complements rather than replaces practice in decoding.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Sets a listening goal and predicts content and vocabulary before a listening task",
@@ -341,23 +359,26 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.pre-listening-preparation",
       "type": "STRATEGIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Preparing for lectures",
       "description": "Prepare for a lecture by previewing slides, module outlines and set readings, activating and building relevant background knowledge, predicting content and organisation, and pre-learning key terms including how they sound. Preparation reduces real-time processing load so that more attention is available for following the argument, provided predictions are checked rather than trusted.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Lists likely topics and key terms for a lecture from its slides, module outline and set reading",
@@ -388,22 +409,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.lecture-structure",
       "type": "CONCEPTUAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Lecture structure and phases",
       "description": "Recognise the recurring phases of university lectures — discourse structuring (previewing, reviewing, moving on), content, exemplification, conclusion, evaluation and interaction — and that these phases interleave and recur rather than following a fixed sequence. Knowing the typical shape of a lecture lets listeners anticipate what kind of information is coming and allocate attention accordingly.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies discourse-structuring phases (preview, review, transition) in a lecture recording and states their function",
@@ -427,22 +453,26 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.lecture-discourse-markers",
       "type": "LINGUISTIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Lecture discourse markers",
       "description": "Recognise the macro-markers that signal a lecture's larger organisation (what I want to do today is…, let's turn now to…) and the micro-markers that segment and link ideas locally (so, now, right, OK, and then), and use them in real time to track where the lecture is and predict what comes next. Spoken markers are often unstressed and reduced, and organisation is also signalled by pausing and pitch, so recognising structure is partly a decoding task.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies macro-markers that announce, sequence, conclude or return to topics in an authentic lecture",
@@ -475,23 +505,26 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.relevance-markers",
       "type": "LINGUISTIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Emphasis and relevance markers",
       "description": "Recognise the lexicogrammatical and prosodic means by which lecturers flag what matters: imperatives (remember that…, note that…), evaluative nouns and adjectives (the key point, crucially), explicit references to assessment, and emphatic stress, slowing, pausing and repetition. Relevance markers also flag content as less important (you don't need to know the details), so they guide what listeners prioritise, note and review.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies verbal relevance markers in an authentic lecture and the content each one flags",
@@ -523,23 +556,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.main-points",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Identifying main points and supporting detail",
       "description": "Select the central claims, concepts and organising points of an extended stretch of academic speech and distinguish them from elaboration, examples, evidence and restatement, in real time and without the option of re-reading. This selection underpins lecture note-taking, oral summaries and integrated listening-to-writing tasks.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the main point of a 5–10-minute lecture section in one or two sentences that the lecturer would accept as accurate",
@@ -569,22 +606,27 @@
           "key": "ielts:ls.listening",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.digressions",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Handling digressions and asides",
       "description": "Recognise when a lecturer departs from the main thread — for an anecdote, joke, personal aside, administrative notice or tangential example — judge whether the departure illustrates a main point or is incidental, and recognise the return to the topic. This stops learners mistaking asides for core content or losing the thread altogether.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the start and end of a digression in an authentic lecture recording",
@@ -608,23 +650,26 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.speaker-stance",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Inferring speaker stance",
       "description": "Infer a lecturer's or speaker's evaluation of the ideas they present — endorsement, scepticism, criticism, irony, degree of certainty — from stance expressions, hedges and boosters, the framing of reported views, and prosody, and distinguish the speaker's own position from positions they report. This matters most where lectures present contested theories and evidence rather than settled facts.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes in a lecture extract between views the speaker reports and views the speaker endorses",
@@ -656,23 +701,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.multi-party-discussion",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Following multi-party discussion",
       "description": "Follow seminar, tutorial and group discussions by tracking who is speaking, what position each participant takes, how each contribution responds to earlier ones, and where the discussion has reached, despite overlapping talk, varied accents and little explicit signposting. Following the discussion is a precondition for contributing relevantly to it.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Summarises the positions taken by different participants in a recorded seminar extract",
@@ -704,23 +753,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.multimodal-lectures",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Integrating slides, visuals and speech",
       "description": "Coordinate attention between the lecturer's speech and what is shown — slides, diagrams, data displays, equations, demonstrations, board work — resolving spoken references to visuals (this curve here, as you can see) and integrating the two channels rather than reading slides at the expense of listening. Lecture content is often distributed across modes, so neither channel alone is sufficient.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Resolves spoken deictic references to the correct element of a slide or diagram",
@@ -752,23 +805,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.recorded-lectures",
       "type": "STRATEGIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Using lecture capture strategically",
       "description": "Use lecture recordings, automatic captions and transcripts as targeted review and repair tools — replaying sections marked as difficult, checking key terms and completing notes — rather than as a substitute for attending or a reason to rewatch whole lectures passively. Strategic use depends on knowing what was missed and why.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Marks moments of difficulty during a live lecture so that specific sections can be replayed later",
@@ -800,23 +857,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.spoken-instructions",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Understanding spoken instructions and briefings",
       "description": "Understand spoken instructions, assignment briefings, laboratory and fieldwork safety briefings and administrative announcements well enough to act on them correctly, attending to sequence, conditions, deadlines and the strength of obligation, and checking understanding against written sources. Errors here have direct practical, safety and assessment consequences.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Records the steps, deadlines and requirements of a spoken assignment briefing accurately",
@@ -839,23 +900,27 @@
           ],
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lis.academic-media",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Listening to academic media",
       "description": "Use academic podcasts, recorded conference talks, public lectures and documentaries as sources of knowledge: judging their credibility, following conversational, interview and panel formats that are less structured than lectures, extracting content relevant to a purpose, and recording details (speaker, date, platform, timestamps) so the material can be cited. Such media are increasingly set as course materials and used for independent study.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Evaluates the credibility of an academic podcast or recorded talk (speaker expertise, affiliation, evidence cited) before using it as a source",
@@ -886,22 +951,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.functions-of-notes",
       "type": "CONCEPTUAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Functions of notes",
       "description": "Understand that notes serve two functions: taking them can promote encoding, as the note-taker selects, condenses and connects ideas, and the notes themselves are an external store for later review. Research suggests the review function often contributes more to learning, so notes must be complete and usable later, and the way they are taken affects how much processing occurs.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains the difference between the encoding and external-storage functions of notes with reference to their own practice",
@@ -923,22 +993,26 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.selecting-content",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Selecting what to note",
       "description": "Decide what to record — main ideas and the relationships between them, key terms and definitions, essential examples and evidence, and the sources mentioned — rather than attempting to transcribe, adjusting the selection to the purpose the notes will serve. Selection is the central intellectual act of note-taking and depends on recognising the structure and priorities of the input.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Records main ideas and the relationships between them in condensed form rather than in full sentences",
@@ -968,21 +1042,26 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.abbreviations-symbols",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Abbreviations and symbols",
       "description": "Use conventional abbreviations and symbols (e.g., i.e., cf., →, ∴, ≠, ↑, ≈) and a consistent personal shorthand, including abbreviations for recurrent subject terms, to record quickly while keeping notes decodable later. Symbols for logical relations (cause, consequence, contrast, change) let notes preserve reasoning rather than just topics.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses a consistent set of symbols for logical relations (cause, consequence, contrast, increase, decrease, approximation)",
@@ -1005,23 +1084,25 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.note-formats",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Note formats",
       "description": "Choose and use note formats — indented linear outlines, Cornell-style pages with cue and summary areas, concept or mind maps, tables and matrices, flow diagrams — according to the structure of the input and the use the notes will serve. Format choice can make visible relationships that linear transcription obscures, but no single format is best for all purposes.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Matches format to the structure of the input, for example a table for comparison, a flow diagram for a process, an outline for a hierarchical argument",
@@ -1044,23 +1125,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.lecture-notes",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Taking notes in lectures",
       "description": "Take notes during live or recorded lectures that capture the lecture's structure, main points, key terms, the content the lecturer flags as important, and the sources mentioned, in real time and with minimal loss of attention to the speaker. For most students, lecture notes are the main record of oral content for revision and assignments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces notes whose headings reflect the lecture's macro-structure",
@@ -1092,24 +1177,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.notes-from-reading",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Making notes from reading",
       "description": "Make notes from academic reading that record full source details with page or location numbers and keep three kinds of content visibly separate: direct quotation (marked as such), condensed notes in one's own words, and one's own comments, questions and evaluations. Well-made reading notes are the main practical safeguard against unintentional plagiarism and the raw material for synthesis.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Records full source details and page or location numbers for every note",
@@ -1141,23 +1229,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.reviewing-notes",
       "type": "STRATEGIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Reviewing and reworking notes",
       "description": "Review and rework notes after a lecture or reading through generative activities — completing gaps, summarising, generating and answering questions, reorganising into another format and self-testing at spaced intervals — rather than rereading or recopying them. Review is what turns notes from a record into learning.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Completes and corrects lecture notes within a day or two of the lecture",
@@ -1182,23 +1275,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.digital-notes",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Digital and handwritten note-taking",
       "description": "Choose between handwritten, typed, stylus and app-based note-taking according to the task, the content (for example equations or diagrams) and personal effectiveness, use devices in ways that avoid verbatim transcription and multitasking, and organise digital notes so they can be found and reused. The evidence on laptop versus longhand notes is mixed, so the choice should rest on how notes are taken rather than on the device alone.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains why the evidence on laptop versus handwritten notes is inconclusive and identifies verbatim transcription and multitasking as the main risks of typing",
@@ -1221,22 +1318,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "ntk.collaborative-notes",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "domain": "Note-taking & Note-making",
       "name": "Collaborative notes",
       "description": "Co-construct and share notes in study groups — agreeing a common format, dividing responsibilities, cross-checking accuracy and pooling gaps — while keeping individual processing and staying within institutional rules on collusion where notes feed into individually assessed work. Shared notes can fill individual gaps but can also spread errors and reduce the processing that taking notes provides.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Agrees a shared format and a division of responsibilities for group notes",
@@ -1267,7 +1369,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.intelligibility",
@@ -1278,13 +1389,6 @@
       "description": "Distinguish intelligibility (how much of a speaker's message a listener actually understands), comprehensibility (how easy the listener finds it to understand) and accentedness (how different the speech sounds from the listener's reference variety), and use the finding that these are partly independent to set pronunciation goals around being understood rather than sounding native. Intelligibility depends on listeners as well as speakers, and accent is part of a speaker's identity.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains the difference between intelligibility, comprehensibility and accentedness with examples",
@@ -1314,7 +1418,18 @@
           "key": "ielts:sp.pronunciation",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.word-stress",
@@ -1325,13 +1440,6 @@
       "description": "Place primary stress correctly on multi-syllable academic and technical words, including the shifts that occur across word families (ANalyse, aNALysis, anaLYtical) and the regularities associated with suffixes such as -ic, -ion, -ity and -ical, and reduce unstressed vowels appropriately. Misplaced word stress can cause listeners to misidentify words even when individual sounds are accurate.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Places stress correctly on high-frequency academic words, including derived forms in which stress shifts",
@@ -1360,7 +1468,18 @@
           "key": "ielts:sp.pronunciation",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.thought-groups",
@@ -1371,13 +1490,6 @@
       "description": "Divide speech into thought groups — short, meaningful units usually corresponding to grammatical phrases or clauses — with pauses at group boundaries rather than within them and one main prominence in each group. Thought groups help listeners parse speech and give speakers natural planning points; pauses inside phrases make speech harder to follow.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Divides a written paragraph into thought groups at grammatical boundaries before reading it aloud",
@@ -1408,7 +1520,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.prominence",
@@ -1419,13 +1542,6 @@
       "description": "Place prominence (nuclear or focal stress) on the word that carries new or contrastive information in each thought group, and de-accent information that is already given, so that listeners can identify what is important and what is being contrasted. Misplaced or absent prominence can lead listeners to misunderstand the point and to recall less of an explanation.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Places prominence on new information and moves it when that information becomes given",
@@ -1457,7 +1573,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.intonation",
@@ -1468,12 +1595,6 @@
       "description": "Use pitch movement for discourse purposes in academic speaking: falling tones to present new information and close points, rising or fall-rise tones to refer to shared information, signal continuation or invite response, and pitch range and key to mark new topics and contrasts. Tone choice helps listeners follow organisation and affects how interactive and approachable a speaker sounds.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses falling tones on new information and on the final item of a list",
@@ -1505,7 +1626,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.segmental-priorities",
@@ -1516,12 +1647,6 @@
       "description": "Identify and work on the consonant and vowel features in one's own speech that most affect intelligibility — typically contrasts with high functional load, word-final consonants and clusters that carry grammatical meaning, and vowel length or quality contrasts — rather than trying to perfect every sound. Priorities are individual: they depend on the speaker's other languages, on the listeners and on which features actually cause misunderstanding.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies, from listener transcription or teacher feedback, the two or three segmental features of their own speech that most often cause misunderstanding",
@@ -1549,7 +1674,17 @@
           "key": "ielts:sp.pronunciation",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.connected-speech-production",
@@ -1560,12 +1695,6 @@
       "description": "Use linking within thought groups, weak forms of function words where they are unstressed, and natural reductions so that speech flows and stressed information stands out, while keeping content words and key terms clear. Moderate use of connected speech supports fluent delivery; how far full reduction helps intelligibility, particularly in lingua franca settings, is contested.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Links words within thought groups (consonant to vowel, vowel to vowel) without inserting extra pauses or vowels",
@@ -1596,7 +1725,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.technical-terms",
@@ -1607,13 +1746,6 @@
       "description": "Find, check and practise the pronunciation of discipline-specific terms, proper names (theorists, places, organisations) and acronyms before using them in speech, recognising when an abbreviation is said as a word (UNESCO) or as letters (DNA) and that disciplinary communities may have their own conventions. Because key terms recur throughout an explanation, a mispronounced term can disrupt understanding of the whole.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Checks the pronunciation of new technical terms using dictionary audio, specialist glossaries or recordings of lectures and talks",
@@ -1644,7 +1776,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.repair",
@@ -1655,12 +1798,6 @@
       "description": "Notice when one's own speech has gone wrong or a listener has not understood, and repair efficiently: correcting errors that affect meaning, reformulating, and using compensatory strategies such as paraphrase, description or approximation when a word is unavailable. Effective repair keeps communication going without excessive self-correction of minor errors.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Self-corrects errors that affect meaning, such as a wrong technical term or a reversed relationship, promptly and briefly",
@@ -1691,7 +1828,17 @@
           ],
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.fluency",
@@ -1702,13 +1849,6 @@
       "description": "Develop speech that flows at a rate appropriate to the audience, with pauses mainly at natural boundaries, few long hesitations inside clauses and efficient recovery, through planning, formulaic language and repeated practice. Fluency here concerns the listener's experience of smooth delivery and the speaker's processing efficiency, not speed for its own sake.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Delivers a prepared 3-minute explanation with pauses mainly at clause and thought-group boundaries",
@@ -1745,7 +1885,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prn.numbers-aloud",
@@ -1756,12 +1907,6 @@
       "description": "Say numbers and quantities, formulae, units, dates and symbols aloud accurately and intelligibly — large numbers and decimals, fractions and percentages, ranges and approximations, equations and units — following the conventions of one's discipline, and use the final syllable and stress to keep confusable numbers apart (thirTEEN versus THIRty). Errors with numbers in presentations and seminars can mislead listeners about findings.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Reads aloud large numbers, decimals and percentages correctly (for example 3.05 million, 0.025, 12.5%)",
@@ -1791,7 +1936,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -1893,7 +2048,7 @@
     },
     {
       "topicId": "lis.lecture-discourse-markers",
-      "prerequisiteId": "coh.spoken-signposting",
+      "prerequisiteId": "prs.signposting",
       "strength": "soft",
       "reason": "Recognising markers in real time draws on knowing the inventory and functions of spoken signposting language"
     },
@@ -2894,7 +3049,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Topic transitions marked by informal or reduced markers go unnoticed; notes run sections together.",
           "response": "Build the marker inventory from lecture corpora and recordings rather than from written connector lists; Biber et al. (2004) show that classroom teaching uses many discourse-organising bundles that differ from written ones.",
-          "reteachPrerequisiteId": "coh.spoken-signposting"
+          "reteachPrerequisiteId": "prs.signposting"
         },
         {
           "pattern": "Short micro-markers are not perceived because they are unstressed and run into the following words.",

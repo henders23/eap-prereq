@@ -9,10 +9,11 @@
       "learnerSummary": "You will learn how writers and speakers help their audience follow their thinking — by linking sentences, keeping key terms consistent, putting familiar information first and signalling where a text is going — and why adding more linking words does not by itself make writing clear.",
       "stageEmphasis": {
         "foundation": "Foundation programmes concentrate on basic connectors, pronoun and noun reference, paragraph-level patterns and signposting in lectures, using short model texts and subject textbooks.",
-        "pre-sessional": "Pre-sessional courses move learners from connector lists to information flow, encapsulation and reverse outlining for coherence in extended source-based writing.",
         "in-sessional-ug": "Undergraduate in-sessional work diagnoses coherence problems in students' own assignments, especially reliance on connectors, unclear reference and weak transitions between paragraphs.",
         "in-sessional-pgt": "Taught postgraduate support focuses on dissertation-length coherence, terminological consistency and transitions between sections, and on using text patterns to read efficiently.",
-        "pgr": "Doctoral writers refine flow in dense prose (thematic progression, encapsulation) and manage metatext and terminology across a thesis or article."
+        "pgr": "Doctoral writers refine flow in dense prose (thematic progression, encapsulation) and manage metatext and terminology across a thesis or article.",
+        "pre-sessional-ug": "Pre-sessional courses move learners from connector lists to information flow, encapsulation and reverse outlining for coherence in extended source-based writing.",
+        "pre-sessional-pg": "Pre-sessional courses move learners from connector lists to information flow, encapsulation and reverse outlining for coherence in extended source-based writing."
       },
       "keyReferences": [
         "hallidayhasan1976",
@@ -31,10 +32,11 @@
       "learnerSummary": "You will learn the common jobs that academic texts do — such as defining a term, comparing two approaches, explaining why something happens or recommending action — and the language and organisation that each job typically needs.",
       "stageEmphasis": {
         "foundation": "Foundation programmes teach the core functions (defining, classifying, describing processes, comparing, cause and effect, exemplifying) through subject content, often in science, engineering and business contexts.",
-        "pre-sessional": "Pre-sessional courses combine functions within extended assignments, focusing on explaining, evaluating, problem–solution and recommending in source-based writing.",
         "in-sessional-ug": "Undergraduate in-sessional support targets the functions demanded by specific assignments and genre families, such as explanation, critique and case study.",
         "in-sessional-pgt": "Taught postgraduate support emphasises contested and operational definitions, criterion-based evaluation, explanation of results and recommendations in dissertations and reports.",
-        "pgr": "Doctoral writers mainly revisit hypothesising, defining contested constructs and explaining results within research genres."
+        "pgr": "Doctoral writers mainly revisit hypothesising, defining contested constructs and explaining results within research genres.",
+        "pre-sessional-ug": "Pre-sessional courses combine functions within extended assignments, focusing on explaining, evaluating, problem–solution and recommending in source-based writing.",
+        "pre-sessional-pg": "Pre-sessional courses combine functions within extended assignments, focusing on explaining, evaluating, problem–solution and recommending in source-based writing."
       },
       "keyReferences": [
         "trimble1985",
@@ -53,10 +55,11 @@
       "learnerSummary": "You will learn how to show how sure you are about a claim and how to evaluate other people's work fairly. You will also learn when and how to make your own voice heard, and how to show the reader which ideas are yours and which come from your sources.",
       "stageEmphasis": {
         "foundation": "Foundation programmes introduce basic hedging and boosting, qualified generalisations and simple opinion language in speech and writing, linked to avoiding sweeping claims.",
-        "pre-sessional": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention.",
         "in-sessional-ug": "Undergraduate in-sessional support helps students build an authorial voice in assignments, evaluate sources rather than describe them, and match stance conventions to their discipline.",
         "in-sessional-pgt": "Taught postgraduate support focuses on critical evaluation of literature, dialogic positioning in literature reviews and calibrated claims in dissertations.",
-        "pgr": "Doctoral writers refine stance for publication: claiming contribution without over-claiming, positioning against the literature, managing self-mention and engaging expert readers."
+        "pgr": "Doctoral writers refine stance for publication: claiming contribution without over-claiming, positioning against the literature, managing self-mention and engaging expert readers.",
+        "pre-sessional-ug": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention.",
+        "pre-sessional-pg": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention."
       },
       "keyReferences": [
         "hyland2005metadiscourse",
@@ -78,11 +81,6 @@
       "description": "Distinguish cohesion — the explicit lexical and grammatical ties between sentences (reference, conjunction, substitution, ellipsis, lexical relations) — from coherence, the reader's sense that a text has a consistent topic, purpose and logical development. The distinction lets learners see that linking devices cannot rescue a text whose ideas are not ordered or connected, and that coherent texts often leave some relations implicit.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the cohesive ties linking a pair of sentences and names their type (reference, conjunction, lexical)",
@@ -111,7 +109,16 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.lexical-cohesion",
@@ -122,12 +129,6 @@
       "description": "Keep a topic in view across sentences through repetition, synonymy, hyponymy and superordinate or general nouns, combined with pronoun and article reference, so that the reader can track each participant through a text. Controlled reference chains are a major source of cohesion in academic prose, which repeats key nouns more than learners trained to 'avoid repetition' tend to expect.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Traces the reference chain for a key participant through an academic paragraph, listing each realisation (repetition, pronoun, synonym, superordinate)",
@@ -154,7 +155,17 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.linking-adverbials",
@@ -165,11 +176,6 @@
       "description": "Use additive, adversative, causal, sequential and summative linking adverbials (in addition, however, therefore, first, overall) to make relations between sentences explicit where the reader needs them, with expert-like frequency, placement and punctuation. Learner corpora show, varying by learner group, overuse of some connectors, underuse of others, a preference for sentence-initial position and mismatches between connector and relation, so the aim is selective rather than maximal use.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies common linking adverbials by the relation they signal (addition, contrast/concession, result, sequence, summation, apposition)",
@@ -198,45 +204,6 @@
         {
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
-        }
-      ]
-    },
-    {
-      "id": "coh.connector-precision",
-      "type": "LINGUISTIC",
-      "strand": "Academic Discourse",
-      "domain": "Cohesion & Coherence",
-      "name": "Precise logical relations",
-      "description": "Choose between connectors with related but distinct meanings and grammar — however, whereas, although, in contrast, on the contrary, nevertheless; therefore, thus, hence, consequently — according to the exact relation (contrast, concession or correction; inference or consequence) and the clause structure each requires. Precision here distinguishes argument that is clear from text that merely sounds connected.",
-      "cefrStart": "B2",
-      "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Distinguishes contrast (whereas, in contrast), concession (although, nevertheless) and correction (on the contrary) and uses each appropriately",
-        "Constructs and punctuates subordinate clauses (although, whereas, while) and linking adverbials (however, nevertheless) correctly",
-        "Chooses among therefore, thus, hence and consequently according to whether the relation is inference or real-world consequence and according to register",
-        "Explains how replacing one connector with another in a sample sentence changes the claim made",
-        "Removes connectors that assert a relation the content does not support, such as 'therefore' after unrelated premises"
-      ],
-      "assessmentPrompt": "Give five sentence pairs with the connector gapped, including one where 'on the contrary' and 'in contrast' compete and one where 'although' requires combining the pair into a single sentence. Ask for the best choice and a one-line justification. Check that the justification names the relation rather than 'it sounds right', and that subordinators are integrated grammatically.",
-      "citations": [
-        "celcemurcia1999",
-        "biber1999lgswe",
-        "granger1998"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:prag.coherence-cohesion",
-          "levels": [
-            "B2",
-            "C1"
-          ],
-          "contribution": "component"
         },
         {
           "key": "cefr-cv:prag.propositional-precision",
@@ -245,12 +212,17 @@
             "C1"
           ],
           "contribution": "related"
-        },
-        {
-          "key": "ielts:wr.coherence-cohesion",
-          "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.given-new",
@@ -261,12 +233,6 @@
       "description": "Understand and apply the tendency in English for clauses to begin with information the reader already has (given) and to end with new or newsworthy information, using choices such as voice, a different grammatical subject or a summarising noun phrase to achieve this. Respecting given–new order is a main reason expert prose reads smoothly with relatively few connectors.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies given and new information in each clause of a short academic paragraph, relative to the preceding sentence",
@@ -297,7 +263,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.thematic-progression",
@@ -308,12 +284,6 @@
       "description": "Manage the sequence of clause themes across a paragraph using Daneš's patterns — constant theme, linear progression in which the rheme of one clause becomes the next theme, and themes derived from a hypertheme — to move an argument forward while keeping it anchored. The patterns give writers a practical diagnostic for paragraphs that feel either repetitive or disjointed.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the theme of each sentence in a paragraph and labels the progression pattern",
@@ -344,7 +314,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.signalling-nouns",
@@ -355,12 +335,6 @@
       "description": "Use signalling (shell) nouns with a demonstrative or definite determiner — this approach, these findings, such a view, the problem is that — to encapsulate a preceding stretch of text or set up a following one, labelling it as a claim, problem, finding or limitation. Encapsulation links sentences while also categorising, and often evaluating, what has just been said.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Replaces a bare sentence-initial 'This' with 'this + noun' that accurately labels the preceding content",
@@ -396,7 +370,17 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.text-patterns",
@@ -407,12 +391,6 @@
       "description": "Recognise and use recurrent text patterns — problem–solution (situation, problem, response, evaluation), general–specific, claim–counterclaim (hypothetical–real) and matching (comparison) — that organise stretches longer than a sentence and set up reader expectations. Knowing these patterns supports efficient reading, because readers can predict what comes next from lexical signals, and gives writers a frame for organising paragraphs and sections.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the pattern organising an academic passage and labels its elements (for example situation, problem, response, evaluation)",
@@ -453,7 +431,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.frame-markers",
@@ -464,13 +452,6 @@
       "description": "Use frame markers — sequencing (first, finally), stage labels (to summarise, overall), goal announcements (this essay argues, the aim of this section is) and topic shifts (turning to, with regard to) — to make the organisation of an extended text visible at a density suited to its length and genre. Frame markers are an interactive metadiscourse resource that eases the reader's processing; they should not substitute for content.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes an introduction roadmap that previews the line of argument, not just a list of topics, in proportion to the text's length",
@@ -507,7 +488,18 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.paragraph-transitions",
@@ -518,11 +510,6 @@
       "description": "Link one paragraph or section to the next with bridging sentences or clauses that state how the coming point relates to the previous one — extends, contrasts with, qualifies or applies it — typically by encapsulating the prior point and announcing the new one. Effective transitions make the line of argument visible across units instead of leaving each paragraph as a free-standing block.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes paragraph openings that refer back to the previous point and state the new one (While cost explains part of the decline, it does not account for…)",
@@ -558,7 +545,16 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.terminological-consistency",
@@ -569,12 +565,6 @@
       "description": "Keep key technical and conceptual terms constant once introduced, varying wording only where the referent genuinely differs, so that readers do not infer distinctions the writer does not intend. In academic writing a change of term is often read as a change of concept, so the 'elegant variation' rewarded in some other kinds of writing can mislead.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Lists the key terms of their own text and checks that each is used with one meaning and one form throughout",
@@ -614,7 +604,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "coh.writer-responsibility",
@@ -625,12 +625,6 @@
       "description": "Understand the expectation, common in English-medium academic writing, that the writer rather than the reader is responsible for making purpose, structure and logical connections explicit, and recognise this as a convention that varies across disciplines, genres and writing traditions rather than a universal standard of good writing. The concept helps learners interpret feedback such as 'unclear' or 'make the link explicit' and decide how much to spell out for a given reader.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains the reader/writer responsibility distinction and what it implies for explicit thesis statements, topic sentences and links",
@@ -661,61 +655,17 @@
           ],
           "contribution": "related"
         }
-      ]
-    },
-    {
-      "id": "coh.spoken-signposting",
-      "type": "LINGUISTIC",
-      "strand": "Academic Discourse",
-      "domain": "Cohesion & Coherence",
-      "name": "Signposting in spoken academic discourse",
-      "description": "Use and recognise macro-markers (Let's move on to…, What I want to focus on today is…) and micro-markers (so, now, right) together with pausing and intonation to organise spoken academic discourse in lectures, presentations and seminars. Because listeners cannot scan back, explicit structural signalling carries more of the organisational load in speech than in writing.",
-      "cefrStart": "B1",
-      "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Identifies macro-markers in a recorded lecture and uses them to reconstruct its structure in notes",
-        "Distinguishes structuring markers from markers that flag importance or relevance",
-        "Uses macro-markers to preview, move between and summarise the sections of a short presentation",
-        "Combines verbal markers with a pause or change of pitch at section boundaries",
-        "Uses spoken rather than written-style connectors (So, Now, The next thing is rather than Furthermore, Moreover) when speaking"
-      ],
-      "assessmentPrompt": "Play a three- to four-minute lecture extract and ask the learner to note each point where the speaker changes topic and the words that signalled it. Then ask for a one-minute spoken explanation of a process using at least two macro-markers. Check accurate identification of boundaries and natural spoken markers in production.",
-      "citations": [
-        "chaudronrichards1986",
-        "thompson2003lectures",
-        "biber2004bundles",
-        "young1994"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:rec.oral.live-audience",
-          "levels": [
-            "B1+",
-            "B2"
-          ],
-          "contribution": "component"
-        },
-        {
-          "key": "cefr-cv:prod.oral.addressing-audiences",
-          "levels": [
-            "B2",
-            "C1"
-          ],
-          "contribution": "component"
-        },
-        {
-          "key": "ielts:sp.fluency-coherence",
-          "contribution": "component"
-        }
-      ]
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.defining",
@@ -726,12 +676,6 @@
       "description": "Define terms using formal sentence definitions (term + class + distinguishing features), extended definitions that add examples, contrasts or history, operational definitions that state how a concept is measured or identified, and discussion of contested definitions that compares how different authors define a term. Defining establishes shared ground and shows readers how the writer is using key concepts.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes a formal definition with an appropriate superordinate class and distinguishing features, using a defining relative clause",
@@ -763,7 +707,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.classifying",
@@ -774,11 +728,6 @@
       "description": "Classify phenomena by stating the basis of classification, the categories and their members, using language such as can be divided into, falls into, comprises, is classified according to and consists of. Clear classification rests on a consistent criterion and categories that are mutually exclusive and, where intended, exhaustive.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the criterion (basis) of a classification explicitly",
@@ -810,7 +759,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.describing-process",
@@ -821,11 +779,6 @@
       "description": "Describe natural, experimental and technical processes and procedures in a clear sequence, using sequencing devices, passive voice where the agent is unimportant, purpose expressions (to + infinitive, in order to, so that) and time clauses. Process description underpins methods sections, laboratory and technical reports, and explanations of how phenomena occur.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes a process in logical order with varied sequencing devices and time clauses rather than repeated 'then'",
@@ -860,7 +813,16 @@
           "key": "ielts:wr1.task-achievement",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.describing-structure",
@@ -871,11 +833,6 @@
       "description": "Describe the structure of physical objects, organisations and systems in terms of parts and wholes (consists of, comprises, is made up of), spatial relations (adjacent to, at the base of, connected to) and the functions of components (serves to, is responsible for). Structural description is essential in science, engineering, design, anatomy, geography and organisational studies.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes an object or system from whole to parts in a logical spatial or hierarchical order",
@@ -907,7 +864,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.comparing-contrasting",
@@ -918,12 +884,6 @@
       "description": "Compare and contrast entities, theories, methods or data against explicit criteria using similarity and difference language (similarly, likewise, whereas, in contrast, differ in, share, unlike) and comparative structures, and organise extended comparisons point by point or in blocks according to purpose. Academic comparison is led by criteria and arrives at a point, rather than listing similarities and differences.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies or chooses explicit criteria for comparison suited to the task",
@@ -960,7 +920,17 @@
           "key": "ielts:wr1.task-achievement",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.cause-effect",
@@ -971,12 +941,6 @@
       "description": "Express causal relations through conjunctions (because, since, so), prepositions (due to, owing to, as a result of), verbs (lead to, result in, contribute to, stem from), nouns (a cause of, a consequence of, a factor in) and adjectives (attributable to, responsible for), and calibrate the strength of the causal claim (causes, is associated with, may contribute to). Much academic explanation packs causation into verbs and noun phrases rather than linking clauses with conjunctions.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Expresses the same causal relation through conjunction, preposition, verb and noun structures",
@@ -1008,7 +972,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.exemplifying",
@@ -1019,11 +993,6 @@
       "description": "Illustrate general statements with examples and cases using exemplification language (for example, for instance, such as, a case in point is, as illustrated by) and choose examples that are representative and relevant, linking them explicitly back to the point they support. Examples make abstract claims concrete, but they carry argumentative weight only when their relevance is made clear.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses for example and for instance (sentence level) and such as and e.g. (phrase level) with correct grammar and punctuation",
@@ -1056,7 +1025,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.problem-solution",
@@ -1067,12 +1045,6 @@
       "description": "Present situations, problems, responses and evaluations using problem vocabulary (challenge, constraint, drawback), response vocabulary (approach, measure, intervention) and evaluative language that judges whether responses work, including cycles in which a response creates a new problem. This function organises problem–solution essays, case studies, reports and the gap-identifying moves of research introductions.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Organises a text or section around situation, problem, response and evaluation, with each element recognisable",
@@ -1101,7 +1073,17 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.explaining",
@@ -1112,12 +1094,6 @@
       "description": "Explain how and why phenomena occur and justify decisions or claims by giving reasons, mechanisms and rationales, using language such as because, since, which explains why, this is because, the reason for and the rationale for. Explanation goes beyond stating that something happens to show the mechanism or reasoning behind it, which is much of what markers mean by 'analysis'.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains a mechanism as a sequence of causal steps rather than a single 'because'",
@@ -1158,7 +1134,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.hypothesising",
@@ -1169,13 +1155,6 @@
       "description": "Predict outcomes and formulate hypotheses using predictive and speculative language — modal verbs (will, would, may, is likely to), conditionals, hypothesis frames (it is hypothesised that, would be expected to) and conditions on predictions (provided that, assuming that) — distinguishing confident predictions from tentative speculation. Hypothesising is central to research proposals, experimental reports, discussions of implications and thought experiments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Formulates a testable hypothesis or prediction in one clear sentence with explicit variables or conditions",
@@ -1207,7 +1186,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.recommending",
@@ -1218,12 +1208,6 @@
       "description": "Make recommendations that follow from analysis, using modal and lexical resources (should, it is recommended that, it is advisable to), the mandative subjunctive or should-alternative (It is essential that each participant be informed), and language of priority, feasibility and conditions (in the first instance, where resources allow). Effective recommendations are specific, justified by the preceding analysis and pitched to the reader's authority to act.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes recommendations that are explicitly linked to findings or analysis",
@@ -1252,7 +1236,17 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.summarising-concluding",
@@ -1263,12 +1257,6 @@
       "description": "Summarise one's own preceding content and draw conclusions from it, using summative and inferential language (Overall, In sum, Taken together, These findings suggest, It can therefore be concluded that), so that a section or text ends by stating what has been established and what follows. This function differs from summarising a source: it consolidates the writer's own argument or results.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes a concluding sentence or paragraph that synthesises preceding points rather than repeating them in order",
@@ -1300,7 +1288,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.chronology-narration",
@@ -1311,11 +1309,6 @@
       "description": "Narrate events and developments in chronological order using time expressions (in the early 1990s, over the following decade, by 2010), periodisation (the post-war period, the first phase), tense and aspect sequences (past simple, past perfect, present perfect for developments continuing to now) and time clauses. This function is needed in historical accounts, case histories, methodology recounts and literature reviews that trace the development of a field.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Sequences events with varied time expressions and time clauses",
@@ -1347,7 +1340,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fun.evaluating",
@@ -1358,12 +1360,6 @@
       "description": "Evaluate ideas, evidence, methods, solutions or texts by stating explicit criteria, weighing strengths against weaknesses and reaching a judgement of value or significance, using evaluative lexis (robust, limited, compelling, a shortcoming), comparative evaluation and balanced structures (While X…, Y). Evaluation is a large part of what distinguishes critical from descriptive academic writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the criteria by which something is evaluated (validity, cost, relevance, generalisability)",
@@ -1400,7 +1396,17 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.metadiscourse",
@@ -1411,12 +1417,6 @@
       "description": "Understand metadiscourse as the resources by which writers and speakers organise a text for its reader (interactive: transitions, frame markers, endophoric markers, evidentials, code glosses) and express attitudes and engage the reader (interactional: hedges, boosters, attitude markers, self-mention, engagement markers). The concept gives learners a unified way of seeing academic writing as interaction with a reader rather than as neutral presentation of content.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies metadiscourse items in an academic text as interactive or interactional and names their subcategory",
@@ -1447,7 +1447,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.hedging",
@@ -1458,13 +1468,6 @@
       "description": "Use hedging devices — modal verbs (may, might, could), lexical verbs (suggest, appear, indicate), adverbs and adjectives (possibly, likely), approximators (approximately, to some extent) and impersonal frames (it seems that, it is possible that) — to present claims with appropriate tentativeness, mark the writer's precision about evidence and show deference to readers and the field. Hedging is central to how academic claims are negotiated and accepted.",
       "cefrStart": "B1+",
       "cefrEnd": "C2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies hedges in an academic text and distinguishes those qualifying the accuracy of a claim from those softening the writer's commitment towards readers",
@@ -1497,8 +1500,23 @@
             "C1"
           ],
           "contribution": "component"
+        },
+        {
+          "key": "ielts:wr2.task-response",
+          "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.boosters",
@@ -1509,12 +1527,6 @@
       "description": "Use boosters — adverbs (clearly, undoubtedly), verbs (show, demonstrate, establish), and impersonal frames (it is evident that, there is no doubt that) — to express justified certainty and solidarity with readers, and recognise when certainty is unwarranted or rhetorically risky. Together with hedges, boosters let writers mark which claims they are prepared to stand behind.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies boosters in academic texts and explains what degree of certainty each claims",
@@ -1547,7 +1559,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.claim-calibration",
@@ -1558,12 +1580,6 @@
       "description": "Match the strength of each claim to the type, quality and quantity of evidence and to the scope of the data, choosing among assertion, boosting, hedging and limitation of scope so that claims are neither overstated nor hedged into vacuity. Calibration is a reasoning skill realised in language: the writer first judges what the evidence licenses and then chooses wording.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Judges what claim a body of evidence supports (correlational or experimental; one study or many) before writing it",
@@ -1592,7 +1608,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.attitude-markers",
@@ -1603,12 +1629,6 @@
       "description": "Use attitude markers — evaluative adverbs (surprisingly, importantly, unfortunately), adjectives (striking, notable, problematic) and frames (it is notable that, a key limitation is) — to signal the writer's affective and evaluative stance towards propositions, and judge when explicit evaluation strengthens or weakens an academic text. Such markers direct readers to what the writer considers significant, surprising or problematic.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies attitude markers and the evaluation each expresses (importance, surprise, concern, agreement)",
@@ -1648,7 +1668,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.self-mention",
@@ -1659,12 +1689,6 @@
       "description": "Use first-person pronouns and alternatives (I, we, the present study, this thesis) to construct authorial roles — from representative of a wider group (generic 'we') and guide through the text, through architect of its structure and recounter of procedures, to opinion-holder and originator of ideas — in line with disciplinary and genre norms. Self-mention is a choice about presence and responsibility, not a matter of a blanket rule for or against 'I'.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the role a first-person pronoun plays in a sentence (representative, guide, architect, recounter, opinion-holder, originator)",
@@ -1697,7 +1721,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.engagement-markers",
@@ -1708,11 +1742,6 @@
       "description": "Use reader-engagement resources — inclusive 'we' and other reader references, directives (note that, consider, see Table 2), questions, appeals to shared knowledge (as is well known) and personal asides — to bring readers into the argument, guide their interpretation and build solidarity, at a level suited to discipline and genre.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies engagement markers in academic texts and the reader role each assumes",
@@ -1743,51 +1772,15 @@
           ],
           "contribution": "related"
         }
-      ]
-    },
-    {
-      "id": "sta.generalisation-qualification",
-      "type": "LINGUISTIC",
-      "strand": "Academic Discourse",
-      "domain": "Stance, Metadiscourse & Evaluation",
-      "name": "Generalising and qualifying",
-      "description": "Make generalisations whose scope matches the evidence by using quantifiers and frequency expressions (most, many, a minority of, often, rarely), tendency expressions (tend to, are inclined to), approximators (broadly, largely, in general) and scope limiters (in most cases, with some exceptions, in this context). Bounded generalisation avoids both sweeping claims and lists of particulars that never reach a general point.",
-      "cefrStart": "B1+",
-      "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Rewrites sweeping generalisations (everyone, always, all societies) as bounded claims appropriate to the evidence",
-        "Uses tend to, frequency adverbs and quantifiers accurately, including their grammar (tend + to-infinitive; most + plural noun without 'of' but most of + determiner + noun: most students, most of the students)",
-        "States the population, context or conditions to which a generalisation applies",
-        "Distinguishes a claim about a category from a claim about every member of it",
-        "Moves from a set of examples to a stated general pattern"
-      ],
-      "assessmentPrompt": "Give five sweeping statements typical of essay openings (for example 'Nowadays everyone uses social media'). Ask the learner to rewrite each as a defensible claim. Check the range of devices, grammatical accuracy and whether the rewrites specify scope rather than only adding 'may'.",
-      "citations": [
-        "salagermeyer1994",
-        "hyland1998hedging",
-        "hinkel2004"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:prag.propositional-precision",
-          "levels": [
-            "B1+",
-            "B2",
-            "C1"
-          ],
-          "contribution": "component"
-        },
-        {
-          "key": "ielts:wr2.task-response",
-          "contribution": "related"
-        }
-      ]
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.averral-attribution",
@@ -1798,12 +1791,6 @@
       "description": "Distinguish propositions the writer avers (takes responsibility for) from those attributed to other sources, and track this distinction in reading and writing so that it is always clear whose claim is whose and how far the writer endorses it. Because unsignalled statements are read as the writer's own averral, failing to mark attribution or its boundary affects both the argument and academic integrity.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies, clause by clause, whether a proposition in an academic text is averred or attributed, citing the linguistic signal",
@@ -1830,7 +1817,17 @@
           "key": "acrl:conversation",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.concession-language",
@@ -1841,11 +1838,6 @@
       "description": "Use the language of concession and counter-argument — subordinators (although, while, even though), adverbials (admittedly, nevertheless, nonetheless), impersonal frames (it could be argued that, it is true that…, but) and limiting moves (this does not mean that) — to acknowledge an opposing point and then limit or outweigh it. When followed by an effective counter, concession signals fairness and anticipates objections, strengthening rather than weakening an argument.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Constructs concession–counter sequences within a sentence (Although X, Y) and across sentences (Admittedly, X. However, Y.)",
@@ -1881,7 +1873,16 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.dialogic-positioning",
@@ -1892,11 +1893,6 @@
       "description": "Position a text in relation to other voices by expanding the dialogue (entertaining possibilities, attributing views to others) or contracting it (denying, countering, concurring, pronouncing, endorsing), as described in the engagement system of appraisal theory. Control of these options lets writers acknowledge alternatives while steering readers towards their own position, a pattern associated with highly rated academic argument.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies stance options in a text as expanding (entertain, attribute) or contracting (deny, counter, concur, pronounce, endorse)",
@@ -1928,7 +1924,15 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.evaluating-others-language",
@@ -1939,12 +1943,6 @@
       "description": "Use language that evaluates other scholars' work fairly and precisely — evaluative reporting verbs and adjectives, praise–criticism pairs and mitigated critique (While X offers…, it overlooks…; a limitation of this study is…) — so that critique is specific, justified and collegial. This language is central to literature reviews, critiques, peer review and positioning one's own research.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses evaluative reporting verbs and adjectives that convey the intended judgement (convincingly demonstrates; asserts without evidence)",
@@ -1973,7 +1971,17 @@
           "key": "acrl:conversation",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.authorial-voice",
@@ -1984,12 +1992,6 @@
       "description": "Understand authorial voice as the identity and position a writer constructs through linguistic choices — stance markers, self-mention, the framing of sources and control of the argument's structure — and develop a voice that is distinct from, and in control of, the voices of sources. Voice is a textual achievement that can be analysed and taught, not an innate personal quality or simply the use of 'I'.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the linguistic features through which a writer's voice is constructed in a text (evaluation, self-mention, framing of sources, claim strength)",
@@ -2024,7 +2026,17 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.code-glosses",
@@ -2035,12 +2047,6 @@
       "description": "Use code glosses to reformulate (that is, in other words, namely, i.e.) and to exemplify (for example, such as, e.g.) so that readers recover the intended meaning of a term, claim or category, judging what the intended reader needs explained. Code glosses are an interactive metadiscourse resource that reflects the writer's model of the reader's knowledge.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes reformulation markers (that is, in other words, namely) from exemplification markers (for example, such as)",
@@ -2070,7 +2076,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sta.spoken-stance",
@@ -2081,13 +2097,6 @@
       "description": "Express and recognise stance in spoken academic interaction — opinion frames (I'd argue, it seems to me), mitigated disagreement (I'm not entirely convinced that), vague language and approximation (sort of, more or less) and boosting (I'm fairly sure) — together with prosodic cues, so that speakers can take positions in seminars, presentations and supervisions while maintaining collegial relations.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses a range of spoken stance frames to state a position with appropriate tentativeness or conviction",
@@ -2126,7 +2135,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -2161,13 +2181,7 @@
       "reason": "Using linking adverbials correctly depends on recognising independent clauses and how they are combined, as distinct from coordination and subordination"
     },
     {
-      "topicId": "coh.connector-precision",
-      "prerequisiteId": "coh.linking-adverbials",
-      "strength": "hard",
-      "reason": "Fine distinctions among contrastive and resultative connectors presuppose control of the basic semantic categories of linking adverbials"
-    },
-    {
-      "topicId": "coh.connector-precision",
+      "topicId": "coh.linking-adverbials",
       "prerequisiteId": "grm.subordination",
       "strength": "hard",
       "reason": "Choosing between although/whereas and however/nevertheless requires control of subordinate clause structure as well as meaning"
@@ -2267,18 +2281,6 @@
       "prerequisiteId": "wpr.audience-purpose",
       "strength": "soft",
       "reason": "Deciding how much to make explicit depends on a model of the intended reader and the purpose of the text"
-    },
-    {
-      "topicId": "coh.spoken-signposting",
-      "prerequisiteId": "coh.linking-adverbials",
-      "strength": "soft",
-      "reason": "Micro-markers and many macro-markers express the same additive, contrastive and sequential relations as written linking adverbials"
-    },
-    {
-      "topicId": "coh.spoken-signposting",
-      "prerequisiteId": "reg.spoken-vs-written",
-      "strength": "soft",
-      "reason": "Understanding that speech is processed in real time without the visual layout of writing explains why spoken discourse needs denser, differently worded signposting"
     },
     {
       "topicId": "coh.frame-markers",
@@ -2545,16 +2547,10 @@
       "reason": "Appeals to shared knowledge (obviously, of course) overlap formally with boosters and carry the same risk of unwarranted certainty"
     },
     {
-      "topicId": "sta.generalisation-qualification",
+      "topicId": "sta.hedging",
       "prerequisiteId": "grm.determiners-quantifiers",
       "strength": "hard",
       "reason": "Bounding a generalisation relies on accurate quantifiers (most, a minority of, few) and their grammar"
-    },
-    {
-      "topicId": "sta.generalisation-qualification",
-      "prerequisiteId": "sta.hedging",
-      "strength": "soft",
-      "reason": "Qualifying scope is one form of hedging; learners who already hedge certainty can extend this to quantity, frequency and context"
     },
     {
       "topicId": "sta.boosters",
@@ -2582,7 +2578,7 @@
     },
     {
       "topicId": "sta.concession-language",
-      "prerequisiteId": "coh.connector-precision",
+      "prerequisiteId": "coh.linking-adverbials",
       "strength": "hard",
       "reason": "Concession depends on distinguishing concessive connectors (although, nevertheless) from contrastive ones and controlling their grammar"
     },
@@ -2871,75 +2867,6 @@
         "Hinkel (2002) reports frequencies across specific L1 groups and essay prompts; verify feature labels before quoting figures to teachers.",
         "grangertyson1996 is a proposed reference; the supporting claim is also attributed to the Granger (1998) collection."
       ]
-    },
-    {
-      "topicId": "coh.connector-precision",
-      "summary": "Celce-Murcia and Larsen-Freeman treat logical connectors by both semantic class and grammatical type, which is the combination learners need: what relation is meant, and what syntax follows. Biber et al. provide frequency and positional evidence, and learner-corpus studies show that common errors involve mismatch rather than absence of connectors. Teach through minimal pairs that make the change in claim visible, and through the consequences of an unjustified 'therefore' for the argument.",
-      "activities": [
-        {
-          "title": "Minimal pairs",
-          "learnerActions": [
-            "Read two versions of a sentence pair that differ only in the connector (however versus on the contrary; whereas versus although)",
-            "Paraphrase the claim each version makes",
-            "Decide which version the writer most plausibly intended given the surrounding text"
-          ],
-          "intendedInsight": "Connectors change propositions, not just style.",
-          "rationale": "Contrasting forms in controlled pairs focuses attention on meaning differences that are easily blurred in lists.",
-          "citations": [
-            "celcemurcia1999"
-          ]
-        },
-        {
-          "title": "Concordance check: therefore, thus, hence",
-          "learnerActions": [
-            "Examine prepared concordance lines from an academic corpus for therefore, thus and hence",
-            "Record typical positions and what follows each (for example thus + -ing clause)",
-            "Rewrite three of your own sentences using the pattern you found"
-          ],
-          "intendedInsight": "Near-synonymous resultative connectors have distinct grammatical and positional preferences.",
-          "rationale": "Corpus consultation lets learners discover usage patterns directly; meta-analytic evidence suggests data-driven learning can be effective, though effects vary with design.",
-          "citations": [
-            "biber1999lgswe",
-            "boultoncobb2017"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "'Although the sample was small, but the results were clear.'",
-          "kind": "L1-transfer",
-          "revealedBy": "Double marking of concession with although…but or though…yet.",
-          "response": "Writers whose other languages mark both clauses of a concessive construction need to see that English marks only one; contrast the two English options with the same content.",
-          "reteachPrerequisiteId": "grm.subordination"
-        },
-        {
-          "pattern": "'On the contrary' used for simple contrast between two entities.",
-          "kind": "overgeneralisation",
-          "revealedBy": "'X is expensive. On the contrary, Y is cheap.'",
-          "response": "Teach 'on the contrary' as rejecting a preceding (often negated) proposition, and 'in contrast' for comparing two items.",
-          "reteachPrerequisiteId": "coh.linking-adverbials"
-        },
-        {
-          "pattern": "'Therefore' introducing a conclusion the preceding sentences do not support.",
-          "kind": "conceptual",
-          "revealedBy": "A list of facts followed by 'Therefore,…' with no warrant connecting them to the claim.",
-          "response": "Ask 'why does this follow?' and have the learner write the missing step; treat the connector as a promise the content must keep.",
-          "reteachPrerequisiteId": null
-        }
-      ],
-      "diagnostic": {
-        "task": "The learner explains the difference between 'Sales fell. However, profits rose.' and 'Sales did not fall. On the contrary, they rose.' and writes one sentence with 'whereas' comparing two methods.",
-        "strongResponse": "Identifies contrast versus correction of a negated claim, and produces a well-formed 'whereas' sentence comparing two parallel items.",
-        "partialResponse": "Senses a difference but cannot name it, or misuses 'whereas' as a sentence-initial adverbial.",
-        "gapResponse": "Treats the connectors as interchangeable."
-      },
-      "contextNotes": "On pre-sessional courses this topic is best integrated with argument writing and feedback on learners' own texts. Undergraduate and taught postgraduate in-sessional support can tie precision to disciplinary reasoning, for example inference in quantitative fields or concession in humanities argument.",
-      "citations": [
-        "celcemurcia1999",
-        "biber1999lgswe",
-        "granger1998"
-      ],
-      "reviewNotes": []
     },
     {
       "topicId": "coh.given-new",
@@ -3497,77 +3424,6 @@
       "reviewNotes": [
         "Hinds's typology is contested; the topic name is retained from the skeleton, but teachers should present it as a heuristic about reader expectations rather than as a description of national writing styles."
       ]
-    },
-    {
-      "topicId": "coh.spoken-signposting",
-      "summary": "Chaudron and Richards found that macro-markers aided lecture comprehension more than micro-markers alone; Thompson showed that lecturers also signal organisation through intonation and that EAP listening materials do not always reflect authentic structuring patterns. Biber, Conrad and Cortes found discourse-organising lexical bundles particularly frequent in classroom teaching, and Young's analysis of lecture phases offers a frame for what markers signal. Teach from authentic or authentic-like recordings, combining reception and production and attending to prosody.",
-      "activities": [
-        {
-          "title": "Lecture skeleton from markers",
-          "learnerActions": [
-            "Listen to a lecture extract and log every phrase that signals a change of topic or phase",
-            "Use the log to reconstruct an outline of the lecture",
-            "Compare outlines and discuss boundaries signalled only by pause or pitch"
-          ],
-          "intendedInsight": "Macro-markers and prosody give listeners the structure they cannot see.",
-          "rationale": "Chaudron and Richards's finding on macro-markers and Young's phase model both suggest that attention to structuring language supports lecture comprehension.",
-          "citations": [
-            "chaudronrichards1986",
-            "young1994"
-          ]
-        },
-        {
-          "title": "Written-to-spoken swap",
-          "learnerActions": [
-            "Take a written paragraph that uses Furthermore and Moreover",
-            "Turn it into a one-minute spoken explanation using spoken markers and pauses",
-            "Record it, listen back and note where a listener might get lost"
-          ],
-          "intendedInsight": "Spoken signposting is worded and paced differently from written linking.",
-          "rationale": "Biber, Conrad and Cortes show that classroom teaching uses distinctive discourse-organising bundles, and Thompson highlights the role of intonation in signalling organisation.",
-          "citations": [
-            "biber2004bundles",
-            "thompson2003lectures"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Hearing 'so' or 'OK' as a signal that the lecture is concluding.",
-          "kind": "developmental",
-          "revealedBy": "Notes that stop recording after a micro-marker; learners missing the main point that follows.",
-          "response": "Show the range of functions of micro-markers in authentic transcripts and contrast them with macro-markers that do signal conclusion.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "Presentations that sound read aloud because they use written connectors.",
-          "kind": "overgeneralisation",
-          "revealedBy": "Furthermore, Moreover and In addition in spoken presentations; listeners losing the structure.",
-          "response": "Model spoken markers and rehearse them as chunks; draw attention to differences between spoken and written registers.",
-          "reteachPrerequisiteId": "reg.spoken-vs-written"
-        },
-        {
-          "pattern": "Markers planned in advance disappear under the pressure of live delivery.",
-          "kind": "performance",
-          "revealedBy": "Presentations with clear slides but no verbal signalling between sections.",
-          "response": "Rehearse transitions specifically and attach them to slide changes; avoid scripting entire talks.",
-          "reteachPrerequisiteId": null
-        }
-      ],
-      "diagnostic": {
-        "task": "The learner listens to a two-minute lecture extract and writes down the phrase that marks each new section, then gives a 30-second spoken preview of a topic of their choice.",
-        "strongResponse": "Identifies all section boundaries with their markers, and produces a natural spoken preview with at least two macro-markers and a pause at the boundary.",
-        "partialResponse": "Identifies most boundaries but misses one marked only by prosody, or produces a preview in written style.",
-        "gapResponse": "Cannot identify boundaries; the preview lacks any structuring language."
-      },
-      "contextNotes": "Foundation and pre-sessional courses emphasise recognition in lectures alongside short presentations. Undergraduate in-sessional work concentrates on assessed presentations and seminar contributions. Taught postgraduate and doctoral learners need signposting for longer research presentations and, for doctoral students who teach, for their own lecturing.",
-      "citations": [
-        "chaudronrichards1986",
-        "thompson2003lectures",
-        "biber2004bundles",
-        "young1994"
-      ],
-      "reviewNotes": []
     },
     {
       "topicId": "fun.defining",
@@ -5009,74 +4865,6 @@
       ]
     },
     {
-      "topicId": "sta.generalisation-qualification",
-      "summary": "Salager-Meyer's approximators of degree, quantity, frequency and time, and the content-oriented hedges Hyland describes, cover much of this territory. It is singled out because overgeneralisation is among the most frequent comments on early academic writing and because the remedy is often precise scope rather than modality. Hinkel provides practical exercises on hedging and qualification; teach quantifiers, tendency verbs and scope limiters as a set, linked to the evidence behind each claim.",
-      "activities": [
-        {
-          "title": "Sweeping to bounded",
-          "learnerActions": [
-            "Rewrite sweeping statements from typical essay openings as bounded claims",
-            "Label what you changed: quantity, frequency, degree or context",
-            "Check which rewrites need a source to support them"
-          ],
-          "intendedInsight": "Bounding a claim usually means specifying who, how many, how often or where, not just adding 'may'.",
-          "rationale": "Hinkel's techniques for teaching hedging in L2 writing support explicit, form-focused practice with these resources.",
-          "citations": [
-            "hinkel2004"
-          ]
-        },
-        {
-          "title": "Scope sorting",
-          "learnerActions": [
-            "Find qualified generalisations in published texts from your field",
-            "Sort them by type of qualification",
-            "Choose two patterns to use in your next draft"
-          ],
-          "intendedInsight": "Expert writers qualify generalisations in several distinct ways.",
-          "rationale": "Salager-Meyer's taxonomy distinguishes approximators of quantity, frequency, degree and time, providing a ready classification for analysis.",
-          "citations": [
-            "salagermeyer1994"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "'Since the dawn of time, humans have always…'",
-          "kind": "prior-schooling",
-          "revealedBy": "Dramatic, unbounded openings modelled on school or test-preparation essays.",
-          "response": "Show discipline-appropriate openings that begin with a bounded claim or specific context; explain why markers penalise unsupported sweep.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "'Most of people tend to using…'",
-          "kind": "developmental",
-          "revealedBy": "Errors with quantifier + of, tend to + infinitive, and the majority of + verb agreement.",
-          "response": "Focused form practice on the grammar of quantifiers and tendency verbs, using the learner's own sentences.",
-          "reteachPrerequisiteId": "grm.determiners-quantifiers"
-        },
-        {
-          "pattern": "Qualifying even uncontroversial facts after instruction.",
-          "kind": "overgeneralisation",
-          "revealedBy": "'In most cases, water tends to boil at 100°C at sea level.'",
-          "response": "Distinguish established facts and definitions from empirical generalisations, and qualify only the latter.",
-          "reteachPrerequisiteId": "sta.hedging"
-        }
-      ],
-      "diagnostic": {
-        "task": "The learner rewrites 'Students today cannot concentrate because of smartphones' as a defensible claim.",
-        "strongResponse": "Bounds the population and the claim (many undergraduate students report…; heavy smartphone use has been associated with…) and avoids an unsupported causal claim.",
-        "partialResponse": "Adds 'may' or 'some' but keeps the causal claim or the unbounded population.",
-        "gapResponse": "Leaves the claim unchanged or intensifies it."
-      },
-      "contextNotes": "At foundation level, this is a priority for essay openings and topic sentences. Pre-sessional courses link it to evidence and sources. Undergraduate in-sessional support focuses on generalisations in students' own assignments.",
-      "citations": [
-        "salagermeyer1994",
-        "hyland1998hedging",
-        "hinkel2004"
-      ],
-      "reviewNotes": []
-    },
-    {
       "topicId": "sta.averral-attribution",
       "summary": "The distinction between averred and attributed propositions, introduced by Sinclair and developed by Hunston in Hunston and Thompson's collection, underpins both critical reading and transparent source use: readers assume unattributed statements are the writer's own. Thompson and Ye show how the choice of reporting verb signals whether the writer accepts an attributed proposition, and Hyland documents how disciplines differ in attribution practices. Teach the concept explicitly before reporting-verb lists, using colour-coding of authentic and student texts.",
       "activities": [
@@ -5181,7 +4969,7 @@
           "kind": "L1-transfer",
           "revealedBy": "Double marking of concession across both clauses.",
           "response": "Writers whose other languages pair concessive markers across clauses need to see that English marks one clause only; practise both English options with the same content.",
-          "reteachPrerequisiteId": "coh.connector-precision"
+          "reteachPrerequisiteId": "coh.linking-adverbials"
         },
         {
           "pattern": "'If I mention the other side, my argument will look weak.'",

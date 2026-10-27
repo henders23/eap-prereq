@@ -241,7 +241,7 @@ macintosh2007 | article | MacIntosh-Murray, A. (2007). Poster presentations as a
 derwingmunro2015 | book | Derwing, T. M., & Munro, M. J. (2015). *Pronunciation fundamentals: Evidence-based perspectives for L2 teaching and research*. John Benjamins. |
 munroderwing1995 | article | Munro, M. J., & Derwing, T. M. (1995). Foreign accent, comprehensibility, and intelligibility in the speech of second language learners. *Language Learning, 45*(1), 73–97. | 10.1111/j.1467-1770.1995.tb00963.x
 levis2005 | article | Levis, J. M. (2005). Changing contexts and shifting paradigms in pronunciation teaching. *TESOL Quarterly, 39*(3), 369–377. | 10.2307/3588485
-jenkins2000 | book | Jenkins, J. (2000). *The phonology of English as an international language*. Oxford University Press. |
+jenkins2000 | book | Jenkins, J. (2000). *The phonology of English as an international language: New models, new norms, new goals*. Oxford University Press. | 
 field2005 | article | Field, J. (2005). Intelligibility and the listener: The role of lexical stress. *TESOL Quarterly, 39*(3), 399–423. | 10.2307/3588487
 hahn2004 | article | Hahn, L. D. (2004). Primary stress and intelligibility: Research to motivate the teaching of suprasegmentals. *TESOL Quarterly, 38*(2), 201–223. | 10.2307/3588378
 pickering2001 | article | Pickering, L. (2001). The role of tone choice in improving ITA communication in the classroom. *TESOL Quarterly, 35*(2), 233–255. | 10.2307/3587647
@@ -269,7 +269,7 @@ hyland2003writing | book | Hyland, K. (2003). *Second language writing*. Cambrid
 ellisyuan2004 | article | Ellis, R., & Yuan, F. (2004). The effects of planning on fluency, complexity, and accuracy in second language narrative writing. *Studies in Second Language Acquisition, 26*(1), 59–84. | 10.1017/S0272263104261034
 hylandhyland2019 | book | Hyland, K., & Hyland, F. (Eds.). (2019). *Feedback in second language writing: Contexts and issues* (2nd ed.). Cambridge University Press. |
 truscott1996 | article | Truscott, J. (1996). The case against grammar correction in L2 writing classes. *Language Learning, 46*(2), 327–369. | 10.1111/j.1467-1770.1996.tb01238.x
-ferris1999 | article | Ferris, D. (1999). The case for grammar correction in L2 writing classes: A response to Truscott (1996). *Journal of Second Language Writing, 8*(1), 1–11. | 10.1016/S1060-3743(99)80110-6
+ferris1999 | article | Ferris, D. (1999). The case for grammar correction in L2 writing classes: A response to Truscott (1996). *Journal of Second Language Writing, 8*(1), 1–10. | 10.1016/S1060-3743(99)80110-6
 bitchenerferris2012 | book | Bitchener, J., & Ferris, D. R. (2012). *Written corrective feedback in second language acquisition and writing*. Routledge. |
 kanghan2015 | article | Kang, E., & Han, Z. (2015). The efficacy of written corrective feedback in improving L2 written accuracy: A meta-analysis. *The Modern Language Journal, 99*(1), 1–18. | 10.1111/modl.12189
 carlessboud2018 | article | Carless, D., & Boud, D. (2018). The development of student feedback literacy: Enabling uptake of feedback. *Assessment & Evaluation in Higher Education, 43*(8), 1315–1325. | 10.1080/02602938.2018.1463354
@@ -298,7 +298,7 @@ facione1990 | report | Facione, P. A. (1990). *Critical thinking: A statement of
 moore2013 | article | Moore, T. (2013). Critical thinking: Seven definitions in search of a concept. *Studies in Higher Education, 38*(4), 506–522. | 10.1080/03075079.2011.586995
 atkinson1997 | article | Atkinson, D. (1997). A critical approach to critical thinking in TESOL. *TESOL Quarterly, 31*(1), 71–94. | 10.2307/3587975
 hoferpintrich1997 | article | Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning. *Review of Educational Research, 67*(1), 88–140. | 10.3102/00346543067001088
-perry1970 | book | Perry, W. G. (1970). *Forms of intellectual and ethical development in the college years: A scheme*. Holt, Rinehart and Winston. |
+perry1970 | book | Perry, W. G., Jr. (1970). *Forms of intellectual and ethical development in the college years: A scheme*. Holt, Rinehart and Winston. | 
 kahneman2011 | book | Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux. |
 nickerson1998 | article | Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology, 2*(2), 175–220. | 10.1037/1089-2680.2.2.175
 andersonkrathwohl2001 | book | Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman. |

@@ -12,8 +12,36 @@ export const SRC = resolve(ROOT, 'src');
 export const DATA = resolve(ROOT, 'data');
 
 export const TYPES = ['CONCEPTUAL', 'PROCEDURAL', 'LINGUISTIC', 'GENRE', 'STRATEGIC', 'SOCIOPRAGMATIC'];
-export const CEFR = ['A2', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
-export const STAGES = ['foundation', 'pre-sessional', 'in-sessional-ug', 'in-sessional-pgt', 'pgr'];
+export const CEFR = ['A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
+export const STAGES = ['foundation', 'pre-sessional-ug', 'pre-sessional-pg', 'in-sessional-ug', 'in-sessional-pgt', 'pgr'];
+export const STAGE_ROLES = ['core', 'develop', 'revisit'];
+/** Typical entry band per stage, used to flag 'core' roles for topics learners should already control. */
+export const STAGE_ENTRY_BAND = {
+  foundation: 'A2+',
+  'pre-sessional-ug': 'B1',
+  'pre-sessional-pg': 'B1+',
+  'in-sessional-ug': 'B2',
+  'in-sessional-pgt': 'B2+',
+  pgr: 'C1',
+};
+export const AUDIENCES = ['learner', 'teacher', 'both'];
+export const DISCIPLINES = [
+  'sciences',
+  'engineering',
+  'computing',
+  'mathematics-statistics',
+  'health-medicine',
+  'business-management',
+  'finance-accounting',
+  'economics',
+  'law',
+  'social-sciences',
+  'psychology',
+  'education',
+  'humanities',
+  'arts-design',
+  'media-communication',
+];
 export const SPECIFICITY = ['EGAP', 'ESAP'];
 export const CONTRIBUTIONS = ['core', 'component', 'related'];
 export const DIFFICULTY_KINDS = [
@@ -24,6 +52,7 @@ export const DIFFICULTY_KINDS = [
   'overgeneralisation',
   'performance',
   'affective',
+  'institutional',
 ];
 export const ID_PATTERN = /^[a-z]{3}\.[a-z0-9]+(?:-[a-z0-9]+)*$/;
 

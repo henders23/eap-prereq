@@ -1,0 +1,124 @@
+{
+  "mergedInto": "coh.linking-adverbials",
+  "finding": "R1-15",
+  "topic": {
+    "id": "coh.connector-precision",
+    "type": "LINGUISTIC",
+    "strand": "Academic Discourse",
+    "domain": "Cohesion & Coherence",
+    "name": "Precise logical relations",
+    "description": "Choose between connectors with related but distinct meanings and grammar — however, whereas, although, in contrast, on the contrary, nevertheless; therefore, thus, hence, consequently — according to the exact relation (contrast, concession or correction; inference or consequence) and the clause structure each requires. Precision here distinguishes argument that is clear from text that merely sounds connected.",
+    "cefrStart": "B2",
+    "cefrEnd": "C1",
+    "stages": [
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Distinguishes contrast (whereas, in contrast), concession (although, nevertheless) and correction (on the contrary) and uses each appropriately",
+      "Constructs and punctuates subordinate clauses (although, whereas, while) and linking adverbials (however, nevertheless) correctly",
+      "Chooses among therefore, thus, hence and consequently according to whether the relation is inference or real-world consequence and according to register",
+      "Explains how replacing one connector with another in a sample sentence changes the claim made",
+      "Removes connectors that assert a relation the content does not support, such as 'therefore' after unrelated premises"
+    ],
+    "assessmentPrompt": "Give five sentence pairs with the connector gapped, including one where 'on the contrary' and 'in contrast' compete and one where 'although' requires combining the pair into a single sentence. Ask for the best choice and a one-line justification. Check that the justification names the relation rather than 'it sounds right', and that subordinators are integrated grammatically.",
+    "citations": [
+      "celcemurcia1999",
+      "biber1999lgswe",
+      "granger1998"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:prag.coherence-cohesion",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "cefr-cv:prag.propositional-precision",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "related"
+      },
+      {
+        "key": "ielts:wr.coherence-cohesion",
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "coh.connector-precision",
+    "summary": "Celce-Murcia and Larsen-Freeman treat logical connectors by both semantic class and grammatical type, which is the combination learners need: what relation is meant, and what syntax follows. Biber et al. provide frequency and positional evidence, and learner-corpus studies show that common errors involve mismatch rather than absence of connectors. Teach through minimal pairs that make the change in claim visible, and through the consequences of an unjustified 'therefore' for the argument.",
+    "activities": [
+      {
+        "title": "Minimal pairs",
+        "learnerActions": [
+          "Read two versions of a sentence pair that differ only in the connector (however versus on the contrary; whereas versus although)",
+          "Paraphrase the claim each version makes",
+          "Decide which version the writer most plausibly intended given the surrounding text"
+        ],
+        "intendedInsight": "Connectors change propositions, not just style.",
+        "rationale": "Contrasting forms in controlled pairs focuses attention on meaning differences that are easily blurred in lists.",
+        "citations": [
+          "celcemurcia1999"
+        ]
+      },
+      {
+        "title": "Concordance check: therefore, thus, hence",
+        "learnerActions": [
+          "Examine prepared concordance lines from an academic corpus for therefore, thus and hence",
+          "Record typical positions and what follows each (for example thus + -ing clause)",
+          "Rewrite three of your own sentences using the pattern you found"
+        ],
+        "intendedInsight": "Near-synonymous resultative connectors have distinct grammatical and positional preferences.",
+        "rationale": "Corpus consultation lets learners discover usage patterns directly; meta-analytic evidence suggests data-driven learning can be effective, though effects vary with design.",
+        "citations": [
+          "biber1999lgswe",
+          "boultoncobb2017"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "'Although the sample was small, but the results were clear.'",
+        "kind": "L1-transfer",
+        "revealedBy": "Double marking of concession with although…but or though…yet.",
+        "response": "Writers whose other languages mark both clauses of a concessive construction need to see that English marks only one; contrast the two English options with the same content.",
+        "reteachPrerequisiteId": "grm.subordination"
+      },
+      {
+        "pattern": "'On the contrary' used for simple contrast between two entities.",
+        "kind": "overgeneralisation",
+        "revealedBy": "'X is expensive. On the contrary, Y is cheap.'",
+        "response": "Teach 'on the contrary' as rejecting a preceding (often negated) proposition, and 'in contrast' for comparing two items.",
+        "reteachPrerequisiteId": "coh.linking-adverbials"
+      },
+      {
+        "pattern": "'Therefore' introducing a conclusion the preceding sentences do not support.",
+        "kind": "conceptual",
+        "revealedBy": "A list of facts followed by 'Therefore,…' with no warrant connecting them to the claim.",
+        "response": "Ask 'why does this follow?' and have the learner write the missing step; treat the connector as a promise the content must keep.",
+        "reteachPrerequisiteId": null
+      }
+    ],
+    "diagnostic": {
+      "task": "The learner explains the difference between 'Sales fell. However, profits rose.' and 'Sales did not fall. On the contrary, they rose.' and writes one sentence with 'whereas' comparing two methods.",
+      "strongResponse": "Identifies contrast versus correction of a negated claim, and produces a well-formed 'whereas' sentence comparing two parallel items.",
+      "partialResponse": "Senses a difference but cannot name it, or misuses 'whereas' as a sentence-initial adverbial.",
+      "gapResponse": "Treats the connectors as interchangeable."
+    },
+    "contextNotes": "On pre-sessional courses this topic is best integrated with argument writing and feedback on learners' own texts. Undergraduate and taught postgraduate in-sessional support can tie precision to disciplinary reasoning, for example inference in quantitative fields or concession in humanities argument.",
+    "citations": [
+      "celcemurcia1999",
+      "biber1999lgswe",
+      "granger1998"
+    ],
+    "reviewNotes": []
+  }
+}

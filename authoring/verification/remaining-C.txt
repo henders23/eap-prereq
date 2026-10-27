@@ -1,0 +1,90 @@
+canagarajah2002 | web-verified | Univ. of Pittsburgh Press 2002 confirmed (publisher page, MUSE, library records).
+canagarajah2013 | web-verified | Routledge 2013 confirmed (Routledge page, catalogs).
+jenkins2014 | web-verified | Routledge 2014 confirmed (Routledge page, library records; paperback released Aug 2013 but dated 2014).
+garciawei2014 | web-verified | Palgrave Macmillan (Pivot) 2014 confirmed; book DOI 10.1057/9781137385765 exists but not required.
+morita2004 | web-verified | TESOL Q 38(4) 573-603 confirmed.
+morita2000 | web-verified | TESOL Q 34(2) 279-310, DOI 10.2307/3587953 confirmed.
+duff2010 | web-verified | ARAL 30, 169-192, DOI 10.1017/S0267190510000048 confirmed.
+kaplan1966 | web-verified | Language Learning 16(1-2) 1-20, DOI tb00804.x confirmed.
+connor1996 | web-verified | CUP 1996 (Cambridge Applied Linguistics) confirmed.
+connor2004 | web-verified | JEAP 3(4) 291-304, DOI 10.1016/j.jeap.2004.07.003 confirmed.
+kubotalehner2004 | web-verified | JSLW 13(1) 7-27, DOI 10.1016/j.jslw.2004.04.003 confirmed.
+holliday2006 | web-verified | ELT J 60(4) 385-387, DOI 10.1093/elt/ccl030 confirmed.
+zhou2008 | web-verified | Stud High Educ 33(1) 63-75, DOI confirmed; four authors confirmed.
+becher2001 | web-verified | 2nd ed. 2001, SRHE & Open University Press confirmed.
+biglan1973 | web-verified | J Appl Psych 57(3) 195-203, DOI 10.1037/h0034701 confirmed.
+maton2013 | web-verified | Ling & Educ 24(1) 8-22 confirmed.
+meyerland2005 | web-verified | Higher Educ 49(3) 373-388, DOI 10.1007/s10734-004-6779-5 confirmed.
+dafouzsmit2016 | web-verified | Applied Linguistics 37(3) 397-415 confirmed (ROAD-MAPPING article; first published online 2014, DOI amu034).
+macaro2018emi | web-verified | Lang Teach 51(1) 36-76, DOI 10.1017/S0261444817000350 confirmed.
+swales1990 | web-verified | CUP 1990 confirmed.
+swales2004 | web-verified | CUP 2004 confirmed.
+swalesfeak2012 | web-verified | 3rd ed., Univ. of Michigan Press 2012 confirmed.
+feakswales2009litrev | web-verified | Univ. of Michigan Press 2009 confirmed (vol. 2 of revised English in Today's Research World).
+swalesfeak2009abstracts | web-verified | Univ. of Michigan Press 2009 confirmed (vol. 1).
+hyon1996 | web-verified | TESOL Q 30(4) 693-722, DOI 10.2307/3587930 confirmed.
+johns1997 | web-verified | CUP 1997 confirmed.
+tardy2009 | web-verified | Parlor Press 2009 confirmed.
+cheng2018 | web-verified | Univ. of Michigan Press 2018 confirmed.
+yasuda2011 | web-verified | JSLW 20(2) 111-133 confirmed.
+nesigardner2012 | web-verified | CUP 2012 confirmed (authored monograph).
+gardnernesi2013 | web-verified | Applied Linguistics 34(1) 25-52, DOI 10.1093/applin/ams024 confirmed.
+bhatia1993 | web-verified | Longman 1993 confirmed.
+rosemartin2012 | web-verified | Equinox 2012 confirmed (publisher styles title 'Learning to Write/Reading to Learn'; comma form acceptable).
+martinrose2008 | web-verified | Equinox 2008 confirmed.
+trimble1985 | web-verified | CUP 1985 confirmed.
+mohan1986 | web-verified | Addison-Wesley 1986 confirmed.
+hoey1983 | web-verified | George Allen & Unwin 1983 confirmed.
+hoey2001 | web-verified | Routledge 2001 confirmed.
+hallidayhasan1976 | web-verified | Longman 1976 confirmed.
+danes1974 | web-verified | Chapter pp. 106-128 in Danes (Ed.), Academia 1974 confirmed (also distributed by Mouton).
+halliday1989 | web-verified | 2nd ed., OUP 1989 confirmed.
+hallidaymartin1993 | web-verified | Falmer Press 1993 confirmed.
+hallidaymatthiessen2014 | web-verified | 4th ed., Routledge 2014 confirmed.
+thompson2014 | web-verified | 3rd ed., Routledge 2014 confirmed.
+schleppegrell2004 | web-verified | Lawrence Erlbaum 2004 confirmed.
+crossleymcnamara2012 | web-verified | J Res Reading 35(2) 115-135, DOI confirmed (online 2010).
+kressvanleeuwen2006 | web-verified | 2nd ed., Routledge 2006 confirmed.
+biber2006 | web-verified | John Benjamins 2006 confirmed.
+biber1999lgswe | web-verified | Longman 1999, five authors confirmed.
+bibergray2010 | web-verified | JEAP 9(1) 2-20 confirmed.
+bibergray2016 | web-verified | CUP 2016 confirmed.
+biber2011complexity | web-verified | TESOL Q 45(1) 5-35, DOI 10.5054/tq.2011.244483 confirmed.
+biberconrad2019 | web-verified | 2nd ed., CUP 2019 confirmed.
+biber2004bundles | web-verified | Applied Linguistics 25(3) 371-405, DOI 10.1093/applin/25.3.371 confirmed.
+lu2011 | web-verified | TESOL Q 45(1) 36-62, DOI 10.5054/tq.2011.240859 confirmed.
+celcemurcia1999 | web-verified | 2nd ed., Heinle & Heinle 1999 confirmed (title page adds 'with Howard Williams'; optional).
+master1997 | web-verified | System 25(2) 215-232 confirmed (author's publication list).
+tarone1998passive | web-verified | ESP 17(1) 113-132 (1998 reprint/extension of 1981 ESP Journal paper) confirmed; one index lists only first author, but four-author byline is the standard citation.
+shaw1992 | web-verified | Applied Linguistics 13(3) 302-319 confirmed via multiple reference lists.
+hinkel2002 | web-verified | Lawrence Erlbaum 2002 confirmed.
+hinkel2004 | web-verified | Lawrence Erlbaum 2004 confirmed.
+hylandjiang2017 | web-verified | ESP 45, 40-51 confirmed.
+hunston2002 | web-verified | CUP 2002 confirmed.
+granger1998 | web-verified | Longman 1998 (ed.) confirmed.
+boultoncobb2017 | web-verified | Language Learning 67(2) 348-393, DOI 10.1111/lang.12224 confirmed.
+yoonhirvela2004 | web-verified | JSLW 13(4) 257-283 confirmed.
+charles2007 | web-verified | JEAP 6(4) 289-302, DOI 10.1016/j.jeap.2007.09.009 confirmed.
+apa2020 | web-verified | 7th ed. 2020 confirmed (publisher = author, omitted per APA).
+mla2021 | web-verified | 9th ed. 2021 confirmed.
+chicago2024 | web-verified | 18th ed. 2024 confirmed.
+mokhtari2002 | web-verified | J Educ Psych 94(2) 249-259, DOI 10.1037/0022-0663.94.2.249 confirmed.
+sheorey2001 | web-verified | System 29(4) 431-449, DOI 10.1016/S0346-251X(01)00039-2 confirmed.
+palincsarbrown1984 | web-verified | Cognition & Instruction 1(2) 117-175 confirmed.
+rayner2016 | web-verified | PSPI 17(1) 4-34 confirmed, five authors.
+daybamford1998 | web-verified | CUP 1998 confirmed.
+beglar2012 | doi-doubtful | Work confirmed via citing literature (Beglar, Hunt & Kite 2012, Language Learning); vol 62(3) 665-703 and DOI not directly seen in search results.
+nation2009readingwriting | web-verified | Routledge 2009 confirmed.
+wallacewray2016 | web-verified | 3rd ed., SAGE 2016 confirmed.
+field2008 | web-verified | CUP 2008 confirmed.
+flowerdew1994 | web-verified | CUP 1994 (ed.) confirmed.
+flowerdewmiller2005 | web-verified | CUP 2005 confirmed.
+vandergriftgoh2012 | web-verified | Routledge 2012 confirmed.
+lynch2011 | web-verified | JEAP 10(2) 79-88 confirmed.
+rost2011 | web-verified | 2nd ed. 2011, Pearson Education (Longman) confirmed.
+chaudronrichards1986 | web-verified | Applied Linguistics 7(2) 113-127 confirmed.
+goh2000 | web-verified | System 28(1) 55-75, DOI 10.1016/S0346-251X(99)00060-3 confirmed.
+graham2006 | web-verified | System 34(2) 165-182, DOI 10.1016/j.system.2005.11.001 confirmed.
+griffiths1992 | web-verified | TESOL Q 26(2) 385-390, DOI 10.2307/3587015 confirmed.
+major2002 | web-verified | TESOL Q 36(2) 173-190, DOI 10.2307/3588329 confirmed.
+kiewra1985 | web-verified | Educ Psychologist 20(1) 23-32, DOI 10.1207/s15326985ep2001_4 confirmed.

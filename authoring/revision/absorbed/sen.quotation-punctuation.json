@@ -1,0 +1,115 @@
+{
+  "mergedInto": "sen.punctuation-mechanics",
+  "finding": "R1-19",
+  "topic": {
+    "id": "sen.quotation-punctuation",
+    "type": "LINGUISTIC",
+    "strand": "Academic Language",
+    "domain": "Sentence Construction & Punctuation",
+    "name": "Punctuating quotations and brackets",
+    "description": "Punctuate quotations accurately: single or double quotation marks and nested quotations according to style, placement of commas, full stops and citations relative to closing marks, block quotations, ellipsis for omissions, square brackets for insertions and changes, [sic] for errors in the original, and parentheses for citations and asides. Accurate quotation punctuation is part of representing sources faithfully as well as a formatting requirement.",
+    "cefrStart": "B1",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Uses ellipsis to mark omissions without changing the meaning of the source",
+      "Uses square brackets to make a quotation fit the grammar of the writer's sentence and to mark any change",
+      "Places the citation and final punctuation correctly for run-in and block quotations in the target style",
+      "Applies one quotation-mark convention consistently, including for quotations within quotations",
+      "Uses [sic] sparingly and only for errors in the original"
+    ],
+    "assessmentPrompt": "Give a 60-word source passage and ask the learner to quote a part of it in their own sentence, omitting a phrase and changing one word to fit their grammar, with a citation in the specified style. Check ellipsis and bracket use, fidelity to meaning and placement of citation and full stop.",
+    "citations": [
+      "apa2020",
+      "mla2021",
+      "chicago2024",
+      "pecorari2013"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:ling.orthographic-control",
+        "levels": [
+          "B2"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "cefr-cv:med.text.relaying-information",
+        "levels": [
+          "B2"
+        ],
+        "contribution": "related"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "sen.quotation-punctuation",
+    "summary": "Punctuating quotations is part of faithful source use: ellipsis and square brackets allow writers to integrate quotations grammatically, but they must not distort the source's meaning, a concern central to discussions of good source use (Pecorari, 2013). Conventions vary by style: US styles such as APA and Chicago use double quotation marks and place commas and full stops inside closing marks, while many British house styles use single marks and place punctuation according to sense. Teach one style thoroughly and the principle of consistency.",
+    "activities": [
+      {
+        "title": "Integrate without distorting",
+        "learnerActions": [
+          "Quote part of a 60-word source passage in their own sentence",
+          "Use an ellipsis to omit a phrase and square brackets to change one word to fit their grammar",
+          "Ask a partner to compare with the original and confirm that the meaning has not changed"
+        ],
+        "intendedInsight": "Ellipsis and brackets are tools for integration that must preserve the source's meaning.",
+        "rationale": "Accurate representation of sources is central to good source use (Pecorari, 2013), and style guides specify how changes are marked (American Psychological Association, 2020).",
+        "citations": [
+          "pecorari2013",
+          "apa2020"
+        ]
+      },
+      {
+        "title": "Style comparison",
+        "learnerActions": [
+          "Compare the same quotation formatted in APA, MLA and a British house style",
+          "Note differences in quotation marks, punctuation placement and citation position",
+          "Choose the style required for their course and check a draft against it"
+        ],
+        "intendedInsight": "Quotation conventions vary by style; consistency within a text is what matters.",
+        "rationale": "Comparing style manuals makes the variation explicit (Modern Language Association of America, 2021; University of Chicago Press, 2024).",
+        "citations": [
+          "mla2021",
+          "chicago2024"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "I removed some words so the quotation supports my point better.",
+        "kind": "conceptual",
+        "revealedBy": "Ellipses that remove qualifications or negations from the source.",
+        "response": "Discuss fidelity to meaning as an integrity issue and check quotations against originals.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "The citation goes after the full stop. / The full stop goes inside the quotation marks always.",
+        "kind": "overgeneralisation",
+        "revealedBy": "Citation and full-stop placement inconsistent with the target style, or a rule from one style applied in another.",
+        "response": "Teach the target style's placement for run-in and block quotations with models.",
+        "reteachPrerequisiteId": "cit.author-date-in-text"
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask the learner to quote part of a short passage, omitting a phrase and changing one word, with a citation in the specified style.",
+      "strongResponse": "Correct ellipsis and brackets, faithful meaning, and correct citation and full-stop placement.",
+      "partialResponse": "Faithful meaning but one formatting error, or correct formatting but an omission that slightly shifts meaning.",
+      "gapResponse": "Unmarked changes to the quotation or several formatting errors."
+    },
+    "contextNotes": "Foundation learners focus on quotation marks and citation placement. Pre-sessional and in-sessional learners focus on ellipsis, brackets and block quotations in source-based writing.",
+    "citations": [
+      "apa2020",
+      "mla2021",
+      "chicago2024",
+      "pecorari2013"
+    ],
+    "reviewNotes": []
+  }
+}

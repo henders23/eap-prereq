@@ -11,11 +11,14 @@
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import {
+  AUDIENCES,
   CEFR,
   CONTRIBUTIONS,
   DIFFICULTY_KINDS,
+  DISCIPLINES,
   SPECIFICITY,
   STAGES,
+  STAGE_ROLES,
   TYPES,
   cefrIndex,
   parseFrameworks,
@@ -70,9 +73,18 @@ export function checkStrand(data, { skeleton, refKeys, frameworkKeys }) {
     if (!nonEmpty(t.description)) err(`${where}: empty description`);
     if (!CEFR.includes(t.cefrStart) || !CEFR.includes(t.cefrEnd)) err(`${where}: cefrStart/cefrEnd must be one of ${CEFR.join(', ')}`);
     else if (cefrIndex(t.cefrStart) > cefrIndex(t.cefrEnd)) err(`${where}: cefrStart after cefrEnd`);
-    if (!Array.isArray(t.stages) || t.stages.length === 0) err(`${where}: stages empty`);
-    else for (const st of t.stages) if (!STAGES.includes(st)) err(`${where}: unknown stage ${st}`);
+    if (!CEFR.includes(t.coreBand)) err(`${where}: coreBand must be one of ${CEFR.join(', ')}`);
+    else if (cefrIndex(t.coreBand) < cefrIndex(t.cefrStart) || cefrIndex(t.coreBand) > cefrIndex(t.cefrEnd)) err(`${where}: coreBand outside cefrStart–cefrEnd`);
+    if (!t.stageRoles || typeof t.stageRoles !== 'object' || Object.keys(t.stageRoles).length === 0) err(`${where}: stageRoles empty`);
+    else for (const [st, role] of Object.entries(t.stageRoles)) {
+      if (!STAGES.includes(st)) err(`${where}: unknown stage ${st}`);
+      if (!STAGE_ROLES.includes(role)) err(`${where}: stage ${st} role must be one of ${STAGE_ROLES.join('/')}`);
+    }
     if (!SPECIFICITY.includes(t.specificity)) err(`${where}: specificity must be EGAP or ESAP`);
+    if (!AUDIENCES.includes(t.audience)) err(`${where}: audience must be one of ${AUDIENCES.join('/')}`);
+    if (!Array.isArray(t.disciplines)) err(`${where}: disciplines must be an array (empty for general topics)`);
+    else for (const d of t.disciplines) if (!DISCIPLINES.includes(d)) err(`${where}: unknown discipline ${d}`);
+    if (t.specificity === 'ESAP' && !t.disciplines?.length) err(`${where}: ESAP topics need at least one discipline`);
     if (!Array.isArray(t.masteryEvidence) || t.masteryEvidence.length < 3 || t.masteryEvidence.length > 6) err(`${where}: masteryEvidence needs 3–6 items`);
     if (!nonEmpty(t.assessmentPrompt)) err(`${where}: empty assessmentPrompt`);
     if (!Array.isArray(t.citations) || t.citations.length < 1) err(`${where}: needs at least one citation`);
@@ -82,7 +94,7 @@ export function checkStrand(data, { skeleton, refKeys, frameworkKeys }) {
       if (!CONTRIBUTIONS.includes(f.contribution)) err(`${where}: framework ${f.key} contribution must be one of ${CONTRIBUTIONS.join('/')}`);
       for (const l of f.levels ?? []) if (!CEFR.includes(l)) err(`${where}: framework ${f.key} bad level ${l}`);
     }
-    const allowed = new Set(['id', 'type', 'strand', 'domain', 'name', 'description', 'cefrStart', 'cefrEnd', 'stages', 'specificity', 'masteryEvidence', 'assessmentPrompt', 'citations', 'frameworks']);
+    const allowed = new Set(['id', 'type', 'strand', 'domain', 'name', 'description', 'cefrStart', 'cefrEnd', 'coreBand', 'stageRoles', 'specificity', 'disciplines', 'audience', 'masteryEvidence', 'assessmentPrompt', 'citations', 'frameworks']);
     for (const k of Object.keys(t)) if (!allowed.has(k)) err(`${where}: unexpected field ${k}`);
   }
   for (const s of expected) if (!seen.has(s.id)) err(`missing topic ${s.id}`);

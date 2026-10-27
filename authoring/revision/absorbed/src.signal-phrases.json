@@ -1,0 +1,92 @@
+{
+  "mergedInto": "src.reporting-verbs",
+  "finding": "R1-37",
+  "topic": {
+    "id": "src.signal-phrases",
+    "type": "LINGUISTIC",
+    "strand": "Sources & Academic Integrity",
+    "domain": "Summarising, Paraphrasing & Quoting",
+    "name": "Signal phrases and attribution",
+    "description": "Use attribution frames ('according to X', 'X argues that', 'as X notes', 'in X's view') to introduce source material and to mark where attributed content begins and continues, so that readers can tell which propositions belong to a source. Signal phrases are the first resource learners need for transparent source use and underpin quotation, paraphrase and summary.",
+    "cefrStart": "B1",
+    "cefrEnd": "B2",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Introduces source material with an appropriate attribution frame",
+      "Uses grammatically accurate frames, avoiding blends such as 'According to X, he argues that'",
+      "Maintains attribution across several sentences of source content with reference devices (the authors, this study, they)",
+      "Distinguishes frames that are neutral or distancing ('according to') from frames that signal agreement ('as X shows')"
+    ],
+    "assessmentPrompt": "Give the learner a three-sentence summary of a source in which only the first sentence is attributed. Ask them to revise it so that a reader can tell all three sentences come from the source. Check for continued attribution, such as 'The authors further note…', and grammatically accurate frames.",
+    "citations": [
+      "hunstonthompson2000",
+      "pecorari2013"
+    ],
+    "frameworks": []
+  },
+  "guidance": {
+    "topicId": "src.signal-phrases",
+    "summary": "Hunston's distinction between averral and attribution explains why readers need signals: each proposition is either the writer's own or attributed to someone else, and readers rely on linguistic signals to tell which. Pecorari argues that good source use must be taught explicitly rather than assumed. Signal phrases are an early, high-yield resource: teach a small set of grammatically secure frames and, crucially, how to continue attribution across several sentences.",
+    "activities": [
+      {
+        "title": "Whose idea is it?",
+        "learnerActions": [
+          "Read a summary paragraph in which only the first sentence is attributed",
+          "Mark each sentence as 'source' or 'writer' and compare with a partner",
+          "Revise using continued attribution ('The authors further argue…', 'According to the same study…')"
+        ],
+        "intendedInsight": "Attribution must be maintained across sentences, not only at the start.",
+        "rationale": "The task turns the averral–attribution distinction into a practical reading and writing problem.",
+        "citations": [
+          "hunstonthompson2000"
+        ]
+      },
+      {
+        "title": "Frame toolkit",
+        "learnerActions": [
+          "Collect signal phrases from a model text",
+          "Sort them by grammatical pattern (according to + noun; X + verb + that-clause; as + X + verb)",
+          "Write one sentence with each pattern about a source you are using"
+        ],
+        "intendedInsight": "Signal phrases follow a few grammatical patterns that can be learned as units.",
+        "rationale": "Learning frames as patterns is intended to reduce the blending errors common at this stage (a practitioner proposal); Pecorari (2013) supports explicit teaching of source use, not this specific effect.",
+        "citations": [
+          "pecorari2013"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "According to Smith, he argues that…",
+        "kind": "developmental",
+        "revealedBy": "Double attribution and blended frames",
+        "response": "Contrast the two patterns and practise transforming one into the other; treat the blend as a stage in learning the patterns, not as carelessness.",
+        "reteachPrerequisiteId": "grm.reporting-structures"
+      },
+      {
+        "pattern": "After I cite once, the reader knows the rest is from the source.",
+        "kind": "conceptual",
+        "revealedBy": "Unclear attribution in later sentences of summaries",
+        "response": "Show that readers tend to assume unattributed sentences are the writer's own, and practise continuation devices.",
+        "reteachPrerequisiteId": "cit.when-to-cite"
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask the learner to write three sentences reporting one source's argument so that a reader can tell all three come from the source.",
+      "strongResponse": "Uses an initial frame and accurate continuation devices.",
+      "partialResponse": "Attributes only the first sentence, or uses a blended frame.",
+      "gapResponse": "Gives no attribution, or only a citation at the end."
+    },
+    "contextNotes": "Foundation and early pre-sessional learners should automate basic frames. Undergraduates need continued attribution across longer summaries and multi-source paragraphs.",
+    "citations": [
+      "hunstonthompson2000",
+      "pecorari2013"
+    ],
+    "reviewNotes": []
+  }
+}

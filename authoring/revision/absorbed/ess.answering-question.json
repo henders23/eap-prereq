@@ -1,0 +1,106 @@
+{
+  "mergedInto": "wpr.task-analysis",
+  "finding": "R1-13",
+  "topic": {
+    "id": "ess.answering-question",
+    "type": "PROCEDURAL",
+    "strand": "Academic Writing",
+    "domain": "Essay Construction",
+    "name": "Answering the question",
+    "description": "Keep every part of an essay relevant to the question as set—its command words, focus and limits—by checking the thesis, topic sentences and conclusion against the question and cutting or reframing material that does not contribute to the answer. Irrelevance and partial answers are among the reasons markers most often give for low marks.",
+    "cefrStart": "B1+",
+    "cefrEnd": "C1",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Checks each topic sentence against the question and explains how the paragraph contributes to the answer",
+      "Identifies material that is accurate but irrelevant and removes or reframes it",
+      "Addresses all parts of a multi-part question in proportion to their weight",
+      "Makes the link to the question explicit at key points without mechanically repeating the question's wording"
+    ],
+    "assessmentPrompt": "Give a question and a draft in which one body paragraph is on the general topic but does not address the question. Ask the learner to identify it and decide whether to cut or reframe it. Check that the reasoning refers to the question's command word and limits, not just to its topic.",
+    "citations": [
+      "wingate2012argument",
+      "leastreet1998"
+    ],
+    "frameworks": [
+      {
+        "key": "ielts:wr2.task-response",
+        "contribution": "core"
+      },
+      {
+        "key": "cefr-cv:prod.writ.reports-essays",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "ess.answering-question",
+    "summary": "Relevance is defined by the task, and tutors' comments about ‘answering the question’ are frequent but often opaque to students (Lea & Street, 1998). Wingate (2012) links relevance to argument: material is relevant when it advances the position the essay takes on the question. Teach checking routines based on the thesis and topic sentences, and show how the same content can be relevant or irrelevant depending on how it is framed.",
+    "activities": [
+      {
+        "title": "Relevance audit",
+        "learnerActions": [
+          "Write the question at the top of the draft",
+          "For each paragraph, write one line in the margin on how it helps answer the question",
+          "Decide to keep, reframe or cut each paragraph"
+        ],
+        "intendedInsight": "Every paragraph has to earn its place by advancing the answer.",
+        "rationale": "Makes tacit expectations about relevance explicit (Lea & Street, 1998).",
+        "citations": [
+          "leastreet1998"
+        ]
+      },
+      {
+        "title": "Reframe, don't remove",
+        "learnerActions": [
+          "Take a descriptive paragraph from a draft",
+          "Rewrite its first and last sentences so that it connects to the question",
+          "Decide whether the reframing works or the paragraph should go"
+        ],
+        "intendedInsight": "Relevance is often a matter of framing as well as content.",
+        "rationale": "Connects relevance with argument (Wingate, 2012).",
+        "citations": [
+          "wingate2012argument"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Writing about the topic rather than the question.",
+        "kind": "developmental",
+        "revealedBy": "Generic essays; marker comments such as ‘relevance?’.",
+        "response": "Use relevance audits and question-focused topic sentences. Do not tell learners to repeat the question's wording in every paragraph, which produces mechanical text without improving relevance.",
+        "reteachPrerequisiteId": "wpr.task-analysis"
+      },
+      {
+        "pattern": "Answering one part of a multi-part question at length and neglecting the other.",
+        "kind": "performance",
+        "revealedBy": "Unbalanced essays in which the evaluative part of the question receives a single paragraph.",
+        "response": "Word-budget each part of the question at the planning stage.",
+        "reteachPrerequisiteId": "wpr.task-analysis"
+      }
+    ],
+    "diagnostic": {
+      "task": "Give a question and three paragraphs on the same topic; ask which is most relevant and why.",
+      "strongResponse": "Judges relevance by contribution to the answer and suggests how to reframe the weaker paragraphs.",
+      "partialResponse": "Judges relevance by topic overlap with the question.",
+      "gapResponse": "Judges by length, number of sources or quality of English."
+    },
+    "contextNotes": "At foundation level the focus is on matching paragraphs to questions. In pre-sessional extended essays, drift from the question often increases as more sources are added. In-sessional learners face disciplinary questions with complex limits, and PGT students frequently set their own questions, which then have to be answered consistently.",
+    "citations": [
+      "wingate2012argument",
+      "leastreet1998"
+    ],
+    "reviewNotes": []
+  }
+}

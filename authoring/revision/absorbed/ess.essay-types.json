@@ -1,0 +1,105 @@
+{
+  "mergedInto": "ges.genre-families",
+  "finding": "R1-16",
+  "topic": {
+    "id": "ess.essay-types",
+    "type": "CONCEPTUAL",
+    "strand": "Academic Writing",
+    "domain": "Essay Construction",
+    "name": "Essay types",
+    "description": "Recognise the main types of essay set at university—argumentative (exposition), discussion, explanation and cause–effect, compare–contrast, problem–solution, and commentary or challenge essays—and how their purposes shape the thesis, organisation and conclusion. Types often blend, and labels vary across disciplines, courses and textbooks.",
+    "cefrStart": "B1+",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Identifies the essay type implied by a question and explains how it shapes the thesis and structure",
+      "Distinguishes discussion essays (weighing perspectives towards a judgement) from argumentative essays (defending a position from the outset)",
+      "Plans two essays of different types on the same topic",
+      "Recognises when a question combines types, for example explaining and then evaluating"
+    ],
+    "assessmentPrompt": "Give four questions on one topic with different command words and focuses. Ask the learner to identify the essay type each implies and sketch its structure. Check that they connect type to purpose and organisation rather than mapping command words mechanically to templates.",
+    "citations": [
+      "nesigardner2012",
+      "gardnernesi2013",
+      "mooremorton2005"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:prod.writ.reports-essays",
+        "levels": [
+          "B1",
+          "B2"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "ess.essay-types",
+    "summary": "Nesi and Gardner (2012) identify the essay as one of thirteen genre families in British university student writing, with subtypes including exposition, discussion, factorial and challenge essays (Gardner & Nesi, 2013). Moore and Morton (2005) show that test essays differ from university essays, notably in drawing on personal opinion rather than sources. Teach essay types as purposes rather than formulas, and make clear that labels in textbooks and course handbooks vary.",
+    "activities": [
+      {
+        "title": "Same topic, different type",
+        "learnerActions": [
+          "Read four questions on one topic",
+          "Identify the type and purpose implied by each",
+          "Write a thesis for each and compare how they differ"
+        ],
+        "intendedInsight": "The essay type determines what the thesis has to do.",
+        "rationale": "Holding the topic constant isolates the effect of purpose, using the genre-family categories of Gardner and Nesi (2013).",
+        "citations": [
+          "gardnernesi2013"
+        ]
+      },
+      {
+        "title": "Decode real questions",
+        "learnerActions": [
+          "Collect essay questions from target departments",
+          "Classify them using essay-family subtypes",
+          "Note questions that blend types and discuss how to plan for them"
+        ],
+        "intendedInsight": "Real questions often blend types; classification is a planning aid, not a rule.",
+        "rationale": "Authentic questions reveal disciplinary variation (Nesi & Gardner, 2012).",
+        "citations": [
+          "nesigardner2012"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "‘Discuss means present both sides without taking a view.’",
+        "kind": "overgeneralisation",
+        "revealedBy": "Balanced essays that end without a judgement.",
+        "response": "Show high-scoring discussion essays that weigh perspectives and reach a reasoned conclusion.",
+        "reteachPrerequisiteId": "voc.command-words"
+      },
+      {
+        "pattern": "Applying proficiency-test essay types to university questions.",
+        "kind": "prior-schooling",
+        "revealedBy": "Opinion essays based on personal experience with no sources.",
+        "response": "Compare test and university essays explicitly, drawing on Moore and Morton (2005), and discuss what each rewards.",
+        "reteachPrerequisiteId": null
+      }
+    ],
+    "diagnostic": {
+      "task": "Give three questions and ask the learner to name the essay type each implies and outline its structure in three lines.",
+      "strongResponse": "Types identified with reference to purpose; outlines differ appropriately, and any blended question is recognised.",
+      "partialResponse": "Types identified from command words, but outlines are nearly identical.",
+      "gapResponse": "Same five-paragraph outline offered for all three."
+    },
+    "contextNotes": "Foundation learners need the main types. Pre-sessional programmes should address unlearning test-essay habits. In-sessional learners meet disciplinary types such as legal essays (see dlw.legal-essays) and interpretive essays (see dhu.interpretive-argument).",
+    "citations": [
+      "nesigardner2012",
+      "gardnernesi2013",
+      "mooremorton2005"
+    ],
+    "reviewNotes": [
+      "Overlaps with the GES genre topics (for example ges.argumentative-essay, ges.discussion-essay); this topic provides the conceptual overview, and the genre topics cover production of each type."
+    ]
+  }
+}

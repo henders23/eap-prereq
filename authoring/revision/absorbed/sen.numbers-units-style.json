@@ -1,0 +1,115 @@
+{
+  "mergedInto": "num.number-expressions",
+  "finding": "R1-19",
+  "topic": {
+    "id": "sen.numbers-units-style",
+    "type": "LINGUISTIC",
+    "strand": "Academic Language",
+    "domain": "Sentence Construction & Punctuation",
+    "name": "Writing numbers, units and symbols in text",
+    "description": "Present numbers, units, percentages, ranges and symbols in running text according to a style guide: numerals versus words (thresholds differ between, for example, APA and Chicago), not opening a sentence with a numeral, spacing between number and unit symbol, consistent decimal and thousands separators, ranges with an en dash or 'from … to', and consistent use of % or 'per cent'. Consistency in these conventions is checked by markers and editors and affects readability of data-heavy texts.",
+    "cefrStart": "B1+",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Chooses numerals or words for numbers according to the specified style guide and applies the choice consistently",
+      "Rewrites sentences that would begin with a numeral",
+      "Writes units and symbols with correct spacing and form (5 kg, 25 °C) and states units on first use",
+      "Expresses ranges consistently (10–15 per cent or from 10 to 15 per cent) without mixing forms",
+      "Identifies inconsistencies in number style in a draft and corrects them"
+    ],
+    "assessmentPrompt": "Give a 120-word results paragraph with eight number-style inconsistencies (mixed numerals and words, a sentence-initial numeral, a mixed range, unit spacing) and name the target style guide. Ask the learner to correct them. Check consistency with the stated guide rather than with a single universal rule.",
+    "citations": [
+      "apa2020",
+      "bipm2019",
+      "chicago2024"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:ling.orthographic-control",
+        "levels": [
+          "B2"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "cefr-cv:med.text.explaining-data",
+        "levels": [
+          "B2"
+        ],
+        "contribution": "related"
+      },
+      {
+        "key": "ielts:wr1.task-achievement",
+        "contribution": "related"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "sen.numbers-units-style",
+    "summary": "Number style is governed by style guides that differ: APA generally uses numerals for 10 and above and words for zero to nine (with many exceptions), while Chicago in non-technical contexts spells out whole numbers up to one hundred (American Psychological Association, 2020; University of Chicago Press, 2024). The SI brochure specifies a space between a number and its unit symbol (Bureau International des Poids et Mesures, 2019), and some styles differ on whether '%' is spaced. Teach consistent application of the required style and a final number-style check.",
+    "activities": [
+      {
+        "title": "Number-style check",
+        "learnerActions": [
+          "Highlight every number, unit and range in a results paragraph of own writing",
+          "Check each against the required style guide",
+          "Correct inconsistencies and record the main rules in a style sheet"
+        ],
+        "intendedInsight": "Number conventions are style-specific and must be applied consistently.",
+        "rationale": "Style guides specify number conventions (American Psychological Association, 2020).",
+        "citations": [
+          "apa2020"
+        ]
+      },
+      {
+        "title": "Units and symbols",
+        "learnerActions": [
+          "Correct a paragraph with unit errors (5kg, 25 C, 10 Kms)",
+          "Check corrections against SI conventions",
+          "Apply the conventions to own data descriptions"
+        ],
+        "intendedInsight": "Units and symbols have standard forms.",
+        "rationale": "The SI brochure is the reference for unit symbols and spacing (Bureau International des Poids et Mesures, 2019).",
+        "citations": [
+          "bipm2019"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "45% of participants agreed. (at the start of a sentence)",
+        "kind": "developmental",
+        "revealedBy": "Sentence-initial numerals.",
+        "response": "Teach rephrasing (Of the participants, 45%…) or spelling out where the style guide requires.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "I use decimal commas and spaces as in my own country.",
+        "kind": "L1-transfer",
+        "revealedBy": "Decimal commas or thousands separators that differ from English-language conventions.",
+        "response": "Show the English-language conventions and the style guide's rule.",
+        "reteachPrerequisiteId": "num.number-expressions"
+      }
+    ],
+    "diagnostic": {
+      "task": "Give a 120-word results paragraph with eight number-style inconsistencies and a named style guide, and ask the learner to correct them.",
+      "strongResponse": "All inconsistencies corrected consistently with the named guide.",
+      "partialResponse": "Most corrected but one category missed.",
+      "gapResponse": "Few corrections or new inconsistencies."
+    },
+    "contextNotes": "Foundation learners focus on numerals versus words and sentence-initial numerals. Pre-sessional and in-sessional learners apply the required style to data-heavy reports and dissertations.",
+    "citations": [
+      "apa2020",
+      "bipm2019",
+      "chicago2024"
+    ],
+    "reviewNotes": []
+  }
+}

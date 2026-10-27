@@ -1,0 +1,106 @@
+{
+  "mergedInto": "sen.punctuation-mechanics",
+  "finding": "R1-19",
+  "topic": {
+    "id": "sen.capitalisation",
+    "type": "LINGUISTIC",
+    "strand": "Academic Language",
+    "domain": "Sentence Construction & Punctuation",
+    "name": "Capitalisation conventions",
+    "description": "Capitalise proper nouns and named entities, and use lower case for general concepts, disciplines and theories unless they derive from a name (psychology, constructivism, Marxism, Piaget's theory); apply the target style's rules for titles, headings and reference-list entries (title case versus sentence case), for the first word after a colon and for acronyms. Inconsistent capitalisation signals unedited text and can imply false proper-noun status for general concepts.",
+    "cefrStart": "B1",
+    "cefrEnd": "B2",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Capitalises proper nouns, named organisations and named models while keeping general concepts and disciplines in lower case",
+      "Applies sentence case or title case to headings and titles as the target style requires",
+      "Formats titles of works in a reference list according to the chosen style (for example sentence case for article titles in APA)",
+      "Keeps capitalisation of key terms consistent throughout a text",
+      "Avoids capitalising common nouns for emphasis"
+    ],
+    "assessmentPrompt": "Give a short text with six capitalisation decisions (a discipline name, a named theory, a general concept, a heading, an article title in a reference entry, a word after a colon) and specify the style guide. Ask the learner to correct and justify. Check whether choices follow the stated style consistently.",
+    "citations": [
+      "apa2020",
+      "chicago2024",
+      "mla2021"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:ling.orthographic-control",
+        "levels": [
+          "B1",
+          "B2"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "sen.capitalisation",
+    "summary": "Capitalisation in academic writing is partly rule-governed (proper nouns) and partly style-dependent (titles, headings, words after colons). Teach the proper-noun principle first, then show that style guides differ: APA style, for example, uses title case for headings and titles of works mentioned in text but sentence case for article and book titles in the reference list, whereas MLA uses title case in the works-cited list (American Psychological Association, 2020; Modern Language Association of America, 2021). The aim is consistent application of the required style.",
+    "activities": [
+      {
+        "title": "Proper noun or concept?",
+        "learnerActions": [
+          "Sort terms from their field into proper nouns, named theories derived from names, and general concepts or disciplines",
+          "Check uncertain cases in a style guide or a recent journal in their field",
+          "Correct capitalisation in a paragraph of own writing"
+        ],
+        "intendedInsight": "General concepts and disciplines are normally lower case; capitals mark names.",
+        "rationale": "Style guides apply the proper-noun principle across disciplines (University of Chicago Press, 2024).",
+        "citations": [
+          "chicago2024"
+        ]
+      },
+      {
+        "title": "Same reference, two styles",
+        "learnerActions": [
+          "Format the same three references in APA and MLA styles",
+          "Note the differences in capitalisation of titles",
+          "Check own reference list for consistency"
+        ],
+        "intendedInsight": "Capitalisation of titles is a style decision, not a general rule.",
+        "rationale": "Comparing styles shows why consistency with the required style matters (American Psychological Association, 2020; Modern Language Association of America, 2021).",
+        "citations": [
+          "apa2020",
+          "mla2021"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Important concepts should have capitals, like Globalisation and Sustainability.",
+        "kind": "overgeneralisation",
+        "revealedBy": "Capitals on general concepts used for emphasis.",
+        "response": "Explain that capitals signal names, not importance, and show journal examples.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "My reference manager decides the capitals.",
+        "kind": "performance",
+        "revealedBy": "Mixed title and sentence case in reference lists imported from different databases.",
+        "response": "Teach a final consistency check of reference-list capitalisation against the required style.",
+        "reteachPrerequisiteId": null
+      }
+    ],
+    "diagnostic": {
+      "task": "Give a short text with six capitalisation decisions and a named style guide, and ask the learner to correct and justify them.",
+      "strongResponse": "All decisions follow the proper-noun principle and the named style consistently.",
+      "partialResponse": "Proper nouns correct but title and heading conventions inconsistent.",
+      "gapResponse": "Capitals used for emphasis or at random."
+    },
+    "contextNotes": "Foundation learners focus on proper nouns and sentence-initial capitals. Pre-sessional and in-sessional learners apply the conventions of their department's referencing style to headings, titles and reference lists.",
+    "citations": [
+      "apa2020",
+      "chicago2024",
+      "mla2021"
+    ],
+    "reviewNotes": []
+  }
+}

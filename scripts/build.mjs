@@ -85,11 +85,20 @@ if (problems.length) {
 }
 
 // --- 3. derived graph metrics -----------------------------------------------
-const prereqs = new Map([...ids].map((id) => [id, []]));
+// Counts use all edges. Depth, downstream reach and centrality use hard edges
+// only: soft edges mean "usually taught first" and would otherwise turn
+// orientation topics into spurious hubs (adversarial review R3-01).
+const allPrereqs = new Map([...ids].map((id) => [id, []]));
 const unlocks = new Map([...ids].map((id) => [id, []]));
+const prereqs = new Map([...ids].map((id) => [id, []]));
+const hardUnlocks = new Map([...ids].map((id) => [id, []]));
 for (const d of dependencies) {
-  prereqs.get(d.topicId).push(d.prerequisiteId);
+  allPrereqs.get(d.topicId).push(d.prerequisiteId);
   unlocks.get(d.prerequisiteId).push(d.topicId);
+  if (d.strength === 'hard') {
+    prereqs.get(d.topicId).push(d.prerequisiteId);
+    hardUnlocks.get(d.prerequisiteId).push(d.topicId);
+  }
 }
 
 // depth: length of the longest prerequisite chain below a topic (entry points = 0)
@@ -108,7 +117,7 @@ const reach = new Map();
 const reachOf = (id) => {
   if (reach.has(id)) return reach.get(id);
   const set = new Set();
-  for (const u of unlocks.get(id)) {
+  for (const u of hardUnlocks.get(id)) {
     set.add(u);
     for (const x of reachOf(u)) set.add(x);
   }
@@ -117,7 +126,7 @@ const reachOf = (id) => {
 };
 for (const id of ids) reachOf(id);
 
-// centrality: PageRank over edges pointing from a topic to its prerequisites,
+// centrality: PageRank over hard edges pointing from a topic to its prerequisites,
 // so foundational topics that many others build on score highly. Normalised
 // to a maximum of 1.
 const N = ids.size;
@@ -139,8 +148,9 @@ const round = (x) => Math.round(x * 10000) / 10000;
 
 const enriched = topics.map((t) => ({
   ...t,
+  stages: STAGES.filter((s) => s in t.stageRoles),
   frameworks: t.frameworks ?? [],
-  prerequisiteCount: prereqs.get(t.id).length,
+  prerequisiteCount: allPrereqs.get(t.id).length,
   unlockCount: unlocks.get(t.id).length,
   downstreamCount: reach.get(t.id).size,
   depth: depth.get(t.id),
@@ -229,10 +239,21 @@ write('frameworks.json', {
   sources: frameworks,
 });
 
-const files = ['topics.json', 'dependencies.json', 'domains.json', 'teaching-guidance.json', 'references.json', 'frameworks.json'];
+const retired = JSON.parse(readFileSync(resolve(SRC, 'meta', 'retired-topics.json'), 'utf8'));
+for (const [id, r] of Object.entries(retired)) if (!ids.has(r.replacedBy)) throw new Error(`retired ${id} points to unknown ${r.replacedBy}`);
+write('retired-topics.json', {
+  version: VERSION,
+  note: 'Topic IDs retired by merge or rename. Map an old ID to replacedBy to find its current topic.',
+  retiredCount: Object.keys(retired).length,
+  retired,
+});
+
+const files = ['topics.json', 'dependencies.json', 'domains.json', 'teaching-guidance.json', 'references.json', 'frameworks.json', 'retired-topics.json'];
 const sha = (name) => createHash('sha256').update(readFileSync(resolve(DATA, name))).digest('hex');
 const countBy = (arr, f) => arr.reduce((acc, x) => ((acc[f(x)] = (acc[f(x)] ?? 0) + 1), acc), {});
-const stageCounts = Object.fromEntries(STAGES.map((s) => [s, topics.filter((t) => t.stages.includes(s)).length]));
+const stageCounts = Object.fromEntries(
+  STAGES.map((s) => [s, Object.fromEntries(['core', 'develop', 'revisit'].map((r) => [r, topics.filter((t) => t.stageRoles[s] === r).length]))]),
+);
 const manifest = {
   dataset: 'EAP Skill Taxonomy',
   taxonomyVersion: VERSION,
@@ -245,6 +266,9 @@ const manifest = {
     topicsByType: countBy(topics, (t) => t.type),
     topicsByStage: stageCounts,
     topicsBySpecificity: countBy(topics, (t) => t.specificity),
+    topicsByAudience: countBy(topics, (t) => t.audience),
+    topicsByDiscipline: countBy(topics.flatMap((t) => t.disciplines.map((d) => ({ d }))), (x) => x.d),
+    retiredTopics: Object.keys(retired).length,
     dependencies: dependencies.length,
     hardDependencies: dependencies.filter((d) => d.strength === 'hard').length,
     crossStrandDependencies: dependencies.filter(

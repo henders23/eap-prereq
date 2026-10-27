@@ -1,0 +1,114 @@
+{
+  "mergedInto": "res.abstracts",
+  "finding": "R1-15",
+  "topic": {
+    "id": "grp.student-abstract",
+    "type": "GENRE",
+    "strand": "Academic Genres",
+    "domain": "Report & Practice-Based Genres",
+    "name": "Abstracts for student work",
+    "description": "Write an abstract for a dissertation, project report or poster that summarises, in a stand-alone paragraph within a strict word limit, the context or problem, aim, method, main findings and conclusion or implication. Student abstracts follow moves similar to those of research abstracts but are judged mainly on accuracy, completeness and concision; tense typically shifts between present for context and conclusions and past for methods and findings, and some fields require structured formats with headings.",
+    "cefrStart": "B2",
+    "cefrEnd": "C1",
+    "stages": [
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Includes the moves required by the brief (context, aim, method, findings, conclusion) in sensible proportion",
+      "Reports specific findings rather than promising that results 'will be discussed'",
+      "Uses tense and voice consistently with move function and local convention",
+      "Writes within the word limit without unexplained abbreviations, or citations unless permitted",
+      "Ensures the abstract matches the content and the strength of claims in the full text"
+    ],
+    "assessmentPrompt": "Give the learner a 250-word abstract that ends indicatively ('results are discussed') and omits the method. Ask them to identify the missing moves and rewrite it in 200 words. Check for an added method, specific findings and a conclusion consistent with those findings.",
+    "citations": [
+      "swalesfeak2009abstracts",
+      "santos1996",
+      "swalesfeak2012"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:med.text.processing-text",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "cefr-cv:med.strat.streamlining-text",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "grp.student-abstract",
+    "summary": "Swales and Feak (2009) treat abstracts as a genre with recognisable moves and linguistic choices, and Santos (1996) proposed a five-move model for research article abstracts in applied linguistics (situating the research, presenting it, describing the methodology, summarising results and discussing the research). Student abstracts adapt these moves to assessment purposes: the marker uses the abstract to check that the student can represent their work accurately and concisely. Analyse local exemplars, because poster, dissertation and report abstracts differ in length and format, and some fields require structured abstracts.",
+    "activities": [
+      {
+        "title": "Move check",
+        "learnerActions": [
+          "Label the moves in three abstracts from your department or field",
+          "Note the tense and voice used in each move",
+          "Check your own draft abstract for missing or over-long moves",
+          "Revise to the word limit"
+        ],
+        "intendedInsight": "Abstracts have predictable moves with typical tense patterns, and completeness matters within tight limits.",
+        "rationale": "Applies the move models of Santos (1996) and Swales and Feak (2009) as a revision checklist.",
+        "citations": [
+          "santos1996",
+          "swalesfeak2009abstracts"
+        ]
+      },
+      {
+        "title": "From indicative to informative",
+        "learnerActions": [
+          "Read an abstract that says what the report 'will discuss' without stating results",
+          "Rewrite it to state the actual findings and conclusion",
+          "Compare which version would better serve a marker or a reader deciding whether to read on"
+        ],
+        "intendedInsight": "Informative abstracts state findings; indicative ones only describe topics.",
+        "rationale": "The distinction between informative and indicative abstracts is a standard element of abstract instruction (Swales & Feak, 2009).",
+        "citations": [
+          "swalesfeak2009abstracts"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Abstract written as an introduction or table of contents.",
+        "kind": "overgeneralisation",
+        "revealedBy": "Background-heavy abstracts that preview sections and omit findings.",
+        "response": "Require one sentence each for method, findings and conclusion before adding context.",
+        "reteachPrerequisiteId": "src.summarising-text"
+      },
+      {
+        "pattern": "Inconsistent or unmotivated tense shifts.",
+        "kind": "developmental",
+        "revealedBy": "Methods in the present and conclusions in the past, or random alternation.",
+        "response": "Show the typical tense pattern by move and the reasons for it, noting that local conventions differ.",
+        "reteachPrerequisiteId": "grm.tense-in-reporting"
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask the learner to write a 100-word abstract of a project or assignment they have completed.",
+      "strongResponse": "All core moves, specific findings and appropriate tenses within the limit.",
+      "partialResponse": "Most moves present but findings vague or method missing.",
+      "gapResponse": "An introduction or topic description without findings."
+    },
+    "contextNotes": "Pre-sessional: abstracts for extended projects and posters. In-sessional undergraduate: abstracts for final-year projects, lab reports and posters. Taught postgraduate: dissertation abstracts, sometimes structured, and abstracts for student conferences.",
+    "citations": [
+      "swalesfeak2009abstracts",
+      "santos1996",
+      "swalesfeak2012"
+    ],
+    "reviewNotes": []
+  }
+}

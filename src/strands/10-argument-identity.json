@@ -9,10 +9,11 @@
       "learnerSummary": "You will learn what an academic argument is, how to build one from claims, evidence and reasoning, and how to deal fairly and convincingly with other views in writing and in discussion.",
       "stageEmphasis": {
         "foundation": "Build the concept of argument as a supported position, with simple claim–evidence–explanation links and awareness of how texts persuade.",
-        "pre-sessional": "Develop a sustained, qualified position in source-based essays, with counter-argument, concession and rebuttal, and transfer these moves to seminar discussion.",
         "in-sessional-ug": "Adapt argument to disciplinary genres and evaluate others' arguments in readings, critiques and seminars.",
         "in-sessional-pgt": "Construct extended, evidence-dense arguments in assignments and dissertations, making warrants explicit for expert readers and evaluating research arguments.",
-        "pgr": "Sustain a thesis-length argument, position it within scholarly debates and defend it orally in supervision, conferences and the viva."
+        "pgr": "Sustain a thesis-length argument, position it within scholarly debates and defend it orally in supervision, conferences and the viva.",
+        "pre-sessional-ug": "Develop a sustained, qualified position in source-based essays, with counter-argument, concession and rebuttal, and transfer these moves to seminar discussion.",
+        "pre-sessional-pg": "Develop a sustained, qualified position in source-based essays, with counter-argument, concession and rebuttal, and transfer these moves to seminar discussion."
       },
       "keyReferences": [
         "toulmin2003",
@@ -31,10 +32,11 @@
       "learnerSummary": "You will learn what university tutors mean when they ask you to be 'critical', how to question and weigh evidence and reasoning, and how to notice common errors in thinking — including your own.",
       "stageEmphasis": {
         "foundation": "Make criticality concrete with familiar topics: description versus analysis, simple questions about evidence, and fair representation of different views.",
-        "pre-sessional": "Connect critical moves to progression tasks — source-based writing, seminars and extended projects — using the course's own criteria and exemplars.",
         "in-sessional-ug": "Embed criticality in disciplinary tasks with module exemplars, especially during the first-year transition when 'be more critical' feedback first appears.",
         "in-sessional-pgt": "Accelerate recalibration to master's-level expectations: evaluating research designs, competing theories and contested literatures from the first assignment.",
-        "pgr": "Focus on evaluating and positioning theory, reflexivity, and the epistemological commitments of one's own research."
+        "pgr": "Focus on evaluating and positioning theory, reflexivity, and the epistemological commitments of one's own research.",
+        "pre-sessional-ug": "Connect critical moves to progression tasks — source-based writing, seminars and extended projects — using the course's own criteria and exemplars.",
+        "pre-sessional-pg": "Connect critical moves to progression tasks — source-based writing, seminars and extended projects — using the course's own criteria and exemplars."
       },
       "keyReferences": [
         "facione1990",
@@ -46,16 +48,17 @@
     },
     {
       "code": "IDN",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "name": "Identity, Plurilingualism & Intercultural Competence",
       "summary": "This domain addresses who learners are as academic language users: how writing and speaking construct identity, how plurilingual repertoires can be used strategically, how English functions as a lingua franca in international universities, and how intercultural and rhetorical differences can be understood without stereotyping. It adopts a resource rather than a deficit orientation, treats culture as dynamic, multiple and partly institutional rather than as fixed national traits, and presents contrastive rhetoric and native-speaker norms as historically influential but contested. Several topics are as much curriculum principles for teachers as content for learners, and are written so that they can serve both.",
       "learnerSummary": "You will explore how academic writing and speech shape the way you present yourself, how to use all your languages as resources, and how to communicate confidently across differences without relying on stereotypes.",
       "stageEmphasis": {
         "foundation": "Build confidence in multilingual repertoires and intercultural group work as learners enter English-medium study, often for the first time.",
-        "pre-sessional": "Address transition, academic identity and explicit conventions alongside lingua franca interaction in multilingual cohorts.",
         "in-sessional-ug": "Support inclusive group work, emerging disciplinary voice and resource-oriented participation for home and international students alike.",
         "in-sessional-pgt": "Help highly international cohorts negotiate identity, intercultural collaboration and unfamiliar expectations within a short programme.",
-        "pgr": "Focus on researcher identity, publishing as a multilingual scholar and positioning within global scholarly communities."
+        "pgr": "Focus on researcher identity, publishing as a multilingual scholar and positioning within global scholarly communities.",
+        "pre-sessional-ug": "Address transition, academic identity and explicit conventions alongside lingua franca interaction in multilingual cohorts.",
+        "pre-sessional-pg": "Address transition, academic identity and explicit conventions alongside lingua franca interaction in multilingual cohorts."
       },
       "keyReferences": [
         "ivanic1998",
@@ -77,13 +80,6 @@
       "description": "Understand an academic argument as a reasoned position on a question, developed through claims supported by evidence and explicit reasoning and responsive to other views — not a quarrel, a one-sided opinion or a well-organised collection of facts. Grasping this reframes most assessed writing as argument and explains feedback such as 'What is your argument?'",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes an argument from a description, a summary and an unsupported opinion when given short texts",
@@ -110,7 +106,18 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.claim-types",
@@ -121,12 +128,6 @@
       "description": "Distinguish claims of fact (what is the case), definition (what something is or should be classed as), cause (what produces what), value (how good, important or right something is) and policy (what should be done), and recognise that each type calls for different kinds of support. Identifying the claim type an assignment question calls for clarifies what evidence and reasoning the answer needs.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies thesis statements and topic sentences by claim type",
@@ -144,7 +145,17 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.toulmin",
@@ -155,11 +166,6 @@
       "description": "Use Toulmin's model — claim, data or grounds, warrant, backing, qualifier and rebuttal — to analyse how a single argument works and where it is vulnerable. Its value in EAP lies in making visible the usually implicit link (warrant) between evidence and claim and the role of qualification and exceptions, not in providing an essay template.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Labels the claim, data, warrant and qualifier in a short academic argument",
@@ -183,7 +189,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.supporting-claims",
@@ -194,13 +209,6 @@
       "description": "Link each claim to evidence and reasoning that are relevant, sufficient and appropriate to the claim's type and strength — drawing on sources, data, examples and explanation — and make clear how each piece of support bears on the claim. This is the basic unit of argumentative writing and speaking, from foundation paragraphs to thesis chapters.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Supports each main claim with at least one piece of relevant, attributed evidence",
@@ -228,7 +236,18 @@
           "key": "ielts:wr2.task-response",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.warrants",
@@ -239,12 +258,6 @@
       "description": "State, where readers need it, the reasoning that connects evidence to claim — the principle, mechanism, assumption or criterion that makes the evidence relevant — and support that reasoning when it may be contested. Explicit warrants distinguish analysis from the juxtaposition of facts and claims, especially for readers who do not share the writer's assumptions.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Adds an explicit reasoning sentence linking evidence to claim where the link is not obvious to the intended reader",
@@ -275,7 +288,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.counterarguments",
@@ -286,13 +309,6 @@
       "description": "Identify the strongest objections, alternative explanations and contrary evidence that a knowledgeable reader could raise against one's position, and decide which must be addressed in the text. Anticipating objections is a feature of well-developed argument and of higher-rated student essays, but most writers, in any language, rarely do it without explicit teaching.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Generates at least two substantive objections to their own thesis, including one grounded in evidence rather than opinion",
@@ -314,7 +330,18 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.rebuttal-concession",
@@ -325,12 +352,6 @@
       "description": "Respond to counter-arguments by conceding what is valid, rebutting what is not with evidence or reasoning, and qualifying one's own position where necessary, using language that acknowledges the other view while keeping the writer's stance dominant. Well-managed concession and rebuttal build credibility and show dialogic engagement with the field.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes concession–counter sequences (e.g. 'Although X…, Y…') that keep the writer's position dominant",
@@ -362,7 +383,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.position",
@@ -373,13 +404,6 @@
       "description": "Commit to a defensible, appropriately qualified position on a question, state it where the genre expects (often in the introduction) and maintain it consistently so that every section of the text contributes to it. A sustained position is what readers and marking criteria most often mean by 'argument' and distinguishes argumentative from merely informative writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States a clear, specific and contestable position that answers the question set",
@@ -406,7 +430,18 @@
           "key": "ielts:wr2.task-response",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.extended-argument",
@@ -417,12 +452,6 @@
       "description": "Sequence sub-claims, evidence and responses to objections into a cumulative case in which each section advances the main position and depends logically on what precedes it, with signposting that makes the argumentative structure visible. This is required in long essays, dissertations and theses, where structures organised by topic or by source often fail to build an argument.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a plan in which each section's sub-claim is stated and its contribution to the main position explained",
@@ -457,7 +486,17 @@
           "key": "vitae-rdf:A3",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.rhetorical-appeals",
@@ -468,12 +507,6 @@
       "description": "Recognise and use appeals to reason (logos), to the writer's credibility (ethos) and to the reader's values and emotions (pathos) as they operate in academic contexts, where logos dominates but credibility is built through accurate citation, calibrated claims and disciplinary language, and value appeals are usually restrained. Recognising appeals helps learners read persuasive texts critically and adjust persuasion for academic and public audiences.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies logos, ethos and pathos appeals in a short persuasive text and explains their intended effect",
@@ -495,7 +528,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.argument-mapping",
@@ -506,13 +549,6 @@
       "description": "Represent the structure of an argument as a diagram of claims, reasons, co-premises and objections, showing how each supports or challenges another, in order to analyse a source's reasoning or to plan one's own. Mapping externalises reasoning that is otherwise held in working memory, making gaps, unstated premises and weak links visible.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a map of a short source argument that distinguishes the main claim, reasons, co-premises and objections",
@@ -531,7 +567,18 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.oral-argument",
@@ -542,12 +589,6 @@
       "description": "Construct, support and defend arguments in real-time academic talk — seminars, tutorials, Q&A sessions and supervision — by stating positions concisely, supporting them with reasons and sources, responding to challenges, and conceding or refining positions as discussion develops. Oral argument differs from written argument in its pace, its co-construction across speakers and its reliance on mitigation to maintain collegiality.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States a position with at least one reason and supporting evidence within a single turn",
@@ -583,7 +624,17 @@
           "key": "ielts:sp.fluency-coherence",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.exploratory-adversarial",
@@ -594,12 +645,6 @@
       "description": "Distinguish argument as collaborative, open-ended inquiry — exploring a question, testing ideas and reaching provisional conclusions — from argument as persuasive advocacy for a settled position, and recognise which orientation a genre, task or interaction calls for. Many academic genres and events (discussion essays, literature reviews, seminars) are largely exploratory, whereas others (debates, proposals, policy briefs) are more adversarial.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies academic tasks and genres according to whether they primarily call for exploratory or adversarial argument",
@@ -621,7 +666,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "arg.evaluating-arguments",
@@ -632,12 +687,6 @@
       "description": "Judge the quality of an argument by assessing whether its premises are acceptable, relevant to the conclusion and jointly sufficient to support it, whether its warrants hold, and how well it deals with objections — and express that judgement in measured academic language. This is the core analytical move in critical reviews, literature reviews and peer review.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Assesses a source's argument separately for acceptability of premises, relevance and sufficiency of support",
@@ -664,7 +713,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.concept",
@@ -675,13 +734,6 @@
       "description": "Understand critical thinking in university study as a contested cluster of practices and dispositions — questioning claims, weighing evidence, judging reasoning and acknowledging uncertainty — whose concrete form varies by discipline and task. Treating it as explicit, learnable academic practice rather than a personal or cultural trait lets learners see what markers actually reward.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains, with an example from their own field, what a tutor is likely to mean by 'be more critical' in a specific piece of feedback",
@@ -700,7 +752,18 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.description-analysis-evaluation",
@@ -711,12 +774,6 @@
       "description": "Distinguish three kinds of academic move — describing what something is or says, analysing how or why it works (its parts, causes, relationships and implications) and evaluating its value, validity or significance against stated criteria — and recognise which moves a task and its markers expect. Most 'too descriptive' feedback signals an imbalance among these moves rather than a lack of knowledge.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Labels sentences in a student paragraph as descriptive, analytical or evaluative and justifies each label",
@@ -739,7 +796,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.questioning",
@@ -750,13 +817,6 @@
       "description": "Habitually interrogate claims, texts, data and one's own ideas with questions such as how do we know, according to whom, compared with what, under what conditions and so what. Questioning is the generative engine of critical reading, analysis and research, and can be practised as a deliberate routine before it becomes a disposition.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Generates, unprompted, questions about the evidence, source, scope and implications of a short text or claim, going beyond comprehension questions",
@@ -779,7 +839,18 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.evidence-types",
@@ -790,13 +861,6 @@
       "description": "Recognise the main kinds of evidence used in academic argument — experimental and statistical data, qualitative accounts, documentary and textual evidence, expert testimony and anecdote — and judge what each can and cannot establish for a particular claim. Evidence hierarchies, such as those used in evidence-based medicine, are useful but field-bound tools, not universal rankings.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies the evidence offered in a short text by type and states what kind of claim each type can support",
@@ -816,7 +880,18 @@
           "key": "acrl:authority",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.reasoning-types",
@@ -827,12 +902,6 @@
       "description": "Recognise and use the main patterns of inference: deduction, in which the conclusion follows necessarily if the premises are true; induction, which generalises or predicts from observed cases with probability rather than certainty; and abduction, which infers the most plausible explanation for observations. Knowing which pattern an argument uses tells the reader what degree of certainty it can claim and how it might fail.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies whether a short argument is deductive, inductive or abductive and justifies the identification",
@@ -851,7 +920,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.correlation-causation",
@@ -862,12 +941,6 @@
       "description": "Distinguish associations between variables from causal relationships by considering confounding, reverse causation, chance and selection effects, and know in broad terms which research designs (randomised experiments, natural experiments, controlled longitudinal designs) can support causal claims. This underpins accurate reading and reporting of research and the choice of causal verbs in writing.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains, by naming a plausible confounding variable, why a reported correlation may not reflect a causal effect",
@@ -890,7 +963,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.fallacies",
@@ -901,11 +984,6 @@
       "description": "Recognise common informal fallacies — straw man, ad hominem, false dilemma, hasty generalisation, slippery slope, appeal to popularity and post hoc reasoning — as misuses of otherwise legitimate argument patterns, and explain what makes a particular instance fallacious in its context. The aim is diagnostic precision when evaluating and constructing arguments, not label-spotting.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies a fallacy in a short argument and explains in their own words why the reasoning fails in that context",
@@ -927,7 +1005,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.cognitive-biases",
@@ -938,12 +1025,6 @@
       "description": "Understand how systematic tendencies in human judgement — especially confirmation bias and motivated reasoning, but also availability and anchoring — shape what we search for, notice, believe and report, and adopt procedural safeguards in reading and research, such as seeking disconfirming evidence, setting criteria in advance and inviting others' scrutiny. Awareness alone rarely removes bias; routines help.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes confirmation bias and one other bias with an example drawn from academic reading or research",
@@ -961,7 +1042,17 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.multiple-perspectives",
@@ -972,13 +1063,6 @@
       "description": "Identify the range of defensible positions on an issue and represent each fairly — including those one rejects — in terms its proponents would recognise, before weighing them against explicit criteria. Fair representation is a precondition for credible counter-argument, synthesis and discussion writing, and protects against straw-man reasoning.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies at least three distinct positions on a debated issue and the main reason or value behind each",
@@ -1010,7 +1094,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.epistemic-beliefs",
@@ -1021,13 +1116,6 @@
       "description": "Reflect on and develop one's beliefs about the nature of knowledge — its certainty, simplicity, source and justification — drawing on models, developed largely with US undergraduates, that describe a broad tendency rather than fixed stages: from treating knowledge as fixed facts transmitted by authorities, through treating all views as equally valid, towards evaluating claims as better or worse supported. These beliefs shape how learners read conflicting sources, respond to open questions and feedback, and build arguments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains, with an example, why two credible sources might reach different conclusions",
@@ -1047,7 +1135,18 @@
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.evaluating-theories",
@@ -1058,11 +1157,6 @@
       "description": "Evaluate a theory, model or framework against criteria such as explanatory power, scope, empirical support, internal coherence, parsimony and usefulness for a stated purpose, and compare rival frameworks on those criteria. This moves learners from reporting what a theory says to justifying why they use, adapt or reject it.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Applies at least three named criteria to evaluate a theory or model used in their field",
@@ -1086,7 +1180,15 @@
           "key": "vitae-rdf:A2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.applying-theory",
@@ -1097,13 +1199,6 @@
       "description": "Use concepts, theories or models as analytical tools to explain a case, dataset, text or situation: selecting a relevant concept, mapping its components onto specific evidence, and drawing out what the analysis reveals, including where the case does not fit. Application is the core move in case studies, problem questions and many dissertation analyses.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects a concept or model appropriate to the question and justifies the choice",
@@ -1126,7 +1221,18 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.problem-solving",
@@ -1137,12 +1243,6 @@
       "description": "Define a problem precisely (its symptoms, causes, stakeholders and constraints), generate a range of possible responses, evaluate them against explicit criteria such as effectiveness, feasibility, cost and ethics, and justify a recommendation with its trade-offs acknowledged. This process underlies problem–solution essays, case analyses, design reports and policy writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes a problem's symptoms from its causes in a written problem statement",
@@ -1156,7 +1256,17 @@
         "hoey1983",
         "facione1990"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "crt.reflexivity",
@@ -1167,11 +1277,6 @@
       "description": "Recognise how one's own position — background, experiences, values, languages, disciplinary training and relationship to participants — shapes the questions asked, the evidence noticed and the interpretations made, and account for this transparently. Reflexivity is expected in qualitative and practice-based research and increasingly in reflective and critical genres across disciplines.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies specific aspects of their own position that could influence a particular research or interpretive decision",
@@ -1194,23 +1299,25 @@
           "key": "vitae-rdf:C1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "idn.academic-identity",
       "type": "CONCEPTUAL",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Academic and writer identity",
       "description": "Understand that academic writing and speaking construct an identity — through choices of stance, self-mention, citation, register and topic — and that entering a discipline involves negotiating new identities alongside existing ones. Seeing identity as discoursally constructed helps learners make deliberate choices about how they present themselves, and makes tensions between existing selves and academic conventions discussable rather than private.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies linguistic choices in a text that construct the writer as, for example, a cautious researcher, an authoritative expert or a student reporting others' work",
@@ -1224,24 +1331,27 @@
         "tangjohn1999",
         "morita2004"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "idn.plurilingual-repertoire",
       "type": "STRATEGIC",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Drawing on a plurilingual repertoire",
       "description": "Use all one's languages strategically for academic learning — reading and note-making across languages, discussing ideas in shared languages, planning with the first language and checking terminology bilingually — while meeting the language requirements and rules of each assessment. Whether assessed texts may themselves be translingual (for example, quoting and glossing sources in other languages, or mixing languages in reflective genres) is contested and varies by task, and learners can ask. Treating the repertoire as an integrated resource supports comprehension, conceptual depth and confidence.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes how they currently use each of their languages in study and evaluates which uses help or hinder learning",
@@ -1282,24 +1392,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "idn.elf",
       "type": "CONCEPTUAL",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "English as a lingua franca in academia",
       "description": "Understand that much academic communication in English takes place among multilingual users for whom English is a shared additional language; that effectiveness in such interaction depends on intelligibility, accommodation and negotiation of meaning rather than conformity to a native-speaker model; and that all participants, including first-language English users, share responsibility for mutual understanding.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains the difference between communicative effectiveness in lingua franca interaction and conformity to native-speaker norms, with examples",
@@ -1329,24 +1443,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "idn.intercultural-communication",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Intercultural communication",
       "description": "Manage differences in expectations, communication styles and assumptions in academic interaction with peers, tutors and supervisors by noticing when misunderstanding may stem from differing norms, suspending quick judgements, checking interpretations and negotiating shared ways of working. Intercultural competence here treats culture as dynamic and multiple — institutional, disciplinary and group-level as well as national — rather than as fixed national traits.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Offers more than one interpretation of a misunderstanding in academic interaction, including institutional, disciplinary and individual explanations",
@@ -1387,23 +1505,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "idn.intercultural-rhetoric",
       "type": "CONCEPTUAL",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Intercultural rhetoric",
       "description": "Understand how views of rhetorical variation across languages and cultures have developed — from Kaplan's contrastive rhetoric, through Connor's intercultural rhetoric, to critical contrastive rhetoric — and use this to analyse why writing conventions differ and change, without assuming that any culture's rhetoric is deficient or that an individual's writing is determined by their first language. The practical outcome is treating conventions as learnable, situated choices.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Summarises Kaplan's 1966 claims and at least two major critiques of them (e.g. essentialism, reliance on L2 student essays, privileging of English norms)",
@@ -1427,24 +1550,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "idn.diversity-as-resource",
       "type": "CONCEPTUAL",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Linguistic diversity as resource",
       "description": "Recognise and challenge deficit framings that treat multilingual students as lacking (language, critical thinking, autonomy), and understand linguistic and cultural diversity as a resource for learning, collaboration and knowledge-making. For learners, this means recognising the assets in their own repertoires and experience; for programmes, it means making academic expectations explicit for all students rather than remediating some.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies deficit framings in descriptions of international or multilingual students (e.g. in group-work comments or media reports) and explains why they are problematic",
@@ -1468,23 +1594,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "idn.standards-legitimacy",
       "type": "CONCEPTUAL",
-      "strand": "Argument & Critical Thinking",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Standards, native-speakerism and legitimacy",
       "description": "Examine critically the assumption that native-speaker English is the benchmark for academic English, distinguishing the conventions of academic genres (which all writers must learn) from nativeness, and understanding how native-speakerism, gatekeeping and language ideologies, including the tendency to judge the same English differently depending on a speaker's perceived race, nationality or accent, affect assessment, publication and participation. This enables learners to claim legitimacy as multilingual academic users while making informed choices about conventions.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes features expected because of genre and disciplinary convention from those expected merely because they sound native-like",
@@ -1499,7 +1630,17 @@
         "jenkins2014",
         "lilliscurry2010"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -2006,6 +2147,18 @@
       "prerequisiteId": "reg.style-myths-variation",
       "strength": "soft",
       "reason": "Testing prescriptive style rules against actual practice is a concrete precursor to questioning broader standard-language ideologies"
+    },
+    {
+      "topicId": "crt.questioning",
+      "prerequisiteId": "rdc.critical-reading",
+      "strength": "hard",
+      "reason": "Critical question sets operationalise an understanding of what critical reading involves"
+    },
+    {
+      "topicId": "crt.questioning",
+      "prerequisiteId": "rdc.argument-identification",
+      "strength": "soft",
+      "reason": "Questions about claims, reasons and evidence presuppose that these can be located in the text"
     }
   ],
   "guidance": [

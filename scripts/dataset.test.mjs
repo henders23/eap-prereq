@@ -37,10 +37,19 @@ test('every citation resolves to the bibliography', () => {
   for (const g of guidance) for (const c of g.citations) assert.ok(keys.has(c), `${g.topicId} guidance cites unknown ${c}`);
 });
 
-test('every stage is served by a substantial set of topics', () => {
+test('every stage has a focused core', () => {
   for (const s of STAGES) {
-    const n = topics.filter((t) => t.stages.includes(s)).length;
-    assert.ok(n >= 60, `stage ${s} has only ${n} topics`);
+    const core = topics.filter((t) => t.stageRoles[s] === 'core').length;
+    assert.ok(core >= 30, `stage ${s} has only ${core} core topics`);
+    assert.ok(core <= 200, `stage ${s} has ${core} core topics; core should discriminate`);
+  }
+});
+
+test('retired topic IDs resolve to current topics', () => {
+  const retired = load('retired-topics.json').retired;
+  for (const [id, r] of Object.entries(retired)) {
+    assert.ok(!byId.has(id), `${id} is retired but still published`);
+    assert.ok(byId.has(r.replacedBy), `${id} points to unknown ${r.replacedBy}`);
   }
 });
 
@@ -58,7 +67,7 @@ test('domain records cover every domain used by a topic', () => {
 });
 
 test('hard prerequisites are not pitched far above the dependent topic', () => {
-  const CEFR = ['A2', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
+  const CEFR = ['A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
   const offenders = deps.filter((d) => {
     if (d.strength !== 'hard') return false;
     const a = byId.get(d.topicId);

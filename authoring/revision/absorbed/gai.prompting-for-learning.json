@@ -1,0 +1,106 @@
+{
+  "mergedInto": "gai.language-support",
+  "finding": "R1-17",
+  "topic": {
+    "id": "gai.prompting-for-learning",
+    "type": "STRATEGIC",
+    "strand": "Digital Literacy & AI",
+    "domain": "Generative AI Literacy",
+    "name": "Prompting for learning",
+    "description": "Write prompts that make AI act as a tutor or sparring partner — explanations at a chosen level, Socratic questions, worked examples followed by practice, counter-arguments, or feedback against criteria — rather than producing finished text, and judge whether the interaction produced learning. Effective prompting includes giving context and constraints, iterating, and stopping to work without the tool.",
+    "cefrStart": "B1+",
+    "cefrEnd": "C1",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt",
+      "pgr"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Writes prompts that specify role, level, task and constraints, such as asking to be questioned rather than given the answer",
+      "Uses AI to generate self-test questions or counter-arguments and answers them without assistance",
+      "Iterates a prompt when the output is too generic, too advanced or off-task",
+      "Judges whether an interaction increased their understanding by explaining the idea afterwards without the tool",
+      "Keeps prompting within the uses permitted for the task"
+    ],
+    "assessmentPrompt": "Ask the learner to write two prompts for preparing a seminar on an assigned reading: one that would help them learn and one that would replace their thinking. Check the contrast (questioning, explanation and self-testing versus summary or answer generation) and whether the learning prompt includes constraints and a follow-up step done without the tool.",
+    "citations": [
+      "kasneci2023",
+      "unesco2023",
+      "zimmerman2002"
+    ],
+    "frameworks": [
+      {
+        "key": "acrl:inquiry",
+        "contribution": "related"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "gai.prompting-for-learning",
+    "summary": "Kasneci et al. (2023) and UNESCO (2023) both stress that the educational value of generative AI depends on use that supports learners' own thinking rather than substituting for it. Self-regulated learning research (Zimmerman, 2002) offers a frame: prompting for learning means setting a goal, monitoring understanding during the interaction and evaluating afterwards without the tool. Teaching should contrast learning-oriented and output-oriented prompts and build in unassisted checks.",
+    "activities": [
+      {
+        "title": "Two prompts, two outcomes",
+        "learnerActions": [
+          "Write an output prompt and a learning prompt for the same task",
+          "Run both and compare what they would learn from each",
+          "Explain the concept afterwards without the tool",
+          "Refine the learning prompt"
+        ],
+        "intendedInsight": "The same tool can replace or support thinking depending on the prompt.",
+        "rationale": "Contrast makes the difference concrete; the unassisted explanation tests learning.",
+        "citations": [
+          "kasneci2023"
+        ]
+      },
+      {
+        "title": "Sparring partner",
+        "learnerActions": [
+          "Ask a tool to question them Socratically on a reading",
+          "Answer without looking at the text",
+          "Ask for counter-arguments to their position",
+          "Write a short reflection on what they learned"
+        ],
+        "intendedInsight": "AI can provide questioning and challenge that support understanding.",
+        "rationale": "Questioning and retrieval support learning; the reflection supports self-evaluation.",
+        "citations": [
+          "zimmerman2002"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Prompts that ask for answers or finished text.",
+        "kind": "developmental",
+        "revealedBy": "Learners cannot explain content they 'studied' with AI.",
+        "response": "Teach learning-oriented prompt patterns and unassisted checks.",
+        "reteachPrerequisiteId": "lrn.self-regulation"
+      },
+      {
+        "pattern": "Accepting a too-advanced or generic explanation.",
+        "kind": "performance",
+        "revealedBy": "Learners report confusion but do not iterate.",
+        "response": "Model iteration: specifying level, examples and the learner's current understanding.",
+        "reteachPrerequisiteId": "gai.how-genai-works"
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask the learner to write a prompt to help them understand a difficult concept from a lecture.",
+      "strongResponse": "Specifies level, asks for explanation and questions, and includes a self-test.",
+      "partialResponse": "Asks for an explanation without constraints or a follow-up.",
+      "gapResponse": "Asks for a summary or answer to submit."
+    },
+    "contextNotes": "Foundation and pre-sessional: structured prompt patterns linked to course content. UG and PGT in-sessional: discipline-specific learning uses within module rules. PGR: using AI to test arguments and explore unfamiliar fields.",
+    "citations": [
+      "kasneci2023",
+      "unesco2023",
+      "zimmerman2002"
+    ],
+    "reviewNotes": [
+      "Evidence on learning outcomes from AI-supported study is emerging and mixed; activities are proposals."
+    ]
+  }
+}

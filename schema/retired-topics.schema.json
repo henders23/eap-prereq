@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eap-skill-taxonomy/schema/retired-topics.schema.json",
+  "title": "EAP Skill Taxonomy \u2014 retired topic IDs",
+  "type": "object",
+  "required": [
+    "version",
+    "note",
+    "retiredCount",
+    "retired"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "retiredCount": {
+      "type": "integer"
+    },
+    "retired": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "status",
+          "replacedBy",
+          "reason"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "status": {
+            "enum": [
+              "merged",
+              "renamed"
+            ]
+          },
+          "replacedBy": {
+            "type": "string"
+          },
+          "reason": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

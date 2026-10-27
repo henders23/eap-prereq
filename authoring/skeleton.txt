@@ -5,7 +5,8 @@
 #   <topic id> | <TYPE> | <name> | <scope note>
 # The skeleton fixes topic IDs, names and scope so that strand authors can
 # cross-reference prerequisites across strands. Authors may sharpen names and
-# scope but must not change IDs. Types: CONCEPTUAL, PROCEDURAL, LINGUISTIC,
+# scope but must not change IDs. Retired IDs are listed in
+# src/meta/retired-topics.json. Types: CONCEPTUAL, PROCEDURAL, LINGUISTIC,
 # GENRE, STRATEGIC, SOCIOPRAGMATIC.
 
 ## STRAND: Academic Language
@@ -88,20 +89,20 @@ grm.reporting-structures | LINGUISTIC | Reporting structures | Reporting verb pa
 grm.reference-pronouns | LINGUISTIC | Pronoun and demonstrative reference | Unambiguous it/this/these; 'this + summarising noun'; the former/the latter.
 grm.ellipsis-substitution | LINGUISTIC | Ellipsis and substitution | do so, one/ones, that of, those of; avoiding unnecessary repetition.
 grm.error-monitoring | STRATEGIC | Monitoring recurrent grammatical errors | Identifying one's own persistent error patterns and building targeted self-editing routines.
+grm.spoken-grammar | LINGUISTIC | Grammar of spoken academic interaction | Features and accuracy priorities of spoken academic English (heads and tails, ellipsis, vague language, discourse markers, clause chaining) for seminars, tutorials and presentations.
+grm.genitive-noun-modifiers | LINGUISTIC | Genitive and noun-modifier choices | Choosing between 's, of-phrases and noun + noun modifiers (the study's aim / the aim of the study / study aim), including inanimate genitives and the myth that they are wrong.
+grm.unaccusative-verbs | LINGUISTIC | Unaccusative and ergative verbs | Verbs such as occur, happen, emerge, increase and change that describe events without an agent or alternate between transitive and intransitive use; avoiding *was happened and *was emerged.
 
 ### DOMAIN SEN: Sentence Construction & Punctuation
 sen.sentence-types | CONCEPTUAL | Simple, compound and complex sentences | Clause combination as the basis of sentence construction.
 sen.sentence-boundaries | LINGUISTIC | Sentence boundaries | Avoiding run-on sentences, comma splices and fragments.
 sen.commas | LINGUISTIC | Commas in academic prose | Introductory elements, non-defining clauses, lists, serial-comma consistency.
 sen.semicolons-colons | LINGUISTIC | Semicolons and colons | Joining related independent clauses, complex lists, introducing explanations and lists.
-sen.apostrophes-hyphens-dashes | LINGUISTIC | Apostrophes, hyphens and dashes | Possession, compound modifiers (evidence-based practice), en dashes for ranges.
-sen.capitalisation | LINGUISTIC | Capitalisation conventions | Proper nouns, titles, headings and style-guide variation (sentence vs title case).
-sen.quotation-punctuation | LINGUISTIC | Punctuating quotations and brackets | Quotation marks, square brackets, ellipses, [sic], parentheses.
 sen.sentence-length-variety | PROCEDURAL | Sentence length and variety | Controlling sentence length for readability and emphasis.
 sen.concision | PROCEDURAL | Concision | Removing redundancy, empty phrases and wordiness.
 sen.clarity-end-weight | PROCEDURAL | Clarity and end-weight | Keeping subject and verb close, placing heavy elements late, avoiding noun-stacking ambiguity.
-sen.numbers-units-style | LINGUISTIC | Writing numbers, units and symbols in text | Numerals vs words, units, percentages, ranges, following a style guide.
 sen.lists-bullets | LINGUISTIC | Lists and bullet points | When lists are acceptable in academic genres; parallel form and punctuation.
+sen.punctuation-mechanics | LINGUISTIC | Punctuation and mechanics beyond the comma | Use apostrophes for possession (the author's, the authors', Smith and Jones's study) but not for plurals (1990s, PhDs, NGOs); hyphenate compound modifiers before a noun (evidence-based practice, a well-designed study) but not after it or after -ly adverbs; and use en dashes for ranges and relationships (pp
 
 ## STRAND: Academic Discourse
 
@@ -109,7 +110,6 @@ sen.lists-bullets | LINGUISTIC | Lists and bullet points | When lists are accept
 coh.cohesion-vs-coherence | CONCEPTUAL | Cohesion versus coherence | Distinguishing surface linking devices from the underlying logical and topical unity of a text.
 coh.lexical-cohesion | LINGUISTIC | Lexical cohesion and reference chains | Repetition, synonymy, hyponymy and general nouns that keep a topic in view.
 coh.linking-adverbials | LINGUISTIC | Linking adverbials and connectors | Additive, adversative, causal and sequential connectors and their frequency in expert writing; avoiding overuse.
-coh.connector-precision | LINGUISTIC | Precise logical relations | Distinguishing however, whereas, although, in contrast, on the contrary, nevertheless, therefore, thus.
 coh.given-new | CONCEPTUAL | Given–new information structure | Placing known information early and new information late in the clause.
 coh.thematic-progression | PROCEDURAL | Thematic progression | Constant, linear and derived theme patterns that move a paragraph forward.
 coh.signalling-nouns | LINGUISTIC | Encapsulation with signalling nouns | This approach, these findings, such a view — summarising prior text and steering the reader.
@@ -117,8 +117,7 @@ coh.text-patterns | CONCEPTUAL | Text structure patterns | Problem–solution, c
 coh.frame-markers | LINGUISTIC | Frame markers and advance organisers | Text-level signposting (This essay first…, Section 3 examines…) and its appropriate density.
 coh.paragraph-transitions | PROCEDURAL | Transitions between paragraphs and sections | Bridging sentences that link one unit's point to the next.
 coh.terminological-consistency | PROCEDURAL | Terminological consistency | Using key terms consistently rather than 'elegant variation' that implies different referents.
-coh.writer-responsibility | CONCEPTUAL | Reader and writer responsibility | Expectations in English academic writing that the writer makes connections explicit.
-coh.spoken-signposting | LINGUISTIC | Signposting in spoken academic discourse | Macro- and micro-markers that organise talk (Let's move on to…, So, the key point is…).
+coh.writer-responsibility | CONCEPTUAL | Making reasoning explicit for the reader | Expectations in English academic writing that the writer makes connections explicit.
 
 ### DOMAIN STA: Stance, Metadiscourse & Evaluation
 sta.metadiscourse | CONCEPTUAL | Metadiscourse | Interactive and interactional resources by which writers organise text and engage readers.
@@ -128,12 +127,11 @@ sta.boosters | LINGUISTIC | Boosters | clearly, demonstrate, it is evident that 
 sta.attitude-markers | LINGUISTIC | Attitude markers | surprisingly, importantly, unfortunately, a striking finding — signalling affective and evaluative stance.
 sta.self-mention | LINGUISTIC | Self-mention and authorial roles | I/we/the author; roles from guide and architect to opinion-holder and originator.
 sta.engagement-markers | LINGUISTIC | Reader engagement | Reader pronouns, directives (note that, consider), questions, appeals to shared knowledge.
-sta.dialogic-positioning | CONCEPTUAL | Dialogic positioning (engagement) | Expanding and contracting the dialogue: entertain, attribute, deny, counter, concur, pronounce.
+sta.dialogic-positioning | CONCEPTUAL | Opening and closing space for other voices | Expanding and contracting the dialogue: entertain, attribute, deny, counter, concur, pronounce.
 sta.averral-attribution | CONCEPTUAL | Averral versus attribution | Distinguishing claims the writer makes from claims attributed to others, and how readers track responsibility.
 sta.evaluating-others-language | LINGUISTIC | Language for evaluating others' work | Evaluative reporting, praise–criticism pairs, mitigated critique (While X offers…, it overlooks…).
 sta.authorial-voice | CONCEPTUAL | Authorial voice | Voice as the textual construction of stance and identity, distinct from source voices.
 sta.concession-language | LINGUISTIC | Language of concession and counter-argument | admittedly, it could be argued that, although, nevertheless, this does not mean that.
-sta.generalisation-qualification | LINGUISTIC | Generalising and qualifying | tend to, in most cases, broadly speaking, with some exceptions — bounded generalisation.
 sta.code-glosses | LINGUISTIC | Code glosses and exemplification | that is, in other words, namely, for example, such as — reformulating and illustrating.
 sta.spoken-stance | LINGUISTIC | Expressing stance in speech | I'd argue, I'm not entirely convinced, it seems to me — stance and mitigation in spoken interaction.
 
@@ -192,16 +190,14 @@ rdc.assumptions | PROCEDURAL | Identifying assumptions and values | Surfacing un
 rdc.bias-perspective | PROCEDURAL | Recognising bias and perspective | Positionality, interests, selective evidence and framing in texts.
 rdc.methods-critique | PROCEDURAL | Reading methods critically | Evaluating samples, design, measures and limitations in empirical studies.
 rdc.multiple-texts | PROCEDURAL | Reading across multiple texts | Comparing, corroborating and reconciling claims across sources.
-rdc.reading-for-writing | STRATEGIC | Reading for a writing task | Selecting and organising reading around an assignment question.
 rdc.literature-mapping | PROCEDURAL | Mapping a body of literature | Identifying themes, debates, key authors and schools of thought.
 rdc.theoretical-texts | PROCEDURAL | Reading theoretical and conceptual texts | Strategies for dense theoretical prose in the humanities and social sciences.
-rdc.critical-questions | STRATEGIC | Generating critical questions | Systematic questions to interrogate a text (purpose, claims, evidence, implications).
 rdc.critical-response | PROCEDURAL | Formulating a critical response | Moving from comprehension to a reasoned personal evaluation of a text.
 
-## STRAND: Academic Listening
+## STRAND: Academic Listening & Note-making
 
 ### DOMAIN LIS: Lecture & Academic Listening
-lis.listening-processes | CONCEPTUAL | Listening processes | Decoding (phonological, lexical, syntactic) and meaning-building processes in real-time listening.
+lis.listening-processes | CONCEPTUAL | Listening processes: decoding and meaning-building | Decoding (phonological, lexical, syntactic) and meaning-building processes in real-time listening.
 lis.connected-speech | PROCEDURAL | Recognising connected speech | Weak forms, elision, assimilation and linking in natural speech.
 lis.word-segmentation | PROCEDURAL | Segmenting the speech stream | Using stress and other cues to identify word boundaries.
 lis.speech-rate | PROCEDURAL | Coping with natural speech rate | Strategies and practice for following fast or unscripted speech.
@@ -248,6 +244,7 @@ sem.summarising-discussion | PROCEDURAL | Summarising discussion | Summarising p
 sem.speaking-anxiety | STRATEGIC | Managing speaking anxiety and willingness to communicate | Strategies for participating despite anxiety; understanding WTC.
 sem.online-discussion | PROCEDURAL | Synchronous online discussion | Participation norms in video-conference seminars (chat, hands, turn-taking).
 sem.debate | PROCEDURAL | Structured academic debate | Formal debate formats, rebuttal and time-limited argument.
+sem.explaining-concepts | PROCEDURAL | Explaining concepts and readings to peers | Mediating a concept, text or dataset for classmates: simplifying, exemplifying, checking understanding and drawing on shared languages, in seminars, study groups and peer teaching.
 
 ### DOMAIN PRS: Presentations
 prs.purpose-audience | CONCEPTUAL | Purpose and audience analysis | Adapting content and register to audience knowledge and the purpose of the presentation.
@@ -265,6 +262,7 @@ prs.posters | GENRE | Poster presentations | Presenting and discussing an academ
 prs.research-presentations | GENRE | Research and conference presentations | Presenting research to specialist audiences within strict time limits.
 prs.recorded-online | PROCEDURAL | Recorded and online presentations | Video presentations, screen-sharing and recorded assessments.
 prs.rehearsal-timing | STRATEGIC | Rehearsal and timing | Rehearsing, timing and adjusting content to time limits.
+prs.research-pitches | GENRE | Short-format research pitches | Three-minute thesis and elevator-style pitches that compress a project into a single accessible narrative for mixed audiences.
 
 ### DOMAIN PRN: Pronunciation & Fluency
 prn.intelligibility | CONCEPTUAL | Intelligibility, comprehensibility and accent | Distinguishing accent from intelligibility and prioritising what affects understanding.
@@ -292,7 +290,7 @@ grw.contribution-assessment | PROCEDURAL | Assessing contributions | Peer evalua
 
 ### DOMAIN WPR: Writing Process
 wpr.writing-process | CONCEPTUAL | Writing as a recursive process | Planning, translating and reviewing as interleaved, recursive processes; knowledge telling vs knowledge transforming.
-wpr.task-analysis | PROCEDURAL | Analysing assignment tasks | Unpacking the question, command words, scope, audience, word limit and criteria.
+wpr.task-analysis | PROCEDURAL | Analysing assignment and exam tasks | Unpacking the question, command words, scope, audience, word limit and criteria.
 wpr.generating-ideas | PROCEDURAL | Generating ideas | Brainstorming, freewriting, questioning and mapping.
 wpr.planning-outlining | PROCEDURAL | Planning and outlining | Developing a structure from a position and evidence.
 wpr.drafting | PROCEDURAL | Drafting | Producing a first draft; separating drafting from editing.
@@ -321,8 +319,6 @@ ess.thesis-statement | PROCEDURAL | Thesis statements | Writing a specific, argu
 ess.introductions | PROCEDURAL | Writing introductions | Context, focus, thesis and roadmap; general-to-specific movement.
 ess.conclusions | PROCEDURAL | Writing conclusions | Synthesising the argument, answering the question, implications and limits.
 ess.body-organisation | PROCEDURAL | Organising the essay body | Logical sequencing of points; thematic vs source-by-source organisation.
-ess.answering-question | PROCEDURAL | Answering the question | Maintaining relevance to the task throughout.
-ess.essay-types | CONCEPTUAL | Essay types | Argumentative, discussion, explanatory, compare–contrast, problem–solution and their purposes.
 ess.headings | PROCEDURAL | Headings and sections | When headings are expected or discouraged in essays; informative headings.
 ess.depth-focus | PROCEDURAL | Depth versus breadth | Narrowing focus to allow analytic depth.
 ess.criticality | PROCEDURAL | Demonstrating criticality in essays | Moving beyond description to analysis and evaluation.
@@ -337,7 +333,6 @@ edt.grammar-editing | PROCEDURAL | Editing for grammatical accuracy | Targeted c
 edt.proofreading | PROCEDURAL | Proofreading | Techniques for catching surface errors (reading aloud, changing format, checklists).
 edt.criteria-self-assessment | STRATEGIC | Self-assessing drafts against criteria | Using marking criteria and checklists to evaluate one's own draft.
 edt.peer-review | PROCEDURAL | Peer review of drafts | Giving and using constructive peer feedback.
-edt.editing-tools | PROCEDURAL | Using editing tools critically | Spelling/grammar checkers and readability tools: benefits and errors.
 edt.proofreading-ethics | CONCEPTUAL | Acceptable third-party proofreading | Institutional policies on proofreaders, editors and what changes are permitted.
 
 ## STRAND: Sources & Academic Integrity
@@ -345,7 +340,7 @@ edt.proofreading-ethics | CONCEPTUAL | Acceptable third-party proofreading | Ins
 ### DOMAIN INF: Information Literacy & Source Evaluation
 inf.scholarly-communication | CONCEPTUAL | How scholarly knowledge is produced | Peer review, journals, monographs, conference papers, preprints and grey literature.
 inf.source-types | CONCEPTUAL | Types of sources | Primary, secondary and tertiary; empirical, review and theoretical; popular vs scholarly.
-inf.research-question | PROCEDURAL | Focusing a topic | Narrowing a topic into a researchable question for searching.
+inf.research-question | PROCEDURAL | Focusing a topic for searching | Narrowing a topic into a researchable question for searching.
 inf.search-strategies | PROCEDURAL | Search strategies | Keywords, synonyms, Boolean operators, truncation, phrase searching and filters.
 inf.databases | PROCEDURAL | Library catalogues, databases and discovery tools | Choosing and using catalogues, subject databases and Google Scholar.
 inf.source-evaluation | PROCEDURAL | Evaluating sources | Authority, currency, relevance, purpose and evidence base.
@@ -357,7 +352,6 @@ inf.open-access | CONCEPTUAL | Open access and legal access | Open access, prepr
 inf.systematic-searching | PROCEDURAL | Systematic and scoping searching | Transparent, reproducible search strategies for reviews.
 
 ### DOMAIN SRC: Summarising, Paraphrasing & Quoting
-src.source-functions | CONCEPTUAL | Functions of sources in academic writing | Supporting claims, attributing ideas, positioning, establishing territory.
 src.quoting | PROCEDURAL | Quoting | Deciding when to quote; accuracy and economy.
 src.integrating-quotations | PROCEDURAL | Integrating quotations | Grammatical integration, framing and commenting on quotations.
 src.paraphrasing | PROCEDURAL | Paraphrasing | Restating a source's meaning in one's own words and structure with citation.
@@ -367,7 +361,6 @@ src.summarising-passage | PROCEDURAL | Summarising a passage | Condensing a para
 src.summarising-text | PROCEDURAL | Summarising a whole text | Summarising an article or chapter using macro-rules (delete, generalise, construct).
 src.reporting-verbs | LINGUISTIC | Reporting verbs | Choosing reporting verbs by function and evaluative force (argue, claim, note, demonstrate).
 src.citation-forms | LINGUISTIC | Integral and non-integral citation | Author-prominent vs information-prominent citation and their rhetorical effects.
-src.signal-phrases | LINGUISTIC | Signal phrases and attribution | According to, X argues that, as X notes; marking the extent of attributed content.
 src.voice-boundaries | PROCEDURAL | Distinguishing own voice from source voice | Marking where source content ends and the writer's commentary begins.
 src.secondary-citation | PROCEDURAL | Secondary citation | Citing sources one has not read directly ('cited in') and when to avoid it.
 src.multilingual-sources | PROCEDURAL | Using sources in other languages | Translating and citing non-English sources transparently.
@@ -384,7 +377,7 @@ syn.integrated-tasks | PROCEDURAL | Integrated source-based tasks | Reading/list
 ### DOMAIN CIT: Citation & Referencing
 cit.why-cite | CONCEPTUAL | Why academics cite | Credit, verifiability, scholarly conversation and positioning.
 cit.when-to-cite | CONCEPTUAL | When to cite | What requires citation; common knowledge and its disciplinary limits.
-cit.referencing-systems | CONCEPTUAL | Referencing systems | Author–date, numeric and note systems; APA, Harvard variants, MLA, Chicago, IEEE, Vancouver, OSCOLA.
+cit.referencing-systems | CONCEPTUAL | Referencing systems and style guides | Author–date, numeric and note systems; APA, Harvard variants, MLA, Chicago, IEEE, Vancouver, OSCOLA.
 cit.author-date-in-text | PROCEDURAL | In-text citation: author–date | Formatting author–date citations, multiple authors, et al., multiple works.
 cit.numeric | PROCEDURAL | Numeric citation systems | Formatting and ordering numeric citations (IEEE, Vancouver).
 cit.note-based | PROCEDURAL | Note-based citation | Footnotes/endnotes and bibliographies (Chicago notes, OSCOLA).
@@ -394,6 +387,7 @@ cit.locators | PROCEDURAL | Page numbers and locators | When and how to give pag
 cit.accuracy-consistency | PROCEDURAL | Citation accuracy and consistency | Checking that every citation matches a reference and that details are correct.
 cit.citation-functions | CONCEPTUAL | Rhetorical functions of citation | Attribution, exemplification, support, comparison, evaluation and establishing links.
 cit.disciplinary-citation | CONCEPTUAL | Disciplinary variation in citation | Citation density, quotation, reporting verbs and integral forms across fields.
+cit.citation-politics | CONCEPTUAL | Whose knowledge is cited | Recognising that citation and indexing practices shape whose knowledge becomes visible, including the dominance of English-language, Global North and highly indexed sources, and making deliberate, justified citation choices.
 
 ### DOMAIN INT: Academic Integrity
 int.integrity-values | CONCEPTUAL | Values of academic integrity | Honesty, trust, fairness, respect, responsibility and courage.
@@ -440,26 +434,14 @@ arg.oral-argument | PROCEDURAL | Arguing orally | Constructing and defending arg
 arg.exploratory-adversarial | CONCEPTUAL | Exploratory and adversarial argument | Dialectical inquiry versus persuasive advocacy.
 arg.evaluating-arguments | PROCEDURAL | Evaluating arguments | Judging acceptability, relevance and sufficiency of support.
 
-### DOMAIN IDN: Identity, Plurilingualism & Intercultural Competence
-idn.academic-identity | CONCEPTUAL | Academic and writer identity | How writing constructs identity; negotiating new academic identities.
-idn.plurilingual-repertoire | STRATEGIC | Drawing on a plurilingual repertoire | Translanguaging and plurilingual strategies as resources for learning.
-idn.elf | CONCEPTUAL | English as a lingua franca in academia | Communicative effectiveness among multilingual users; accommodation.
-idn.intercultural-communication | SOCIOPRAGMATIC | Intercultural communication | Managing differences in expectations, communication style and assumptions.
-idn.intercultural-rhetoric | CONCEPTUAL | Intercultural rhetoric | From contrastive to intercultural and critical views of rhetorical variation.
-idn.diversity-as-resource | CONCEPTUAL | Linguistic diversity as resource | Challenging deficit framings of multilingual students.
-idn.standards-legitimacy | CONCEPTUAL | Standards, native-speakerism and legitimacy | Questioning native-speaker norms as the benchmark for academic English.
-
 ## STRAND: Academic Genres
 
 ### DOMAIN GES: Essay & Examination Genres
-ges.genre-concept | CONCEPTUAL | Genre and discourse community | Genres as recognisable communicative events with purposes shared by discourse communities.
+ges.genre-concept | CONCEPTUAL | What a genre is | Genres as recognisable communicative events with purposes shared by discourse communities.
 ges.genre-analysis | STRATEGIC | Analysing genres independently | Rhetorical consciousness-raising: analysing exemplars for moves, language and purpose.
 ges.genre-families | CONCEPTUAL | Genre families in university assessment | The range of assessed genres students encounter (essays, critiques, case studies, explanations, etc.).
 ges.argumentative-essay | GENRE | Argumentative essay | Thesis-led essay defending a position.
 ges.discussion-essay | GENRE | Discussion essay | Balanced consideration of perspectives leading to a reasoned conclusion.
-ges.compare-contrast-essay | GENRE | Compare-and-contrast essay | Systematic comparison against criteria leading to a point.
-ges.explanation-essay | GENRE | Explanation and cause–effect essay | Explaining causes, mechanisms or consequences.
-ges.problem-solution-essay | GENRE | Problem–solution essay | Defining a problem and evaluating solutions.
 ges.exam-essay | GENRE | Examination essay | Timed essays written from memory under exam conditions.
 ges.short-answer | GENRE | Short-answer responses | Concise explanations and definitions in coursework and exams.
 ges.critique | GENRE | Critical review of an article | Summarising and evaluating a single research or theoretical text.
@@ -468,6 +450,8 @@ ges.reflective-writing | GENRE | Reflective writing | Structured reflection link
 ges.annotated-bibliography | GENRE | Annotated bibliography | Citation plus summary and evaluation of each source.
 ges.literature-review-assignment | GENRE | Literature review assignment | Stand-alone or embedded thematic synthesis of literature for coursework.
 ges.summary-response | GENRE | Summary–response paper | Summary of a text followed by a reasoned response.
+ges.expository-essays | GENRE | Explanation and cause–effect essay | Produce an essay that explains how or why a phenomenon occurs: its causes (factorial explanation), its consequences (consequential explanation) or the mechanism or sequence by which it happens, evaluating the relative importance and certainty of the factors
+ges.extended-source-based-project | GENRE | Extended source-based project | An independently researched essay or report of several thousand words on a self-chosen focus in the learner's field, developed through proposal, annotated sources, drafts and tutorials, often with a reflective commentary; the capstone of many pre-sessional and foundation EAP courses.
 
 ### DOMAIN GRP: Report & Practice-Based Genres
 grp.report-conventions | CONCEPTUAL | Report conventions | Report vs essay: purpose, sections, headings, numbering, visuals.
@@ -482,7 +466,6 @@ grp.policy-brief | GENRE | Policy brief | Short evidence-based recommendations f
 grp.professional-portfolio | GENRE | Professional practice portfolio | Placement logs, practice reflections and competency evidence.
 grp.public-writing | GENRE | Academic blogs and public-facing writing | Blog posts, op-eds and outreach writing.
 grp.dissertation-overview | GENRE | Undergraduate and master's dissertation | Structure, scope and expectations of the taught-programme dissertation.
-grp.student-abstract | GENRE | Abstracts for student work | Writing abstracts for dissertations, reports and posters.
 
 ## STRAND: Research Communication
 
@@ -509,6 +492,12 @@ res.ethics-documentation | GENRE | Ethics applications and participant documents
 res.supervision | SOCIOPRAGMATIC | Working with supervisors | Supervision meetings, agendas, negotiating feedback on drafts.
 res.writing-productivity | STRATEGIC | Sustaining thesis writing | Writing routines, groups, retreats and managing a long project.
 res.positionality-writing | PROCEDURAL | Writing positionality statements | Articulating researcher position and reflexivity in text.
+res.acknowledgements | GENRE | Acknowledgements | Write acknowledgements for dissertations, theses and articles that thank supervisors, participants, funders, institutions and others in a conventional order and register, include required funding and contribution statements, and distinguish acknowledgement from authorship
+res.progression-review | GENRE | Doctoral progression and confirmation reviews | Confirmation, upgrade and annual progression reports and the accompanying oral review: summarising progress, revising questions and design, presenting preliminary findings, planning, and responding to panel questions.
+res.publication-based-thesis | GENRE | Thesis by publication | Framing chapters, linking narratives and co-authorship statements that turn stand-alone papers into one coherent thesis argument.
+res.systematic-review-writing | GENRE | Writing systematic and scoping reviews | Writing the protocol and report of a systematic, scoping or other structured review in any discipline: registration, transparent search and selection reporting, appraisal and synthesis, following reporting guidance such as PRISMA 2020.
+res.instrument-wording | PROCEDURAL | Wording survey and interview questions | Writing clear, neutral, single-focus questionnaire items, response scales and interview prompts, and piloting them for comprehension with the intended participants.
+res.teaching-as-pgr | SOCIOPRAGMATIC | Teaching, demonstrating and marking as a doctoral researcher | Communicating as a graduate teaching assistant or demonstrator: explaining concepts and procedures, questioning, managing small-group discussion, giving spoken and written feedback, and handling student queries.
 
 ### DOMAIN PUB: Publication & Dissemination
 pub.publishing-process | CONCEPTUAL | The academic publishing process | Submission, editorial screening, peer review, revision and publication.
@@ -522,11 +511,17 @@ pub.authorship | CONCEPTUAL | Authorship and contribution | Authorship criteria,
 pub.multilingual-scholars | CONCEPTUAL | Publishing as a multilingual scholar | Opportunities and inequities in English-medium publishing; literacy brokers.
 pub.research-engagement | PROCEDURAL | Communicating research beyond academia | Public engagement, impact writing and social media.
 pub.academic-cv-bio | GENRE | Academic CVs, biographies and personal statements | Self-presentation genres for applications and conferences.
+pub.funding-applications | GENRE | Funding, fellowship and grant applications | Case for support, lay summary, impact statement and track-record sections for studentships, travel grants and early-career fellowships.
+pub.conference-participation | SOCIOPRAGMATIC | Participating in conferences | Asking and answering questions from the floor, chairing a session, and networking and following up contacts at conferences and research seminars.
+pub.personal-statements | GENRE | Personal statements for postgraduate study and funding | Statements of purpose and scholarship applications that show fit, motivation and capability with evidence.
+pub.thesis-corrections | GENRE | Examiners' reports and thesis corrections | Interpreting examiners' reports and viva outcomes, turning them into a corrections plan, and documenting the changes made.
+pub.thesis-to-article | PROCEDURAL | From thesis to articles | Turning thesis chapters into journal articles, or integrating published papers into a thesis: re-scoping the argument for a journal readership, compressing the literature and methods, and managing self-plagiarism rules.
+pub.open-research | PROCEDURAL | Open research practices and statements | Writing the texts open-research practices require: preprints and versions, preregistration and registered reports, data and code availability statements, and other disclosure statements.
 
 ## STRAND: Data, Numeracy & Multimodality
 
 ### DOMAIN DAT: Data Commentary & Visuals
-dat.visual-types | CONCEPTUAL | Types of visuals | Line graphs, bar charts, pie charts, tables, diagrams, maps and what each is suited to show.
+dat.visual-types | CONCEPTUAL | Types of visuals and their functions | Line graphs, bar charts, pie charts, tables, diagrams, maps and what each is suited to show.
 dat.reading-graphs | PROCEDURAL | Reading graphs and charts | Axes, scales, legends, units and identifying significant features.
 dat.reading-tables | PROCEDURAL | Reading tables | Navigating rows, columns, notes and identifying patterns.
 dat.describing-trends | LINGUISTIC | Describing trends and change | Verbs, nouns, adverbs of change and degree (rose sharply, a gradual decline).
@@ -549,7 +544,6 @@ num.mathematical-expression | LINGUISTIC | Language of mathematical expression |
 
 ### DOMAIN MMD: Multimodal Composition
 mmd.multimodal-literacy | CONCEPTUAL | Multimodal literacy | How image, layout, colour and text combine to make meaning.
-mmd.poster-design | PROCEDURAL | Designing academic posters | Layout, reading paths, visual hierarchy and text economy.
 mmd.infographics | PROCEDURAL | Infographics and visual summaries | Condensing information visually for academic and public audiences.
 mmd.digital-assessments | GENRE | Video essays and digital assessments | Podcasts, video essays, e-portfolios and websites as assessed academic work.
 mmd.accessibility | PROCEDURAL | Accessible academic documents | Alt text, heading structure, colour contrast and readable formats.
@@ -562,7 +556,6 @@ lrn.goal-setting | STRATEGIC | Setting language and academic goals | Specific, m
 lrn.time-management | STRATEGIC | Time and workload management | Planning, prioritising and protecting study time.
 lrn.independent-study | STRATEGIC | Independent study | Expectations of independent study hours and planning them productively.
 lrn.study-techniques | STRATEGIC | Evidence-based study techniques | Retrieval practice, spacing, interleaving; low-utility techniques like rereading and highlighting.
-lrn.autonomy | CONCEPTUAL | Learner autonomy | Taking responsibility for learning decisions in and beyond class.
 lrn.language-learning-strategies | STRATEGIC | Language learning strategies | Selecting and orchestrating strategies for continued language development.
 lrn.reflective-logs | STRATEGIC | Reflective learning logs | Using learning journals to plan and evaluate progress.
 lrn.support-services | STRATEGIC | Using academic support services | Library, writing centre, in-sessional EAP, maths support, disability and wellbeing services.
@@ -570,6 +563,8 @@ lrn.wellbeing | STRATEGIC | Sustainable study habits and wellbeing | Managing st
 lrn.motivation | CONCEPTUAL | Motivation and the L2 self | Ideal and ought-to L2 selves and learning experience.
 lrn.metacognitive-knowledge | CONCEPTUAL | Metacognitive knowledge | Knowledge of oneself as a learner, of tasks and of strategies.
 lrn.content-through-english | CONCEPTUAL | Learning subject content through English | Learning disciplinary content and language together (CLIL/EMI/foundation contexts).
+
+## STRAND: Assessment & Progression
 
 ### DOMAIN FBK: Feedback & Assessment Literacy
 fbk.assessment-literacy | CONCEPTUAL | University assessment literacy | Formative vs summative assessment, learning outcomes and assessment types.
@@ -583,11 +578,10 @@ fbk.self-peer-assessment | STRATEGIC | Self- and peer-assessment | Calibrating j
 
 ### DOMAIN EXM: Exams & Timed Performance
 exm.exam-formats | CONCEPTUAL | University exam formats | Unseen, seen, open-book, take-home, MCQ, OSCE and oral formats.
-exm.question-analysis | PROCEDURAL | Analysing exam questions | Interpreting exam questions and allocating time by marks.
 exm.revision-planning | STRATEGIC | Planning revision | Spaced, active revision schedules.
 exm.timed-writing | PROCEDURAL | Timed writing | Planning and writing under time pressure.
 exm.objective-questions | STRATEGIC | Objective question strategies | Multiple-choice and short-item strategies.
-exm.open-book | PROCEDURAL | Open-book and take-home exams | Preparing resources and integrity in open-book formats.
+exm.open-book | PROCEDURAL | Open-book, take-home and online time-windowed exams | Preparing resources and integrity in open-book formats.
 exm.oral-exams | PROCEDURAL | Oral examinations | Preparing for and performing in oral assessments.
 exm.test-anxiety | STRATEGIC | Managing test anxiety | Strategies to reduce the impact of anxiety on performance.
 
@@ -596,10 +590,10 @@ tst.assessment-purposes | CONCEPTUAL | Proficiency, achievement and progression 
 tst.cefr-entry | CONCEPTUAL | CEFR levels and entry requirements | How CEFR levels and test scores relate to university and visa entry requirements.
 tst.test-formats | CONCEPTUAL | Academic proficiency test formats | Formats and task types of major academic English tests.
 tst.test-vs-university | CONCEPTUAL | Test tasks versus university tasks | Differences between test writing/speaking tasks and authentic university tasks.
-tst.integrated-test-tasks | PROCEDURAL | Integrated test tasks | Strategies for integrated reading/listening-to-writing or speaking test tasks.
 tst.presessional-progression | CONCEPTUAL | Pre-sessional progression assessment | Extended writing, research projects, presentations and portfolios used for progression decisions.
+tst.score-reports | CONCEPTUAL | Score reports, validity and test choice | Reading proficiency-test score reports (overall and component scores, retake and combined-sitting rules where they exist), judging whether they meet a requirement, and choosing a test.
 
-## STRAND: Academic Socialisation & Communication
+## STRAND: Academic Socialisation, Identity & Communication
 
 ### DOMAIN ACU: Academic Culture & Expectations
 acu.university-structures | CONCEPTUAL | How universities are organised | Schools, departments, programmes, modules, roles and governance relevant to students.
@@ -611,7 +605,7 @@ acu.hidden-curriculum | CONCEPTUAL | Tacit expectations | Making implicit academ
 acu.academic-literacies | CONCEPTUAL | Academic literacies perspective | Writing as social practice involving identity, power and institutional context.
 acu.transition | STRATEGIC | Transition and adjustment | Academic and sociocultural adjustment to a new educational context.
 acu.roles-address | SOCIOPRAGMATIC | Academic roles and forms of address | Titles, roles and appropriate address across institutional cultures.
-acu.critical-eap | CONCEPTUAL | Critical perspectives on EAP | Questioning norms, power and the purposes of EAP itself.
+acu.critical-eap | CONCEPTUAL | Making informed choices about academic conventions | Questioning norms, power and the purposes of EAP itself.
 acu.emi-tne | CONCEPTUAL | EMI and transnational education contexts | Studying through English in non-anglophone and transnational settings.
 
 ### DOMAIN PRG: Academic Pragmatics & Correspondence
@@ -623,7 +617,18 @@ prg.formal-statements | GENRE | Formal statements and appeals | Extenuating circ
 prg.apologising-explaining | SOCIOPRAGMATIC | Apologising and explaining | Apologies and accounts for missed deadlines or absences.
 prg.forum-posts | GENRE | Online discussion forum posts | Asynchronous academic discussion posts and replies.
 prg.messaging-channels | SOCIOPRAGMATIC | Messaging channels and norms | Choosing email vs VLE vs messaging platforms; response times and tone.
-prg.acknowledgements | GENRE | Acknowledgements | Thesis and article acknowledgements.
+prg.informal-academic-interaction | SOCIOPRAGMATIC | Informal academic interaction and networking | Small talk and relationship-building with peers, lab colleagues and staff around teaching and at departmental events, moving between informal and academic talk.
+prg.professional-applications | GENRE | Applications and interviews for placements and graduate roles | Cover letters, competency-based answers and interview talk that translate academic experience into evidence for employers.
+
+### DOMAIN IDN: Identity, Plurilingualism & Intercultural Competence
+idn.academic-identity | CONCEPTUAL | Academic and writer identity | How writing constructs identity; negotiating new academic identities.
+idn.plurilingual-repertoire | STRATEGIC | Drawing on a plurilingual repertoire | Translanguaging and plurilingual strategies as resources for learning.
+idn.elf | CONCEPTUAL | English as a lingua franca in academia | Communicative effectiveness among multilingual users; accommodation.
+idn.intercultural-communication | SOCIOPRAGMATIC | Intercultural communication | Managing differences in expectations, communication style and assumptions.
+idn.intercultural-rhetoric | CONCEPTUAL | Intercultural rhetoric | From contrastive to intercultural and critical views of rhetorical variation.
+idn.diversity-as-resource | CONCEPTUAL | Linguistic diversity as resource | Challenging deficit framings of multilingual students.
+idn.standards-legitimacy | CONCEPTUAL | Standards, native-speakerism and legitimacy | Questioning native-speaker norms as the benchmark for academic English.
+idn.translingual-writing | CONCEPTUAL | Translingual writing and code-meshing | Understanding translingual approaches in which writers deliberately bring other languages or Englishes into academic texts, when and how this is accepted, and how to negotiate it with readers and assessors.
 
 ## STRAND: Digital Literacy & AI
 
@@ -631,11 +636,12 @@ prg.acknowledgements | GENRE | Acknowledgements | Thesis and article acknowledge
 dig.vle | PROCEDURAL | Virtual learning environments | Navigating VLEs, submission portals and course resources.
 dig.reference-managers | PROCEDURAL | Reference management software | Zotero, EndNote, Mendeley: collecting, organising and inserting citations.
 dig.word-processing | PROCEDURAL | Academic word processing | Styles, automatic headings, contents pages, captions and cross-references.
-dig.machine-translation | STRATEGIC | Machine translation | Appropriate, transparent and permitted uses of MT.
+dig.machine-translation | STRATEGIC | Translation tools in reading and drafting | Appropriate, transparent and permitted uses of MT.
 dig.digital-collaboration | PROCEDURAL | Digital collaboration tools | Shared documents, comments, track changes and cloud workspaces.
 dig.file-management | PROCEDURAL | File and version management | Versioning, backups and organising project files.
 dig.digital-etiquette | SOCIOPRAGMATIC | Digital etiquette and online presence | Netiquette, academic profiles and privacy online.
 dig.automated-feedback-tools | STRATEGIC | Automated writing evaluation tools | Using AWE tools as one input among others.
+dig.assistive-technology | STRATEGIC | Assistive technology and study adjustments | Using assistive and accessibility technologies (text-to-speech, dictation, screen readers, reading and planning supports) and institutional adjustments as legitimate academic practice, within assessment rules.
 
 ### DOMAIN GAI: Generative AI Literacy
 gai.how-genai-works | CONCEPTUAL | How generative AI works and fails | Prediction-based generation, hallucination, bias and training data limits.
@@ -645,7 +651,6 @@ gai.verifying-output | PROCEDURAL | Verifying AI output | Checking facts and ref
 gai.language-support | STRATEGIC | Using AI as a language-learning resource | Feedback, explanation and practice uses that build rather than replace competence.
 gai.authorship-voice | CONCEPTUAL | AI, authorship and voice | Ownership of ideas and words; maintaining one's own voice and reasoning.
 gai.detection-limits | CONCEPTUAL | Limits of AI detection | Unreliability and bias of detectors, especially toward multilingual writers.
-gai.prompting-for-learning | STRATEGIC | Prompting for learning | Prompts that elicit explanation, questions and feedback rather than finished text.
 gai.research-tools | PROCEDURAL | AI-assisted research tools | AI literature-search and summarisation tools and their limitations.
 gai.privacy-ip | CONCEPTUAL | Privacy, data and intellectual property with AI | Uploading data, confidentiality, copyright and research ethics.
 
@@ -658,6 +663,7 @@ dse.protocols-specifications | GENRE | Protocols and specifications | Procedural
 dse.hypothesis-language | LINGUISTIC | Language of experimentation | Hypotheses, variables, controls, error and uncertainty language.
 dse.software-documentation | GENRE | Software and technical documentation | README files, code comments, API documentation and design documents.
 dse.mathematical-writing | GENRE | Mathematical writing and proofs | Writing proofs and worked solutions in prose and notation.
+dse.lab-notebooks | GENRE | Laboratory notebooks and research records | Keeping contemporaneous, reproducible lab, computational or fieldwork records that meet research-integrity and data-management expectations.
 
 ### DOMAIN DHL: Health & Life Sciences
 dhl.evidence-based-practice | CONCEPTUAL | Evidence-based practice | Integrating research evidence, clinical expertise and patient values.
@@ -665,12 +671,16 @@ dhl.reflective-practice | GENRE | Reflective practice writing in health | Struct
 dhl.case-reports-care-plans | GENRE | Case reports and care plans | Clinical case presentations and care planning documentation.
 dhl.professional-communication | SOCIOPRAGMATIC | Professional communication in health placements | Communicating with patients, families and colleagues.
 dhl.critical-appraisal | GENRE | Critical appraisal and systematic review writing | Using appraisal tools and reporting reviews.
+dhl.clinical-reasoning-writing | PROCEDURAL | Writing clinical reasoning | Making assessment, problem identification and intervention reasoning explicit in nursing, pharmacy and allied-health assignments, linked to evidence and professional standards.
+dhl.care-plans | GENRE | Care plans | Care plans and care-planning assignments that move from holistic assessment to prioritised, person-centred needs, goals, evidence-based interventions and evaluation.
 
 ### DOMAIN DBE: Business & Economics
 dbe.business-case-analysis | GENRE | Business case analysis | Applying analytic frameworks to organisational cases.
 dbe.economic-reasoning | LINGUISTIC | Language of economic reasoning | Models, assumptions, ceteris paribus and conditional reasoning.
 dbe.professional-genres | GENRE | Professional business genres | Memos, pitches, briefing notes and reports for managers.
 dbe.critical-frameworks | PROCEDURAL | Applying management frameworks critically | Using SWOT, PESTLE and similar tools analytically rather than as lists.
+dbe.accounting-finance-discourse | GENRE | Language and genres of accounting and finance | Financial statement commentary, audit and valuation reports, and the evaluative and hedged language of financial analysis in finance and accounting assessments.
+dbe.consultancy-report | GENRE | Consultancy and client project reports | Client-facing reports for live or simulated consultancy projects: problem framing, evidence-based recommendations, implementation and reflection, for a client and an academic marker.
 
 ### DOMAIN DLW: Law
 dlw.legal-language | CONCEPTUAL | Legal language and register | Features of legal English and terms of art.
@@ -678,12 +688,16 @@ dlw.case-reading | PROCEDURAL | Reading and briefing cases | Identifying facts, 
 dlw.problem-questions | GENRE | Legal problem questions | IRAC-style analysis of hypothetical facts.
 dlw.statutes | PROCEDURAL | Reading legislation | Navigating statutory structure and interpretive language.
 dlw.legal-essays | GENRE | Legal essays | Argument about law and policy with legal authority.
+dlw.mooting | GENRE | Mooting and oral legal argument | Preparing and delivering oral legal submissions in moots and assessed advocacy: skeleton arguments, ordering grounds, citing authority orally and answering judicial questions.
+dlw.legal-research-writing | PROCEDURAL | Legal research and dissertation writing | Planning and writing a law dissertation: choosing and justifying a doctrinal, socio-legal, comparative or theoretical method, building a research question, and structuring sustained legal argument.
 
 ### DOMAIN DSS: Social Sciences & Education
 dss.operationalising-concepts | PROCEDURAL | Working with concepts | Defining and operationalising contested social concepts.
-dss.qualitative-writing | GENRE | Qualitative research writing | Field notes, thematic analysis and interpretive claims.
+dss.qualitative-writing | GENRE | Field notes, analytic memos and analysis accounts | Field notes, thematic analysis and interpretive claims.
 dss.policy-analysis | GENRE | Policy analysis | Analysing problems, options and evidence for policy.
 dss.methodology-justification | PROCEDURAL | Justifying methodology | Paradigms, design choices and their justification.
+dss.psychology-research-report | GENRE | Psychology research reports | APA-style empirical reports in psychology: hypotheses, participants and materials, statistical reporting conventions and the discipline's stance conventions.
+dss.education-practice-genres | GENRE | Education and TESOL practice genres | Lesson plans with rationale, teaching-practice reflections, materials evaluations and small-scale classroom research reports in education and TESOL programmes.
 
 ### DOMAIN DHU: Humanities
 dhu.close-reading | PROCEDURAL | Close reading and textual analysis | Analysing language, form and meaning in texts.
@@ -696,3 +710,4 @@ dad.studio-critique | SOCIOPRAGMATIC | Studio critiques | Presenting work and re
 dad.artist-statement | GENRE | Artist and design statements | Short statements explaining concept, process and context.
 dad.design-rationale | GENRE | Design rationale and process documentation | Justifying design decisions and documenting iteration.
 dad.visual-analysis | PROCEDURAL | Visual analysis | Describing and interpreting visual works with disciplinary vocabulary.
+dad.practice-research-exegesis | GENRE | Practice-based research and exegesis | The exegesis or critical commentary that accompanies practice-based research in art, design and performance, situating the practice in its field and articulating its contribution.

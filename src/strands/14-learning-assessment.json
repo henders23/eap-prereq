@@ -3,15 +3,16 @@
   "domains": [
     {
       "code": "EXM",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "name": "Exams & Timed Performance",
       "summary": "This domain covers university examinations and timed performance: understanding exam formats, analysing exam questions, planning revision, writing under time pressure, approaching objective-format questions, open-book and take-home exams, oral examinations and managing test anxiety. It draws on cognitive research on retrieval and spacing (Dunlosky et al., 2013; Roediger & Karpicke, 2006), research on planning under time pressure (Ellis & Yuan, 2004), writing assessment (Weigle, 2002) and test anxiety (Putwain, 2008; Horwitz et al., 1986). Emphasis is on matching preparation and in-exam behaviour to the demands of each format rather than on generic exam tips.",
       "learnerSummary": "You will learn how different university exams work, how to read exam questions precisely, how to revise so that you remember, how to write and speak well under time pressure, and how to manage exam nerves.",
       "stageEmphasis": {
         "foundation": "First experience of university-style exams in subject modules: formats, question analysis, revision planning and timed writing, often alongside content learning in English.",
-        "pre-sessional": "Timed writing and oral assessment as part of progression, with attention to question analysis and managing anxiety in high-stakes conditions.",
         "in-sessional-ug": "Support before exam seasons: revision planning, exam essays and short answers, objective-format papers and open-book or take-home exams.",
-        "in-sessional-pgt": "Rapid preparation for unfamiliar formats (seen papers, take-home exams, case-based exams) within a compressed year."
+        "in-sessional-pgt": "Rapid preparation for unfamiliar formats (seen papers, take-home exams, case-based exams) within a compressed year.",
+        "pre-sessional-ug": "Timed writing and oral assessment as part of progression, with attention to question analysis and managing anxiety in high-stakes conditions.",
+        "pre-sessional-pg": "Timed writing and oral assessment as part of progression, with attention to question analysis and managing anxiety in high-stakes conditions."
       },
       "keyReferences": [
         "dunlosky2013",
@@ -23,16 +24,17 @@
     },
     {
       "code": "FBK",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "name": "Feedback & Assessment Literacy",
       "summary": "This domain covers how learners come to understand university assessment and use feedback: assessment purposes and rules, grading systems, marking criteria, feedback literacy, acting on feedback, using written corrective feedback, seeking feedback and self- and peer-assessment. It draws on Sadler's (1989) argument that learners must come to share the assessor's concept of quality, on feedback as a support for self-regulation (Nicol & Macfarlane-Dick, 2006; Hattie & Timperley, 2007) and on student feedback literacy (Carless & Boud, 2018). On written corrective feedback, the contested evidence (Truscott, 1996; Ferris, 1999; Bitchener & Ferris, 2012; Kang & Han, 2015) should be presented honestly.",
       "learnerSummary": "You will learn how university assessment works, what marking criteria and grades really mean, and how to ask for, understand and act on feedback so that each assignment improves the next.",
       "stageEmphasis": {
         "foundation": "Explicit introduction to formative and summative assessment, local grading conventions and rubrics, often the learner's first encounter with criterion-referenced coursework.",
-        "pre-sessional": "Intensive use of criteria, exemplars, correction codes and draft-feedback cycles leading to the progression assessment.",
         "in-sessional-ug": "Interpreting disciplinary criteria and feedback on early assignments, and building feed-forward habits across modules.",
         "in-sessional-pgt": "Rapid calibration to master's-level standards, where marks are often lower than learners expect and feedback windows are short.",
-        "pgr": "Seeking and negotiating feedback from supervisors, peers and reviewers, and developing the evaluative judgement needed to review one's own and others' research writing."
+        "pgr": "Seeking and negotiating feedback from supervisors, peers and reviewers, and developing the evaluative judgement needed to review one's own and others' research writing.",
+        "pre-sessional-ug": "Intensive use of criteria, exemplars, correction codes and draft-feedback cycles leading to the progression assessment.",
+        "pre-sessional-pg": "Intensive use of criteria, exemplars, correction codes and draft-feedback cycles leading to the progression assessment."
       },
       "keyReferences": [
         "sadler1989",
@@ -50,10 +52,11 @@
       "learnerSummary": "You will learn how to plan, monitor and evaluate your own learning, choose study methods that actually work, manage your time and wellbeing, and keep developing your English after your course ends.",
       "stageEmphasis": {
         "foundation": "Explicit, scaffolded introduction to independent study, time management and evidence-informed study techniques, linked to the shift from school to university-style learning.",
-        "pre-sessional": "Compressed work on goal setting, reflective logs and study techniques tied to weekly tasks and the progression decision, with an eye to continued development during the degree.",
         "in-sessional-ug": "Embedded support at transition points (first assessments, first exam season), focusing on time management, study techniques and use of support services.",
         "in-sessional-pgt": "Rapid orientation to a dense one-year programme: workload planning, independent study expectations and strategies for learning disciplinary content and language together.",
-        "pgr": "Self-regulation across long, loosely structured projects: goal setting, time management, wellbeing and use of researcher development and supervisory support."
+        "pgr": "Self-regulation across long, loosely structured projects: goal setting, time management, wellbeing and use of researcher development and supervisory support.",
+        "pre-sessional-ug": "Compressed work on goal setting, reflective logs and study techniques tied to weekly tasks and the progression decision, with an eye to continued development during the degree.",
+        "pre-sessional-pg": "Compressed work on goal setting, reflective logs and study techniques tied to weekly tasks and the progression decision, with an eye to continued development during the degree."
       },
       "keyReferences": [
         "zimmerman2002",
@@ -66,15 +69,16 @@
     },
     {
       "code": "TST",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "name": "Proficiency Tests & Progression",
       "summary": "This domain helps learners understand the language assessments that control access to and progression through university study: the purposes of different assessments, CEFR levels and entry requirements, the formats and constructs of academic proficiency tests, the differences between test tasks and university tasks, strategies for integrated test tasks, and pre-sessional progression assessment. It draws on language assessment theory (Bachman & Palmer, 2010; Weigle, 2002), the CEFR (Council of Europe, 2001, 2020; North, 2014) and research on test washback and on the gap between test and university writing (Green, 2007; Moore & Morton, 2005). Test formats, score requirements and visa rules change, so content is framed at the level of task types and constructs, and learners are directed to current official sources.",
       "learnerSummary": "You will learn what language tests and progression assessments are for, what their scores do and do not tell you, how test tasks differ from university work, and how to prepare without letting the test narrow your learning.",
       "stageEmphasis": {
         "foundation": "Understanding entry and progression requirements and test formats, while building the broader academic literacy that tests only partly measure.",
-        "pre-sessional": "Central: understanding the progression assessment, how it relates to entry requirements and proficiency tests, and moving from test-oriented habits to university-oriented ones.",
         "in-sessional-ug": "Addressing the transition from test preparation to disciplinary writing, especially where first-year students carry test templates into coursework.",
-        "in-sessional-pgt": "Rapid recalibration for master's students who entered directly with a test score and must adjust from test tasks to source-based disciplinary writing."
+        "in-sessional-pgt": "Rapid recalibration for master's students who entered directly with a test score and must adjust from test tasks to source-based disciplinary writing.",
+        "pre-sessional-ug": "Central: understanding the progression assessment, how it relates to entry requirements and proficiency tests, and moving from test-oriented habits to university-oriented ones.",
+        "pre-sessional-pg": "Central: understanding the progression assessment, how it relates to entry requirements and proficiency tests, and moving from test-oriented habits to university-oriented ones."
       },
       "keyReferences": [
         "bachmanpalmer2010",
@@ -90,18 +94,12 @@
     {
       "id": "exm.exam-formats",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Exams & Timed Performance",
       "name": "University exam formats",
       "description": "Understand the main formats of university examination (unseen and seen written papers, open-book and take-home exams, multiple-choice and short-answer tests, problem-based papers, oral and practical examinations such as OSCEs in health programmes, and computer-based or online variants) and what kind of knowledge and performance each rewards, so that preparation and in-exam behaviour match the format.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the format of each exam on their programme using handbooks and past papers",
@@ -114,61 +112,27 @@
         "horowitz1986",
         "bachmanpalmer2010"
       ],
-      "frameworks": []
-    },
-    {
-      "id": "exm.question-analysis",
-      "type": "PROCEDURAL",
-      "strand": "Learning & Autonomy",
-      "domain": "Exams & Timed Performance",
-      "name": "Analysing exam questions",
-      "description": "Analyse an exam question quickly and accurately, identifying the command word or words, topic, focus and limiting words, implicit sub-questions and the expected answer type, and allocate time across questions in proportion to marks.",
-      "cefrStart": "B1+",
-      "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Marks the command, topic, focus and limiting words in a question and paraphrases what it requires",
-        "Identifies multi-part questions and implicit sub-questions, such as the judgement of degree required by 'to what extent'",
-        "Distinguishes questions inviting description from those requiring evaluation or argument",
-        "Allocates time per question in proportion to marks, including time for planning and checking",
-        "Recognises when a question that superficially matches a revised topic actually asks for something different"
-      ],
-      "assessmentPrompt": "Give three exam questions on the same topic with different command words and limiting phrases (for example, 'Outline…', 'Critically evaluate… with reference to…', 'To what extent… since 2010?'). Ask the learner what a good answer to each would do. Look for distinctions in the shape of the answer and attention to limiting words; treating all three as 'write about the topic' indicates a gap.",
-      "citations": [
-        "horowitz1986",
-        "bereiter1987"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:rec.read.instructions",
-          "levels": [
-            "B1+",
-            "B2"
-          ],
-          "contribution": "component"
-        }
-      ]
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "exm.revision-planning",
       "type": "STRATEGIC",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Exams & Timed Performance",
       "name": "Planning revision",
       "description": "Plan revision as a spaced, active schedule that begins weeks before the exam period: mapping the syllabus and past-paper demands, distributing sessions across topics, building sessions around retrieval and timed practice, and adjusting the plan according to self-test results.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a revision timetable that starts several weeks before exams and revisits each topic more than once",
@@ -182,23 +146,25 @@
         "cepeda2006",
         "roediger2006"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "exm.timed-writing",
       "type": "PROCEDURAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Exams & Timed Performance",
       "name": "Timed writing",
       "description": "Produce coherent, relevant written answers under time pressure: planning rapidly (a brief outline and a position), allocating time between planning, writing and checking, writing fluently without sources to hand, and checking for one's own most frequent errors. Applies to exam essays, short-answer papers and timed tasks in language tests and progression assessments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Spends a small, planned share of the available time on a brief outline with a position before writing",
@@ -234,22 +200,27 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "exm.objective-questions",
       "type": "STRATEGIC",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Exams & Timed Performance",
       "name": "Objective question strategies",
       "description": "Approach multiple-choice, true/false, matching and short-item questions strategically: reading stems precisely (including negatives and qualifiers), predicting an answer before reading the options, eliminating distractors for stated reasons, managing time and flagged items, and applying the paper's rules on guessing and negative marking.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies negatives, absolutes and qualifiers in a stem or option and explains how they change the answer",
@@ -263,22 +234,25 @@
         "dunlosky2013",
         "haladyna2002"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "exm.open-book",
       "type": "PROCEDURAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Exams & Timed Performance",
       "name": "Open-book, take-home and online time-windowed exams",
       "description": "Prepare for and complete open-book and take-home exams, recognising that they assess application, analysis and synthesis rather than recall: organising and indexing permitted materials in advance, managing extended time windows, and observing paper-specific rules on collaboration, sources, citation and AI use.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Prepares an organised, indexed set of notes and sources that can be navigated quickly",
@@ -292,23 +266,25 @@
         "bretag2016",
         "pecorari2013"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "exm.oral-exams",
       "type": "PROCEDURAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Exams & Timed Performance",
       "name": "Oral examinations",
       "description": "Prepare for and perform in oral assessments such as questioning on submitted work, individual oral examinations, interactive orals and the speaking components of language assessments: anticipating question types, structuring spoken answers, asking for clarification or repetition, gaining thinking time appropriately and recovering from breakdowns.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Anticipates likely questions from the assessment's purpose and prepares flexible answer outlines rather than memorised scripts",
@@ -347,23 +323,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "exm.test-anxiety",
       "type": "STRATEGIC",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Exams & Timed Performance",
       "name": "Managing test anxiety",
       "description": "Recognise how anxiety in evaluative situations (written exams, timed tests, oral assessments and high-stakes proficiency tests) can interfere with performance, particularly through worry that takes up attention, and use preparation, reappraisal and in-exam techniques to reduce its impact, while knowing when anxiety calls for professional support or reasonable adjustments.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes the worry (cognitive) and physical or emotional components of their own exam anxiety",
@@ -377,23 +357,27 @@
         "horwitz1986",
         "ramirez2011"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.assessment-literacy",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "University assessment literacy",
       "description": "Understand how university assessment works: the difference between formative and summative assessment; how learning outcomes, assessment briefs and marking criteria relate; the range of assessment types; and the rules on weighting, deadlines, word limits, extensions, mitigating circumstances and resits. This knowledge lets learners focus effort where it counts and recognise formative opportunities that carry no marks.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes the formative from the summative tasks in a module and explains how to use each",
@@ -406,23 +390,27 @@
         "sadler1989",
         "nicol2006"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.grading-systems",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "Grading systems",
       "description": "Understand how marks are expressed and interpreted in the learner's institution (for example, UK percentage bands and undergraduate degree classifications, master's pass, merit and distinction thresholds, or GPA-style systems) and what grade bands signal about the quality of work, so that marks are neither over- nor under-interpreted against expectations carried over from other systems.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Converts a mark into its band or classification under the local scheme and explains what the band indicates about quality",
@@ -434,23 +422,27 @@
       "citations": [
         "sadler1989"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.marking-criteria",
       "type": "PROCEDURAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "Interpreting marking criteria",
       "description": "Unpack the marking criteria, rubrics and grade descriptors for a specific task: identify what each criterion values, how adjacent bands differ, and what evaluative language such as 'critical', 'well-structured' or 'appropriate use of sources' means in observable textual terms, using exemplars to make tacit standards concrete.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Rewrites each criterion in a rubric as a concrete question that can be asked of a draft",
@@ -465,24 +457,27 @@
         "odonovan2004",
         "leastreet1998"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.feedback-literacy",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "Feedback literacy",
       "description": "Understand feedback as information that learners must actively make sense of and use, not something simply delivered to them. This involves appreciating its purpose, developing the capacity to make evaluative judgements, managing emotional responses and taking action (Carless and Boud's four features). Feedback is recognised in many forms: written comments, rubric marks, peer comments, discussion in class, tutorials and automated tools.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies several sources of feedback in a module, including informal and peer feedback, beyond comments on marked work",
@@ -497,24 +492,28 @@
         "hattietimperley2007",
         "nicol2006"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.acting-on-feedback",
       "type": "STRATEGIC",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "Acting on feedback",
       "description": "Turn feedback into a feed-forward action plan: categorise comments, identify issues that recur across assignments, decide which apply to the next (often different) task, act on them and check whether the change worked.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Groups comments from several pieces of work into recurring themes",
@@ -529,23 +528,28 @@
         "nicol2006",
         "winstone2017"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.corrective-feedback",
       "type": "STRATEGIC",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "Using written corrective feedback",
       "description": "Use written corrective feedback on language (direct corrections, correction codes, underlining or margin indications) to understand the nature of errors, self-correct where feedback is indirect, and track recurring error patterns, recognising that one-off corrections rarely carry over to new writing without follow-up.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Interprets a course's correction code and states the rule or pattern behind each coded error",
@@ -579,24 +583,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.seeking-feedback",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "Seeking feedback",
       "description": "Request feedback that is specific, timely and usable (on a draft, plan or idea) from tutors, supervisors and peers, framing the request politely and within institutional norms, such as what tutors may comment on before submission, and following up to clarify comments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes a feedback request that names the specific aspect to be commented on and why",
@@ -628,24 +635,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "fbk.self-peer-assessment",
       "type": "STRATEGIC",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Feedback & Assessment Literacy",
       "name": "Self- and peer-assessment",
       "description": "Judge the quality of one's own and peers' work against criteria and exemplars, give feedback that is specific and criterion-referenced, and calibrate these judgements over time by comparing them with tutors' judgements. The aim is evaluative judgement, not self-grading.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Rates a draft against criteria and cites textual evidence for each rating",
@@ -660,7 +671,18 @@
         "sadler1989",
         "liuhansen2002"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.metacognitive-knowledge",
@@ -671,12 +693,6 @@
       "description": "Knowledge of oneself as a learner and user of English, of what particular academic tasks demand, and of which strategies suit which tasks and conditions (Flavell's person, task and strategy variables). Accurate metacognitive knowledge allows learners to plan, monitor and adjust their learning rather than relying on habit or on how familiar material feels.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes their current strengths and gaps across reading, listening, writing and speaking using specific evidence (marks, feedback comments, recurring errors) rather than global labels",
@@ -691,7 +707,17 @@
         "vandergriftgoh2012",
         "bjork2013"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.self-regulation",
@@ -702,13 +728,6 @@
       "description": "Understand self-regulated learning as a cyclical process of forethought (analysing the task, setting goals, planning strategies, appraising one's self-efficacy), performance (self-monitoring and controlled strategy use) and self-reflection (evaluating outcomes against standards, attributing causes and adapting). The model gives learners and teachers a shared language for locating where independent study breaks down.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes the three phases of a self-regulation cycle and the main processes in each, using an example from their own study",
@@ -726,7 +745,18 @@
           "key": "vitae-rdf:B2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.motivation",
@@ -737,12 +767,6 @@
       "description": "Understand motivation for continued language and academic development through Dörnyei's L2 Motivational Self System (the ideal L2 self, the ought-to L2 self and the learning experience), and use a specific, plausible image of oneself as a competent academic user of English, linked to concrete current actions, to sustain effort beyond an entry requirement or the end of an EAP course.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Articulates a specific future academic or professional self that uses English (for example, contributing in lab meetings or writing a dissertation) rather than a generic aim to 'improve my English'",
@@ -754,37 +778,17 @@
       "citations": [
         "dornyei2009"
       ],
-      "frameworks": []
-    },
-    {
-      "id": "lrn.autonomy",
-      "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
-      "domain": "Self-Regulated Learning",
-      "name": "Learner autonomy",
-      "description": "Understand learner autonomy as a developing capacity to take control over one's learning (choosing objectives, content and methods, and monitoring and evaluating progress) that grows through supported practice, rather than as studying alone or without a teacher. Autonomy underpins the independent study, strategy choice and continued development that universities expect but rarely teach explicitly.",
-      "cefrStart": "B1",
-      "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Explains the difference between autonomy as control over learning decisions and isolation or unsupported self-instruction",
-        "Makes and justifies a learning decision that no teacher has prescribed, such as selecting additional materials for a known weakness",
-        "Evaluates the outcome of a self-initiated learning activity and decides whether to continue, adapt or abandon it",
-        "Identifies constraints on their control in a given context (assessment rules, time, resources) and works within or around them"
-      ],
-      "assessmentPrompt": "Ask: 'Describe something you learned in English in the last fortnight that no teacher asked you to learn. How did you choose it, how did you go about it, and how did you know whether it worked?' A strong answer shows a self-made decision at each stage; a weak one describes only teacher-set work or an intention without action.",
-      "citations": [
-        "holec1981",
-        "benson2011"
-      ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.goal-setting",
@@ -795,13 +799,6 @@
       "description": "Set specific, near-term and checkable language and academic goals derived from actual course and assessment demands, and turn them into planned actions, including if–then plans for predictable obstacles. Well-formed goals turn a general wish to 'improve my English' into decisions about what to practise this week and how progress will be judged.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes goals that specify the skill or language feature, the context of use, a success indicator and a time frame",
@@ -820,7 +817,18 @@
           "key": "vitae-rdf:B3",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.time-management",
@@ -831,13 +839,6 @@
       "description": "Plan, prioritise and protect study time across concurrent deadlines: estimating task duration realistically, scheduling backwards from deadlines, allocating time to independent study as well as taught sessions, and recognising and countering procrastination. For L2 learners, realistic estimates must include the extra time that reading and writing in English may take.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a weekly plan that includes taught sessions, scheduled independent study blocks and deadlines across modules",
@@ -856,7 +857,18 @@
           "key": "vitae-rdf:B2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.independent-study",
@@ -867,12 +879,6 @@
       "description": "Understand the scale and purpose of independent study in higher education systems where expected study hours far exceed contact hours (in many UK institutions one credit conventionally represents about ten notional learning hours), and plan that time productively: preparing for and consolidating taught sessions, following up reading, practising language and progressing assessments without waiting for instructions.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Estimates the independent study a module expects from its credit value or handbook and compares this with their current practice",
@@ -885,7 +891,17 @@
         "wingate2006",
         "benson2011"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.study-techniques",
@@ -896,12 +912,6 @@
       "description": "Choose and use study techniques that cognitive research rates highly for durable learning (above all retrieval practice and distributed practice, with interleaving and self-explanation as promising options) instead of relying on lower-utility habits such as rereading, highlighting and copying notes. The techniques apply to language items (vocabulary, formulaic phrases, citation conventions) as well as disciplinary content.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Converts notes or readings into retrieval questions and self-tests without looking at the source",
@@ -917,7 +927,17 @@
         "cepeda2006",
         "bjork2013"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.language-learning-strategies",
@@ -928,12 +948,6 @@
       "description": "Select, combine and evaluate strategies for continuing to develop academic English beyond the course: for example, noticing and recording useful language from disciplinary reading, deliberate vocabulary study, seeking opportunities for spoken interaction and feedback, using the L1 as a resource, and managing affect. Strategies are chosen to fit the task and goal rather than out of habit.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Names and uses strategies from several categories (memory, cognitive, compensation, metacognitive, affective, social) that fit an identified need",
@@ -956,7 +970,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.reflective-logs",
@@ -967,12 +991,6 @@
       "description": "Keep a structured learning log or journal that records goals, actions taken, evidence of progress and next steps, and use it to make decisions. The key distinction is between analytical reflection, which explains and leads to action, and description of activities or feelings alone.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes entries that link a learning action to evidence of its effect and a decision about what to do next",
@@ -994,7 +1012,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.support-services",
@@ -1005,13 +1033,6 @@
       "description": "Identify the academic and personal support a university offers (library and subject librarians, writing or academic skills centres, in-sessional EAP, maths and statistics support, disability, wellbeing and advice services) and use it early, with a prepared and specific request, as a normal part of good study practice rather than a last resort.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Locates the right service for a given need (statistics help, a reading-list query, a disability adjustment) using institutional web pages or the VLE",
@@ -1024,7 +1045,18 @@
         "wingate2015",
         "sloanporter2010"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.wellbeing",
@@ -1035,13 +1067,6 @@
       "description": "Sustain study across a term or degree by anticipating workload peaks, protecting sleep, breaks and social connection, recognising early signs that stress is affecting learning, and knowing when and how to seek help. Wellbeing is treated here as a condition for learning, not as a clinical intervention.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies predictable pressure points in their term (assessment clusters, exam season) and plans for them in advance",
@@ -1058,7 +1083,18 @@
           "key": "vitae-rdf:B2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "lrn.content-through-english",
@@ -1069,12 +1105,6 @@
       "description": "Understand that in foundation, English-medium and degree contexts, disciplinary concepts and the English used to express them are learned together: technical terms, characteristic text types and ways of explaining are part of the content. Learners use this understanding to plan for the double load, for example by previewing terminology, using L1 resources strategically and checking conceptual understanding as well as language.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies terms and constructions in a subject text or lecture whose meaning is disciplinary rather than everyday",
@@ -1105,23 +1135,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "tst.assessment-purposes",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Proficiency Tests & Progression",
       "name": "Proficiency, achievement and progression assessment",
       "description": "Distinguish the purposes of different language assessments (proficiency, placement, diagnostic, achievement, and progression or gatekeeping decisions) and understand that a score is evidence supporting a particular interpretation and decision, not a fixed property of the learner. This helps learners interpret their results realistically and use each assessment for its intended purpose.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies assessments they have taken or will take by purpose (an entry test, a placement test, a weekly quiz, a post-entry diagnostic task, a progression assessment)",
@@ -1135,21 +1169,27 @@
         "coe2001",
         "murray2016standards"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "tst.cefr-entry",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Proficiency Tests & Progression",
       "name": "CEFR levels and entry requirements",
       "description": "Understand what CEFR levels describe (communicative ability in can-do terms across activities, including 'plus' levels and uneven profiles across skills), how university and visa entry requirements are expressed through test scores and levels, and why the relationship between a test score and a CEFR level rests on test owners' published alignment claims, which are approximate and debated. Requirements are set by institutions and government bodies and change over time.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains what a CEFR level describes and why a learner's profile can differ across skills",
@@ -1165,21 +1205,25 @@
         "ukvi2025student",
         "arkoudis2012"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "tst.test-formats",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Proficiency Tests & Progression",
       "name": "Academic proficiency test formats",
       "description": "Understand the task types and constructs of the major academic English proficiency tests used for university entry (for example, reading with selected-response items, lecture-style listening, independent writing and, in some tests only, integrated reading- or listening-into-writing or -speaking tasks, interview-based or computer-delivered speaking, and computer-adaptive item selection), including differences in delivery mode and in human, automated or hybrid scoring, so that preparation targets what each test actually measures.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes the task types in the test they will take and the skills or constructs each targets",
@@ -1206,23 +1250,25 @@
           "key": "ielts:ls.listening",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "tst.test-vs-university",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Proficiency Tests & Progression",
       "name": "Test tasks versus university tasks",
       "description": "Recognise how proficiency-test tasks differ from university tasks. Test writing is typically short, timed, drawn from personal knowledge or brief inputs, on general topics and scored against generic criteria; university writing is typically extended, source-based, discipline-specific, varied in genre and judged against disciplinary expectations. Learners use this understanding to avoid carrying test templates into university work.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Compares a test writing task with a university assignment brief in terms of length, sources, audience, genre, time and criteria",
@@ -1241,66 +1287,27 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ]
-    },
-    {
-      "id": "tst.integrated-test-tasks",
-      "type": "PROCEDURAL",
-      "strand": "Learning & Autonomy",
-      "domain": "Proficiency Tests & Progression",
-      "name": "Integrated test tasks",
-      "description": "Handle integrated test tasks that require reading and/or listening before writing or speaking: noting key points from the input efficiently, identifying the relationship between sources (for example, a talk that challenges or extends a reading, or several speakers' views that must be summarised together), selecting and transforming content in one's own words, and organising the response around the task's specific demand within the time limit.",
-      "cefrStart": "B1+",
-      "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Takes notes on the input that capture the main points and the relationships between sources",
-        "Selects the source content the task requires rather than summarising everything",
-        "Reports source content in their own words with clear attribution to the reading or speaker",
-        "Organises the response around the relationship the task specifies, such as how a talk challenges a reading",
-        "Completes the response within the time, dividing it between processing the input and producing the response"
-      ],
-      "assessmentPrompt": "Use a short reading and a brief talk that challenges it, then ask for a short written response explaining how the talk relates to the reading. Look for the key points from both, an explicit relationship, attribution and transformed wording; copying strings from the reading or omitting the talk indicates a gap.",
-      "citations": [
-        "plakans2008",
-        "plakansgebril2012"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:med.text.processing-text",
-          "levels": [
-            "B2",
-            "B2+"
-          ],
-          "contribution": "component"
-        },
-        {
-          "key": "cefr-cv:med.text.note-taking",
-          "levels": [
-            "B1+",
-            "B2"
-          ],
-          "contribution": "component"
-        }
-      ]
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "tst.presessional-progression",
       "type": "CONCEPTUAL",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "domain": "Proficiency Tests & Progression",
       "name": "Pre-sessional progression assessment",
       "description": "Understand how pre-sessional and similar pathway programmes assess progression, typically through coursework such as an extended source-based essay or report, a small research project, presentations or seminars, portfolios and sometimes timed tasks, and how criteria, weightings, integrity rules and progression thresholds work, so that learners can plan effort across components and use formative stages.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes each assessed component of their programme, its weighting and the criteria applied",
@@ -1314,7 +1321,15 @@
         "weigle2002",
         "bachmanpalmer2010"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -1323,24 +1338,6 @@
       "prerequisiteId": "fbk.assessment-literacy",
       "strength": "soft",
       "reason": "Exams are one category of summative assessment; understanding assessment types and rules frames the differences between exam formats"
-    },
-    {
-      "topicId": "exm.question-analysis",
-      "prerequisiteId": "voc.command-words",
-      "strength": "hard",
-      "reason": "Analysing an exam question depends on knowing what each command word demands"
-    },
-    {
-      "topicId": "exm.question-analysis",
-      "prerequisiteId": "wpr.task-analysis",
-      "strength": "soft",
-      "reason": "Unpacking coursework briefs is usually taught first; exam question analysis applies the same procedure at speed"
-    },
-    {
-      "topicId": "exm.question-analysis",
-      "prerequisiteId": "exm.exam-formats",
-      "strength": "soft",
-      "reason": "Time allocation and expected answer types depend on the paper's format and mark scheme"
     },
     {
       "topicId": "exm.revision-planning",
@@ -1368,7 +1365,7 @@
     },
     {
       "topicId": "exm.timed-writing",
-      "prerequisiteId": "exm.question-analysis",
+      "prerequisiteId": "wpr.task-analysis",
       "strength": "hard",
       "reason": "Writing under time pressure is only effective if the question has first been correctly interpreted and time allocated"
     },
@@ -1398,7 +1395,7 @@
     },
     {
       "topicId": "exm.objective-questions",
-      "prerequisiteId": "sta.generalisation-qualification",
+      "prerequisiteId": "sta.hedging",
       "strength": "soft",
       "reason": "Distinguishing correct from incorrect options often depends on qualifiers and absolutes (tend to, in most cases, always)"
     },
@@ -1559,12 +1556,6 @@
       "reason": "The forethought phase includes self-motivation beliefs (self-efficacy, valuing of the outcome), which motivational self-images help sustain"
     },
     {
-      "topicId": "lrn.autonomy",
-      "prerequisiteId": "lrn.metacognitive-knowledge",
-      "strength": "soft",
-      "reason": "Taking control of learning decisions depends on knowing which strategies and resources suit which tasks and one's own needs"
-    },
-    {
       "topicId": "lrn.goal-setting",
       "prerequisiteId": "lrn.self-regulation",
       "strength": "hard",
@@ -1584,7 +1575,7 @@
     },
     {
       "topicId": "lrn.independent-study",
-      "prerequisiteId": "lrn.autonomy",
+      "prerequisiteId": "lrn.self-regulation",
       "strength": "soft",
       "reason": "Independent study requires learners to choose what to study and how, without teacher direction"
     },
@@ -1613,12 +1604,6 @@
       "reason": "Retrieval and spacing are the memory mechanisms behind effective deliberate study of vocabulary and phraseology"
     },
     {
-      "topicId": "lrn.language-learning-strategies",
-      "prerequisiteId": "lrn.autonomy",
-      "strength": "soft",
-      "reason": "Continuing language development beyond the course depends on learners taking control of what and how they practise"
-    },
-    {
       "topicId": "lrn.reflective-logs",
       "prerequisiteId": "lrn.goal-setting",
       "strength": "hard",
@@ -1626,7 +1611,7 @@
     },
     {
       "topicId": "lrn.reflective-logs",
-      "prerequisiteId": "lrn.autonomy",
+      "prerequisiteId": "lrn.self-regulation",
       "strength": "soft",
       "reason": "Using a log to make decisions presupposes that the learner, not only the teacher, makes learning decisions"
     },
@@ -1698,27 +1683,9 @@
     },
     {
       "topicId": "tst.test-vs-university",
-      "prerequisiteId": "src.source-functions",
+      "prerequisiteId": "cit.citation-functions",
       "strength": "soft",
       "reason": "The central difference is the role of sources in university writing, which learners need to understand to see what test writing lacks"
-    },
-    {
-      "topicId": "tst.integrated-test-tasks",
-      "prerequisiteId": "tst.test-formats",
-      "strength": "hard",
-      "reason": "Strategies for integrated tasks depend on knowing the specific task structure and constraints of the test"
-    },
-    {
-      "topicId": "tst.integrated-test-tasks",
-      "prerequisiteId": "syn.integrated-tasks",
-      "strength": "hard",
-      "reason": "Integrated test tasks apply the general reading/listening-to-writing skills of selecting and transforming source content under test conditions"
-    },
-    {
-      "topicId": "tst.integrated-test-tasks",
-      "prerequisiteId": "exm.timed-writing",
-      "strength": "soft",
-      "reason": "Integrated test responses are produced under strict time limits and draw on rapid planning and time allocation"
     },
     {
       "topicId": "tst.presessional-progression",
@@ -1809,74 +1776,6 @@
       "reviewNotes": [
         "Exam formats, especially online and take-home variants, change frequently and vary across institutions."
       ]
-    },
-    {
-      "topicId": "exm.question-analysis",
-      "summary": "Under time pressure, writers may fall back on what Bereiter and Scardamalia (1987) call knowledge telling, retrieving content on the topic without transforming it to address the rhetorical problem. In an exam this produces answers that 'write all I know' instead of answering the question. Horowitz (1986) found that university tasks typically ask students to select and organise material for a specific purpose. Teach a fast, routine analysis of command, topic, focus and limiting words, and practise distinguishing questions on the same topic that require different answers.",
-      "activities": [
-        {
-          "title": "Same topic, different question",
-          "learnerActions": [
-            "Read three questions on the same topic with different command and limiting words",
-            "For each, mark the command, topic, focus and limiting words",
-            "Write a one-sentence description of what a good answer would do",
-            "Compare with a partner and discuss how the three answers would differ"
-          ],
-          "intendedInsight": "The same topic can require very different answers, and the question's wording decides which.",
-          "rationale": "Contrasting questions makes visible the transformation demand that knowledge telling misses (Bereiter & Scardamalia, 1987).",
-          "citations": [
-            "bereiter1987"
-          ]
-        },
-        {
-          "title": "Marks-to-minutes calculation",
-          "learnerActions": [
-            "Take a past paper and calculate the time available per mark",
-            "Allocate minutes to each question, including planning and checking time",
-            "Compare your allocation with how you actually spent your time in a previous exam"
-          ],
-          "intendedInsight": "Time should follow marks, and planning time is part of the allocation.",
-          "rationale": "Proportional time allocation prevents over-investment in early questions, a common performance problem in timed exams.",
-          "citations": [
-            "horowitz1986"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Recognising a revised topic in the question and writing a prepared answer that does not address the specific question.",
-          "kind": "prior-schooling",
-          "revealedBy": "Answers that are relevant to the topic but not to the question; feedback such as 'does not answer the question'.",
-          "response": "Practise with questions that deliberately twist familiar topics. Where learners come from assessment systems that rewarded reproducing model answers, make the different expectation explicit rather than criticising the habit.",
-          "reteachPrerequisiteId": "voc.command-words"
-        },
-        {
-          "pattern": "Misreading limiting words (dates, contexts, 'with reference to') under pressure.",
-          "kind": "performance",
-          "revealedBy": "Answers that go outside the specified scope.",
-          "response": "Build a habit of marking limiting words before planning. Do not respond by adding more content to revise; the problem is reading, not knowledge.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "Spending too long on the first question and running out of time.",
-          "kind": "performance",
-          "revealedBy": "Unfinished final answers; very long first answers.",
-          "response": "Practise timed papers with fixed time checkpoints.",
-          "reteachPrerequisiteId": "exm.exam-formats"
-        }
-      ],
-      "diagnostic": {
-        "task": "Give one exam question and ask the learner to explain, in one sentence, what a good answer must do.",
-        "strongResponse": "Identifies the command, focus and limits and describes the required answer shape, including any judgement required.",
-        "partialResponse": "Identifies the topic and command word but misses limiting words or implicit sub-questions.",
-        "gapResponse": "Restates the topic only."
-      },
-      "contextNotes": "Foundation and in-sessional UG learners need this for subject exams. Pre-sessional learners apply it to timed tasks in progression assessment. PGT learners face questions that often require critical evaluation within tightly specified contexts.",
-      "citations": [
-        "horowitz1986",
-        "bereiter1987"
-      ],
-      "reviewNotes": []
     },
     {
       "topicId": "exm.revision-planning",
@@ -1995,7 +1894,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Fluent, accurate scripts that are off-question; identical openings across scripts.",
           "response": "Use questions that require adapting known content, and give feedback specifically on relevance.",
-          "reteachPrerequisiteId": "exm.question-analysis"
+          "reteachPrerequisiteId": "wpr.task-analysis"
         },
         {
           "pattern": "Accuracy declines sharply under time pressure.",
@@ -3073,71 +2972,6 @@
       ]
     },
     {
-      "topicId": "lrn.autonomy",
-      "summary": "Holec (1981) defines autonomy as the capacity to take charge of one's own learning across objectives, content, methods, monitoring and evaluation. Benson (2011) extends this to control over learning management, cognitive processes and content, and stresses that autonomy is developed, situated and a matter of degree. In EAP, build autonomy by progressively handing over decisions within the course (choice of texts, targets and feedback focus) rather than assigning unsupported 'self-study'. Avoid framing autonomy as a cultural trait some groups lack: differences reflect prior opportunities to exercise control.",
-      "activities": [
-        {
-          "title": "Handover ladder",
-          "learnerActions": [
-            "For a recurring task (for example, weekly reading-to-write), choose the text yourself in week 1",
-            "In week 2, also choose the language focus",
-            "In week 3, also decide how your work will be evaluated and by whom",
-            "After each step, note what was easier or harder with more control"
-          ],
-          "intendedInsight": "Control over learning decisions can be taken step by step, and each step brings both freedom and responsibility.",
-          "rationale": "Benson describes autonomy as developing through opportunities to exercise control; staged handover provides support while those opportunities increase.",
-          "citations": [
-            "benson2011"
-          ]
-        },
-        {
-          "title": "Self-directed mini-project",
-          "learnerActions": [
-            "Choose a target linked to your future studies (for example, following lectures in your field)",
-            "Select resources and design a three-week plan with a progress record",
-            "Carry out the plan and keep brief notes",
-            "Present a two-minute evaluation: what worked, what you changed and what you will do next"
-          ],
-          "intendedInsight": "Autonomy covers every stage of learning: choosing a goal, a method and a means of evaluation.",
-          "rationale": "Holec's account of autonomy includes deciding objectives, methods and evaluation; a short project lets learners exercise each decision with teacher support available.",
-          "citations": [
-            "holec1981",
-            "benson2011"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "'The teacher should tell me what to study; that's their job.'",
-          "kind": "prior-schooling",
-          "revealedBy": "Requests for exact instructions for independent work; little activity when tasks are open.",
-          "response": "Acknowledge that this is a reasonable expectation from previous experience, and scaffold with structured choices (for example, three texts to choose from) before fully open tasks. Do not remove all structure at once, which tends to produce anxiety and inactivity rather than autonomy.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "Equating autonomy with working alone and therefore avoiding peers, tutors and support services.",
-          "kind": "conceptual",
-          "revealedBy": "Reluctance to ask questions or join study groups; reports of struggling alone for long periods.",
-          "response": "Present strategic help-seeking and collaboration as autonomous decisions. Model examples of choosing when to ask for help and whom to ask.",
-          "reteachPrerequisiteId": "lrn.metacognitive-knowledge"
-        }
-      ],
-      "diagnostic": {
-        "task": "Ask: 'What have you chosen to learn or practise recently that wasn't set by a teacher, and how did you decide?'",
-        "strongResponse": "Describes a self-chosen goal, method and way of judging success, with some adaptation along the way.",
-        "partialResponse": "Describes self-chosen activity, but with no clear goal or evaluation.",
-        "gapResponse": "Describes only teacher-set work or says there is no time for anything else."
-      },
-      "contextNotes": "At foundation and pre-sessional levels, autonomy is developed through scaffolded handover within the course. In in-sessional UG and PGT provision, it is exercised in choosing what support to use and how. For PGR researchers, autonomy is a central expectation of the doctorate and is negotiated within the supervisory relationship.",
-      "citations": [
-        "holec1981",
-        "benson2011"
-      ],
-      "reviewNotes": [
-        "Autonomy is difficult to measure; the mastery evidence relies on reported and observed learning decisions."
-      ]
-    },
-    {
       "topicId": "lrn.goal-setting",
       "summary": "Goal setting is a core forethought process in Zimmerman's (2002) model: specific, near-term goals provide the standard against which learners monitor and evaluate their performance. Psychological research on implementation intentions (if–then plans that specify when, where and how a goal-directed action will happen) indicates that such plans help people act on their goals (Gollwitzer, 1999). In EAP, anchor goals in the learner's own evidence (feedback, criteria, diagnostic results) and review them at fixed points. Goal-setting worksheets completed once and filed achieve little.",
       "activities": [
@@ -3318,7 +3152,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Little independent activity between sessions; unpreparedness in seminars.",
           "response": "Make preparation and consolidation tasks visible and model them, then gradually withdraw explicit instructions.",
-          "reteachPrerequisiteId": "lrn.autonomy"
+          "reteachPrerequisiteId": "lrn.self-regulation"
         },
         {
           "pattern": "Independent study consists mainly of rereading lecture slides.",
@@ -3470,7 +3304,7 @@
           "kind": "performance",
           "revealedBy": "Good use during lessons; no trace in study logs or later work.",
           "response": "Build planned independent application and a report-back into the course. Do not assume that demonstrating a strategy once will lead to transfer.",
-          "reteachPrerequisiteId": "lrn.autonomy"
+          "reteachPrerequisiteId": "lrn.self-regulation"
         }
       ],
       "diagnostic": {
@@ -4022,7 +3856,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Unsupported claims; feedback asking for evidence.",
           "response": "Show the function of sources in university writing and practise supporting claims with them.",
-          "reteachPrerequisiteId": "src.source-functions"
+          "reteachPrerequisiteId": "cit.citation-functions"
         },
         {
           "pattern": "Expecting university criteria to resemble generic test criteria.",
@@ -4047,75 +3881,6 @@
       "reviewNotes": [
         "Moore and Morton's study concerns IELTS; other tests include integrated, source-based tasks, so the contrast is less sharp for them."
       ]
-    },
-    {
-      "topicId": "tst.integrated-test-tasks",
-      "summary": "Plakans (2008) found that reading-to-write test tasks elicited more interactive composing processes than writing-only tasks, and Plakans and Gebril (2012) showed that writers use sources in integrated tasks for ideas, support and organisation, with the selection of important source ideas and the handling of source language among the differences between performances. Teach integrated tasks as a test-specific application of source-based writing: efficient notes, attention to the relationship between sources, selective use of content, attribution and transformation of wording, all within strict time limits.",
-      "activities": [
-        {
-          "title": "Relationship notes",
-          "learnerActions": [
-            "Divide a page into two columns for the reading and the talk",
-            "Note the main points of each in the matching rows",
-            "Draw arrows to show how each point in the talk relates to the reading (challenges, supports, extends)",
-            "Write your response from the arrows rather than from the source text"
-          ],
-          "intendedInsight": "The task is usually about the relationship between sources, not about each source separately.",
-          "rationale": "Organising notes by relationship supports the selection of important ideas, which Plakans and Gebril (2012) link to differences in performance.",
-          "citations": [
-            "plakansgebril2012"
-          ]
-        },
-        {
-          "title": "Borrowing check",
-          "learnerActions": [
-            "Compare your response with the reading and highlight any strings of three or more words copied directly",
-            "Decide for each whether it is a technical term to keep or wording to transform",
-            "Rewrite the transformable strings"
-          ],
-          "intendedInsight": "Using your own wording shows understanding and avoids patchwriting.",
-          "rationale": "Plakans (2008) and Plakans and Gebril (2012) document how writers draw on source language in integrated tasks; making borrowing visible supports transformation.",
-          "citations": [
-            "plakans2008",
-            "plakansgebril2012"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Copying chunks of the reading into the response.",
-          "kind": "developmental",
-          "revealedBy": "Strings matching the reading; little transformation.",
-          "response": "Treat this as a stage in learning to use sources and teach transformation explicitly. Do not treat it as misconduct in a practice context.",
-          "reteachPrerequisiteId": "syn.integrated-tasks"
-        },
-        {
-          "pattern": "Ignoring or under-using the listening input.",
-          "kind": "performance",
-          "revealedBy": "Responses based mainly on the reading.",
-          "response": "Practise note-taking on short talks and require each point to be linked to the reading.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "Summarising each source separately without stating the relationship.",
-          "kind": "developmental",
-          "revealedBy": "Two-part responses ('The reading says… The lecture says…').",
-          "response": "Model responses organised around the relationship and use the relationship-notes format.",
-          "reteachPrerequisiteId": "syn.integrated-tasks"
-        }
-      ],
-      "diagnostic": {
-        "task": "Give a short reading and talk and ask for a two-to-three-sentence summary of how they relate.",
-        "strongResponse": "States the relationship accurately, includes key points from both and uses own wording with attribution.",
-        "partialResponse": "Summarises both but does not state the relationship, or states it with copied wording.",
-        "gapResponse": "Summarises only one source or misrepresents the relationship."
-      },
-      "contextNotes": "Foundation and pre-sessional learners preparing for tests that currently include integrated tasks need this directly (major tests have both added and removed integrated tasks in recent revisions, so check the test owner's current task list before teaching task-specific strategies); it also prepares them for the source-based tasks of pre-sessional progression and university study.",
-      "citations": [
-        "plakans2008",
-        "plakansgebril2012"
-      ],
-      "reviewNotes": []
     },
     {
       "topicId": "tst.presessional-progression",

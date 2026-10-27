@@ -1,0 +1,129 @@
+{
+  "mergedInto": "prs.signposting",
+  "finding": "R1-18",
+  "topic": {
+    "id": "coh.spoken-signposting",
+    "type": "LINGUISTIC",
+    "strand": "Academic Discourse",
+    "domain": "Cohesion & Coherence",
+    "name": "Signposting in spoken academic discourse",
+    "description": "Use and recognise macro-markers (Let's move on to…, What I want to focus on today is…) and micro-markers (so, now, right) together with pausing and intonation to organise spoken academic discourse in lectures, presentations and seminars. Because listeners cannot scan back, explicit structural signalling carries more of the organisational load in speech than in writing.",
+    "cefrStart": "B1",
+    "cefrEnd": "C1",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug",
+      "in-sessional-pgt",
+      "pgr"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Identifies macro-markers in a recorded lecture and uses them to reconstruct its structure in notes",
+      "Distinguishes structuring markers from markers that flag importance or relevance",
+      "Uses macro-markers to preview, move between and summarise the sections of a short presentation",
+      "Combines verbal markers with a pause or change of pitch at section boundaries",
+      "Uses spoken rather than written-style connectors (So, Now, The next thing is rather than Furthermore, Moreover) when speaking"
+    ],
+    "assessmentPrompt": "Play a three- to four-minute lecture extract and ask the learner to note each point where the speaker changes topic and the words that signalled it. Then ask for a one-minute spoken explanation of a process using at least two macro-markers. Check accurate identification of boundaries and natural spoken markers in production.",
+    "citations": [
+      "chaudronrichards1986",
+      "thompson2003lectures",
+      "biber2004bundles",
+      "young1994"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:rec.oral.live-audience",
+        "levels": [
+          "B1+",
+          "B2"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "cefr-cv:prod.oral.addressing-audiences",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "ielts:sp.fluency-coherence",
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "coh.spoken-signposting",
+    "summary": "Chaudron and Richards found that macro-markers aided lecture comprehension more than micro-markers alone; Thompson showed that lecturers also signal organisation through intonation and that EAP listening materials do not always reflect authentic structuring patterns. Biber, Conrad and Cortes found discourse-organising lexical bundles particularly frequent in classroom teaching, and Young's analysis of lecture phases offers a frame for what markers signal. Teach from authentic or authentic-like recordings, combining reception and production and attending to prosody.",
+    "activities": [
+      {
+        "title": "Lecture skeleton from markers",
+        "learnerActions": [
+          "Listen to a lecture extract and log every phrase that signals a change of topic or phase",
+          "Use the log to reconstruct an outline of the lecture",
+          "Compare outlines and discuss boundaries signalled only by pause or pitch"
+        ],
+        "intendedInsight": "Macro-markers and prosody give listeners the structure they cannot see.",
+        "rationale": "Chaudron and Richards's finding on macro-markers and Young's phase model both suggest that attention to structuring language supports lecture comprehension.",
+        "citations": [
+          "chaudronrichards1986",
+          "young1994"
+        ]
+      },
+      {
+        "title": "Written-to-spoken swap",
+        "learnerActions": [
+          "Take a written paragraph that uses Furthermore and Moreover",
+          "Turn it into a one-minute spoken explanation using spoken markers and pauses",
+          "Record it, listen back and note where a listener might get lost"
+        ],
+        "intendedInsight": "Spoken signposting is worded and paced differently from written linking.",
+        "rationale": "Biber, Conrad and Cortes show that classroom teaching uses distinctive discourse-organising bundles, and Thompson highlights the role of intonation in signalling organisation.",
+        "citations": [
+          "biber2004bundles",
+          "thompson2003lectures"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Hearing 'so' or 'OK' as a signal that the lecture is concluding.",
+        "kind": "developmental",
+        "revealedBy": "Notes that stop recording after a micro-marker; learners missing the main point that follows.",
+        "response": "Show the range of functions of micro-markers in authentic transcripts and contrast them with macro-markers that do signal conclusion.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "Presentations that sound read aloud because they use written connectors.",
+        "kind": "overgeneralisation",
+        "revealedBy": "Furthermore, Moreover and In addition in spoken presentations; listeners losing the structure.",
+        "response": "Model spoken markers and rehearse them as chunks; draw attention to differences between spoken and written registers.",
+        "reteachPrerequisiteId": "reg.spoken-vs-written"
+      },
+      {
+        "pattern": "Markers planned in advance disappear under the pressure of live delivery.",
+        "kind": "performance",
+        "revealedBy": "Presentations with clear slides but no verbal signalling between sections.",
+        "response": "Rehearse transitions specifically and attach them to slide changes; avoid scripting entire talks.",
+        "reteachPrerequisiteId": null
+      }
+    ],
+    "diagnostic": {
+      "task": "The learner listens to a two-minute lecture extract and writes down the phrase that marks each new section, then gives a 30-second spoken preview of a topic of their choice.",
+      "strongResponse": "Identifies all section boundaries with their markers, and produces a natural spoken preview with at least two macro-markers and a pause at the boundary.",
+      "partialResponse": "Identifies most boundaries but misses one marked only by prosody, or produces a preview in written style.",
+      "gapResponse": "Cannot identify boundaries; the preview lacks any structuring language."
+    },
+    "contextNotes": "Foundation and pre-sessional courses emphasise recognition in lectures alongside short presentations. Undergraduate in-sessional work concentrates on assessed presentations and seminar contributions. Taught postgraduate and doctoral learners need signposting for longer research presentations and, for doctoral students who teach, for their own lecturing.",
+    "citations": [
+      "chaudronrichards1986",
+      "thompson2003lectures",
+      "biber2004bundles",
+      "young1994"
+    ],
+    "reviewNotes": []
+  }
+}

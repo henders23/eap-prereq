@@ -27,10 +27,11 @@
       "summary": "Research Writing covers the part-genres, macrostructures and practices through which postgraduate and early-career writers report and position their own research: introductions built on CARS-type moves, literature reviews, framework and methods sections, results, discussions, conclusions, abstracts, theses and proposals. Move analyses (Swales 1990, 2004; Kanoksilapatham 2005; Yang & Allison 2003; Kwan 2006) are descriptive models to test against disciplinary exemplars, not templates, and IMRaD is dominant in experimental fields but far from universal. The domain also covers the sociopragmatic and self-regulatory work of extended research writing, such as supervision, sustaining output and writing reflexively, which Kamler and Thomson (2014) treat as both text work and identity work.",
       "learnerSummary": "You will learn how research texts such as articles, dissertations and theses are organised in your field, and how to write each part so that readers can see what you did, what you found and why it matters.",
       "stageEmphasis": {
-        "pre-sessional": "On postgraduate pre-sessionals, focus on reading research articles section by section, writing a short CARS-structured introduction and drafting the small-scale proposal or project that often forms part of the progression assessment.",
         "in-sessional-ug": "Support final-year projects and dissertations with methods, results and discussion writing, anchored in departmental exemplars and the module's own reporting conventions.",
         "in-sessional-pgt": "Treat the master's dissertation as the main site: the literature review as argument, aligning questions with methods, data commentary in results, and calibrated interpretation in the discussion.",
-        "pgr": "Move to thesis macrostructure, framework chapters, claiming contribution, publication-based theses, supervision and the sustained drafting of a long document."
+        "pgr": "Move to thesis macrostructure, framework chapters, claiming contribution, publication-based theses, supervision and the sustained drafting of a long document.",
+        "pre-sessional-ug": "On postgraduate pre-sessionals, focus on reading research articles section by section, writing a short CARS-structured introduction and drafting the small-scale proposal or project that often forms part of the progression assessment.",
+        "pre-sessional-pg": "On postgraduate pre-sessionals, focus on reading research articles section by section, writing a short CARS-structured introduction and drafting the small-scale proposal or project that often forms part of the progression assessment."
       },
       "keyReferences": [
         "swales1990",
@@ -51,10 +52,6 @@
       "description": "Understand the stages through which a manuscript becomes a publication — submission, editorial screening and desk rejection, peer review (single-anonymous, double-anonymous, open or transparent, and models such as registered reports and review of preprints), decisions (accept, minor or major revision, reject and resubmit, reject), revision, acceptance, production and post-publication correction or retraction — and the roles of editors, reviewers and authors in each. Understanding the process as a negotiation within a discourse community helps novice authors interpret decisions, plan timelines and avoid treating rejection as a final verdict on their work.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes the stages of the publication process in their target field, including typical timescales and decision types",
@@ -83,7 +80,14 @@
           "key": "vitae-rdf:D2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.journal-selection",
@@ -94,9 +98,6 @@
       "description": "Choose a target journal by matching the manuscript's contribution, method and audience to a journal's aims and scope, readership, article types, recent content, review practices, indexing, open-access options and costs, and turnaround, while screening out predatory or deceptive venues. Writers then read and apply the author guidelines and shape the manuscript for that journal's conversation, ideally choosing the journal before drafting rather than after.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces a shortlist of three journals with a justified ranking based on scope, audience, article type and recent content",
@@ -124,7 +125,13 @@
           "key": "acrl:value",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.cover-letters",
@@ -135,9 +142,6 @@
       "description": "Write submission letters that identify the manuscript and article type, state concisely what it contributes and why it fits the journal's scope and readership, and make the declarations the journal requires (originality, no simultaneous submission, conflicts of interest, ethics, data availability, suggested or excluded reviewers). The letter is an occluded genre, rarely seen by novices, whose readers are busy editors deciding whether to send a paper for review, so it must be brief, specific and professional.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes a cover letter of one page or less that names the manuscript, article type and journal",
@@ -164,7 +168,13 @@
           "key": "vitae-rdf:D2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.responding-reviewers",
@@ -175,9 +185,6 @@
       "description": "Write response-to-reviewer letters that thank reviewers, address every comment point by point, describe precisely what was changed and where, and explain politely and with evidence when a requested change has not been made. The genre requires managing face, since authors must disagree with gatekeepers while remaining cooperative, as well as clear organisation and consistency between the response and the revised manuscript.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
-      "stages": [
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Organises a response with each reviewer comment reproduced or summarised, followed by a response and the location of the change",
@@ -214,7 +221,13 @@
           "key": "vitae-rdf:D2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.peer-review-reports",
@@ -225,9 +238,6 @@
       "description": "Write reviewer reports for journals or conferences that summarise the manuscript and its claimed contribution, evaluate its significance, methods, evidence and argument, distinguish major from minor issues, make actionable suggestions and give a recommendation consistent with the comments. Reports must be constructive, appropriately mitigated and respectful, and reviewers must meet ethical obligations of confidentiality, competence, timeliness and disclosure of conflicts of interest.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
-      "stages": [
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Opens with a fair summary of the manuscript's aims, methods, findings and claimed contribution",
@@ -264,7 +274,13 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.conference-abstracts",
@@ -275,10 +291,6 @@
       "description": "Write abstracts and proposals for conference submission that persuade reviewers of relevance to the conference theme, interest and feasibility, often before the research is complete. Writers adapt the research-abstract moves to a call for papers: framing the topic for the conference audience, stating the aim and approach, reporting results or expected outcomes honestly, and signalling what attendees will gain, within strict word limits and format requirements.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Analyses a call for papers and identifies the theme, strands, criteria and format requirements",
@@ -304,7 +316,14 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.viva",
@@ -315,9 +334,6 @@
       "description": "Prepare for and take part in the oral examination of a thesis: understanding the local format and possible outcomes, re-reading the thesis strategically, anticipating questions about contribution, design, findings, limitations and future work, and answering by explaining, defending, conceding and clarifying in extended spoken interaction with expert examiners. Formats vary widely, from closed UK-style vivas with internal and external examiners, whose recommendation follows the oral, to public defences in much of continental Europe that take place only after a committee has approved the written thesis, often with one or more opponents, and committee defences in North America that follow earlier proposal defences or qualifying examinations, while in some systems, such as many Australian universities, there is no oral examination.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
-      "stages": [
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes the format (including online or hybrid arrangements), participants, procedures and possible outcomes of the viva or defence in their institution, and what happens afterwards, such as how required corrections are specified, made and approved",
@@ -354,7 +370,13 @@
           "key": "vitae-rdf:D2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.authorship",
@@ -365,10 +387,6 @@
       "description": "Understand what qualifies someone for authorship, using criteria such as the ICMJE's, and how contributions are described with contributor-role taxonomies such as CRediT (which record who did what but do not by themselves decide who qualifies as an author), how author order conventions differ across disciplines, and what counts as honorary, guest or ghost authorship. Researchers should be able to discuss authorship early in collaborations, including with supervisors, and to write accurate contribution statements and acknowledgements, including declarations of the use of AI tools, which journals do not accept as authors.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Applies a published authorship standard to decide whether a set of described contributions qualifies for authorship or acknowledgement",
@@ -396,7 +414,14 @@
           "key": "vitae-rdf:D1",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.multilingual-scholars",
@@ -407,9 +432,6 @@
       "description": "Understand the opportunities and inequities of English-medium publishing for multilingual scholars: the dominance of English in high-status indexes, the extra time and cost of writing in an additional language, the material constraints faced by scholars outside well-resourced institutions, reviewer and editor attitudes to non-standard English, and the role of literacy brokers such as co-authors, editors, translators and language professionals. Scholars can use this understanding to make informed choices about language, venue, collaboration and support, and to recognise structural barriers as structural rather than personal failings.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains how indexing, evaluation systems and journal policies create pressure to publish in English and what this means for research in other languages",
@@ -441,7 +463,13 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.research-engagement",
@@ -452,10 +480,6 @@
       "description": "Communicate research to non-academic audiences such as the public, practitioners, policymakers and industry through lay summaries, blogs, social media, talks, visual summaries and impact case material, adapting content, structure, register and claims to each audience while keeping them accurate. Researchers also plan engagement deliberately, as many funders and evaluation systems expect, and manage the risks of oversimplification and online visibility.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes a lay summary of their research that a non-specialist reader can restate accurately",
@@ -490,7 +514,14 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "pub.academic-cv-bio",
@@ -501,11 +532,6 @@
       "description": "Write the self-presentation genres of academic careers: academic CVs, with conventional sections, consistent referencing of outputs and evidence of research, teaching and service; short biographical statements for conferences, journals and profiles, often in the third person; and personal statements for postgraduate study, scholarships and posts, which must show fit, motivation and capability with evidence. Each genre balances self-promotion with modesty according to its conventions, and conventions differ across countries and sectors.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Organises an academic CV with conventional sections in a sensible order for the target post and formats publications consistently",
@@ -533,7 +559,15 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.imrad",
@@ -544,12 +578,6 @@
       "description": "Recognise the Introduction–Methods–Results–Discussion macrostructure as a conventional way of reporting empirical research, explain what each section does for the reader, and identify the variants used in one's own field, such as merged Results and Discussion, a separate Conclusions section, a theory section before Methods, or argument-led organisation in the humanities. Knowing the macrostructure lets writers put content where readers expect it, while recognising IMRaD as a disciplinary convention rather than a universal norm.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the communicative purpose of each section of a research article from their own field in one sentence each",
@@ -584,7 +612,17 @@
           "key": "acrl:creation-process",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.research-questions",
@@ -595,12 +633,6 @@
       "description": "Formulate and present an aim, research questions and, where the design calls for them, hypotheses that are answerable, appropriately scoped and aligned with the stated gap and the chosen methods. Writers also choose how to present them, as numbered questions, objectives or a purpose statement, and use consistent wording across the introduction, methods and discussion. Well-formed questions are the reference point that examiners and reviewers use to judge the coherence of the whole study.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes an aim, an objective, a research question and a testable hypothesis, and selects the form suited to the design (exploratory, explanatory or confirmatory)",
@@ -631,7 +663,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.gap-niche",
@@ -642,12 +684,6 @@
       "description": "Construct the textual case that a niche exists, through counter-claiming, indicating a gap, raising a question, continuing a tradition or adding to what is known, using the lexicogrammar that realises these moves: contrastive connectors, negative or restrictive quantifiers (few studies, little attention), present perfect for the state of research and evaluative lexis. The niche must follow from the literature reviewed and lead to the present study, and it should be stated with appropriate caution, since an overstated gap ('no research exists') is easily refuted.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the type of niche in published introductions (counter-claim, gap, question, continuation or extension) and the signalling language used",
@@ -679,7 +715,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.introductions-cars",
@@ -690,12 +736,6 @@
       "description": "Write research introductions that create a research space: establishing a territory (in Swales's 1990 model by claiming centrality, making topic generalisations and reviewing previous research; in the 2004 revision through cited topic generalisations of increasing specificity), establishing a niche (indicating a gap or adding to what is known), and presenting the present work (the 1990 'occupying the niche'), by announcing the research and its questions and, optionally, its methods, findings, value and structure. Writers adapt the model to their field and genre, including the cyclical moves, extended background and thesis-structure statements common in some disciplines and in PhD introductions, and they use it as an analytical lens on exemplars rather than as a fill-in template.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Annotates a published introduction from their own field for moves and steps, including recursive Move 1–Move 2 cycles where present",
@@ -728,7 +768,17 @@
           "key": "vitae-rdf:D2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.literature-review",
@@ -739,11 +789,6 @@
       "description": "Write the literature review of a thesis, dissertation or article as an argument that positions the writer's own study: selecting and organising literature by theme, debate or problem, evaluating rather than merely reporting it, and building cumulatively towards the niche the study fills. Unlike a stand-alone coursework review, the research literature review is judged by how well it justifies the present study's questions, framework and design.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Organises the review around themes, debates or problems that map onto the study's questions, not around individual sources or chronology by default",
@@ -776,7 +821,15 @@
           "key": "vitae-rdf:A1",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.theoretical-framework",
@@ -787,10 +840,6 @@
       "description": "Write a theoretical or conceptual framework section that explains which theories, models or concepts the study uses, why they were chosen over alternatives, how key constructs are defined and operationalised, and how the framework shapes the questions, data collection and analysis. The section should do analytical work later in the text rather than function as a free-standing summary of theory, and it should acknowledge disciplinary differences in whether and how frameworks are presented.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "States which theory or set of concepts frames the study and justifies the choice against at least one plausible alternative",
@@ -822,6 +871,15 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -833,11 +891,6 @@
       "description": "Write methods sections that describe the study (setting, participants or materials, instruments, procedures, data analysis) in enough detail for evaluation or replication and that establish credibility by justifying choices, citing precedents and addressing validity, reliability or trustworthiness. Move structure, level of detail, voice and the balance of description and justification vary considerably across disciplines and between laboratory, survey and qualitative traditions, so writers calibrate against field exemplars and reporting guidelines (for example CONSORT, STROBE, COREQ or SRQR, collected by the EQUATOR Network).",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Includes the elements a reader in their field needs to evaluate or replicate the study, checked against an exemplar or reporting guideline",
@@ -873,6 +926,16 @@
           "key": "vitae-rdf:A1",
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -884,11 +947,6 @@
       "description": "Present findings in a logical order that answers the research questions, using visuals and prose together: locating the reader in a table or figure, highlighting what is significant, and adding the degree of commentary the field allows (from minimal to substantial interpretation). Writers decide what to report in text and what to leave in visuals, separate reporting from interpretation where the genre requires it, and keep claims proportionate to the data.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Orders results by research question or by importance rather than in the order the analyses were run",
@@ -920,6 +978,16 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -931,11 +999,6 @@
       "description": "Report descriptive and inferential statistics in the conventional format of the field or style guide: test statistics, degrees of freedom, exact p-values (reported as p < .001 when very small), effect sizes and confidence intervals in text and tables, with numbers, symbols and units styled correctly. Writers interpret statistical results in words a reader can follow, distinguish statistical significance from practical importance, and avoid the language of proof or of 'trends towards significance'.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Reports a statistical test in the format required by the target style (for example APA) with test statistic, degrees of freedom, p-value and effect size",
@@ -963,6 +1026,16 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -974,11 +1047,6 @@
       "description": "Present qualitative findings as an argued interpretation: organising them by theme or category, selecting and introducing participant extracts that illustrate and evidence analytic claims, commenting on each extract, and keeping the analyst's voice distinct from participants' voices. Writers show the range and prevalence of patterns without spurious counting, attend to negative cases, and present extracts ethically and consistently, with pseudonyms, transcription conventions and edits marked.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Frames each theme with an analytic claim before presenting supporting extracts, rather than letting quotations carry the argument",
@@ -1012,6 +1080,16 @@
           ],
           "contribution": "component"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -1023,11 +1101,6 @@
       "description": "Write discussion sections that move from results to meaning: restating key findings in relation to the research questions, comparing them with previous research, explaining expected and unexpected outcomes, evaluating the study's limitations, and drawing implications. Discussions are typically cyclical, repeating statement–comparison–explanation sequences for each major finding, and their persuasiveness depends on claims calibrated to the evidence and on alternative explanations considered rather than dismissed.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Organises the discussion around key findings or research questions, cycling through statement, comparison with literature and explanation for each",
@@ -1064,7 +1137,15 @@
           "key": "vitae-rdf:A2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.limitations",
@@ -1075,11 +1156,6 @@
       "description": "Identify the limitations that genuinely affect how a study's findings can be interpreted (sample, design, measurement, analysis, scope) and write about them so that readers can judge the claims, by stating each limitation, its likely effect on the findings and, where possible, how it was mitigated or could be addressed. Well-written limitations protect the contribution by showing the writer's command of the design, whereas generic or apologetic lists undermine it.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects limitations that bear on the interpretation of this study's findings rather than listing generic ones such as 'small sample' without consequence",
@@ -1111,7 +1187,15 @@
           "key": "vitae-rdf:C1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.contribution",
@@ -1122,10 +1206,6 @@
       "description": "State what the research adds (new evidence, a new method, a new context, a theoretical refinement or a practical application) and why it matters, at a level of confidence the evidence supports. Writers relate the contribution explicitly to the niche established earlier, choose between self-mention and impersonal framing, and balance promotional and cautious language according to field and genre. Doctoral examiners and journal reviewers look for this statement, and its absence or overstatement is a common reason for criticism.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the contribution in one or two sentences that a non-specialist in their department can understand",
@@ -1158,7 +1238,14 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.conclusions-implications",
@@ -1169,11 +1256,6 @@
       "description": "Write concluding sections and chapters that consolidate the research: briefly restating aims and key findings, answering the research questions, articulating the contribution, drawing calibrated implications for theory, practice or policy, evaluating the study and recommending specific further research. In theses, the conclusion also looks across chapters and back to the field, and conventions vary on whether conclusions form a separate section in articles.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Answers each research question explicitly in the conclusion, using the same terms as the introduction",
@@ -1201,7 +1283,15 @@
           "key": "vitae-rdf:D3",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.abstracts",
@@ -1212,11 +1302,6 @@
       "description": "Write informative abstracts for articles, dissertations and theses that represent the whole study within a tight word limit, typically situating the research, stating its purpose, describing the method, summarising key results and stating conclusions or implications, either as continuous prose or under the headings of a structured abstract. Abstracts are read as stand-alone texts by searchers, editors and examiners, so they are both a summary and a promotional genre, and their move emphasis varies across disciplines and journals.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the moves present and absent in abstracts from their target journals or department",
@@ -1251,7 +1336,15 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.thesis-macrostructure",
@@ -1262,10 +1355,6 @@
       "description": "Choose and justify an overall organisation for a dissertation or thesis — traditional simple (IMRaD-like), traditional complex (several studies), topic-based, or publication-based (compilation of articles with framing chapters, assembled during candidature or, in some systems, retrospectively as a PhD by published works), alongside practice-based and professional-doctorate variants that combine an artefact or portfolio with an exegesis or commentary — and plan chapters that fit the research, the institution's regulations and disciplinary norms. Writers understand what each chapter type contributes, how a publication-based thesis builds coherence across stand-alone papers, and what examiners will look for in the whole document.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the macrostructure type of theses from their own department and relates it to the research design",
@@ -1292,7 +1381,14 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.chapter-metatext",
@@ -1303,10 +1399,6 @@
       "description": "Guide readers through a long document with metatext above the paragraph level: chapter introductions that state purpose and preview structure, chapter conclusions that summarise and link forward, cross-references between chapters, and sign-posting that reminds the reader how the current section serves the thesis argument. Writers calibrate the density of metatext so that it orients the reader without padding or repeating content.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes chapter introductions that state the chapter's purpose, its relation to the research questions and its structure",
@@ -1340,7 +1432,14 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.research-proposal",
@@ -1351,11 +1450,6 @@
       "description": "Write proposals for doctoral admission, confirmation or funding that persuade reviewers a project is significant, original, feasible and well designed: establishing the problem and gap, stating aims and questions, outlining methods, timeline and resources, anticipating risks and ethics, and articulating expected contributions and benefits. Proposals are promissory and evaluative, written in future and conditional terms for readers who must decide quickly, and funders' templates and criteria shape their structure.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes a proposal whose aims, questions, methods and expected outcomes align in a way a reviewer can check quickly",
@@ -1387,7 +1481,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.ethics-documentation",
@@ -1398,11 +1501,6 @@
       "description": "Complete research ethics applications that describe procedures, risks, benefits, consent, confidentiality and data management accurately, and write participant information sheets and consent forms in plain, accessible and, where needed, translated language that enables genuinely informed consent. The genres serve two audiences, the ethics committee and participants, with different register demands, and they commit the researcher to procedures that later methods sections must match.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes procedures, risks and safeguards in an ethics application completely enough for a committee to assess them",
@@ -1429,7 +1527,15 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.supervision",
@@ -1440,11 +1546,6 @@
       "description": "Manage the supervisory relationship through talk and writing: negotiating expectations, preparing agendas and submitting drafts with specific requests for feedback, interpreting and responding to written comments, disagreeing respectfully, and recording decisions and actions after meetings. Supervisory conventions vary across institutions, disciplines and individuals, so learners make these expectations explicit rather than assume them.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Discusses and records mutual expectations with the supervisor, for example meeting frequency, turnaround of drafts and type of feedback",
@@ -1481,7 +1582,15 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.writing-productivity",
@@ -1492,10 +1601,6 @@
       "description": "Sustain writing across a multi-year project by establishing regular, low-stakes writing routines, setting and monitoring realistic writing goals, using writing groups, retreats and accountability partners, separating generative writing from revision, and treating writing as part of doing research rather than as 'writing up' at the end. The aim is steady output and recovery from setbacks without compromising wellbeing.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Maintains a writing routine with planned sessions and records output over several weeks",
@@ -1519,7 +1624,14 @@
           "key": "vitae-rdf:C2",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "res.positionality-writing",
@@ -1530,10 +1642,6 @@
       "description": "Write positionality and reflexivity statements that explain how the researcher's identities, experiences, relationships to participants and theoretical commitments may have shaped access, data and interpretation, and what was done about it. Effective statements are analytic and specific to the study rather than confessional or biographical, use first-person reference according to field conventions, and are integrated with methodological decisions rather than isolated in a separate box.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Identifies aspects of their own position that plausibly affected this study's access, data or interpretation, and omits those that did not",
@@ -1558,7 +1666,54 @@
           "key": "vitae-rdf:C1",
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
+    },
+    {
+      "id": "res.acknowledgements",
+      "type": "GENRE",
+      "strand": "Research Communication",
+      "domain": "Research Writing",
+      "name": "Acknowledgements",
+      "description": "Write acknowledgements for dissertations, theses and articles that thank supervisors, participants, funders, institutions and others in a conventional order and register, include required funding and contribution statements, and distinguish acknowledgement from authorship. The genre is short but socially significant, combining personal gratitude with institutional and ethical obligations.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C1",
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Organises thanks following conventional moves for the genre (for example a reflecting move, thanking moves and an announcing move accepting responsibility)",
+        "Includes required elements such as funding sources and grant numbers in the form the institution or journal specifies",
+        "Distinguishes contributors who merit acknowledgement from those who meet authorship criteria",
+        "Selects a register more personal than the main text but appropriate for a public academic document",
+        "Respects participant confidentiality and any agreed anonymity when thanking participants or organisations"
+      ],
+      "assessmentPrompt": "Give the learner a list of people and bodies (supervisor, anonymous interview participants, a funder with grant number, a statistician who advised on analysis, a partner, a colleague who proofread). Ask for a 120-word thesis acknowledgement and a two-sentence article acknowledgement. Check ordering, inclusion of the funding detail, protection of anonymity, register, and how contributors are handled relative to authorship.",
+      "citations": [
+        "hyland2004graduates",
+        "icmje2025",
+        "brand2015credit"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:D1",
+          "contribution": "related"
+        }
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -1936,7 +2091,7 @@
     },
     {
       "topicId": "res.quantitative-reporting",
-      "prerequisiteId": "sen.numbers-units-style",
+      "prerequisiteId": "num.number-expressions",
       "strength": "soft",
       "reason": "Statistical prose applies style-guide rules for numerals, symbols, decimals and units"
     },
@@ -2047,12 +2202,6 @@
       "prerequisiteId": "res.imrad",
       "strength": "hard",
       "reason": "Abstract moves map onto the sections of the full text, so knowledge of the macrostructure is needed to condense it"
-    },
-    {
-      "topicId": "res.abstracts",
-      "prerequisiteId": "grp.student-abstract",
-      "strength": "soft",
-      "reason": "Abstracts for student reports and dissertations are usually met first and provide the basic condensation skill"
     },
     {
       "topicId": "res.abstracts",
@@ -2233,6 +2382,36 @@
       "prerequisiteId": "reg.impersonality-presence",
       "strength": "soft",
       "reason": "Methods sections force the choice between agentless passives and author-visible 'we' or 'I'; learners need the impersonality-presence choice to make it deliberately"
+    },
+    {
+      "topicId": "res.acknowledgements",
+      "prerequisiteId": "grp.dissertation-overview",
+      "strength": "soft",
+      "reason": "Acknowledgements are part of the dissertation's front matter, and their conventions and placement follow from the overall structure of the document"
+    },
+    {
+      "topicId": "res.acknowledgements",
+      "prerequisiteId": "pub.authorship",
+      "strength": "soft",
+      "reason": "Article acknowledgements list contributors who do not meet authorship criteria, so deciding who is acknowledged depends on knowing those criteria"
+    },
+    {
+      "topicId": "res.abstracts",
+      "prerequisiteId": "src.summarising-text",
+      "strength": "hard",
+      "reason": "An abstract condenses a whole text to its essential content within a strict word limit."
+    },
+    {
+      "topicId": "res.abstracts",
+      "prerequisiteId": "grm.tense-in-reporting",
+      "strength": "soft",
+      "reason": "Abstracts shift between present and past tense according to move, which draws on tense choices for reporting research."
+    },
+    {
+      "topicId": "res.abstracts",
+      "prerequisiteId": "sen.concision",
+      "strength": "soft",
+      "reason": "Word limits make concise phrasing essential to include all required moves."
     }
   ],
   "guidance": [
@@ -3549,7 +3728,7 @@
           "kind": "performance",
           "revealedBy": "Surface inconsistencies that reviewers and examiners notice quickly.",
           "response": "Provide a style-guide checklist and ask learners to run it as a separate editing pass. Do not spend class time on rules the checklist covers; reserve discussion for interpretation.",
-          "reteachPrerequisiteId": "sen.numbers-units-style"
+          "reteachPrerequisiteId": "num.number-expressions"
         }
       ],
       "diagnostic": {
@@ -3937,7 +4116,7 @@
           "kind": "developmental",
           "revealedBy": "Indicative abstracts that describe content without stating findings or conclusions.",
           "response": "Contrast indicative and informative abstracts and require at least one specific results statement. Avoid generalising: some genres, such as some humanities abstracts and conference proposals, legitimately differ.",
-          "reteachPrerequisiteId": "grp.student-abstract"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Half the abstract is background, and the method and results are squeezed into one sentence at the end.",
@@ -4405,6 +4584,79 @@
         "creswell2018"
       ],
       "reviewNotes": []
+    },
+    {
+      "topicId": "res.acknowledgements",
+      "summary": "Hyland's (2004) analysis of dissertation acknowledgements identified a three-tier structure (reflecting, thanking and announcing moves) and showed the genre's role in self-presentation and academic networking. Article acknowledgements serve additional functions: disclosing funding and recognising contributors who do not meet authorship criteria (ICMJE, 2025; Brand et al., 2015). Teaching should combine move analysis with institutional and journal requirements and attention to confidentiality.",
+      "activities": [
+        {
+          "title": "Move analysis of acknowledgements",
+          "learnerActions": [
+            "Analyse several thesis or dissertation acknowledgements from their field",
+            "Identify the moves and their order",
+            "Note variation in register and length",
+            "Draft their own acknowledgement"
+          ],
+          "intendedInsight": "Acknowledgements follow recognisable conventions while allowing personal expression.",
+          "rationale": "Hyland (2004) identifies the moves of dissertation acknowledgements, providing a basis for analysis.",
+          "citations": [
+            "hyland2004graduates"
+          ]
+        },
+        {
+          "title": "Who goes where?",
+          "learnerActions": [
+            "Sort a list of contributors into authors, acknowledged contributors and those not acknowledged",
+            "Justify decisions using ICMJE criteria or CRediT roles",
+            "Draft a funding statement",
+            "Compare decisions with peers"
+          ],
+          "intendedInsight": "Acknowledgement and authorship are distinct, with ethical implications.",
+          "rationale": "Authorship criteria (ICMJE, 2025) and contributor role taxonomies (Brand et al., 2015) define who is acknowledged rather than listed as an author.",
+          "citations": [
+            "icmje2025",
+            "brand2015credit"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Naming participants or organisations that were promised anonymity.",
+          "kind": "conceptual",
+          "revealedBy": "Acknowledgements that identify research sites or participants by name.",
+          "response": "Check consent and ethics documentation before naming anyone; thank participants collectively where anonymity was promised.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Register that is either extremely effusive or perfunctory.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Very long, emotional acknowledgements or a single generic line.",
+          "response": "Show a range of models from the learner's field and institution and discuss audience.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Offering authorship as a form of thanks, or acknowledging someone whose contribution merits authorship.",
+          "kind": "conceptual",
+          "revealedBy": "Proposed author lists that include people who only provided resources, or acknowledgements of substantial intellectual contributors.",
+          "response": "Revisit authorship criteria and discuss with supervisors.",
+          "reteachPrerequisiteId": "pub.authorship"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a list of contributors and ask the learner to decide who is acknowledged, who might be an author and how anonymous participants are thanked.",
+        "strongResponse": "Correctly distinguishes authors and acknowledged contributors, includes funding details and protects anonymity.",
+        "partialResponse": "Mostly correct but omits funding or names an anonymous participant.",
+        "gapResponse": "Confuses authorship and acknowledgement or omits required elements."
+      },
+      "contextNotes": "UG and PGT dissertation acknowledgements are usually short and optional. PGR thesis acknowledgements are longer and more personal. Article acknowledgements are formulaic and often include required funding and conflict-of-interest statements.",
+      "citations": [
+        "hyland2004graduates",
+        "icmje2025",
+        "brand2015credit"
+      ],
+      "reviewNotes": [
+        "Hyland (2004) is a proposed reference; verify before publication."
+      ]
     }
   ],
   "authorNotes": [

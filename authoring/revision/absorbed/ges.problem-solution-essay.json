@@ -1,0 +1,106 @@
+{
+  "mergedInto": "ges.expository-essays",
+  "finding": "R1-16",
+  "topic": {
+    "id": "ges.problem-solution-essay",
+    "type": "GENRE",
+    "strand": "Academic Genres",
+    "domain": "Essay & Examination Genres",
+    "name": "Problem–solution essay",
+    "description": "Produce an essay that defines a problem, establishes its causes and significance, presents possible responses and evaluates them against criteria such as effectiveness, feasibility, cost and equity, ending with a justified recommendation. The genre realises the situation–problem–response–evaluation pattern; characteristic language includes problem-signalling nouns (challenge, barrier, shortfall), evaluative lexis, conditional and hypothetical reasoning, and recommending language.",
+    "cefrStart": "B1+",
+    "cefrEnd": "B2+",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Defines the problem precisely, establishing its scope and significance with evidence",
+      "Presents more than one response and evaluates each against stated criteria",
+      "Uses conditional and hypothetical language to discuss the likely effects of proposed responses",
+      "Recommends a response and justifies it in relation to the criteria and the limitations of alternatives",
+      "Uses problem and evaluation signalling nouns that make the pattern visible to the reader"
+    ],
+    "assessmentPrompt": "Give the learner a short case describing a campus or community problem and ask for one paragraph evaluating a proposed solution. Check that the paragraph applies at least two explicit criteria, acknowledges a limitation or trade-off and uses conditional language for predicted effects.",
+    "citations": [
+      "hoey1983",
+      "hoey2001",
+      "swalesfeak2012"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:prod.writ.reports-essays",
+        "levels": [
+          "B1+",
+          "B2"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "ges.problem-solution-essay",
+    "summary": "Hoey's (1983, 2001) situation–problem–response–evaluation pattern is the backbone of this genre and shows learners that a response is only complete once it is evaluated; a negative evaluation recycles the pattern towards a new response. Swales and Feak (2012) treat problem–process–solution texts as a foundational academic pattern. Teach the genre as evaluative, since the commonest weakness is presenting solutions without criteria, and use it as a bridge to case studies, business reports and policy briefs.",
+    "activities": [
+      {
+        "title": "Mapping the pattern",
+        "learnerActions": [
+          "Read a short problem–solution text and label the situation, problem, response and evaluation",
+          "Identify the signalling nouns that mark each element",
+          "Find a place where a negative evaluation leads to a new response",
+          "Plan your own essay as a chain of these elements"
+        ],
+        "intendedInsight": "The pattern is recursive, and evaluation is what makes it analytical.",
+        "rationale": "Hoey's pattern gives learners a functional map with recognisable lexical signals (Hoey, 1983, 2001).",
+        "citations": [
+          "hoey1983",
+          "hoey2001"
+        ]
+      },
+      {
+        "title": "Criteria matrix for solutions",
+        "learnerActions": [
+          "List possible responses to a problem from a source pack",
+          "Agree four criteria such as effectiveness, cost, feasibility and unintended consequences",
+          "Rate each response against the criteria with evidence",
+          "Write a recommendation paragraph that justifies the choice and acknowledges trade-offs"
+        ],
+        "intendedInsight": "Recommendations persuade when they are justified by explicit criteria and honest about trade-offs.",
+        "rationale": "Turns the evaluation element of the pattern into an explicit, criterion-based procedure that learners can reuse in report and case-study genres.",
+        "citations": []
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "Describing the problem at length and listing solutions in a final paragraph.",
+        "kind": "developmental",
+        "revealedBy": "Most of the word count spent on background; solutions named but not evaluated.",
+        "response": "Set word budgets for each stage and require an evaluation for every response proposed.",
+        "reteachPrerequisiteId": "fun.problem-solution"
+      },
+      {
+        "pattern": "Recommendations phrased as unconditional commands ('The government must ban ...').",
+        "kind": "prior-schooling",
+        "revealedBy": "Strong 'must' and 'should' statements without justification or attention to feasibility, often carried over from test-essay practice.",
+        "response": "Contrast hortatory statements with justified, hedged recommendations and teach alternatives such as 'a more feasible option would be ...'.",
+        "reteachPrerequisiteId": "fun.recommending"
+      }
+    ],
+    "diagnostic": {
+      "task": "Ask learners to identify the problem, response and evaluation in a 150-word text and say whether the evaluation is positive or negative.",
+      "strongResponse": "Labels every element and points to the signals that mark them.",
+      "partialResponse": "Finds the problem and response but misses or misreads the evaluation.",
+      "gapResponse": "Summarises the text without identifying the pattern."
+    },
+    "contextNotes": "Foundation: familiar problems with short source packs, closely linked to recommending language. Pre-sessional: source-based evaluation of responses, often a progression essay type. In-sessional undergraduate: common in social sciences, environmental studies, engineering and health, and a natural step towards case-study and report genres.",
+    "citations": [
+      "hoey1983",
+      "hoey2001",
+      "swalesfeak2012",
+      "mooremorton2005"
+    ],
+    "reviewNotes": []
+  }
+}

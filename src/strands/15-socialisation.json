@@ -3,16 +3,17 @@
   "domains": [
     {
       "code": "ACU",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "name": "Academic Culture & Expectations",
       "summary": "Makes explicit how universities and disciplines are organised, what they expect of learners and how those expectations are communicated, often tacitly. The domain moves from orientation knowledge (structures, teaching formats, roles and address) through discourse-community and disciplinary awareness to perspectives (academic literacies, critical EAP, EMI and transnational education) that treat conventions as situated, variable and open to question rather than as fixed norms to be absorbed. Throughout, difficulty is framed as a mismatch between practices, not as a deficit in the learner.",
       "learnerSummary": "You will learn how your university and your discipline work, what is expected of you (including things nobody says out loud), and how to adapt to these expectations and, where appropriate, question them.",
       "stageEmphasis": {
         "foundation": "Orientation to structures, teaching formats, forms of address and independent study, taught through real institutional documents at the point of need rather than in one-off information sessions.",
-        "pre-sessional": "Explicit comparison of prior and target practices, decoding tacit expectations in tasks and feedback, a first look at disciplinary difference, and transition support integrated into language work.",
         "in-sessional-ug": "Disciplinary expectations, discourse communities and tacit criteria in the student's own modules, ideally embedded or co-taught with subject staff.",
         "in-sessional-pgt": "Rapid orientation within compressed one-year programmes, disciplinary knowledge-making for students changing field, and academic literacies perspectives that help students interpret feedback.",
-        "pgr": "Doctoral expectations of independence, disciplinary epistemologies, the researcher's place in research communities, and critical perspectives on English-medium scholarship."
+        "pgr": "Doctoral expectations of independence, disciplinary epistemologies, the researcher's place in research communities, and critical perspectives on English-medium scholarship.",
+        "pre-sessional-ug": "Explicit comparison of prior and target practices, decoding tacit expectations in tasks and feedback, a first look at disciplinary difference, and transition support integrated into language work.",
+        "pre-sessional-pg": "Explicit comparison of prior and target practices, decoding tacit expectations in tasks and feedback, a first look at disciplinary difference, and transition support integrated into language work."
       },
       "keyReferences": [
         "leastreet1998",
@@ -26,16 +27,17 @@
     },
     {
       "code": "PRG",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "name": "Academic Pragmatics & Correspondence",
       "summary": "Covers the sociopragmatic and pragmalinguistic resources learners need to interact with staff and peers outside the core academic genres: politeness and face, requests, apologies and accounts, emails, office hours, formal institutional statements, forum posts, channel choice and acknowledgements. Interlanguage pragmatics research shows that pragmatic competence does not keep pace with grammatical development without attention, and that staff judge messages on perceived politeness and clarity as well as accuracy. Norms are presented as variable across institutions, countries and individuals; the aim is informed, context-sensitive choice, not one correct formula.",
       "learnerSummary": "You will learn how to write emails, make requests, apologise, take part in meetings and online discussions, and write formal statements in ways that are clear and appropriate for the people you are communicating with.",
       "stageEmphasis": {
         "foundation": "Core forms of address, request and apology language, and email structure, practised on real tasks such as contacting a tutor or reporting an absence.",
-        "pre-sessional": "Calibrating politeness to power, distance and imposition; email and office-hour rehearsal for the destination institution; forum participation on the course VLE.",
         "in-sessional-ug": "Applying pragmatic knowledge to real situations as they arise (extensions, feedback tutorials, assessed forums, extenuating circumstances claims), with attention to local norms.",
         "in-sessional-pgt": "Efficient, well-judged correspondence and meetings within a compressed timeline, including requests for references and dissertation-related contact.",
-        "pgr": "High-imposition requests to supervisors, external researchers and gatekeepers, multichannel professional communication, and acknowledgements in theses and articles."
+        "pgr": "High-imposition requests to supervisors, external researchers and gatekeepers, multichannel professional communication, and acknowledgements in theses and articles.",
+        "pre-sessional-ug": "Calibrating politeness to power, distance and imposition; email and office-hour rehearsal for the destination institution; forum participation on the course VLE.",
+        "pre-sessional-pg": "Calibrating politeness to power, distance and imposition; email and office-hour rehearsal for the destination institution; forum participation on the course VLE."
       },
       "keyReferences": [
         "brownlevinson1987",
@@ -49,19 +51,12 @@
     {
       "id": "acu.university-structures",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "How universities are organised",
       "description": "Identify the organisational units (faculty, school, department, programme, module), staff roles (module leader, personal tutor, programme director, supervisor, professional services staff) and decision-making processes (programme regulations, assessment boards, student representation) that affect one's study, and use this knowledge to find information and the right person to contact. Organisational knowledge underpins effective help-seeking and correspondence, and terms and structures vary considerably between institutions and countries.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Locates, in a real programme or module handbook, who is responsible for teaching, assessment, extensions and pastoral support",
@@ -92,23 +87,28 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.teaching-formats",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Teaching and learning formats",
       "description": "Recognise the purposes, participation expectations and preparation demands of the main formats of university teaching (lectures, seminars, tutorials, laboratory and studio sessions, workshops, and VLE-based or blended learning) and the relationship between timetabled contact and independent study. Knowing what each format is for lets learners prepare appropriately and interpret what counts as taking part.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States, for each format on their timetable, its main purpose and what students are expected to do before, during and after it",
@@ -132,24 +132,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.academic-expectations",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Expectations of university learners",
       "description": "Interpret commonly stated expectations of university learners (independent study, critical engagement with sources, contribution to discussion, responsibility for one's own learning) as situated practices whose meaning varies by discipline, level and institution, rather than as fixed personal traits. Making these expectations concrete helps learners act on them and recognise where their prior experience already meets them.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Translates abstract expectations in programme documents (for example 'independent' or 'critical') into concrete behaviours for a specific module",
@@ -164,24 +167,28 @@
         "lekicarson1997",
         "atkinson1997"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.hidden-curriculum",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Tacit expectations",
       "description": "Identify the unstated conventions behind university tasks and feedback, such as what tutors mean by 'argument', 'structure', 'critical' or 'too descriptive', how criteria are applied in practice, and which behaviours are valued but not taught, and use questioning, exemplars and feedback to make them explicit. Tacit expectations disadvantage students whose prior schooling or family experience did not share them, including first-generation, mature and returning students as well as those new to the national system, so surfacing them is a matter of equity as well as skill.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies evaluative terms in feedback or criteria whose meaning is not self-evident and formulates questions to clarify them",
@@ -197,23 +204,28 @@
         "wingate2015",
         "bond2020"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.discourse-communities",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Discourse communities and disciplines",
       "description": "Understand disciplines and other academic groups as discourse communities with shared goals, channels of communication, characteristic genres and specialised lexis, in which membership develops through participation over time. The concept helps learners see academic conventions as purposeful practices of particular communities rather than universal rules, while recognising that communities are internally diverse and their boundaries contested.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes their target discipline in terms of its goals, communication channels, valued genres and specialised vocabulary",
@@ -234,23 +246,27 @@
           "key": "acrl:conversation",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.disciplinary-knowledge",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Disciplinary knowledge-making",
       "description": "Compare how disciplines construct knowledge (what counts as evidence, how claims are warranted, the role of theory, cumulative versus interpretive knowledge-building) and relate these differences to the genres, citation practices and stance valued in one's own field. Recognising epistemological difference explains why writing advice that works in one field misleads in another.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Describes what counts as legitimate evidence in their own field and contrasts it with a field of a different type (for example hard-pure versus soft-applied)",
@@ -275,22 +291,29 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
       "id": "acu.academic-literacies",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Academic literacies perspective",
       "description": "Understand the academic literacies view of reading and writing as social practices shaped by identity, power and institutional context, as distinct from study-skills and academic socialisation models, and use it to interpret one's own experience of feedback, conventions and voice. The perspective reframes difficulty as arising from contested and often unstated expectations rather than from individual deficit.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes the study skills, academic socialisation and academic literacies models and shows how each would explain the same writing difficulty",
@@ -305,24 +328,25 @@
         "lillis2001",
         "ivanic1998"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.transition",
       "type": "STRATEGIC",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Transition and adjustment",
       "description": "Manage academic and sociocultural adjustment to a new educational context by identifying specific unfamiliar practices and sources of stress, learning the practices of the new setting, drawing on prior knowledge and multilingual repertoires, and building peer, academic and professional support. Adjustment is uneven and individual rather than a fixed sequence of stages, and it involves the institution adapting as well as the student.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies specific academic and social demands of the new context that differ from prior experience and plans a response to each",
@@ -350,24 +374,28 @@
           "key": "vitae-rdf:B1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.roles-address",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Academic roles and forms of address",
       "description": "Choose appropriate forms of address and reference for academic and professional staff (titles such as Dr and Professor, first names, or no title) by checking local practice, the person's own signature or introduction, and the institutional relationship. Norms vary across institutions, countries, disciplines and individuals, and misjudged address in either direction can affect how a message is received.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses the recipient's email signature, staff profile or self-introduction as evidence when choosing a form of address",
@@ -391,23 +419,28 @@
           ],
           "contribution": "core"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.critical-eap",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Making informed choices about academic conventions",
       "description": "Examine whose norms EAP teaches, whose interests they serve and how they might be questioned or negotiated, including native-speaker standards, the dominance of English in scholarship and the pragmatic aim of fitting students to existing demands, and identify where learners can exercise informed choice or seek change. A critical perspective supports agency without pretending that conventions carry no consequences.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes a pragmatic (accommodating) from a critical rationale for teaching a given convention",
@@ -428,23 +461,27 @@
           "key": "acrl:authority",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "acu.emi-tne",
       "type": "CONCEPTUAL",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "EMI and transnational education contexts",
       "description": "Understand the conditions of studying through English in non-anglophone universities (English-medium instruction) and in transnational provision such as branch campuses and franchised or joint programmes, including the roles of English and other languages, content lecturers' varied expectations about language, and what this implies for the academic English that matters locally. EMI and TNE learners need academic English shaped by their actual context rather than by anglophone-campus assumptions.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes the language ecology of their programme: which languages are used for which purposes and by whom",
@@ -476,24 +513,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.politeness",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Politeness and face in academic interaction",
       "description": "Analyse student–staff and peer interaction in terms of face, social distance, relative power and the size of an imposition, and choose linguistic strategies (mitigation, indirectness, acknowledging the other's time and autonomy) accordingly. Politeness norms depend on context and vary across institutions and individuals, so the aim is informed choice rather than a single formula.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Estimates the relative power, social distance and imposition in a given academic interaction and justifies the estimate",
@@ -525,24 +565,28 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.requests",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Making requests",
       "description": "Make academic requests (for extensions, meetings, references, clarification, feedback or resources) in writing and speech that state clearly what is wanted, give a relevant reason, and are mitigated in proportion to the imposition. Clarity of purpose and appropriate mitigation together determine whether a request is understood and granted, and some requests must go through formal procedures rather than personal appeal.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "States the request explicitly and early, specifying an action and timeframe the recipient can respond to",
@@ -576,24 +620,28 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.emails-to-staff",
       "type": "GENRE",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Emails to academic staff",
       "description": "Write emails to lecturers, supervisors and professional services staff with an informative subject line, an appropriate greeting and form of address, an early statement of purpose, sufficient context, a clear request or question, and a suitable closing and signature with identifying details. Email is often the first and most frequent written contact with staff, and its form shapes perceptions of the writer.",
       "cefrStart": "A2",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes subject lines that identify the module or topic and the purpose of the message",
@@ -625,23 +673,28 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "A2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.office-hours",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Office hours and tutorials",
       "description": "Prepare for and conduct one-to-one or small-group meetings with academic staff: booking through the expected channel, bringing specific questions and materials, framing the purpose at the start, negotiating and checking understanding, noting agreed actions and closing within the time available. These meetings are a key but under-used route to tacit expectations and individual feedback.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Books or attends the meeting through the expected channel and states its purpose in advance where required",
@@ -673,23 +726,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.formal-statements",
       "type": "GENRE",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Formal statements and appeals",
       "description": "Write formal institutional texts (extenuating or mitigating circumstances statements, academic appeals and complaints) that follow the relevant procedure, give a factual, chronological and evidenced account, relate it to the grounds the regulations allow, state the outcome sought and keep a measured, non-accusatory tone. These texts affect progression and are judged against regulations, so procedural fit matters more than persuasion or emotional appeal.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the correct procedure, deadline and evidence requirements from institutional regulations before writing",
@@ -712,23 +769,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.apologising-explaining",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Apologising and explaining",
       "description": "Apologise and give accounts for missed deadlines, absences, lateness or other lapses in a way that acknowledges responsibility proportionately, explains briefly and relevantly, proposes repair, and avoids both under-apology and excessive self-abasement or over-disclosure. Effective apologies maintain working relationships and often connect the student to the formal process they actually need.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Includes an explicit apology expression proportionate to the lapse",
@@ -760,23 +821,27 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.forum-posts",
       "type": "GENRE",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Online discussion forum posts",
       "description": "Write asynchronous discussion posts and replies on VLE forums that respond to the prompt, make a clear point supported by course readings or evidence, engage explicitly with others' contributions, and use a register between conversation and formal academic prose. Forum posts are often assessed and make reasoning visible to peers, so they reward both argument and collegial engagement.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Addresses the prompt directly with a clear point in the opening sentences",
@@ -807,24 +872,27 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "prg.messaging-channels",
       "type": "SOCIOPRAGMATIC",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Messaging channels and norms",
       "description": "Choose the appropriate channel (email, VLE messages or forums, enquiry and ticketing systems, group chats, collaboration platforms) for a given purpose, recipient, level of privacy and urgency, and adjust tone, length and expectations of response time accordingly. Channel norms differ across institutions and teams and are often unstated; a misjudged channel can delay a response or blur professional boundaries.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects the channel specified by the module or department for each type of query and can show where this is stated",
@@ -863,42 +931,18 @@
           ],
           "contribution": "related"
         }
-      ]
-    },
-    {
-      "id": "prg.acknowledgements",
-      "type": "GENRE",
-      "strand": "Academic Socialisation & Communication",
-      "domain": "Academic Pragmatics & Correspondence",
-      "name": "Acknowledgements",
-      "description": "Write acknowledgements for dissertations, theses and articles that thank supervisors, participants, funders, institutions and others in a conventional order and register, include required funding and contribution statements, and distinguish acknowledgement from authorship. The genre is short but socially significant, combining personal gratitude with institutional and ethical obligations.",
-      "cefrStart": "B2+",
-      "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Organises thanks following conventional moves for the genre (for example a reflecting move, thanking moves and an announcing move accepting responsibility)",
-        "Includes required elements such as funding sources and grant numbers in the form the institution or journal specifies",
-        "Distinguishes contributors who merit acknowledgement from those who meet authorship criteria",
-        "Selects a register more personal than the main text but appropriate for a public academic document",
-        "Respects participant confidentiality and any agreed anonymity when thanking participants or organisations"
-      ],
-      "assessmentPrompt": "Give the learner a list of people and bodies (supervisor, anonymous interview participants, a funder with grant number, a statistician who advised on analysis, a partner, a colleague who proofread). Ask for a 120-word thesis acknowledgement and a two-sentence article acknowledgement. Check ordering, inclusion of the funding detail, protection of anonymity, register, and how contributors are handled relative to authorship.",
-      "citations": [
-        "hyland2004graduates",
-        "icmje2025",
-        "brand2015credit"
-      ],
-      "frameworks": [
-        {
-          "key": "vitae-rdf:D1",
-          "contribution": "related"
-        }
-      ]
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -1081,18 +1125,6 @@
       "prerequisiteId": "dig.vle",
       "strength": "soft",
       "reason": "Choosing between VLE messaging, forums and announcements requires knowing what communication tools the VLE provides and how they are used on the course"
-    },
-    {
-      "topicId": "prg.acknowledgements",
-      "prerequisiteId": "grp.dissertation-overview",
-      "strength": "soft",
-      "reason": "Acknowledgements are part of the dissertation's front matter, and their conventions and placement follow from the overall structure of the document"
-    },
-    {
-      "topicId": "prg.acknowledgements",
-      "prerequisiteId": "pub.authorship",
-      "strength": "soft",
-      "reason": "Article acknowledgements list contributors who do not meet authorship criteria, so deciding who is acknowledged depends on knowing those criteria"
     }
   ],
   "guidance": [
@@ -2439,79 +2471,6 @@
       ],
       "reviewNotes": [
         "Channel norms are changing quickly, and no source in the bibliography addresses multichannel student–staff communication directly."
-      ]
-    },
-    {
-      "topicId": "prg.acknowledgements",
-      "summary": "Hyland's (2004) analysis of dissertation acknowledgements identified a three-tier structure (reflecting, thanking and announcing moves) and showed the genre's role in self-presentation and academic networking. Article acknowledgements serve additional functions: disclosing funding and recognising contributors who do not meet authorship criteria (ICMJE, 2025; Brand et al., 2015). Teaching should combine move analysis with institutional and journal requirements and attention to confidentiality.",
-      "activities": [
-        {
-          "title": "Move analysis of acknowledgements",
-          "learnerActions": [
-            "Analyse several thesis or dissertation acknowledgements from their field",
-            "Identify the moves and their order",
-            "Note variation in register and length",
-            "Draft their own acknowledgement"
-          ],
-          "intendedInsight": "Acknowledgements follow recognisable conventions while allowing personal expression.",
-          "rationale": "Hyland (2004) identifies the moves of dissertation acknowledgements, providing a basis for analysis.",
-          "citations": [
-            "hyland2004graduates"
-          ]
-        },
-        {
-          "title": "Who goes where?",
-          "learnerActions": [
-            "Sort a list of contributors into authors, acknowledged contributors and those not acknowledged",
-            "Justify decisions using ICMJE criteria or CRediT roles",
-            "Draft a funding statement",
-            "Compare decisions with peers"
-          ],
-          "intendedInsight": "Acknowledgement and authorship are distinct, with ethical implications.",
-          "rationale": "Authorship criteria (ICMJE, 2025) and contributor role taxonomies (Brand et al., 2015) define who is acknowledged rather than listed as an author.",
-          "citations": [
-            "icmje2025",
-            "brand2015credit"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Naming participants or organisations that were promised anonymity.",
-          "kind": "conceptual",
-          "revealedBy": "Acknowledgements that identify research sites or participants by name.",
-          "response": "Check consent and ethics documentation before naming anyone; thank participants collectively where anonymity was promised.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "Register that is either extremely effusive or perfunctory.",
-          "kind": "overgeneralisation",
-          "revealedBy": "Very long, emotional acknowledgements or a single generic line.",
-          "response": "Show a range of models from the learner's field and institution and discuss audience.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "Offering authorship as a form of thanks, or acknowledging someone whose contribution merits authorship.",
-          "kind": "conceptual",
-          "revealedBy": "Proposed author lists that include people who only provided resources, or acknowledgements of substantial intellectual contributors.",
-          "response": "Revisit authorship criteria and discuss with supervisors.",
-          "reteachPrerequisiteId": "pub.authorship"
-        }
-      ],
-      "diagnostic": {
-        "task": "Give a list of contributors and ask the learner to decide who is acknowledged, who might be an author and how anonymous participants are thanked.",
-        "strongResponse": "Correctly distinguishes authors and acknowledged contributors, includes funding details and protects anonymity.",
-        "partialResponse": "Mostly correct but omits funding or names an anonymous participant.",
-        "gapResponse": "Confuses authorship and acknowledgement or omits required elements."
-      },
-      "contextNotes": "UG and PGT dissertation acknowledgements are usually short and optional. PGR thesis acknowledgements are longer and more personal. Article acknowledgements are formulaic and often include required funding and conflict-of-interest statements.",
-      "citations": [
-        "hyland2004graduates",
-        "icmje2025",
-        "brand2015credit"
-      ],
-      "reviewNotes": [
-        "Hyland (2004) is a proposed reference; verify before publication."
       ]
     }
   ],

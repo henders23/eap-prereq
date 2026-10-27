@@ -9,10 +9,11 @@
       "learnerSummary": "You will learn the grammar that academic texts rely on most, especially how long noun phrases pack information, and how choices of tense, voice and sentence structure change what your writing claims. You will also build routines for finding and fixing your own most frequent errors.",
       "stageEmphasis": {
         "foundation": "Secure clause analysis, agreement, articles, tense and basic subordination with textbook-level texts, and introduce noun-phrase expansion through description and definition tasks.",
-        "pre-sessional": "Shift attention from clause-combining to phrasal complexity, tense and voice in source-based writing, reporting structures and personal error monitoring tied to the progression assignment.",
         "in-sessional-ug": "Address grammar through students' disciplinary reading and assessed drafts, focusing on noun phrases, reporting, passive versus active choices and recurrent errors flagged in feedback.",
         "in-sessional-pgt": "Concentrate on nominalisation, tense in literature reviews, stance-bearing structures and editing efficiency under the time pressure of a one-year programme.",
-        "pgr": "Refine information packaging (clefts, fronting, end-weight), voice and tense choices in research genres and independent self-editing for publication."
+        "pgr": "Refine information packaging (clefts, fronting, end-weight), voice and tense choices in research genres and independent self-editing for publication.",
+        "pre-sessional-ug": "Shift attention from clause-combining to phrasal complexity, tense and voice in source-based writing, reporting structures and personal error monitoring tied to the progression assignment.",
+        "pre-sessional-pg": "Shift attention from clause-combining to phrasal complexity, tense and voice in source-based writing, reporting structures and personal error monitoring tied to the progression assignment."
       },
       "keyReferences": [
         "biber1999lgswe",
@@ -30,10 +31,11 @@
       "learnerSummary": "You will learn to build clear, correctly punctuated sentences and to apply the conventions your department or style guide expects. You will also learn to edit sentences so that readers can follow dense academic ideas easily.",
       "stageEmphasis": {
         "foundation": "Establish sentence types, boundaries, core comma and capitalisation conventions, and basic number and list formatting in short assignments.",
-        "pre-sessional": "Consolidate boundary and punctuation accuracy under time pressure, introduce semicolons, colons, quotation punctuation and concision for word-limited progression tasks.",
         "in-sessional-ug": "Address style-guide conventions required by departments and sentence-level clarity in assessed reports and essays.",
         "in-sessional-pgt": "Focus on concision, end-weight and consistent application of a style guide in dissertations and data-heavy writing.",
-        "pgr": "Refine sentence-level clarity, end-weight and house-style conventions for theses and journal submission."
+        "pgr": "Refine sentence-level clarity, end-weight and house-style conventions for theses and journal submission.",
+        "pre-sessional-ug": "Consolidate boundary and punctuation accuracy under time pressure, introduce semicolons, colons, quotation punctuation and concision for word-limited progression tasks.",
+        "pre-sessional-pg": "Consolidate boundary and punctuation accuracy under time pressure, introduce semicolons, colons, quotation punctuation and concision for word-limited progression tasks."
       },
       "keyReferences": [
         "apa2020",
@@ -54,11 +56,6 @@
       "description": "Identify the subject, verb, object, complement and adverbial of a clause, including when each is realised by a long phrase or an embedded clause, and use this analysis to find the core of dense academic sentences and to build complete ones. Clause analysis supplies the working metalanguage on which later grammar, punctuation, reading and self-editing work depends.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Marks the full subject, the finite main verb and any object or complement in academic sentences whose subjects run to ten or more words",
@@ -89,7 +86,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.subject-verb-agreement",
@@ -100,12 +106,6 @@
       "description": "Make finite verbs agree with the head of the subject when modifiers separate the two, and handle academic cases where number is not transparent: 'the number of' versus 'a number of', proportion and quantity expressions, coordinated subjects, collective nouns and nouns such as data, criteria and research. Agreement slips are highly visible to markers and editors even when meaning is clear.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces correct agreement when the head noun and verb are separated by prepositional phrases or relative clauses",
@@ -133,7 +133,17 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.np-premodification",
@@ -144,12 +154,6 @@
       "description": "Build and interpret noun phrases with adjectives, participles and nouns before the head (a carefully designed longitudinal study; carbon emission reduction targets), including the order of premodifiers and the implicit meaning relations in noun + noun sequences. Premodification is a major and growing resource for compression in academic writing, and it is a frequent source of both comprehension difficulty and ambiguity.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the head noun in premodified sequences of three or more words and paraphrases the relations between modifiers and head",
@@ -178,7 +182,17 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.np-postmodification",
@@ -189,12 +203,6 @@
       "description": "Use and parse the structures that follow a head noun: prepositional phrases (by far the most frequent postmodifier in academic prose), relative clauses, non-finite clauses and appositive noun phrases or clauses. Postmodified noun phrases let writers specify and qualify referents precisely, and they produce the long subjects that L2 readers and writers find hardest to process.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Marks the boundaries of postmodifiers in long noun phrases, including stacked prepositional phrases (the effect of X on Y in Z)",
@@ -227,7 +235,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.nominalisation",
@@ -238,12 +256,6 @@
       "description": "Express processes and qualities as nouns (X increased sharply → the sharp increase in X), and logical relations inside the clause as verbs, nouns or prepositions (because X rose, Y fell → the rise in X caused a fall in Y), so that they can be classified, evaluated, made the subject of further clauses and used to carry given information forward, and unpack nominalisations when reading. Writers also need to recognise the costs: nominal style can hide agency and causal relations and can make prose harder to process than necessary.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Converts a clause into a nominal group with the correct derived noun, preposition and transformed modifiers (rapidly → rapid)",
@@ -275,7 +287,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.phrasal-complexity",
@@ -286,12 +308,6 @@
       "description": "Understand that academic writing is complex mainly through compressed phrases (noun phrases with premodifiers and prepositional postmodifiers, nominalisations), whereas conversation elaborates through dependent clauses, and use this understanding to read dense prose and to set realistic development goals. The insight corrects the widespread belief that 'academic' means long sentences with many subordinate clauses.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains, with examples, how a written academic sentence and a spoken explanation of the same content distribute information differently",
@@ -320,7 +336,17 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.articles",
@@ -331,13 +357,6 @@
       "description": "Choose between a/an, the and zero article according to countability, specific versus generic reference, first versus subsequent or otherwise identifiable mention, and postmodification (the role of X; zero article with uncountable and plural generic nouns). Article choices encode whether a reader can identify a referent and whether a claim is general or specific, so they matter for meaning as well as accuracy.",
       "cefrStart": "B1",
       "cefrEnd": "C2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses zero article with uncountable and plural nouns for generic statements (Education improves…; Universities face…)",
@@ -366,7 +385,18 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.determiners-quantifiers",
@@ -377,11 +407,6 @@
       "description": "Select determiners and quantifiers that match the countability of the noun and the precision the claim needs: few versus a few, much versus many, less versus fewer, each versus every, a number of, the majority of, a proportion of. Quantifiers carry evaluative and hedging meaning (few studies versus a few studies), so choices affect the claim as well as accuracy.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Matches quantifiers to countable and uncountable academic nouns (much research, many studies, little evidence)",
@@ -411,7 +436,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.tense-aspect",
@@ -422,12 +456,6 @@
       "description": "Use present simple for generalisations, definitions and the content of texts and figures; past simple for completed procedures and specific past studies or events; and present perfect for developments whose relevance continues into the present state of a field. Academic prose relies overwhelmingly on the simple present, with perfect and progressive aspects comparatively rare, so the skill is choosing the marked forms purposefully and keeping tense consistent within a section.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses present simple for generalisations and for describing what a figure, table or text shows",
@@ -455,7 +483,17 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.tense-in-reporting",
@@ -466,12 +504,6 @@
       "description": "Choose tense in citing and reporting sentences to signal how the writer positions the cited work: past for a specific study's actions or findings, present perfect for an area of continuing activity, and present for claims the writer treats as currently valid or for what a source argues. Tense correlates with citation form (integral versus non-integral) and reporting-verb choice, and it varies by discipline.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses past tense to report what a specific researcher did or found and present tense to report claims treated as currently valid",
@@ -504,7 +536,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.passive-voice",
@@ -515,13 +557,6 @@
       "description": "Form passives across tenses and with modals, and choose between active and passive on functional grounds: keeping given information or the topic in subject position, omitting an agent that is unknown, obvious or irrelevant, and foregrounding processes in methods. The passive is common in academic prose, but it is not inherently 'objective'; writers also need to know when an active verb with a human or 'we' subject is clearer or expected, and how passives interact with dangling modifiers.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Forms passives accurately with simple, perfect and modal verb phrases (have been reported, may be attributed to)",
@@ -551,7 +586,18 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.epistemic-modality",
@@ -562,12 +608,6 @@
       "description": "Use and interpret may, might, could, would, should and must to express degrees of likelihood and inference, including modal + perfect for past inferences (may have contributed) and modal + passive (could be explained by). Modal verbs are a core grammatical resource for hedging and inference, and learners need to separate their epistemic meanings from obligation and ability meanings.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes epistemic from deontic and ability uses of the same modal in academic sentences (must as inference versus obligation)",
@@ -599,7 +639,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.conditionals",
@@ -610,11 +660,6 @@
       "description": "Use real and unreal conditionals and conditional subordinators (if, unless, provided that, assuming that, as long as) to state the conditions under which a claim holds, to reason about hypothetical cases and counterfactuals, and to describe dependencies in methods and models. In academic writing, conditionals do much of the work of limiting and qualifying claims rather than describing imaginary situations.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses present-tense conditionals to state general dependencies and boundary conditions (If the sample is small, estimates are unstable)",
@@ -644,7 +689,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.relative-clauses",
@@ -655,11 +709,6 @@
       "description": "Form and punctuate defining and non-defining relative clauses with which, that, who, whom, whose and preposition + which/whom (the extent to which, the conditions under which), and recognise reduced relatives. The defining/non-defining distinction changes what a sentence claims about a set of referents, so commas here carry meaning, not just style.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains the difference in meaning between a defining and a non-defining version of the same sentence",
@@ -687,7 +736,16 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.non-finite-clauses",
@@ -698,11 +756,6 @@
       "description": "Use -ing, -ed and to-infinitive clauses as postmodifiers (the factors affecting uptake; the data collected in 2020), adverbials of purpose, means and result (To test this, …; thereby reducing …) and complements, so that information can be added without a full finite clause. Because non-finite clauses have no expressed subject, writers must ensure the implied subject is recoverable and avoid dangling participles.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Reduces relative clauses to -ing or -ed postmodifiers, choosing the participle that matches active or passive meaning",
@@ -731,7 +784,16 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.subordination",
@@ -742,11 +804,6 @@
       "description": "Combine clauses with subordinators that express reason, concession, contrast, condition, purpose and time (because, since, although, whereas, while, so that, once), placing the subordinate clause before or after the main clause according to information flow. Subordinators make logical relations explicit within the sentence and are central to concession and explanation, even though academic prose relies less on finite adverbial clauses than conversation does.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects a subordinator that expresses the intended relation (although for concession, whereas for contrast, since for reason)",
@@ -779,7 +836,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.coordination-parallelism",
@@ -790,12 +856,6 @@
       "description": "Coordinate words, phrases and clauses with and, but, or, nor and correlative pairs (both … and, either … or, not only … but also) so that coordinated elements share the same grammatical form, especially in lists, comparisons and aims or research questions. Faulty parallelism makes relations between ideas harder to follow, and phrasal coordination is itself a resource for compression in academic writing.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Produces lists whose items share one grammatical form (to identify…, to compare… and to evaluate…)",
@@ -823,7 +883,17 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.complement-clauses",
@@ -834,11 +904,6 @@
       "description": "Use that-clauses and wh-/whether-clauses as noun clauses after verbs (suggest that, examine whether), adjectives (clear that, unclear how) and nouns (the claim that, the question of whether), and as subjects. Complement clauses are the main grammatical frame for reporting and evaluating propositions, and the noun + that-clause pattern is a characteristic way of labelling claims in academic prose.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses that-clauses after reporting and stance verbs, retaining 'that' in formal writing",
@@ -869,7 +934,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.anticipatory-it",
@@ -880,12 +954,6 @@
       "description": "Use anticipatory it with an extraposed that-, to- or wh-clause (it is important to note that; it has been argued that; it remains unclear whether) to place a heavy clause at the end of the sentence and to express stance without self-mention. These frames are frequent in academic writing, but they can also add empty words and obscure who holds a view.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Forms extraposed structures with adjective, verb and passive frames followed by that-, to- or whether-clauses",
@@ -918,7 +986,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.existential-there",
@@ -929,11 +1007,6 @@
       "description": "Use existential there + be to introduce new entities, evidence or developments (there is evidence that; there has been a shift towards; there are three reasons for), with agreement controlled by the following noun phrase. The structure presents new information at the end of the clause, and a frequent learner error is to follow it directly with a finite verb (*There are many people think…).",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses existential there with present, past and present perfect forms of be in academic contexts",
@@ -956,7 +1029,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.comparison-structures",
@@ -967,11 +1049,6 @@
       "description": "Compare quantities, qualities and cases precisely with comparative and superlative forms, degree modifiers (considerably, slightly, markedly higher than), multiplicative comparisons (twice as likely as; three times the rate of), proportional comparisons (the more…, the more…) and prepositional frames (compared with/to, in comparison with, relative to). Comparison is central to data commentary, compare–contrast writing and evaluation, and imprecise or illogical comparison is a common source of unclear claims.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Forms comparatives and superlatives accurately, including with long adjectives and irregular forms",
@@ -1006,7 +1083,16 @@
           "key": "ielts:wr1.task-achievement",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.prepositions",
@@ -1017,12 +1103,6 @@
       "description": "Use dependent prepositions after verbs, nouns and adjectives (focus on, impact on, consistent with) and complex prepositions (in terms of, with respect to, in contrast to, due to, owing to, as a result of) accurately, recognising both their grammatical attachment and their meaning. Prepositions are high-frequency, largely lexically governed and hard to infer, so learners need to treat many of them as parts of larger units.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses the dependent preposition required by frequent academic verbs, nouns and adjectives",
@@ -1054,7 +1134,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.clefts-emphasis",
@@ -1065,12 +1155,6 @@
       "description": "Use it-clefts (It is X that…) and wh- or pseudo-clefts (What this suggests is…) to place one element in focus, typically for contrast or correction, and recognise what clefts presuppose. Clefts are a marked information-structure resource: used sparingly they direct the reader to the key point; overused they sound emphatic or speech-like.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Forms it-clefts and wh-clefts accurately with nominal, adverbial and clausal focus",
@@ -1100,7 +1184,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.fronting-inversion",
@@ -1111,11 +1205,6 @@
       "description": "Recognise and use marked word orders in formal writing: fronted complements with subject–verb inversion (Of particular concern is…; Central to this argument is…), inversion after fronted negative or restrictive elements (Not only does X…, Only when… does…, Rarely have…), and fronted adverbials. These structures link to preceding text or create emphasis, but they are infrequent and easily overused, so the target is controlled, occasional use and accurate comprehension.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Forms inversion with the correct operator after fronted negative and restrictive elements (Not only does…, Only then can…)",
@@ -1145,7 +1234,15 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.linking-adverbial-placement",
@@ -1156,12 +1253,6 @@
       "description": "Place linking adverbials (however, therefore, thus, moreover, consequently, nevertheless) in initial, medial or final position and punctuate them correctly, recognising that they link sentences rather than join clauses. Medial placement is comparatively common in academic prose and can put focus on the element before the adverbial; the main accuracy problem is the comma splice created by using however or therefore as if it were a conjunction.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Punctuates linking adverbials between independent clauses with a full stop or semicolon, never a comma alone",
@@ -1196,7 +1287,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.reporting-structures",
@@ -1207,12 +1308,6 @@
       "description": "Control the grammatical patterns used to report sources: reporting verb + that-clause (argues that), + noun phrase (questions this assumption), + noun + as (describes X as Y), + wh-clause (examines how), passive and raising patterns (X is thought to…; It has been suggested that…), and adjunct frames (according to X; as X argues; in X's view). Accurate patterns let writers attribute content precisely and signal the extent of attributed material.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses the complementation pattern each frequent reporting verb requires (discuss X, not *discuss about X; describe X as Y)",
@@ -1245,7 +1340,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.reference-pronouns",
@@ -1256,12 +1361,6 @@
       "description": "Use it, they, this, these, that, those and the former/the latter so that each has a clear antecedent, and choose 'this + noun' (this approach, these findings) when a pronoun alone could refer to several things or to a whole preceding clause. Clear reference is a basic condition of cohesion, and ambiguous 'this' or 'it' is one of the most frequent clarity problems tutors identify.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the antecedent of every pronoun and demonstrative in own paragraph, and revises where two candidates exist",
@@ -1288,7 +1387,17 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.ellipsis-substitution",
@@ -1299,11 +1408,6 @@
       "description": "Avoid unnecessary repetition with substitute forms (do so, one/ones, that of, those of, the same) and with ellipsis in coordinated and comparative structures, while ensuring the omitted or substituted element is recoverable. These resources contribute to cohesion and concision, and 'that of/those of' is essential for logically valid comparisons.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses that of and those of with correct number agreement in comparisons",
@@ -1327,7 +1431,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "grm.error-monitoring",
@@ -1338,13 +1451,6 @@
       "description": "Identify one's own persistent error patterns from feedback and self-analysis, prioritise those that most affect meaning and reader judgement, and build targeted editing routines (error logs, single-focus editing passes, checklists) that reduce them over time. Because many errors persist as performance slips rather than gaps in knowledge, self-monitoring is the main route to accuracy beyond the EAP classroom.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Keeps an error log that records error type, an example from own writing and a correction",
@@ -1382,7 +1488,18 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.sentence-types",
@@ -1393,10 +1510,6 @@
       "description": "Recognise and build simple, compound, complex and compound-complex sentences by identifying independent and dependent clauses and the devices that join them (coordinators, subordinators, relative pronouns, punctuation). The classification is a working tool for punctuation and clause combining; it does not measure sophistication, since a long simple sentence with dense noun phrases is typical of academic prose.",
       "cefrStart": "A2",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies independent and dependent clauses in sentences of up to three clauses",
@@ -1424,7 +1537,15 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop"
+      },
+      "coreBand": "A2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.sentence-boundaries",
@@ -1435,11 +1556,6 @@
       "description": "Mark sentence boundaries so that every written sentence contains an independent clause and independent clauses are joined only by a coordinator, a semicolon or a colon, avoiding comma splices, fused (run-on) sentences and unintended fragments. Boundary errors are highly visible to markers and can obscure the logical relation between ideas.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies and repairs comma splices using a full stop, semicolon, coordinator or subordination",
@@ -1475,7 +1591,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.commas",
@@ -1486,12 +1611,6 @@
       "description": "Use commas after introductory adverbials and subordinate clauses, around non-defining relative clauses, appositives and interrupting elements, and between list items (with a consistent decision on the serial comma), and avoid commas between subject and verb, between a verb and its object or that-clause, and around defining clauses. In academic prose most comma decisions follow from clause and phrase structure, and some (non-defining clauses, serial commas) change or clarify meaning.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Places commas after introductory subordinate clauses and long introductory phrases",
@@ -1519,7 +1638,17 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.semicolons-colons",
@@ -1530,12 +1659,6 @@
       "description": "Use semicolons to join closely related independent clauses of comparable weight (including before a linking adverbial) and to separate list items that contain internal commas; use colons after a grammatically complete clause to introduce an explanation, elaboration, example, list or quotation. Both marks signal logical relations inside the sentence and are valuable in dense prose, but overuse makes text harder to process.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Joins independent clauses with a semicolon only when both are complete and closely related",
@@ -1561,10 +1684,20 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
-      "id": "sen.apostrophes-hyphens-dashes",
+      "id": "sen.punctuation-mechanics",
       "type": "LINGUISTIC",
       "strand": "Academic Language",
       "domain": "Sentence Construction & Punctuation",
@@ -1572,12 +1705,6 @@
       "description": "Use apostrophes for possession (the author's, the authors', Smith and Jones's study) but not for plurals (1990s, PhDs, NGOs); hyphenate compound modifiers before a noun (evidence-based practice, a well-designed study) but not after it or after -ly adverbs; and use en dashes for ranges and relationships (pp. 12–18; a cost–benefit analysis) and dashes for parenthetical asides according to the target style. These marks distinguish meanings (a small-business owner versus a small business owner) and are routinely checked by editors.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Places possessive apostrophes correctly for singular and plural nouns and avoids apostrophes in plurals of acronyms and decades",
@@ -1599,86 +1726,6 @@
             "B2"
           ],
           "contribution": "core"
-        }
-      ]
-    },
-    {
-      "id": "sen.capitalisation",
-      "type": "LINGUISTIC",
-      "strand": "Academic Language",
-      "domain": "Sentence Construction & Punctuation",
-      "name": "Capitalisation conventions",
-      "description": "Capitalise proper nouns and named entities, and use lower case for general concepts, disciplines and theories unless they derive from a name (psychology, constructivism, Marxism, Piaget's theory); apply the target style's rules for titles, headings and reference-list entries (title case versus sentence case), for the first word after a colon and for acronyms. Inconsistent capitalisation signals unedited text and can imply false proper-noun status for general concepts.",
-      "cefrStart": "B1",
-      "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Capitalises proper nouns, named organisations and named models while keeping general concepts and disciplines in lower case",
-        "Applies sentence case or title case to headings and titles as the target style requires",
-        "Formats titles of works in a reference list according to the chosen style (for example sentence case for article titles in APA)",
-        "Keeps capitalisation of key terms consistent throughout a text",
-        "Avoids capitalising common nouns for emphasis"
-      ],
-      "assessmentPrompt": "Give a short text with six capitalisation decisions (a discipline name, a named theory, a general concept, a heading, an article title in a reference entry, a word after a colon) and specify the style guide. Ask the learner to correct and justify. Check whether choices follow the stated style consistently.",
-      "citations": [
-        "apa2020",
-        "chicago2024",
-        "mla2021"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:ling.orthographic-control",
-          "levels": [
-            "B1",
-            "B2"
-          ],
-          "contribution": "component"
-        }
-      ]
-    },
-    {
-      "id": "sen.quotation-punctuation",
-      "type": "LINGUISTIC",
-      "strand": "Academic Language",
-      "domain": "Sentence Construction & Punctuation",
-      "name": "Punctuating quotations and brackets",
-      "description": "Punctuate quotations accurately: single or double quotation marks and nested quotations according to style, placement of commas, full stops and citations relative to closing marks, block quotations, ellipsis for omissions, square brackets for insertions and changes, [sic] for errors in the original, and parentheses for citations and asides. Accurate quotation punctuation is part of representing sources faithfully as well as a formatting requirement.",
-      "cefrStart": "B1",
-      "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Uses ellipsis to mark omissions without changing the meaning of the source",
-        "Uses square brackets to make a quotation fit the grammar of the writer's sentence and to mark any change",
-        "Places the citation and final punctuation correctly for run-in and block quotations in the target style",
-        "Applies one quotation-mark convention consistently, including for quotations within quotations",
-        "Uses [sic] sparingly and only for errors in the original"
-      ],
-      "assessmentPrompt": "Give a 60-word source passage and ask the learner to quote a part of it in their own sentence, omitting a phrase and changing one word to fit their grammar, with a citation in the specified style. Check ellipsis and bracket use, fidelity to meaning and placement of citation and full stop.",
-      "citations": [
-        "apa2020",
-        "mla2021",
-        "chicago2024",
-        "pecorari2013"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:ling.orthographic-control",
-          "levels": [
-            "B2"
-          ],
-          "contribution": "component"
         },
         {
           "key": "cefr-cv:med.text.relaying-information",
@@ -1687,7 +1734,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.sentence-length-variety",
@@ -1698,11 +1755,6 @@
       "description": "Control sentence length for readability and emphasis: split or restructure sentences that overload the reader, combine strings of short sentences whose logical relations need to be explicit, and use a short sentence to state a key claim or turning point. Sentence length is a weak index of academic quality, so the aim is length chosen for purpose rather than long sentences as a marker of sophistication.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies sentences in own writing that contain more than one main claim plus several embedded clauses and restructures them",
@@ -1730,7 +1782,16 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.concision",
@@ -1741,12 +1802,6 @@
       "description": "Remove redundancy, empty phrases and wordiness (due to the fact that → because; in order to → to; each and every → each), replace light verb + nominalisation with a verb where no compression benefit results (carry out an analysis of → analyse), and cut unnecessary repetition, without stripping the hedges, qualifications and signposting the reader needs. Concision serves word limits and readability, but it is not the same as brevity.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Replaces wordy multi-word expressions with shorter equivalents where meaning is unchanged",
@@ -1774,7 +1829,17 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.clarity-end-weight",
@@ -1785,11 +1850,6 @@
       "description": "Structure sentences so that subject and main verb come early and close together, long or new elements come late (the principle of end-weight), and long pre-verbal subjects or noun stacks do not delay the verb or create ambiguity; use extraposition, the passive, postmodification or splitting to achieve this. These choices reduce the processing load of dense academic prose and align sentence structure with given–new information flow.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Revises sentences with long pre-verbal subjects by moving heavy material after the verb or into a separate clause",
@@ -1821,57 +1881,15 @@
           ],
           "contribution": "related"
         }
-      ]
-    },
-    {
-      "id": "sen.numbers-units-style",
-      "type": "LINGUISTIC",
-      "strand": "Academic Language",
-      "domain": "Sentence Construction & Punctuation",
-      "name": "Writing numbers, units and symbols in text",
-      "description": "Present numbers, units, percentages, ranges and symbols in running text according to a style guide: numerals versus words (thresholds differ between, for example, APA and Chicago), not opening a sentence with a numeral, spacing between number and unit symbol, consistent decimal and thousands separators, ranges with an en dash or 'from … to', and consistent use of % or 'per cent'. Consistency in these conventions is checked by markers and editors and affects readability of data-heavy texts.",
-      "cefrStart": "B1+",
-      "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "Chooses numerals or words for numbers according to the specified style guide and applies the choice consistently",
-        "Rewrites sentences that would begin with a numeral",
-        "Writes units and symbols with correct spacing and form (5 kg, 25 °C) and states units on first use",
-        "Expresses ranges consistently (10–15 per cent or from 10 to 15 per cent) without mixing forms",
-        "Identifies inconsistencies in number style in a draft and corrects them"
-      ],
-      "assessmentPrompt": "Give a 120-word results paragraph with eight number-style inconsistencies (mixed numerals and words, a sentence-initial numeral, a mixed range, unit spacing) and name the target style guide. Ask the learner to correct them. Check consistency with the stated guide rather than with a single universal rule.",
-      "citations": [
-        "apa2020",
-        "bipm2019",
-        "chicago2024"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:ling.orthographic-control",
-          "levels": [
-            "B2"
-          ],
-          "contribution": "component"
-        },
-        {
-          "key": "cefr-cv:med.text.explaining-data",
-          "levels": [
-            "B2"
-          ],
-          "contribution": "related"
-        },
-        {
-          "key": "ielts:wr1.task-achievement",
-          "contribution": "related"
-        }
-      ]
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "sen.lists-bullets",
@@ -1882,12 +1900,6 @@
       "description": "Decide when vertical lists are appropriate (common in reports, proposals, methods, slides and posters; usually discouraged in essays where connected prose is expected) and format both run-in and vertical lists with a grammatical lead-in, parallel items, and consistent punctuation and capitalisation according to the target style. Converting a list into connected prose that makes the relations between items explicit, and vice versa, is a key skill for moving between genres.",
       "cefrStart": "B1+",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Judges whether a list is acceptable in a given assignment genre and checks the brief or departmental guidance when unsure",
@@ -1917,7 +1929,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     }
   ],
   "dependencies": [
@@ -2270,25 +2292,19 @@
       "reason": "Semicolon uses are defined against the comma: joining independent clauses where a comma would splice, and separating list items that already contain commas"
     },
     {
-      "topicId": "sen.apostrophes-hyphens-dashes",
+      "topicId": "sen.punctuation-mechanics",
       "prerequisiteId": "grm.np-premodification",
       "strength": "soft",
       "reason": "Hyphenation of compound modifiers depends on recognising that the compound premodifies a head noun (a long-term study versus in the long term)"
     },
     {
-      "topicId": "sen.apostrophes-hyphens-dashes",
+      "topicId": "sen.punctuation-mechanics",
       "prerequisiteId": "sen.commas",
       "strength": "soft",
       "reason": "Parenthetical dashes are taught as an alternative to paired commas, so comma conventions are usually secured first"
     },
     {
-      "topicId": "sen.quotation-punctuation",
-      "prerequisiteId": "sen.commas",
-      "strength": "soft",
-      "reason": "Introducing and closing run-in quotations involves comma placement relative to quotation marks and reporting clauses"
-    },
-    {
-      "topicId": "sen.quotation-punctuation",
+      "topicId": "sen.punctuation-mechanics",
       "prerequisiteId": "cit.author-date-in-text",
       "strength": "soft",
       "reason": "The position of the parenthetical citation relative to closing quotation marks and the full stop depends on knowing the in-text citation format"
@@ -2340,18 +2356,6 @@
       "prerequisiteId": "grm.anticipatory-it",
       "strength": "soft",
       "reason": "Extraposition with anticipatory it is a standard technique for moving a heavy clausal subject to the end"
-    },
-    {
-      "topicId": "sen.numbers-units-style",
-      "prerequisiteId": "num.number-expressions",
-      "strength": "soft",
-      "reason": "Style conventions for rendering numbers presuppose accurate expression of quantities, fractions, percentages and ratios"
-    },
-    {
-      "topicId": "sen.numbers-units-style",
-      "prerequisiteId": "sen.apostrophes-hyphens-dashes",
-      "strength": "soft",
-      "reason": "Ranges use en dashes and numerical compound modifiers use hyphens (a 10-year study), so these marks are taught first"
     },
     {
       "topicId": "sen.lists-bullets",
@@ -4603,7 +4607,7 @@
       "reviewNotes": []
     },
     {
-      "topicId": "sen.apostrophes-hyphens-dashes",
+      "topicId": "sen.punctuation-mechanics",
       "summary": "These marks are small but meaning-bearing: hyphens disambiguate compound modifiers, apostrophes signal possession, and en dashes signal ranges and relationships. Teach the before-the-noun rule for compound modifiers alongside noun premodification, and present dash conventions as style variation (for example, spaced en dashes are common in British publishing, unspaced em dashes in US styles such as APA and Chicago).",
       "activities": [
         {
@@ -4666,132 +4670,6 @@
       "citations": [
         "apa2020",
         "chicago2024"
-      ],
-      "reviewNotes": []
-    },
-    {
-      "topicId": "sen.capitalisation",
-      "summary": "Capitalisation in academic writing is partly rule-governed (proper nouns) and partly style-dependent (titles, headings, words after colons). Teach the proper-noun principle first, then show that style guides differ: APA style, for example, uses title case for headings and titles of works mentioned in text but sentence case for article and book titles in the reference list, whereas MLA uses title case in the works-cited list (American Psychological Association, 2020; Modern Language Association of America, 2021). The aim is consistent application of the required style.",
-      "activities": [
-        {
-          "title": "Proper noun or concept?",
-          "learnerActions": [
-            "Sort terms from their field into proper nouns, named theories derived from names, and general concepts or disciplines",
-            "Check uncertain cases in a style guide or a recent journal in their field",
-            "Correct capitalisation in a paragraph of own writing"
-          ],
-          "intendedInsight": "General concepts and disciplines are normally lower case; capitals mark names.",
-          "rationale": "Style guides apply the proper-noun principle across disciplines (University of Chicago Press, 2024).",
-          "citations": [
-            "chicago2024"
-          ]
-        },
-        {
-          "title": "Same reference, two styles",
-          "learnerActions": [
-            "Format the same three references in APA and MLA styles",
-            "Note the differences in capitalisation of titles",
-            "Check own reference list for consistency"
-          ],
-          "intendedInsight": "Capitalisation of titles is a style decision, not a general rule.",
-          "rationale": "Comparing styles shows why consistency with the required style matters (American Psychological Association, 2020; Modern Language Association of America, 2021).",
-          "citations": [
-            "apa2020",
-            "mla2021"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Important concepts should have capitals, like Globalisation and Sustainability.",
-          "kind": "overgeneralisation",
-          "revealedBy": "Capitals on general concepts used for emphasis.",
-          "response": "Explain that capitals signal names, not importance, and show journal examples.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "My reference manager decides the capitals.",
-          "kind": "performance",
-          "revealedBy": "Mixed title and sentence case in reference lists imported from different databases.",
-          "response": "Teach a final consistency check of reference-list capitalisation against the required style.",
-          "reteachPrerequisiteId": null
-        }
-      ],
-      "diagnostic": {
-        "task": "Give a short text with six capitalisation decisions and a named style guide, and ask the learner to correct and justify them.",
-        "strongResponse": "All decisions follow the proper-noun principle and the named style consistently.",
-        "partialResponse": "Proper nouns correct but title and heading conventions inconsistent.",
-        "gapResponse": "Capitals used for emphasis or at random."
-      },
-      "contextNotes": "Foundation learners focus on proper nouns and sentence-initial capitals. Pre-sessional and in-sessional learners apply the conventions of their department's referencing style to headings, titles and reference lists.",
-      "citations": [
-        "apa2020",
-        "chicago2024",
-        "mla2021"
-      ],
-      "reviewNotes": []
-    },
-    {
-      "topicId": "sen.quotation-punctuation",
-      "summary": "Punctuating quotations is part of faithful source use: ellipsis and square brackets allow writers to integrate quotations grammatically, but they must not distort the source's meaning, a concern central to discussions of good source use (Pecorari, 2013). Conventions vary by style: US styles such as APA and Chicago use double quotation marks and place commas and full stops inside closing marks, while many British house styles use single marks and place punctuation according to sense. Teach one style thoroughly and the principle of consistency.",
-      "activities": [
-        {
-          "title": "Integrate without distorting",
-          "learnerActions": [
-            "Quote part of a 60-word source passage in their own sentence",
-            "Use an ellipsis to omit a phrase and square brackets to change one word to fit their grammar",
-            "Ask a partner to compare with the original and confirm that the meaning has not changed"
-          ],
-          "intendedInsight": "Ellipsis and brackets are tools for integration that must preserve the source's meaning.",
-          "rationale": "Accurate representation of sources is central to good source use (Pecorari, 2013), and style guides specify how changes are marked (American Psychological Association, 2020).",
-          "citations": [
-            "pecorari2013",
-            "apa2020"
-          ]
-        },
-        {
-          "title": "Style comparison",
-          "learnerActions": [
-            "Compare the same quotation formatted in APA, MLA and a British house style",
-            "Note differences in quotation marks, punctuation placement and citation position",
-            "Choose the style required for their course and check a draft against it"
-          ],
-          "intendedInsight": "Quotation conventions vary by style; consistency within a text is what matters.",
-          "rationale": "Comparing style manuals makes the variation explicit (Modern Language Association of America, 2021; University of Chicago Press, 2024).",
-          "citations": [
-            "mla2021",
-            "chicago2024"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "I removed some words so the quotation supports my point better.",
-          "kind": "conceptual",
-          "revealedBy": "Ellipses that remove qualifications or negations from the source.",
-          "response": "Discuss fidelity to meaning as an integrity issue and check quotations against originals.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "The citation goes after the full stop. / The full stop goes inside the quotation marks always.",
-          "kind": "overgeneralisation",
-          "revealedBy": "Citation and full-stop placement inconsistent with the target style, or a rule from one style applied in another.",
-          "response": "Teach the target style's placement for run-in and block quotations with models.",
-          "reteachPrerequisiteId": "cit.author-date-in-text"
-        }
-      ],
-      "diagnostic": {
-        "task": "Ask the learner to quote part of a short passage, omitting a phrase and changing one word, with a citation in the specified style.",
-        "strongResponse": "Correct ellipsis and brackets, faithful meaning, and correct citation and full-stop placement.",
-        "partialResponse": "Faithful meaning but one formatting error, or correct formatting but an omission that slightly shifts meaning.",
-        "gapResponse": "Unmarked changes to the quotation or several formatting errors."
-      },
-      "contextNotes": "Foundation learners focus on quotation marks and citation placement. Pre-sessional and in-sessional learners focus on ellipsis, brackets and block quotations in source-based writing.",
-      "citations": [
-        "apa2020",
-        "mla2021",
-        "chicago2024",
-        "pecorari2013"
       ],
       "reviewNotes": []
     },
@@ -4988,67 +4866,6 @@
         "hallidaymatthiessen2014",
         "thompson2014",
         "bibergray2010"
-      ],
-      "reviewNotes": []
-    },
-    {
-      "topicId": "sen.numbers-units-style",
-      "summary": "Number style is governed by style guides that differ: APA generally uses numerals for 10 and above and words for zero to nine (with many exceptions), while Chicago in non-technical contexts spells out whole numbers up to one hundred (American Psychological Association, 2020; University of Chicago Press, 2024). The SI brochure specifies a space between a number and its unit symbol (Bureau International des Poids et Mesures, 2019), and some styles differ on whether '%' is spaced. Teach consistent application of the required style and a final number-style check.",
-      "activities": [
-        {
-          "title": "Number-style check",
-          "learnerActions": [
-            "Highlight every number, unit and range in a results paragraph of own writing",
-            "Check each against the required style guide",
-            "Correct inconsistencies and record the main rules in a style sheet"
-          ],
-          "intendedInsight": "Number conventions are style-specific and must be applied consistently.",
-          "rationale": "Style guides specify number conventions (American Psychological Association, 2020).",
-          "citations": [
-            "apa2020"
-          ]
-        },
-        {
-          "title": "Units and symbols",
-          "learnerActions": [
-            "Correct a paragraph with unit errors (5kg, 25 C, 10 Kms)",
-            "Check corrections against SI conventions",
-            "Apply the conventions to own data descriptions"
-          ],
-          "intendedInsight": "Units and symbols have standard forms.",
-          "rationale": "The SI brochure is the reference for unit symbols and spacing (Bureau International des Poids et Mesures, 2019).",
-          "citations": [
-            "bipm2019"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "45% of participants agreed. (at the start of a sentence)",
-          "kind": "developmental",
-          "revealedBy": "Sentence-initial numerals.",
-          "response": "Teach rephrasing (Of the participants, 45%…) or spelling out where the style guide requires.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "I use decimal commas and spaces as in my own country.",
-          "kind": "L1-transfer",
-          "revealedBy": "Decimal commas or thousands separators that differ from English-language conventions.",
-          "response": "Show the English-language conventions and the style guide's rule.",
-          "reteachPrerequisiteId": "num.number-expressions"
-        }
-      ],
-      "diagnostic": {
-        "task": "Give a 120-word results paragraph with eight number-style inconsistencies and a named style guide, and ask the learner to correct them.",
-        "strongResponse": "All inconsistencies corrected consistently with the named guide.",
-        "partialResponse": "Most corrected but one category missed.",
-        "gapResponse": "Few corrections or new inconsistencies."
-      },
-      "contextNotes": "Foundation learners focus on numerals versus words and sentence-initial numerals. Pre-sessional and in-sessional learners apply the required style to data-heavy reports and dissertations.",
-      "citations": [
-        "apa2020",
-        "bipm2019",
-        "chicago2024"
       ],
       "reviewNotes": []
     },

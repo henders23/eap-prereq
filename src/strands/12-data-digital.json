@@ -9,10 +9,11 @@
       "learnerSummary": "You will learn to read graphs, tables and diagrams accurately, describe what they show in precise language, and use them as evidence in your own writing, including creating clear and honest visuals of your own.",
       "stageEmphasis": {
         "foundation": "Reading common graph and table types and describing trends, proportions and processes precisely, using visuals from subject modules such as business, science and engineering.",
-        "pre-sessional": "Moving from test-style description to data commentary that locates, highlights, interprets and qualifies, typically in an extended project or report.",
         "in-sessional-ug": "Discipline-specific visual conventions in lab, project and business reports, including captions, in-text references and creating charts from learners’ own data.",
         "in-sessional-pgt": "Commenting on results in dissertations with appropriately hedged interpretation, and critically evaluating visuals in sources.",
-        "pgr": "Data commentary in results and discussion chapters and articles, figures designed to journal requirements, and visual argument in research presentations."
+        "pgr": "Data commentary in results and discussion chapters and articles, figures designed to journal requirements, and visual argument in research presentations.",
+        "pre-sessional-ug": "Moving from test-style description to data commentary that locates, highlights, interprets and qualifies, typically in an extended project or report.",
+        "pre-sessional-pg": "Moving from test-style description to data commentary that locates, highlights, interprets and qualifies, typically in an extended project or report."
       },
       "keyReferences": [
         "swalesfeak2012",
@@ -29,10 +30,11 @@
       "learnerSummary": "You will learn to use the digital tools of university study, including learning platforms, word processing, reference managers, shared documents, translation and feedback tools, efficiently, critically and within your institution’s rules.",
       "stageEmphasis": {
         "foundation": "Orientation to the learning platform, file management and word processing, with transparent and critical use of machine translation.",
-        "pre-sessional": "Institutional systems and policies, reference managers, machine translation and automated feedback as supports, and digital collaboration in project work.",
         "in-sessional-ug": "Efficient assignment workflows: styles, reference managers, shared documents and critical use of feedback tools.",
         "in-sessional-pgt": "Managing dissertation-scale work: versioning, reference libraries, collaboration and supervisor feedback in shared documents.",
-        "pgr": "Thesis-scale document management, research data and file organisation, and a professional online presence."
+        "pgr": "Thesis-scale document management, research data and file organisation, and a professional online presence.",
+        "pre-sessional-ug": "Institutional systems and policies, reference managers, machine translation and automated feedback as supports, and digital collaboration in project work.",
+        "pre-sessional-pg": "Institutional systems and policies, reference managers, machine translation and automated feedback as supports, and digital collaboration in project work."
       },
       "keyReferences": [
         "lea2011digital",
@@ -49,10 +51,11 @@
       "learnerSummary": "You will learn how images, layout and text work together, and how to design posters, infographics and digital assignments that are clear, persuasive and accessible to all your readers.",
       "stageEmphasis": {
         "foundation": "Awareness of how layout and images make meaning, developed through simple posters and short digital tasks.",
-        "pre-sessional": "Posters and short recorded or digital presentations as assessed work, with attention to text economy and reading paths.",
         "in-sessional-ug": "Discipline-specific multimodal assessments (posters, video essays, e-portfolios) and accessible document design.",
         "in-sessional-pgt": "Research posters, infographics for professional audiences and accessible dissertation formatting.",
-        "pgr": "Conference posters, visual abstracts and public-engagement graphics, and accessibility in theses and publications."
+        "pgr": "Conference posters, visual abstracts and public-engagement graphics, and accessibility in theses and publications.",
+        "pre-sessional-ug": "Posters and short recorded or digital presentations as assessed work, with attention to text economy and reading paths.",
+        "pre-sessional-pg": "Posters and short recorded or digital presentations as assessed work, with attention to text economy and reading paths."
       },
       "keyReferences": [
         "kressvanleeuwen2006",
@@ -69,10 +72,11 @@
       "learnerSummary": "You will learn to talk and write about numbers, measurements and statistics precisely, and to understand what the statistical claims in your reading do and do not show.",
       "stageEmphasis": {
         "foundation": "Number expressions, units and basic statistical terms in subject modules such as mathematics, science and business, in both speech and writing.",
-        "pre-sessional": "Precision and approximation in data commentary, relative versus absolute change, and the everyday versus statistical senses of key terms.",
         "in-sessional-ug": "Discipline-specific notation and units, statistical vocabulary in methods and results, and reading statistical claims in sources.",
         "in-sessional-pgt": "Consumer-level interpretation of p-values, confidence intervals and effect sizes in research reading and dissertations.",
-        "pgr": "Accurate statistical and mathematical expression in theses and articles, following field and journal conventions."
+        "pgr": "Accurate statistical and mathematical expression in theses and articles, following field and journal conventions.",
+        "pre-sessional-ug": "Precision and approximation in data commentary, relative versus absolute change, and the everyday versus statistical senses of key terms.",
+        "pre-sessional-pg": "Precision and approximation in data commentary, relative versus absolute change, and the everyday versus statistical senses of key terms."
       },
       "keyReferences": [
         "gal2002",
@@ -92,11 +96,6 @@
       "description": "Recognise the main visual forms in academic texts (line graphs, bar charts, pie charts, scatterplots, tables, flowcharts, diagrams, maps and photographs) and the relationship each is designed to show: change over time, comparison between categories, part–whole composition, distribution, association between variables, sequence or spatial layout. Knowing what a visual is for guides how it is read and which language is needed to describe it.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Names common visual types and matches each to the relationship it typically represents (trend, comparison, composition, distribution, association, process, location)",
@@ -124,7 +123,16 @@
           "key": "ielts:wr1.task-achievement",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.reading-graphs",
@@ -135,12 +143,6 @@
       "description": "Read graphs and charts systematically: check the title, axes, scales, units, legend and source before interpreting; then extract values, compare across series, and identify the overall pattern, exceptions and notable features. Accurate reading at the levels of individual data, relationships between data and inferences beyond the data underpins both data commentary and critical evaluation of others’ visuals.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Checks title, axis labels, units, scale intervals and legend before interpreting any values",
@@ -176,7 +178,17 @@
           "key": "ielts:rd.academic",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.reading-tables",
@@ -187,12 +199,6 @@
       "description": "Navigate tables by identifying what rows and columns represent, the units, totals, notes, abbreviations and significance markers; locate specific values; and compare across rows or columns to identify the main pattern. Research articles often carry findings in tables that the prose mentions only briefly, so efficient table reading is essential for accurate source use.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the variables in rows and columns, the units and any totals or subtotals",
@@ -225,7 +231,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.describing-trends",
@@ -236,11 +252,6 @@
       "description": "Describe change over time precisely using verbs (rise, fall, fluctuate, level off, peak), nouns (an increase in, a decline of), degree and speed modifiers (slightly, sharply, a gradual rise), prepositions of quantity and time (from … to, by, at, over the period) and appropriate tense. Precise trend language lets writers summarise patterns economically and select only the changes that matter to their point.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses verb and noun patterns for change with accurate prepositions (rose by five points to 20%; an increase of 5% in output)",
@@ -272,7 +283,16 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.describing-proportions",
@@ -283,11 +303,6 @@
       "description": "Express proportions and comparisons in data precisely, using fractions, percentages, ratios and multiples (a third of, 42% of, a ratio of 3:1, twice as many as), quantifiers (the majority, a substantial minority, nearly all) and comparative and superlative structures with numbers. This allows exact, checkable comparisons between groups and categories rather than vague impressions.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Expresses proportions with accurate articles, prepositions and agreement (a third of respondents were; the proportion of graduates was)",
@@ -323,7 +338,16 @@
           "key": "ielts:wr1.task-achievement",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.data-commentary",
@@ -334,12 +358,6 @@
       "description": "Write commentary that uses data as evidence: locate the visual and summarise what it shows, highlight the findings that matter for the writer’s purpose, and interpret them by explaining, comparing with expectations or previous studies, acknowledging limitations and drawing implications whose strength matches the evidence. Data commentary is the core of results and discussion writing across disciplines and differs from description-only tasks such as IELTS Writing Task 1.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Opens with a location statement or summary that links the visual to the purpose of the text",
@@ -373,7 +391,17 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.describing-diagrams",
@@ -384,11 +412,6 @@
       "description": "Verbalise non-numerical visuals: the stages, branches and loops of processes and cycles in flowcharts; the components and spatial relations in diagrams of structures and systems; and spatial change shown in maps and plans. This draws on sequencing language, voice choice, purpose and result expressions and locative prepositions, and supports explaining scientific, technical and planning visuals in reports, examinations and presentations.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes a process or cycle in logical order, including decision branches and loops (if … otherwise; the cycle then repeats)",
@@ -416,7 +439,16 @@
           "key": "ielts:wr1.task-achievement",
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.captions-labelling",
@@ -427,13 +459,6 @@
       "description": "Number, title and caption figures and tables according to the required style, write informative titles and notes that let the visual stand alone, define abbreviations, symbols and units, and acknowledge the source of reproduced or adapted visuals. Correct labelling makes visuals referable in the text and, when visuals or data come from others, is part of academic integrity.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Numbers tables and figures in separate sequences in order of first mention",
@@ -459,7 +484,18 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.creating-visuals",
@@ -470,12 +506,6 @@
       "description": "Choose the visual form that best serves a message and audience, and design it for clarity and honesty: an appropriate chart type, honest scales and baselines, minimal non-data decoration, direct labelling, accessible colour and enough context (units, sample size, uncertainty). Well-designed visuals let readers check claims quickly and are increasingly assessed in reports, posters and theses.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects a chart type that matches the relationship to be shown and the audience, and justifies the choice",
@@ -503,7 +533,17 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.misleading-visuals",
@@ -514,11 +554,6 @@
       "description": "Recognise design and data choices that distort a visual’s message (truncated or inconsistent axes, selective time windows, dual axes, area and 3D distortion, mismatched chart types, missing denominators or uncertainty) and judge whether conclusions drawn from the visual are justified. This is a component of statistical literacy and of the critical evaluation of sources.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies truncated, inconsistent or dual axes and explains how they change perceived magnitude",
@@ -549,7 +584,16 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dat.referring-to-visuals",
@@ -560,13 +604,6 @@
       "description": "Integrate visuals into prose by referring to them explicitly and purposefully (Figure 2 shows; as shown in Table 1; see Figure 3), placing references where the reader needs them, choosing verbs that suit visual subjects and the strength of the claim (show, indicate, illustrate, suggest), and telling the reader what to notice. This links visual evidence to the argument instead of leaving visuals to speak for themselves.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Refers to every visual in the text by number, at or before the point where it appears",
@@ -598,7 +635,18 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.vle",
@@ -609,12 +657,6 @@
       "description": "Navigate the institution’s virtual learning environment and related systems to find module information, assessment briefs, readings, recordings, announcements and feedback; submit work correctly through submission portals; and keep track of deadlines and notifications. Missed instructions, unread feedback and failed submissions are avoidable sources of difficulty, especially in a first term.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Locates module handbooks, assessment briefs, marking criteria, reading lists and recordings for a given module",
@@ -645,7 +687,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.reference-managers",
@@ -656,12 +708,6 @@
       "description": "Use reference management software to collect, organise and annotate sources, insert in-text citations and generate reference lists in a required style, and check the output for errors. Reference managers save time and reduce inconsistency, but they reproduce whatever metadata they are given, so users still need to know what a correct reference looks like.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Imports references from databases, DOIs and PDFs and corrects incomplete or inaccurate metadata",
@@ -684,7 +730,17 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.word-processing",
@@ -695,13 +751,6 @@
       "description": "Use the word-processing functions that support academic documents: paragraph and heading styles, automatic numbering, generated contents pages, captions and cross-references, section breaks, headers, footers and page numbers, templates, and comments. Structure-based formatting saves time in long documents, keeps formatting consistent and makes documents accessible and easier to revise.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Applies heading styles and generates an automatic table of contents",
@@ -715,7 +764,18 @@
         "apa2020",
         "paltridgestarfield2020"
       ],
-      "frameworks": []
+      "frameworks": [],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.machine-translation",
@@ -726,13 +786,6 @@
       "description": "Use machine translation (MT) strategically and transparently: to support comprehension of difficult texts, to check understanding, to explore wording and, where permitted, to support drafting, while recognising MT’s characteristic errors (terminology, register, lost hedging, ambiguity), verifying its output and complying with assessment rules. MT is a legitimate plurilingual resource, but undeclared or wholesale use in assessed writing can breach integrity policies and bypass language development.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes permitted from prohibited uses of MT in a given assessment according to institutional and module policy",
@@ -772,7 +825,18 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.digital-collaboration",
@@ -783,12 +847,6 @@
       "description": "Use shared documents, comments, suggestion and track-changes modes, version history and cloud workspaces to co-author and review academic work: setting permissions, giving and responding to comments constructively and concisely, resolving suggestions, and keeping a clear record of contributions. Digital collaboration is now the default medium for group projects and for much supervisor feedback.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Sets up a shared document or workspace with appropriate permissions and a clear structure",
@@ -820,7 +878,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.file-management",
@@ -831,12 +899,6 @@
       "description": "Organise, name, version and back up academic files systematically: consistent folder structures and file names, clear distinction between working and submitted versions, local and off-device backups, and secure storage of sensitive material. Good file management prevents lost work and confusion between drafts and, for research students, is the basis of research data management.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses a consistent folder structure and file-naming convention (e.g., date, module, version)",
@@ -859,7 +921,16 @@
           "key": "vitae-rdf:C1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.digital-etiquette",
@@ -870,13 +941,6 @@
       "description": "Communicate appropriately in digital academic spaces (forums, group chats, video calls, social media and professional networks), adapting tone, formality and response expectations to channel and audience, and manage an academic online presence and privacy (profiles, researcher identifiers, what to share publicly). Digital interactions persist and are searchable, so pragmatic misjudgements can have lasting effects.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Adapts formality, length and tone to the channel and relationship (course forum, group chat, professional network)",
@@ -913,7 +977,18 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "dig.automated-feedback-tools",
@@ -924,12 +999,6 @@
       "description": "Use automated writing evaluation (AWE) tools, including grammar and style checkers, automated feedback platforms and AI-based feedback features, as one input among others: interpret their suggestions critically, accept or reject them on principled grounds, recognise what they cannot judge (argument, content, disciplinary appropriateness) and comply with rules on permitted use. Uncritical acceptance can introduce errors, flatten voice and, where rewriting features are used, breach assessment rules.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains which kinds of issue AWE tools detect reliably and which they miss or misjudge",
@@ -952,8 +1021,34 @@
             "C1"
           ],
           "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:ling.grammatical-accuracy",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:ling.orthographic-control",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "mmd.multimodal-literacy",
@@ -964,12 +1059,6 @@
       "description": "Understand how image, layout, colour, typography and text combine to make meaning, and analyse how a multimodal text directs attention through salience, reading path, framing and the placement of information. This awareness underpins both critical reading of academic multimodal texts and the design of posters, slides and digital assignments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes how layout, salience and framing guide a reader’s path through a poster, slide or web page",
@@ -992,52 +1081,17 @@
           ],
           "contribution": "related"
         }
-      ]
-    },
-    {
-      "id": "mmd.poster-design",
-      "type": "PROCEDURAL",
-      "strand": "Data, Numeracy & Multimodality",
-      "domain": "Multimodal Composition",
-      "name": "Designing academic posters",
-      "description": "Design an academic poster that communicates a clear main message at a glance and supports conversation in a poster session: a hierarchy of title, key finding and supporting sections; a logical reading path; economical text; visuals that carry the evidence; and legibility at viewing distance. The poster is a genre with its own norms, not a shrunken paper.",
-      "cefrStart": "B2",
-      "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
       ],
-      "specificity": "EGAP",
-      "masteryEvidence": [
-        "States the poster’s main message in a headline or prominently placed key finding",
-        "Organises sections along a clear reading path using columns, numbering or visual flow",
-        "Reduces text to essential claims within a word budget, using phrases and lists where appropriate",
-        "Uses visuals as the primary evidence, each with an informative caption",
-        "Ensures legibility (type size, contrast) and accessible design at the intended viewing distance",
-        "Explains design decisions in relation to the audience and the session format"
-      ],
-      "assessmentPrompt": "Give the learner a text-heavy draft poster (around 1,200 words in abstract-style paragraphs). Ask them to identify three problems and propose a redesign plan with a word budget and a headline finding. Check that they prioritise the main message, cut text, convert prose results into visuals where possible, and attend to reading path and legibility.",
-      "citations": [
-        "macintosh2007",
-        "kressvanleeuwen2006",
-        "w3c2023wcag"
-      ],
-      "frameworks": [
-        {
-          "key": "cefr-cv:med.strat.streamlining-text",
-          "levels": [
-            "B2",
-            "C1"
-          ],
-          "contribution": "component"
-        },
-        {
-          "key": "vitae-rdf:D2",
-          "contribution": "related"
-        }
-      ]
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "mmd.infographics",
@@ -1048,11 +1102,6 @@
       "description": "Condense information into visual summaries (infographics, visual abstracts and one-page summaries) for academic and public audiences: select the essential message, structure it visually, and preserve accuracy, attribution and appropriate qualification. Visual summaries are increasingly used in assessment and research dissemination, and they risk oversimplification when impact is pursued at the expense of accuracy.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Selects one core message and a small number of supporting points for the summary",
@@ -1088,7 +1137,15 @@
           "key": "vitae-rdf:D3",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "mmd.digital-assessments",
@@ -1099,12 +1156,6 @@
       "description": "Produce assessed multimodal genres (podcasts, video essays, narrated presentations, e-portfolios and websites), understanding their purposes, criteria and conventions, and orchestrating speech, text, image and sound to build an academic argument with appropriate attribution of sources and media. These genres keep the core academic expectations of argument, evidence and citation while changing the means of expression.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies the purpose, audience and assessment criteria of a digital assignment, including the academic expectations that still apply",
@@ -1136,7 +1187,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "mmd.accessibility",
@@ -1147,12 +1208,6 @@
       "description": "Produce documents, slides and media that are accessible to readers with disabilities and to assistive technologies: structured headings created with styles, meaningful alternative text for images and charts, sufficient colour contrast, meaning not conveyed by colour alone, descriptive link text, readable typography, and captions or transcripts for audio-visual content. Accessibility is an institutional and often legal expectation, and it improves clarity for all readers.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Applies heading styles and a logical reading order rather than relying on visual formatting",
@@ -1172,7 +1227,17 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "num.number-expressions",
@@ -1183,11 +1248,6 @@
       "description": "Express numbers, fractions, decimals, percentages, ratios and rates accurately in prose, together with the grammar around them: articles and of-phrases (a third of, two-thirds of the sample), agreement (a quarter of respondents were), per cent versus percentage, number of versus amount of, rates (per capita, per 1,000) and multiplicative forms. Accurate quantity expressions are the basis of every claim made from data.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Reads aloud and writes fractions, decimals, percentages, ratios and large numbers correctly in words and figures",
@@ -1218,8 +1278,24 @@
             "B2"
           ],
           "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:ling.orthographic-control",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "num.approximation",
@@ -1230,12 +1306,6 @@
       "description": "Approximate and round quantities appropriately (approximately, roughly, just under, well over, in the region of, nearly a third, an estimated) and decide when exact figures or approximation better serve the reader and purpose. Approximators also function as hedges: they signal the writer’s commitment to exactness and must be consistent with the figures and with the precision of the measurement.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Uses approximators and boundary expressions accurately (just under, just over, nearly, slightly more than, in excess of)",
@@ -1267,7 +1337,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "num.statistical-vocabulary",
@@ -1278,12 +1358,6 @@
       "description": "Understand and use core statistical terms accurately in reading and writing: population and sample, variable, mean, median, mode, range, standard deviation, distribution, correlation, outlier, significance, error and bias. Several of these words have everyday meanings that differ from their technical sense (significant, normal, error, random, confidence, bias), so precise use is essential for credible methods and results writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Defines core descriptive and inferential terms accurately in plain English",
@@ -1314,7 +1388,17 @@
           ],
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "num.interpreting-statistics",
@@ -1325,11 +1409,6 @@
       "description": "Read and interpret inferential statistics at an informed consumer level: understand what p-values, confidence intervals and effect sizes do and do not indicate, distinguish statistical significance from practical importance, and recognise how sample size and design limit conclusions. This allows learners to evaluate quantitative sources and report them accurately without overstating them.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
-      "stages": [
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains in plain English what a p-value does and does not indicate, avoiding the reading that it is the probability that a hypothesis is true",
@@ -1364,7 +1443,15 @@
           "key": "vitae-rdf:A1",
           "contribution": "related"
         }
-      ]
+      ],
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B2+",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "num.relative-absolute",
@@ -1375,11 +1462,6 @@
       "description": "Distinguish relative from absolute change (per cent versus percentage points; relative versus absolute risk; rates versus counts) and choose and interpret framings that do not mislead. The same result can be presented as ‘a 50% reduction’ or as ‘a fall from 2 in 1,000 to 1 in 1,000’, and readers and writers need to recognise how framing shapes judgement.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "stages": [
-        "pre-sessional",
-        "in-sessional-ug",
-        "in-sessional-pgt"
-      ],
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes a change in percentage points from a percentage change and calculates both from the same data",
@@ -1410,7 +1492,16 @@
           ],
           "contribution": "component"
         }
-      ]
+      ],
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
+      "coreBand": "B2",
+      "audience": "learner",
+      "disciplines": []
     },
     {
       "id": "num.units-measurement",
@@ -1421,11 +1512,6 @@
       "description": "Report measurements using SI units and symbols correctly (symbols versus names, a space between number and unit, prefixes, no plural or full stop on symbols, compound units such as m/s or kg m⁻³) and follow discipline and style-guide conventions where these differ. Correct use of units is a precondition for credibility and replicability in science, engineering and health writing.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
-      "stages": [
-        "foundation",
-        "pre-sessional",
-        "in-sessional-ug"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Writes unit symbols and prefixes with correct case (mg, kHz, μm, mL or ml) and without plural or full-stop forms (not kgs or cm.)",
@@ -1455,6 +1541,17 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
+      "coreBand": "B1",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     },
     {
@@ -1466,12 +1563,6 @@
       "description": "Read and write mathematical expressions in academic prose: verbalising equations and inequalities, introducing and defining variables (where x denotes; let n be), integrating displayed equations into sentences with appropriate punctuation, and using conventional phrasing for relationships (is proportional to, tends to, is a function of). This is needed wherever formulae carry the argument, as in science, engineering, economics and quantitative social science.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
-      "stages": [
-        "foundation",
-        "in-sessional-ug",
-        "in-sessional-pgt",
-        "pgr"
-      ],
       "specificity": "ESAP",
       "masteryEvidence": [
         "Reads equations, inequalities and common notation aloud accurately, including grouping (the square of x plus y vs x plus y, all squared)",
@@ -1502,6 +1593,17 @@
           ],
           "contribution": "related"
         }
+      ],
+      "stageRoles": {
+        "foundation": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "coreBand": "B1+",
+      "audience": "learner",
+      "disciplines": [
+        "sciences"
       ]
     }
   ],
@@ -1747,24 +1849,6 @@
       "reason": "Understanding mode as a dimension of register prepares learners to treat image and layout as meaning-making choices"
     },
     {
-      "topicId": "mmd.poster-design",
-      "prerequisiteId": "mmd.multimodal-literacy",
-      "strength": "hard",
-      "reason": "Poster design applies salience, reading path and image–text relations to a specific genre"
-    },
-    {
-      "topicId": "mmd.poster-design",
-      "prerequisiteId": "dat.creating-visuals",
-      "strength": "soft",
-      "reason": "Posters rely on figures that carry the evidence, so honest and legible chart design is needed"
-    },
-    {
-      "topicId": "mmd.poster-design",
-      "prerequisiteId": "sen.concision",
-      "strength": "soft",
-      "reason": "Text economy on posters depends on removing redundancy and compressing claims"
-    },
-    {
       "topicId": "mmd.infographics",
       "prerequisiteId": "mmd.multimodal-literacy",
       "strength": "hard",
@@ -1901,6 +1985,30 @@
       "prerequisiteId": "fun.defining",
       "strength": "soft",
       "reason": "Introducing variables and parameters is a form of operational definition"
+    },
+    {
+      "topicId": "dig.automated-feedback-tools",
+      "prerequisiteId": "edt.grammar-editing",
+      "strength": "hard",
+      "reason": "Evaluating a tool's grammar suggestions requires enough grammatical knowledge and checking routine to accept or reject them"
+    },
+    {
+      "topicId": "dig.automated-feedback-tools",
+      "prerequisiteId": "edt.proofreading",
+      "strength": "soft",
+      "reason": "Spell-checkers supplement but do not replace proofreading, for example of correctly spelt wrong words"
+    },
+    {
+      "topicId": "dig.automated-feedback-tools",
+      "prerequisiteId": "gai.how-genai-works",
+      "strength": "soft",
+      "reason": "Judging AI rewriting suggestions depends on understanding that such tools generate plausible text that may change meaning"
+    },
+    {
+      "topicId": "num.number-expressions",
+      "prerequisiteId": "sen.punctuation-mechanics",
+      "strength": "soft",
+      "reason": "Ranges use en dashes and numerical compound modifiers use hyphens (a 10-year study), so these marks are taught first"
     }
   ],
   "guidance": [
@@ -3240,69 +3348,6 @@
       "reviewNotes": [
         "Kress and van Leeuwen’s compositional zones derive largely from Western media texts; their universality is contested."
       ]
-    },
-    {
-      "topicId": "mmd.poster-design",
-      "summary": "MacIntosh-Murray (2007) analyses the conference poster as a genre with its own forms, norms and values, noting the gap between advice that favours concise, visual posters and the text-heavy posters often produced in practice. Kress and van Leeuwen’s (2006) concepts of composition help learners design reading paths and salience deliberately. Because posters serve conversation in a session, design should anticipate the presenter’s spoken explanation, which is developed in the presentations strand.",
-      "activities": [
-        {
-          "title": "Poster gallery critique",
-          "learnerActions": [
-            "Examine a set of real posters from a conference or departmental display",
-            "Rate each for clarity of main message at two metres, reading path and text density",
-            "Identify features shared by the most effective posters",
-            "Draft design principles for posters in their own discipline"
-          ],
-          "intendedInsight": "Effective posters prioritise one message and are designed for viewing at a distance.",
-          "rationale": "Uses authentic exemplars to surface genre norms, in line with MacIntosh-Murray’s (2007) genre perspective.",
-          "citations": [
-            "macintosh2007"
-          ]
-        },
-        {
-          "title": "Word-budget redesign",
-          "learnerActions": [
-            "Set a word budget for their own poster draft",
-            "Cut text to fit, converting prose results into captioned figures",
-            "Restructure the poster along a clear reading path",
-            "Test it with a peer who has 60 seconds to state the main message"
-          ],
-          "intendedInsight": "A word budget forces prioritisation of claims.",
-          "rationale": "Applies salience and composition (Kress & van Leeuwen, 2006) under a realistic constraint.",
-          "citations": [
-            "kressvanleeuwen2006"
-          ]
-        }
-      ],
-      "difficulties": [
-        {
-          "pattern": "Putting the essay or abstract on the poster.",
-          "kind": "prior-schooling",
-          "revealedBy": "Dense paragraphs in small type; the full text of an abstract or introduction.",
-          "response": "Use word budgets and distance testing, and model how to cut. Simply saying ‘use less text’ rarely helps.",
-          "reteachPrerequisiteId": "sen.concision"
-        },
-        {
-          "pattern": "Decoration before hierarchy.",
-          "kind": "conceptual",
-          "revealedBy": "Background images, many colours and fonts, and no clear entry point.",
-          "response": "Establish the hierarchy (headline, key figure, supporting sections) first and add decoration last, if at all.",
-          "reteachPrerequisiteId": "mmd.multimodal-literacy"
-        }
-      ],
-      "diagnostic": {
-        "task": "Show the learner’s poster draft to a peer, who has 30 seconds to identify the main finding.",
-        "strongResponse": "The peer identifies the intended main finding correctly and quickly.",
-        "partialResponse": "The peer identifies the topic but not the main finding.",
-        "gapResponse": "The peer cannot identify the topic or the finding."
-      },
-      "contextNotes": "Pre-sessional: poster projects as assessed tasks. UG in-sessional: discipline posters, often produced in groups. PGT: dissertation posters. PGR: conference posters, whose norms vary by field and event.",
-      "citations": [
-        "macintosh2007",
-        "kressvanleeuwen2006",
-        "w3c2023wcag"
-      ],
-      "reviewNotes": []
     },
     {
       "topicId": "mmd.infographics",

@@ -1,0 +1,116 @@
+{
+  "mergedInto": "sta.hedging",
+  "finding": "R1-15",
+  "topic": {
+    "id": "sta.generalisation-qualification",
+    "type": "LINGUISTIC",
+    "strand": "Academic Discourse",
+    "domain": "Stance, Metadiscourse & Evaluation",
+    "name": "Generalising and qualifying",
+    "description": "Make generalisations whose scope matches the evidence by using quantifiers and frequency expressions (most, many, a minority of, often, rarely), tendency expressions (tend to, are inclined to), approximators (broadly, largely, in general) and scope limiters (in most cases, with some exceptions, in this context). Bounded generalisation avoids both sweeping claims and lists of particulars that never reach a general point.",
+    "cefrStart": "B1+",
+    "cefrEnd": "C1",
+    "stages": [
+      "foundation",
+      "pre-sessional",
+      "in-sessional-ug"
+    ],
+    "specificity": "EGAP",
+    "masteryEvidence": [
+      "Rewrites sweeping generalisations (everyone, always, all societies) as bounded claims appropriate to the evidence",
+      "Uses tend to, frequency adverbs and quantifiers accurately, including their grammar (tend + to-infinitive; most + plural noun without 'of' but most of + determiner + noun: most students, most of the students)",
+      "States the population, context or conditions to which a generalisation applies",
+      "Distinguishes a claim about a category from a claim about every member of it",
+      "Moves from a set of examples to a stated general pattern"
+    ],
+    "assessmentPrompt": "Give five sweeping statements typical of essay openings (for example 'Nowadays everyone uses social media'). Ask the learner to rewrite each as a defensible claim. Check the range of devices, grammatical accuracy and whether the rewrites specify scope rather than only adding 'may'.",
+    "citations": [
+      "salagermeyer1994",
+      "hyland1998hedging",
+      "hinkel2004"
+    ],
+    "frameworks": [
+      {
+        "key": "cefr-cv:prag.propositional-precision",
+        "levels": [
+          "B1+",
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "key": "ielts:wr2.task-response",
+        "contribution": "related"
+      }
+    ]
+  },
+  "guidance": {
+    "topicId": "sta.generalisation-qualification",
+    "summary": "Salager-Meyer's approximators of degree, quantity, frequency and time, and the content-oriented hedges Hyland describes, cover much of this territory. It is singled out because overgeneralisation is among the most frequent comments on early academic writing and because the remedy is often precise scope rather than modality. Hinkel provides practical exercises on hedging and qualification; teach quantifiers, tendency verbs and scope limiters as a set, linked to the evidence behind each claim.",
+    "activities": [
+      {
+        "title": "Sweeping to bounded",
+        "learnerActions": [
+          "Rewrite sweeping statements from typical essay openings as bounded claims",
+          "Label what you changed: quantity, frequency, degree or context",
+          "Check which rewrites need a source to support them"
+        ],
+        "intendedInsight": "Bounding a claim usually means specifying who, how many, how often or where, not just adding 'may'.",
+        "rationale": "Hinkel's techniques for teaching hedging in L2 writing support explicit, form-focused practice with these resources.",
+        "citations": [
+          "hinkel2004"
+        ]
+      },
+      {
+        "title": "Scope sorting",
+        "learnerActions": [
+          "Find qualified generalisations in published texts from your field",
+          "Sort them by type of qualification",
+          "Choose two patterns to use in your next draft"
+        ],
+        "intendedInsight": "Expert writers qualify generalisations in several distinct ways.",
+        "rationale": "Salager-Meyer's taxonomy distinguishes approximators of quantity, frequency, degree and time, providing a ready classification for analysis.",
+        "citations": [
+          "salagermeyer1994"
+        ]
+      }
+    ],
+    "difficulties": [
+      {
+        "pattern": "'Since the dawn of time, humans have always…'",
+        "kind": "prior-schooling",
+        "revealedBy": "Dramatic, unbounded openings modelled on school or test-preparation essays.",
+        "response": "Show discipline-appropriate openings that begin with a bounded claim or specific context; explain why markers penalise unsupported sweep.",
+        "reteachPrerequisiteId": null
+      },
+      {
+        "pattern": "'Most of people tend to using…'",
+        "kind": "developmental",
+        "revealedBy": "Errors with quantifier + of, tend to + infinitive, and the majority of + verb agreement.",
+        "response": "Focused form practice on the grammar of quantifiers and tendency verbs, using the learner's own sentences.",
+        "reteachPrerequisiteId": "grm.determiners-quantifiers"
+      },
+      {
+        "pattern": "Qualifying even uncontroversial facts after instruction.",
+        "kind": "overgeneralisation",
+        "revealedBy": "'In most cases, water tends to boil at 100°C at sea level.'",
+        "response": "Distinguish established facts and definitions from empirical generalisations, and qualify only the latter.",
+        "reteachPrerequisiteId": "sta.hedging"
+      }
+    ],
+    "diagnostic": {
+      "task": "The learner rewrites 'Students today cannot concentrate because of smartphones' as a defensible claim.",
+      "strongResponse": "Bounds the population and the claim (many undergraduate students report…; heavy smartphone use has been associated with…) and avoids an unsupported causal claim.",
+      "partialResponse": "Adds 'may' or 'some' but keeps the causal claim or the unbounded population.",
+      "gapResponse": "Leaves the claim unchanged or intensifies it."
+    },
+    "contextNotes": "At foundation level, this is a priority for essay openings and topic sentences. Pre-sessional courses link it to evidence and sources. Undergraduate in-sessional support focuses on generalisations in students' own assignments.",
+    "citations": [
+      "salagermeyer1994",
+      "hyland1998hedging",
+      "hinkel2004"
+    ],
+    "reviewNotes": []
+  }
+}

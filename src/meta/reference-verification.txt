@@ -290,3 +290,187 @@ changswales1999 | web-verified | Checked by the curator against online records.
 bunton2002 | web-verified | Checked by the curator against online records.
 young1994 | web-verified | Checked by the curator against online records.
 nathan2013 | web-verified | Checked by the curator against online records.
+canagarajah2002 | web-verified | 
+canagarajah2013 | web-verified | 
+jenkins2014 | web-verified | 
+garciawei2014 | web-verified | 
+morita2004 | web-verified | 
+morita2000 | web-verified | 
+duff2010 | web-verified | 
+kaplan1966 | web-verified | 
+connor1996 | web-verified | 
+connor2004 | web-verified | 
+kubotalehner2004 | web-verified | 
+holliday2006 | web-verified | 
+zhou2008 | web-verified | 
+becher2001 | web-verified | 
+biglan1973 | web-verified | 
+maton2013 | web-verified | 
+meyerland2005 | web-verified | 
+dafouzsmit2016 | web-verified | 
+macaro2018emi | web-verified | 
+swales1990 | web-verified | 
+swales2004 | web-verified | 
+swalesfeak2012 | web-verified | 
+feakswales2009litrev | web-verified | 
+swalesfeak2009abstracts | web-verified | 
+hyon1996 | web-verified | 
+johns1997 | web-verified | 
+tardy2009 | web-verified | 
+cheng2018 | web-verified | 
+yasuda2011 | web-verified | 
+nesigardner2012 | web-verified | 
+gardnernesi2013 | web-verified | 
+bhatia1993 | web-verified | 
+rosemartin2012 | web-verified | 
+martinrose2008 | web-verified | 
+trimble1985 | web-verified | 
+mohan1986 | web-verified | 
+hoey1983 | web-verified | 
+hoey2001 | web-verified | 
+hallidayhasan1976 | web-verified | 
+danes1974 | web-verified | 
+halliday1989 | web-verified | 
+hallidaymartin1993 | web-verified | 
+hallidaymatthiessen2014 | web-verified | 
+thompson2014 | web-verified | 
+schleppegrell2004 | web-verified | 
+crossleymcnamara2012 | web-verified | 
+kressvanleeuwen2006 | web-verified | 
+biber2006 | web-verified | 
+biber1999lgswe | web-verified | 
+bibergray2010 | web-verified | 
+bibergray2016 | web-verified | 
+biber2011complexity | web-verified | 
+biberconrad2019 | web-verified | 
+biber2004bundles | web-verified | 
+lu2011 | web-verified | 
+celcemurcia1999 | web-verified | 
+master1997 | web-verified | 
+tarone1998passive | web-verified | 
+shaw1992 | web-verified | 
+hinkel2002 | web-verified | 
+hinkel2004 | web-verified | 
+hylandjiang2017 | web-verified | 
+hunston2002 | web-verified | 
+granger1998 | web-verified | 
+boultoncobb2017 | web-verified | 
+yoonhirvela2004 | web-verified | 
+charles2007 | web-verified | 
+apa2020 | web-verified | 
+mla2021 | web-verified | 
+chicago2024 | web-verified | 
+mokhtari2002 | web-verified | 
+sheorey2001 | web-verified | 
+palincsarbrown1984 | web-verified | 
+rayner2016 | web-verified | 
+daybamford1998 | web-verified | 
+beglar2012 | web-verified | Work confirmed online; DOI not independently confirmed.
+nation2009readingwriting | web-verified | 
+wallacewray2016 | web-verified | 
+field2008 | web-verified | 
+flowerdew1994 | web-verified | 
+flowerdewmiller2005 | web-verified | 
+vandergriftgoh2012 | web-verified | 
+lynch2011 | web-verified | 
+rost2011 | web-verified | 
+chaudronrichards1986 | web-verified | 
+goh2000 | web-verified | 
+graham2006 | web-verified | 
+griffiths1992 | web-verified | 
+major2002 | web-verified | 
+kiewra1985 | web-verified | 
+mueller2014 | web-verified | 
+morehead2019 | web-verified | 
+nesbit2006 | web-verified | 
+ferristagg1996 | web-verified | Work confirmed online; DOI not independently confirmed.
+ferris1998oral | web-verified | 
+basturkmen2002 | web-verified | Work confirmed online; DOI not independently confirmed.
+hoodforey2005 | web-verified | Work confirmed online; DOI not independently confirmed.
+rowleyjolivet2005 | web-verified | Work confirmed online; DOI not independently confirmed.
+rowleyjolivet2002 | web-verified | 
+macintosh2007 | web-verified | Work confirmed online; DOI not independently confirmed.
+derwingmunro2015 | web-verified | 
+munroderwing1995 | web-verified | 
+levis2005 | web-verified | 
+jenkins2000 | web-verified | Details corrected during verification.
+field2005 | web-verified | 
+hahn2004 | web-verified | 
+pickering2001 | web-verified | 
+levelt1989 | web-verified | 
+segalowitz2010 | web-verified | 
+housenkuiken2009 | web-verified | 
+hirvela2017 | web-verified | Work confirmed online; DOI not independently confirmed.
+walton2006 | web-verified | 
+facione1990 | web-verified | 
+moore2013 | web-verified | 
+atkinson1997 | web-verified | 
+hoferpintrich1997 | web-verified | 
+perry1970 | web-verified | Details corrected during verification.
+kahneman2011 | web-verified | 
+nickerson1998 | web-verified | 
+andersonkrathwohl2001 | web-verified | 
+vangelder2005 | web-verified | 
+samraj2002 | web-verified | 
+yangallison2003 | web-verified | Work confirmed online; DOI not independently confirmed.
+kanoksilapatham2005 | web-verified | 
+hopkins1988 | web-verified | Work confirmed online; DOI not independently confirmed.
+lim2006 | web-verified | Work confirmed online; DOI not independently confirmed.
+cotos2017 | web-verified | 
+santos1996 | web-verified | Work confirmed online; DOI not independently confirmed.
+paltridge2002 | web-verified | 
+paltridgestarfield2020 | web-verified | 
+kamlerthomson2014 | web-verified | 
+belcher1994 | web-verified | 
+flowerdew1999 | web-verified | 
+lilliscurry2010 | web-verified | 
+belcherw2019 | web-verified | 
+connormauranen1999 | web-verified | Work confirmed online; DOI not independently confirmed.
+creswell2018 | web-verified | 
+parkinson2017 | web-verified | 
+brand2015credit | web-verified | 
+vitae2010 | web-verified | 
+gibbs1988 | web-verified | 
+moon2004 | web-verified | 
+ryan2011 | web-verified | 
+schon1983 | web-verified | 
+sackett1996 | web-verified | 
+shahhoeffner2002 | web-verified | 
+friel2001 | web-verified | 
+gal2002 | web-verified | 
+gigerenzer2007 | web-verified | 
+tufte2001 | web-verified | 
+wasserstein2016 | web-verified | 
+w3c2023wcag | web-verified | 
+bipm2019 | web-verified | 
+zimmerman2002 | web-verified | 
+oxford1990 | web-verified | 
+benson2011 | web-verified | 
+holec1981 | web-verified | 
+dunlosky2013 | web-verified | 
+roediger2006 | web-verified | 
+cepeda2006 | web-verified | 
+dornyei2009 | web-verified | 
+flavell1979 | web-verified | 
+schmidt1990 | web-verified | 
+norrisortega2000 | web-verified | Work confirmed online; DOI not independently confirmed.
+spadatomita2010 | web-verified | Work confirmed online; DOI not independently confirmed.
+ellis2005principles | web-verified | 
+cummins2008 | web-verified | 
+snowuccelli2009 | web-verified | 
+coe2001 | web-verified | 
+coe2020 | web-verified | 
+north2014 | web-verified | 
+kasneci2023 | web-verified | 
+liang2023 | web-verified | 
+perkins2023 | web-verified | 
+unesco2023 | web-verified | 
+bender2021 | web-verified | 
+walters2023 | web-verified | 
+ferris1999 | web-verified | Page range corrected to 1–10.
+zamel1983 | web-verified | Sources differ on the end page (178 or 187); 187 retained.
+kwan2006 | web-verified | 
+basturkmen2009 | web-verified | 
+basturkmen2003 | unverified | Believed correct; not confirmed online during verification.
+aguilar2004 | unverified | Believed correct; not confirmed online during verification.
+hirvela2017 | web-verified | Confirmed in Journal of Second Language Writing vol. 36 (Disciplinary Dialogues); pages and DOI not confirmed and omitted.

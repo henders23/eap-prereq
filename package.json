@@ -13,6 +13,7 @@
     "build": "node scripts/build.mjs",
     "validate": "node scripts/validate.mjs",
     "report": "node scripts/report.mjs",
+    "explorer": "node scripts/build-explorer.mjs",
     "test": "node --test scripts/*.test.mjs"
   }
 }

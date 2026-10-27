@@ -37,6 +37,13 @@ test('every citation resolves to the bibliography', () => {
   for (const g of guidance) for (const c of g.citations) assert.ok(keys.has(c), `${g.topicId} guidance cites unknown ${c}`);
 });
 
+test('reference citations and DOIs carry no source-file delimiters', () => {
+  for (const r of references) {
+    assert.ok(!r.citation.includes('|'), `${r.key} citation contains '|'`);
+    if (r.doi) assert.match(r.doi, /^10\.\S+$/, `${r.key} has a malformed DOI`);
+  }
+});
+
 test('every stage has a focused core', () => {
   for (const s of STAGES) {
     const core = topics.filter((t) => t.stageRoles[s] === 'core').length;

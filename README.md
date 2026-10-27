@@ -152,6 +152,25 @@ All data is UTF-8 JSON in [`data/`](data/). JSON Schemas are in
   "strength": "hard", "reason": "Paraphrasing applies lexical and syntactic transformation techniques to whole propositions" }
 ```
 
+## Explorer
+
+[`explorer/index.html`](explorer/index.html) is a single-file, offline
+browser for the whole taxonomy. It needs no server or build step. It lets
+you:
+
+- search and filter topics by strand, domain, stage and role, core CEFR
+  band, type and discipline;
+- open a topic's full record: level and stage strips, mastery evidence,
+  a prerequisite map with hard and soft links, the full hard-prerequisite
+  chain, teaching guidance, diagnostics, framework links and references;
+- step through the worked course templates unit by unit.
+
+Rebuild it after changing `data/` with `npm run explorer`. The page is
+generated from `explorer/template.html` by
+[`scripts/build-explorer.mjs`](scripts/build-explorer.mjs). The file is an
+HTML fragment, without `<html>` or `<body>` tags, so it can be published as
+a hosted page; browsers open it directly as well.
+
 ## Using it
 
 The data is plain JSON, with no runtime and no dependencies.
@@ -181,6 +200,7 @@ To validate, rebuild and test:
 node scripts/validate.mjs   # integrity, acyclicity, checksums
 node scripts/build.mjs      # rebuild data/ from src/ (deterministic)
 node scripts/report.mjs     # regenerate reports/
+npm run explorer            # regenerate explorer/index.html
 npm test                    # schema and dataset tests
 ```
 
@@ -220,7 +240,8 @@ The published files in `data/` are generated. Edit the sources instead:
   `frameworks.txt`, `pathways.json` and `retired-topics.json`;
 - `authoring/skeleton.txt`: topic IDs.
 
-Then run `node scripts/build.mjs`, `node scripts/report.mjs` and `npm test`.
+Then run `node scripts/build.mjs`, `node scripts/report.mjs`,
+`npm run explorer` and `npm test`.
 `node scripts/check-strand.mjs <file>` validates a single strand file.
 
 ## Licence

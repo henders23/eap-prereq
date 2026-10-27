@@ -354,25 +354,25 @@ Links are mapping judgements (core / component / related), not coverage certific
 
 | Reference | Topics |
 |---|---:|
-| Swales, J. M., & Feak, C. B. (2012). *Academic writing for graduate students: Essential tasks and skills* (3rd ed.). University of Michigan Press. \| | 41 |
-| Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (1999). *Longman grammar of spoken and written English*. Longman. \| | 39 |
-| American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). \| | 33 |
-| Celce-Murcia, M., & Larsen-Freeman, D. (1999). *The grammar book: An ESL/EFL teacher's course* (2nd ed.). Heinle & Heinle. \| | 27 |
-| Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE. \| | 19 |
+| Swales, J. M., & Feak, C. B. (2012). *Academic writing for graduate students: Essential tasks and skills* (3rd ed.). University of Michigan Press. | 41 |
+| Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (1999). *Longman grammar of spoken and written English*. Longman. | 39 |
+| American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). | 33 |
+| Celce-Murcia, M., & Larsen-Freeman, D. (1999). *The grammar book: An ESL/EFL teacher's course* (2nd ed.). Heinle & Heinle. | 27 |
+| Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE. | 19 |
 | Wingate, U. (2012). 'Argument!' Helping students understand what essay writing is about. *Journal of English for Academic Purposes, 11*(2), 145–154. | 18 |
 | Gardner, S., & Nesi, H. (2013). A classification of genre families in university student writing. *Applied Linguistics, 34*(1), 25–52. | 18 |
-| Paltridge, B., & Starfield, S. (2020). *Thesis and dissertation writing in a second language: A handbook for students and their supervisors* (2nd ed.). Routledge. \| | 18 |
-| Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*. American Library Association. \| | 15 |
-| Wallace, M., & Wray, A. (2016). *Critical reading and writing for postgraduates* (3rd ed.). SAGE. \| | 15 |
-| Nesi, H., & Gardner, S. (2012). *Genres across the disciplines: Student writing in higher education*. Cambridge University Press. \| | 13 |
-| Biber, D. (2006). *University language: A corpus-based study of spoken and written registers*. John Benjamins. \| | 13 |
+| Paltridge, B., & Starfield, S. (2020). *Thesis and dissertation writing in a second language: A handbook for students and their supervisors* (2nd ed.). Routledge. | 18 |
+| Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*. American Library Association. | 15 |
+| Wallace, M., & Wray, A. (2016). *Critical reading and writing for postgraduates* (3rd ed.). SAGE. | 15 |
+| Nesi, H., & Gardner, S. (2012). *Genres across the disciplines: Student writing in higher education*. Cambridge University Press. | 13 |
+| Biber, D. (2006). *University language: A corpus-based study of spoken and written registers*. John Benjamins. | 13 |
 | Biber, D., & Gray, B. (2010). Challenging stereotypes about academic writing: Complexity, elaboration, explicitness. *Journal of English for Academic Purposes, 9*(1), 2–20. | 13 |
 | Hyland, K. (1999). Academic attribution: Citation and the construction of disciplinary knowledge. *Applied Linguistics, 20*(3), 341–367. | 13 |
-| Grabe, W. (2009). *Reading in a second language: Moving from theory to practice*. Cambridge University Press. \| | 13 |
-| Swales, J. M. (1990). *Genre analysis: English in academic and research settings*. Cambridge University Press. \| | 12 |
-| Bhatia, V. K. (1993). *Analysing genre: Language use in professional settings*. Longman. \| | 12 |
-| Trimble, L. (1985). *English for science and technology: A discourse approach*. Cambridge University Press. \| | 12 |
-| University of Chicago Press. (2024). *The Chicago manual of style* (18th ed.). \| | 12 |
-| Nation, I. S. P. (2013). *Learning vocabulary in another language* (2nd ed.). Cambridge University Press. \| | 12 |
+| Grabe, W. (2009). *Reading in a second language: Moving from theory to practice*. Cambridge University Press. | 13 |
+| Swales, J. M. (1990). *Genre analysis: English in academic and research settings*. Cambridge University Press. | 12 |
+| Bhatia, V. K. (1993). *Analysing genre: Language use in professional settings*. Longman. | 12 |
+| Trimble, L. (1985). *English for science and technology: A discourse approach*. Cambridge University Press. | 12 |
+| University of Chicago Press. (2024). *The Chicago manual of style* (18th ed.). | 12 |
+| Nation, I. S. P. (2013). *Learning vocabulary in another language* (2nd ed.). Cambridge University Press. | 12 |
 
 Uncited references: none.

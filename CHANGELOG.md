@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+- Added a single-file topic explorer (`explorer/index.html`) with search,
+  filters, topic records, prerequisite maps and course templates. It is
+  built by `npm run explorer`.
+- Fixed 223 references whose `citation` ended in a stray `|` because their
+  DOI column was empty. A dataset test now guards against this.
+
 ## v1 — 2026-10-27
 
 First release.

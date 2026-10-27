@@ -1,0 +1,493 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EAP Skill Taxonomy Explorer</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+/* Layout: a library catalogue — filter rail and topic index on the left, a full topic record on the right; stacks to one column on phones. */
+:root {
+  --bg: #f3f5f8;
+  --surface: #ffffff;
+  --sunk: #e8ecf2;
+  --ink: #18202c;
+  --muted: #5b6676;
+  --line: #d4dbe5;
+  --accent: #1d5c8f;
+  --accent-soft: #d6e5f2;
+  --hard: #1d5c8f;
+  --soft: #8b97a8;
+  --warn: #9a5b00;
+  --chip-s: 55%;
+  --chip-l: 90%;
+  --chip-fg-l: 28%;
+  --serif: "IBM Plex Serif", "Iowan Old Style", Georgia, serif;
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --r: 6px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #11161e; --surface: #171e28; --sunk: #1f2834; --ink: #e4e9f0; --muted: #98a3b3; --line: #2c3746;
+    --accent: #7db4e3; --accent-soft: #1e3448; --hard: #7db4e3; --soft: #6b7787; --warn: #e0a54a;
+    --chip-s: 35%; --chip-l: 22%; --chip-fg-l: 82%; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #11161e; --surface: #171e28; --sunk: #1f2834; --ink: #e4e9f0; --muted: #98a3b3; --line: #2c3746;
+  --accent: #7db4e3; --accent-soft: #1e3448; --hard: #7db4e3; --soft: #6b7787; --warn: #e0a54a;
+  --chip-s: 35%; --chip-l: 22%; --chip-fg-l: 82%; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { background: var(--bg); color: var(--ink); margin: 0; }
+body { font: 15px/1.5 var(--sans); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--surface); }
+a { color: var(--accent); }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.mono { font-family: var(--mono); font-size: 0.82em; }
+.muted { color: var(--muted); }
+
+header.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--surface); border-bottom: 1px solid var(--line);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 10px;
+  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+}
+.brand { display: flex; align-items: baseline; gap: 10px; min-width: 0; }
+.brand h1 { font: 600 1.15rem/1.2 var(--serif); margin: 0; letter-spacing: -0.01em; }
+.brand span { color: var(--muted); font-size: 0.85rem; }
+nav.views { display: flex; gap: 4px; margin-left: auto; }
+nav.views a { text-decoration: none; color: var(--muted); padding: 6px 10px; border-radius: var(--r); font-weight: 500; font-size: 0.9rem; }
+nav.views a[aria-current="page"] { color: var(--ink); background: var(--sunk); }
+
+main { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 16px 40px; }
+.browse { display: grid; grid-template-columns: minmax(300px, 400px) minmax(0, 1fr); gap: 20px; align-items: start; }
+.rail { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 64px); display: flex; flex-direction: column; gap: 10px; max-height: calc(100vh - 80px); min-width: 0; }
+.filters { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.filters .wide { grid-column: 1 / -1; }
+.filters label { display: flex; flex-direction: column; gap: 2px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); min-width: 0; }
+.filters input, .filters select { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 7px 9px; font-size: 0.9rem; text-transform: none; letter-spacing: 0; color: var(--ink); min-width: 0; width: 100%; }
+.count { font-size: 0.82rem; color: var(--muted); display: flex; justify-content: space-between; gap: 8px; }
+.count button { background: none; border: 0; color: var(--accent); cursor: pointer; padding: 0; font-size: 0.82rem; }
+.list { overflow-y: auto; border: 1px solid var(--line); border-radius: var(--r); background: var(--surface); min-height: 200px; }
+.item { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 10px; padding: 9px 12px; border: 0; border-bottom: 1px solid var(--line); border-left: 3px solid transparent; cursor: pointer; text-align: left; width: 100%; background: none; }
+.item:hover { background: var(--sunk); }
+.item[aria-selected="true"] { background: var(--accent-soft); border-left-color: var(--accent); }
+.item .nm { font-weight: 500; line-height: 1.3; }
+.item .meta { grid-column: 1 / -1; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-size: 0.78rem; color: var(--muted); }
+.empty { padding: 24px 16px; color: var(--muted); }
+
+.chip { display: inline-flex; align-items: center; gap: 4px; padding: 1px 8px; border-radius: 999px; font-size: 0.75rem; font-weight: 500;
+  background: hsl(var(--h, 210) var(--chip-s) var(--chip-l)); color: hsl(var(--h, 210) 45% var(--chip-fg-l)); white-space: nowrap; }
+.pill { display: inline-block; padding: 1px 7px; border-radius: 4px; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; background: var(--sunk); color: var(--muted); }
+
+/* level ruler and stage strip */
+.ruler { display: inline-grid; grid-template-columns: repeat(8, 1fr); gap: 2px; width: 120px; }
+.ruler i { height: 7px; border-radius: 2px; background: var(--sunk); }
+.ruler i.in { background: var(--accent-soft); outline: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); }
+.ruler i.core { background: var(--accent); }
+.strip { display: inline-grid; grid-template-columns: repeat(6, 1fr); gap: 2px; width: 84px; }
+.strip i { height: 7px; border-radius: 2px; border: 1px solid var(--line); }
+.strip i.core { background: var(--ink); border-color: var(--ink); }
+.strip i.develop { background: repeating-linear-gradient(135deg, var(--muted) 0 2px, transparent 2px 4px); border-color: var(--muted); }
+.strip i.revisit { border-color: var(--muted); }
+
+.detail { min-width: 0; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 22px 26px; }
+.crumbs { font-size: 0.82rem; color: var(--muted); display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.detail h2 { font: 600 1.7rem/1.2 var(--serif); margin: 6px 0 4px; letter-spacing: -0.01em; text-wrap: balance; }
+.idline { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; color: var(--muted); font-size: 0.85rem; }
+.lead { font: 400 1.05rem/1.6 var(--serif); max-width: 70ch; margin: 14px 0 0; }
+section.block { margin-top: 26px; }
+section.block > h3 { font: 600 0.75rem/1 var(--sans); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 10px; display: flex; gap: 10px; align-items: baseline; }
+section.block > h3 small { text-transform: none; letter-spacing: 0; font-weight: 400; }
+.levels { display: grid; grid-template-columns: auto 1fr; gap: 10px 18px; align-items: center; font-size: 0.85rem; }
+.bigruler { display: grid; grid-template-columns: repeat(8, minmax(28px, 1fr)); gap: 3px; max-width: 420px; }
+.bigruler div { text-align: center; font-family: var(--mono); font-size: 0.72rem; padding: 4px 0; border-radius: 3px; background: var(--sunk); color: var(--muted); }
+.bigruler div.in { background: var(--accent-soft); color: var(--ink); }
+.bigruler div.core { background: var(--accent); color: var(--surface); font-weight: 600; }
+.stages { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 3px; max-width: 620px; }
+.stages div { border: 1px solid var(--line); border-radius: 3px; padding: 5px 6px; font-size: 0.72rem; line-height: 1.25; min-width: 0; }
+.stages div b { display: block; font-weight: 600; font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.stages div.core { background: var(--ink); border-color: var(--ink); color: var(--surface); }
+.stages div.develop { background: var(--sunk); }
+.stages div.none { color: var(--muted); opacity: 0.55; border-style: dashed; }
+ul.evidence { margin: 0; padding-left: 1.2em; max-width: 72ch; display: grid; gap: 4px; }
+.callout { border-left: 3px solid var(--accent); background: var(--sunk); padding: 12px 16px; border-radius: 0 var(--r) var(--r) 0; max-width: 78ch; }
+
+.map { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--r); background: var(--bg); }
+.map svg { display: block; }
+.map .node rect { fill: var(--surface); stroke: var(--line); }
+.map .node text { fill: var(--ink); font: 12px var(--sans); }
+.map .node.focus rect { fill: var(--accent); stroke: var(--accent); }
+.map .node.focus text { fill: var(--surface); font-weight: 600; }
+.map .node:not(.focus) { cursor: pointer; }
+.map .node:not(.focus):hover rect { stroke: var(--accent); }
+.map .colhead { fill: var(--muted); font: 600 10px var(--sans); letter-spacing: 0.08em; text-transform: uppercase; }
+.map path { fill: none; }
+.map path.hard { stroke: var(--hard); stroke-width: 1.6; }
+.map path.soft { stroke: var(--soft); stroke-width: 1.1; stroke-dasharray: 4 3; }
+.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 0.78rem; color: var(--muted); margin-top: 8px; align-items: center; }
+.legend svg { vertical-align: middle; }
+.chain { display: flex; flex-wrap: wrap; gap: 6px; }
+.tlink { background: var(--surface); border: 1px solid var(--line); border-radius: 4px; padding: 3px 9px; font-size: 0.82rem; cursor: pointer; color: var(--ink); text-align: left; }
+.tlink:hover { border-color: var(--accent); color: var(--accent); }
+.tlink.soft { border-style: dashed; color: var(--muted); }
+
+.acts { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px; }
+.act { border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; min-width: 0; }
+.act h4 { margin: 0 0 6px; font: 600 0.98rem/1.3 var(--serif); }
+.act ol { margin: 6px 0; padding-left: 1.2em; font-size: 0.9rem; }
+.act p { margin: 6px 0 0; font-size: 0.88rem; }
+.diffs { display: grid; gap: 10px; }
+.diff { display: grid; grid-template-columns: 130px minmax(0, 1fr); gap: 4px 16px; border-top: 1px solid var(--line); padding-top: 10px; }
+.diff .kind { font-size: 0.75rem; }
+.diff q { font-family: var(--serif); font-style: italic; quotes: "“" "”"; }
+.diff p { margin: 4px 0 0; font-size: 0.9rem; }
+.diag { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin-top: 10px; }
+.diag div { border-radius: var(--r); padding: 10px 12px; font-size: 0.88rem; background: var(--sunk); min-width: 0; }
+.diag b { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 4px; }
+details.more { margin-top: 10px; font-size: 0.88rem; }
+details.more summary { cursor: pointer; color: var(--muted); }
+.refs { display: grid; gap: 8px; font-size: 0.88rem; max-width: 80ch; }
+.ref { font-family: var(--serif); padding-left: 1.6em; text-indent: -1.6em; }
+.ver { font-family: var(--sans); font-size: 0.7rem; margin-left: 6px; color: var(--muted); }
+.ver.bad { color: var(--warn); }
+table.fw { border-collapse: collapse; font-size: 0.86rem; width: 100%; max-width: 760px; }
+table.fw td, table.fw th { border-top: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+table.fw th { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; border-top: 0; }
+.back { display: none; }
+
+/* overview + courses */
+.overview { display: grid; gap: 22px; max-width: 1200px; }
+.stats { display: flex; flex-wrap: wrap; gap: 26px; }
+.stats div { min-width: 0; }
+.stats b { display: block; font: 600 1.6rem/1.1 var(--serif); font-variant-numeric: tabular-nums; }
+.stats span { font-size: 0.8rem; color: var(--muted); }
+.strands { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 12px; }
+.strand { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; min-width: 0; }
+.strand h3 { margin: 0 0 8px; font: 600 1.02rem/1.25 var(--serif); display: flex; justify-content: space-between; gap: 8px; }
+.strand h3 span { font: 500 0.8rem var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+.strand ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+.strand li button { width: 100%; display: flex; justify-content: space-between; gap: 8px; background: none; border: 0; padding: 3px 0; cursor: pointer; text-align: left; font-size: 0.88rem; color: var(--ink); }
+.strand li button:hover { color: var(--accent); }
+.strand li button span { color: var(--muted); font-variant-numeric: tabular-nums; }
+.prose { max-width: 72ch; font-family: var(--serif); line-height: 1.6; }
+.prose p { margin: 0 0 10px; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tabs button { border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 12px; cursor: pointer; font-size: 0.86rem; }
+.tabs button[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+.course { display: grid; gap: 16px; max-width: 1100px; }
+.cmeta { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px 20px; font-size: 0.9rem; }
+.cmeta b { display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.units { display: grid; gap: 12px; }
+.unit { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px 16px; }
+.unit .wk { font: 600 0.8rem var(--mono); color: var(--muted); }
+.unit h4 { margin: 0; font: 600 1rem/1.3 var(--serif); }
+.unit p { margin: 4px 0 8px; font-size: 0.9rem; color: var(--muted); }
+.anchor { font-size: 0.78rem; color: var(--accent); font-weight: 500; }
+
+@media (max-width: 900px) {
+  .browse { grid-template-columns: minmax(0, 1fr); }
+  .rail { position: static; max-height: none; }
+  .list { max-height: 60vh; }
+  .browse.has-sel .rail { display: none; }
+  .browse:not(.has-sel) .detail { display: none; }
+  .back { display: inline-block; margin-bottom: 10px; background: none; border: 1px solid var(--line); border-radius: var(--r); padding: 5px 10px; cursor: pointer; }
+  .card { padding: 16px; }
+  .diff { grid-template-columns: minmax(0, 1fr); }
+  .diag { grid-template-columns: minmax(0, 1fr); }
+  .unit { grid-template-columns: minmax(0, 1fr); gap: 4px; }
+  .stages { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  nav.views { margin-left: 0; }
+  header.top { position: static; gap: 6px 16px; }
+  .brand span { display: none; }
+}
+@media (prefers-reduced-motion: no-preference) { .item, .tlink, nav.views a { transition: background-color .12s, border-color .12s, color .12s; } }
+</style>
+
+<header class="top">
+  <div class="brand"><h1>EAP Skill Taxonomy</h1><span id="vline"></span></div>
+  <nav class="views" aria-label="Views">
+    <a href="#overview" data-view="overview">Overview</a>
+    <a href="#topics" data-view="topics">Topics</a>
+    <a href="#courses" data-view="courses">Course templates</a>
+  </nav>
+</header>
+<main id="app"></main>
+
+<script type="application/json" id="data">/*__DATA__*/</script>
+<script>
+(() => {
+  const DATA = JSON.parse(document.getElementById('data').textContent);
+  const { topics, deps, guidance, refs, fw, domains, strands, pathways, retired, meta } = DATA;
+  const STAGES = ['foundation', 'pre-sessional-ug', 'pre-sessional-pg', 'in-sessional-ug', 'in-sessional-pgt', 'pgr'];
+  const STAGE_LABEL = { foundation: 'Foundation', 'pre-sessional-ug': 'Pre-sessional (UG entry)', 'pre-sessional-pg': 'Pre-sessional (PG entry)', 'in-sessional-ug': 'In-sessional UG', 'in-sessional-pgt': 'In-sessional PGT', pgr: 'Doctoral (PGR)' };
+  const STAGE_SHORT = { foundation: 'Foundation', 'pre-sessional-ug': 'Pre-sess. UG', 'pre-sessional-pg': 'Pre-sess. PG', 'in-sessional-ug': 'In-sess. UG', 'in-sessional-pgt': 'In-sess. PGT', pgr: 'PGR' };
+  const CEFR = ['A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'];
+  const TYPE_LABEL = { CONCEPTUAL: 'Concept', PROCEDURAL: 'Procedure', LINGUISTIC: 'Language resource', GENRE: 'Genre', STRATEGIC: 'Strategy', SOCIOPRAGMATIC: 'Sociopragmatic' };
+  const DISC_LABEL = d => d.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()).replace('Mathematics Statistics', 'Mathematics & statistics').replace('Health Medicine', 'Health & medicine').replace('Business Management', 'Business & management').replace('Finance Accounting', 'Finance & accounting').replace('Arts Design', 'Arts & design').replace('Media Communication', 'Media & communication').replace('Social Sciences', 'Social sciences');
+
+  const byId = new Map(topics.map(t => [t.id, t]));
+  const strandHue = new Map(strands.map((s, i) => [s.name, Math.round((i * 360) / strands.length + 205) % 360]));
+  const prereqs = new Map(topics.map(t => [t.id, []]));
+  const unlocks = new Map(topics.map(t => [t.id, []]));
+  for (const [a, b, hard, reason] of deps) { prereqs.get(a).push({ id: b, hard, reason }); unlocks.get(b).push({ id: a, hard, reason }); }
+
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const fmtRef = s => esc(s).replace(/\*([^*]+)\*/g, '<i>$1</i>');
+  const enc = id => id.replace(/\./g, '--');
+  const dec = h => h.replace(/--/g, '.');
+  const chip = name => `<span class="chip" style="--h:${strandHue.get(name) ?? 210}">${esc(name)}</span>`;
+  const ruler = t => `<span class="ruler" title="CEFR ${t.cefrStart}–${t.cefrEnd}, core band ${t.coreBand}">${CEFR.map((l, i) => `<i class="${l === t.coreBand ? 'core' : i >= CEFR.indexOf(t.cefrStart) && i <= CEFR.indexOf(t.cefrEnd) ? 'in' : ''}"></i>`).join('')}</span>`;
+  const strip = t => `<span class="strip" title="${esc(STAGES.map(s => `${STAGE_SHORT[s]}: ${t.stageRoles[s] ?? '—'}`).join(' · '))}">${STAGES.map(s => `<i class="${t.stageRoles[s] ?? ''}"></i>`).join('')}</span>`;
+
+  const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+  const state = Object.assign({ q: '', strand: '', stage: '', role: 'core', band: '', type: '', disc: '' }, JSON.parse(store.get('eap-filters') || '{}'));
+  let selected = null;
+  let course = pathways.templates[0]?.id;
+
+  document.getElementById('vline').textContent = `${topics.length} topics · ${deps.length.toLocaleString('en-GB')} prerequisite links`;
+
+  // ---------- routing ----------
+  function route() {
+    const h = location.hash.slice(1);
+    let view = 'overview';
+    if (h.startsWith('topic-')) {
+      let id = dec(h.slice(6));
+      if (!byId.has(id) && retired[id]) id = retired[id];
+      if (byId.has(id)) { selected = id; view = 'topics'; }
+    } else if (h === 'topics') { view = 'topics'; }
+    else if (h.startsWith('course')) { view = 'courses'; const c = h.slice(7); if (pathways.templates.some(t => t.id === c)) course = c; }
+    document.querySelectorAll('nav.views a').forEach(a => { if (a.dataset.view === view) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
+    if (view === 'overview') renderOverview(); else if (view === 'courses') renderCourses(); else renderBrowse();
+  }
+  window.addEventListener('hashchange', route);
+  const go = id => { location.hash = 'topic-' + enc(id); };
+
+  // ---------- overview ----------
+  function renderOverview() {
+    const s = meta;
+    const app = document.getElementById('app');
+    app.innerHTML = `<div class="overview">
+      <div class="prose"><p>An open, graph-structured taxonomy of English for Academic Purposes, from international foundation programmes and pre-sessional courses to in-sessional support and doctoral writing. Each topic is one teachable, assessable element of academic English, with mastery evidence, a diagnostic check, a CEFR range, a role at each stage of provision, prerequisite links, teaching guidance and verified references.</p></div>
+      <div class="stats">
+        <div><b>${s.topics}</b><span>topics</span></div>
+        <div><b>${s.strands}</b><span>strands</span></div>
+        <div><b>${s.domains}</b><span>domains</span></div>
+        <div><b>${s.edges.toLocaleString('en-GB')}</b><span>prerequisite links (${s.hard} hard)</span></div>
+        <div><b>${s.refs}</b><span>references (${s.verified} web-verified)</span></div>
+        <div><b>${pathways.templates.length}</b><span>course templates</span></div>
+      </div>
+      <div>
+        <div class="legend"><span>Each topic row shows two strips:</span><span>${ruler({ cefrStart: 'B1', cefrEnd: 'C1', coreBand: 'B2' })} CEFR A2–C2, core band solid</span><span>${strip({ stageRoles: { foundation: 'core', 'pre-sessional-ug': 'core', 'pre-sessional-pg': 'develop', 'in-sessional-ug': 'develop', 'in-sessional-pgt': 'revisit' } })} stages from foundation to PGR: core solid, develop hatched, revisit outlined</span></div>
+      </div>
+      <div class="strands">${strands.map(st => {
+        const doms = st.domains.map(c => domains.find(d => d.code === c));
+        const n = topics.filter(t => t.strand === st.name).length;
+        return `<div class="strand"><h3><span style="all:unset">${chip(st.name)}</span><span>${n}</span></h3><ul>${doms.map(d => `<li><button data-domain="${esc(d.name)}" data-strand="${esc(st.name)}" title="${esc(d.summary)}">${esc(d.name)}<span>${topics.filter(t => t.domain === d.name).length}</span></button></li>`).join('')}</ul></div>`;
+      }).join('')}</div>
+      <div class="prose muted" style="font-size:0.9rem"><p>${esc(meta.note)}</p></div>
+    </div>`;
+    app.querySelectorAll('[data-domain]').forEach(b => b.addEventListener('click', () => {
+      Object.assign(state, { q: '', strand: b.dataset.strand, stage: '', band: '', type: '', disc: '' });
+      state.domain = b.dataset.domain;
+      selected = null;
+      location.hash = 'topics';
+    }));
+  }
+
+  // ---------- browse ----------
+  function filtered() {
+    const q = state.q.trim().toLowerCase();
+    const words = q.split(/\s+/).filter(Boolean);
+    return topics.filter(t => {
+      if (state.strand && t.strand !== state.strand) return false;
+      if (state.domain && t.domain !== state.domain) return false;
+      if (state.stage) { const r = t.stageRoles[state.stage]; if (!r || (state.role === 'core' && r !== 'core')) return false; }
+      if (state.band && t.coreBand !== state.band) return false;
+      if (state.type && t.type !== state.type) return false;
+      if (state.disc && !t.disciplines.includes(state.disc)) return false;
+      if (words.length) { const hay = (t.name + ' ' + t.id + ' ' + t.description + ' ' + t.domain).toLowerCase(); if (!words.every(w => hay.includes(w))) return false; }
+      return true;
+    });
+  }
+  function options(values, current, labelFn = v => v) { return values.map(v => `<option value="${esc(v)}"${v === current ? ' selected' : ''}>${esc(labelFn(v))}</option>`).join(''); }
+
+  function renderBrowse() {
+    const app = document.getElementById('app');
+    const disciplines = [...new Set(topics.flatMap(t => t.disciplines))].sort();
+    const domainOpts = state.strand ? domains.filter(d => d.strand === state.strand).map(d => d.name) : [];
+    app.innerHTML = `<div class="browse${selected ? ' has-sel' : ''}">
+      <aside class="rail">
+        <div class="filters" role="search">
+          <label class="wide">Search<input id="f-q" type="search" placeholder="e.g. hedging, lab report, viva" value="${esc(state.q)}"></label>
+          <label class="wide">Strand<select id="f-strand"><option value="">All strands</option>${options(strands.map(s => s.name), state.strand)}</select></label>
+          ${domainOpts.length ? `<label class="wide">Domain<select id="f-domain"><option value="">All domains in strand</option>${options(domainOpts, state.domain)}</select></label>` : ''}
+          <label>Stage<select id="f-stage"><option value="">Any stage</option>${options(STAGES, state.stage, s => STAGE_LABEL[s])}</select></label>
+          <label>Role<select id="f-role"${state.stage ? '' : ' disabled'}><option value="core"${state.role === 'core' ? ' selected' : ''}>Core only</option><option value="any"${state.role === 'any' ? ' selected' : ''}>Core, develop or revisit</option></select></label>
+          <label>Core band<select id="f-band"><option value="">Any</option>${options(CEFR, state.band)}</select></label>
+          <label>Type<select id="f-type"><option value="">Any</option>${options(Object.keys(TYPE_LABEL), state.type, v => TYPE_LABEL[v])}</select></label>
+          <label class="wide">Discipline<select id="f-disc"><option value="">Any (general and discipline-specific)</option>${options(disciplines, state.disc, DISC_LABEL)}</select></label>
+        </div>
+        <div class="count"><span id="n"></span><button id="clear" type="button">Clear filters</button></div>
+        <div class="list" id="list" role="listbox" aria-label="Topics"></div>
+      </aside>
+      <section class="detail" id="detail" aria-live="polite"></section>
+    </div>`;
+    const bind = (id, key, ev = 'change') => { const el = document.getElementById(id); if (el) el.addEventListener(ev, () => { state[key] = el.value; if (key === 'strand') state.domain = ''; store.set('eap-filters', JSON.stringify({ ...state, domain: undefined })); if (key === 'strand' || key === 'stage') renderBrowse(); else renderList(); }); };
+    bind('f-q', 'q', 'input'); bind('f-strand', 'strand'); bind('f-domain', 'domain'); bind('f-stage', 'stage'); bind('f-role', 'role'); bind('f-band', 'band'); bind('f-type', 'type'); bind('f-disc', 'disc');
+    document.getElementById('clear').addEventListener('click', () => { Object.assign(state, { q: '', strand: '', domain: '', stage: '', role: 'core', band: '', type: '', disc: '' }); store.set('eap-filters', '{}'); renderBrowse(); });
+    renderList();
+    renderDetail();
+  }
+
+  function renderList() {
+    const list = document.getElementById('list');
+    if (!list) return;
+    const items = filtered();
+    document.getElementById('n').textContent = `${items.length} of ${topics.length} topics`;
+    list.innerHTML = items.length ? items.map(t => `<button class="item" role="option" data-id="${t.id}" aria-selected="${t.id === selected}">
+        <span class="nm">${esc(t.name)}</span><span>${ruler(t)}</span>
+        <span class="meta"><span class="mono">${t.id}</span>${chip(t.strand)}<span>${TYPE_LABEL[t.type]}</span>${strip(t)}</span>
+      </button>`).join('') : '<div class="empty">No topics match these filters. Clear a filter or try a broader search term.</div>';
+    list.querySelectorAll('.item').forEach(el => el.addEventListener('click', () => go(el.dataset.id)));
+    const cur = list.querySelector('[aria-selected="true"]');
+    if (cur) cur.scrollIntoView({ block: 'nearest' });
+  }
+
+  // ---------- detail ----------
+  function ancestry(id) {
+    const seen = new Set();
+    const stack = prereqs.get(id).filter(p => p.hard).map(p => p.id);
+    while (stack.length) { const n = stack.pop(); if (seen.has(n)) continue; seen.add(n); for (const p of prereqs.get(n)) if (p.hard) stack.push(p.id); }
+    return [...seen].map(i => byId.get(i)).sort((a, b) => a.depth - b.depth || a.name.localeCompare(b.name));
+  }
+
+  function mapSvg(t) {
+    const W = 184, H = 34, GX = 40, GY = 10, PADT = 26;
+    const p1 = prereqs.get(t.id).map(p => p.id);
+    const p2set = new Set();
+    for (const id of p1) for (const p of prereqs.get(id)) if (!p1.includes(p.id) && p.id !== t.id) p2set.add(p.id);
+    const p2 = [...p2set].sort((a, b) => byId.get(b).downstreamCount - byId.get(a).downstreamCount).slice(0, 10);
+    const u1 = unlocks.get(t.id).map(u => u.id).slice(0, 14);
+    const colsF = [];
+    const headsF = [];
+    if (p2.length) { colsF.push(p2); headsF.push('Earlier prerequisites'); }
+    if (p1.length) { colsF.push(p1); headsF.push('Prerequisites'); }
+    colsF.push([t.id]); headsF.push('This topic');
+    if (u1.length) { colsF.push(u1); headsF.push('Builds towards'); }
+    const maxRows = Math.max(...colsF.map(c => c.length));
+    const height = PADT + maxRows * (H + GY) + 10;
+    const width = colsF.length * W + (colsF.length - 1) * GX + 16;
+    const pos = new Map();
+    colsF.forEach((col, ci) => {
+      const off = ((maxRows - col.length) * (H + GY)) / 2;
+      col.forEach((id, ri) => pos.set(id + '@' + ci, { x: 8 + ci * (W + GX), y: PADT + off + ri * (H + GY), id, ci }));
+    });
+    const edges = [];
+    const ci = id => colsF.findIndex(c => c.includes(id));
+    for (const n of pos.values()) {
+      for (const p of prereqs.get(n.id)) {
+        const pc = ci(p.id);
+        if (pc >= 0 && pc === n.ci - 1) {
+          const a = pos.get(p.id + '@' + pc);
+          const x1 = a.x + W, y1 = a.y + H / 2, x2 = n.x, y2 = n.y + H / 2, mx = (x1 + x2) / 2;
+          edges.push(`<path class="${p.hard ? 'hard' : 'soft'}" d="M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}"><title>${esc(byId.get(n.id).name)} ← ${esc(byId.get(p.id).name)} (${p.hard ? 'hard' : 'soft'}): ${esc(p.reason)}</title></path>`);
+        }
+      }
+    }
+    const trunc = s => (s.length > 27 ? s.slice(0, 26) + '…' : s);
+    const nodes = [...pos.values()].map(n => {
+      const tt = byId.get(n.id);
+      return `<g class="node${n.id === t.id ? ' focus' : ''}" data-id="${n.id}" tabindex="${n.id === t.id ? -1 : 0}" role="link" aria-label="${esc(tt.name)}"><title>${esc(tt.name)} (${tt.id})</title><rect x="${n.x}" y="${n.y}" width="${W}" height="${H}" rx="5"/><text x="${n.x + 10}" y="${n.y + H / 2 + 4}">${esc(trunc(tt.name))}</text></g>`;
+    });
+    const headsSvg = headsF.map((h, i) => `<text class="colhead" x="${8 + i * (W + GX)}" y="14">${h.toUpperCase()}</text>`).join('');
+    return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="Prerequisite map for ${esc(t.name)}">${headsSvg}${edges.join('')}${nodes.join('')}</svg>`;
+  }
+
+  function renderDetail() {
+    const el = document.getElementById('detail');
+    if (!el) return;
+    if (!selected) {
+      el.innerHTML = `<div class="card"><p class="lead" style="margin:0">Choose a topic from the list to see its full record: what mastery looks like, how to check it, where it sits at each stage, what it depends on and how to teach it.</p><p class="muted" style="margin-top:12px">Start with the stage filter. For example, choose <b>Pre-sessional (PG entry)</b> with <b>Core only</b> to see what a postgraduate-entry pre-sessional typically teaches and assesses.</p></div>`;
+      return;
+    }
+    const t = byId.get(selected);
+    const g = guidance[t.id];
+    const dom = domains.find(d => d.name === t.domain);
+    const anc = ancestry(t.id);
+    const linkBtn = (id, soft) => `<button class="tlink${soft ? ' soft' : ''}" data-id="${id}" title="${esc(byId.get(id).description)}">${esc(byId.get(id).name)}</button>`;
+    const allCites = [...new Set([...t.citations, ...(g?.citations ?? []), ...(g?.activities ?? []).flatMap(a => a.citations ?? [])])];
+    el.innerHTML = `<button class="back" type="button" id="back">← All topics</button><article class="card">
+      <div class="crumbs">${chip(t.strand)}<span>›</span><span>${esc(t.domain)}</span></div>
+      <h2>${esc(t.name)}</h2>
+      <div class="idline"><span class="mono">${t.id}</span><span class="pill">${TYPE_LABEL[t.type]}</span><span class="pill">${t.specificity}</span>${t.disciplines.map(d => `<span class="pill">${esc(DISC_LABEL(d))}</span>`).join('')}${t.audience !== 'learner' ? `<span class="pill">Audience: ${t.audience}</span>` : ''}</div>
+      <p class="lead">${esc(t.description)}</p>
+
+      <section class="block"><h3>Level and stage</h3>
+        <div class="levels">
+          <span class="muted">CEFR</span><div class="bigruler">${CEFR.map((l, i) => `<div class="${l === t.coreBand ? 'core' : i >= CEFR.indexOf(t.cefrStart) && i <= CEFR.indexOf(t.cefrEnd) ? 'in' : ''}" title="${l === t.coreBand ? 'Core band' : ''}">${l}</div>`).join('')}</div>
+          <span class="muted">Stages</span><div class="stages">${STAGES.map(s => `<div class="${t.stageRoles[s] ?? 'none'}"><b>${STAGE_SHORT[s]}</b>${t.stageRoles[s] ?? 'not taught'}</div>`).join('')}</div>
+        </div>
+      </section>
+
+      <section class="block"><h3>Mastery evidence</h3><ul class="evidence">${t.masteryEvidence.map(m => `<li>${esc(m)}</li>`).join('')}</ul></section>
+      <section class="block"><h3>Quick check</h3><div class="callout">${esc(t.assessmentPrompt)}</div></section>
+
+      <section class="block"><h3>Prerequisite map <small class="muted">${prereqs.get(t.id).length} prerequisites · builds towards ${unlocks.get(t.id).length}</small></h3>
+        <div class="map" id="map">${mapSvg(t)}</div>
+        <div class="legend"><span><svg width="34" height="8"><path class="" d="M0,4 L34,4" stroke="var(--hard)" stroke-width="1.6"/></svg> hard: cannot be learned without</span><span><svg width="34" height="8"><path d="M0,4 L34,4" stroke="var(--soft)" stroke-width="1.1" stroke-dasharray="4 3"/></svg> soft: usually taught first</span><span>Hover a line for the reason; select a box to open that topic.</span></div>
+        ${anc.length ? `<details class="more"><summary>Full hard-prerequisite chain (${anc.length} topics, most foundational first)</summary><div class="chain" style="margin-top:8px">${anc.map(a => linkBtn(a.id)).join('')}</div></details>` : '<p class="muted" style="font-size:0.88rem">No hard prerequisites: this is an entry point.</p>'}
+      </section>
+
+      ${g ? `<section class="block"><h3>Teaching guidance</h3><div class="prose"><p>${esc(g.summary)}</p></div>
+        <div class="acts">${g.activities.map(a => `<div class="act"><h4>${esc(a.title)}</h4><ol>${a.learnerActions.map(x => `<li>${esc(x)}</li>`).join('')}</ol><p><b>Insight.</b> ${esc(a.intendedInsight)}</p><p class="muted"><b>Why.</b> ${esc(a.rationale)}</p></div>`).join('')}</div>
+      </section>
+      <section class="block"><h3>Common difficulties</h3><div class="diffs">${g.difficulties.map(d => `<div class="diff"><div><span class="pill kind">${esc(d.kind)}</span></div><div><q>${esc(d.pattern.replace(/^['‘“"]|['’”"]$/g, ''))}</q><p class="muted">Shows up as: ${esc(d.revealedBy)}</p><p>${esc(d.response)}${d.reteachPrerequisiteId && byId.has(d.reteachPrerequisiteId) ? ` <span class="muted">Revisit:</span> ${linkBtn(d.reteachPrerequisiteId)}` : ''}</p></div></div>`).join('')}</div></section>
+      <section class="block"><h3>Diagnostic</h3><div class="callout">${esc(g.diagnostic.task)}</div>
+        <div class="diag"><div><b>Strong</b>${esc(g.diagnostic.strongResponse)}</div><div><b>Partial</b>${esc(g.diagnostic.partialResponse)}</div><div><b>Gap</b>${esc(g.diagnostic.gapResponse)}</div></div></section>
+      <section class="block"><h3>By stage</h3><div class="prose"><p>${esc(g.contextNotes)}</p></div>
+        ${g.reviewNotes.length ? `<details class="more"><summary>Review notes (${g.reviewNotes.length})</summary><ul class="evidence" style="margin-top:6px">${g.reviewNotes.map(n => `<li>${esc(n)}</li>`).join('')}</ul></details>` : ''}</section>` : ''}
+
+      ${t.frameworks.length ? `<section class="block"><h3>Framework links <small class="muted">mapping judgements, not certified alignments</small></h3><div style="overflow-x:auto"><table class="fw"><thead><tr><th>Framework item</th><th>Levels</th><th>Contribution</th></tr></thead><tbody>${t.frameworks.map(f => `<tr><td>${esc(fw[f.key]?.[0] ?? f.key)}<div class="muted" style="font-size:0.78rem">${esc(fw[f.key]?.[1] ?? '')}</div></td><td class="mono">${esc((f.levels ?? []).join(', ') || '—')}</td><td>${esc(f.contribution)}</td></tr>`).join('')}</tbody></table></div></section>` : ''}
+
+      <section class="block"><h3>References <small class="muted">${allCites.length}</small></h3><div class="refs">${allCites.map(k => { const r = refs[k]; if (!r) return ''; return `<div class="ref">${fmtRef(r[0])}${r[1] ? ` <a href="https://doi.org/${esc(r[1])}" target="_blank" rel="noopener">doi:${esc(r[1])}</a>` : ''}<span class="ver${r[2] === 'web-verified' ? '' : ' bad'}">${r[2] === 'web-verified' ? 'verified' : 'unverified'}</span></div>`; }).join('')}</div></section>
+
+      ${dom ? `<section class="block"><h3>About this domain</h3><div class="prose"><p>${esc(dom.summary)}</p><p class="muted"><i>For learners:</i> ${esc(dom.learnerSummary)}</p></div></section>` : ''}
+    </article>`;
+    el.querySelectorAll('[data-id]').forEach(n => {
+      if (n.classList.contains('focus')) return;
+      n.addEventListener('click', () => go(n.dataset.id));
+      n.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(n.dataset.id); } });
+    });
+    const back = document.getElementById('back');
+    if (back) back.addEventListener('click', () => { selected = null; location.hash = 'topics'; });
+    window.scrollTo(0, 0);
+  }
+
+  // ---------- courses ----------
+  function renderCourses() {
+    const app = document.getElementById('app');
+    const c = pathways.templates.find(t => t.id === course) ?? pathways.templates[0];
+    const anchors = new Map(pathways.taskAnchors.map(a => [a.id, a]));
+    const total = c.units.reduce((n, u) => n + u.topicIds.length, 0);
+    app.innerHTML = `<div class="course">
+      <div class="prose"><p>Worked course templates built from the taxonomy. Each unit teaches its topics' hard prerequisites first, or assumes them on entry. Treat them as starting points for syllabus design and adapt them after your own needs analysis.</p></div>
+      <div class="tabs" role="group" aria-label="Course templates">${pathways.templates.map(t => `<button type="button" data-c="${t.id}" aria-pressed="${t.id === c.id}">${esc(STAGE_SHORT[t.stage])} · ${esc(t.duration.split(',')[0])}</button>`).join('')}</div>
+      <div class="card">
+        <h2 style="margin-top:0">${esc(c.name)}</h2>
+        <div class="cmeta"><div><b>Stage</b>${esc(STAGE_LABEL[c.stage])}</div><div><b>Entry band</b>${esc(c.entryBand)}</div><div><b>Duration</b>${esc(c.duration)}</div><div><b>Topics</b>${total} taught${c.assumed?.length ? `, ${c.assumed.length} assumed` : ''}</div></div>
+        <div class="prose" style="margin-top:14px"><p><b>Destination.</b> ${esc(c.destination)}</p><p>${esc(c.rationale)}</p></div>
+        ${c.assumed?.length ? `<details class="more"><summary>Assumed on entry (${c.assumed.length})</summary><div class="chain" style="margin-top:8px">${c.assumed.filter(id => byId.has(id)).map(id => `<button class="tlink soft" data-id="${id}">${esc(byId.get(id).name)}</button>`).join('')}</div></details>` : ''}
+      </div>
+      <div class="units">${c.units.map(u => `<div class="unit"><div class="wk">Weeks ${esc(u.weeks)}</div><div><h4>${esc(u.title)}</h4>${u.anchor && anchors.get(u.anchor) ? `<div class="anchor" title="${esc(anchors.get(u.anchor).description)}">Assessed through: ${esc(anchors.get(u.anchor).name)}</div>` : ''}${u.focus ? `<p>${esc(u.focus)}</p>` : ''}<div class="chain">${u.topicIds.filter(id => byId.has(id)).map(id => `<button class="tlink" data-id="${id}" title="${esc(byId.get(id).description)}">${esc(byId.get(id).name)}</button>`).join('')}</div></div></div>`).join('')}</div>
+    </div>`;
+    app.querySelectorAll('[data-c]').forEach(b => b.addEventListener('click', () => { location.hash = 'course-' + b.dataset.c; }));
+    app.querySelectorAll('.tlink[data-id]').forEach(b => b.addEventListener('click', () => go(b.dataset.id)));
+  }
+
+  route();
+})();
+</script>

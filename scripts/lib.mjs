@@ -99,10 +99,11 @@ export function parseSkeleton(path = resolve(ROOT, 'authoring', 'skeleton.txt'))
 export function parseReferences(path = resolve(SRC, 'meta', 'references.txt')) {
   const refs = [];
   for (const line of lines(readFileSync(path, 'utf8'))) {
-    const [key, kind, citation, doi] = line.split(' | ').map((p) => (p ?? '').trim());
+    // A line ending in a bare ' |' has an empty DOI column.
+    const [key, kind, citation, doi] = line.split(/ \|(?: |$)/).map((p) => (p ?? '').trim());
     const year = Number((citation.match(/\((\d{4})/) ?? [])[1]) || null;
     const ref = { key, kind, year, citation };
-    if (doi) ref.doi = doi.replace(/\s*\|?\s*$/, '');
+    if (doi) ref.doi = doi;
     refs.push(ref);
   }
   return refs;

@@ -97,7 +97,7 @@
       },
       "keyReferences": [
         "bhatia1993",
-        "oscola2012",
+        "oscola2026",
         "twining2010",
         "mertz2007"
       ]
@@ -1081,7 +1081,7 @@
       "citations": [
         "twining2010",
         "mertz2007",
-        "oscola2012"
+        "oscola2026"
       ],
       "frameworks": [
         {
@@ -1171,7 +1171,7 @@
       ],
       "assessmentPrompt": "Give the learner a 'Critically evaluate…' question and a paragraph from a student essay that summarises three cases in turn. Ask them to rewrite it to serve an argument. Check whether the rewrite subordinates case description to a claim, uses 'held' only for the court's decision, evaluates against a stated criterion and adds OSCOLA footnotes.",
       "citations": [
-        "oscola2012",
+        "oscola2026",
         "mertz2007"
       ],
       "frameworks": [
@@ -1849,12 +1849,6 @@
       "reason": "Judging the best available evidence requires consumer-level reading of effect sizes, confidence intervals and risk"
     },
     {
-      "topicId": "dhl.evidence-based-practice",
-      "prerequisiteId": "acu.disciplinary-knowledge",
-      "strength": "soft",
-      "reason": "Evidence-based practice is a field-specific view of what counts as knowledge, best understood against the general idea that disciplines differ in this"
-    },
-    {
       "topicId": "dhl.reflective-practice",
       "prerequisiteId": "ges.reflective-writing",
       "strength": "hard",
@@ -1865,12 +1859,6 @@
       "prerequisiteId": "dhl.evidence-based-practice",
       "strength": "soft",
       "reason": "Analysis in health reflections is expected to draw on research evidence and professional guidance, not only personal response"
-    },
-    {
-      "topicId": "dhl.reflective-practice",
-      "prerequisiteId": "crt.applying-theory",
-      "strength": "soft",
-      "reason": "Moving from description to analysis in a reflection involves using concepts and models to explain a practice event"
     },
     {
       "topicId": "dhl.case-reports-care-plans",
@@ -1922,12 +1910,6 @@
     },
     {
       "topicId": "dhl.critical-appraisal",
-      "prerequisiteId": "rdc.methods-critique",
-      "strength": "hard",
-      "reason": "Appraisal tools operationalise critical reading of samples, design, measures and limitations"
-    },
-    {
-      "topicId": "dhl.critical-appraisal",
       "prerequisiteId": "dhl.evidence-based-practice",
       "strength": "hard",
       "reason": "Critical appraisal is the step of evidence-based practice that judges the validity and applicability of evidence"
@@ -1935,8 +1917,8 @@
     {
       "topicId": "dhl.critical-appraisal",
       "prerequisiteId": "ges.critique",
-      "strength": "soft",
-      "reason": "Written appraisals specialise the general critical review of a single article"
+      "strength": "hard",
+      "reason": "Written appraisal specialises the critical review of a single article, including its critical reading of samples, design, measures and limitations"
     },
     {
       "topicId": "dhl.critical-appraisal",
@@ -3191,7 +3173,7 @@
           "kind": "developmental",
           "revealedBy": "Appraisals that conclude a study is 'unreliable' without weighing the importance of each weakness.",
           "response": "Ask learners to rank limitations by their likely effect and to state what the study can still support. Avoid praising long lists of weaknesses as criticality.",
-          "reteachPrerequisiteId": "rdc.methods-critique"
+          "reteachPrerequisiteId": "ges.critique"
         },
         {
           "pattern": "Treating the appraisal tool's headings as the essay structure.",
@@ -3621,7 +3603,7 @@
     },
     {
       "topicId": "dlw.problem-questions",
-      "summary": "Problem questions test the application of legal rules to facts, which Twining and Miers (2010) treat as a core interpretive skill of legal method. Scaffolds such as IRAC help novices organise answers, but they are contested: lecturers vary in whether they recommend them, and applied mechanically they lead to rule-stating with little application. Teaching should use IRAC-type structures as a starting point, foreground application to facts and the handling of ambiguity, and follow the conventions of the specific law school, including OSCOLA footnoting (Meredith & Nolan, 2012).",
+      "summary": "Problem questions test the application of legal rules to facts, which Twining and Miers (2010) treat as a core interpretive skill of legal method. Scaffolds such as IRAC help novices organise answers, but they are contested: lecturers vary in whether they recommend them, and applied mechanically they lead to rule-stating with little application. Teaching should use IRAC-type structures as a starting point, foreground application to facts and the handling of ambiguity, and follow the conventions of the specific law school, including OSCOLA footnoting (Goudkamp, 2026).",
       "activities": [
         {
           "title": "Issue spotting",
@@ -3684,7 +3666,7 @@
       "citations": [
         "twining2010",
         "mertz2007",
-        "oscola2012"
+        "oscola2026"
       ],
       "reviewNotes": [
         "Critiques of IRAC are widespread among legal educators, but no source in the bibliography documents them; a legal-education source on IRAC should be added if verified.",
@@ -3753,7 +3735,7 @@
     },
     {
       "topicId": "dlw.legal-essays",
-      "summary": "Legal essays combine accurate exposition of the law with argument about it, and students often over-describe cases at the expense of evaluation. Mertz (2007) shows that legal reading attends to the authority and procedural position of texts, which in essays becomes a hierarchy of sources and reporting verbs with legal meanings. OSCOLA (Meredith & Nolan, 2012) specifies footnote referencing for UK law schools. Teaching should use the school's exemplars, model how case discussion is subordinated to a thesis, and make legal reporting conventions explicit.",
+      "summary": "Legal essays combine accurate exposition of the law with argument about it, and students often over-describe cases at the expense of evaluation. Mertz (2007) shows that legal reading attends to the authority and procedural position of texts, which in essays becomes a hierarchy of sources and reporting verbs with legal meanings. OSCOLA (Goudkamp, 2026) specifies footnote referencing for UK law schools. Teaching should use the school's exemplars, model how case discussion is subordinated to a thesis, and make legal reporting conventions explicit.",
       "activities": [
         {
           "title": "From case list to argument",
@@ -3765,7 +3747,7 @@
           "intendedInsight": "Cases are evidence for an argument about the law, not the content of the essay in themselves.",
           "rationale": "Reordering source-by-source paragraphs into claim-led ones targets the most common weakness in legal essays.",
           "citations": [
-            "oscola2012"
+            "oscola2026"
           ]
         },
         {
@@ -3806,7 +3788,7 @@
       },
       "contextNotes": "On pre-sessional law pathways, contrast legal essays with general argumentative essays. UG students need early support with OSCOLA and with using cases as evidence. LLM essays expect more theoretical and comparative depth, and LLM students may bring different conventions for referencing and for the role of academic doctrine.",
       "citations": [
-        "oscola2012",
+        "oscola2026",
         "mertz2007"
       ],
       "reviewNotes": [

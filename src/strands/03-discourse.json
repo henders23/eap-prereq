@@ -76,7 +76,7 @@
       "domain": "Cohesion & Coherence",
       "name": "Cohesion versus coherence",
       "description": "Distinguish cohesion — the explicit lexical and grammatical ties between sentences (reference, conjunction, substitution, ellipsis, lexical relations) — from coherence, the reader's sense that a text has a consistent topic, purpose and logical development. The distinction lets learners see that linking devices cannot rescue a text whose ideas are not ordered or connected, and that coherent texts often leave some relations implicit.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -100,6 +100,7 @@
         {
           "key": "cefr-cv:prag.coherence-cohesion",
           "levels": [
+            "B1",
             "B1+",
             "B2",
             "B2+"
@@ -968,7 +969,7 @@
       "domain": "Rhetorical Functions",
       "name": "Expressing cause and effect",
       "description": "Express causal relations through conjunctions (because, since, so), prepositions (due to, owing to, as a result of), verbs (lead to, result in, contribute to, stem from), nouns (a cause of, a consequence of, a factor in) and adjectives (attributable to, responsible for), and calibrate the strength of the causal claim (causes, is associated with, may contribute to). Much academic explanation packs causation into verbs and noun phrases rather than linking clauses with conjunctions.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
         "foundation",
@@ -1016,7 +1017,7 @@
       "domain": "Rhetorical Functions",
       "name": "Exemplifying and illustrating",
       "description": "Illustrate general statements with examples and cases using exemplification language (for example, for instance, such as, a case in point is, as illustrated by) and choose examples that are representative and relevant, linking them explicitly back to the point they support. Examples make abstract claims concrete, but they carry argumentative weight only when their relevance is made clear.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -2177,12 +2178,6 @@
     },
     {
       "topicId": "coh.given-new",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "hard",
-      "reason": "Placing given information first requires identifying and manipulating subject, verb and adverbial positions in the clause"
-    },
-    {
-      "topicId": "coh.given-new",
       "prerequisiteId": "grm.passive-voice",
       "strength": "soft",
       "reason": "The passive is one of the main resources for moving given information into subject position, so control of its form makes the information-structure choice available"
@@ -2218,34 +2213,16 @@
       "reason": "The core structure is a demonstrative determiner plus noun, so control of this/these reference and its antecedents is required"
     },
     {
-      "topicId": "coh.signalling-nouns",
-      "prerequisiteId": "coh.lexical-cohesion",
-      "strength": "soft",
-      "reason": "Signalling nouns are a specialised form of the general-noun reference that maintains lexical chains"
-    },
-    {
       "topicId": "coh.text-patterns",
       "prerequisiteId": "coh.cohesion-vs-coherence",
       "strength": "hard",
       "reason": "Text patterns are a model of coherence above the sentence, so learners must first separate underlying organisation from surface linking"
     },
     {
-      "topicId": "coh.text-patterns",
-      "prerequisiteId": "par.paragraph-unit",
-      "strength": "soft",
-      "reason": "Patterns such as general–specific are first met inside single paragraphs before learners trace them across sections"
-    },
-    {
       "topicId": "coh.frame-markers",
       "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
       "reason": "Sequencing and summative frame markers extend the linking adverbials learners already use between sentences to the level of the whole text"
-    },
-    {
-      "topicId": "coh.frame-markers",
-      "prerequisiteId": "ess.essay-structure",
-      "strength": "soft",
-      "reason": "Previewing and labelling stages presupposes a model of how an extended text is divided into introduction, body sections and conclusion"
     },
     {
       "topicId": "coh.paragraph-transitions",
@@ -2308,16 +2285,16 @@
       "reason": "Understanding that speech is processed in real time without the visual layout of writing explains why spoken discourse needs denser, differently worded signposting"
     },
     {
+      "topicId": "coh.frame-markers",
+      "prerequisiteId": "coh.writer-responsibility",
+      "strength": "soft",
+      "reason": "Frame markers are a principal means by which writers take responsibility for making a text's organisation explicit to the reader"
+    },
+    {
       "topicId": "fun.defining",
       "prerequisiteId": "grm.relative-clauses",
       "strength": "hard",
       "reason": "The formal definition frame (an X is a Y which/that…) depends on control of defining relative clauses"
-    },
-    {
-      "topicId": "fun.defining",
-      "prerequisiteId": "voc.technical-terminology",
-      "strength": "soft",
-      "reason": "Learners need to recognise which field-specific terms require definition and to know their established meanings"
     },
     {
       "topicId": "fun.classifying",
@@ -2339,12 +2316,6 @@
     },
     {
       "topicId": "fun.describing-process",
-      "prerequisiteId": "grm.non-finite-clauses",
-      "strength": "soft",
-      "reason": "Purpose is typically expressed with to-infinitive clauses, and sequenced steps with -ing and -ed clauses"
-    },
-    {
-      "topicId": "fun.describing-process",
       "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
       "reason": "Sequential linking adverbials (first, subsequently, finally) organise the steps of a process"
@@ -2354,12 +2325,6 @@
       "prerequisiteId": "grm.prepositions",
       "strength": "hard",
       "reason": "Spatial and part–whole description cannot be carried out without control of spatial and complex prepositions"
-    },
-    {
-      "topicId": "fun.describing-structure",
-      "prerequisiteId": "voc.word-grammar-patterns",
-      "strength": "soft",
-      "reason": "Part–whole verbs differ in complementation (consist of, comprise, be composed of), a frequent source of error"
     },
     {
       "topicId": "fun.comparing-contrasting",
@@ -2387,12 +2352,6 @@
     },
     {
       "topicId": "fun.cause-effect",
-      "prerequisiteId": "grm.nominalisation",
-      "strength": "soft",
-      "reason": "Academic causal statements often relate nominalised processes (The rise in X led to a decline in Y)"
-    },
-    {
-      "topicId": "fun.cause-effect",
       "prerequisiteId": "voc.word-grammar-patterns",
       "strength": "soft",
       "reason": "Causal verbs and nouns have fixed complementation and direction (result in/from, contribute to, a factor in)"
@@ -2408,6 +2367,12 @@
       "prerequisiteId": "grm.np-postmodification",
       "strength": "soft",
       "reason": "Such as introduces a postmodifying phrase within a noun phrase, so learners need to recognise noun-phrase structure to use it correctly"
+    },
+    {
+      "topicId": "fun.describing-structure",
+      "prerequisiteId": "grm.passive-voice",
+      "strength": "soft",
+      "reason": "Part–whole and spatial description often uses passive and participial forms (is composed of, is connected to, is located at)"
     },
     {
       "topicId": "fun.problem-solution",
@@ -2500,18 +2465,6 @@
       "reason": "Narrating sequences and developments relies on contrasts between past simple, past perfect and present perfect"
     },
     {
-      "topicId": "fun.chronology-narration",
-      "prerequisiteId": "grm.subordination",
-      "strength": "soft",
-      "reason": "Time clauses (after, once, until, by the time) are needed to relate events to one another"
-    },
-    {
-      "topicId": "fun.evaluating",
-      "prerequisiteId": "voc.evaluative-lexis",
-      "strength": "hard",
-      "reason": "Evaluation is realised through evaluative adjectives, adverbs and nouns, so the lexical repertoire must be available"
-    },
-    {
       "topicId": "fun.evaluating",
       "prerequisiteId": "fun.comparing-contrasting",
       "strength": "soft",
@@ -2520,8 +2473,14 @@
     {
       "topicId": "fun.evaluating",
       "prerequisiteId": "crt.description-analysis-evaluation",
+      "strength": "hard",
+      "reason": "Producing evaluation deliberately requires the conceptual distinction between describing, analysing and evaluating"
+    },
+    {
+      "topicId": "fun.chronology-narration",
+      "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
-      "reason": "Learners need the conceptual distinction between describing and evaluating before they can produce evaluation deliberately"
+      "reason": "Sequential and temporal linking adverbials (subsequently, meanwhile, by then) organise narrated events across sentences"
     },
     {
       "topicId": "sta.metadiscourse",
@@ -2534,12 +2493,6 @@
       "prerequisiteId": "sta.hedging",
       "strength": "soft",
       "reason": "Hedging gives learners a concrete interactional resource that the metadiscourse concept then situates alongside interactive ones"
-    },
-    {
-      "topicId": "sta.metadiscourse",
-      "prerequisiteId": "reg.register-awareness",
-      "strength": "soft",
-      "reason": "Seeing metadiscourse as writer–reader interaction depends on understanding tenor, the relationship dimension of register"
     },
     {
       "topicId": "sta.hedging",
@@ -2558,18 +2511,6 @@
       "prerequisiteId": "grm.anticipatory-it",
       "strength": "soft",
       "reason": "Impersonal hedging frames (it seems that, it is possible that) are built on anticipatory 'it' with extraposed clauses"
-    },
-    {
-      "topicId": "sta.boosters",
-      "prerequisiteId": "sta.hedging",
-      "strength": "soft",
-      "reason": "Boosters are best understood as the other end of the certainty continuum that learners first explore through hedging"
-    },
-    {
-      "topicId": "sta.boosters",
-      "prerequisiteId": "voc.precision-near-synonyms",
-      "strength": "soft",
-      "reason": "Choosing between show, demonstrate and prove depends on knowing how near-synonymous verbs differ in strength"
     },
     {
       "topicId": "sta.claim-calibration",
@@ -2642,6 +2583,18 @@
       "prerequisiteId": "sta.hedging",
       "strength": "soft",
       "reason": "Qualifying scope is one form of hedging; learners who already hedge certainty can extend this to quantity, frequency and context"
+    },
+    {
+      "topicId": "sta.boosters",
+      "prerequisiteId": "voc.academic-verbs",
+      "strength": "soft",
+      "reason": "Verbal boosters (show, demonstrate, establish) depend on knowing these verbs' meanings and relative strength"
+    },
+    {
+      "topicId": "sta.boosters",
+      "prerequisiteId": "reg.formality-features",
+      "strength": "soft",
+      "reason": "Replacing speech-like intensifiers with justified boosters depends on recognising intensifiers as a feature of informal register"
     },
     {
       "topicId": "sta.averral-attribution",
@@ -3067,7 +3020,7 @@
           "kind": "L1-transfer",
           "revealedBy": "Dislocated topics with resumptive pronouns; unusual word order at the start of clauses.",
           "response": "Writers whose other languages mark topic through word order or particles benefit from seeing the English resources for the same purpose: passive, a different subject, existential there or a summarising noun phrase.",
-          "reteachPrerequisiteId": "grm.clause-elements"
+          "reteachPrerequisiteId": "grm.passive-voice"
         },
         {
           "pattern": "Very long subjects carrying new information before the main verb.",
@@ -3339,7 +3292,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Formulaic roadmaps and paragraph-level announcements in short essays.",
           "response": "Show propositional roadmaps that preview the argument; reserve paragraph-level metatext for long texts. Do not ban 'This essay will', which is acceptable in many contexts.",
-          "reteachPrerequisiteId": "ess.essay-structure"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "A roadmap that no longer matches the body after revision.",
@@ -3694,7 +3647,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Essays opening with general-dictionary definitions where a disciplinary definition is expected.",
           "response": "Show how sources in the field define the term and discuss why a general dictionary rarely captures disciplinary meaning.",
-          "reteachPrerequisiteId": "voc.technical-terminology"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Treating a contested term as having one correct definition.",
@@ -3837,7 +3790,7 @@
           "kind": "developmental",
           "revealedBy": "Mismatch between purpose and result expressions; tense errors after so that.",
           "response": "Contrast to + infinitive and in order to (purpose) with so and so that, using steps from the learner's field.",
-          "reteachPrerequisiteId": "grm.non-finite-clauses"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3891,7 +3844,7 @@
           "kind": "developmental",
           "revealedBy": "Errors in the form and complementation of part–whole verbs.",
           "response": "Teach consist of, comprise, contain and be made up of as patterns, with examples from the learner's field.",
-          "reteachPrerequisiteId": "voc.word-grammar-patterns"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Spatial prepositions mapped from another language (on the corner of the diagram, in the left).",
@@ -4041,7 +3994,7 @@
           "kind": "developmental",
           "revealedBy": "Spoken-style causal chains in writing; few causal verbs or nouns.",
           "response": "Show nominalised alternatives and practise combining clauses into causal noun-phrase structures where appropriate.",
-          "reteachPrerequisiteId": "grm.nominalisation"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4522,7 +4475,7 @@
           "kind": "developmental",
           "revealedBy": "Monotonous sequencing with a small set of time words.",
           "response": "Introduce time clauses and periodising expressions (By the late 1990s, Over the following decade).",
-          "reteachPrerequisiteId": "grm.subordination"
+          "reteachPrerequisiteId": "coh.linking-adverbials"
         }
       ],
       "diagnostic": {
@@ -4582,7 +4535,7 @@
           "kind": "developmental",
           "revealedBy": "General evaluative words without criteria or precision.",
           "response": "Build a bank of evaluative lexis by criterion (robust, representative, limited, compelling) from reading in the field.",
-          "reteachPrerequisiteId": "voc.evaluative-lexis"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "'Evaluating means finding what is wrong' or 'it is just my opinion'.",
@@ -4777,21 +4730,21 @@
           "kind": "conceptual",
           "revealedBy": "'Prove' and 'demonstrate' used for single empirical studies or correlational findings.",
           "response": "Contrast the near-synonymous verbs by strength and connect them to the evidence each implies.",
-          "reteachPrerequisiteId": "voc.precision-near-synonyms"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "'This is a very, very important issue that is extremely relevant.'",
           "kind": "developmental",
           "revealedBy": "Frequent general intensifiers (very, really, extremely, totally) in written assignments.",
           "response": "Replace intensifiers with precise statements of degree or significance and with evidence; treat this as register development.",
-          "reteachPrerequisiteId": null
+          "reteachPrerequisiteId": "reg.formality-features"
         },
         {
           "pattern": "After hedging instruction, removing every booster so that the main claim lacks commitment.",
           "kind": "overgeneralisation",
           "revealedBy": "Central arguments and well-established facts heavily hedged.",
           "response": "Show that expert writers commit firmly to well-supported and central claims; practise deciding where to boost.",
-          "reteachPrerequisiteId": "sta.hedging"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -5673,16 +5626,18 @@
     "coh.text-patterns and fun.problem-solution overlap (situation–problem–response–evaluation appears in both scope notes). I scope coh.text-patterns as recognising and using the family of patterns as reader expectations, and fun.problem-solution as the problem–solution function and its language; the edge fun.problem-solution ← coh.text-patterns encodes this.",
     "coh.spoken-signposting overlaps lis.lecture-discourse-markers and prs.signposting. I authored it as the shared linguistic resource; I suggest lis.lecture-discourse-markers and prs.signposting take it as a prerequisite rather than the reverse.",
     "coh.writer-responsibility: Hinds's typology is contested. Consider renaming the topic 'Explicitness and reader expectations' so the taxonomy does not appear to endorse a national typology. I suggest idn.intercultural-rhetoric depend on this topic rather than the reverse.",
-    "Cycle-risk edges to check when strands are merged: coh.frame-markers ← ess.essay-structure; coh.paragraph-transitions ← par.topic-sentences; coh.text-patterns ← par.paragraph-unit; coh.writer-responsibility ← wpr.audience-purpose. Each assumes the PAR/ESS/WPR topic is the more foundational one.",
+    "Cycle-risk edges to check at integration: coh.paragraph-transitions ← par.topic-sentences and coh.writer-responsibility ← wpr.audience-purpose assume the PAR/WPR topics are more foundational. I removed earlier edges from par.paragraph-unit and ess.essay-structure because, in other groups' current parts, those topics sit downstream of coh.linking-adverbials and sta.hedging (par.paragraph-unit ← rds.main-ideas ← rds.paragraph-structure-reading ← coh.linking-adverbials). Making the concept of a paragraph depend on reading topics and connectors looks inverted and may be worth reviewing.",
     "fun.describing-process overlaps dat.describing-diagrams; fun.hypothesising overlaps dse.hypothesis-language. The DSE and DAT authors appear to have made their topics depend on the FUN topics, which matches my intended direction.",
-    "fun.describing-structure does not take grm.np-postmodification as a prerequisite because grm.np-postmodification already depends on grm.prepositions in the GRM part, which would make the edge redundant.",
+    "Several FUN topics start at B1 while some grammar and vocabulary prerequisites authored by other groups start at B1+ or B2 (for example voc.evaluative-lexis B2, grm.non-finite-clauses B2, grm.nominalisation B2). I dropped those edges instead of raising the functions' entry levels, since foundation learners meet these functions early; the more advanced realisations (nominalised causation, precise evaluative lexis) remain in the mastery statements.",
     "fun.summarising-concluding overlaps src.summarising-passage, src.summarising-text and ess.conclusions. I scope it as summarising and concluding from the writer's own content; I suggest ess.conclusions depend on it.",
     "fun.recommending and fun.problem-solution overlap grp.business-report and grp.case-study; I suggest those genres depend on these functions.",
     "fun.evaluating and sta.evaluating-others-language overlap. I scope fun.evaluating as general criterion-based evaluation and sta.evaluating-others-language as its application to other scholars' work, linked by sta.evaluating-others-language ← fun.evaluating.",
     "fun.evaluating depends softly on crt.description-analysis-evaluation; the CRT author should not make that topic depend on fun.evaluating.",
+    "crt.description-analysis-evaluation currently depends on fun.explaining (CRT part), and fun.evaluating depends on it; this is acyclic, but the CRT author should not add an edge from fun.evaluating or fun.problem-solution.",
     "sta.metadiscourse is modelled as a synthesising concept learnt after learners have met frame markers and hedging, so it is not a prerequisite of sta.hedging or sta.boosters. If other strands treat it as an entry-point concept, the direction of these edges should be reconsidered.",
     "sta.generalisation-qualification overlaps reg.vague-overgeneralised, num.approximation and the approximator subtype of sta.hedging. I did not link it to reg.vague-overgeneralised because either direction is plausible; I suggest reg.vague-overgeneralised (register awareness) be the prerequisite and this topic the linguistic resource.",
     "sta.self-mention overlaps reg.impersonality-presence heavily. I suggest reg.impersonality-presence depend on sta.self-mention, or that the two be merged; I have not linked them to avoid a cycle.",
+    "Six of my edges are formally implied by longer chains that run through other groups' topics, but each encodes a distinct direct dependency and is kept deliberately: sta.claim-calibration ← sta.hedging, sta.self-mention ← grm.passive-voice, sta.evaluating-others-language ← sta.concession-language, fun.problem-solution ← fun.cause-effect, fun.hypothesising ← grm.epistemic-modality and fun.recommending ← grm.complement-clauses (mandative clauses).",
     "sta.concession-language overlaps arg.rebuttal-concession. I suggest arg.rebuttal-concession depend on sta.concession-language (language resource before argumentative procedure), not the reverse.",
     "sta.averral-attribution and sta.authorial-voice overlap src.voice-boundaries and src.signal-phrases. I suggest the SRC topics take sta.averral-attribution as a prerequisite; I deliberately did not make my topics depend on src.voice-boundaries or idn.academic-identity, to avoid cycles.",
     "sta.code-glosses and fun.exemplifying overlap on exemplification markers. I scope fun.exemplifying as choosing and linking examples and sta.code-glosses as reformulation plus the metadiscourse view of exemplification; the edge sta.code-glosses ← fun.exemplifying encodes this."

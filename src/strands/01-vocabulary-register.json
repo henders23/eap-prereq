@@ -1985,12 +1985,6 @@
       "reason": "Most stance bundles are anticipatory-it frames with extraposed that- or to-clauses; without that grammar the frames are produced ungrammatically."
     },
     {
-      "topicId": "phr.bundles-stance",
-      "prerequisiteId": "sta.metadiscourse",
-      "strength": "soft",
-      "reason": "Understanding writer–reader interaction gives learners the functional categories (hedging, attitude, engagement) for choosing among stance frames."
-    },
-    {
       "topicId": "phr.spoken-academic-formulas",
       "prerequisiteId": "phr.collocation-awareness",
       "strength": "hard",
@@ -2081,12 +2075,6 @@
       "reason": "Learners who still hold 'never use I' as an absolute rule cannot treat presence as a genuine choice; questioning the rule usually comes first."
     },
     {
-      "topicId": "reg.impersonality-presence",
-      "prerequisiteId": "grm.anticipatory-it",
-      "strength": "soft",
-      "reason": "Anticipatory 'it' frames (it was found that, it can be argued that) are a second major impersonal resource whose hidden agency learners must recognise."
-    },
-    {
       "topicId": "reg.information-density",
       "prerequisiteId": "reg.spoken-vs-written",
       "strength": "hard",
@@ -2097,12 +2085,6 @@
       "prerequisiteId": "grm.nominalisation",
       "strength": "hard",
       "reason": "Compressing and unpacking information is largely done by creating and reversing nominalisations."
-    },
-    {
-      "topicId": "reg.information-density",
-      "prerequisiteId": "grm.phrasal-complexity",
-      "strength": "soft",
-      "reason": "Recognising phrasal (rather than clausal) complexity helps learners locate where density accumulates, such as long pre- and post-modified noun phrases."
     },
     {
       "topicId": "reg.vague-overgeneralised",
@@ -2184,12 +2166,6 @@
     },
     {
       "topicId": "voc.word-families-morphology",
-      "prerequisiteId": "voc.high-frequency-base",
-      "strength": "soft",
-      "reason": "Derivational relationships are first learned on familiar stems; learners extend families from words they already know."
-    },
-    {
-      "topicId": "voc.word-families-morphology",
       "prerequisiteId": "grm.clause-elements",
       "strength": "soft",
       "reason": "Choosing the form a slot needs requires identifying the slot's grammatical function (subject head, modifier, adverbial)."
@@ -2205,12 +2181,6 @@
       "prerequisiteId": "voc.high-frequency-base",
       "strength": "hard",
       "reason": "General academic lists such as the AWL are defined as vocabulary beyond the high-frequency base and are learned and used within high-frequency co-text."
-    },
-    {
-      "topicId": "voc.core-academic-vocabulary",
-      "prerequisiteId": "voc.lexical-coverage",
-      "strength": "soft",
-      "reason": "Understanding coverage explains why general academic words are a high-return target after the high-frequency base."
     },
     {
       "topicId": "voc.core-academic-vocabulary",
@@ -2412,21 +2382,9 @@
     },
     {
       "topicId": "voc.university-terminology",
-      "prerequisiteId": "acu.university-structures",
-      "strength": "soft",
-      "reason": "Terms such as module, credit and programme leader label parts of an organisational structure that learners need to understand conceptually."
-    },
-    {
-      "topicId": "voc.university-terminology",
       "prerequisiteId": "acu.teaching-formats",
       "strength": "soft",
       "reason": "Terms such as seminar, tutorial and VLE name teaching formats whose expectations differ between education systems."
-    },
-    {
-      "topicId": "voc.command-words",
-      "prerequisiteId": "crt.description-analysis-evaluation",
-      "strength": "hard",
-      "reason": "Command words index cognitive operations; learners cannot interpret 'analyse' or 'evaluate' without distinguishing description, analysis and evaluation."
     },
     {
       "topicId": "voc.command-words",
@@ -2808,7 +2766,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Several per paragraph, often before routine points.",
           "response": "Ask whether the frame adds information; delete it or replace it with a precise evaluation.",
-          "reteachPrerequisiteId": "sta.metadiscourse"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Frames combined with the wrong complement.",
@@ -3488,7 +3446,7 @@
           "kind": "developmental",
           "revealedBy": "Juxtaposed noun phrases with no stated relation, e.g. 'temperature increase reaction rate change'.",
           "response": "Teach relational verbs and prepositions that link nominal groups (leads to, results in, is associated with, due to).",
-          "reteachPrerequisiteId": "grm.phrasal-complexity"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4103,7 +4061,7 @@
           "kind": "conceptual",
           "revealedBy": "Surprise that common list items are rare in the learner's discipline, or that key discipline words are missing from the list.",
           "response": "Explain how lists are built and why disciplines differ; teach learners to supplement lists from their own readings.",
-          "reteachPrerequisiteId": "voc.lexical-coverage"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -5129,7 +5087,7 @@
           "kind": "affective",
           "revealedBy": "Missed procedures (e.g. extenuating circumstances deadlines) discovered too late.",
           "response": "Normalise asking and show where answers can be found.",
-          "reteachPrerequisiteId": "acu.university-structures"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -5183,8 +5141,8 @@
           "pattern": "'Discuss' means 'give my opinion' or 'write everything I know'.",
           "kind": "prior-schooling",
           "revealedBy": "Opinion essays or descriptive overviews in response to 'discuss' questions.",
-          "response": "Show exemplars and criteria that reward balanced, evidence-based discussion leading to a judgement.",
-          "reteachPrerequisiteId": "crt.description-analysis-evaluation"
+          "response": "Show exemplars and criteria that reward balanced, evidence-based discussion leading to a judgement, and make the description–analysis–evaluation distinction explicit.",
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Commands interpreted from a generic definition list without reading the criteria.",
@@ -5353,7 +5311,8 @@
   ],
   "authorNotes": [
     "phr.bundles-text-oriented overlaps with coh.linking-adverbials and coh.connector-precision. I made phr.bundles-text-oriented depend on coh.linking-adverbials; COH authors should not make coh.linking-adverbials depend on PHR topics.",
-    "phr.bundles-stance overlaps with sta.hedging, sta.boosters and grm.anticipatory-it. I linked it to grm.anticipatory-it (hard) and sta.metadiscourse (soft) only, deliberately not to sta.hedging, so that STA authors can make sta.hedging depend on phr.bundles-stance if they wish without creating a cycle.",
+    "phr.bundles-stance overlaps with sta.hedging, sta.boosters and grm.anticipatory-it. I linked it only to grm.anticipatory-it (hard) and phr.collocation-awareness (hard). A soft link to sta.metadiscourse was removed because, in the current STA draft, sta.metadiscourse sits after sta.hedging, which already depends on grm.anticipatory-it. STA authors may make sta.hedging or sta.boosters depend on phr.bundles-stance without creating a cycle.",
+    "phr.bundles-research-oriented <- phr.collocation-awareness and phr.bundles-stance <- phr.collocation-awareness are formally implied by long cross-group chains (via grm.np-postmodification -> grm.prepositions -> phr.collocation-awareness). I kept them as distinct and important: awareness of multi-word units is the core dependency, and the grammar route is incidental.",
     "phr.spoken-academic-formulas overlaps with lis.lecture-discourse-markers, lis.relevance-markers, coh.spoken-signposting and prs.signposting. Those topics could take it as a prerequisite; I have not linked in the other direction.",
     "The skeleton has no participant-oriented bundle topic as such (Hyland's third category); it is partly covered by phr.bundles-stance. This seems acceptable.",
     "phr.verb-noun-collocation-accuracy is mainly a remediation topic; it could arguably be merged into phr.academic-collocations, but keeping it separate allows a distinct diagnostic and error-log focus.",
@@ -5368,6 +5327,7 @@
     "voc.technical-terminology overlaps with coh.terminological-consistency and fun.defining; I deliberately did not make it depend on fun.defining so that fun.defining can depend on it.",
     "voc.subtechnical-polysemy is marked ESAP; its example 'significant' overlaps with num.statistical-vocabulary.",
     "voc.command-words overlaps with wpr.task-analysis and exm.question-analysis; both should take voc.command-words as a prerequisite rather than the reverse.",
+    "voc.command-words and crt.description-analysis-evaluation: I originally made voc.command-words depend on the CRT topic (command words index cognitive operations), but group 10 has crt.description-analysis-evaluation <- voc.command-words. To avoid a cycle I removed my edge. Either direction is defensible; an integrator should choose one deliberately.",
     "voc.university-terminology overlaps with acu.university-structures, acu.teaching-formats and fbk.assessment-literacy. I made it depend on the two ACU concepts; fbk.assessment-literacy could depend on it.",
     "voc.abbreviations-latin overlaps with cit.author-date-in-text (et al.) and ntk.abbreviations-symbols (note-taking shorthand, a different skill). cit.author-date-in-text could take it as a soft prerequisite.",
     "voc.countability-academic-nouns overlaps with grm.articles, grm.determiners-quantifiers and grm.subject-verb-agreement ('data'). I did not link to those GRM topics so that GRM authors can make grm.articles depend on voc.countability-academic-nouns without a cycle.",

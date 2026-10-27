@@ -1738,12 +1738,6 @@
     },
     {
       "topicId": "rdc.argument-identification",
-      "prerequisiteId": "rds.fact-opinion-claim",
-      "strength": "hard",
-      "reason": "Reconstructing an argument depends on distinguishing claims from the evidence offered for them"
-    },
-    {
-      "topicId": "rdc.argument-identification",
       "prerequisiteId": "coh.connector-precision",
       "strength": "soft",
       "reason": "Reasons, conclusions and counter-arguments are often signalled by causal and contrastive connectors"
@@ -1759,12 +1753,6 @@
       "prerequisiteId": "crt.evidence-types",
       "strength": "hard",
       "reason": "Judging evidence in a text applies knowledge of evidence types and their strengths and limits"
-    },
-    {
-      "topicId": "rdc.evidence-evaluation",
-      "prerequisiteId": "crt.correlation-causation",
-      "strength": "soft",
-      "reason": "Correlational evidence offered for causal claims is among the most common evidential weaknesses readers must detect"
     },
     {
       "topicId": "rdc.assumptions",
@@ -1929,6 +1917,18 @@
       "reason": "The most substantive critical responses often address the assumptions on which an argument rests"
     },
     {
+      "topicId": "rdp.parsing-complex-sentences",
+      "prerequisiteId": "grm.nominalisation",
+      "strength": "hard",
+      "reason": "Unpacking nominalised processes, and the postmodified noun phrases that carry them, into who-did-what clauses is the core operation in parsing compressed academic prose"
+    },
+    {
+      "topicId": "rdp.parsing-complex-sentences",
+      "prerequisiteId": "grm.np-premodification",
+      "strength": "hard",
+      "reason": "Long premodifier strings (noun + noun sequences, participles, adjectives) must be analysed to locate the head noun of academic noun phrases"
+    },
+    {
       "topicId": "rdp.word-recognition",
       "prerequisiteId": "voc.high-frequency-base",
       "strength": "hard",
@@ -1948,12 +1948,6 @@
     },
     {
       "topicId": "rdp.extensive-reading",
-      "prerequisiteId": "voc.high-frequency-base",
-      "strength": "soft",
-      "reason": "Graded and accessible texts are written largely within high-frequency vocabulary, which learners need in order to read them with ease"
-    },
-    {
-      "topicId": "rdp.extensive-reading",
       "prerequisiteId": "voc.lexical-coverage",
       "strength": "soft",
       "reason": "Choosing texts in which nearly all running words are known applies the lexical coverage principle to text selection"
@@ -1963,30 +1957,6 @@
       "prerequisiteId": "rdp.interactive-reading",
       "strength": "soft",
       "reason": "Adjusting reading to purpose rests on understanding comprehension as constructed by the reader to a standard set by their goal"
-    },
-    {
-      "topicId": "rdp.reading-purpose",
-      "prerequisiteId": "lrn.metacognitive-knowledge",
-      "strength": "soft",
-      "reason": "Choosing a reading approach draws on knowledge of task demands and of the strategies available"
-    },
-    {
-      "topicId": "rdp.parsing-complex-sentences",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "hard",
-      "reason": "Finding the core of a long sentence requires identifying subject, verb, object, complement and adverbial"
-    },
-    {
-      "topicId": "rdp.parsing-complex-sentences",
-      "prerequisiteId": "grm.np-postmodification",
-      "strength": "hard",
-      "reason": "Most of the length of academic sentences lies in postmodified noun phrases whose head noun must be located"
-    },
-    {
-      "topicId": "rdp.parsing-complex-sentences",
-      "prerequisiteId": "grm.nominalisation",
-      "strength": "soft",
-      "reason": "Unpacking nominalised processes into who-did-what clauses is a key step in parsing compressed academic prose"
     },
     {
       "topicId": "rdp.background-knowledge",
@@ -2023,12 +1993,6 @@
       "prerequisiteId": "rds.comprehension-monitoring",
       "strength": "soft",
       "reason": "Countering overconfidence after fast screen reading depends on habits of checking one's own comprehension"
-    },
-    {
-      "topicId": "rdp.plurilingual-reading",
-      "prerequisiteId": "idn.plurilingual-repertoire",
-      "strength": "soft",
-      "reason": "Strategic use of other languages in reading applies a broader orientation to the plurilingual repertoire as a resource"
     },
     {
       "topicId": "rdp.plurilingual-reading",
@@ -2098,12 +2062,6 @@
     },
     {
       "topicId": "rds.paragraph-structure-reading",
-      "prerequisiteId": "par.paragraph-unit",
-      "strength": "hard",
-      "reason": "Using paragraph structure as a reading cue requires the concept of a paragraph developing one controlling idea"
-    },
-    {
-      "topicId": "rds.paragraph-structure-reading",
       "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
       "reason": "Development patterns within paragraphs are signalled partly by connectors"
@@ -2113,12 +2071,6 @@
       "prerequisiteId": "coh.text-patterns",
       "strength": "hard",
       "reason": "Recognising organisation while reading applies knowledge of problem–solution, claim–counterclaim and related text patterns"
-    },
-    {
-      "topicId": "rds.text-organisation",
-      "prerequisiteId": "rds.paragraph-structure-reading",
-      "strength": "soft",
-      "reason": "Following whole-text organisation builds on following how individual paragraphs are organised and linked"
     },
     {
       "topicId": "rds.text-organisation",
@@ -2169,18 +2121,6 @@
       "reason": "Resolving reference while reading requires knowing how pronouns and demonstratives refer in English"
     },
     {
-      "topicId": "rds.reference-tracking",
-      "prerequisiteId": "coh.lexical-cohesion",
-      "strength": "soft",
-      "reason": "Reference chains are maintained partly through repetition, synonymy and general nouns"
-    },
-    {
-      "topicId": "rds.reference-tracking",
-      "prerequisiteId": "coh.signalling-nouns",
-      "strength": "soft",
-      "reason": "Interpreting 'this + noun' encapsulation depends on knowing how signalling nouns summarise prior text"
-    },
-    {
       "topicId": "rds.fact-opinion-claim",
       "prerequisiteId": "rds.main-ideas",
       "strength": "soft",
@@ -2200,15 +2140,15 @@
     },
     {
       "topicId": "rds.writer-stance",
-      "prerequisiteId": "src.reporting-verbs",
-      "strength": "soft",
-      "reason": "Reporting verbs carry much of the writer's evaluation of the views they report"
-    },
-    {
-      "topicId": "rds.writer-stance",
       "prerequisiteId": "rds.fact-opinion-claim",
       "strength": "soft",
       "reason": "Judging how strongly a writer commits to a view builds on classifying statements by epistemic status"
+    },
+    {
+      "topicId": "rds.writer-stance",
+      "prerequisiteId": "sta.concession-language",
+      "strength": "soft",
+      "reason": "Concessive structures are where writers acknowledge and then reject or qualify other views, and are the commonest site of misattribution"
     },
     {
       "topicId": "rds.comprehension-monitoring",
@@ -2387,7 +2327,7 @@
           "kind": "developmental",
           "revealedBy": "Outlines in which statistics appear as reasons without a stated point.",
           "response": "Distinguish claim, reason and evidence with labelled examples from the same text.",
-          "reteachPrerequisiteId": "rds.fact-opinion-claim"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Misses the argumentative force of connectors such as thus, however and nevertheless.",
@@ -2462,7 +2402,7 @@
           "kind": "conceptual",
           "revealedBy": "Uncritical acceptance of 'X leads to Y' drawn from cross-sectional survey data.",
           "response": "Teach the correlation–causation distinction with field-relevant examples.",
-          "reteachPrerequisiteId": "crt.correlation-causation"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3474,18 +3414,18 @@
       ],
       "difficulties": [
         {
-          "pattern": "Takes the noun nearest the verb as its subject.",
+          "pattern": "Takes the first noun of a premodified noun phrase as its head (reading 'student writing assessment criteria' as being about students).",
           "kind": "developmental",
-          "revealedBy": "Summaries that attribute actions or properties to the wrong entity.",
-          "response": "Teach head-noun identification in long noun phrases and use subject–verb agreement as a parsing check.",
-          "reteachPrerequisiteId": "grm.np-postmodification"
+          "revealedBy": "Summaries that misidentify what a noun phrase refers to; wrong answers to questions about the subject of a sentence.",
+          "response": "Teach that the head of an English noun phrase is normally its final noun and that preceding nouns classify it; practise rewriting premodifier strings as postmodified phrases (criteria for assessing student writing).",
+          "reteachPrerequisiteId": "grm.np-premodification"
         },
         {
-          "pattern": "Reads a past participle as the main verb (the method used in the study showed…).",
+          "pattern": "Takes the noun nearest the verb as its subject, or reads a past participle as the main verb (the method used in the study showed…).",
           "kind": "developmental",
-          "revealedBy": "Garden-path misreadings of reduced relative clauses.",
-          "response": "Practise reduced relatives by reconstructing the full clause (that was used) and by looking for a second finite verb.",
-          "reteachPrerequisiteId": "grm.clause-elements"
+          "revealedBy": "Summaries attributing actions to the wrong entity; garden-path misreadings of reduced relative clauses.",
+          "response": "Locate the head noun before any postmodifying phrase or clause, use subject–verb agreement as a check, and reconstruct reduced relatives in full (that was used) while looking for a second finite verb.",
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Can gloss every word of a nominalisation but cannot say what process it refers to.",
@@ -3773,7 +3713,7 @@
           "kind": "affective",
           "revealedBy": "Learners hide L1 use or avoid useful L1 resources while understanding little.",
           "response": "Discuss legitimate uses and institutional policy openly, distinguishing support for reading from submitting translated writing.",
-          "reteachPrerequisiteId": "idn.plurilingual-repertoire"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4091,7 +4031,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Confusion with expert paragraphs that open with a counter-view, data or a question.",
           "response": "Show the range of expert paragraph structures and distinguish a writing scaffold from a description of all paragraphs.",
-          "reteachPrerequisiteId": "par.paragraph-unit"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Ignores connectors and treats each sentence as independent.",
@@ -4361,14 +4301,14 @@
           "kind": "developmental",
           "revealedBy": "Summaries that count one study or concept as several.",
           "response": "Trace lexical chains explicitly and discuss how writers vary wording for the same referent.",
-          "reteachPrerequisiteId": "coh.lexical-cohesion"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Reads signalling nouns as neutral labels and misses their evaluation, for example treating 'this claim' as endorsement.",
           "kind": "conceptual",
           "revealedBy": "Summaries that present as established what the writer labelled a claim or assumption.",
           "response": "Discuss how the choice of signalling noun can evaluate as well as refer, using contrasting examples.",
-          "reteachPrerequisiteId": "coh.signalling-nouns"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4492,7 +4432,7 @@
           "kind": "developmental",
           "revealedBy": "Paraphrases that turn 'claims' into 'shows'.",
           "response": "Teach the evaluative range of reporting verbs with contrasting examples from the same text.",
-          "reteachPrerequisiteId": "src.reporting-verbs"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "'Academic writers are neutral, so the writer has no opinion.'",
@@ -4855,7 +4795,9 @@
     "rds.skimming and rds.scanning as two separate topics risk reinforcing the test-driven over-emphasis on speeded strategies relative to careful reading; consider merging them into one 'selective reading' topic or reducing scanning's stage range further (I limited scanning to foundation and pre-sessional).",
     "rds.fact-opinion-claim: the skeleton name preserves the school-level fact/opinion binary that the topic argues against. Suggest renaming to 'Distinguishing claims, evidence and their epistemic status' (I kept the skeleton name and reframed the description).",
     "rds.research-article-navigation deliberately has no edge from res.imrad: the RES group already makes res.imrad depend on rds.research-article-navigation (reading before writing), and a reverse edge would create a cycle. IMRaD knowledge is taught within the navigation topic.",
-    "Prerequisite direction assumptions other groups should respect to avoid cycles: par.paragraph-unit, sta.averral-attribution, src.reporting-verbs, coh.text-patterns, crt.questioning, crt.concept, inf.source-evaluation, ntk.notes-from-reading, dig.machine-translation and lrn.metacognitive-knowledge are used here as prerequisites of reading topics and should not themselves depend (directly or transitively) on the reading topics that use them.",
+    "Prerequisite direction assumptions other groups should respect to avoid cycles: sta.averral-attribution, sta.concession-language, coh.text-patterns, coh.frame-markers, crt.questioning, crt.concept, crt.evidence-types, inf.source-evaluation, inf.citation-chaining, ntk.notes-from-reading, dig.machine-translation and lrn.metacognitive-knowledge are prerequisites of reading topics here and must not come to depend (directly or transitively) on the reading topics that use them.",
+    "Cycles avoided by deferring to other groups: PAR makes par.paragraph-unit depend on rds.main-ideas, so rds.paragraph-structure-reading no longer takes par.paragraph-unit as a prerequisite (reading paragraph structure precedes writing paragraphs). SRC makes src.reporting-verbs depend on rds.writer-stance, so rds.writer-stance no longer takes src.reporting-verbs (sta.concession-language used instead).",
+    "Cycles elsewhere in the current parts, not involving reading edges: crt.questioning <-> sem.questions-clarification (CRT and SEM each list the other); idn.diversity-as-resource -> acu.transition -> idn.intercultural-communication -> (idn.elf ->) idn.diversity-as-resource / acu.transition. rdc.critical-questions depends on crt.questioning, so the CRT/SEM cycle should be resolved by those groups.",
     "Overlap: rdc.multiple-texts and rdc.literature-mapping (reading side) versus syn.synthesis-concept, syn.relating-sources, syn.thematic-grouping and syn.synthesis-matrix (writing side). Recommend the SYN topics take rdc.multiple-texts or rdc.literature-mapping as prerequisites rather than duplicating comparison-across-sources content.",
     "Overlap: rdc.bias-perspective, inf.source-evaluation and crt.cognitive-biases. Suggested scope split: perspective and framing within a text (RDC); authority, currency and provenance of a source (INF); the reader's own biases (CRT).",
     "Overlap: rdc.critical-questions versus crt.questioning. I treat crt.questioning as the general habit and rdc.critical-questions as its text-specific application.",

@@ -3671,7 +3671,9 @@
         "macaro2018emi",
         "dafouzsmit2016"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R1-23 proposed a contexts facet (UK campus, EMI, TNE, bridging) and a learner-profile flag. These are schema changes outside this file; EMI and TNE emphasis is recorded in contextNotes and the LRN and FBK domain records instead."
+      ]
     },
     {
       "topicId": "tst.assessment-purposes",
@@ -4024,7 +4026,8 @@
         "bachmanpalmer2010"
       ],
       "reviewNotes": [
-        "Progression arrangements vary widely; institutions that accept their own pre-sessional outcomes in place of a test for immigration purposes do so under specific regulatory conditions that change."
+        "Progression arrangements vary widely; institutions that accept their own pre-sessional outcomes in place of a test for immigration purposes do so under specific regulatory conditions that change.",
+        "Review response: R1-02 proposed teachingTime and assessedIn fields and a pathways layer with task anchors. These are not in the current schema (the validator rejects extra fields), so they are not added here; the description now names the typical assessed-task anchors (extended source-based project, seminar or presentation, reflective portfolio, timed integrated task) so that a pathways layer can map to them."
       ]
     },
     {

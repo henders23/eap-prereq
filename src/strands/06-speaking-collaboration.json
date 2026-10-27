@@ -117,7 +117,7 @@
       "strand": "Academic Speaking",
       "domain": "Group Work & Collaboration",
       "name": "Roles and planning",
-      "description": "Plan a group project by analysing the task, agreeing ground rules (communication channels, response times, decision-making, quality standards), allocating roles and tasks on the basis of expertise and development goals, and setting milestones with internal deadlines, recorded in a shared place. Explicit early planning reduces later conflict and helps ensure that every member, including multilingual members, has a defined and substantive role.",
+      "description": "Plan a group project by analysing the task, agreeing ground rules (communication channels, response times, decision-making, quality standards), allocating roles and tasks on the basis of expertise and development goals, and setting milestones with internal deadlines, recorded in a shared place. Explicit early planning is intended to reduce later conflict and to ensure that every member, including multilingual members, has a defined and substantive role.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "coreBand": "B1+",
@@ -4305,7 +4305,7 @@
         "partialResponse": "Mentions reading and speaking but frames contributions as correct answers to the tutor's questions.",
         "gapResponse": "Cannot describe what happens in a seminar, or treats it as a lecture with occasional questions."
       },
-      "contextNotes": "At foundation level, emphasise the basic distinctions between lectures, seminars and tutorials and why contribution matters. Pre-sessional UG courses should model the seminar style of the receiving institution and connect it to any assessed seminar. Pre-sessional PG courses should prepare learners for PGT seminars in which contribution may be assessed from the first weeks, and PGT in-sessional support may need to revisit this in week one. In-sessional UG support works best embedded with subject staff, using real module expectations. Participation can take more than one form, including written and online contributions, and criteria should say which forms count.",
+      "contextNotes": "At foundation level, emphasise the basic distinctions between lectures, seminars and tutorials and why contribution matters. Pre-sessional UG courses should model the seminar style of the receiving institution and connect it to any assessed seminar. Pre-sessional PG courses should prepare learners for PGT seminars in which contribution may be assessed from the first weeks, and PGT in-sessional support may need to revisit this in week one. In-sessional UG support can be embedded with subject staff and use real module expectations. Participation can take more than one form, including written and online contributions, and criteria should say which forms count.",
       "citations": [
         "ferristagg1996",
         "morita2004",
@@ -4985,7 +4985,7 @@
             "Make it within the first ten minutes of the seminar",
             "Over several sessions, move to higher-risk contributions such as disagreement or a new idea"
           ],
-          "intendedInsight": "An early, small contribution lowers the barrier to later ones.",
+          "intendedInsight": "An early, small contribution may lower the barrier to later ones.",
           "rationale": "A graded sequence targets fear of negative evaluation (Horwitz et al., 1986) through experiences of success rather than exhortation.",
           "citations": [
             "horwitz1986"
@@ -5035,7 +5035,7 @@
             "Hold a 10-minute discussion following the protocol",
             "Review a recording to find where turn-taking broke down and revise the protocol"
           ],
-          "intendedInsight": "Online turn-taking works better with explicit, agreed conventions.",
+          "intendedInsight": "Explicit, agreed conventions can make online turn-taking easier to manage.",
           "rationale": "Explicit conventions compensate for the reduced non-verbal cues of online interaction, which the Companion Volume treats as a distinct mode (Council of Europe, 2020).",
           "citations": [
             "coe2020"

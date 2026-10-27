@@ -6,21 +6,21 @@
       "strand": "Argument & Critical Thinking",
       "name": "Academic Argumentation",
       "summary": "This domain treats argument as the organising purpose of most assessed academic writing and much academic talk: taking a position, supporting claims with evidence and explicit reasoning, anticipating and answering objections, and sequencing sub-claims into a cumulative case. Hirvela (2017) argues that L2 writing pedagogy has given argumentation less attention than its centrality warrants, and Wingate (2012) found that students often receive feedback on 'argument' without being shown what it consists of. Toulmin's model, argumentation schemes and argument mapping are offered as analytical tools rather than templates, and disciplinary variation in what counts as a good argument (Andrews, 2010) is made explicit.",
-      "learnerSummary": "You will learn what an academic argument is, how to build one from claims, evidence and reasoning, and how to deal fairly and convincingly with other views in writing and in discussion.",
+      "learnerSummary": "You will learn what an academic argument is, how to build one from claims, evidence and reasoning, and how to answer other views fairly in writing and discussion.",
       "stageEmphasis": {
-        "foundation": "Build the concept of argument as a supported position, with simple claim–evidence–explanation links and awareness of how texts persuade.",
-        "in-sessional-ug": "Adapt argument to disciplinary genres and evaluate others' arguments in readings, critiques and seminars.",
+        "foundation": "Build the concept of argument as a supported position, with simple claim–evidence–explanation links in short essays and talks, and awareness of how texts persuade.",
+        "pre-sessional-ug": "Develop a clear, qualified position in the source-based essays used for progression, with counter-argument and concession, and carry these moves into seminar discussion.",
+        "pre-sessional-pg": "Prepare for postgraduate study by sustaining a position across longer source-based assignments, conceding and rebutting with evidence, and evaluating the arguments of research articles.",
+        "in-sessional-ug": "Adapt argument to disciplinary genres, make reasoning explicit for subject readers, and evaluate others' arguments in readings, critiques and dissertations.",
         "in-sessional-pgt": "Construct extended, evidence-dense arguments in assignments and dissertations, making warrants explicit for expert readers and evaluating research arguments.",
-        "pgr": "Sustain a thesis-length argument, position it within scholarly debates and defend it orally in supervision, conferences and the viva.",
-        "pre-sessional-ug": "Develop a sustained, qualified position in source-based essays, with counter-argument, concession and rebuttal, and transfer these moves to seminar discussion.",
-        "pre-sessional-pg": "Develop a sustained, qualified position in source-based essays, with counter-argument, concession and rebuttal, and transfer these moves to seminar discussion."
+        "pgr": "Sustain a thesis-length argument, position it within scholarly debates and defend it orally in supervision, conferences and the viva."
       },
       "keyReferences": [
         "toulmin2003",
         "andrews2010",
         "wingate2012argument",
         "hirvela2017",
-        "qinkarabacak2010",
+        "lancaster2014",
         "walton2006"
       ]
     },
@@ -28,15 +28,15 @@
       "code": "CRT",
       "strand": "Argument & Critical Thinking",
       "name": "Critical Thinking",
-      "summary": "This domain treats critical thinking as a contested, partly discipline-specific set of practices and dispositions — questioning, weighing evidence, recognising inference patterns and their limits, considering perspectives fairly and reflecting on one's own position — that can be made explicit and taught. It deliberately rejects the deficit framing that some groups of learners 'cannot think critically': differences in readiness to critique published work are treated as differences in prior schooling, assessment genres and licence to question, not as cognitive or cultural deficits. The domain supplies the reasoning that the Academic Argumentation domain turns into written and spoken argument.",
-      "learnerSummary": "You will learn what university tutors mean when they ask you to be 'critical', how to question and weigh evidence and reasoning, and how to notice common errors in thinking — including your own.",
+      "summary": "This domain treats critical thinking as a contested, partly discipline-specific set of practices and dispositions — questioning, weighing evidence, recognising inference patterns and their limits, considering perspectives fairly and reflecting on one's own position — that can be made explicit and taught. It rejects the deficit framing that some groups of learners 'cannot think critically': hesitancy to critique published work is common among novice writers of all backgrounds and is treated as a matter of assessment genres, novice status and licence to question, not as a cognitive or cultural deficit. The domain supplies the reasoning that the Academic Argumentation domain turns into written and spoken argument.",
+      "learnerSummary": "You will learn what tutors mean by 'be critical', how to question and weigh evidence and reasoning, and how to notice common errors in thinking, including your own.",
       "stageEmphasis": {
         "foundation": "Make criticality concrete with familiar topics: description versus analysis, simple questions about evidence, and fair representation of different views.",
+        "pre-sessional-ug": "Connect critical moves to progression tasks: questioning sources, moving from description to analysis, and representing views fairly in source-based essays and seminars.",
+        "pre-sessional-pg": "Recalibrate to postgraduate criticality: decode 'be more critical' feedback, question research evidence and designs, and evaluate sources for literature-based assignments.",
         "in-sessional-ug": "Embed criticality in disciplinary tasks with module exemplars, especially during the first-year transition when 'be more critical' feedback first appears.",
         "in-sessional-pgt": "Accelerate recalibration to master's-level expectations: evaluating research designs, competing theories and contested literatures from the first assignment.",
-        "pgr": "Focus on evaluating and positioning theory, reflexivity, and the epistemological commitments of one's own research.",
-        "pre-sessional-ug": "Connect critical moves to progression tasks — source-based writing, seminars and extended projects — using the course's own criteria and exemplars.",
-        "pre-sessional-pg": "Connect critical moves to progression tasks — source-based writing, seminars and extended projects — using the course's own criteria and exemplars."
+        "pgr": "Focus on evaluating and positioning theory, reflexivity, and the epistemological commitments of one's own research."
       },
       "keyReferences": [
         "facione1990",
@@ -50,15 +50,15 @@
       "code": "IDN",
       "strand": "Academic Socialisation, Identity & Communication",
       "name": "Identity, Plurilingualism & Intercultural Competence",
-      "summary": "This domain addresses who learners are as academic language users: how writing and speaking construct identity, how plurilingual repertoires can be used strategically, how English functions as a lingua franca in international universities, and how intercultural and rhetorical differences can be understood without stereotyping. It adopts a resource rather than a deficit orientation, treats culture as dynamic, multiple and partly institutional rather than as fixed national traits, and presents contrastive rhetoric and native-speaker norms as historically influential but contested. Several topics are as much curriculum principles for teachers as content for learners, and are written so that they can serve both.",
-      "learnerSummary": "You will explore how academic writing and speech shape the way you present yourself, how to use all your languages as resources, and how to communicate confidently across differences without relying on stereotypes.",
+      "summary": "This domain addresses who learners are as academic language users: how writing and speaking construct identity, how plurilingual repertoires can be used strategically from the start of study, when other languages and Englishes may appear in academic texts, how English functions as a lingua franca and in established World Englishes, and how intercultural and rhetorical differences can be understood without stereotyping. It adopts a resource rather than a deficit orientation, treats culture as dynamic, multiple and partly institutional, names native-speakerism and racialised language judgements, and presents contrastive rhetoric and language separation in assessed texts as contested. Several topics pair a learner skill with a curriculum principle for teachers (audience 'both'), and practice differs in EMI and transnational programmes, where other languages are often part of everyday study.",
+      "learnerSummary": "You will explore how your writing and speech present you and how to use all your languages as resources. You will also practise communicating across differences without stereotypes.",
       "stageEmphasis": {
-        "foundation": "Build confidence in multilingual repertoires and intercultural group work as learners enter English-medium study, often for the first time.",
-        "in-sessional-ug": "Support inclusive group work, emerging disciplinary voice and resource-oriented participation for home and international students alike.",
+        "foundation": "Start from learners' own languages: map and use plurilingual repertoires, collaborate inclusively in multilingual groups, and discuss in simple terms whose English counts and when other languages may appear in writing.",
+        "pre-sessional-ug": "Address transition and emerging academic identity alongside lingua franca interaction in multilingual cohorts, and clarify when other languages may be used in assessed work.",
+        "pre-sessional-pg": "Prepare for postgraduate study as multilingual scholars: use literatures in several languages, discuss native-speakerism and legitimacy, and begin to articulate a disciplinary identity.",
+        "in-sessional-ug": "Support inclusive group work, emerging disciplinary voice and resource-oriented participation for home and international students alike, including first-generation and mature students.",
         "in-sessional-pgt": "Help highly international cohorts negotiate identity, intercultural collaboration and unfamiliar expectations within a short programme.",
-        "pgr": "Focus on researcher identity, publishing as a multilingual scholar and positioning within global scholarly communities.",
-        "pre-sessional-ug": "Address transition, academic identity and explicit conventions alongside lingua franca interaction in multilingual cohorts.",
-        "pre-sessional-pg": "Address transition, academic identity and explicit conventions alongside lingua franca interaction in multilingual cohorts."
+        "pgr": "Focus on researcher identity, multilingual and translingual scholarship, publishing as a multilingual scholar and positioning within global scholarly communities."
       },
       "keyReferences": [
         "ivanic1998",
@@ -108,14 +108,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -151,9 +150,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -238,14 +237,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -292,11 +291,11 @@
       "stageRoles": {
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -333,13 +332,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -386,10 +385,10 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -410,7 +409,8 @@
         "Calibrates the strength of the position to the evidence available",
         "Maintains the same position from introduction to conclusion, signalling and explaining any qualification",
         "Links each body section explicitly to the position",
-        "Reaches a judgement in discussion-type tasks rather than ending with an undecided summary"
+        "Reaches a judgement in discussion-type tasks rather than ending with an undecided summary",
+        "Explains where the target genre expects the position to be stated, recognising delayed or emergent theses as conventions of some genres and writing traditions rather than failures of logic"
       ],
       "assessmentPrompt": "Ask the learner to read only the introduction, the conclusion and the first sentence of each body paragraph of their own draft, and then state their position. Check whether the position is clear, consistent between introduction and conclusion, and visible at the start of each body section.",
       "citations": [
@@ -433,13 +433,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -490,11 +490,11 @@
       "stageRoles": {
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -536,7 +536,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -576,7 +576,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -630,9 +630,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -672,9 +672,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -717,11 +717,11 @@
       "stageRoles": {
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -756,12 +756,12 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -794,15 +794,15 @@
             "B2",
             "C1"
           ],
-          "contribution": "component"
+          "contribution": "related"
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -813,24 +813,35 @@
       "type": "STRATEGIC",
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
-      "name": "Critical questioning",
-      "description": "Habitually interrogate claims, texts, data and one's own ideas with questions such as how do we know, according to whom, compared with what, under what conditions and so what. Questioning is the generative engine of critical reading, analysis and research, and can be practised as a deliberate routine before it becomes a disposition.",
+      "name": "Critical questioning and question sets",
+      "description": "Habitually interrogate claims, texts, data and one's own ideas with questions such as how do we know, according to whom, compared with what, under what conditions and so what; when reading, apply a compact question set to a text's purpose and audience, claims, evidence and reasoning, assumptions and perspective, omissions, and usefulness for the reader's purpose. Question sets are scaffolds to be adapted to the discipline and task rather than checklists, and questioning can be practised as a deliberate routine before it becomes a habit of mind.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Generates, unprompted, questions about the evidence, source, scope and implications of a short text or claim, going beyond comprehension questions",
-        "Selects the two or three questions most consequential for a given task rather than applying a full checklist mechanically",
-        "Formulates questions accurately and with enough mitigation to use them in seminars, supervision and peer review",
+        "Generates, unprompted, questions about the evidence, source, scope, assumptions and implications of a short text or claim, going beyond comprehension questions",
+        "Applies a compact question set to a text and answers each question with specific reference to the text",
+        "Adapts generic questions into questions specific to the text and discipline, and selects the two or three most consequential for the reading or writing purpose",
+        "Formulates questions accurately and with appropriate mitigation, orally or in writing, for use in seminars, supervision and peer review",
         "Applies the same questions to their own draft claims, not only to other people's texts",
-        "Turns a productive question into a line of inquiry, such as a targeted search, a comparison or a paragraph"
+        "Turns a productive question into a next step, such as a targeted search, a seminar contribution, a comparison or the plan of a critique"
       ],
-      "assessmentPrompt": "Give the learner a one-sentence, headline-style claim containing a statistic and two minutes to write as many questions about it as they can. Then ask them to star the one question whose answer would most change their judgement. Look for questions about source, sample, comparison, causation and scope, and for a starred choice the learner can justify.",
+      "assessmentPrompt": "Give the learner a 100–150-word source extract containing a headline-style claim and a statistic, and a stated purpose (for example, deciding whether to cite it in an essay). Ask for five questions they would want answered, then answers to the two most important, with reference to the text. Look for questions about source, sample, comparison, causation, assumptions and scope rather than comprehension, answers grounded in the text, and a justified choice of which questions matter most for the purpose.",
       "citations": [
         "facione1990",
-        "wallacewray2016"
+        "wallacewray2016",
+        "walton2006"
       ],
       "frameworks": [
+        {
+          "key": "cefr-cv:rec.read.information-argument",
+          "levels": [
+            "B1+",
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
         {
           "key": "acrl:inquiry",
           "contribution": "related"
@@ -841,12 +852,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -882,14 +893,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -926,9 +937,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -969,11 +980,17 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "sciences",
+        "health-medicine",
+        "psychology",
+        "social-sciences",
+        "economics"
+      ]
     },
     {
       "id": "crt.fallacies",
@@ -1010,7 +1027,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -1050,7 +1067,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1097,13 +1114,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1124,7 +1141,7 @@
         "Describes how what counts as knowledge differs between at least two disciplines",
         "Uses provisional language appropriately where knowledge in a field is contested"
       ],
-      "assessmentPrompt": "Give two short abstracts that reach conflicting conclusions on the same question and ask: 'Which should we believe, and how would you decide?' Note whether the learner defers to authority or recency (absolutist), treats the matter as opinion (multiplist) or proposes criteria such as design, sample and context (evaluativist).",
+      "assessmentPrompt": "Give two short abstracts that reach conflicting conclusions on the same question and ask: 'Which should we believe, and how would you decide?' Note which criteria the learner proposes — authority, recency, design, sample, context — and whether they compare the support behind each claim. Use the answer to plan teaching, not to place the learner at a developmental stage.",
       "citations": [
         "hoferpintrich1997",
         "perry1970",
@@ -1144,7 +1161,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1183,10 +1200,10 @@
       ],
       "stageRoles": {
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "core",
+        "pgr": "core"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1226,13 +1243,18 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "business-management",
+        "law",
+        "social-sciences",
+        "education"
+      ]
     },
     {
       "id": "crt.problem-solving",
@@ -1266,7 +1288,11 @@
       },
       "coreBand": "B1+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "engineering",
+        "business-management",
+        "computing"
+      ]
     },
     {
       "id": "crt.reflexivity",
@@ -1305,9 +1331,13 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "social-sciences",
+        "education",
+        "health-medicine"
+      ]
     },
     {
       "id": "idn.academic-identity",
@@ -1323,7 +1353,7 @@
         "Identifies linguistic choices in a text that construct the writer as, for example, a cautious researcher, an authoritative expert or a student reporting others' work",
         "Describes how they want to present themselves in a specific assignment and the linguistic choices that would achieve this",
         "Explains the distinction between autobiographical self, discoursal self and self as author with examples from their own writing",
-        "Articulates tensions between existing identities and disciplinary expectations and identifies options for negotiating them"
+        "Articulates a tension between existing identities and disciplinary expectations — in their own writing or, if they prefer, in a published or case account of another writer — and identifies options for negotiating it"
       ],
       "assessmentPrompt": "Give the learner two short paragraphs reporting the same finding — one using 'I argue', calibrated hedges and evaluative citation, the other using impersonal constructions and heavy reliance on sources. Ask what kind of writer each constructs, which they would choose for a named assignment, and why. Look for links between specific linguistic features and identity effects, and a choice justified by genre and discipline.",
       "citations": [
@@ -1337,9 +1367,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1349,14 +1379,14 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Drawing on a plurilingual repertoire",
-      "description": "Use all one's languages strategically for academic learning — reading and note-making across languages, discussing ideas in shared languages, planning with the first language and checking terminology bilingually — while meeting the language requirements and rules of each assessment. Whether assessed texts may themselves be translingual (for example, quoting and glossing sources in other languages, or mixing languages in reflective genres) is contested and varies by task, and learners can ask. Treating the repertoire as an integrated resource supports comprehension, conceptual depth and confidence.",
-      "cefrStart": "B1",
+      "description": "Use all one's languages strategically for academic learning — reading and note-making across languages, discussing ideas in shared languages, planning in the first language and checking terminology bilingually — while meeting the language rules of each assessment. Whether assessed texts may themselves be translingual (for example quoting and glossing sources in other languages, or mixing languages in reflective genres) is contested and varies by task (see Translingual writing), and learners can ask. Treating the repertoire as an integrated starting resource, rather than as interference, supports comprehension, conceptual depth and confidence from the first stage of study.",
+      "cefrStart": "A2+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Describes how they currently use each of their languages in study and evaluates which uses help or hinder learning",
         "Uses sources in other languages to build conceptual understanding alongside English sources, checking key terms across languages",
-        "Plans or brainstorms in any language and transforms the plan into well-formed English academic text",
+        "Plans or brainstorms in any language, chooses a composing route (direct composition, partial or full translation) that suits the task and the rules, and produces well-formed text in the required language",
         "Uses shared languages productively in group work while keeping peers who do not share them included",
         "Distinguishes permitted plurilingual strategies from uses that breach module rules, such as submitting machine-translated text where this is prohibited"
       ],
@@ -1394,7 +1424,7 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
@@ -1411,7 +1441,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "English as a lingua franca in academia",
-      "description": "Understand that much academic communication in English takes place among multilingual users for whom English is a shared additional language; that effectiveness in such interaction depends on intelligibility, accommodation and negotiation of meaning rather than conformity to a native-speaker model; and that all participants, including first-language English users, share responsibility for mutual understanding.",
+      "description": "Understand that much academic communication in English takes place among multilingual users for whom English is a shared additional language, and that many users speak established varieties such as Indian, Nigerian or Singaporean English as a first or dominant language; that effectiveness in such interaction depends on intelligibility, accommodation and negotiation of meaning rather than conformity to a native-speaker model; and that all participants, including first-language English users, share responsibility for mutual understanding.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1452,7 +1482,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1558,8 +1588,8 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
-      "audience": "learner",
+      "coreBand": "B2+",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -1568,14 +1598,14 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Linguistic diversity as resource",
-      "description": "Recognise and challenge deficit framings that treat multilingual students as lacking (language, critical thinking, autonomy), and understand linguistic and cultural diversity as a resource for learning, collaboration and knowledge-making. For learners, this means recognising the assets in their own repertoires and experience; for programmes, it means making academic expectations explicit for all students rather than remediating some.",
+      "description": "Recognise and respond to deficit framings that present multilingual students — or first-generation, mature and other non-traditional home students — as lacking language, critical thinking or autonomy, and identify the linguistic, educational and intercultural resources in one's own and peers' backgrounds that can contribute to learning, collaboration and knowledge-making. As a curriculum principle for teachers and programmes, it means making academic expectations explicit for all students rather than remediating some.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies deficit framings in descriptions of international or multilingual students (e.g. in group-work comments or media reports) and explains why they are problematic",
         "Describes specific resources their own linguistic and educational background brings to their study",
-        "Explains why academic literacy conventions are new to most students, including first-language English users",
+        "Explains why academic literacy conventions are new to most students, including first-language English users and first-generation students",
         "Contributes perspectives or sources from other linguistic contexts to discussions and assignments where relevant"
       ],
       "assessmentPrompt": "Show a statement such as 'International students struggle with critical thinking and need remedial support.' Ask the learner to evaluate it. Look for identification of the overgeneralisation, recognition that criticality is a learnable academic convention that is new to many students, and an alternative framing based on explicit teaching for all.",
@@ -1604,7 +1634,7 @@
         "pgr": "develop"
       },
       "coreBand": "B1",
-      "audience": "learner",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -1613,13 +1643,14 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Standards, native-speakerism and legitimacy",
-      "description": "Examine critically the assumption that native-speaker English is the benchmark for academic English, distinguishing the conventions of academic genres (which all writers must learn) from nativeness, and understanding how native-speakerism, gatekeeping and language ideologies, including the tendency to judge the same English differently depending on a speaker's perceived race, nationality or accent, affect assessment, publication and participation. This enables learners to claim legitimacy as multilingual academic users while making informed choices about conventions.",
-      "cefrStart": "B2",
+      "description": "Examine critically the assumption that native-speaker English is the benchmark for academic English, distinguishing the conventions of academic genres (which all writers must learn) from nativeness, recognising established World Englishes as legitimate varieties, and understanding how native-speakerism, gatekeeping and language ideologies — including the tendency to judge the same English differently depending on a speaker's perceived race, nationality or accent — affect assessment, publication and participation. This enables learners to claim legitimacy as multilingual academic users while making informed choices about conventions.",
+      "cefrStart": "B1+",
       "cefrEnd": "C2",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Distinguishes features expected because of genre and disciplinary convention from those expected merely because they sound native-like",
-        "Explains native-speakerism and gives an example of how it can operate in academic settings (feedback, peer assessment, group roles)",
+        "Explains native-speakerism, including how judgements of accent, nativeness or \"appropriateness\" can be racialised, and gives an example of how it can operate in academic settings (feedback, peer assessment, group roles)",
+        "Distinguishes features of established varieties of English (for example Indian, Nigerian or Singaporean English) from learner errors, and explains when genre conventions rather than variety determine the expected form",
         "Evaluates institutional language policies or feedback comments for assumptions about native-speaker norms",
         "Describes how multilingual scholars navigate English-medium publishing, including the role of literacy brokers and the inequities involved",
         "Makes and justifies informed choices about when to conform to and when to question conventions in their own writing"
@@ -1628,19 +1659,75 @@
       "citations": [
         "holliday2006",
         "jenkins2014",
-        "lilliscurry2010"
+        "lilliscurry2010",
+        "floresrosa2015"
       ],
       "frameworks": [],
       "stageRoles": {
+        "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
-      "audience": "learner",
+      "coreBand": "B2+",
+      "audience": "both",
       "disciplines": []
+    },
+    {
+      "id": "idn.translingual-writing",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation, Identity & Communication",
+      "domain": "Identity, Plurilingualism & Intercultural Competence",
+      "name": "Translingual writing and code-meshing",
+      "description": "Understand translingual approaches in which writers deliberately bring other languages or Englishes into academic texts — glossing a term from another language, quoting a source in the original with a translation, writing in an established local variety of English, meshing languages in reflective or creative genres, or submitting work in more than one language where a programme allows it — and judge where such choices are accepted, contested or prohibited. Treating language separation in assessed texts as a convention that varies by task, genre and institution, rather than as a universal rule, lets writers make informed choices and negotiate them with tutors and readers.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C2",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "both",
+      "masteryEvidence": [
+        "Identifies translingual choices in a published or student text (glosses, original-language quotation, code-meshing, local varieties of English) and explains the effect each has on the intended reader",
+        "Sorts possible translingual choices for a given assignment into those the brief, genre and module rules permit, those that are unclear and those that are prohibited, citing the relevant guidance or a tutor's answer",
+        "Presents a term or quotation from another language in an English-medium text with an accurate gloss or translation, a citation of the original source and an indication of who translated it",
+        "Explains the case for treating language difference in writing as a resource and the reasons some tasks, readers and assessment regimes require language separation, giving one argument on each side",
+        "Negotiates a translingual choice with a tutor or reader, for example by asking in advance or by adding a brief note that explains the choice's purpose"
+      ],
+      "assessmentPrompt": "Give the learner a reflective-writing brief, the module's language rules and a draft paragraph that contains an untranslated phrase from another language. Ask whether the phrase should stay, be glossed or be removed, and how they would check. Look for a decision grounded in genre, reader and rules rather than a blanket 'never use other languages' or 'anything goes', an accurate gloss if the phrase stays, and a plan to confirm with the tutor where the rules are unclear.",
+      "citations": [
+        "canagarajah2013",
+        "hornerluroyster2011",
+        "canagarajah2011codemeshing",
+        "garciawei2014"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:plu.plurilingual-repertoire",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.text.translating",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
     }
   ],
   "dependencies": [
@@ -2071,22 +2158,10 @@
       "reason": "Learners usually meet concrete choices about impersonality and authorial presence before reflecting on how such choices construct identity"
     },
     {
-      "topicId": "idn.academic-identity",
-      "prerequisiteId": "acu.academic-literacies",
-      "strength": "soft",
-      "reason": "The academic literacies view of writing as social practice involving identity and power frames identity as a legitimate object of study"
-    },
-    {
       "topicId": "idn.diversity-as-resource",
       "prerequisiteId": "acu.transition",
       "strength": "soft",
       "reason": "Deficit framings are most often encountered and internalised during transition to a new educational context, which learners need to have reflected on"
-    },
-    {
-      "topicId": "idn.plurilingual-repertoire",
-      "prerequisiteId": "idn.diversity-as-resource",
-      "strength": "soft",
-      "reason": "Using all one's languages strategically depends on first seeing the multilingual repertoire as an asset rather than an interference"
     },
     {
       "topicId": "idn.plurilingual-repertoire",
@@ -2098,7 +2173,7 @@
       "topicId": "idn.elf",
       "prerequisiteId": "idn.diversity-as-resource",
       "strength": "soft",
-      "reason": "Understanding lingua franca effectiveness builds on rejecting deficit views of non-native varieties"
+      "reason": "Understanding lingua franca effectiveness builds on rejecting deficit views of multilingual users' English"
     },
     {
       "topicId": "idn.elf",
@@ -2151,14 +2226,38 @@
     {
       "topicId": "crt.questioning",
       "prerequisiteId": "rdc.critical-reading",
-      "strength": "hard",
-      "reason": "Critical question sets operationalise an understanding of what critical reading involves"
+      "strength": "soft",
+      "reason": "Text-specific question sets apply the stance of critical reading, so learners need a working sense of what reading critically involves"
     },
     {
-      "topicId": "crt.questioning",
-      "prerequisiteId": "rdc.argument-identification",
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "hard",
+      "reason": "Bringing other languages into a text extends the strategic use of the plurilingual repertoire from the writing process to the text itself"
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "idn.standards-legitimacy",
       "strength": "soft",
-      "reason": "Questions about claims, reasons and evidence presuppose that these can be located in the text"
+      "reason": "Judging when a translingual choice is legitimate draws on distinguishing genre conventions from native-speaker norms"
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "idn.intercultural-rhetoric",
+      "strength": "soft",
+      "reason": "Seeing rhetorical conventions as situated and changeable rather than as deficits underpins informed choices to depart from or mix them"
+    },
+    {
+      "topicId": "idn.diversity-as-resource",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "soft",
+      "reason": "Recognising diversity as a resource builds on learners first mapping the resources in their own repertoires"
+    },
+    {
+      "topicId": "idn.academic-identity",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "soft",
+      "reason": "Reflecting on writer identity draws on awareness of how one already uses different languages and literacies, which repertoire mapping makes explicit"
     }
   ],
   "guidance": [
@@ -2198,7 +2297,7 @@
         {
           "pattern": "'An argument is a fight — it would be rude to argue in an essay.'",
           "kind": "conceptual",
-          "revealedBy": "Avoidance of any stance; reluctance to disagree with sources.",
+          "revealedBy": "Avoidance of any stance; essays that report sources accurately but never commit to an answer.",
           "response": "Contrast everyday and academic senses of 'argument'; show measured, hedged arguments in exemplars.",
           "reteachPrerequisiteId": null
         },
@@ -2223,7 +2322,7 @@
         "partialResponse": "A topic statement such as 'This essay discusses the advantages and disadvantages of…'.",
         "gapResponse": "Cannot answer, or restates the essay title."
       },
-      "contextNotes": "Foundation and pre-sessional courses should establish the concept early and return to it in every writing task. In undergraduate in-sessional settings, show what argument looks like in each discipline's genres. PGT and PGR learners usually understand the concept but need to see how it applies to dissertations and research articles.",
+      "contextNotes": "Foundation and UG pre-sessional courses, where the topic is core, should establish the concept early and return to it in every writing task; PG pre-sessional courses can move quickly from the concept to its realisation in longer source-based assignments. In undergraduate in-sessional settings, revisit the concept by showing what argument looks like in each discipline's genres, including reports and lab write-ups. PGT learners usually control the concept and need only brief recalibration for dissertations; PGR provision assumes it.",
       "citations": [
         "wingate2012argument",
         "andrews2010",
@@ -2403,9 +2502,9 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'In my country…' or 'Everyone knows…' used as the main support.",
+          "pattern": "'In my experience…' or 'Everyone knows…' used as the main support.",
           "kind": "prior-schooling",
-          "revealedBy": "Personal experience and general knowledge used where research evidence is expected, often carried over from test essays.",
+          "revealedBy": "Personal experience and general knowledge used where research evidence is expected, often carried over from timed test essays that invite examples from the writer's own knowledge or experience.",
           "response": "Show where personal experience is acceptable (e.g. reflective genres) and where research evidence is expected; practise locating sources for claims first supported by experience.",
           "reteachPrerequisiteId": "crt.evidence-types"
         },
@@ -2423,7 +2522,7 @@
         "partialResponse": "Gives an example or general statement without explaining the link.",
         "gapResponse": "Restates the claim in different words."
       },
-      "contextNotes": "Foundation learners benefit from PEEL-type scaffolds. Pre-sessional learners practise source-based support. Undergraduates learn disciplinary evidence norms; PGT learners must handle research evidence at higher density; PGR learners support original claims with their own data.",
+      "contextNotes": "Foundation and UG pre-sessional learners, for whom the topic is core, benefit from point–evidence–explanation scaffolds and source-based practice. PG pre-sessional learners extend this to research evidence. Undergraduate in-sessional and PGT learners revisit it as evidence density and disciplinary norms increase; PGR learners revisit it when supporting original claims with their own data.",
       "citations": [
         "kuhn1991",
         "wingate2012argument"
@@ -2550,7 +2649,7 @@
         "partialResponse": "A plausible but weak or vague objection.",
         "gapResponse": "No objection, or a restatement of the thesis."
       },
-      "contextNotes": "Foundation learners can practise simple objection generation orally. Pre-sessional learners apply it in argumentative essays and seminars. Undergraduates use it in critiques; PGT learners in literature reviews and discussion sections; PGR learners in anticipating examiner and reviewer questions.",
+      "contextNotes": "Foundation learners can practise simple objection generation orally. The topic is core on UG and PG pre-sessional courses, in argumentative essays and seminars. Undergraduates use it in critiques; PGT learners in literature reviews and discussion sections; PGR learners revisit it when anticipating examiner and reviewer questions.",
       "citations": [
         "kuhn1991",
         "qinkarabacak2010"
@@ -2618,7 +2717,7 @@
         "partialResponse": "Concedes without rebutting, or denies without evidence.",
         "gapResponse": "Abandons the position or ignores the objection."
       },
-      "contextNotes": "Pre-sessional learners practise these moves in essays and seminars. Undergraduates use them in critiques; PGT learners in discussion sections and literature reviews; PGR learners in responding to examiners and journal reviewers.",
+      "contextNotes": "UG pre-sessional learners practise these moves in essays and seminars; on PG pre-sessional courses the topic is core because critiques and literature-based assignments depend on it. Undergraduates use the moves in critiques; PGT learners in discussion sections and literature reviews; PGR learners revisit them when responding to examiners and journal reviewers.",
       "citations": [
         "qinkarabacak2010",
         "martinwhite2005",
@@ -2686,13 +2785,13 @@
         "partialResponse": "A vague or topic-only statement.",
         "gapResponse": "'It depends', with no further judgement, or no answer."
       },
-      "contextNotes": "Foundation learners work towards a clear thesis. Pre-sessional learners sustain a position across extended essays. Undergraduates adapt positions to disciplinary genres; PGT learners sustain positions in dissertations; PGR learners articulate the position of a whole thesis.",
+      "contextNotes": "Foundation learners work towards a clear thesis. The topic is core on UG and PG pre-sessional courses, where sustaining a position across extended source-based essays is usually assessed for progression. Undergraduates adapt positions to disciplinary genres; PGT learners sustain positions in dissertations; PGR learners articulate the position of a whole thesis.",
       "citations": [
         "wingate2012argument",
         "lancaster2014"
       ],
       "reviewNotes": [
-        "Conventions differ on where and how explicitly a position is stated (e.g. delayed or emergent theses in some humanities writing)."
+        "Conventions differ on where and how explicitly a position is stated (for example delayed or emergent theses in some humanities writing and in some other writing traditions); the added mastery statement carries the argument-structure point from idn.intercultural-rhetoric (R1-11)."
       ]
     },
     {
@@ -2755,7 +2854,7 @@
         "partialResponse": "Explains it chronologically or by importance without logical links.",
         "gapResponse": "Gives no rationale."
       },
-      "contextNotes": "Pre-sessional extended essays and projects (2,000–4,000 words) are often learners' first experience of extended argument. Undergraduates meet it in long essays and dissertations; PGT learners in dissertations; PGR learners must sustain an argument across thesis chapters.",
+      "contextNotes": "UG and PG pre-sessional extended essays and projects (2,000–4,000 words) are often learners' first experience of extended argument. The topic is core where long assessed texts dominate: undergraduate long essays and dissertations, PGT dissertations and PGR theses, where an argument must be sustained across chapters.",
       "citations": [
         "andrews2010",
         "wingate2012argument"
@@ -2945,7 +3044,7 @@
         "partialResponse": "Repeats the original point without engaging the counter-example.",
         "gapResponse": "Abandons the position or cannot respond."
       },
-      "contextNotes": "Pre-sessional courses often assess seminar participation. Undergraduates argue orally in seminars and tutorials; PGT learners in discussion-heavy modules; PGR learners in supervision, conference Q&A and the viva.",
+      "contextNotes": "Pre-sessional courses often assess seminar participation. Undergraduates argue orally in seminars and tutorials; PGT learners in discussion-heavy modules. The topic is core for PGR learners, who must defend arguments in supervision, conference Q&A and the viva. Accept prepared and written contributions (for example posting a position in an online forum before discussion) as ways of showing the skill, since real-time turns are harder for some learners, including some autistic, anxious or hearing-impaired students.",
       "citations": [
         "basturkmen2002",
         "ferristagg1996",
@@ -2988,7 +3087,7 @@
         {
           "pattern": "Treating every task as a debate to be won.",
           "kind": "prior-schooling",
-          "revealedBy": "Dismissive treatment of sources in literature reviews; adversarial tone in seminars.",
+          "revealedBy": "Dismissive treatment of sources in literature reviews and an adversarial tone in seminars, often carried over from debate formats or test essays that reward persuasive advocacy.",
           "response": "Contrast orientations explicitly with exemplars from both.",
           "reteachPrerequisiteId": "crt.multiple-perspectives"
         },
@@ -3063,10 +3162,10 @@
           "reteachPrerequisiteId": "arg.argument-mapping"
         },
         {
-          "pattern": "Either harsh, unmitigated criticism of published work or excessive deference.",
-          "kind": "prior-schooling",
-          "revealedBy": "Evaluative language that is too strong or absent.",
-          "response": "Teach evaluative patterns that pair acknowledgement with critique ('While X offers…, it does not…').",
+          "pattern": "Evaluative language pitched at the wrong strength: either sweeping dismissal ('This study is useless') or praise and hedging so heavy that no judgement is visible.",
+          "kind": "developmental",
+          "revealedBy": "Critiques whose conclusions do not match the weaknesses identified, or that identify weaknesses without ever stating how much they matter; common among novice writers of all language backgrounds.",
+          "response": "Teach evaluative patterns that pair acknowledgement with critique ('While X offers…, it does not…') and have learners match the strength of each evaluative phrase to the seriousness of the weakness they have identified.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -3076,7 +3175,7 @@
         "partialResponse": "Identifies the flaw but rejects the conclusion because of it.",
         "gapResponse": "Accepts the argument as strong because the conclusion is true."
       },
-      "contextNotes": "Pre-sessional learners evaluate arguments in critical reading tasks. Undergraduates write critiques of single texts; PGT learners evaluate arguments across literatures and in critical appraisal; PGR learners evaluate others' work as peer reviewers and anticipate evaluation of their own.",
+      "contextNotes": "Pre-sessional learners (UG and PG) evaluate arguments in critical reading tasks. The topic is core for undergraduates writing critiques of single texts and for PGT learners evaluating arguments across literatures and in critical appraisal; PGR learners develop it further as peer reviewers and in anticipating evaluation of their own work.",
       "citations": [
         "johnsonblair2006",
         "walton2006",
@@ -3127,8 +3226,8 @@
         {
           "pattern": "'In my previous exams, marks came from reproducing the textbook accurately, so I'm not sure when I'm allowed to evaluate a source.'",
           "kind": "prior-schooling",
-          "revealedBy": "Reluctance to evaluate published sources, heavy deference language, and accurate summaries with no comment.",
-          "response": "Treat this as a difference in assessment genres and in the licence to question, not in ability: point out the evaluation learners already do in other domains, show that evaluating published work is an expected and licensed move in the target context, and teach mitigated forms of critique. Do not frame learners' educational backgrounds as lacking critical thinking or contrast 'Western' and 'non-Western' thinkers; such framings are native-speakerist and empirically unfounded.",
+          "revealedBy": "Accurate summaries with no comment and heavy hedging whenever a published source is discussed; common among novice university writers of all backgrounds, including first-language English students, when assessment has rewarded reproduction.",
+          "response": "Treat this as a difference in assessment genres and in the licence to question, not in ability: point out the evaluation learners already do in other domains, show that evaluating published work is an expected and licensed move in the target context, and teach mitigated forms of critique. Do not frame learners' educational backgrounds as lacking critical thinking or contrast 'Western' and 'non-Western' thinkers; such framings are native-speakerist and over-generalise (Holliday, 2006).",
           "reteachPrerequisiteId": "acu.academic-expectations"
         },
         {
@@ -3145,7 +3244,7 @@
         "partialResponse": "Gives a generic formula such as 'analyse, don't describe' without a concrete example tied to the task.",
         "gapResponse": "Equates being critical with criticising the source or with giving a personal opinion."
       },
-      "contextNotes": "At foundation level, keep the focus on concrete, low-stakes evaluation of familiar texts and data. Pre-sessional courses should tie the concept directly to progression criteria. Undergraduate in-sessional work is most effective when co-taught or embedded with subject tutors using module exemplars. PGT learners need rapid recalibration because master's criteria weight criticality heavily from the first assignment; for PGR learners, criticality shades into originality and positioning within a field.",
+      "contextNotes": "At foundation level, keep the focus on concrete, low-stakes evaluation of familiar texts and data. UG pre-sessional courses should tie the concept to progression criteria; on PG pre-sessional courses it is core because master's and research programmes weight criticality heavily. It is also core in undergraduate in-sessional work, best embedded with subject tutors using module exemplars, and for PGT learners, who need rapid recalibration from the first assignment. PGR learners revisit it as criticality shades into originality and positioning within a field.",
       "citations": [
         "moore2013",
         "facione1990",
@@ -3216,31 +3315,46 @@
         "partialResponse": "Analysis and evaluation are blurred, or the evaluative sentence is an unsupported opinion.",
         "gapResponse": "Three descriptive sentences differing only in the detail reported."
       },
-      "contextNotes": "At foundation level, use familiar topics and simple data so that language load does not mask the conceptual distinction. Pre-sessional courses should connect the distinction to progression-task criteria. In undergraduate in-sessional settings, use module exemplars because the appropriate balance varies by genre (a results section is legitimately descriptive). PGT learners often need rapid recalibration because master's criteria weight evaluation heavily.",
+      "contextNotes": "The topic is core at foundation and on UG and PG pre-sessional courses, where \"too descriptive\" feedback first appears; at foundation, use familiar topics and simple data so that language load does not mask the conceptual distinction, and on pre-sessional courses connect it to progression-task criteria. In undergraduate in-sessional settings, use module exemplars because the appropriate balance varies by genre (a results section is legitimately descriptive). PGT learners revisit it quickly because master's criteria weight evaluation heavily.",
       "citations": [
         "andersonkrathwohl2001",
         "bereiter1987",
         "wingate2012argument"
       ],
       "reviewNotes": [
-        "The proportion of description that is acceptable varies strongly by genre and discipline; no single ratio should be taught."
+        "The proportion of description that is acceptable varies strongly by genre and discipline; no single ratio should be taught.",
+        "Review response: R6-13 lists the 'Reports and essays' link as decorative. It is kept, downgraded to 'related', because that scale's B2–C1 range concerns evaluating ideas and giving reasons, which is this topic's central distinction; no more specific CEFR scale covers analytical and evaluative moves in writing."
       ]
     },
     {
       "topicId": "crt.questioning",
-      "summary": "Questioning links the dispositional side of critical thinking in Facione's consensus (inquisitiveness, open-mindedness) to concrete reading and writing behaviour. Generic question sets, such as Wallace and Wray's critical synopsis questions for postgraduate reading, are useful scaffolds, but learners should progressively select and adapt questions to disciplinary purposes rather than run full checklists. Linguistic support matters: learners who can form indirect and mitigated questions are more able to ask them aloud in seminars and supervision.",
+      "summary": "Questioning links the dispositional side of critical thinking in Facione's consensus (inquisitiveness, open-mindedness, self-regulation) to concrete reading, writing and discussion. Compact question sets, such as Wallace and Wray's critical synopsis questions for postgraduate reading, and Walton's critical questions attached to common argument types, are useful scaffolds; reciprocal teaching illustrates the value of routines that are modelled and then handed over (Palincsar & Brown, 1984). Teach a small set, model its use on a text, and then have learners select and adapt questions to their discipline and purpose rather than run full checklists. Language support matters too: learners who can form indirect and mitigated questions are better placed to ask them aloud or in writing in seminars, supervision and peer review.",
       "activities": [
         {
           "title": "Question storming, then pruning",
           "learnerActions": [
             "In pairs, generate as many questions as possible about a short abstract in four minutes without evaluating them",
-            "Categorise the questions (comprehension, evidence, method, scope, implication, own position)",
+            "Categorise the questions (comprehension, evidence, method, scope, assumption, implication, own position)",
             "Prune to the three questions most useful for a given assignment and explain the choice"
           ],
           "intendedInsight": "Not all questions are equally productive; the most useful critical questions target evidence, reasoning and relevance to the task.",
-          "rationale": "Separating generation from selection supports fluency and then judgement; the categories echo the critical questions Wallace and Wray propose for postgraduate readers.",
+          "rationale": "Separating generation from selection is intended to build fluency and then judgement; the categories echo the critical questions Wallace and Wray propose for postgraduate readers.",
           "citations": [
             "wallacewray2016"
+          ]
+        },
+        {
+          "title": "Applying and adapting a question set",
+          "learnerActions": [
+            "Apply a five-question set (purpose, claims, evidence, assumptions, usefulness) to a short text from their field and answer each question with reference to the text",
+            "Discuss which questions were most productive for this text and which needed rewording for the discipline",
+            "Rewrite the set as a personal version for their own field and test it on a second text"
+          ],
+          "intendedInsight": "A question set makes critical reading manageable, but it works best when adapted to the text, the discipline and the purpose.",
+          "rationale": "Adapts Wallace and Wray's critical synopsis approach; handing the set over for adaptation follows the modelling-then-transfer logic of reciprocal teaching.",
+          "citations": [
+            "wallacewray2016",
+            "palincsarbrown1984"
           ]
         },
         {
@@ -3261,37 +3375,41 @@
         {
           "pattern": "'I don't have any questions — I understood the text.'",
           "kind": "conceptual",
-          "revealedBy": "Silence when invited to question a reading; reading logs that contain only summary.",
-          "response": "Reframe questions as contributions rather than admissions of confusion; model a tutor questioning a text they fully understand; provide question stems.",
+          "revealedBy": "Silence when invited to question a reading; reading logs and question lists containing only comprehension questions that can be answered by locating information in the text.",
+          "response": "Reframe questions as contributions rather than admissions of confusion. Contrast comprehension and evaluative questions on the same text, model a tutor questioning a text they fully understand, and provide question stems.",
+          "reteachPrerequisiteId": "rdc.critical-reading"
+        },
+        {
+          "pattern": "Questions that sound like accusations ('Why is your sample so small?') or are buried in a long preamble, so that the question is not heard.",
+          "kind": "developmental",
+          "revealedBy": "Defensive responses from peers or tutors, questions that go unanswered, and learners who decide to keep their questions to themselves.",
+          "response": "Teach a small set of question frames ('It is not clear how…', 'I wondered whether…', 'How would the findings change if…?') and practise them first in writing, for example in a shared document or chat, before seminars. Accept written questions as legitimate participation, which also suits learners for whom real-time oral turns are difficult (for example some autistic learners, people who stammer and anxious speakers). Do not treat spontaneous oral questioning as the only evidence of the skill.",
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'It would be disrespectful to question a professor's published work.'",
-          "kind": "prior-schooling",
-          "revealedBy": "Questions limited to clarification; strong deference language when sources are discussed.",
-          "response": "Show that published work is written to be scrutinised and that reviewers and authors expect questions; teach mitigated forms ('I wondered whether…', 'It is not clear how…'). Treat this as a difference in classroom norms, not a cultural deficit.",
-          "reteachPrerequisiteId": null
-        },
-        {
-          "pattern": "Applying the same full question checklist to every text regardless of purpose.",
+          "pattern": "Applying the same full checklist, or generic questions such as 'Is the author biased?', to every text regardless of purpose.",
           "kind": "overgeneralisation",
-          "revealedBy": "Long, generic lists of questions in notes, many irrelevant to the task, with no follow-up.",
-          "response": "Require learners to choose a small number of questions for a stated purpose and to act on at least one.",
+          "revealedBy": "Long, uniform question lists and formulaic answers across very different texts, many irrelevant to the task, with no follow-up.",
+          "response": "Require learners to choose a small number of questions for a stated purpose and discipline, adapt their wording to the text, and act on at least one.",
           "reteachPrerequisiteId": "crt.description-analysis-evaluation"
         }
       ],
       "diagnostic": {
-        "task": "Give a 100-word source extract and ask for three questions the learner would want answered before citing it in an essay.",
-        "strongResponse": "Questions target evidence, scope or reasoning and are relevant to the stated essay purpose.",
-        "partialResponse": "A mixture of comprehension questions and generic ones such as 'Is the author biased?' with no link to the text.",
+        "task": "Give a 100-word source extract and a purpose, and ask for five questions the learner would want answered before citing it, followed by answers to two of them.",
+        "strongResponse": "Questions target evidence, scope, assumptions or implications and are relevant to the stated purpose; the answers are grounded in the text.",
+        "partialResponse": "A mixture of comprehension questions and generic ones such as 'Is the author biased?' with little link to this text, or evaluative questions answered from opinion rather than the text.",
         "gapResponse": "Only vocabulary or comprehension questions, or none."
       },
-      "contextNotes": "At foundation level, use question stems with familiar topics. Pre-sessional courses can link questioning to reading-into-writing tasks and seminar preparation. Undergraduate learners apply it to module readings and seminars; PGT learners to research designs and methods; PGR learners to framing research questions and to self-questioning before supervision.",
+      "contextNotes": "At foundation, where the topic is core, use question stems and short, accessible texts on familiar topics. On UG pre-sessional courses, link questioning to reading-into-writing tasks and seminar preparation; on PG pre-sessional courses, extend the question set to research articles (design, sample, generalisability) and to critical synopses. Undergraduate in-sessional learners apply it to module readings and seminars; PGT learners to research designs and methods; PGR learners are assumed to question habitually and mainly adapt question sets to the norms of their field and to self-questioning before supervision.",
       "citations": [
         "facione1990",
-        "wallacewray2016"
+        "wallacewray2016",
+        "walton2006",
+        "palincsarbrown1984"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Reciprocal teaching was developed and tested with younger readers; it is cited here as a model of modelling and handing over questioning routines, not as evidence of outcomes for adult EAP learners."
+      ]
     },
     {
       "topicId": "crt.evidence-types",
@@ -3326,10 +3444,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "'A famous professor said it, so it is strong evidence.'",
-          "kind": "prior-schooling",
-          "revealedBy": "Justifying claims by prestige; reliance on quotations from authorities in place of data.",
-          "response": "Use expert-opinion critical questions; distinguish the authority of a source from the evidence it reports.",
+          "pattern": "'It was published in a top journal by a well-known expert, so it must be strong evidence for my claim.'",
+          "kind": "conceptual",
+          "revealedBy": "Claims justified by the prestige of the source or author rather than by what the source reports; quotations from authorities used in place of data.",
+          "response": "Use the critical questions for arguments from expert opinion and have learners state what evidence the cited source actually reports; distinguish the standing of a source from the strength of the evidence it provides for this particular claim.",
           "reteachPrerequisiteId": "inf.source-types"
         },
         {
@@ -3353,7 +3471,7 @@
         "partialResponse": "Names relevant data but cannot explain why anecdote is weak or overlooks the need for comparison.",
         "gapResponse": "Offers opinions or a single example as evidence."
       },
-      "contextNotes": "Foundation learners can work with everyday and news claims. Pre-sessional learners apply the topic in source-based writing. Undergraduate in-sessional work should use disciplinary norms; PGT learners engage with research designs and, in health fields, formal evidence hierarchies; PGR learners justify the evidence their own designs produce.",
+      "contextNotes": "The topic is core at foundation, where learners work with everyday and news claims, and on PG pre-sessional courses, where research evidence and design first become central. UG pre-sessional learners develop it in source-based writing. Undergraduate in-sessional work should use disciplinary norms; PGT learners engage with research designs and, in health fields, formal evidence hierarchies; PGR learners revisit it when justifying the evidence their own designs produce.",
       "citations": [
         "sackett1996",
         "walton2006",
@@ -3680,7 +3798,7 @@
         "partialResponse": "Gives a weak or token objection that is easy to dismiss.",
         "gapResponse": "Cannot produce one, or caricatures the opposing view."
       },
-      "contextNotes": "At foundation level, use everyday issues and stakeholder role-play. Pre-sessional learners apply the skill in discussion essays and seminars. Undergraduates engage with disciplinary debates; PGT learners with competing theoretical and policy positions; PGR learners position their own work among schools of thought.",
+      "contextNotes": "At foundation level, use everyday issues and stakeholder role-play. The topic is core on UG pre-sessional courses, where discussion essays and seminars assess fair representation; PG pre-sessional learners develop it through literature-based tasks. Undergraduates engage with disciplinary debates; PGT and PGR learners revisit it as they position their own work among competing theoretical, policy and methodological schools.",
       "citations": [
         "kuhn1991",
         "facione1990",
@@ -3722,10 +3840,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "'Just tell me the right answer.'",
+          "pattern": "'What answer is the tutor actually looking for?' — treating an open question as if it had a hidden correct answer.",
           "kind": "prior-schooling",
-          "revealedBy": "Frustration with open questions; requests for model answers; reproduction of lecture content as the answer.",
-          "response": "Acknowledge that exam-oriented schooling in many systems, including the UK's, rewards correct answers; then show explicitly how university tasks reward evaluation. Do not attribute the expectation to national culture.",
+          "revealedBy": "Requests for model answers, frustration with open questions and reproduction of lecture content as the answer, typically after assessment regimes with fixed mark schemes that reward a single correct answer.",
+          "response": "Acknowledge that exam systems in many countries, including the UK's school-leaving examinations, reward correct answers, and that first-year students from all backgrounds meet this shift. Show explicitly, with marked exemplars, how university tasks reward reasoned evaluation. Do not attribute the expectation to national culture or treat it as a lower developmental stage.",
           "reteachPrerequisiteId": "crt.concept"
         },
         {
@@ -3742,7 +3860,7 @@
         "partialResponse": "Says one must be wrong or that it is a matter of opinion, but mentions some relevant criterion.",
         "gapResponse": "Defers entirely to the more senior expert or concludes that no judgement is possible."
       },
-      "contextNotes": "At foundation level, tutors should frame open questions explicitly and reassure learners that there is no single expected answer. Pre-sessional courses often manage the shift from test preparation. Undergraduate first-year transition is a key point; PGT learners meet contested literatures immediately; PGR learners articulate epistemological positions (paradigms) in their methodology.",
+      "contextNotes": "At foundation level, tutors should frame open questions explicitly and reassure learners that there is no single expected answer. UG pre-sessional courses often manage the shift from test preparation; PG pre-sessional courses can introduce contested literatures and research paradigms. Undergraduate first-year transition is a key point; PGT learners meet contested literatures immediately; PGR learners articulate epistemological positions (paradigms) in their methodology.",
       "citations": [
         "hoferpintrich1997",
         "perry1970",
@@ -3793,8 +3911,8 @@
         },
         {
           "pattern": "Reporting a widely cited theory as established fact beyond evaluation.",
-          "kind": "prior-schooling",
-          "revealedBy": "Theories presented with boosters ('X proved that…') and no limitations.",
+          "kind": "conceptual",
+          "revealedBy": "Theories presented with boosters ('X proved that…') and no limitations, often reflecting textbook or lecture presentations of theories as settled.",
           "response": "Show published critiques and model mitigated evaluative language; reinforce that frameworks are provisional tools.",
           "reteachPrerequisiteId": "crt.epistemic-beliefs"
         }
@@ -3875,7 +3993,7 @@
         "partialResponse": "Makes a general link without specific evidence.",
         "gapResponse": "Summarises the event or defines the concept without connecting them."
       },
-      "contextNotes": "At foundation level, use simple models (e.g. SWOT, supply and demand) with structured tables. Pre-sessional learners on subject-specific pathways practise case-based writing. Undergraduates apply concepts in case studies and problem questions; PGT learners in consultancy-style reports and assignments; PGR learners use analytical frameworks in data-analysis chapters.",
+      "contextNotes": "At foundation level, use simple models (e.g. SWOT, supply and demand) with structured tables; pre-sessional learners on subject-specific UG and PG pathways practise case-based writing. The topic is core for undergraduates, who apply concepts in case studies and problem questions; PGT learners extend it in consultancy-style reports and assignments; PGR learners revisit it when using analytical frameworks in data-analysis chapters.",
       "citations": [
         "maton2013",
         "gardnernesi2013"
@@ -3978,9 +4096,9 @@
       "difficulties": [
         {
           "pattern": "'Good research is objective, so I should not mention myself.'",
-          "kind": "prior-schooling",
+          "kind": "conceptual",
           "revealedBy": "No reflexive commentary in qualitative projects; discomfort with first-person writing about the research process.",
-          "response": "Explain that expectations depend on paradigm and genre; show disciplinary exemplars, noting that some quantitative genres legitimately include little reflexive commentary.",
+          "response": "Explain that expectations depend on paradigm and genre, and that the belief is reasonable in some research traditions; show disciplinary exemplars, noting that some quantitative genres legitimately include little reflexive commentary.",
           "reteachPrerequisiteId": "crt.epistemic-beliefs"
         },
         {
@@ -4033,7 +4151,7 @@
         {
           "title": "Writing histories",
           "learnerActions": [
-            "Write a short reflection on their writing history across languages and educational contexts",
+            "Write a short reflection on their writing history across languages and educational contexts, or analyse a published account of another multilingual writer's history if they prefer not to disclose their own",
             "Describe the kind of writer they want to become in their discipline",
             "Share in small groups and identify common tensions and strategies"
           ],
@@ -4060,10 +4178,10 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'I'm only a student, so I can't evaluate published research.'",
-          "kind": "affective",
-          "revealedBy": "Deferential positioning; summaries without evaluation; reluctance to claim originality.",
-          "response": "Show that the role of evaluator is expected of students in the target context and model how to evaluate with appropriate mitigation.",
+          "pattern": "'If identity matters, I should write about my personal background in my essay.'",
+          "kind": "conceptual",
+          "revealedBy": "Autobiographical digressions in argumentative or report genres, or personal disclosures that the task did not ask for.",
+          "response": "Distinguish the autobiographical self from the discoursal self and the self as author (Ivanič, 1998): in most genres identity is constructed through stance, citation and self-mention choices rather than personal narrative. Show where personal experience is a genre expectation, as in reflective writing, and make clear that learners decide what, if anything, to disclose.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -4073,17 +4191,19 @@
         "partialResponse": "Gives a vague aim ('professional', 'academic') with few linked features.",
         "gapResponse": "Shows no awareness that writing constructs an identity."
       },
-      "contextNotes": "Pre-sessional courses can introduce identity through self-mention and stance choices. Undergraduates develop disciplinary voice; PGT learners often negotiate professional identities alongside academic ones; PGR learners build researcher identity and a scholarly voice, often across languages.",
+      "contextNotes": "UG and PG pre-sessional courses can introduce identity through self-mention and stance choices. Undergraduates develop disciplinary voice; PGT learners often negotiate professional identities alongside academic ones. The topic is core for PGR learners, who build researcher identity and a scholarly voice, often across languages. At every stage, offer case-based routes so that no learner has to disclose sensitive aspects of identity to show mastery.",
       "citations": [
         "ivanic1998",
         "tangjohn1999",
         "morita2004"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Graph note: the soft edge from acu.academic-literacies (in-sessional only, B2+) was removed because it gated this pre-sessional B2 topic behind an in-sessional one; a soft edge from idn.plurilingual-repertoire now links identity to learners' existing language practices. Cross-group recommendation: ACU authors could add acu.academic-literacies <- idn.academic-identity (soft), and STA authors sta.authorial-voice <- idn.academic-identity (soft); both were checked for cycles against the current graph."
+      ]
     },
     {
       "topicId": "idn.plurilingual-repertoire",
-      "summary": "García and Li Wei's account of translanguaging treats bilinguals' languages as an integrated repertoire and argues for pedagogies that leverage it rather than enforce strict separation; Canagarajah's translingual practice similarly emphasises the negotiation strategies through which multilingual users make meaning. The CEFR Companion Volume's plurilingual and pluricultural scales give institutional recognition to such competence. In EAP, the task is to help learners make these practices deliberate and transparent while meeting assessment requirements that usually require English output.",
+      "summary": "García and Li Wei's account of translanguaging treats bilinguals' languages as an integrated repertoire and argues for pedagogies that leverage it rather than enforce strict separation; Canagarajah's translingual practice similarly emphasises the negotiation strategies through which multilingual users make meaning. The CEFR Companion Volume's plurilingual and pluricultural scales give institutional recognition to such competence. Whether finished assessed texts must be monolingual is a contested pedagogical and institutional choice rather than a settled finding, and research comparing translation with direct composition is mixed: Kobayashi and Rinnert found that lower-proficiency writers' translated essays were rated higher on content and organisation than their directly composed ones. In EAP, help learners make these practices deliberate and transparent, and check each assessment's rules.",
       "activities": [
         {
           "title": "Language-use audit",
@@ -4122,10 +4242,10 @@
           "reteachPrerequisiteId": "idn.diversity-as-resource"
         },
         {
-          "pattern": "Composing whole texts in the first language and then translating them.",
-          "kind": "performance",
-          "revealedBy": "Calqued syntax, register mismatches and, where machine translation is used, possible breaches of module rules.",
-          "response": "Encourage first-language planning and note-making with English drafting; check module rules on translation tools. Do not ban first-language use outright.",
+          "pattern": "Using one composing route for every task — always translating a full first-language draft, or never using the first language at all — without checking what works for the task, the rules and their current proficiency.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Drafts with calqued syntax or register mismatches where a full translation was not needed, or long stalls where planning in the first language would have helped; occasionally machine-translated text where module rules prohibit it.",
+          "response": "Present the evidence on translation versus direct composition as mixed and dependent on proficiency and task, and have learners trial both routes on short tasks and compare the results. Check module rules on translation tools. Do not ban first-language drafting outright.",
           "reteachPrerequisiteId": null
         },
         {
@@ -4142,14 +4262,17 @@
         "partialResponse": "Gives a vague description without any checking.",
         "gapResponse": "Says they never use other languages, or that they translate everything."
       },
-      "contextNotes": "Foundation learners, often new to English-medium study, benefit from explicit permission to use their repertoires. Pre-sessional courses can establish rules and strategies early. Undergraduates and PGT learners apply them in reading-heavy modules and multilingual groups; PGR learners often work with multilingual literatures and data, where transparent translation becomes a methodological issue.",
+      "contextNotes": "At foundation, where the topic is core, learners new to English-medium study benefit from explicit permission to use their repertoires, with lower-level learners making the most extensive use of the first language for planning and comprehension. UG and PG pre-sessional courses can establish rules and strategies early. Undergraduates and PGT learners apply them in reading-heavy modules and multilingual groups; PGR learners often work with multilingual literatures and data, where transparent translation becomes a methodological issue. In EMI and transnational programmes, shared first languages are often used routinely in teaching and study, and institutional rules differ.",
       "citations": [
         "garciawei2014",
         "canagarajah2013",
-        "coe2020"
+        "coe2020",
+        "kobayashirinnert1992"
       ],
       "reviewNotes": [
-        "Institutional policies on machine translation and generative AI vary widely; learners must check module-level rules."
+        "Institutional policies on machine translation and generative AI vary widely; learners must check module-level rules.",
+        "Kobayashi and Rinnert (1992) studied Japanese university EFL writers on a small number of tasks; their result shows that the advice to compose directly in English is not settled, not that translation is generally better.",
+        "Cross-group edge recommendations (R5-02, checked for cycles): rdp.plurilingual-reading should take idn.plurilingual-repertoire as a soft prerequisite, and dig.machine-translation should depend on rdp.plurilingual-reading rather than the reverse."
       ]
     },
     {
@@ -4177,7 +4300,7 @@
             "Debrief on which moves helped most"
           ],
           "intendedInsight": "Accommodation is a skill that all participants can develop and share responsibility for.",
-          "rationale": "Jenkins argues that responsibility for intelligibility in international universities should not rest only on non-native speakers.",
+          "rationale": "Jenkins argues that responsibility for intelligibility in international universities should not rest only on users of English as an additional language.",
           "citations": [
             "jenkins2014"
           ]
@@ -4195,7 +4318,7 @@
           "pattern": "'Lingua franca research means grammar doesn't matter in my essays.'",
           "kind": "overgeneralisation",
           "revealedBy": "Dismissal of feedback on written accuracy after learning about lingua franca communication.",
-          "response": "Distinguish spoken interaction from assessed written genres and discuss the tension openly.",
+          "response": "Distinguish spoken interaction from assessed written genres and discuss the tension openly: genre conventions still apply in assessed writing, but feedback should target clarity and convention, not nativeness.",
           "reteachPrerequisiteId": null
         },
         {
@@ -4344,7 +4467,7 @@
         "partialResponse": "Mixes situated explanations with national generalisations.",
         "gapResponse": "Explains differences by fixed national thought patterns."
       },
-      "contextNotes": "On pre-sessional courses, keep the treatment brief and practical, focused on conventions as learnable. Undergraduates and PGT learners benefit from comparing genres across their languages. PGR learners who publish internationally or read multilingual literatures can engage with the debate in more depth.",
+      "contextNotes": "On UG and PG pre-sessional courses, keep the treatment brief and practical, focused on conventions as learnable choices. Undergraduates and PGT learners benefit from comparing genres across their languages. PGR learners who publish internationally or read multilingual literatures can engage with the debate in more depth. The topic also serves as a curriculum principle for teachers: materials should not explain learners' writing through national thought patterns.",
       "citations": [
         "kaplan1966",
         "connor2004",
@@ -4352,7 +4475,9 @@
         "hinds1987"
       ],
       "reviewNotes": [
-        "Evidence for systematic cross-linguistic rhetorical differences exists for some genres and features, but findings vary with genre and corpus design; single studies should not be generalised to whole languages."
+        "Evidence for systematic cross-linguistic rhetorical differences exists for some genres and features, but findings vary with genre and corpus design; single studies should not be generalised to whole languages.",
+        "Review response: R5-02 notes that foundation learners have no access to this topic. The Kaplan–Connor–Kubota debate is kept at B2 and above because it is conceptually and linguistically demanding; its foundation-appropriate core — that conventions are learnable and differ by context, not markers of deficit — is carried at foundation by idn.standards-legitimacy, idn.diversity-as-resource and idn.translingual-writing. The topic is no longer a leaf: idn.translingual-writing now takes it as a soft prerequisite.",
+        "Review response: R5-21 asks for the Hinds/Connor/Kubota discussion to be moved here from coh.writer-responsibility; the summary already covers Hinds's typology. A coh.writer-responsibility <- idn.intercultural-rhetoric edge is not recommended because it would create a cycle in the current graph."
       ]
     },
     {
@@ -4409,24 +4534,26 @@
         "partialResponse": "Gives a generic answer ('different perspectives').",
         "gapResponse": "Names only difficulties."
       },
-      "contextNotes": "At foundation and pre-sessional stages, emphasise confidence and assets during transition. Undergraduate in-sessional work should include home students and address group positioning. PGT learners benefit from using comparative perspectives in assignments; PGR learners from drawing on multilingual literatures and contexts.",
+      "contextNotes": "At foundation and on UG and PG pre-sessional courses, emphasise confidence and assets during transition. Undergraduate in-sessional work should include home students — among them first-generation, mature and part-time students — and address group positioning. PGT learners benefit from using comparative perspectives in assignments; PGR learners from drawing on multilingual literatures and contexts. For teachers, the topic is primarily a principle for course design: explicit teaching of conventions for everyone rather than targeted remediation.",
       "citations": [
         "wingate2015",
         "leki2001",
         "holliday2006"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R1-10 recommends audience 'teacher' and moving the content into a domain-level principles block. The topic is set to 'both': its learner-facing skill (recognising deficit framings and mapping one's own resources) has observable mastery evidence and now sits early in the graph after idn.plurilingual-repertoire (R5-02), while the programme-facing principle is stated separately in the description. A principles block in domains.json is a schema change left to the integrator."
+      ]
     },
     {
       "topicId": "idn.standards-legitimacy",
-      "summary": "Holliday defines native-speakerism as an ideology that positions 'native-speaker' teachers and norms as the source of correct English and of good teaching methodology, often accompanied by the othering of 'non-native' learners. Jenkins's study of international universities shows how English language policies and entry requirements continue to assume native English norms despite lingua franca realities, and Lillis and Curry's study of multilingual scholars shows how English-medium publishing, including reliance on literacy brokers, reproduces inequities. EAP practitioners face a genuine tension between equipping learners with valued conventions and questioning norms; this topic makes that tension explicit rather than resolving it by fiat.",
+      "summary": "Holliday defines native-speakerism as an ideology that positions 'native-speaker' teachers and norms as the source of correct English and of good teaching methodology, often accompanied by the othering of 'non-native' learners. Flores and Rosa show that judgements of whose language is 'appropriate' are shaped by raciolinguistic ideologies, so that racialised speakers can be heard as deficient even when their language matches the expected norm, and Kachru's work on outer-circle Englishes established that varieties such as Indian or Nigerian English have their own norms rather than being failed approximations. Jenkins's study of international universities shows how language policies and entry requirements continue to assume native English norms, and Lillis and Curry show how English-medium publishing, including reliance on literacy brokers, reproduces inequities. EAP practitioners face a genuine tension between equipping learners with valued conventions and questioning norms; this topic makes that tension explicit rather than resolving it by fiat.",
       "activities": [
         {
           "title": "Convention or nativeness?",
           "learnerActions": [
-            "Sort a set of feedback comments or editing changes into those grounded in genre convention or clarity and those grounded only in native-likeness",
+            "Sort a set of feedback comments or editing changes into those grounded in genre convention or clarity, those grounded only in native-likeness, and those that treat an established World English form as an error",
             "Discuss borderline cases",
-            "Rewrite one nativeness-based comment so that it identifies a communicative problem, or decide that no change is needed"
+            "Rewrite one nativeness-based comment so that it identifies a communicative or genre problem, or decide that no change is needed"
           ],
           "intendedInsight": "Some expectations are legitimate genre conventions; others reflect an ideology of nativeness.",
           "rationale": "Jenkins shows that academic English policies often conflate nativeness with standards.",
@@ -4477,37 +4604,147 @@
         "partialResponse": "Qualifies the claim but without a clear distinction.",
         "gapResponse": "Agrees without qualification."
       },
-      "contextNotes": "Advanced pre-sessional and undergraduate learners can address the topic through feedback and group-work examples. PGT learners can examine institutional language policies; PGR learners engage most directly through publication, peer review and the politics of English-medium scholarship.",
+      "contextNotes": "At foundation, a simplified version works well: learners compare feedback that names a clarity or genre problem with feedback that appeals to sounding native, and carry out a simple needs-and-rights analysis of their own course (what is assessed, what support they are entitled to, whom to ask), in the spirit of Benesch's rights analysis. UG and PG pre-sessional and undergraduate in-sessional learners can address the topic through feedback and group-work examples. PGT learners can examine institutional language policies; PGR learners engage most directly through publication, peer review and the politics of English-medium scholarship. As a curriculum principle, it asks teachers to give feedback on clarity and convention rather than nativeness, and not to mark established varieties of English as errors.",
       "citations": [
         "holliday2006",
         "jenkins2014",
-        "lilliscurry2010"
+        "lilliscurry2010",
+        "floresrosa2015",
+        "kachru1985",
+        "benesch2001"
       ],
       "reviewNotes": [
-        "EAP positions on how far to accommodate non-standard forms in assessed writing vary; this topic presents the debate rather than prescribing assessment policy."
+        "EAP positions on how far to accommodate non-standard forms in assessed writing vary; this topic presents the debate rather than prescribing assessment policy.",
+        "Review response: R1-10 suggests retagging this topic to PGT and PGR only. That is declined in favour of R5-02, which asks for the standards-legitimacy discussion to be open to foundation learners in simplified form; the topic is 'both' audience, with a learner skill at every stage and a curriculum principle for teachers.",
+        "Cross-group edge recommendation (R5-14, checked for cycles): cit.citation-politics could take idn.standards-legitimacy as a soft prerequisite, since questioning whose English counts prepares learners to ask whose scholarship is cited."
+      ]
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "summary": "Horner and colleagues argue for a translingual approach to writing that treats difference in language as a resource for making meaning rather than as error to be removed, and Canagarajah's account of translingual practice, together with his analysis of a multilingual student's code-meshed writing, presents meshing as a deliberate, rhetorical choice that writers can learn to make and must negotiate with readers. García and Li Wei extend translanguaging from the learning process to the texts learners produce, while Flores and Rosa warn that 'appropriateness' framings — keep your other languages for their proper place — can still position racialised writers as deficient whatever language they use. How far translingual texts are accepted remains contested and varies by genre, assessor and institution, so teach learners to read the rules, weigh the rhetorical effect and negotiate, rather than either banning other languages or promising that anything goes.",
+      "activities": [
+        {
+          "title": "Translingual choices in published texts",
+          "learnerActions": [
+            "Examine extracts from published academic, reflective or creative texts that gloss terms, quote in the original language or mesh languages and Englishes",
+            "Note what each choice does for the argument and the reader, and what support (gloss, translation, explanatory note) the writer provides",
+            "Decide which choices would suit their own next assignment and which would need a tutor's agreement first"
+          ],
+          "intendedInsight": "Translingual choices can be purposeful rhetorical moves, and skilled writers support readers through glosses, translations and framing.",
+          "rationale": "Canagarajah's analysis of code-meshed writing identifies strategies by which writers make meshed texts work for readers; examining published cases is intended to make these strategies visible and discussable.",
+          "citations": [
+            "canagarajah2011codemeshing",
+            "canagarajah2013"
+          ]
+        },
+        {
+          "title": "Reading the rules and asking",
+          "learnerActions": [
+            "Collect the language rules from two module briefs or programme handbooks, including any EMI or bilingual programme policy available",
+            "Sort possible choices (a glossed term, an original-language quotation, a local English expression, a bilingual abstract) into permitted, unclear and prohibited",
+            "Draft a short message to a tutor asking about one unclear case and explaining the purpose of the choice"
+          ],
+          "intendedInsight": "Acceptability depends on the task and the institution, and asking about it is a legitimate academic move rather than an admission of weakness.",
+          "rationale": "Horner and colleagues place responsibility for working across language difference on readers as well as writers; explicit negotiation is intended to turn an unwritten rule into a shared decision.",
+          "citations": [
+            "hornerluroyster2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Other languages are never allowed in academic writing, so I translate everything loosely and say nothing.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Culturally specific concepts or original-language titles replaced by approximate English equivalents without comment, often after English-only classroom and examination policies.",
+          "response": "Show disciplinary examples of glossed terms and original-language quotation with translation, and separate the convention of writing the main text in English from a general ban on other languages. Point learners to the module rules and to whom they can ask.",
+          "reteachPrerequisiteId": "idn.plurilingual-repertoire"
+        },
+        {
+          "pattern": "'Translanguaging means I can write my essay in whatever mix of languages I like.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Untranslated passages in assessed work where the rules require English, or readers and markers unable to follow parts of the text.",
+          "response": "Present translingual writing as reader-aware and negotiated: each choice needs a purpose, support for readers who do not share the language and, in assessed work, a check against the rules. Do not respond by banning other languages outright.",
+          "reteachPrerequisiteId": "idn.standards-legitimacy"
+        },
+        {
+          "pattern": "Markers respond inconsistently: one tutor praises a glossed term or an established local English expression, another marks it as an error, and the brief says nothing.",
+          "kind": "institutional",
+          "revealedBy": "Contradictory feedback across modules and learners who stop making any translingual choice to stay safe.",
+          "response": "Programmes should state language expectations in briefs and marking criteria and moderate how markers treat other-language material and established varieties of English. Teachers can raise inconsistent responses with colleagues; learners can ask in advance and keep a record of what was agreed.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner whether they could use a phrase or quotation from another language in their next assignment, and how they would decide.",
+        "strongResponse": "Refers to genre, reader, purpose and module rules, explains how the phrase would be glossed or translated and attributed, and would check with the tutor where the rules are unclear.",
+        "partialResponse": "Gives a yes or no based on a general belief, with one relevant consideration such as the reader or the rules.",
+        "gapResponse": "Assumes other languages are always forbidden or always acceptable, with no consideration of reader, genre or rules."
+      },
+      "contextNotes": "At foundation, keep the treatment simple and practical: glossing a key concept from one's own language and quoting with a translation in short reflective or project writing. Some EMI and transnational programmes are bilingual by design and may permit or require other languages, so the roles English plays alongside other languages differ by institution. On pre-sessional courses (UG and PG), progression assessments usually require English, but learners can still learn to present other-language sources and terms transparently. Undergraduate reflective, creative and some humanities genres tend to be more open; PGT and PGR writers handle multilingual literatures and data, translate participants' words and may write bilingual abstracts, although meshed research articles remain uncommon in many fields.",
+      "citations": [
+        "canagarajah2013",
+        "hornerluroyster2011",
+        "canagarajah2011codemeshing",
+        "garciawei2014",
+        "floresrosa2015",
+        "dafouzsmit2016"
+      ],
+      "reviewNotes": [
+        "Evidence on how markers in English-medium universities respond to translingual or code-meshed assessed writing is limited; the activities are practitioner proposals rather than tested interventions.",
+        "Cross-group edge recommendations (checked for cycles against the current graph): src.multilingual-sources, ges.reflective-writing, sta.authorial-voice, pub.multilingual-scholars and acu.critical-eap could each take idn.translingual-writing as a soft prerequisite, so that translingual choices inform source use, reflective writing, voice and publishing. wpr.l1-in-composing and dig.machine-translation guidance could cross-refer to this topic when discussing language separation in finished texts."
       ]
     }
   ],
   "authorNotes": [
-    "arg.position overlaps ess.thesis-statement; I recommend ess.thesis-statement take arg.position (and arg.claim-types) as prerequisites, and that ess.* topics generally depend on ARG rather than the reverse. I have not linked any ARG topic to ess.* or ges.* topics.",
+    "arg.position overlaps ess.thesis-statement; I recommend ess.thesis-statement take arg.position (and arg.claim-types) as prerequisites, and that ess.* topics generally depend on ARG rather than the reverse.",
     "arg.extended-argument overlaps ess.body-organisation; recommend ess.body-organisation take arg.extended-argument as a soft prerequisite.",
-    "arg.oral-argument overlaps sem.opinions and sem.debate; I linked sem.opinions as a prerequisite and recommend sem.debate take arg.oral-argument and arg.rebuttal-concession as prerequisites.",
-    "arg.evaluating-arguments and arg.argument-mapping depend on rdc.argument-identification and rdc.evidence-evaluation; RDC authors should not make those topics depend on arg.argument-mapping or arg.evaluating-arguments (cycle risk). rdc.argument-identification naturally takes arg.argument-concept as a prerequisite.",
-    "rdc.assumptions ('surfacing unstated premises') overlaps arg.warrants; recommend rdc.assumptions take arg.toulmin as a soft prerequisite rather than the reverse.",
-    "arg.exploratory-adversarial maps closely onto the ges.discussion-essay / ges.argumentative-essay distinction; recommend those genre topics take it as a soft prerequisite.",
-    "The skeleton name 'Claim types' uses the five-way rhetoric/composition taxonomy (stasis theory), whose bibliographic support is currently a proposed reference; walton2006 provides partial support.",
-    "crt.questioning overlaps heavily with rdc.critical-questions. I treat crt.questioning as the general habit and recommend that rdc.critical-questions take it as a soft prerequisite; I have not linked rdc.critical-questions into CRT to avoid a cycle.",
-    "crt.description-analysis-evaluation overlaps ess.criticality ('moving beyond description'); ess.criticality should take crt.description-analysis-evaluation as a prerequisite.",
-    "crt.reflexivity should be a prerequisite of res.positionality-writing, which is its genre-level realisation.",
-    "acu.disciplinary-knowledge overlaps crt.epistemic-beliefs; I recommend acu.disciplinary-knowledge take crt.epistemic-beliefs as a soft prerequisite (I have not linked in the other direction).",
+    "arg.oral-argument overlaps sem.opinions and sem.debate; sem.opinions is a prerequisite of arg.oral-argument, and sem.debate takes arg.oral-argument and arg.rebuttal-concession as prerequisites.",
+    "arg.evaluating-arguments and arg.argument-mapping depend on rdc.argument-identification and rdc.evidence-evaluation; RDC authors should not make those topics depend on arg.argument-mapping or arg.evaluating-arguments (cycle risk).",
+    "The claim-types taxonomy follows Fahnestock and Secor's stasis-based categories (fahnestocksecor1982); walton2006 provides complementary support through argumentation schemes.",
+    "rdc.critical-questions has been merged into crt.questioning (R1-31). Any remaining edges that pointed to rdc.critical-questions should be repointed to crt.questioning by their owners. crt.questioning no longer depends on rdc.argument-identification, and its edge from rdc.critical-reading is soft.",
+    "crt.description-analysis-evaluation overlaps ess.criticality (\"moving beyond description\"); ess.criticality takes crt.description-analysis-evaluation as a prerequisite.",
     "Gap: there is no topic for analogical reasoning (argument from analogy and precedent), which is central in law, history and policy writing; it could be absorbed into crt.reasoning-types or added as a separate topic.",
     "Gap: there is no topic for ethical or normative reasoning (arguing from principles and consequences), which features in health, business, education and law assignments.",
-    "crt.problem-solving partly duplicates fun.problem-solution (language) and dbe.critical-frameworks (discipline tools); I have scoped it as the reasoning process and linked fun.problem-solution as a prerequisite.",
-    "idn.plurilingual-repertoire overlaps rdp.plurilingual-reading, wpr.l1-in-composing, src.multilingual-sources and dig.machine-translation. I treat it as the general strategic stance and recommend those topics take it as a soft prerequisite; I have not linked them as prerequisites of IDN topics to avoid cycles.",
-    "idn.intercultural-rhetoric overlaps coh.writer-responsibility, whose scope (Hinds's reader/writer responsibility) comes from contrastive rhetoric. Recommend coh.writer-responsibility take idn.intercultural-rhetoric as a soft prerequisite, or that its guidance avoid presenting reader/writer responsibility as a property of whole languages. I have not linked it to avoid a cycle.",
-    "idn.academic-identity overlaps sta.authorial-voice, sta.self-mention and gai.authorship-voice. I linked reg.impersonality-presence as a prerequisite, following the brief that register feeds identity; STA/REG authors should avoid making reg.impersonality-presence depend on anything downstream of idn.academic-identity. Recommend sta.authorial-voice take idn.academic-identity as a soft prerequisite.",
-    "Cycle-risk edges for the integrator: acu.transition, acu.academic-literacies and acu.discourse-communities are prerequisites of IDN topics; if ACU authors link IDN topics as prerequisites of these, one direction must be dropped.",
-    "idn.diversity-as-resource and idn.standards-legitimacy are as much curriculum principles for teachers as learner content, and overlap acu.critical-eap and pub.multilingual-scholars. Recommend pub.multilingual-scholars take idn.standards-legitimacy as a soft prerequisite.",
-    "The domain sits awkwardly in the 'Argument & Critical Thinking' strand; it might fit better under 'Academic Socialisation & Communication'. IDs are unaffected."
+    "crt.problem-solving partly duplicates fun.problem-solution (language) and dbe.critical-frameworks (discipline tools); it is scoped as the reasoning process and links fun.problem-solution as a prerequisite.",
+    "idn.plurilingual-repertoire is now an early node (A2+ start, foundation core) with only lrn.language-learning-strategies as a prerequisite; idn.diversity-as-resource, idn.academic-identity and idn.translingual-writing build on it. rdp.plurilingual-reading, wpr.l1-in-composing, src.multilingual-sources and dig.machine-translation should take it as a soft prerequisite (R5-02).",
+    "IDN moved to the strand \"Academic Socialisation, Identity & Communication\" (R1-11). Topics with audience \"both\" (idn.diversity-as-resource, idn.standards-legitimacy, idn.intercultural-rhetoric, idn.translingual-writing) pair a learner skill with a curriculum principle for teachers.",
+    "Cross-group recommendations recorded in guidance reviewNotes: acu.academic-literacies <- idn.academic-identity and sta.authorial-voice <- idn.academic-identity (soft); cit.citation-politics <- idn.standards-legitimacy (soft); src.multilingual-sources, ges.reflective-writing, sta.authorial-voice, pub.multilingual-scholars and acu.critical-eap <- idn.translingual-writing (soft). coh.writer-responsibility <- idn.intercultural-rhetoric is not recommended because it would create a cycle."
+  ],
+  "proposedReferences": [
+    {
+      "key": "floresrosa2015",
+      "kind": "article",
+      "apa": "Flores, N., & Rosa, J. (2015). Undoing appropriateness: Raciolinguistic ideologies and language diversity in education. *Harvard Educational Review, 85*(2), 149–171.",
+      "doi": "10.17763/0017-8055.85.2.149",
+      "note": "High confidence in the reference (also recommended by review R5-14); DOI recalled from memory and should be confirmed. Supports the claim that judgements of appropriateness are shaped by raciolinguistic ideologies (idn.standards-legitimacy, idn.translingual-writing)."
+    },
+    {
+      "key": "kobayashirinnert1992",
+      "kind": "article",
+      "apa": "Kobayashi, H., & Rinnert, C. (1992). Effects of first language on second language writing: Translation versus direct composition. *Language Learning, 42*(2), 183–215.",
+      "doi": "10.1111/j.1467-1770.1992.tb00707.x",
+      "note": "High confidence in the reference (recommended by review R5-06); DOI should be confirmed. Used only for the finding that lower-proficiency writers' translated essays were rated higher on content and organisation than directly composed ones (idn.plurilingual-repertoire)."
+    },
+    {
+      "key": "hornerluroyster2011",
+      "kind": "article",
+      "apa": "Horner, B., Lu, M.-Z., Royster, J. J., & Trimbur, J. (2011). Language difference in writing: Toward a translingual approach. *College English, 73*(3), 303–321.",
+      "doi": "",
+      "note": "High confidence in authors, title, journal, volume and pages; no DOI recalled. Cited for the translingual approach that treats language difference as a resource and shares responsibility with readers (idn.translingual-writing)."
+    },
+    {
+      "key": "canagarajah2011codemeshing",
+      "kind": "article",
+      "apa": "Canagarajah, S. (2011). Codemeshing in academic writing: Identifying teachable strategies of translanguaging. *The Modern Language Journal, 95*(3), 401–417.",
+      "doi": "10.1111/j.1540-4781.2011.01207.x",
+      "note": "High confidence in the reference; moderate confidence in the DOI, which should be confirmed. Cited for its analysis of a multilingual student's code-meshed writing and the strategies that make meshing work for readers (idn.translingual-writing)."
+    },
+    {
+      "key": "kachru1985",
+      "kind": "chapter",
+      "apa": "Kachru, B. B. (1985). Standards, codification and sociolinguistic realism: The English language in the outer circle. In R. Quirk & H. G. Widdowson (Eds.), *English in the world: Teaching and learning the language and literatures* (pp. 11–30). Cambridge University Press.",
+      "doi": "",
+      "note": "High confidence in the reference and page range; no DOI. Cited for the recognition of outer-circle varieties of English as norm-developing rather than deficient (idn.standards-legitimacy, R5-10)."
+    }
   ]
 }

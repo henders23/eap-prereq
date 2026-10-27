@@ -1574,12 +1574,6 @@
       "reason": "Comparing proportions relies on comparative and multiplicative structures (twice as many as, higher than, the largest)"
     },
     {
-      "topicId": "dat.describing-proportions",
-      "prerequisiteId": "dat.reading-tables",
-      "strength": "soft",
-      "reason": "Proportions and between-group comparisons are usually derived from tables and part–whole charts that must first be read accurately"
-    },
-    {
       "topicId": "dat.describing-diagrams",
       "prerequisiteId": "fun.describing-process",
       "strength": "hard",

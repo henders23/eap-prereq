@@ -6,14 +6,14 @@
       "strand": "Academic Speaking",
       "name": "Group Work & Collaboration",
       "summary": "Group projects, assessed group presentations and collaborative reports are common across disciplines, yet students often receive little guidance on how to collaborate, and multilingual students can be positioned as less competent and allocated marginal roles. This domain covers why universities assess collaboration and how groups plan and allocate work, run meetings, negotiate disagreement, write together, and document and evaluate contributions. It treats equitable participation as a shared responsibility of all group members and of course design, not as a deficit of particular students.",
-      "learnerSummary": "You will learn how to plan and organise group projects, run useful meetings, deal with disagreement, write together and show what you and others contributed, while making sure everyone in a multilingual group can take a full part.",
+      "learnerSummary": "You will learn to plan group projects, run meetings, handle disagreement and write together. You will also learn to show what each member contributed and to make sure everyone can take part.",
       "stageEmphasis": {
         "foundation": "Introduce the purposes of group work, simple role allocation and meeting routines through scaffolded projects with explicit ground rules and teacher monitoring.",
+        "pre-sessional-ug": "Use short group projects and group presentations to practise planning, meeting language and inclusive participation, in preparation for the assessed group work common in first-year undergraduate modules.",
+        "pre-sessional-pg": "Prepare for intensive, highly multilingual taught-postgraduate group assignments by practising fast role negotiation, meeting management and documenting contributions for peer-moderated marks, often within one short project.",
         "in-sessional-ug": "Support assessed group projects with meeting management, conflict handling, collaborative writing workflows and peer evaluation of contributions.",
         "in-sessional-pgt": "Address intensive, often highly multilingual group assignments in which students must quickly establish roles, resolve disagreements and document contributions for peer-moderated marks.",
-        "pgr": "Focus on research-team meetings, co-authoring and documenting contributions, linking collaboration to authorship norms and professional conduct.",
-        "pre-sessional-ug": "Use short group projects to practise planning, meeting language and inclusive participation among students from varied backgrounds, in preparation for assessed group work on degree programmes.",
-        "pre-sessional-pg": "Use short group projects to practise planning, meeting language and inclusive participation among students from varied backgrounds, in preparation for assessed group work on degree programmes."
+        "pgr": "Focus on research-team meetings, co-authoring and documenting contributions, linking collaboration to authorship norms and professional conduct."
       },
       "keyReferences": [
         "leki2001",
@@ -26,15 +26,15 @@
       "code": "PRS",
       "strand": "Academic Speaking",
       "name": "Presentations",
-      "summary": "Academic presentations range from short assessed talks on foundation and pre-sessional programmes to conference papers, posters and research seminars at doctoral level. This domain treats the presentation as a spoken, multimodal genre designed for listeners who process information once, in real time: it needs explicit structure and signposting, visuals that support rather than duplicate speech, intelligible prosody and a delivery mode between reading a script and improvising. It gives particular attention to the interactive phases — openings and question-and-answer sessions — which research on conference presentations shows are central to how presenters engage audiences and establish credibility.",
-      "learnerSummary": "You will learn how to plan, design and deliver academic presentations that listeners can follow, how to talk an audience through visuals and data, and how to handle questions, from short class talks to posters and research presentations.",
+      "summary": "Academic presentations range from short assessed talks on foundation and pre-sessional programmes to conference papers, posters, research seminars and short-format pitches at doctoral level. This domain treats the presentation as a spoken, multimodal genre designed for listeners who process information once, in real time: it needs explicit structure and signposting, visuals that support rather than duplicate speech, intelligible prosody and a delivery mode between reading a script and improvising. It gives particular attention to the interactive phases — openings, question-and-answer sessions and poster conversations — which research on conference presentations shows are central to how presenters engage audiences and establish credibility, and it treats poster design as part of the poster genre.",
+      "learnerSummary": "You will learn to plan, design and deliver presentations that listeners can follow, explain visuals and data, and handle questions. Tasks range from short class talks to posters, research talks and pitches.",
       "stageEmphasis": {
         "foundation": "Build clear structure, signposting, delivery from notes and basic slide design through short, rehearsed presentations, often in groups, on accessible topics.",
+        "pre-sessional-ug": "Develop clear, well-structured individual presentations on a researched topic, with audible signposting, intelligible delivery and short questions, often as part of progression assessment.",
+        "pre-sessional-pg": "Develop presentations that use sources and data for mixed-discipline audiences, with emphasis on explaining visuals, adapting to the audience and handling challenging questions, and, for research-degree entrants, presenting a proposal.",
         "in-sessional-ug": "Support module-specific presentation tasks, including group presentations and recorded assessments, with attention to disciplinary expectations and audience.",
         "in-sessional-pgt": "Focus on presenting projects and dissertation plans, explaining data, handling challenging questions and working in recorded or online formats.",
-        "pgr": "Address research seminars, conference papers, posters and upgrade or progression presentations within strict time limits, framing contribution for specialist audiences and engaging productively in discussion sessions.",
-        "pre-sessional-ug": "Develop individual presentations on a researched topic that use sources and data and include timed questions, often as part of progression assessment.",
-        "pre-sessional-pg": "Develop individual presentations on a researched topic that use sources and data and include timed questions, often as part of progression assessment."
+        "pgr": "Address research seminars, conference papers, posters, progression presentations and short-format pitches within strict time limits, framing contribution for specialist and mixed audiences and engaging productively in discussion sessions."
       },
       "keyReferences": [
         "rowleyjolivet2005",
@@ -49,15 +49,15 @@
       "code": "SEM",
       "strand": "Academic Speaking",
       "name": "Seminars & Discussion",
-      "summary": "Seminars, tutorials and discussion groups are where students are expected to co-construct understanding of readings and ideas in real time, and where participation is often assessed formally or informally. This domain treats discussion as negotiated, multi-turn interaction rather than a list of functional phrases: learners need to prepare substantively, find and hold turns, state and justify positions, mitigate disagreement, build on and summarise others' contributions and, at higher levels, facilitate. Participation is also shaped by anxiety, positioning and the way tutors and peers distribute the floor, so the domain addresses willingness to communicate and the conditions for participation, not only individual skill.",
-      "learnerSummary": "You will learn how university discussions work and how to prepare for them, get into the conversation, make and support your points, respond to others politely but critically, and help a discussion move forward, face to face or online.",
+      "summary": "Seminars, tutorials and discussion groups are where students are expected to co-construct understanding of readings and ideas in real time, and where participation is often assessed formally or informally. This domain treats discussion as negotiated, multi-turn interaction rather than a list of functional phrases: learners need to prepare substantively, find and hold turns, state and justify positions, explain concepts and readings to peers, mitigate disagreement, build on and summarise others' contributions and, at higher levels, facilitate. Participation is also shaped by anxiety, positioning, disability and the way tutors and peers distribute the floor, so the domain addresses the conditions for participation as well as individual skill, and accepts more than one mode of contribution, including written and chat contributions.",
+      "learnerSummary": "You will learn how university discussions work, how to prepare and join in, and how to make, support and explain your points. You will also learn to respond to others and help discussions move forward.",
       "stageEmphasis": {
         "foundation": "Make seminar purposes and participation expectations explicit, and build reliable resources for giving views, asking questions and checking understanding through short, well-prepared, low-stakes discussions on accessible content.",
+        "pre-sessional-ug": "Move from rehearsed phrases to extended discussion of set readings, with explicit work on preparation, giving and justifying views, turn-taking and mitigated disagreement, often in an assessed seminar that informs progression.",
+        "pre-sessional-pg": "Prepare for postgraduate seminars in which contribution may be assessed from the first weeks, emphasising critical engagement with readings, citing sources in speech, explaining concepts to mixed-discipline peers and taking the floor in fast discussion.",
         "in-sessional-ug": "Embed practice in learners' own modules, focusing on subject-specific expectations, entering fast discussions with peers who share local references, and building on others' points.",
         "in-sessional-pgt": "Emphasise critical engagement with readings, citing in speech, facilitating and summarising in intensive one-year programmes where seminar contribution may be assessed from the first weeks.",
-        "pgr": "Focus on research group meetings, reading groups and peer seminars on work in progress, where researchers question, critique and are questioned as emerging members of a discipline.",
-        "pre-sessional-ug": "Move from rehearsed phrases to extended negotiation of ideas from set readings, with explicit work on turn-taking, mitigated disagreement and referring to sources, often in an assessed seminar that informs progression.",
-        "pre-sessional-pg": "Move from rehearsed phrases to extended negotiation of ideas from set readings, with explicit work on turn-taking, mitigated disagreement and referring to sources, often in an assessed seminar that informs progression."
+        "pgr": "Focus on research group meetings, reading groups and peer seminars on work in progress, where researchers question, critique and are questioned as emerging members of a discipline."
       },
       "keyReferences": [
         "basturkmen2002",
@@ -78,7 +78,17 @@
       "description": "Explain why universities use group work and assessed collaboration — for example to develop teamwork, to tackle tasks too large for individuals and to bring together diverse perspectives — and identify what a given task assesses: the product, the process, individual contributions or a combination. Understanding purposes and assessment design helps learners set realistic expectations and treat group tasks as collaborative learning rather than as work to be divided and stapled together.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies from an assessment brief what is assessed (product, process, individual contribution) and how marks are allocated",
         "Explains at least two learning purposes of group work in their discipline",
@@ -99,17 +109,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "grw.roles-planning",
@@ -120,7 +120,17 @@
       "description": "Plan a group project by analysing the task, agreeing ground rules (communication channels, response times, decision-making, quality standards), allocating roles and tasks on the basis of expertise and development goals, and setting milestones with internal deadlines, recorded in a shared place. Explicit early planning reduces later conflict and helps ensure that every member, including multilingual members, has a defined and substantive role.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Contributes to a written ground-rules agreement covering communication, decision-making and deadlines",
         "Proposes a task breakdown derived from the assignment brief and criteria",
@@ -142,17 +152,7 @@
           ],
           "contribution": "core"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "grw.meetings",
@@ -163,7 +163,17 @@
       "description": "Run and take part in group meetings by preparing and circulating an agenda, chairing or timekeeping, reaching and recording decisions, and producing brief minutes with action points, owners and deadlines that are followed up at the next meeting. Well-structured meetings make decisions and responsibilities visible and accountable, which matters when contributions are later assessed.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Drafts a short agenda with items, purposes and time allocations",
         "Chairs an item by stating its purpose, inviting views and moving the group to a decision",
@@ -200,17 +210,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "grw.conflict",
@@ -221,7 +221,17 @@
       "description": "Manage disagreement and conflict in group work by distinguishing disagreements about ideas from problems of process or contribution, raising concerns early and specifically with reference to agreed ground rules, negotiating solutions, and escalating to tutors through appropriate channels with evidence when internal resolution fails. Unaddressed problems tend to surface late, when options are limited.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Raises a process or contribution concern early and specifically, referring to the agreed ground rules",
         "Describes the problem's impact and proposes a solution in mitigated but unambiguous language",
@@ -255,17 +265,7 @@
           "key": "vitae-rdf:D1",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "grw.inclusive-collaboration",
@@ -276,7 +276,18 @@
       "description": "Collaborate equitably in multilingual groups by accommodating to varied accents and proficiency levels, creating space for all members to contribute substantively, drawing on members' different linguistic, disciplinary and educational backgrounds, and challenging exclusionary patterns such as allocating tasks by assumed language ability. Equitable participation is a responsibility of every member, including the most proficient users of English, and supports the quality of the group's work.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "both",
       "masteryEvidence": [
         "Adjusts their own speech (pace, idiom, local references, checking) to support mutual intelligibility in the group",
         "Invites and builds on contributions from members who speak less",
@@ -315,18 +326,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "grw.collaborative-writing",
@@ -337,7 +337,20 @@
       "description": "Co-author a group report or document by agreeing a structure and style sheet, using shared documents with comments, suggestion mode and version history, integrating sections into a coherent whole with consistent terminology, voice and referencing, and revising the whole text together. Collaborative writing requires coordination of text, not only division of labour, and must respect the boundary between group work and individually assessed components.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [
+        "business-management",
+        "engineering"
+      ],
+      "audience": "learner",
       "masteryEvidence": [
         "Agrees with co-authors a structure, a style sheet (terminology, tense, citation style) and an editing workflow",
         "Uses comments, suggestion mode and version history to propose and track changes respectfully",
@@ -363,17 +376,7 @@
           "key": "vitae-rdf:D1",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "grw.contribution-assessment",
@@ -384,7 +387,17 @@
       "description": "Evaluate one's own and peers' contributions to group work against agreed criteria, document one's own role with evidence (minutes, version history, task logs), and describe contributions accurately in peer-evaluation forms and individual reflections. Peer evaluation can affect individual marks and can reproduce biases, for example equating fluent talk with contribution, so criterion-referenced, evidenced judgement matters.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Rates contributions against stated criteria rather than general impressions or friendship",
         "Supports ratings with specific evidence such as minutes, version history or completed tasks",
@@ -397,17 +410,7 @@
         "leki2001",
         "sadler1989"
       ],
-      "frameworks": [],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      "frameworks": []
     },
     {
       "id": "prs.purpose-audience",
@@ -418,7 +421,18 @@
       "description": "Analyse the purpose of a presentation (to inform, explain, persuade, report research or propose) and the audience's prior knowledge, expectations and relationship to the speaker, and adapt content selection, technical density, register and interaction accordingly. Audience analysis drives later decisions about structure, visuals and delivery, and is what distinguishes a presentation from a reading of an essay.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "States the purpose of a planned presentation and what the audience should know or do afterwards in one or two sentences",
         "Identifies what the audience already knows and decides which terms to define and which background to omit",
@@ -454,18 +468,7 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.structure",
@@ -476,7 +479,17 @@
       "description": "Organise a presentation into an introduction, body and conclusion with an explicit roadmap, a limited number of main points, internal summaries and a conclusion that returns to the purpose, designed for listeners who cannot re-read. Spoken structure needs more redundancy and explicit signalling than written text, so an essay cannot simply be read or summarised section by section.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Produces a plan with a stated purpose, three or four main points and a conclusion that returns to the purpose",
         "Includes a roadmap that matches the actual order of the talk",
@@ -515,17 +528,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.openings",
@@ -536,7 +539,18 @@
       "description": "Open a presentation by establishing context and relevance, engaging the audience, stating the purpose or central claim and previewing the structure, selecting and ordering these moves to suit the audience and genre. The opening sets the audience's interpretive frame and the speaker's credibility, and research on conference introductions shows that interpersonal engagement matters here as much as content.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Establishes why the topic matters to this audience within the first minute",
         "States the purpose or central claim explicitly",
@@ -559,41 +573,43 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.signposting",
       "type": "LINGUISTIC",
       "strand": "Academic Speaking",
       "domain": "Presentations",
-      "name": "Signposting in presentations",
-      "description": "Use spoken signposting to announce structure, mark transitions, highlight key points, summarise and conclude, combining lexical markers with prosodic signals such as pausing and pitch reset at boundaries. Signposting helps listeners build a mental map of the talk, but its density should match the length and audience of the talk, since mechanical or excessive markers distract.",
+      "name": "Signposting in presentations and spoken explanations",
+      "description": "Use spoken signposting to announce structure, mark transitions, flag key points, summarise and conclude in presentations, extended seminar contributions and spoken explanations, combining macro-markers that open and close sections and spoken micro-markers such as so and now with pausing and pitch reset at boundaries. Because listeners cannot scan back, explicit structural signalling carries more of the organisational load in speech than in writing, but its density should match the length and audience of the talk, since mechanical or excessive markers distract.",
       "cefrStart": "B1",
-      "cefrEnd": "B2+",
+      "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
-        "Uses macro-markers to announce the overall structure and each major transition",
-        "Marks key points with relevance markers supported by prosodic emphasis",
-        "Gives brief internal summaries before moving to a new section",
-        "Pauses and resets pitch at section boundaries",
-        "Varies signposting language and adjusts its density to the talk's length and audience"
+        "Uses macro-markers to preview the overall structure and to announce each major transition in a talk or extended explanation",
+        "Flags key points with relevance markers supported by prosodic emphasis",
+        "Gives brief internal summaries that close one section and preview the next, including at handovers between speakers",
+        "Pauses and resets pitch at section boundaries so that transitions are audible without slides",
+        "Chooses spoken-style markers (so, now, the next thing is) rather than written connectors such as furthermore and moreover, and varies them to avoid mechanical repetition",
+        "Adjusts the density of signposting to the length of the talk and the audience's familiarity with the topic"
       ],
-      "assessmentPrompt": "Record a 3-minute section of the learner's talk and ask a listener to sketch its structure from the audio alone; compare the sketch with the learner's plan. Strong: the sketch matches, with transitions marked lexically and prosodically; partial: lexical markers are present but delivered without pausing, so boundaries blur; gap: the listener cannot reconstruct the sections.",
+      "assessmentPrompt": "Record the learner giving a three-minute section of a talk, or a one-minute spoken explanation of a process, without slides. Ask a listener to sketch its structure from the audio alone and compare the sketch with the learner's plan. Strong: the sketch matches, with transitions marked by spoken-style markers and by pausing; partial: markers are present but written in style or delivered without pausing, so boundaries blur; gap: the listener cannot reconstruct the sections. Recognising markers in lectures is assessed separately as a listening skill.",
       "citations": [
         "thompson2003lectures",
         "chaudronrichards1986",
-        "deroey2012"
+        "deroey2012",
+        "biber2004bundles"
       ],
       "frameworks": [
         {
@@ -608,29 +624,16 @@
           "key": "cefr-cv:prod.oral.addressing-audiences",
           "levels": [
             "B1+",
-            "B2"
+            "B2",
+            "C1"
           ],
           "contribution": "component"
         },
         {
-          "key": "cefr-cv:rec.oral.live-audience",
-          "levels": [
-            "B1+",
-            "B2"
-          ],
+          "key": "ielts:sp.fluency-coherence",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.slide-design",
@@ -641,7 +644,18 @@
       "description": "Design slides and other visual aids that support the spoken message: one main point per slide, headings that state that point, minimal text, readable type, purposeful and simplified figures, clear visual hierarchy, accessible colour and contrast, and attribution of images and data. Slides should complement speech rather than duplicate it, because dense slide text competes with the speaker for the audience's attention.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes slide headings that state the point of the slide rather than a topic label",
         "Reduces slide text to phrases, key terms and data that support rather than duplicate what is said",
@@ -661,18 +675,7 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.explaining-visuals",
@@ -683,7 +686,23 @@
       "description": "Guide an audience through a chart, table or diagram by orienting them to what it shows (type, axes, units, categories), highlighting the one to three features that matter, and stating their significance for the argument, while synchronising speech with pointing or slide builds. Audiences cannot study a visual at their own pace, so the presenter must direct attention selectively.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "economics",
+        "health-medicine"
+      ],
+      "audience": "learner",
       "masteryEvidence": [
         "Orients the audience to the visual's type, variables and units before interpreting it",
         "Highlights one to three significant features rather than describing every data point",
@@ -707,18 +726,7 @@
           ],
           "contribution": "core"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.delivery-voice",
@@ -729,7 +737,18 @@
       "description": "Control pace, volume, pausing, thought groups, prominence and intonation so that a presentation is intelligible and easy to follow, prioritising the prosodic features that most affect listeners' understanding over accent reduction. Prosody signals structure, new and contrastive information, and the speaker's engagement with the audience.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Divides speech into thought groups with pauses at meaningful boundaries",
         "Places prominence on new and contrastive information, including correct stress in key technical terms",
@@ -757,18 +776,7 @@
           "key": "ielts:sp.pronunciation",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.nonverbal",
@@ -779,9 +787,18 @@
       "description": "Use gaze, facial expression, gesture, posture and position in the room to support the spoken message, direct attention to visuals and connect with the audience, adapting to the setting and to one's own physical and neurological needs. Non-verbal norms vary across contexts and individuals, so the aim is purposeful, non-distracting use rather than conformity to a single model of 'confident' body language.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
-        "Distributes gaze across the audience rather than fixing it on notes, the screen or one person",
+        "Directs attention to the audience regularly, for example by distributing gaze or scanning across the room, rather than fixing on notes, the screen or one person",
         "Uses gesture to point to visuals and to mark structure or emphasis",
         "Positions themselves so as not to block the screen and faces the audience when speaking about slides",
         "Reduces distracting habits identified through video self-review",
@@ -800,17 +817,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.speaking-from-notes",
@@ -821,15 +828,25 @@
       "description": "Deliver a presentation from brief prompts (key words, cue cards, slide notes) rather than reading a full script or reciting a memorised text, using the notes to retrieve structure and key wording while formulating sentences in the moment, and scripting only selected high-risk segments. Read-aloud written prose is lexically dense and usually prosodically flat, which makes it hard for listeners to process.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Reduces a full script to key-word prompts that show structure, key terms, numbers and transitions",
         "Delivers a section from prompts using spoken-style, clause-based sentences rather than written-style ones",
         "Scripts and memorises only selected high-risk parts (opening line, key definitions, transitions)",
-        "Looks up from notes for most of the delivery",
+        "Maintains contact with the audience for most of the delivery rather than reading continuously",
         "Recovers when losing their place by moving to the next prompt"
       ],
-      "assessmentPrompt": "Ask the learner to convert one paragraph of their script into no more than ten prompt words and then deliver it from the prompts. Compare the delivery with the script: strong delivery uses shorter, clause-based spoken sentences with eye contact; partial delivery is near-verbatim recall with long pauses; a gap is reading the script.",
+      "assessmentPrompt": "Ask the learner to convert one paragraph of their script into no more than ten prompt words and then deliver it from the prompts. Compare the delivery with the script: strong delivery uses shorter, clause-based spoken sentences with regular attention to the audience; partial delivery is near-verbatim recall with long pauses; a gap is reading the script.",
       "citations": [
         "halliday1989",
         "biber2006"
@@ -851,17 +868,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.handling-questions",
@@ -872,7 +879,18 @@
       "description": "Manage question-and-answer sessions by listening to the whole question, clarifying or reformulating it, answering concisely and relevantly, acknowledging limits honestly, and deferring or redirecting when appropriate, including when the turn is a critical comment rather than a question. Q&A is the least predictable part of a presentation and a key site for demonstrating understanding and establishing credibility.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Confirms or reformulates a question before answering when it is long, unclear or critical",
         "Answers concisely, linking back to the presentation's content or evidence",
@@ -902,18 +920,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.group-presentations",
@@ -924,7 +931,17 @@
       "description": "Plan and deliver a presentation as a group by agreeing a single message and structure, allocating sections by content rather than by person, making handovers that link sections, keeping slides, terminology and referencing consistent, and sharing the Q&A. Assessed group presentations test coordination as well as individual delivery, and a poorly integrated talk often reveals divided rather than shared planning.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Agrees with the group a single purpose and overall structure before sections are divided",
         "Delivers handovers that summarise their section and introduce the next speaker's point",
@@ -954,39 +971,46 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.posters",
       "type": "GENRE",
       "strand": "Academic Speaking",
       "domain": "Presentations",
-      "name": "Poster presentations",
-      "description": "Present an academic poster by preparing short and longer spoken overviews, gauging each visitor's background and interest, guiding them through the poster's reading path, and sustaining a one-to-one or small-group discussion that includes questions, critique and follow-up. Poster sessions are interactive and conversational, and much of a poster's value lies in the conversations it supports.",
+      "name": "Academic posters: design and presentation",
+      "description": "Design an academic poster that communicates one main message at a glance, with a headline finding, a clear reading path, economical text, visuals that carry the evidence and legibility at viewing distance, and present it in a poster session through short and longer spoken overviews adapted to each visitor and a conversation that includes questions, critique and follow-up. The poster is a genre with its own norms, not a shrunken paper, and much of its value lies in the conversations it supports.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
-      "masteryEvidence": [
-        "Delivers a 1–2-minute overview that states the research question, approach, key finding and implication",
-        "Adjusts the depth of explanation after gauging the visitor's background",
-        "Points visitors to the relevant section or figure while explaining",
-        "Invites visitors to connect the work to their own interests or research",
-        "Handles critical questions and records useful feedback or contacts"
+      "disciplines": [
+        "sciences",
+        "health-medicine",
+        "engineering",
+        "psychology"
       ],
-      "assessmentPrompt": "Run a mock poster session in which the learner meets two visitors with contrasting backgrounds (a specialist and a non-specialist). Check the overview's length and content, adaptation to each visitor, use of the poster to guide attention and handling of questions; a gap is the same memorised speech delivered to both visitors regardless of their responses.",
+      "audience": "learner",
+      "masteryEvidence": [
+        "States the poster's main message in a headline or prominently placed key finding",
+        "Organises sections along a clear reading path and keeps text within a word budget, using captioned visuals as the main evidence",
+        "Ensures legible, accessible design (type size, contrast, meaning not carried by colour alone) at the intended viewing distance",
+        "Delivers a 30-second and a 2-minute spoken overview that state the question, approach, key finding and implication",
+        "Adjusts the depth of explanation after gauging the visitor's background, pointing to the relevant section or figure",
+        "Handles critical questions, explains design and content decisions when asked, and records useful feedback or contacts"
+      ],
+      "assessmentPrompt": "Give the learner a text-heavy draft poster (around 1,200 words of abstract-style paragraphs) and ask for a redesign plan with a headline finding, a word budget and a reading path; then run a mock session in which they present their own poster to a specialist and a non-specialist visitor. Check that the plan prioritises the main message, cuts text and moves results into visuals, and that the spoken overview changes in length and depth for each visitor and uses the poster to guide attention; a gap is a dense poster explained with the same memorised speech to both visitors.",
       "citations": [
         "macintosh2007",
-        "kressvanleeuwen2006"
+        "kressvanleeuwen2006",
+        "w3c2023wcag"
       ],
       "frameworks": [
         {
@@ -1002,24 +1026,14 @@
           "contribution": "component"
         },
         {
-          "key": "cefr-cv:int.oral.information-exchange",
+          "key": "cefr-cv:med.strat.streamlining-text",
           "levels": [
             "B2",
             "C1"
           ],
-          "contribution": "related"
+          "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.research-presentations",
@@ -1030,7 +1044,15 @@
       "description": "Present research to specialist audiences in conference papers, research seminars and dissertation or progression presentations, framing the niche and contribution early, selecting findings and visuals that carry a clear take-home message, keeping to strict time limits and engaging with the discussion session. These presentations socialise researchers into disciplinary communities, and their introductions and discussion phases are particularly consequential for credibility.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
+      "coreBand": "C1",
+      "stageRoles": {
+        "pre-sessional-pg": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "core"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Frames the research gap and contribution explicitly within the first minutes for a specialist audience",
         "Selects a subset of findings and visuals that support a clear take-home message within the time limit",
@@ -1059,14 +1081,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.recorded-online",
@@ -1077,7 +1092,18 @@
       "description": "Produce recorded and live online presentations by planning for microphone, camera and screen-sharing, maintaining spoken-style delivery and audience engagement without live feedback, editing within the assessment's rules, and providing accurate captions or transcripts. Recorded formats invite scripting and repeated re-recording, so learners need to manage naturalness, authenticity and compliance with task regulations.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Sets up audio, lighting and framing so that speech is clear and the speaker visible",
         "Coordinates screen-sharing or slide recording with spoken explanation without long silences",
@@ -1099,18 +1125,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "prs.rehearsal-timing",
@@ -1121,7 +1136,17 @@
       "description": "Rehearse a presentation aloud, with timing and under realistic conditions, using recordings and peer feedback to refine content, transitions and delivery, and adjust content in advance so that it fits the time limit. Rehearsal reduces the planning and formulation load of live delivery and is the main safeguard against overrunning.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Rehearses aloud at least twice with timing, a recording or a live listener",
         "Identifies sections that overrun and cuts or condenses them before delivery, not during it",
@@ -1151,18 +1176,61 @@
           ],
           "contribution": "related"
         }
-      ],
+      ]
+    },
+    {
+      "id": "prs.research-pitches",
+      "type": "GENRE",
+      "strand": "Academic Speaking",
+      "domain": "Presentations",
+      "name": "Short-format research pitches",
+      "description": "Compress a research project into a short spoken pitch, such as a three-minute thesis-style talk, an elevator pitch at a conference or interview, or a one-slide lightning talk, that a mixed or non-specialist audience can follow: one narrative from problem to contribution, a concrete hook, accessible framing and a clear statement of why the work matters. The format rewards selection and audience adaptation rather than coverage, and it is used in competitions, networking, interviews and funding contexts.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C2",
+      "coreBand": "C1",
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1",
+      "specificity": "EGAP",
+      "disciplines": [],
       "audience": "learner",
-      "disciplines": []
+      "masteryEvidence": [
+        "States the research problem, approach, main or expected finding and significance as a single narrative within the time limit",
+        "Opens with a concrete hook, such as a case, image, question or everyday analogy, that leads directly to the research problem",
+        "Replaces or explains technical terms and abstractions so that a listener from another field can follow",
+        "Makes the significance of the work explicit for the audience addressed without overstating results or certainty",
+        "Delivers to time, using pausing and prominence so that the key message is audible",
+        "Adapts the same pitch to different lengths and audiences, for example 30 seconds, 90 seconds and three minutes"
+      ],
+      "assessmentPrompt": "Ask the learner to deliver a three-minute pitch of their research, with at most one static slide, to listeners from other disciplines, followed by a 30-second version. Ask the listeners to write down the problem, the finding or aim, and why it matters. Strong: listeners record all three accurately and the pitch finishes on time; partial: the problem is clear but significance is vague or jargon remains; gap: listeners cannot say what the research is about, or the pitch is a compressed literature review that overruns.",
+      "citations": [
+        "hyland2010proximity",
+        "rowleyjolivet2005",
+        "vitae2010"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:D2",
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:prod.oral.addressing-audiences",
+          "levels": [
+            "C1",
+            "C2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.strat.streamlining-text",
+          "levels": [
+            "B2+",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
     },
     {
       "id": "sem.seminar-purposes",
@@ -1173,7 +1241,17 @@
       "description": "Explain what seminars, tutorials and discussion classes are for in a given programme — co-constructing understanding of readings and concepts, testing ideas and showing engagement — and how participation is expected, and sometimes assessed. Because these expectations are largely tacit and vary by discipline, level, class size and tutor, knowing them helps learners interpret silence, interruption and critique and decide how to contribute.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Describes the purposes of at least two discussion formats in their programme (e.g. tutorial, reading seminar, problem class) and what counts as a useful contribution in each",
         "Distinguishes a seminar from a lecture in terms of who is expected to speak, what preparation is assumed and how ideas are developed",
@@ -1197,17 +1275,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.preparation",
@@ -1218,7 +1286,17 @@
       "description": "Prepare for a seminar by reading the set texts with the discussion questions in mind, noting key claims with page references, reactions and points of uncertainty, and planning two or three possible contributions and questions in note form. Preparation reduces real-time processing load so that learners can attend to the discussion and enter it with substantive content rather than summary.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Brings notes on each set reading recording the main claim, one piece of evidence and a page or section reference",
         "Prepares at least two contributions phrased as positions or as connections between readings, not only summaries",
@@ -1241,18 +1319,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.turn-taking",
@@ -1263,13 +1330,24 @@
       "description": "Enter, hold and yield turns in multi-party academic discussion by recognising likely transition points, using brief floor-claiming and floor-holding moves, and judging when overlap or interruption is acceptable in a particular group. Because turns in student discussion are often taken by self-selection rather than allocated by the tutor, learners who wait to be invited may have few opportunities to contribute.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Enters a discussion at a transition point with a short bridging move that links to the previous speaker before making their point",
         "Holds the floor while formulating, using fillers or announced structure, rather than falling silent mid-turn",
         "Yields the turn explicitly by inviting a response or passing to a named participant",
         "Re-enters after a failed attempt or overlap at the next opportunity",
-        "Adjusts the frequency and length of their turns to the group, avoiding both prolonged silence and domination"
+        "Adjusts the frequency and length of their turns to the group, avoiding domination and finding a sustainable way to contribute, including agreed alternatives to self-selection where needed"
       ],
       "assessmentPrompt": "Record a 10-minute student-led discussion of four to six participants and tally, for the learner, self-selected entries, invited entries, failed attempts and turn length; then ask them to explain one moment when they wanted to speak but did not. Strong learners self-select at transition points with linking moves and can name the cues they used; partial learners speak mainly when invited; a gap is long, unlinked monologues, or near-silence that the learner cannot explain or plan around. Interpret silence cautiously: it can reflect a deliberate choice, processing time, disability or the way the group distributes the floor, so pair the tally with the learner's own account.",
       "citations": [
@@ -1295,18 +1373,7 @@
           ],
           "contribution": "core"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.opinions",
@@ -1317,7 +1384,16 @@
       "description": "State a position on a question or reading clearly and support it with reasons, examples or evidence, using language for stating positions, giving reasons and exemplifying, and signalling how firmly the view is held. In seminars both unsupported assertion and unpositioned summary are weak contributions; a short claim–reason–support move that can be extended under questioning is the basic unit of contribution.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "States a position in one clear sentence before elaborating it",
         "Supports the position with at least one reason and one example or piece of evidence",
@@ -1344,16 +1420,7 @@
           "key": "ielts:sp.fluency-coherence",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.agreeing-disagreeing",
@@ -1364,7 +1431,18 @@
       "description": "Agree, partially agree and disagree with peers, tutors and authors in ways that make the point of difference explicit while maintaining collegial relationships, typically by acknowledging the other position, locating the specific difference and giving a reason, with mitigation adjusted to the relationship and the stakes. Seminars value disagreement about ideas, but bald disagreement can damage relationships and over-hedged disagreement can obscure the speaker's position.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Disagrees by acknowledging the previous point, stating the specific point of difference and giving a reason",
         "Uses partial agreement to accept one aspect of a claim while challenging another",
@@ -1403,18 +1481,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.building-on-others",
@@ -1425,7 +1492,17 @@
       "description": "Link a contribution explicitly to what others have said by extending, qualifying, exemplifying, connecting or contrasting their points, and attribute those points to the speaker. Building on others is how ideas are co-constructed across turns in seminars, and it makes listening visible as well as thinking.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Begins contributions with an explicit link to a named peer's point and states the relation (extend, qualify, contrast, exemplify)",
         "Reformulates a peer's point accurately before developing it",
@@ -1455,17 +1532,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.questions-clarification",
@@ -1476,7 +1543,18 @@
       "description": "Formulate questions that seek clarification, elaboration, evidence or implications from tutors and peers, pinpointing which term, claim or step the question concerns and choosing direct or mitigated forms suited to the relationship. Asking questions is both a comprehension-repair strategy and a legitimate form of contribution, and subject lecturers have identified it as an oral demand that multilingual students can find difficult.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Asks a clarification question that pinpoints the specific term, claim or step not understood",
         "Asks for elaboration, evidence or implications in a way that invites a developed answer",
@@ -1508,18 +1586,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.checking-understanding",
@@ -1530,7 +1597,17 @@
       "description": "Confirm mutual understanding during discussion by paraphrasing others' points for confirmation, checking that one's own point has been understood, and reformulating it with simpler wording, an example or a definition when it has not. In multilingual groups whose members differ in accent, proficiency and disciplinary background, explicit confirmation and reformulation are routine collaborative moves rather than signs of weakness.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Paraphrases a peer's point and asks for confirmation before responding to it",
         "Notices signs that their own point has not been understood and reformulates it with different wording or an example",
@@ -1568,17 +1645,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.citing-in-speech",
@@ -1589,7 +1656,17 @@
       "description": "Refer to set readings, data and other sources in discussion with brief spoken attribution (author or text, the relevant point and, where useful, a page or section), keeping the source's claim distinct from one's own interpretation. Oral attribution makes contributions checkable, shows engagement with the reading and lets peers locate the passage under discussion.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "core",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Attributes a point to a specific reading with a spoken signal phrase and, where helpful, a page or section reference",
         "Marks the boundary between what the source says and their own evaluation of it",
@@ -1615,17 +1692,7 @@
           "key": "acrl:conversation",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.facilitating",
@@ -1636,10 +1703,20 @@
       "description": "Lead or chair a discussion by framing the task with an open question, inviting and distributing contributions, probing and redirecting, signalling stages and time, and closing with a fair summary. Facilitation is commonly assessed in student-led seminars and is a mediation skill that requires attending to others' participation and the development of ideas as much as to one's own content.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Opens by framing the task and posing an open question that participants can answer from their preparation",
-        "Invites contributions from quieter participants without putting them on the spot (e.g. advance notice, rounds, pair-then-share)",
+        "Invites contributions from quieter participants without putting them on the spot, offering more than one mode of contribution (e.g. advance notice, rounds, pair-then-share, written input)",
         "Uses follow-up probes to deepen contributions and redirects digressions back to the task",
         "Signals stages and manages time so that all planned questions are addressed",
         "Closes with a summary of positions and outcomes that participants accept as accurate"
@@ -1675,17 +1752,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.summarising-discussion",
@@ -1696,7 +1763,17 @@
       "description": "Summarise a discussion orally or in brief notes by selecting the main positions, points of agreement and disagreement, unresolved questions and outcomes, organising them thematically and attributing them fairly. Summarising consolidates co-constructed understanding and is required when groups report back to a class or when a facilitator closes a discussion.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies the main positions expressed rather than listing every contribution",
         "States points of agreement and disagreement and attributes them accurately",
@@ -1726,17 +1803,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.speaking-anxiety",
@@ -1747,7 +1814,18 @@
       "description": "Understand speaking anxiety and willingness to communicate (WTC) as situational and changeable — shaped by preparation, task familiarity, group relations, how the floor is distributed and perceived evaluation — and use preparation and in-the-moment strategies to participate. Treating reticence as a product of conditions rather than a fixed personal or cultural trait lets learners and teachers change the conditions as well as the behaviour.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "both",
       "masteryEvidence": [
         "Identifies specific situations and factors that raise or lower their own willingness to speak",
         "Uses at least two strategies to participate despite anxiety (e.g. a prepared opening move, an early low-stakes contribution, note prompts, deliberate pausing)",
@@ -1766,18 +1844,7 @@
           "key": "vitae-rdf:B1",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.online-discussion",
@@ -1788,7 +1855,18 @@
       "description": "Participate in synchronous online and hybrid seminars by using raise-hand, chat and reaction functions to bid for and supplement turns, compensating for reduced gaze and gesture and for audio delay with explicit addressing, yielding and confirmation, and organising breakout-room tasks. Online discussion changes how turns are taken and how participation is made visible, so face-to-face strategies need adapting.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Bids for turns using the platform's conventions and enters promptly when invited",
         "Addresses contributions to named participants and yields turns explicitly to compensate for missing gaze and gesture cues",
@@ -1819,18 +1897,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "sem.debate",
@@ -1839,9 +1906,17 @@
       "domain": "Seminars & Discussion",
       "name": "Structured academic debate",
       "description": "Take part in structured academic debates by building a case within a time limit, anticipating and rebutting the strongest opposing arguments, conceding where necessary and responding concisely to challenges. Debate trains rapid oral argument, but its adversarial logic differs from the exploratory, idea-developing norms of most seminars, and learners need to know when each mode is appropriate.",
-      "cefrStart": "B1+",
+      "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Delivers a timed constructive speech with a clear claim, two or three supported arguments and a summary",
         "Rebuts a specific opposing argument by identifying a weak premise, missing warrant or inadequate evidence",
@@ -1871,15 +1946,71 @@
           ],
           "contribution": "component"
         }
-      ],
+      ]
+    },
+    {
+      "id": "sem.explaining-concepts",
+      "type": "PROCEDURAL",
+      "strand": "Academic Speaking",
+      "domain": "Seminars & Discussion",
+      "name": "Explaining concepts and readings to peers",
+      "description": "Explain a concept, reading or dataset to classmates who have not met it, or who meet it through a different language or discipline: selecting what matters, breaking it into steps, defining and exemplifying, linking it to what listeners already know, checking understanding and reformulating, and drawing on shared languages where this helps. This everyday mediation work in seminars, jigsaw reading, study groups and peer teaching is often assessed within presentation and seminar tasks, and it underpins later teaching and demonstrating roles.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "coreBand": "B2",
       "stageRoles": {
+        "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "specificity": "EGAP",
+      "disciplines": [],
       "audience": "learner",
-      "disciplines": []
+      "masteryEvidence": [
+        "Selects the two or three ideas listeners need from a concept or reading and explains them in a logical sequence",
+        "Defines key terms in accessible language and gives an example, analogy or non-example suited to the listeners' background",
+        "Links the new idea to something the listeners already know, such as an earlier reading, a familiar case or a concept from their own discipline",
+        "Checks understanding with a question that asks listeners to apply or restate the idea, not only by asking whether it is clear",
+        "Reformulates when a check reveals a misunderstanding, changing the wording, example or order rather than repeating the same explanation",
+        "Uses a shared language or a bilingual gloss to clarify a point where this is permitted and helps the group, and reports the shared outcome in English so that no member is excluded"
+      ],
+      "assessmentPrompt": "In a jigsaw task, give the learner a short reading (about 300 words) or one figure that their partner has not seen; allow five minutes to prepare and three minutes to explain it, after which the partner answers two questions that require applying the idea. Check the selection of key ideas, definitions with examples, links to prior knowledge, a genuine comprehension check and reformulation when needed; a gap is reading sentences from the source aloud or summarising every detail in source order, after which the partner cannot answer. A prepared written or visual aid to explain from is acceptable.",
+      "citations": [
+        "coe2020",
+        "mauranen2012",
+        "garciawei2014",
+        "palincsarbrown1984"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.text.overall",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:med.strat.breaking-down-information",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:plu.plurilingual-repertoire",
+          "levels": [
+            "B1+",
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
     }
   ],
   "dependencies": [
@@ -2461,12 +2592,6 @@
     },
     {
       "topicId": "prs.signposting",
-      "prerequisiteId": "coh.linking-adverbials",
-      "strength": "soft",
-      "reason": "Micro-markers and many macro-markers express the same additive, contrastive and sequential relations as written linking adverbials"
-    },
-    {
-      "topicId": "prs.signposting",
       "prerequisiteId": "reg.spoken-vs-written",
       "strength": "soft",
       "reason": "Understanding that speech is processed in real time without the visual layout of writing explains why spoken discourse needs denser, differently worded signposting"
@@ -2488,6 +2613,90 @@
       "prerequisiteId": "sen.concision",
       "strength": "soft",
       "reason": "Text economy on posters depends on removing redundancy and compressing claims"
+    },
+    {
+      "topicId": "prs.signposting",
+      "prerequisiteId": "phr.spoken-academic-formulas",
+      "strength": "soft",
+      "reason": "Many macro-markers are spoken academic formulas that speakers retrieve as chunks under real-time pressure"
+    },
+    {
+      "topicId": "prs.signposting",
+      "prerequisiteId": "prn.thought-groups",
+      "strength": "soft",
+      "reason": "Audible section boundaries depend on pausing and chunking speech into thought groups"
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "sem.checking-understanding",
+      "strength": "hard",
+      "reason": "Explaining to peers depends on noticing non-understanding, checking and reformulating, which are the core confirmation and repair moves"
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "fun.defining",
+      "strength": "soft",
+      "reason": "Accessible explanations usually begin by defining the key term and its distinguishing features"
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "fun.exemplifying",
+      "strength": "soft",
+      "reason": "Choosing an example or analogy that fits the listener is a central explanation move"
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "soft",
+      "reason": "Drawing on shared languages to clarify a concept applies plurilingual strategies for making meaning"
+    },
+    {
+      "topicId": "sem.facilitating",
+      "prerequisiteId": "sem.explaining-concepts",
+      "strength": "soft",
+      "reason": "Facilitators encourage conceptual talk by rephrasing, exemplifying and checking that the group shares an understanding of key ideas"
+    },
+    {
+      "topicId": "grw.inclusive-collaboration",
+      "prerequisiteId": "sem.explaining-concepts",
+      "strength": "soft",
+      "reason": "Explaining concepts and readings for members with different language and disciplinary backgrounds is one of the main practical ways of making participation equitable"
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "prs.purpose-audience",
+      "strength": "hard",
+      "reason": "A pitch is defined by selecting content for a mixed audience and a single purpose"
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "reg.non-specialist-audiences",
+      "strength": "hard",
+      "reason": "Pitches to mixed audiences apply plain-language and public-engagement principles to spoken research communication"
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "prs.rehearsal-timing",
+      "strength": "hard",
+      "reason": "Fixed, very short time limits make timed rehearsal and planned cuts essential"
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "prs.delivery-voice",
+      "strength": "soft",
+      "reason": "With little time to repeat, the key message must be made audible through pausing and prominence"
+    },
+    {
+      "topicId": "prs.speaking-from-notes",
+      "prerequisiteId": "grm.spoken-grammar",
+      "strength": "soft",
+      "reason": "Formulating sentences from prompts draws on spoken grammar such as clause chaining, heads and ellipsis rather than written sentence structure"
+    },
+    {
+      "topicId": "sem.turn-taking",
+      "prerequisiteId": "grm.spoken-grammar",
+      "strength": "soft",
+      "reason": "Holding the floor while formulating relies on spoken-grammar resources such as discourse markers, fillers and heads"
     }
   ],
   "guidance": [
@@ -2585,9 +2794,9 @@
       "difficulties": [
         {
           "pattern": "Roles allocated by assumed language ability (e.g. multilingual members given formatting or slide design only).",
-          "kind": "conceptual",
+          "kind": "institutional",
           "revealedBy": "Some members have no substantive content role; they report feeling sidelined.",
-          "response": "Discuss Leki's (2001) findings with the whole group, allocate by expertise and development goals, and rotate roles where possible.",
+          "response": "Teachers should require negotiated role allocation in the group plan and check it early. Discuss Leki's (2001) findings with the whole group, allocate by expertise and development goals, and rotate roles where possible.",
           "reteachPrerequisiteId": "grw.purposes"
         },
         {
@@ -2779,9 +2988,9 @@
       "difficulties": [
         {
           "pattern": "'They can't contribute much because their English isn't good enough.'",
-          "kind": "conceptual",
+          "kind": "institutional",
           "revealedBy": "Peers allocate peripheral tasks or ignore suggestions from some members.",
-          "response": "Discuss evidence of positioning (Leki, 2001), separate language proficiency from expertise, and allocate content roles to all.",
+          "response": "Address the group and the task design, not the overlooked member: discuss evidence of positioning (Leki, 2001), separate language proficiency from expertise and allocate content roles to all. Teachers can reduce the problem by setting rotating roles and individual preparation that every member brings to the group, and by checking role allocation in group plans.",
           "reteachPrerequisiteId": null
         },
         {
@@ -2805,7 +3014,7 @@
         "partialResponse": "Notices the problem but frames it as the overlooked member's language deficit.",
         "gapResponse": "Notices nothing problematic."
       },
-      "contextNotes": "Relevant at every stage. Foundation and pre-sessional groups are often all multilingual, so practise accommodation among varied Englishes. In-sessional UG and PGT groups mix home and international students, where awareness among more proficient users is critical. PGR teams are often international.",
+      "contextNotes": "Relevant at every stage. Foundation and pre-sessional groups are often all multilingual, so practise accommodation among varied Englishes. In-sessional UG and PGT groups mix home and international students, where awareness among more proficient users is critical. PGR teams are often international. Inclusive practice also covers disabled and neurodivergent members, for example by agreeing written channels, processing time and accessible meeting formats.",
       "citations": [
         "leki2001",
         "jenkins2014",
@@ -2871,13 +3080,13 @@
         "partialResponse": "Mentions a final proofread only.",
         "gapResponse": "Assumes sections will simply be combined."
       },
-      "contextNotes": "Pre-sessional and in-sessional UG learners co-write reports and proposals. PGT learners co-write consultancy-style or business reports. PGR researchers co-author papers, where contributor roles and authorship conventions also matter.",
+      "contextNotes": "Pre-sessional learners may co-write short reports. In-sessional UG learners co-write reports and proposals in many modules, especially in engineering and business, where it is commonly assessed. PGT learners co-write consultancy-style or business reports. PGR researchers co-author papers, where contributor roles and authorship conventions also matter.",
       "citations": [
         "leki2001",
         "storch2005"
       ],
       "reviewNotes": [
-        "Storch (2005) is a proposed reference not yet in the bibliography; it concerns pair writing in class rather than extended group projects, so its relevance is indirect."
+        "Storch (2005) concerns pair writing in class rather than extended group projects, so its relevance to assessed group reports is indirect."
       ]
     },
     {
@@ -2991,7 +3200,7 @@
         "partialResponse": "Describes the audience generally ('my classmates') and a broad topic rather than a purpose.",
         "gapResponse": "Cannot say who the audience is or what they should take away."
       },
-      "contextNotes": "Foundation learners work with peer audiences and simple purposes. Pre-sessional learners address mixed-discipline audiences of peers and assessors. In-sessional UG and PGT learners adapt to module audiences; PGR researchers must adapt the same research to specialist, interdisciplinary and public audiences.",
+      "contextNotes": "Foundation learners work with peer audiences and simple purposes. Pre-sessional UG learners address peers and assessors; pre-sessional PG learners, for whom it is core, plan for mixed-discipline audiences and adapt specialist content. In-sessional UG and PGT learners adapt to module audiences; PGR researchers revisit it when adapting the same research for specialist, interdisciplinary and public audiences.",
       "citations": [
         "rowleyjolivet2005",
         "hoodforey2005",
@@ -3124,14 +3333,14 @@
     },
     {
       "topicId": "prs.signposting",
-      "summary": "Thompson (2003) shows lecturers signalling organisation through both lexical metadiscourse and intonation, Chaudron and Richards (1986) found that macro-markers aided listeners' recall of lectures, and Deroey and Taverniers (2012) describe the lexicogrammatical markers lecturers use to flag important points. Teach lexical and prosodic signalling together, and treat density as a choice rather than maximising the number of markers.",
+      "summary": "Thompson (2003) shows lecturers signalling organisation through both lexical metadiscourse and intonation, and notes that EAP listening materials do not always reflect these authentic patterns; Chaudron and Richards (1986) found that macro-markers aided listeners' recall of lectures. Biber, Conrad and Cortes (2004) found discourse-organising lexical bundles to be particularly frequent in classroom teaching, and Deroey and Taverniers (2012) describe how lecturers flag important points. Teach production from authentic or authentic-like spoken models, teach lexical and prosodic signalling together, and treat density as a choice rather than maximising the number of markers. Noticing markers in lectures, developed as a listening skill, is a useful starting point for production.",
       "activities": [
         {
           "title": "Signpost and pause",
           "learnerActions": [
-            "Mark the section boundaries in your plan and write a transition for each",
+            "Mark the section boundaries in your plan and write a spoken transition for each",
             "Mark a pause and a pitch reset at each boundary",
-            "Record the talk and check whether a listener can hear the boundaries"
+            "Record the talk and check whether a listener can hear the boundaries without seeing the slides"
           ],
           "intendedInsight": "Signposting is prosodic as well as lexical.",
           "rationale": "Reflects Thompson's (2003) evidence that intonation and pausing contribute to signalling organisation.",
@@ -3140,13 +3349,27 @@
           ]
         },
         {
+          "title": "Written-to-spoken swap",
+          "learnerActions": [
+            "Take a written paragraph of your own that uses connectors such as furthermore and moreover",
+            "Turn it into a one-minute spoken explanation using spoken markers and pauses",
+            "Record it, listen back and note where a listener might get lost"
+          ],
+          "intendedInsight": "Spoken signposting is worded and paced differently from written linking.",
+          "rationale": "Biber, Conrad and Cortes (2004) show that classroom teaching uses distinctive discourse-organising bundles, and Thompson (2003) highlights the role of intonation in signalling organisation.",
+          "citations": [
+            "biber2004bundles",
+            "thompson2003lectures"
+          ]
+        },
+        {
           "title": "Marking what matters",
           "learnerActions": [
-            "Identify the single most important point in each section",
+            "Identify the single most important point in each section of your talk",
             "Mark it with a relevance marker and prosodic emphasis",
             "Ask listeners afterwards to recall the key point of each section"
           ],
-          "intendedInsight": "Listeners remember what speakers explicitly flag as important.",
+          "intendedInsight": "Listeners are more likely to remember what speakers explicitly flag as important.",
           "rationale": "Draws on Deroey and Taverniers's (2012) description of relevance markers in lectures.",
           "citations": [
             "deroey2012"
@@ -3159,30 +3382,39 @@
           "kind": "overgeneralisation",
           "revealedBy": "Repetitive markers that sound mechanical; signposts outnumber content statements.",
           "response": "Teach a range of transitions, including content-based ones that summarise and preview, and reduce density for short talks.",
-          "reteachPrerequisiteId": null
+          "reteachPrerequisiteId": "phr.spoken-academic-formulas"
         },
         {
-          "pattern": "Delivering signposts without pausing or changing pitch, so boundaries are inaudible.",
+          "pattern": "Presentations that sound read aloud because they use written connectors.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Furthermore, moreover and in addition in spoken presentations; listeners losing the structure.",
+          "response": "Model spoken markers and rehearse them as chunks, and draw attention to differences between spoken and written registers.",
+          "reteachPrerequisiteId": "reg.spoken-vs-written"
+        },
+        {
+          "pattern": "Markers planned in advance disappear, or are delivered without pausing, under the pressure of live delivery.",
           "kind": "performance",
-          "revealedBy": "Listeners cannot reconstruct the structure despite correct lexical markers.",
-          "response": "Practise pausing before and after major transitions and recording to check audibility.",
-          "reteachPrerequisiteId": null
+          "revealedBy": "Clear slides but no verbal signalling between sections, or correct markers run into the surrounding speech so that listeners cannot hear the boundaries.",
+          "response": "Rehearse transitions specifically, attach them to slide changes and mark pauses in the notes. Do not respond by adding more markers; make the existing ones audible.",
+          "reteachPrerequisiteId": "prn.thought-groups"
         }
       ],
       "diagnostic": {
-        "task": "Ask a listener to sketch the structure of a 3-minute recorded section of the learner's talk.",
-        "strongResponse": "The sketch matches the plan; transitions are marked lexically and prosodically.",
-        "partialResponse": "Markers present but boundaries blurred by continuous delivery.",
-        "gapResponse": "No discernible structure."
+        "task": "The learner gives a 60-second spoken preview and the first transition of a talk on a topic of their choice, without slides; a listener then states the planned sections.",
+        "strongResponse": "The listener names the sections; the learner uses at least two spoken-style macro-markers and pauses at the boundary.",
+        "partialResponse": "The structure is announced but with written-style connectors, or the boundary is not marked by pausing.",
+        "gapResponse": "No structuring language; the listener cannot say what comes next."
       },
-      "contextNotes": "Foundation and pre-sessional learners need a core repertoire. In-sessional learners refine density and variety and adapt signposting to group handovers and recorded formats.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG) courses build a core repertoire for short assessed talks and seminar contributions, often alongside recognising markers in lectures. In-sessional UG learners refine density and variety and adapt signposting to group handovers and recorded formats. PGT and PGR learners revisit it for longer research talks and, for doctoral students who teach, for structuring their own explanations and lectures.",
       "citations": [
         "thompson2003lectures",
         "chaudronrichards1986",
-        "deroey2012"
+        "deroey2012",
+        "biber2004bundles"
       ],
       "reviewNotes": [
-        "The cited studies concern lectures; the guidance assumes similar listener needs in student presentations."
+        "The cited studies concern lectures; the guidance assumes similar listener needs in student presentations and spoken explanations.",
+        "Review response (R1-18): coh.spoken-signposting has been absorbed here for production; reception stays with lis.lecture-discourse-markers. The recommended hard edge between the two is not added from this file because the listening strand already links lis.lecture-discourse-markers <- prs.signposting (soft), and the reverse edge would create a cycle. If a reception-first order is preferred, the listening strand should drop its edge and prs.signposting <- lis.lecture-discourse-markers (soft) should be added here."
       ]
     },
     {
@@ -3318,7 +3550,7 @@
         "partialResponse": "Accurate description but no interpretation, or interpretation without orientation.",
         "gapResponse": "Reads values left to right or misreads the chart."
       },
-      "contextNotes": "Foundation and pre-sessional learners practise with simple charts. In-sessional UG and PGT learners explain disciplinary visuals; PGR researchers explain their own complex results, often under time pressure.",
+      "contextNotes": "Foundation and pre-sessional UG learners practise with simple charts. Pre-sessional PG learners treat it as a core skill because postgraduate presentations in most fields rely on data. In-sessional UG and PGT learners explain disciplinary visuals; PGR researchers explain their own complex results, often under time pressure.",
       "citations": [
         "rowleyjolivet2002",
         "swalesfeak2012",
@@ -3386,7 +3618,7 @@
         "partialResponse": "Appropriate pace but even stress, or good prominence with pauses mid-phrase.",
         "gapResponse": "Rapid, unpaused delivery or pauses unrelated to meaning."
       },
-      "contextNotes": "Foundation and pre-sessional learners focus on thought groups, pace and key-word stress. In-sessional learners refine prominence on technical terms; PGR researchers work on sustaining engaging prosody across longer talks and in large rooms.",
+      "contextNotes": "Foundation and pre-sessional UG learners focus on thought groups, pace and key-word stress as core assessed features; pre-sessional PG learners refine prominence on technical terms. In-sessional UG learners extend this to longer and recorded talks, and PGT and PGR learners revisit it for large rooms, longer talks and teaching. Learners who stammer should be assessed on intelligibility, organisation and content rather than on speech rate or smoothness, with agreed adjustments such as extra time.",
       "citations": [
         "hahn2004",
         "pickering2001",
@@ -3447,7 +3679,7 @@
         "partialResponse": "Identifies general impressions ('I look nervous') without specific behaviours.",
         "gapResponse": "Cannot identify any features or focuses only on appearance."
       },
-      "contextNotes": "Foundation and pre-sessional learners benefit most from basic awareness and video review. In-sessional learners adapt to larger rooms, group formats and online cameras.",
+      "contextNotes": "Foundation and pre-sessional learners benefit most from basic awareness and video review. In-sessional UG learners adapt to larger rooms, group formats and online cameras; at PGT level the topic is left to self-access. Autistic presenters and others for whom sustained eye contact is uncomfortable can use alternatives such as scanning or looking between faces, and should not be marked down for it.",
       "citations": [
         "coe2001"
       ],
@@ -3509,7 +3741,7 @@
         "partialResponse": "Bullet-point notes that are full sentences, or near-verbatim recall.",
         "gapResponse": "A full script read aloud."
       },
-      "contextNotes": "Foundation and pre-sessional learners often begin with scripts; the move to prompts should be staged. In-sessional and PGT learners apply the same principles to recorded and online presentations, where reading from screen is tempting.",
+      "contextNotes": "Foundation learners often begin with scripts, so the move to prompts is core there and should be staged. Pre-sessional learners extend it to longer assessed talks. In-sessional and PGT learners revisit the same principles for recorded and online presentations, where reading from screen is tempting. Learners with dyslexia or other specific learning differences may work better from visual prompts such as mind maps, icons or large-print cue cards than from text-based notes.",
       "citations": [
         "halliday1989",
         "biber2006"
@@ -3576,7 +3808,7 @@
         "partialResponse": "Answers relevantly but at length, or becomes defensive under challenge.",
         "gapResponse": "Misunderstands questions or cannot respond to the challenge."
       },
-      "contextNotes": "Pre-sessional learners practise in assessed presentations with timed Q&A. In-sessional UG and PGT learners face module Q&A and project panels. PGR researchers handle conference discussion sessions, upgrade panels and vivas, where questions may be expert and searching.",
+      "contextNotes": "Foundation learners practise short, predictable Q&A after group talks. Pre-sessional UG and PG learners handle timed Q&A in assessed presentations, with PG courses adding challenges to evidence and method. In-sessional UG and PGT learners face module Q&A and project panels. PGR researchers handle conference discussion sessions, progression panels and vivas, where questions may be expert and searching. Letting questioners repeat or write down questions, and allowing short thinking time, supports learners with hearing or processing differences.",
       "citations": [
         "wulff2009",
         "morita2000"
@@ -3622,9 +3854,9 @@
         },
         {
           "pattern": "Multilingual members allocated only slide-making or the shortest speaking part on the basis of assumed language ability.",
-          "kind": "conceptual",
+          "kind": "institutional",
           "revealedBy": "Unequal speaking time; members report being sidelined.",
-          "response": "Address the whole group's assumptions, allocate by content and development goals, and provide support for all speakers.",
+          "response": "Address the whole group's assumptions rather than the sidelined member; teachers can require each member to present substantive content and check plans for balanced speaking roles, and provide support for all speakers.",
           "reteachPrerequisiteId": null
         },
         {
@@ -3641,7 +3873,7 @@
         "partialResponse": "Similar topic descriptions but no shared message.",
         "gapResponse": "Members describe unrelated sections."
       },
-      "contextNotes": "Foundation and pre-sessional programmes often use group presentations as early assessment. In-sessional UG and PGT modules use them widely, often with peer assessment of contribution.",
+      "contextNotes": "Foundation programmes often use group presentations as early assessment, and in-sessional UG modules use them widely, often with peer assessment of contribution. Pre-sessional and PGT courses use them less centrally.",
       "citations": [
         "leki2001",
         "coe2020"
@@ -3650,36 +3882,64 @@
     },
     {
       "topicId": "prs.posters",
-      "summary": "MacIntosh-Murray (2007) studied poster presentations at a health-services conference and found tensions between the forms of posters, the norms of poster sessions and the value participants attached to them, with presenter–visitor interaction central to their communicative work. Posters are read along visual paths shaped by layout and salience (Kress & van Leeuwen, 2006). Teach a short adaptable overview, gauging the visitor, guiding them around the poster and sustaining a conversation.",
+      "summary": "MacIntosh-Murray (2007) analyses the conference poster as a genre with its own forms, norms and values, noting the gap between advice that favours concise, visual posters and the text-heavy posters often produced, and the centrality of presenter–visitor interaction to the poster's communicative work. Kress and van Leeuwen's (2006) concepts of salience and composition help learners design reading paths deliberately, and accessibility criteria for contrast and use of colour (W3C, 2023) apply by analogy. Teach design and presentation together: the poster should be designed to support the spoken overview and the questions it will prompt.",
       "activities": [
         {
-          "title": "Thirty seconds or two minutes",
+          "title": "Poster gallery critique",
           "learnerActions": [
-            "Prepare a 30-second and a 2-minute overview of your poster",
-            "Practise both with a partner who signals how much time they have",
-            "Identify which parts of the poster each version points to"
+            "Examine a set of real posters from a conference or departmental display in your field",
+            "Rate each for clarity of the main message at two metres, reading path and text density",
+            "Identify features shared by the most effective posters and draft design principles for your discipline"
           ],
-          "intendedInsight": "Poster presenters adapt the length of their overview to the visitor.",
-          "rationale": "Reflects the interactive, visitor-driven nature of poster sessions described by MacIntosh-Murray (2007).",
+          "intendedInsight": "Effective posters prioritise one message and are designed for viewing at a distance.",
+          "rationale": "Uses authentic exemplars to surface genre norms, in line with MacIntosh-Murray's (2007) genre perspective.",
           "citations": [
             "macintosh2007"
           ]
         },
         {
+          "title": "Word-budget redesign",
+          "learnerActions": [
+            "Set a word budget for your own poster draft",
+            "Cut text to fit, converting prose results into captioned figures, and restructure along a clear reading path",
+            "Test the poster with a peer who has 30 seconds to state the main message"
+          ],
+          "intendedInsight": "A word budget forces prioritisation of claims.",
+          "rationale": "Applies salience and composition (Kress & van Leeuwen, 2006) under a realistic constraint.",
+          "citations": [
+            "kressvanleeuwen2006"
+          ]
+        },
+        {
           "title": "Visitor role cards",
           "learnerActions": [
-            "Visitors receive role cards (specialist, student from another field, potential collaborator, sceptic)",
-            "Presenters gauge the visitor with an opening question and adapt their explanation",
+            "Prepare a 30-second and a 2-minute overview of your poster",
+            "Visitors draw role cards (specialist, student from another field, potential collaborator, sceptic) and signal how much time they have",
+            "Open with a question to gauge each visitor and adapt the length, depth and route through the poster",
             "Visitors give feedback on how well the explanation fitted them"
           ],
           "intendedInsight": "Poster conversations are dialogues tailored to each visitor.",
-          "rationale": "Practises the presenter–visitor interaction central to the genre (MacIntosh-Murray, 2007).",
+          "rationale": "Practises the visitor-driven interaction central to the genre (MacIntosh-Murray, 2007).",
           "citations": [
             "macintosh2007"
           ]
         }
       ],
       "difficulties": [
+        {
+          "pattern": "Putting the essay or abstract on the poster.",
+          "kind": "prior-schooling",
+          "revealedBy": "Dense paragraphs in small type; the full text of an abstract or introduction. This is common where earlier assessment has rewarded complete written coverage of a topic.",
+          "response": "Use word budgets and distance testing, and model how to cut. Simply saying 'use less text' rarely helps.",
+          "reteachPrerequisiteId": "sen.concision"
+        },
+        {
+          "pattern": "Decoration before hierarchy.",
+          "kind": "conceptual",
+          "revealedBy": "Background images, many colours and fonts, and no clear entry point.",
+          "response": "Establish the hierarchy (headline, key figure, supporting sections) first and add decoration last, if at all.",
+          "reteachPrerequisiteId": "mmd.multimodal-literacy"
+        },
         {
           "pattern": "Delivering the same memorised monologue to every visitor.",
           "kind": "performance",
@@ -3691,23 +3951,25 @@
           "pattern": "Standing silently and waiting for visitors to read the poster.",
           "kind": "affective",
           "revealedBy": "Visitors pass by; few conversations begin.",
-          "response": "Prepare a friendly opening line and a one-sentence summary to offer.",
+          "response": "Prepare a friendly opening line and a one-sentence summary to offer. Presenters who find unscripted openings difficult, including some autistic presenters and people who stammer, can use a printed one-line summary or an invitation to ask questions as an alternative way in.",
           "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to present their poster to you twice, once as a specialist and once as a non-specialist.",
-        "strongResponse": "Different explanations adapted to each visitor, using the poster to guide attention.",
-        "partialResponse": "Some adaptation of vocabulary but the same structure and length.",
-        "gapResponse": "Identical monologue both times."
+        "task": "Show the learner's poster to a peer for 30 seconds and ask the peer to state the main finding; then ask the learner to present the poster to you as a non-specialist visitor.",
+        "strongResponse": "The peer identifies the intended main finding, and the learner's overview is brief, adapted and uses the poster to guide attention.",
+        "partialResponse": "The peer identifies the topic but not the finding, or the overview is accurate but not adapted.",
+        "gapResponse": "The peer cannot identify the topic or the finding, and the learner recites a fixed speech."
       },
-      "contextNotes": "Pre-sessional and UG programmes sometimes use posters as assessed projects. PGT and PGR learners present at departmental events and conferences, where posters are a common entry point to research communities.",
+      "contextNotes": "Pre-sessional programmes sometimes assess posters as group or individual projects, more often for postgraduate entrants in science and health fields. In-sessional UG learners meet discipline posters, often produced in groups, and PGT learners present dissertation posters. PGR researchers present at conferences, where poster norms vary by field and event and the session is a common entry point to research networks.",
       "citations": [
         "macintosh2007",
-        "kressvanleeuwen2006"
+        "kressvanleeuwen2006",
+        "w3c2023wcag"
       ],
       "reviewNotes": [
-        "MacIntosh-Murray (2007) is a single case study of one conference; generalisations should be cautious."
+        "MacIntosh-Murray (2007) is a single case study of one health-services conference; generalisations about poster norms should be cautious.",
+        "W3C (2023) concerns web content; its contrast and use-of-colour criteria are applied to posters by analogy."
       ]
     },
     {
@@ -3770,7 +4032,7 @@
         "partialResponse": "Clear content but contribution emerges late, or answers are defensive.",
         "gapResponse": "Background-heavy with no clear contribution; overruns."
       },
-      "contextNotes": "PGT learners present dissertation projects or proposals. PGR researchers present at progression reviews, departmental seminars and conferences, where time limits are strict and audiences are specialist; disciplinary conventions (e.g. results-heavy sciences, text-heavy humanities papers read aloud) vary and should be observed locally.",
+      "contextNotes": "Pre-sessional PG courses for research-degree entrants may introduce the genre through a presentation of a research proposal. PGT learners present dissertation projects or proposals. PGR researchers present at progression reviews, departmental seminars and conferences, where time limits are strict and audiences are specialist; disciplinary conventions (e.g. results-heavy sciences, text-heavy humanities papers read aloud) vary and should be observed locally. Short pitches for mixed audiences are treated as a separate genre.",
       "citations": [
         "rowleyjolivet2005",
         "rowleyjolivet2002",
@@ -3901,13 +4163,85 @@
         "partialResponse": "Rehearsed once without timing.",
         "gapResponse": "Has not rehearsed aloud."
       },
-      "contextNotes": "All stages benefit; foundation and pre-sessional learners need rehearsal built into lessons, while PGR researchers need strict timing for conference slots.",
+      "contextNotes": "Foundation and pre-sessional learners need rehearsal built into lessons, with recordings as evidence. In-sessional UG and PGT learners revisit it for assessed talks; strict timing for conference slots and pitches is developed within those genres rather than taught separately at PGR level.",
       "citations": [
         "skehan1998",
         "levelt1989"
       ],
       "reviewNotes": [
         "Skehan (1998) reviews planning studies on L2 tasks rather than presentations; applying them to rehearsal is an inference."
+      ]
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "summary": "Hyland (2010) shows that writers addressing non-specialist readers construct proximity differently from those writing for peers, foregrounding relevance, engagement and accessible framing; the same choices shape pitches for mixed audiences. Research on conference introductions shows speakers combining context, argument and audience interaction from the outset (Rowley-Jolivet & Carter-Thomas, 2005), and short formats compress these moves into seconds. The Researcher Development Framework treats communicating with and engaging diverse audiences as part of researcher development (Vitae, 2010). Teach the pitch as one narrative built backwards from its significance, rehearsed at several lengths, and contrast it with the specialist research presentation.",
+      "activities": [
+        {
+          "title": "One sentence, three lengths",
+          "learnerActions": [
+            "Write one sentence stating the problem, what you did or will do, and why it matters",
+            "Expand it into a 30-second and a three-minute version, keeping the same narrative spine",
+            "Deliver both to a partner from another discipline, who restates your research in their own words",
+            "Revise wherever your partner's restatement differs from what you meant"
+          ],
+          "intendedInsight": "A pitch is a single narrative that can be lengthened or shortened, not a shortened thesis.",
+          "rationale": "Builds on the context, argument and interaction moves of conference introductions (Rowley-Jolivet & Carter-Thomas, 2005), compressed for short formats.",
+          "citations": [
+            "rowleyjolivet2005"
+          ]
+        },
+        {
+          "title": "Jargon and proximity audit",
+          "learnerActions": [
+            "Record a draft pitch and transcribe it",
+            "Highlight every technical term, abstraction and acronym, and mark where you address the audience directly or relate the work to their experience",
+            "Replace or explain the highlighted terms and add one concrete example or analogy",
+            "Check that the simplified version has not changed or overstated your findings"
+          ],
+          "intendedInsight": "Accessibility comes from relevance and concrete framing as well as from simpler words.",
+          "rationale": "Applies Hyland's (2010) account of how proximity to non-specialist readers is constructed to a spoken pitch.",
+          "citations": [
+            "hyland2010proximity"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Compressing a conference talk or thesis chapter into three minutes: background, methods and results in miniature.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Dense, jargon-heavy pitches that overrun; listeners cannot say why the work matters.",
+          "response": "Build from the significance backwards, limit the pitch to one problem and one finding or aim, and test it with listeners from other fields. Do not respond by asking the presenter to speak faster.",
+          "reteachPrerequisiteId": "prs.purpose-audience"
+        },
+        {
+          "pattern": "Overclaiming significance in pursuit of impact, especially for projects without results.",
+          "kind": "conceptual",
+          "revealedBy": "Promises of outcomes that the evidence does not support; certainty stated more strongly than in the written work.",
+          "response": "Distinguish stating relevance from claiming outcomes, practise hedged significance statements for work in progress, and check each claim against what has actually been found.",
+          "reteachPrerequisiteId": "reg.non-specialist-audiences"
+        },
+        {
+          "pattern": "Losing the thread under a strict cut-off, especially in competitions that do not allow notes.",
+          "kind": "performance",
+          "revealedBy": "Word-for-word scripts that break down when one phrase is forgotten; finishing well short or being stopped mid-sentence.",
+          "response": "Rehearse from a narrative spine and key phrases rather than a word-for-word script, and practise recovering mid-pitch. Where rules ban notes or set fixed formats, check what adjustments are available for presenters who stammer, are neurodivergent or have other relevant disabilities.",
+          "reteachPrerequisiteId": "prs.rehearsal-timing"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner for a 60-second spoken pitch of their research to you as an educated non-specialist, then ask, 'So why does that matter?'",
+        "strongResponse": "A clear problem–approach–significance narrative in accessible terms, a concrete hook and a significance claim calibrated to the evidence; the follow-up answer adds a new, concrete point.",
+        "partialResponse": "A clear topic, but significance is generic ('it is important for the field') or jargon remains.",
+        "gapResponse": "A list of methods or background with no stated problem or significance."
+      },
+      "contextNotes": "PGR researchers meet the format in three-minute thesis-style competitions, conference networking, progression events, interviews and funding contexts; it complements but differs from the specialist research presentation. PGT learners may pitch dissertation or consultancy projects, especially in business, engineering and design programmes. Formats vary in time limit, slides and props, so learners should check the rules of the event.",
+      "citations": [
+        "hyland2010proximity",
+        "rowleyjolivet2005",
+        "vitae2010"
+      ],
+      "reviewNotes": [
+        "No genre analysis of three-minute thesis or elevator pitches is in the project bibliography; the guidance extrapolates from research on popularisation and on conference introductions."
       ]
     },
     {
@@ -3971,7 +4305,7 @@
         "partialResponse": "Mentions reading and speaking but frames contributions as correct answers to the tutor's questions.",
         "gapResponse": "Cannot describe what happens in a seminar, or treats it as a lecture with occasional questions."
       },
-      "contextNotes": "At foundation level, emphasise the basic distinctions between lectures, seminars and tutorials and why contribution matters. Pre-sessional courses should model the seminar style of the receiving institution and connect it explicitly to any assessed seminar. In-sessional UG and PGT support works best embedded with subject staff, using real module expectations; PGT students on one-year programmes may need this in the first week.",
+      "contextNotes": "At foundation level, emphasise the basic distinctions between lectures, seminars and tutorials and why contribution matters. Pre-sessional UG courses should model the seminar style of the receiving institution and connect it to any assessed seminar. Pre-sessional PG courses should prepare learners for PGT seminars in which contribution may be assessed from the first weeks, and PGT in-sessional support may need to revisit this in week one. In-sessional UG support works best embedded with subject staff, using real module expectations. Participation can take more than one form, including written and online contributions, and criteria should say which forms count.",
       "citations": [
         "ferristagg1996",
         "morita2004",
@@ -4042,7 +4376,7 @@
         "partialResponse": "Accurate summary notes with no position, link or question.",
         "gapResponse": "No notes, highlighted text only, or a full script."
       },
-      "contextNotes": "Foundation learners may need guided reading questions and shorter texts. Pre-sessional learners should prepare from authentic readings with discussion questions. In-sessional UG and PGT learners face heavy reading loads, so selective preparation matters most. PGR researchers preparing for reading groups and lab meetings should connect readings to their own projects.",
+      "contextNotes": "Foundation learners may need guided reading questions and shorter texts, and preparation is core there and on pre-sessional UG courses. Pre-sessional PG learners prepare from authentic readings with discussion questions, often with heavier reading loads. In-sessional UG and PGT learners face heavy reading loads, so selective preparation matters most. Learners with dyslexia or slower reading speeds may need texts in advance and in accessible formats, which is a course-design responsibility.",
       "citations": [
         "skehan1998",
         "morita2000",
@@ -4100,9 +4434,9 @@
         },
         {
           "pattern": "Entry attempts are ignored or talked over because the learner has been positioned as less competent.",
-          "kind": "affective",
+          "kind": "institutional",
           "revealedBy": "The learner reports trying to speak and being overlooked; observation shows peers not taking up their points.",
-          "response": "Treat this as a group dynamic, not only the learner's problem: use structures such as rounds and nomination, and teach all students to take up others' points. Give the learner re-entry moves ('As I was starting to say…').",
+          "response": "Treat this as a group and course-design issue, not the learner's problem: teachers should use structures such as rounds, nomination with notice and small-group work, and teach all students to take up others' points. Give the learner re-entry moves ('As I was starting to say…').",
           "reteachPrerequisiteId": null
         }
       ],
@@ -4112,7 +4446,7 @@
         "partialResponse": "Enters mainly when invited; recognises missed chances but lacks moves to take them.",
         "gapResponse": "Little or no participation and cannot identify where entry would have been possible."
       },
-      "contextNotes": "Foundation and pre-sessional classes can begin with structured turn allocation before moving to free discussion. In-sessional UG learners often meet fast discussions among peers who share local references. PGT and PGR settings may include tutor-dominated or strongly argumentative styles, so the emphasis shifts to entering and holding the floor under pressure.",
+      "contextNotes": "Foundation and pre-sessional classes can begin with structured turn allocation before moving to free discussion. In-sessional UG learners often meet fast discussions among peers who share local references. PGT and PGR settings may include tutor-dominated or strongly argumentative styles, so the emphasis shifts to entering and holding the floor under pressure. Learners who stammer, are autistic, are deaf or hard of hearing, or need more processing time may contribute through agreed routes such as a raised hand, invitation with notice, or a written or chat contribution; judge what is contributed, not conformity to one turn-taking style.",
       "citations": [
         "basturkmen2003",
         "morita2004",
@@ -4154,10 +4488,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "'I'll just tell them what the article said — the author is the expert, so my opinion doesn't matter.'",
+          "pattern": "'If I summarise the article accurately, that shows I have done the reading, and that is what the tutor wants.'",
           "kind": "prior-schooling",
           "revealedBy": "Contributions summarise readings without evaluation; the learner hesitates when asked what they think.",
-          "response": "Show that evaluative engagement with readings is expected, model contributions that take a position on a source, and make 'my view is… because…' a required element of practice tasks.",
+          "response": "Where earlier assessment rewarded accurate reproduction of texts, for example through comprehension-question exams, summary is a reasonable strategy. Make the shift explicit by showing seminar criteria that reward a position, model contributions that move from a one-sentence summary to a view, and make 'my view is… because…' a required element of practice tasks.",
           "reteachPrerequisiteId": "arg.argument-concept"
         },
         {
@@ -4216,10 +4550,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "'Disagreeing with the tutor would be disrespectful.'",
-          "kind": "prior-schooling",
-          "revealedBy": "The learner agrees with tutors and authors regardless of their own view, and voices disagreement only privately.",
-          "response": "Show tutors explicitly inviting challenge and examples of respectful disagreement with authority; sequence practice from published authors to peers to tutors. Take the concern seriously rather than dismissing it.",
+          "pattern": "'If I disagree with my friend in the seminar, they will think I am attacking them.'",
+          "kind": "affective",
+          "revealedBy": "Learners voice disagreement only privately or only with people they do not know; in class they agree, then raise the point afterwards.",
+          "response": "Separate the idea from the person explicitly: practise disagreements that credit the other speaker's point before locating the difference, and debrief how the exchange felt on both sides. This concern is common among novice participants of all backgrounds and is not a cultural trait.",
           "reteachPrerequisiteId": "prg.politeness"
         },
         {
@@ -4304,7 +4638,7 @@
         "partialResponse": "Links generically and adds content only loosely related to the turn.",
         "gapResponse": "Makes an unrelated point or simply agrees."
       },
-      "contextNotes": "Pre-sessional programmes should introduce linking as a core discussion skill. In-sessional UG and PGT learners need it in fast discussions where peers share background knowledge, and PGT seminar criteria often reward synthesis of peers' contributions. In PGR reading groups, building on others includes relating colleagues' points to different research projects.",
+      "contextNotes": "Pre-sessional programmes should introduce linking as a discussion skill. In-sessional UG and PGT learners need it in fast discussions where peers share background knowledge, and PGT seminar criteria often reward synthesis of peers' contributions. In PGR reading groups, building on others includes relating colleagues' points to different research projects.",
       "citations": [
         "basturkmen2002",
         "basturkmen2003"
@@ -4490,7 +4824,7 @@
         "partialResponse": "Attribution present but no comment, or reliance on a long quotation.",
         "gapResponse": "No attribution."
       },
-      "contextNotes": "Pre-sessional learners practise with set readings. In-sessional UG and PGT learners use module readings and disciplinary conventions for referring to authors, cases, statutes or datasets in speech. PGR researchers refer to literature in reading groups and when positioning their own work.",
+      "contextNotes": "Pre-sessional UG and PG learners practise with set readings, often for an assessed seminar. In-sessional UG learners use module readings, and PGT learners, for whom critical engagement with readings is central, use disciplinary conventions for referring to authors, cases, statutes or datasets in speech. PGR researchers revisit it in reading groups and when positioning their own work.",
       "citations": [
         "morita2000",
         "hyland1999attribution"
@@ -4668,9 +5002,9 @@
         },
         {
           "pattern": "Teachers or peers attributing a student's silence to their national or cultural background.",
-          "kind": "conceptual",
+          "kind": "institutional",
           "revealedBy": "Comments such as 'students from X don't participate' in staff or peer talk.",
-          "response": "Discuss evidence that silence reflects positioning, task design and processing load (Morita, 2004), and change discussion design (think time, small groups, rounds) rather than the student's 'culture'.",
+          "response": "Discuss evidence that silence reflects positioning, task design and processing load (Morita, 2004). Course teams should change discussion design (think time, small groups, rounds, written input) rather than attributing participation to a student's 'culture'.",
           "reteachPrerequisiteId": "sem.seminar-purposes"
         }
       ],
@@ -4680,7 +5014,7 @@
         "partialResponse": "Identifies factors but proposes no strategies.",
         "gapResponse": "Attributes the difference entirely to a fixed trait."
       },
-      "contextNotes": "Anxiety may be acute on pre-sessional programmes where progression depends on assessed speaking. In-sessional UG and PGT students may face large classes and peers who share local references. PGR researchers may experience anxiety in research seminars and vivas. Across stages, coordinate with subject staff on discussion design.",
+      "contextNotes": "Anxiety may be acute on pre-sessional programmes where progression depends on assessed speaking. In-sessional UG and PGT students may face large classes and peers who share local references. PGR researchers may experience anxiety in research seminars and vivas. Across stages, coordinate with subject staff on discussion design. Not all reluctance to speak is anxiety: stammering, autism, hearing loss or processing differences may call for agreed adjustments and alternative modes of participation rather than anxiety strategies, and learners can be referred to disability services.",
       "citations": [
         "horwitz1986",
         "macintyre1998",
@@ -4726,7 +5060,7 @@
           "pattern": "Contributing only through chat to avoid speaking.",
           "kind": "affective",
           "revealedBy": "Many chat messages but no spoken turns.",
-          "response": "Value chat as an entry point, then plan one spoken contribution that develops a chat post.",
+          "response": "Value chat as a legitimate mode and judge it on content. Where speaking is itself a learning goal and no adjustment applies, plan one spoken contribution that develops a chat post.",
           "reteachPrerequisiteId": "sem.turn-taking"
         },
         {
@@ -4749,7 +5083,6 @@
         "hampel2012"
       ],
       "reviewNotes": [
-        "Hampel and Stickler (2012) is a proposed reference not yet in the bibliography; check it before publication and remove dependent claims if unverified.",
         "Little research addresses student-led academic seminars online specifically; guidance is partly practitioner-based."
       ]
     },
@@ -4806,31 +5139,106 @@
         "partialResponse": "Rebuts a minor point or asserts that the opposition is wrong without explanation.",
         "gapResponse": "Repeats own case."
       },
-      "contextNotes": "Debate is common on foundation and pre-sessional programmes as a vehicle for oral argument. In-sessional UG use depends on the discipline (e.g. law moots, politics). It is rarely relevant at PGT or PGR level except in specific professional programmes.",
+      "contextNotes": "Debate is often used on foundation programmes as an activity format, but the topic as a whole is placed from pre-sessional level, where its argument prerequisites are taught. In-sessional UG use depends on the discipline, for example politics; law moots are covered separately. It is rarely relevant at PGT or PGR level except in specific professional programmes.",
       "citations": [
         "kuhn1991",
         "andrews2010"
       ],
       "reviewNotes": [
-        "Kuhn's (1991) participants were not EAP learners; the finding is used as a general rationale for explicit teaching of rebuttal."
+        "Kuhn's (1991) participants were not EAP learners; the finding is used as a general rationale for explicit teaching of rebuttal.",
+        "Review response (R1-09, R3-07): foundation is not tagged although debate is used as an activity there, because its hard prerequisites (arg.oral-argument, arg.rebuttal-concession) start at B2 and are taught from pre-sessional level. With foundation removed, the start level is set to B2 rather than the B1+ applied under R1-09, so that every hard prerequisite starts at or below the topic; foundation debate activities can draw on sem.opinions and sem.agreeing-disagreeing."
+      ]
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "summary": "The CEFR Companion Volume treats explaining concepts and texts to others as mediation, with strategies such as linking to previous knowledge, adapting language and breaking down complicated information (Council of Europe, 2020). Mauranen (2012) shows speakers in English as a lingua franca academic settings rephrasing and adding explicitness to secure shared understanding, and translanguaging research presents shared languages as legitimate resources for making meaning (García & Li Wei, 2014). Reciprocal teaching, originally tested with school-age readers, structures peer explanation of texts around summarising, questioning, clarifying and predicting (Palincsar & Brown, 1984). Teach explanation as planned selection combined with live monitoring of the listener.",
+      "activities": [
+        {
+          "title": "Jigsaw explain-and-apply",
+          "learnerActions": [
+            "Read one section of a shared text, or one figure, and prepare a three-step explanation with one example of your own",
+            "Explain it to a group who have read other sections, ending with a question that asks them to apply the idea",
+            "Listeners summarise what they understood, and the explainer reformulates anything that was missed",
+            "Rotate roles so that each member explains, questions and summarises"
+          ],
+          "intendedInsight": "Explaining well depends on choosing what matters and checking what listeners can do with it.",
+          "rationale": "Adapts the rotating summarise–question–clarify roles of reciprocal teaching (Palincsar & Brown, 1984) and the Companion Volume's mediation strategies (Council of Europe, 2020) to university readings; its effect with adult EAP learners has not been tested directly.",
+          "citations": [
+            "palincsarbrown1984",
+            "coe2020"
+          ]
+        },
+        {
+          "title": "Same concept, three listeners",
+          "learnerActions": [
+            "Choose a key concept from your module or reading",
+            "Explain it in 90 seconds to a peer from your field, a peer from another field and, if possible, a peer who shares another language with you",
+            "Note what you changed each time: terms defined, examples, analogies and language used",
+            "Agree with your listeners which changes helped and which lost precision"
+          ],
+          "intendedInsight": "Explanations are adjusted to the listener, and simplifying must not distort the idea.",
+          "rationale": "Builds the rephrasing and explicitness strategies Mauranen (2012) documents in lingua franca academic talk, while keeping attention on accuracy.",
+          "citations": [
+            "mauranen2012"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Explaining by repeating the source's wording or the textbook definition, sometimes more slowly.",
+          "kind": "developmental",
+          "revealedBy": "Listeners nod but cannot restate or apply the idea; the explainer reads phrases from the text.",
+          "response": "Teach a define–exemplify–link routine and require one example that the source does not give. Do not simply ask for a 'simpler' version without showing what to change: terms, sentence length, order or examples.",
+          "reteachPrerequisiteId": "fun.defining"
+        },
+        {
+          "pattern": "Simplifying to the point of error, for example turning a contested or conditional claim into a general rule.",
+          "kind": "conceptual",
+          "revealedBy": "Peers' summaries contain claims stronger or broader than the source makes.",
+          "response": "Ask the explainer to state one limitation or condition of the idea and to check the simplified version against the source; treat accuracy and accessibility as joint requirements.",
+          "reteachPrerequisiteId": "fun.exemplifying"
+        },
+        {
+          "pattern": "'We are not allowed to use our own language in class, even to explain something to each other.'",
+          "kind": "institutional",
+          "revealedBy": "Learners who share a language struggle for minutes over a point that a brief bilingual gloss would resolve, or switch covertly and feel they are breaking a rule.",
+          "response": "Teachers and course designers should state when other languages may be used, for example for planning and clarification in pairs, and how the outcome is then reported in English. Make sure group members who do not share the language are not excluded, for example by summarising in English after each switch.",
+          "reteachPrerequisiteId": "idn.plurilingual-repertoire"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give the learner a key term from a recent reading and ask them to explain it to you as if you were a first-year student from another discipline; after the explanation, misunderstand one point.",
+        "strongResponse": "Defines the term accessibly, gives a fitting example, links it to familiar knowledge, notices the misunderstanding and reformulates in new terms without losing accuracy.",
+        "partialResponse": "Accurate but tied to the source wording, or accessible but imprecise; repeats the same words when misunderstood.",
+        "gapResponse": "Reads or recites the definition and cannot adjust it."
+      },
+      "contextNotes": "Foundation learners often learn subject content and English together, so explaining concepts to peers is both a language and a content-learning task; keep texts short and allow shared-language planning. Pre-sessional UG learners practise through jigsaw readings and seminar tasks, while pre-sessional PG learners explain data, methods and disciplinary terms to mixed-discipline groups. In-sessional UG and PGT learners use it in study groups and assessed seminars. For PGR researchers it is the basis for explaining their work to colleagues from other fields and for teaching and demonstrating. Learners who need more processing time or find live explanation stressful, including some neurodivergent learners, can explain from a short prepared written or visual aid.",
+      "citations": [
+        "coe2020",
+        "mauranen2012",
+        "garciawei2014",
+        "palincsarbrown1984"
+      ],
+      "reviewNotes": [
+        "Rules on using languages other than English in class vary across institutions and across EMI and TNE contexts; the guidance assumes that local policy is made explicit to learners."
       ]
     }
   ],
   "authorNotes": [
     "grw.inclusive-collaboration overlaps with idn.intercultural-communication, idn.elf and sem.facilitating; it is scoped here as practical group behaviour, with the IDN topics as conceptual prerequisites.",
-    "grw.collaborative-writing overlaps with dig.digital-collaboration (tools) and int.collusion (boundaries). I made int.collusion a soft prerequisite; the INT author should not make int.collusion depend on grw.collaborative-writing.",
-    "grw.contribution-assessment overlaps with fbk.self-peer-assessment and pub.authorship (contributor roles at PGR level). Consider a PGR-level link from pub.authorship to this topic, or extending scope note to co-authorship contribution statements.",
+    "grw.collaborative-writing overlaps with dig.digital-collaboration (tools) and int.collusion (boundaries). int.collusion is a soft prerequisite; the INT author should not make int.collusion depend on grw.collaborative-writing.",
+    "grw.contribution-assessment overlaps with fbk.self-peer-assessment and pub.authorship (contributor roles at PGR level).",
     "Gap: online and asynchronous group collaboration (time zones, messaging norms in group chats) has no dedicated topic; it is split between grw.meetings, prg.messaging-channels and dig.digital-collaboration.",
     "Gap: there is no topic on group-work assessment design for teachers; the domain is learner-facing, but research such as Leki (2001) implies that inclusive outcomes depend on course design as much as on learner skills.",
-    "prs.signposting overlaps heavily with coh.spoken-signposting and lis.lecture-discourse-markers; I treat prs.signposting as the productive, presentation-specific application (including prosodic boundary marking and handovers). Consider whether coh.spoken-signposting should be receptive-and-general only.",
-    "prs.slide-design overlaps with mmd.multimodal-literacy, mmd.accessibility and dat.creating-visuals; linked as soft prerequisites. mmd.poster-design is the design counterpart of prs.posters; I have made it a hard prerequisite, so the MMD author should not make mmd.poster-design depend on prs.posters.",
-    "prs.handling-questions is likely a prerequisite of pub.viva, exm.oral-exams and dad.studio-critique; those authors should not make prs.handling-questions depend on them.",
-    "prs.research-presentations spans conference talks, research seminars and progression/upgrade presentations; consider a separate PGR topic for short-format public research talks (e.g. three-minute thesis-style), which differ in audience and purpose and currently fall between this topic and pub.research-engagement.",
-    "Gap: there is no topic on presenting a case or critique in professional-practice formats (e.g. clinical case presentations, design crits), other than dad.studio-critique and dhl.case-reports-care-plans; these could link here.",
-    "sem.checking-understanding overlaps with sem.questions-clarification (confirmation checks are a sub-type of clarification) and with prn.repair (self-reformulation). Scoped here as mutual-understanding management in multilingual groups; consider merging or sharpening scope notes.",
-    "sem.opinions (LINGUISTIC) and arg.oral-argument overlap. I treat sem.opinions as the basic claim–reason–support turn and arg.oral-argument as more extended real-time argument, so sem.debate depends on arg.oral-argument but sem.opinions does not. The ARG author should avoid making arg.oral-argument a prerequisite of sem.opinions.",
-    "sem.speaking-anxiety covers speaking generally (including presentations) but sits in SEM; consider moving it to a cross-cutting place or renaming to make clear it also serves PRS. exm.test-anxiety overlaps for assessed speaking.",
-    "Gap: there is no topic for listening-for-participation in large lectures (asking questions in lectures) or for academic small talk/phatic interaction with peers, both of which affect integration and WTC.",
-    "Gap: seminar participation as an assessed component (how participation marks are awarded, self-evidencing participation) is not covered; it currently has to be folded into sem.seminar-purposes."
+    "prs.signposting now absorbs coh.spoken-signposting (R1-18) and covers production in presentations, seminar contributions and spoken explanations; reception remains with lis.lecture-discourse-markers, which the listening strand links to prs.signposting (soft). Do not add an edge in the other direction without removing that one.",
+    "prs.posters now absorbs mmd.poster-design (R1-30) and covers design and presentation as one genre.",
+    "prs.handling-questions is a prerequisite of pub.viva, exm.oral-exams and dad.studio-critique; those authors should not make prs.handling-questions depend on them.",
+    "prs.research-pitches (new, R1-05) depends on PRS and REG topics only; pub.research-engagement, pub.conference-participation and res.progression-review may take it as a prerequisite.",
+    "sem.explaining-concepts (new, R1-22) is a prerequisite of sem.facilitating and grw.inclusive-collaboration and is intended as a prerequisite of res.teaching-as-pgr; it depends on no RES or PUB topic.",
+    "grm.spoken-grammar (R1-21) is linked as a soft prerequisite of prs.speaking-from-notes and sem.turn-taking; the GRM author should not make it depend on SEM or PRS topics. prg.informal-academic-interaction may take sem.turn-taking or sem.speaking-anxiety as prerequisites.",
+    "sem.checking-understanding overlaps with sem.questions-clarification (confirmation checks are a sub-type of clarification) and with prn.repair (self-reformulation); it is scoped here as mutual-understanding management in multilingual groups.",
+    "sem.opinions (LINGUISTIC) and arg.oral-argument overlap. sem.opinions is the basic claim–reason–support turn and arg.oral-argument the more extended real-time argument, so sem.debate depends on arg.oral-argument but sem.opinions does not.",
+    "sem.speaking-anxiety covers speaking generally (including presentations) but sits in SEM; exm.test-anxiety overlaps for assessed speaking.",
+    "Gap: seminar participation as an assessed component (how participation marks are awarded, accepted modes of participation, self-evidencing participation) is folded into sem.seminar-purposes."
   ]
 }

@@ -5,15 +5,15 @@
       "code": "LIS",
       "strand": "Academic Listening & Note-making",
       "name": "Lecture & Academic Listening",
-      "summary": "Academic listening is modelled here as two interacting sets of processes: decoding, which turns the acoustic signal into words and clauses in real time, and meaning-building, which relates what has been decoded to context, discourse structure, speaker purpose and prior knowledge. The domain moves from perceptual topics (connected speech, segmentation, speech rate, accent) through lecture discourse (phases, organisational and relevance markers, main points, stance) to the settings in which students listen (live and recorded lectures, seminars, briefings, academic media), with metacognitive strategy running throughout. Listening is treated as something to be taught, not only tested, and accent variation is treated as normal in international universities rather than as deviation from a single native-speaker norm.",
-      "learnerSummary": "You will learn how listening to lectures and discussions works, why fast natural speech is hard to catch, and practical ways to follow the structure, key points and viewpoints of lectures, seminars and recorded talks in English.",
+      "summary": "Academic listening is modelled here as two interacting sets of processes: decoding, which turns the acoustic signal into words and clauses in real time, and meaning-building, which relates what has been decoded to context, discourse structure, speaker purpose and prior knowledge. The domain moves from perceptual topics (connected speech, segmentation, speech rate, accent) through lecture discourse (phases, organisational and relevance markers, main points, stance) to the settings in which students listen (live and recorded lectures, seminars, briefings, academic media), with metacognitive strategy running throughout. Listening is treated as something to be taught, not only tested, and accent variation is treated as normal in international universities rather than as deviation from a single native-speaker norm. Deaf and hard-of-hearing students, and others who rely on captions, transcripts or note-taking support, may show these skills through other modes, and tasks should allow for this.",
+      "learnerSummary": "You will learn why natural speech can be hard to catch and practical ways to follow the structure, key points and viewpoints of lectures, seminars and recorded talks.",
       "stageEmphasis": {
         "foundation": "Build decoding of connected speech and confidence with short, clearly signposted lecture extracts on accessible content, together with simple preparation routines.",
+        "pre-sessional-ug": "Move from short decoding work to full-length authentic lectures on first-year content, with explicit work on discourse and relevance markers and main-point selection, assessed through lecture notes and listening-into-writing tasks.",
+        "pre-sessional-pg": "Assume basic lecture decoding and work with dense, discipline-related lectures and recorded seminars, focusing on relevance marking, speaker stance on contested material and following peer discussion.",
         "in-sessional-ug": "Use students' own module lectures and recordings to diagnose specific decoding or discourse problems and build independent review strategies.",
         "in-sessional-pgt": "Focus on dense, fast-paced specialist lectures, seminar discussion among peers from many language backgrounds, and inferring lecturer stance on contested material.",
-        "pgr": "Address research seminars, conference talks, podcasts and multi-party discussion, where speakers are specialists with varied accents who signpost less explicitly.",
-        "pre-sessional-ug": "Extend to full-length authentic lectures by varied speakers, with explicit work on lecture phases, relevance markers and main-point selection, linked to note-taking and integrated listening-to-writing tasks.",
-        "pre-sessional-pg": "Extend to full-length authentic lectures by varied speakers, with explicit work on lecture phases, relevance markers and main-point selection, linked to note-taking and integrated listening-to-writing tasks."
+        "pgr": "Address research seminars, conference talks, podcasts and multi-party discussion, where speakers are specialists with varied accents who signpost less explicitly."
       },
       "keyReferences": [
         "field2008",
@@ -29,14 +29,14 @@
       "strand": "Academic Listening & Note-making",
       "name": "Note-taking & Note-making",
       "summary": "The domain treats note-taking (recording from lectures in real time) and note-making (building notes from reading and from later review) as distinct but connected practices. Following Kiewra (1985), notes serve both an encoding function, through the processing involved in taking them, and an external-storage function for later review, and the review function often matters more; the domain therefore covers selection, shorthand and format, lecture and reading notes, review, digital tools and collaboration. Claims about particular formats, or about longhand versus laptop notes, are presented with their evidential limits.",
-      "learnerSummary": "You will learn to take notes that capture the structure and key ideas of lectures and readings, keep a clear record of where every idea came from, and use your notes to learn, revise and write.",
+      "learnerSummary": "You will learn to take notes that capture the key ideas of lectures and readings, record where each idea came from, and use your notes to revise and write.",
       "stageEmphasis": {
         "foundation": "Establish selection, abbreviation and simple formats with short, well-structured inputs, and link notes from reading to avoiding unintentional plagiarism.",
+        "pre-sessional-ug": "Develop real-time lecture notes with explicit selection criteria and formats, and source-tracked reading notes, feeding integrated listening- and reading-into-writing assessments.",
+        "pre-sessional-pg": "Concentrate on source-tracked notes from longer, multiple readings that separate quotation, paraphrase and comment and are organised by theme to feed synthesis and the extended project.",
         "in-sessional-ug": "Work with students' own lecture and reading notes, focusing on review through self-testing and on informed choices of tools.",
         "in-sessional-pgt": "Manage heavy reading loads with source-tracked, thematically organised notes that support synthesis and the dissertation.",
-        "pgr": "Note-making shifts towards literature management and research records; reading notes that keep source and own words strictly apart remain central.",
-        "pre-sessional-ug": "Develop real-time lecture notes from authentic lectures and source-tracked notes from multiple readings that feed directly into integrated writing tasks.",
-        "pre-sessional-pg": "Develop real-time lecture notes from authentic lectures and source-tracked notes from multiple readings that feed directly into integrated writing tasks."
+        "pgr": "Note-making shifts towards literature management and research records; reading notes that keep source and own words strictly apart remain central."
       },
       "keyReferences": [
         "kiewra1985",
@@ -51,15 +51,15 @@
       "code": "PRN",
       "strand": "Academic Speaking",
       "name": "Pronunciation & Fluency",
-      "summary": "The domain adopts the intelligibility principle (Levis, 2005): the goal is speech that listeners can understand with reasonable effort, not a native-like accent. Building on Munro and Derwing's (1995) distinction between accentedness, comprehensibility and intelligibility, priority goes to the features most likely to affect understanding in academic speaking — word stress in academic vocabulary, thought groups and prominence, intonation for discourse functions, high-functional-load segmentals — together with fluency and repair. Pronunciation is linked to listening, since perception supports production, and to the presentations, seminars and teaching in which students use it; accent is treated as part of speakers' identity rather than as an error to be removed.",
-      "learnerSummary": "You will learn which features of pronunciation most affect whether listeners understand you, and practise them in the speaking you do at university — presentations, seminars and explaining your work — without needing to sound like a native speaker.",
+      "summary": "The domain adopts the intelligibility principle (Levis, 2005): the goal is speech that listeners can understand with reasonable effort, not a native-like accent. Building on Munro and Derwing's (1995) distinction between accentedness, comprehensibility and intelligibility, priority goes to the features most likely to affect understanding in academic speaking — word stress in academic vocabulary, thought groups and prominence, intonation for discourse functions, high-functional-load segmentals — together with fluency and repair. Pronunciation is linked to listening, since perception supports production, and to the presentations, seminars and teaching in which students use it; accent is treated as part of speakers' identity rather than as an error to be removed. Listeners share responsibility for understanding, so assessment should judge intelligibility rather than accentedness, and speakers who stammer or have other speech differences should not be assessed against fluency norms they cannot meet.",
+      "learnerSummary": "You will learn which features of pronunciation most affect whether listeners understand you, and practise them in presentations and seminars. Your goal is to be understood, not to change your accent.",
       "stageEmphasis": {
         "foundation": "Establish intelligibility as the goal, with focused work on word stress, thought groups and each learner's own highest-priority sounds.",
+        "pre-sessional-ug": "Integrate word stress, thought groups and prominence with presentation and seminar speaking, using recordings, listener transcription and peer feedback to set individual goals.",
+        "pre-sessional-pg": "Apply prominence, intonation and technical-term pronunciation to explaining specialist content and data in presentations and seminars, preparing for postgraduate presenting and, for some, teaching.",
         "in-sessional-ug": "Provide short, targeted support for assessed presentations and technical vocabulary, usually through individual feedback.",
         "in-sessional-pgt": "Focus on specialist terms, numbers and data in speech, and on fluent delivery of dense content within strict time limits.",
-        "pgr": "Support conference presentations, vivas and teaching (for example as graduate teaching assistants), where prosody affects how clearly explanations come across to audiences.",
-        "pre-sessional-ug": "Integrate prosody (thought groups, prominence, intonation) with presentation and seminar speaking, using recordings for self-analysis and listener feedback.",
-        "pre-sessional-pg": "Integrate prosody (thought groups, prominence, intonation) with presentation and seminar speaking, using recordings for self-analysis and listener feedback."
+        "pgr": "Support conference presentations, vivas and teaching (for example as graduate teaching assistants), where prosody affects how clearly explanations come across to audiences."
       },
       "keyReferences": [
         "derwingmunro2015",
@@ -117,10 +117,10 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
-      "audience": "learner",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -165,11 +165,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -186,10 +186,10 @@
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Uses stressed syllables as anchors to locate the probable onset of content words in an unfamiliar stretch of speech",
+        "Uses strong syllables (those with full vowels, including stressed syllables) as anchors to locate the probable onset of content words in an unfamiliar stretch of speech",
         "Detects and corrects a segmentation error when the first interpretation does not fit the grammar or context",
         "Separates multi-word sequences heard as a single unit into their component words",
-        "Recognises words that begin with an unstressed syllable (consider, analysis, economy) as a frequent source of boundary errors and checks them deliberately",
+        "Recognises words that begin with a weak syllable (consider, analysis, economy) as a frequent source of boundary errors and checks them deliberately",
         "Explains how linking across word boundaries can produce alternative segmentations"
       ],
       "assessmentPrompt": "Play eight short phrases from lectures that contain ambiguous boundaries (for example 'a notion' versus 'an ocean', or a weak-initial academic word preceded by an article) and ask the learner to write each phrase. Replay any errors once. Check whether boundaries are placed correctly and whether the learner revises an implausible segmentation on the second hearing and can say what cue led to the revision.",
@@ -211,8 +211,8 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -266,7 +266,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -278,7 +278,7 @@
       "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Understanding varied accents",
-      "description": "Adapt to the range of accents used by lecturers, supervisors and peers in international universities, including regional native-speaker varieties and the many accents of English used as a lingua franca. Comprehension of an unfamiliar accent typically improves with exposure, and treating varied accents as normal rather than as departures from one standard is part of listening competence and of participating on equal terms.",
+      "description": "Adapt to the range of accents used by lecturers, supervisors and peers in international universities, including regional varieties from countries where English is the majority language and the many accents of English used as a lingua franca. Comprehension of an unfamiliar accent typically improves with exposure, and treating varied accents as normal rather than as departures from one standard is part of listening competence and of participating on equal terms.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -322,7 +322,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -364,9 +364,9 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -376,7 +376,7 @@
       "strand": "Academic Listening & Note-making",
       "domain": "Lecture & Academic Listening",
       "name": "Preparing for lectures",
-      "description": "Prepare for a lecture by previewing slides, module outlines and set readings, activating and building relevant background knowledge, predicting content and organisation, and pre-learning key terms including how they sound. Preparation reduces real-time processing load so that more attention is available for following the argument, provided predictions are checked rather than trusted.",
+      "description": "Prepare for a lecture by previewing slides, module outlines and set readings, activating and building relevant background knowledge, predicting content and organisation, and pre-learning key terms including how they sound. Preparation can reduce real-time processing load so that more attention is available for following the argument, provided predictions are checked rather than trusted.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
@@ -415,7 +415,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -457,8 +457,8 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -507,12 +507,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -559,12 +559,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -608,13 +608,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -655,7 +655,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -704,12 +704,12 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -761,7 +761,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -811,9 +811,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -863,7 +863,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -884,7 +884,7 @@
         "Distinguishes obligatory from optional actions in spoken instructions, including obligations expressed indirectly (I'd like you to…, you'll want to…)",
         "Follows a multi-step spoken procedure in the correct sequence, for example in a laboratory demonstration",
         "Asks targeted clarification questions about conditions, deadlines or formats",
-        "Checks spoken announcements against written sources such as the VLE or module handbook"
+        "Checks spoken announcements against written sources such as the learning platform or course handbook"
       ],
       "assessmentPrompt": "Play a 2-minute assignment briefing that includes a deadline, a word limit, a submission method, one obligatory element expressed indirectly and one genuinely optional element. Ask the learner to write a checklist. Check whether all requirements are captured and whether the indirect obligation and the option are correctly distinguished.",
       "citations": [
@@ -904,9 +904,8 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -959,7 +958,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -998,7 +997,7 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -1044,12 +1043,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1088,7 +1087,7 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop"
+        "pre-sessional-pg": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -1130,10 +1129,10 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1179,13 +1178,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1232,13 +1231,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1281,7 +1280,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -1324,7 +1323,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -1386,7 +1385,7 @@
       "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Intelligibility, comprehensibility and accent",
-      "description": "Distinguish intelligibility (how much of a speaker's message a listener actually understands), comprehensibility (how easy the listener finds it to understand) and accentedness (how different the speech sounds from the listener's reference variety), and use the finding that these are partly independent to set pronunciation goals around being understood rather than sounding native. Intelligibility depends on listeners as well as speakers, and accent is part of a speaker's identity.",
+      "description": "Distinguish intelligibility (how much of a speaker's message a listener actually understands), comprehensibility (how easy the listener finds it to understand) and accentedness (how different the speech sounds from the listener's reference variety), and use the finding that these are partly independent to set pronunciation goals around being understood rather than around imitating a particular reference accent. Intelligibility depends on listeners as well as speakers, and accent is part of a speaker's identity.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
@@ -1394,7 +1393,7 @@
         "Explains the difference between intelligibility, comprehensibility and accentedness with examples",
         "Explains why a noticeable accent does not by itself make speech hard to understand",
         "Identifies, from listener feedback or transcription, which features of their own speech most affect understanding",
-        "Sets pronunciation goals in terms of being understood by their likely academic audiences rather than sounding native-like",
+        "Sets pronunciation goals in terms of being understood by their likely academic audiences rather than imitating a reference accent",
         "Recognises that listener familiarity and expectations affect how well speech is understood"
       ],
       "assessmentPrompt": "Ask the learner to record a 1-minute explanation of a concept from their field, then ask two listeners from different language backgrounds to transcribe a section and rate how easy it was to understand. Discuss the results with the learner: check whether they can separate problems that affected understanding from features that were simply accented, and whether the goals they then set follow from that distinction.",
@@ -1423,12 +1422,11 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
-      "audience": "learner",
+      "coreBand": "B1+",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -1446,7 +1444,8 @@
         "Predicts stress placement for unfamiliar words with stress-attracting suffixes (-ic, -ion, -ity, -ical) and checks the prediction",
         "Verifies stress on new vocabulary using a dictionary's stress marking or audio",
         "Reduces unstressed vowels in multi-syllable words where appropriate, for example the first vowel of 'analysis'",
-        "Uses key academic terms in a short presentation in a way listeners recognise without difficulty"
+        "Uses key academic terms in a short presentation in a way listeners recognise without difficulty",
+        "Stresses the first element of noun + noun compounds (CASE study, DATA set, CONTROL group) and the head of adjective + noun phrases (statistical SIGnificance) in technical vocabulary"
       ],
       "assessmentPrompt": "Give the learner 15 academic words including family members (economy, economic, economics; photograph, photography, photographic) and ask them to read each aloud and then use three in sentences. Check stress placement, especially in derived forms with shifted stress, and whether unstressed vowels are reduced; ask the learner to explain any pattern they used to decide.",
       "citations": [
@@ -1470,14 +1469,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1522,12 +1521,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -1576,13 +1575,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1634,7 +1633,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1680,9 +1679,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1730,10 +1729,10 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1785,7 +1784,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1833,10 +1832,10 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1892,9 +1891,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1912,7 +1911,7 @@
         "Reads aloud large numbers, decimals and percentages correctly (for example 3.05 million, 0.025, 12.5%)",
         "Distinguishes -teen and -ty numbers mainly through the final syllable (/tiːn/ versus /ti/), knowing that -teen stress shifts forward before a stressed noun (FOURteen STUdents), and confirms figures when misunderstanding is likely",
         "Reads simple equations and formulae aloud using conventional wording (x squared, the square root of, is proportional to)",
-        "Says units and symbols in the conventional spoken form (kilometres per hour, p less than nought point nought five)",
+        "Says units and symbols in the conventional spoken form of their field and variety (kilometres per hour; p less than 0.05 said as nought point nought five or zero point zero five)",
         "Says years, decades and ranges correctly (the 1990s, from 2010 to 2015)"
       ],
       "assessmentPrompt": "Give the learner a slide containing a short table of results, a formula and a date range, with 1 minute to prepare a 30-second spoken summary. Check the accuracy of number reading, the -teen/-ty distinction, the wording of the formula and units, and whether a listener could write the figures down correctly from the recording.",
@@ -1942,11 +1941,18 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "mathematics-statistics",
+        "economics",
+        "business-management",
+        "health-medicine"
+      ]
     }
   ],
   "dependencies": [
@@ -2048,9 +2054,9 @@
     },
     {
       "topicId": "lis.lecture-discourse-markers",
-      "prerequisiteId": "prs.signposting",
+      "prerequisiteId": "lis.connected-speech",
       "strength": "soft",
-      "reason": "Recognising markers in real time draws on knowing the inventory and functions of spoken signposting language"
+      "reason": "Micro-markers such as so, now and right are usually unstressed and reduced, so recognising them depends on decoding connected speech"
     },
     {
       "topicId": "lis.relevance-markers",
@@ -2368,7 +2374,7 @@
       "topicId": "prn.prominence",
       "prerequisiteId": "coh.given-new",
       "strength": "soft",
-      "reason": "Placing prominence on new or contrastive information and de-accenting given information requires the given–new distinction"
+      "reason": "Prominence work makes the given–new distinction audible; the written-discourse treatment can follow or run in parallel"
     },
     {
       "topicId": "prn.intonation",
@@ -2529,7 +2535,7 @@
         "partialResponse": "Identifies breakdown points but attributes all of them to vocabulary or speed without distinguishing processes.",
         "gapResponse": "Reports global failure ('it was too fast', 'I understood nothing') and cannot locate or characterise breakdowns."
       },
-      "contextNotes": "At foundation level, present the model through concrete examples and learners' own transcripts rather than terminology. On pre-sessional courses it can frame the whole listening syllabus and justify the balance of short decoding work and extended lecture listening. In-sessionally it is most useful in one-to-one or small-group diagnosis with students who report persistent difficulty in lectures.",
+      "contextNotes": "At foundation level, present the model through concrete examples and learners' own transcripts rather than terminology. On pre-sessional courses it can frame the whole listening syllabus and justify the balance of short decoding work and extended lecture listening. In-sessionally it is most useful in one-to-one or small-group diagnosis with students who report persistent difficulty in lectures. Persistent difficulty that does not respond to decoding practice may reflect a hearing or auditory processing difference rather than a language problem; refer the student to disability or learning support services and offer captions or transcripts in the meantime.",
       "citations": [
         "field2008",
         "vandergriftgoh2012",
@@ -2608,16 +2614,16 @@
     },
     {
       "topicId": "lis.word-segmentation",
-      "summary": "Listeners to English exploit the tendency for content words to begin with a strong syllable when hypothesising where words start; Field (2003, 2008) draws on this research to propose explicit segmentation training for L2 listeners, whose first languages may use different boundary cues. Teaching should combine noticing of stress-based cues with lexical and grammatical checking, because a segmentation hypothesis is confirmed or revised as more of the utterance arrives. Short extracts, replay and comparison with transcripts work best.",
+      "summary": "Listeners to English exploit the tendency for content words to begin with a strong syllable (one with a full, unreduced vowel) when hypothesising where words start; Field (2003, 2008) reviews this research and proposes explicit segmentation training for L2 listeners, whose first languages may use different boundary cues. Teaching should combine noticing of strong syllables with lexical and grammatical checking, because a segmentation hypothesis is confirmed or revised as more of the utterance arrives. Short extracts, replay and comparison with transcripts suit this kind of close work.",
       "activities": [
         {
-          "title": "Find the stressed syllables first",
+          "title": "Find the strong syllables first",
           "learnerActions": [
-            "Listen to a short sentence and mark each stressed syllable on a line",
-            "Predict where content words begin, using the stresses",
+            "Listen to a short sentence and mark each strong (clearly pronounced, often stressed) syllable on a line",
+            "Predict where content words begin, using the strong syllables",
             "Replay and write the full sentence, checking the predictions"
           ],
-          "intendedInsight": "Stressed syllables are useful landmarks for finding content words, although not infallible ones.",
+          "intendedInsight": "Strong syllables are useful landmarks for finding content words, although not infallible ones.",
           "rationale": "Field (2003) proposes training L2 listeners to use strong syllables as segmentation cues, as listeners to English do.",
           "citations": [
             "field2003segmentation",
@@ -2640,10 +2646,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "Learners transfer the segmentation routines of their first language (for example syllable-based segmentation in French or mora-based segmentation in Japanese, or expectations of fixed final or penultimate stress), so English strong syllables are not used, or are misused, as onset cues.",
+          "pattern": "Learners may transfer the segmentation routines of their first language (for example syllable-based segmentation in French or mora-based segmentation in Japanese) or expect stress at a fixed position in the word, so English strong syllables are not used, or are misused, as onset cues. The effect is not uniform: listeners whose first language has fixed initial stress may already treat a stressed onset as a likely word boundary.",
           "kind": "L1-transfer",
           "revealedBy": "Boundary errors cluster around words that begin with an unstressed syllable (economy, consider, analysis), which are attached to or split from neighbouring words.",
-          "response": "Teach explicitly that weak-initial words are the main exception to the strong-onset tendency and therefore the main source of boundary errors; practise prefix-initial academic words (con-, de-, re-) in context, linked to word-stress work.",
+          "response": "Teach explicitly that weak-initial words are the main exception to the strong-onset tendency and therefore the main source of boundary errors; practise prefix-initial academic words (con-, de-, re-) in context, linked to word-stress work. Diagnose from transcripts rather than assuming a problem from the learner's first language.",
           "reteachPrerequisiteId": "prn.word-stress"
         },
         {
@@ -2660,13 +2666,13 @@
         "partialResponse": "Places most boundaries correctly but does not notice errors around weak-initial words.",
         "gapResponse": "Writes non-words or merges and splits words without noticing that the result is ungrammatical."
       },
-      "contextNotes": "Most important at foundation and pre-sessional level, particularly for learners who have learnt English mainly through reading. In-sessionally, segmentation problems resurface with new technical vocabulary, where learners lack the lexical knowledge to check a hypothesis; pairing listening with pre-taught terminology helps.",
+      "contextNotes": "Most important at foundation and pre-sessional level, particularly for learners who have learnt English mainly through reading. In-sessionally, segmentation problems resurface with new technical vocabulary, where learners lack the lexical knowledge to check a hypothesis; pairing listening with pre-taught terminology may help.",
       "citations": [
         "field2008",
         "field2003segmentation"
       ],
       "reviewNotes": [
-        "field2003segmentation is a proposed reference; the strong-syllable segmentation claim is also discussed in field2008, which is in the bibliography, so the record does not depend on the proposal alone."
+        "Review response (R2-06): terminology now distinguishes strong (full-vowel) syllables from stressed syllables, and the L1 mechanism is restated as transfer of segmentation routines. The primary sources the reviewer suggested (Cutler & Carter, 1987; Cutler, 2012) are not in the closed bibliography; the claim is cited through Field (2003), which reviews that research, and they could be added if the bibliography is extended."
       ]
     },
     {
@@ -2681,7 +2687,7 @@
             "Listen at natural speed and summarise",
             "Record which sections still caused problems and why"
           ],
-          "intendedInsight": "Recognition at natural speed improves with repeated exposure to the same speaker and material.",
+          "intendedInsight": "Recognition at natural speed tends to improve with repeated exposure to the same speaker and material.",
           "rationale": "Griffiths (1992) found slower rates aided comprehension; here rate reduction is used as a scaffold that is withdrawn within the task, moving learners towards natural rates rather than dependence on slow input.",
           "citations": [
             "griffiths1992"
@@ -2743,7 +2749,7 @@
     },
     {
       "topicId": "lis.accent-variation",
-      "summary": "Accent familiarity affects listening: Major et al. (2002) found that listening test scores could be lower when lectures were delivered by speakers with non-native accents, and a shared first language did not consistently help. Perceptual research indicates that listeners adapt to an unfamiliar accent with exposure, and that exposure to several speakers of an accent supports generalisation to new speakers (Bradlow & Bent, 2008). Jenkins (2014) argues that international universities are lingua franca settings in which native-speaker accents should not be treated as the default. Teaching should broaden exposure, build adaptation, and address listener attitudes as well as perception.",
+      "summary": "Accent familiarity affects listening: Major et al. (2002) found that listening test scores could be lower when lectures were delivered by speakers the study classed as non-native, and a shared first language did not consistently help. Perceptual research indicates that listeners adapt to an unfamiliar accent with exposure, and that exposure to several speakers of an accent supports generalisation to new speakers (Bradlow & Bent, 2008). Jenkins (2014) argues that international universities are lingua franca settings in which native-speaker accents should not be treated as the default. Teaching should broaden exposure, build adaptation, and address listener attitudes as well as perception.",
       "activities": [
         {
           "title": "Accent exposure ladder",
@@ -2791,8 +2797,15 @@
           "pattern": "Words are misrecognised when a speaker places lexical stress differently from the pattern the learner expects.",
           "kind": "developmental",
           "revealedBy": "Transcription errors cluster on multi-syllable words with shifted stress.",
-          "response": "Use transcription comparison to identify the feature, then practise with that speaker. Field (2005) shows that misplaced stress disrupts recognition for native as well as non-native listeners, so this is a normal listener difficulty rather than a learner deficit.",
+          "response": "Use transcription comparison to identify the feature, then practise with that speaker. Field (2005) found that misplaced stress disrupted recognition for both the native and the non-native listeners in his study, so this is a normal listener difficulty rather than a learner deficit.",
           "reteachPrerequisiteId": "lis.word-segmentation"
+        },
+        {
+          "pattern": "Listening materials and tests draw almost entirely on a narrow set of prestige accents, so learners first meet the range of accents used at their university in their lectures.",
+          "kind": "institutional",
+          "revealedBy": "Course audio and practice tests feature one or two varieties; learners who score well on them report being unable to follow particular lecturers or peers.",
+          "response": "Course teams should audit listening materials for the range of accents they include and add recordings of lecturers and students from the target institution, with permission. Learners can be shown how to find varied recordings for independent listening.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2810,7 +2823,7 @@
         "field2005"
       ],
       "reviewNotes": [
-        "bradlowbent2008 and rubin1992 are proposed references; if they are not verified, the claims about multi-talker adaptation and listener expectations should be removed or softened."
+        "Review response (R5-18): topic text now avoids the native/non-native binary except when reporting the categories used by Major et al. (2002) and Field (2005)."
       ]
     },
     {
@@ -2877,9 +2890,7 @@
         "goh2000",
         "field2008"
       ],
-      "reviewNotes": [
-        "vandergrifttafaghodtari2010 is a proposed reference; the pedagogical sequence itself is described in vandergriftgoh2012."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "lis.pre-listening-preparation",
@@ -3049,14 +3060,14 @@
           "kind": "overgeneralisation",
           "revealedBy": "Topic transitions marked by informal or reduced markers go unnoticed; notes run sections together.",
           "response": "Build the marker inventory from lecture corpora and recordings rather than from written connector lists; Biber et al. (2004) show that classroom teaching uses many discourse-organising bundles that differ from written ones.",
-          "reteachPrerequisiteId": "prs.signposting"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Short micro-markers are not perceived because they are unstressed and run into the following words.",
           "kind": "developmental",
           "revealedBy": "Transcriptions omit so, now, right, and learners do not notice the shift these words signal.",
           "response": "Include marker-plus-clause sequences in short decoding exercises, treating recognition of markers as a decoding goal as well as a discourse one.",
-          "reteachPrerequisiteId": null
+          "reteachPrerequisiteId": "lis.connected-speech"
         }
       ],
       "diagnostic": {
@@ -3073,7 +3084,7 @@
         "biber2004bundles"
       ],
       "reviewNotes": [
-        "coh.spoken-signposting overlaps with this topic; this record is scoped to real-time recognition in lectures and treats the COH topic as the inventory it draws on."
+        "Review response (R1-18): coh.spoken-signposting has been merged into prs.signposting (production). This topic is the reception counterpart. The former soft edge from prs.signposting has been removed so that the PRS strand can make prs.signposting depend on this topic (recognition before production) without creating a cycle."
       ]
     },
     {
@@ -3318,10 +3329,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "Learners take every statement in a lecture as the lecturer's own view or as established fact.",
-          "kind": "prior-schooling",
+          "pattern": "Learners take every statement in a lecture as the lecturer's own view or as established fact, a pattern common among new university students of all backgrounds, especially where earlier courses presented content as settled knowledge.",
+          "kind": "conceptual",
           "revealedBy": "Notes and later essays attribute to the lecturer positions the lecturer reported in order to criticise them.",
-          "response": "Teach spoken reporting frames (some people would argue…, the standard view is…) and make explicit that lecturers often present contested positions to evaluate them. Frame this as a convention of the genre, not as a cultural reluctance to question authority.",
+          "response": "Teach spoken reporting frames (some people would argue…, the standard view is…) and make explicit that lecturers often present positions in order to evaluate them; this is a convention of the genre that new students need to learn.",
           "reteachPrerequisiteId": "sta.spoken-stance"
         },
         {
@@ -3338,7 +3349,7 @@
         "partialResponse": "Identifies the favoured view from lexical cues only, or partly confuses reported and endorsed views.",
         "gapResponse": "Cannot distinguish the lecturer's view from the views reported."
       },
-      "contextNotes": "Pre-sessional courses should introduce stance in lectures alongside written stance. PGT and PGR students in the social sciences and humanities meet lectures and seminars in which stance on contested theory is central; in STEM fields stance more often concerns the certainty of findings and evaluation of methods.",
+      "contextNotes": "Pre-sessional UG courses can introduce stance in lectures alongside written stance; on pre-sessional PG courses it is a core listening skill because lectures and seminars present contested positions from the start. PGT and PGR students in the social sciences and humanities meet lectures and seminars in which stance on contested theory is central; in STEM fields stance more often concerns the certainty of findings and evaluation of methods.",
       "citations": [
         "biber2006",
         "flowerdewmiller2005",
@@ -3402,7 +3413,7 @@
         "partialResponse": "Identifies the topic and some positions, with misattribution.",
         "gapResponse": "Cannot identify any disagreement or attribute positions."
       },
-      "contextNotes": "Pre-sessional courses should include listening to recorded seminars before learners lead their own. In UG and PGT programmes with assessed participation this is a priority. PGR students face research group meetings and conference question sessions with faster, more specialised exchanges.",
+      "contextNotes": "Pre-sessional courses should include listening to recorded seminars before learners lead their own. In UG and PGT programmes with assessed participation this is a priority. PGR students face research group meetings and conference question sessions with faster, more specialised exchanges. Overlapping talk is particularly hard for deaf and hard-of-hearing students and for some autistic students; turn-taking ground rules, live captions and a shared written record of the discussion make following it accessible, and should be treated as normal practice rather than special treatment.",
       "citations": [
         "basturkmen2002",
         "basturkmen2003",
@@ -3435,7 +3446,7 @@
             "Give a short spoken explanation of the figure to a partner"
           ],
           "intendedInsight": "Spoken references to visuals only work if the listener tracks both channels.",
-          "rationale": "Visual discourse is integral to academic presentation (Rowley-Jolivet, 2002); practising reference resolution builds integration of the two channels.",
+          "rationale": "Visual discourse is integral to academic presentation (Rowley-Jolivet, 2002); practising reference resolution is intended to build integration of the two channels.",
           "citations": [
             "rowleyjolivet2002"
           ]
@@ -3463,13 +3474,13 @@
         "partialResponse": "Some correct links, but annotations largely repeat what is already on the slide.",
         "gapResponse": "Cannot link speech to the visual; annotations are absent or copied."
       },
-      "contextNotes": "At foundation and pre-sessional level, integrate this with graph reading and data commentary. In-sessionally, slides from students' own modules allow practice with real materials. Disciplines differ: some lectures are equation- or board-led, others rely on image or text slides.",
+      "contextNotes": "At foundation and pre-sessional level, integrate this with graph reading and data commentary. In-sessionally, slides from students' own modules allow practice with real materials. Disciplines differ: some lectures are equation- or board-led, others rely on image or text slides. Spoken references such as 'this curve here' exclude blind and partially sighted students; teachers can model verbal description of visuals, which can also help every listener.",
       "citations": [
         "mayer2009",
         "rowleyjolivet2002"
       ],
       "reviewNotes": [
-        "mayer2009 is a proposed reference. Mayer's principles derive largely from experiments with first-language learners; their application to L2 lecture listening is an extrapolation."
+        "Mayer's principles derive largely from experiments with first-language learners; their application to L2 lecture listening is an extrapolation."
       ]
     },
     {
@@ -3515,7 +3526,7 @@
           "pattern": "Learners read captions as a text and stop listening.",
           "kind": "overgeneralisation",
           "revealedBy": "Comprehension drops sharply when captions are removed.",
-          "response": "Alternate captioned and uncaptioned replays, using captions to check rather than to follow.",
+          "response": "Alternate captioned and uncaptioned replays, using captions to check rather than to follow. This advice is for listening practice only: for deaf and hard-of-hearing students, and some students with auditory processing differences, captions and transcripts are an access requirement and should never be withdrawn.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -3532,7 +3543,7 @@
         "lynch2011"
       ],
       "reviewNotes": [
-        "Evidence on how lecture capture relates to attendance and attainment is mixed and not represented in the bibliography; montero2013 is a proposed reference."
+        "Evidence on how lecture capture relates to attendance and attainment is mixed and not represented in the bibliography."
       ]
     },
     {
@@ -3578,14 +3589,14 @@
           "pattern": "Learners rely on peers' messages for instructions rather than checking official sources.",
           "kind": "performance",
           "revealedBy": "Errors in deadlines or formats traced to second-hand information.",
-          "response": "Teach a verification routine using the VLE and module handbook after every briefing.",
+          "response": "Teach a verification routine using the learning platform and course handbook after every briefing.",
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Institutional terms in briefings (extension, extenuating circumstances, resit, submission point) are misunderstood.",
+          "pattern": "Institutional terms in briefings (extension, extenuating or mitigating circumstances, resit or make-up examination, submission point) are misunderstood, and the terms and procedures differ between institutions and countries.",
           "kind": "conceptual",
           "revealedBy": "Learners act on a briefing but misapply a procedure, for example confusing an extension with extenuating circumstances.",
-          "response": "Pre-teach the institutional vocabulary of the learners' own programme and check it in context.",
+          "response": "Pre-teach the institutional vocabulary of the learners' own programme and target context, and check it in context.",
           "reteachPrerequisiteId": "voc.university-terminology"
         }
       ],
@@ -3595,7 +3606,7 @@
         "partialResponse": "Most steps are listed, but the order or conditions are confused.",
         "gapResponse": "Key steps or prohibitions are missing."
       },
-      "contextNotes": "Particularly important at foundation level, where students are new to institutional procedures, and for practical disciplines with laboratories, studios or fieldwork. Pre-sessional courses can use real briefings for the course's own assessments.",
+      "contextNotes": "Particularly important at foundation level, where students are new to institutional procedures, and for practical disciplines with laboratories, studios or fieldwork. Pre-sessional courses can use real briefings for the course's own assessments. Spoken-only briefings disadvantage deaf and hard-of-hearing students and students who process speech slowly; encourage lecturers to provide the same information in writing.",
       "citations": [
         "biber2006",
         "biber2004bundles"
@@ -3905,9 +3916,7 @@
         "pauk2014",
         "roediger2006"
       ],
-      "reviewNotes": [
-        "pauk2014 is a proposed reference; the Cornell format is widely attributed to Pauk but the exact edition should be verified."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "ntk.lecture-notes",
@@ -3969,7 +3978,7 @@
         "partialResponse": "Main points are present but the structure is unclear or flagged content is missing.",
         "gapResponse": "Notes are fragmentary and the lecture cannot be reconstructed from them."
       },
-      "contextNotes": "Foundation learners benefit from guided note frames. Pre-sessional courses should use full-length lectures with integrated writing tasks that require the notes. In-sessionally, review students' own notes from their modules.",
+      "contextNotes": "Foundation learners benefit from guided note frames. Pre-sessional UG courses should use full-length lectures with integrated writing tasks that require the notes; pre-sessional PG courses can use denser lectures and link notes to seminar preparation. In-sessionally, review students' own notes from their modules. Some students (for example deaf students, or students with dyslexia or motor difficulties) work with a human note-taker, recordings or assistive technology; assess what they do with notes, such as selection and summary, rather than real-time handwriting speed.",
       "citations": [
         "kiewra1985",
         "flowerdew1994",
@@ -3988,7 +3997,7 @@
             "Make notes on a short article using all three columns",
             "Swap with a peer and check that each column contains only what it should"
           ],
-          "intendedInsight": "Separating source words, source ideas and one's own ideas at the note stage prevents confusion later.",
+          "intendedInsight": "Separating source words, source ideas and one's own ideas at the note stage is intended to prevent confusion later.",
           "rationale": "A practical routine reflecting Pecorari's (2013) emphasis on teaching source use rather than only policing plagiarism.",
           "citations": [
             "pecorari2013"
@@ -4001,7 +4010,7 @@
             "Cover it and write notes from memory in own words",
             "Uncover and check for accuracy and for unintended copying"
           ],
-          "intendedInsight": "Writing notes away from the text reduces copying and tests understanding.",
+          "intendedInsight": "Writing notes away from the text is intended to reduce copying and to test understanding.",
           "rationale": "Targets the close textual dependence described as patchwriting by Pecorari (2003).",
           "citations": [
             "pecorari2003"
@@ -4037,7 +4046,7 @@
         "partialResponse": "Some distinction is made but inconsistently, or page numbers are missing.",
         "gapResponse": "No distinction is made, or the learner cannot tell which parts were copied."
       },
-      "contextNotes": "At foundation level, model and check the layout closely. Pre-sessional courses should link it to source-based writing assessments. PGT and PGR students reading large literatures need the same separation in digital form, often within reference management software.",
+      "contextNotes": "At foundation level, model and check the layout closely. Pre-sessional courses should link it to source-based writing assessments, with PG courses using longer and more numerous sources. In-sessional UG and PGT students reading for assignments and dissertations need the same separation in digital form, often within reference management software, as do PGR students managing a large literature.",
       "citations": [
         "pecorari2013",
         "pecorari2003",
@@ -4117,7 +4126,7 @@
     },
     {
       "topicId": "ntk.digital-notes",
-      "summary": "Mueller and Oppenheimer (2014) reported that laptop note-takers wrote more verbatim notes and performed worse on conceptual questions than longhand note-takers. Morehead, Dunlosky and Rawson (2019) replicated and extended the study and did not find robust differences, concluding that the evidence does not justify strong claims for longhand superiority. Sana, Weston and Cepeda (2013) found that laptop multitasking harmed learning for users and for nearby peers. Present this as an open debate: the defensible advice is to avoid verbatim transcription and multitasking whatever the device, and never to require handwriting where students rely on typed notes or assistive technology.",
+      "summary": "Mueller and Oppenheimer (2014) reported that laptop note-takers wrote more verbatim notes and performed worse on conceptual questions than longhand note-takers. Morehead, Dunlosky and Rawson (2019) replicated and extended the study and did not find robust differences, concluding that the evidence does not justify strong claims for longhand superiority. Sana, Weston and Cepeda (2013) found that laptop multitasking harmed learning for users and for nearby peers. Both note-taking studies tested first-language English undergraduates watching short talks in laboratory conditions, so their transfer to L2 lecture note-taking is untested. Present this as an open debate: the defensible advice is to avoid verbatim transcription and multitasking whatever the device, and never to require handwriting where students rely on typed notes or assistive technology.",
       "activities": [
         {
           "title": "Read the debate",
@@ -4176,20 +4185,19 @@
         "partialResponse": "Choice based on habit; notes found but largely verbatim.",
         "gapResponse": "Repeats myths, cannot find notes, or notes are absent."
       },
-      "contextNotes": "Foundation and pre-sessional students often arrive with established habits; address the evidence early. In UG and PGT programmes, practical organisation becomes more important as volume grows.",
+      "contextNotes": "Foundation and pre-sessional students often arrive with established habits; address the evidence early. In UG and PGT programmes, practical organisation becomes more important as volume grows. Students with dyslexia, dyspraxia or other disabilities may rely on typed notes, dictation, recording or assistive software; guidance should never imply that handwriting is required.",
       "citations": [
         "mueller2014",
         "morehead2019",
         "sana2013"
       ],
       "reviewNotes": [
-        "sana2013 is a proposed reference.",
-        "Accessibility: some students rely on typed notes or assistive technology; guidance should never imply that handwriting is required."
+        "Review response: the laptop–longhand evidence is presented as contested (Mueller & Oppenheimer, 2014; Morehead et al., 2019), with the limits of laboratory and first-language samples stated; no device recommendation is made."
       ]
     },
     {
       "topicId": "ntk.collaborative-notes",
-      "summary": "Kiewra's (1985) distinction between encoding and external storage suggests that shared notes can supply the storage function but not the processing benefit of taking notes oneself, so students who rely only on others' notes miss that processing. Collaborative notes work best as a supplement to individual notes, through comparison, correction and pooling of gaps. Institutional rules on collusion (Bretag, 2016) mean students need to know where sharing notes ends and sharing assessed work begins. In multilingual groups, attention to equitable division of work matters.",
+      "summary": "Kiewra's (1985) distinction between encoding and external storage suggests that shared notes can supply the storage function but not the processing benefit of taking notes oneself, so students who rely only on others' notes miss that processing. Collaborative notes are probably most useful as a supplement to individual notes, through comparison, correction and pooling of gaps. Institutional rules on collusion (Bretag, 2016) mean students need to know where sharing notes ends and sharing assessed work begins. In multilingual groups, attention to equitable division of work matters.",
       "activities": [
         {
           "title": "Compare, correct, combine",
@@ -4303,15 +4311,22 @@
           "revealedBy": "Learners ask only for work on particular sounds; their stress and prosody errors cause more misunderstanding than their sounds.",
           "response": "Show evidence that stress and prominence affect intelligibility (Field, 2005; Hahn, 2004) and use listener transcription to locate actual breakdowns.",
           "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Speaking criteria, feedback or listeners' comments reward 'native-like' pronunciation or penalise accent, so the learner is judged on accentedness rather than on how well they are understood.",
+          "kind": "institutional",
+          "revealedBy": "Rubrics with descriptors such as 'native-like' or 'neutral accent'; feedback that names the accent without identifying any misunderstanding; learners who are intelligible but receive low pronunciation marks.",
+          "response": "Assessment teams should review speaking criteria so that pronunciation is judged on intelligibility and comprehensibility for the intended audience, and train raters to separate accent from understanding. Learners can ask for feedback that names what a listener did not understand.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
         "task": "Ask the learner: 'What would good pronunciation mean for you at university?' and 'Which parts of your pronunciation cause listeners problems?'",
         "strongResponse": "Defines goals in terms of being understood by their audience and names specific features based on feedback.",
-        "partialResponse": "Mentions being understood but sets goals in terms of sounding native or lists sounds without evidence.",
+        "partialResponse": "Mentions being understood but sets goals in terms of imitating a reference accent, or lists sounds without evidence.",
         "gapResponse": "Aims to eliminate accent and has no sense of which features matter."
       },
-      "contextNotes": "This concept frames all pronunciation work and should be introduced at foundation and pre-sessional level. For PGR students who teach or present internationally, it supports a confident professional identity as a multilingual speaker.",
+      "contextNotes": "This concept frames all pronunciation work and should be introduced at foundation and pre-sessional level, both UG and PG. In-sessionally it is revisited when students ask for accent reduction. For PGR students who teach or present internationally, it supports a confident professional identity as a multilingual speaker.",
       "citations": [
         "munroderwing1995",
         "levis2005",
@@ -4321,12 +4336,12 @@
         "rubin1992"
       ],
       "reviewNotes": [
-        "rubin1992 is a proposed reference."
+        "Review response (R1-01): stage roles now limit this topic to develop at foundation and pre-sessional stages and revisit elsewhere; it is not core at any stage because it is a framing concept rather than a separately assessed skill."
       ]
     },
     {
       "topicId": "prn.word-stress",
-      "summary": "Field (2005) found that misplaced lexical stress reduced intelligibility for both native and non-native listeners, with shifts to a later syllable especially disruptive in his data. Because stress shifts systematically across academic word families, and a limited number of stress patterns account for much of the Academic Word List (Murphy & Kandil, 2004), stress can be taught alongside vocabulary as part of knowing a word. Teach stress with each new word, emphasise patterns rather than lists, and check perception as well as production (Derwing & Munro, 2015).",
+      "summary": "Field (2005) found that misplaced lexical stress reduced intelligibility for both native and non-native listeners, with shifts to a later syllable especially disruptive in his data. Because stress shifts systematically across academic word families, and a limited number of stress patterns account for much of the Academic Word List (Murphy & Kandil, 2004), stress can be taught alongside vocabulary as part of knowing a word. Compound and phrase stress matter too: noun + noun compounds, which are frequent in technical vocabulary, usually stress the first element, whereas adjective + noun phrases stress the noun. Teach stress with each new word, emphasise patterns rather than lists, and check perception as well as production (Derwing & Munro, 2015).",
       "activities": [
         {
           "title": "Word family stress patterns",
@@ -4390,9 +4405,7 @@
         "murphykandil2004",
         "derwingmunro2015"
       ],
-      "reviewNotes": [
-        "murphykandil2004 is a proposed reference; if it is not verified, the claim about stress patterns in the AWL should be removed."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "prn.thought-groups",
@@ -4405,7 +4418,7 @@
             "Read it aloud and record it",
             "Listen back and compare the pauses with the marked boundaries"
           ],
-          "intendedInsight": "Planned chunks make speech easier to follow and easier to produce.",
+          "intendedInsight": "Planned chunks can make speech easier to follow and easier to produce.",
           "rationale": "Applies Gilbert's (2008) thought-group principle to academic text.",
           "citations": [
             "gilbert2008"
@@ -4457,13 +4470,11 @@
         "gilbert2008",
         "derwingmunro2015"
       ],
-      "reviewNotes": [
-        "gilbert2008 is a proposed reference; the thought-group concept is also discussed in derwingmunro2015."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "prn.prominence",
-      "summary": "Hahn (2004) found that when a non-native speaker's lecture had correctly placed primary stress, listeners recalled more content and evaluated the speaker more favourably than when stress was misplaced or absent. Prominence links pronunciation to information structure: it tells listeners which word in a thought group carries the new or contrastive point. Gilbert's (2008) prosody pyramid offers a teachable sequence from thought group to focus word to stressed syllable.",
+      "summary": "Hahn (2004) found that when a non-native speaker's lecture had correctly placed primary stress, listeners recalled more content and evaluated the speaker more favourably than when stress was misplaced or absent. Prominence links pronunciation to information structure: it tells listeners which word in a thought group carries the new or contrastive point. Nuclear stress placement is one of the few prosodic features Jenkins (2000) retained in the Lingua Franca Core, so prominence is a priority in lingua franca settings as well as elsewhere. Gilbert's (2008) prosody pyramid offers a teachable sequence from thought group to focus word to stressed syllable.",
       "activities": [
         {
           "title": "Shifting focus",
@@ -4497,8 +4508,8 @@
           "pattern": "Learners whose first language marks focus mainly through word order, particles or syntax rather than pitch prominence do not use prominence to highlight new information, or stress every content word equally.",
           "kind": "L1-transfer",
           "revealedBy": "Even stress across content words; contrasts not audible.",
-          "response": "Contrast versions with and without prominence and show how meaning changes; practise in short dialogues before extended speech.",
-          "reteachPrerequisiteId": "coh.given-new"
+          "response": "Contrast versions with and without prominence in question–answer pairs and show how meaning changes; practise in short dialogues before extended speech. The spoken contrast can later be linked to given and new information in writing.",
+          "reteachPrerequisiteId": "prn.thought-groups"
         },
         {
           "pattern": "Learners place prominence on the last word of every thought group regardless of whether it is new.",
@@ -4518,9 +4529,12 @@
       "citations": [
         "hahn2004",
         "gilbert2008",
-        "derwingmunro2015"
+        "derwingmunro2015",
+        "jenkins2000"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R2-10): the edge from coh.given-new is soft and reworded, and this difficulty now returns to thought groups rather than to written information structure, so the spoken given–new contrast is taught through question–answer pairs without waiting for B2 written-discourse work."
+      ]
     },
     {
       "topicId": "prn.intonation",
@@ -4582,9 +4596,7 @@
         "brazil1997",
         "thompson2003lectures"
       ],
-      "reviewNotes": [
-        "brazil1997 is a proposed reference; the discourse intonation framework is also summarised in pickering2001."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "prn.segmental-priorities",
@@ -4615,6 +4627,21 @@
           "rationale": "Targets high-functional-load contrasts, which Munro and Derwing (2006) found to matter more for comprehensibility.",
           "citations": [
             "munroderwing2006fl"
+          ]
+        },
+        {
+          "title": "Perception training with many voices",
+          "learnerActions": [
+            "Choose one priority contrast identified from listener transcription",
+            "Using a free high-variability training tool or a teacher-made set, identify which word of a pair is spoken, across many different talkers and word contexts, with immediate feedback",
+            "Track accuracy over several short sessions",
+            "Move on to producing the contrast in academic sentences once identification is reliable"
+          ],
+          "intendedInsight": "Hearing a contrast reliably across many voices is a foundation for producing it.",
+          "rationale": "High-variability phonetic training (identification across many talkers with feedback) is a well-researched perception technique that has been associated with gains in perception and, in many studies, production (Thomson, 2018); perception-focused instruction is among the approaches reviewed by Thomson and Derwing (2015). Its use in EAP classes is a proposal rather than a tested intervention.",
+          "citations": [
+            "thomson2018hvpt",
+            "thomsonderwing2015"
           ]
         }
       ],
@@ -4652,11 +4679,12 @@
         "munroderwing2006fl",
         "jenkins2000",
         "derwingmunro2015",
-        "thomsonderwing2015"
+        "thomsonderwing2015",
+        "thomson2018hvpt"
       ],
       "reviewNotes": [
-        "munroderwing2006fl and thomsonderwing2015 are proposed references.",
-        "Specific contrasts named as high or low functional load are general tendencies; the exact ranking varies across studies."
+        "Specific contrasts named as high or low functional load are general tendencies; the exact ranking varies across studies.",
+        "Review response (R2-41): an HVPT activity has been added. Thomson (2018) is not in the closed bibliography and is listed under proposedReferences; if it is not accepted, cite the activity to thomsonderwing2015 only and soften the rationale."
       ]
     },
     {
@@ -4695,10 +4723,10 @@
           "reteachPrerequisiteId": "prn.prominence"
         },
         {
-          "pattern": "Learners give every function word a full form, producing a staccato rhythm in which key words do not stand out.",
-          "kind": "L1-transfer",
-          "revealedBy": "Even rhythm; few reduced forms; listeners report difficulty identifying key points.",
-          "response": "Work on contrasting stressed and unstressed syllables, starting from recognition before production.",
+          "pattern": "Learners give every function word a full form and equal weight, so key words do not stand out for listeners used to English rhythm. Full forms are not in themselves an error, and many such speakers remain intelligible.",
+          "kind": "developmental",
+          "revealedBy": "Even rhythm and few reduced forms, together with listener reports of difficulty identifying the key points.",
+          "response": "Work on contrasting stressed and unstressed syllables, starting from recognition before production. Judge success by whether listeners can pick out the key words, not by how many weak forms the speaker uses.",
           "reteachPrerequisiteId": "lis.connected-speech"
         }
       ],
@@ -4720,7 +4748,7 @@
     },
     {
       "topicId": "prn.technical-terms",
-      "summary": "Technical terms are often met first in reading, so learners form their pronunciation from spelling, which in English is an unreliable guide to stress. Because stress errors disrupt word recognition (Field, 2005) and key terms recur throughout an explanation, a mispronounced term can impair a whole presentation. Teach a checking routine, prioritise the terms students will actually use, and accept that some names and terms have more than one accepted pronunciation (Derwing & Munro, 2015, on prioritising intelligibility).",
+      "summary": "Technical terms are often met first in reading, so learners form their pronunciation from spelling, which in English is an unreliable guide to stress. Because stress errors disrupt word recognition (Field, 2005) and key terms recur throughout an explanation, a mispronounced term can impair a whole presentation. Compound terms (CASE study, CONTROL group) follow compound stress patterns that learners can check in the same way. Teach a checking routine, prioritise the terms students will actually use, and accept that some names and terms have more than one accepted pronunciation (Derwing & Munro, 2015, on prioritising intelligibility).",
       "activities": [
         {
           "title": "Presentation term check",
@@ -4730,7 +4758,7 @@
             "Mark stress and practise each term in a sentence",
             "Ask a peer from the same field to confirm"
           ],
-          "intendedInsight": "Checking a few key terms has a large effect on clarity.",
+          "intendedInsight": "Checking a few recurring key terms can make a noticeable difference to clarity.",
           "rationale": "Applies Field's (2005) finding on stress and recognition to the terms that recur most in a talk.",
           "citations": [
             "field2005"
@@ -4839,14 +4867,12 @@
         "partialResponse": "Some paraphrase with hesitations.",
         "gapResponse": "Gives up or relies on the term."
       },
-      "contextNotes": "Relevant at all stages. At foundation level, emphasise compensatory strategies; for in-sessional students, focus on meaning-affecting errors in disciplinary speech.",
+      "contextNotes": "Relevant from foundation to in-sessional level. At foundation level, emphasise compensatory strategies; for in-sessional students, focus on meaning-affecting errors in disciplinary speech.",
       "citations": [
         "levelt1989",
         "dornyeiscott1997"
       ],
-      "reviewNotes": [
-        "dornyeiscott1997 is a proposed reference."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "prn.fluency",
@@ -4860,7 +4886,7 @@
             "Repeat again to a third partner in 2 minutes",
             "Reflect on what changed"
           ],
-          "intendedInsight": "Repetition under time pressure builds fluency.",
+          "intendedInsight": "Repetition under time pressure is intended to make delivery of familiar content smoother.",
           "rationale": "The 4/3/2 activity is described by Nation and Newton (2009) as a fluency-development technique.",
           "citations": [
             "nationnewton2009"
@@ -4873,7 +4899,7 @@
             "Practise them as units until automatic",
             "Use them in a short presentation"
           ],
-          "intendedInsight": "Formulaic language frees attention for content.",
+          "intendedInsight": "Formulaic language can free attention for content.",
           "rationale": "Builds on Wood's (2010) account of formulaic sequences and fluency.",
           "citations": [
             "wood2010"
@@ -4909,20 +4935,18 @@
         "partialResponse": "Improves markedly with planning.",
         "gapResponse": "Frequent mid-clause pauses even after planning."
       },
-      "contextNotes": "Relevant at all stages. For PGR students, fluency in conference presentations and vivas is important; formulaic language for presenting research can be targeted.",
+      "contextNotes": "Relevant at all stages. For PGR students, fluency in conference presentations and vivas is important; formulaic language for presenting research can be targeted. For students who stammer, fluency work should not aim at eliminating disfluency: judge communicative effectiveness, allow extra time, and follow the student's own preferences and any specialist advice.",
       "citations": [
         "segalowitz2010",
         "skehan1998",
         "wood2010",
         "nationnewton2009"
       ],
-      "reviewNotes": [
-        "wood2010 and nationnewton2009 are proposed references."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "prn.numbers-aloud",
-      "summary": "Numbers, formulae and units are frequent in presentations across many disciplines, and errors can mislead listeners about findings. SI conventions (Bureau International des Poids et Mesures, 2019) govern unit names and symbols, while spoken conventions for formulae vary by discipline and region. Teach common patterns, the -teen/-ty stress contrast and confirmation strategies, and have learners practise with figures from their own fields.",
+      "summary": "Numbers, formulae and units are frequent in presentations across many disciplines, and errors can mislead listeners about findings. SI conventions (Bureau International des Poids et Mesures, 2019) govern unit names and symbols, while spoken conventions for formulae vary by discipline and region. Teach common patterns, the -teen/-ty contrast (relying mainly on the final syllable, because -teen stress shifts forward before a stressed noun) and confirmation strategies, and have learners practise with figures from their own fields.",
       "activities": [
         {
           "title": "Read the table",
@@ -4954,7 +4978,7 @@
           "pattern": "Learners confuse -teen and -ty numbers.",
           "kind": "developmental",
           "revealedBy": "Listeners mishear figures such as 15 and 50.",
-          "response": "Practise the stress contrast and confirm critical numbers.",
+          "response": "Practise the final-syllable contrast (/tiːn/ versus /ti/) in phrases such as fourteen students, where stress shift removes the stress cue, and confirm critical numbers (one five, fifteen).",
           "reteachPrerequisiteId": "prn.word-stress"
         },
         {
@@ -4987,8 +5011,15 @@
       ]
     }
   ],
+  "proposedReferences": [
+    {
+      "key": "thomson2018hvpt",
+      "apa": "Thomson, R. I. (2018). High variability [pronunciation] training (HVPT): A proven technique about which every language teacher and learner ought to know. Journal of Second Language Pronunciation, 4(2), 208–231. https://doi.org/10.1075/jslp.17038.tho",
+      "note": "Requested by review finding R2-41. High confidence in authors, year, title, journal, volume, issue and pages; DOI recalled from memory and should be checked. Supports only the HVPT activity rationale in prn.segmental-priorities."
+    }
+  ],
   "authorNotes": [
-    "LIS/COH overlap: lis.lecture-discourse-markers, coh.spoken-signposting and prs.signposting cover the same marker inventory from reception, general discourse and production angles. I have made lis.lecture-discourse-markers depend (soft) on coh.spoken-signposting; the COH and PRS authors should not make coh.spoken-signposting depend on any LIS topic, or a cycle will result. PRS authors may wish to link prs.signposting to lis.lecture-discourse-markers (soft).",
+    "LIS/PRS overlap: coh.spoken-signposting has been merged into prs.signposting. lis.lecture-discourse-markers is the reception topic and no longer depends on prs.signposting, so the PRS author can make prs.signposting depend on it (recognition before production).",
     "lis.accent-variation depends (soft) on idn.elf. The IDN author should not make idn.elf depend on lis.accent-variation; prn.intelligibility (an entry point here) is a safe soft prerequisite for idn.elf if one is wanted.",
     "Gap: there is no receptive prosody topic (perceiving prominence, tone and pitch reset as cues in listening). Several LIS topics rely on prosodic cues, so I have used production topics (prn.prominence, prn.intonation) as soft prerequisites. A topic such as 'lis.prosodic-cues' would make these dependencies cleaner.",
     "lis.listening-processes is largely teacher-facing conceptual knowledge; it could be merged into lis.metacognitive-listening as its 'task knowledge' component without loss.",
@@ -4997,10 +5028,10 @@
     "Suggested outgoing edges for other strands: src.paraphrasing and src.summarising-passage could take ntk.notes-from-reading as a soft prerequisite; syn.synthesis-matrix could take ntk.note-formats; wpr.reading-to-write could take ntk.notes-from-reading; exm.revision-planning could take ntk.reviewing-notes. None of these SRC, SYN, WPR or EXM topics should be made prerequisites of NTK topics, or cycles may result.",
     "Overlap: ntk.notes-from-reading overlaps with rds.annotation and inf.search-records; ntk.reviewing-notes overlaps with lrn.study-techniques; ntk.digital-notes overlaps with dig.file-management. Scope notes should make the NTK topics the place where note-specific practice is taught.",
     "Gap: PGR literature note-making within reference managers (notes attached to records, tagging, annotation sync) is not clearly covered by either ntk.digital-notes or dig.reference-managers.",
-    "Strand placement: PRN is a production domain placed in the Academic Listening strand. It would sit more naturally in Academic Speaking, or the strand could be renamed 'Academic Listening & Pronunciation'. I have not changed IDs or strand names.",
     "Suggested outgoing edges for other strands: prs.delivery-voice could take prn.thought-groups and prn.prominence as prerequisites; prs.signposting could take prn.intonation (soft); prs.research-presentations and prs.explaining-visuals could take prn.technical-terms and prn.numbers-aloud; sem.checking-understanding could take prn.repair. These PRS and SEM topics should not be made prerequisites of PRN topics.",
     "Direction choices that other authors should respect to avoid cycles: prn.fluency depends on phr.spoken-academic-formulas; prn.numbers-aloud depends on num.number-expressions and num.mathematical-expression; prn.intonation depends on reg.spoken-vs-written; prn.repair depends on fun.defining and sta.code-glosses.",
     "Overlap: prs.delivery-voice (pace, volume, pausing, emphasis) overlaps substantially with prn.thought-groups and prn.prominence; its scope note could be narrowed to presentation-specific delivery.",
-    "prn.intelligibility is an entry point; idn.elf and idn.standards-legitimacy could take it as a soft prerequisite."
+    "prn.intelligibility is an entry point; idn.elf and idn.standards-legitimacy could take it as a soft prerequisite.",
+    "Proposed reference thomson2018hvpt supports the HVPT activity in prn.segmental-priorities (review finding R2-41)."
   ]
 }

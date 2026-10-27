@@ -283,7 +283,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "Anticipating counter-arguments",
-      "description": "Identify the strongest objections, alternative explanations and contrary evidence that a knowledgeable reader could raise against one's position, and decide which must be addressed in the text. Anticipating objections is a hallmark of mature argument and of higher-rated student essays, but learners rarely do it spontaneously.",
+      "description": "Identify the strongest objections, alternative explanations and contrary evidence that a knowledgeable reader could raise against one's position, and decide which must be addressed in the text. Anticipating objections is a feature of well-developed argument and of higher-rated student essays, but most writers, in any language, rarely do it without explicit teaching.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
@@ -452,6 +452,10 @@
             "C1"
           ],
           "contribution": "component"
+        },
+        {
+          "key": "vitae-rdf:A3",
+          "contribution": "related"
         }
       ]
     },
@@ -784,7 +788,7 @@
       "domain": "Critical Thinking",
       "name": "Types and strength of evidence",
       "description": "Recognise the main kinds of evidence used in academic argument — experimental and statistical data, qualitative accounts, documentary and textual evidence, expert testimony and anecdote — and judge what each can and cannot establish for a particular claim. Evidence hierarchies, such as those used in evidence-based medicine, are useful but field-bound tools, not universal rankings.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "C1",
       "stages": [
         "foundation",
@@ -1014,7 +1018,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Beliefs about knowledge",
-      "description": "Reflect on and develop one's beliefs about the nature of knowledge — its certainty, simplicity, source and justification — moving from treating knowledge as fixed facts transmitted by authorities, through treating all views as equally valid, towards evaluating claims as better or worse supported. These beliefs shape how learners read conflicting sources, respond to open questions and feedback, and build arguments.",
+      "description": "Reflect on and develop one's beliefs about the nature of knowledge — its certainty, simplicity, source and justification — drawing on models, developed largely with US undergraduates, that describe a broad tendency rather than fixed stages: from treating knowledge as fixed facts transmitted by authorities, through treating all views as equally valid, towards evaluating claims as better or worse supported. These beliefs shape how learners read conflicting sources, respond to open questions and feedback, and build arguments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
@@ -1152,16 +1156,7 @@
         "hoey1983",
         "facione1990"
       ],
-      "frameworks": [
-        {
-          "key": "vitae-rdf:A2",
-          "contribution": "component"
-        },
-        {
-          "key": "vitae-rdf:A3",
-          "contribution": "related"
-        }
-      ]
+      "frameworks": []
     },
     {
       "id": "crt.reflexivity",
@@ -1237,7 +1232,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Drawing on a plurilingual repertoire",
-      "description": "Use all one's languages strategically for academic learning — reading and note-making across languages, discussing ideas in shared languages, planning with the first language and checking terminology bilingually — while producing assessed work in the required language and within institutional rules. Treating the repertoire as an integrated resource supports comprehension, conceptual depth and confidence.",
+      "description": "Use all one's languages strategically for academic learning — reading and note-making across languages, discussing ideas in shared languages, planning with the first language and checking terminology bilingually — while meeting the language requirements and rules of each assessment. Whether assessed texts may themselves be translingual (for example, quoting and glossing sources in other languages, or mixing languages in reflective genres) is contested and varies by task, and learners can ask. Treating the repertoire as an integrated resource supports comprehension, conceptual depth and confidence.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "stages": [
@@ -1481,7 +1476,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Standards, native-speakerism and legitimacy",
-      "description": "Examine critically the assumption that native-speaker English is the benchmark for academic English, distinguishing the conventions of academic genres (which all writers must learn) from nativeness, and understanding how native-speakerism, gatekeeping and language ideologies affect assessment, publication and participation. This enables learners to claim legitimacy as multilingual academic users while making informed choices about conventions.",
+      "description": "Examine critically the assumption that native-speaker English is the benchmark for academic English, distinguishing the conventions of academic genres (which all writers must learn) from nativeness, and understanding how native-speakerism, gatekeeping and language ideologies, including the tendency to judge the same English differently depending on a speaker's perceived race, nationality or accent, affect assessment, publication and participation. This enables learners to claim legitimacy as multilingual academic users while making informed choices about conventions.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
       "stages": [
@@ -1835,7 +1830,7 @@
     {
       "topicId": "crt.multiple-perspectives",
       "prerequisiteId": "rds.writer-stance",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Representing a view fairly requires tracking whose view a text expresses and how strongly it is endorsed"
     },
     {
@@ -1893,12 +1888,6 @@
       "reason": "A concept can only be mapped onto evidence once its definition and distinguishing features are clear"
     },
     {
-      "topicId": "crt.applying-theory",
-      "prerequisiteId": "rdc.theoretical-texts",
-      "strength": "soft",
-      "reason": "Learners typically meet the concepts they apply in dense theoretical readings that they must first understand"
-    },
-    {
       "topicId": "crt.problem-solving",
       "prerequisiteId": "fun.problem-solution",
       "strength": "soft",
@@ -1945,12 +1934,6 @@
       "prerequisiteId": "acu.academic-literacies",
       "strength": "soft",
       "reason": "The academic literacies view of writing as social practice involving identity and power frames identity as a legitimate object of study"
-    },
-    {
-      "topicId": "idn.diversity-as-resource",
-      "prerequisiteId": "acu.academic-literacies",
-      "strength": "soft",
-      "reason": "The academic literacies critique of deficit 'study skills' models provides the basis for resource-oriented views of student diversity"
     },
     {
       "topicId": "idn.diversity-as-resource",
@@ -2159,7 +2142,7 @@
     },
     {
       "topicId": "arg.toulmin",
-      "summary": "Toulmin proposed his layout as a field-dependent alternative to formal logic, describing how practical arguments move from data to claim through warrants that may themselves need backing and that are limited by qualifiers and rebuttal conditions. Qin and Karabacak's analysis of Chinese EFL university students' argumentative essays used a modified Toulmin scheme and found that counter-argument and rebuttal elements were relatively infrequent but associated with higher-rated essays. Andrews cautions that the model analyses individual arguments rather than whole texts, so use it diagnostically and keep the terminology light at lower levels.",
+      "summary": "Toulmin proposed his layout as a field-dependent alternative to formal logic, describing how practical arguments move from data to claim through warrants that may themselves need backing and that are limited by qualifiers and rebuttal conditions. Qin and Karabacak's study of argumentative essays by EFL undergraduates at one Chinese university used a modified Toulmin scheme and found that counter-argument and rebuttal elements were relatively infrequent but associated with higher-rated essays; Wingate (2012) similarly reports that students at a UK university were often unclear about what argument requires, so the pattern reflects novice status and instruction, not nationality. Andrews cautions that the model analyses individual arguments rather than whole texts, so use it diagnostically and keep the terminology light at lower levels.",
       "activities": [
         {
           "title": "Unpacking an argument",
@@ -2989,7 +2972,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'In my previous studies we were expected to learn from experts, not question them, so I am not good at this.'",
+          "pattern": "'In my previous exams, marks came from reproducing the textbook accurately, so I'm not sure when I'm allowed to evaluate a source.'",
           "kind": "prior-schooling",
           "revealedBy": "Reluctance to evaluate published sources, heavy deference language, and accurate summaries with no comment.",
           "response": "Treat this as a difference in assessment genres and in the licence to question, not in ability: point out the evaluation learners already do in other domains, show that evaluating published work is an expected and licensed move in the target context, and teach mitigated forms of critique. Do not frame learners' educational backgrounds as lacking critical thinking or contrast 'Western' and 'non-Western' thinkers; such framings are native-speakerist and empirically unfounded.",
@@ -3534,8 +3517,8 @@
           "pattern": "'A good essay is balanced and does not take sides.'",
           "kind": "prior-schooling",
           "revealedBy": "Refusal to reach a conclusion even when the task asks 'to what extent'.",
-          "response": "Show that in most UK HE genres balanced consideration is expected to lead to a reasoned position; contrast discussion and argumentative tasks.",
-          "reteachPrerequisiteId": "rds.writer-stance"
+          "response": "Show that in many English-medium university genres (check local criteria) balanced consideration is expected to lead to a reasoned position; contrast discussion and argumentative tasks.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3748,7 +3731,7 @@
     },
     {
       "topicId": "crt.problem-solving",
-      "summary": "Hoey's situation–problem–response–evaluation pattern gives a textual model of the reasoning process and links problem-solving to the structure of problem–solution essays, reports and case analyses. Facione's consensus statement presents critical-thinking skills such as analysis, evaluation and inference as the means of reasoned problem-solving and decision-making. Separating option generation from option evaluation, and making evaluation criteria explicit, are the two moves most likely to improve student work.",
+      "summary": "Hoey's situation–problem–response–evaluation pattern gives a textual model of the reasoning process and links problem-solving to the structure of problem–solution essays, reports and case analyses. Facione's consensus statement presents critical-thinking skills such as analysis, evaluation and inference as the means of reasoned problem-solving and decision-making. Separating option generation from option evaluation, and making evaluation criteria explicit, are, in practitioner experience, the two moves most likely to improve student work; neither cited source tests this.",
       "activities": [
         {
           "title": "Symptom or cause?",
@@ -3925,7 +3908,7 @@
         },
         {
           "pattern": "'I'm only a student, so I can't evaluate published research.'",
-          "kind": "prior-schooling",
+          "kind": "affective",
           "revealedBy": "Deferential positioning; summaries without evaluation; reluctance to claim originality.",
           "response": "Show that the role of evaluator is expected of students in the target context and model how to evaluate with appropriate mitigation.",
           "reteachPrerequisiteId": null

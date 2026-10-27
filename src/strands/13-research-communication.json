@@ -48,7 +48,7 @@
       "strand": "Research Communication",
       "domain": "Publication & Dissemination",
       "name": "The academic publishing process",
-      "description": "Understand the stages through which a manuscript becomes a publication — submission, editorial screening and desk rejection, peer review (single-anonymous, double-anonymous, open), decisions (accept, minor or major revision, reject and resubmit, reject), revision, acceptance, production and post-publication correction or retraction — and the roles of editors, reviewers and authors in each. Understanding the process as a negotiation within a discourse community helps novice authors interpret decisions, plan timelines and avoid treating rejection as a final verdict on their work.",
+      "description": "Understand the stages through which a manuscript becomes a publication — submission, editorial screening and desk rejection, peer review (single-anonymous, double-anonymous, open or transparent, and models such as registered reports and review of preprints), decisions (accept, minor or major revision, reject and resubmit, reject), revision, acceptance, production and post-publication correction or retraction — and the roles of editors, reviewers and authors in each. Understanding the process as a negotiation within a discourse community helps novice authors interpret decisions, plan timelines and avoid treating rejection as a final verdict on their work.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "stages": [
@@ -92,7 +92,7 @@
       "domain": "Publication & Dissemination",
       "name": "Selecting a journal",
       "description": "Choose a target journal by matching the manuscript's contribution, method and audience to a journal's aims and scope, readership, article types, recent content, review practices, indexing, open-access options and costs, and turnaround, while screening out predatory or deceptive venues. Writers then read and apply the author guidelines and shape the manuscript for that journal's conversation, ideally choosing the journal before drafting rather than after.",
-      "cefrStart": "C1",
+      "cefrStart": "B2+",
       "cefrEnd": "C1",
       "stages": [
         "pgr"
@@ -234,7 +234,7 @@
         "Separates major concerns that affect the validity of conclusions from minor and presentational points",
         "Phrases criticism as specific, actionable suggestions with reasons, using mitigation without obscuring the point",
         "Gives a recommendation consistent with the severity of the comments",
-        "Identifies the ethical obligations of reviewers, including confidentiality and declaring competing interests"
+        "Identifies the ethical obligations of reviewers, including confidentiality (for example not sharing the manuscript or uploading it to generative AI tools unless the journal explicitly permits this), declaring competing interests and involving co-reviewers only with the editor's permission"
       ],
       "assessmentPrompt": "Give the learner a short manuscript extract with one serious methodological flaw and several minor issues, and ask for a 300-word review. Check whether the flaw is identified as major and explained, whether minor points are separated, whether the tone is constructive and whether the recommendation matches the comments.",
       "citations": [
@@ -312,7 +312,7 @@
       "strand": "Research Communication",
       "domain": "Publication & Dissemination",
       "name": "Thesis defence and viva",
-      "description": "Prepare for and take part in the oral examination of a thesis: understanding the local format and possible outcomes, re-reading the thesis strategically, anticipating questions about contribution, design, findings, limitations and future work, and answering by explaining, defending, conceding and clarifying in extended spoken interaction with expert examiners. Formats vary widely, from closed UK-style vivas with internal and external examiners to public defences with an opponent in parts of continental Europe and committee defences in North America, while in some systems, such as many Australian universities, there is no oral examination.",
+      "description": "Prepare for and take part in the oral examination of a thesis: understanding the local format and possible outcomes, re-reading the thesis strategically, anticipating questions about contribution, design, findings, limitations and future work, and answering by explaining, defending, conceding and clarifying in extended spoken interaction with expert examiners. Formats vary widely, from closed UK-style vivas with internal and external examiners, whose recommendation follows the oral, to public defences in much of continental Europe that take place only after a committee has approved the written thesis, often with one or more opponents, and committee defences in North America that follow earlier proposal defences or qualifying examinations, while in some systems, such as many Australian universities, there is no oral examination.",
       "cefrStart": "C1",
       "cefrEnd": "C2",
       "stages": [
@@ -320,13 +320,13 @@
       ],
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Describes the format, participants, procedures and possible outcomes of the viva or defence in their institution",
+        "Describes the format (including online or hybrid arrangements), participants, procedures and possible outcomes of the viva or defence in their institution, and what happens afterwards, such as how required corrections are specified, made and approved",
         "Summarises the thesis, its contribution and its limitations orally in two to three minutes",
         "Answers challenging questions by clarifying the question, giving a direct answer and supporting it with reference to the thesis",
         "Concedes valid criticisms without abandoning the thesis's main claims and defends choices with reasons",
         "Manages extended interaction, including asking for clarification, taking time to think and navigating to relevant pages"
       ],
-      "assessmentPrompt": "Run a ten-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation. Check whether the learner answers directly, supports answers with reference to the thesis, concedes appropriately and maintains the main claims.",
+      "assessmentPrompt": "Run a 15–20-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation. Follow each answer with at least one probing follow-up, including one that requires the candidate to find and use a specific passage in the thesis. Check whether the learner answers directly, supports answers with reference to the thesis, concedes appropriately and maintains the main claims.",
       "citations": [
         "paltridgestarfield2020",
         "swales2004",
@@ -362,7 +362,7 @@
       "strand": "Research Communication",
       "domain": "Publication & Dissemination",
       "name": "Authorship and contribution",
-      "description": "Understand what qualifies someone for authorship, using criteria such as the ICMJE's, and how contributions are described with contributor-role taxonomies such as CRediT, how author order conventions differ across disciplines, and what counts as honorary, guest or ghost authorship. Researchers should be able to discuss authorship early in collaborations, including with supervisors, and to write accurate contribution statements and acknowledgements, including declarations of the use of AI tools, which journals do not accept as authors.",
+      "description": "Understand what qualifies someone for authorship, using criteria such as the ICMJE's, and how contributions are described with contributor-role taxonomies such as CRediT (which record who did what but do not by themselves decide who qualifies as an author), how author order conventions differ across disciplines, and what counts as honorary, guest or ghost authorship. Researchers should be able to discuss authorship early in collaborations, including with supervisors, and to write accurate contribution statements and acknowledgements, including declarations of the use of AI tools, which journals do not accept as authors.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "stages": [
@@ -593,7 +593,7 @@
       "domain": "Research Writing",
       "name": "Research questions and hypotheses",
       "description": "Formulate and present an aim, research questions and, where the design calls for them, hypotheses that are answerable, appropriately scoped and aligned with the stated gap and the chosen methods. Writers also choose how to present them, as numbered questions, objectives or a purpose statement, and use consistent wording across the introduction, methods and discussion. Well-formed questions are the reference point that examiners and reviewers use to judge the coherence of the whole study.",
-      "cefrStart": "B2+",
+      "cefrStart": "B2",
       "cefrEnd": "C1",
       "stages": [
         "pre-sessional",
@@ -669,16 +669,15 @@
           "contribution": "core"
         },
         {
-          "key": "cefr-cv:prod.writ.reports-essays",
-          "levels": [
-            "C1",
-            "C2"
-          ],
-          "contribution": "component"
-        },
-        {
           "key": "vitae-rdf:A3",
           "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "C1"
+          ],
+          "contribution": "component"
         }
       ]
     },
@@ -688,7 +687,7 @@
       "strand": "Research Communication",
       "domain": "Research Writing",
       "name": "Research article introductions",
-      "description": "Write research introductions that create a research space: establishing a territory (claiming centrality, generalising, reviewing previous research), establishing a niche, and occupying it by announcing the present research, its questions, and optionally its findings, value and structure. Writers adapt the model to their field and genre, including the cyclical moves, extended background and thesis-structure statements common in some disciplines and in PhD introductions, and they use it as an analytical lens on exemplars rather than as a fill-in template.",
+      "description": "Write research introductions that create a research space: establishing a territory (in Swales's 1990 model by claiming centrality, making topic generalisations and reviewing previous research; in the 2004 revision through cited topic generalisations of increasing specificity), establishing a niche (indicating a gap or adding to what is known), and presenting the present work (the 1990 'occupying the niche'), by announcing the research and its questions and, optionally, its methods, findings, value and structure. Writers adapt the model to their field and genre, including the cyclical moves, extended background and thesis-structure statements common in some disciplines and in PhD introductions, and they use it as an analytical lens on exemplars rather than as a fill-in template.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
       "stages": [
@@ -831,7 +830,7 @@
       "strand": "Research Communication",
       "domain": "Research Writing",
       "name": "Methods sections",
-      "description": "Write methods sections that describe the study (setting, participants or materials, instruments, procedures, data analysis) in enough detail for evaluation or replication and that establish credibility by justifying choices, citing precedents and addressing validity, reliability or trustworthiness. Move structure, level of detail, voice and the balance of description and justification vary considerably across disciplines and between laboratory, survey and qualitative traditions, so writers calibrate against field exemplars and reporting guidelines.",
+      "description": "Write methods sections that describe the study (setting, participants or materials, instruments, procedures, data analysis) in enough detail for evaluation or replication and that establish credibility by justifying choices, citing precedents and addressing validity, reliability or trustworthiness. Move structure, level of detail, voice and the balance of description and justification vary considerably across disciplines and between laboratory, survey and qualitative traditions, so writers calibrate against field exemplars and reporting guidelines (for example CONSORT, STROBE, COREQ or SRQR, collected by the EQUATOR Network).",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "stages": [
@@ -929,7 +928,7 @@
       "strand": "Research Communication",
       "domain": "Research Writing",
       "name": "Reporting quantitative findings",
-      "description": "Report descriptive and inferential statistics in the conventional format of the field or style guide: test statistics, degrees of freedom, exact p-values, effect sizes and confidence intervals in text and tables, with numbers, symbols and units styled correctly. Writers interpret statistical results in words a reader can follow, distinguish statistical significance from practical importance, and avoid the language of proof or of 'trends towards significance'.",
+      "description": "Report descriptive and inferential statistics in the conventional format of the field or style guide: test statistics, degrees of freedom, exact p-values (reported as p < .001 when very small), effect sizes and confidence intervals in text and tables, with numbers, symbols and units styled correctly. Writers interpret statistical results in words a reader can follow, distinguish statistical significance from practical importance, and avoid the language of proof or of 'trends towards significance'.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "stages": [
@@ -996,14 +995,6 @@
       ],
       "frameworks": [
         {
-          "key": "cefr-cv:prag.thematic-development",
-          "levels": [
-            "C1",
-            "C2"
-          ],
-          "contribution": "component"
-        },
-        {
           "key": "cefr-cv:med.text.processing-text",
           "levels": [
             "C1"
@@ -1013,6 +1004,13 @@
         {
           "key": "vitae-rdf:A2",
           "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:prag.thematic-development",
+          "levels": [
+            "C1"
+          ],
+          "contribution": "component"
         }
       ]
     },
@@ -1236,15 +1234,21 @@
       ],
       "frameworks": [
         {
-          "key": "cefr-cv:med.strat.streamlining-text",
-          "levels": [
-            "C1",
-            "C2"
-          ],
+          "key": "vitae-rdf:D2",
           "contribution": "component"
         },
         {
-          "key": "vitae-rdf:D2",
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:med.strat.streamlining-text",
+          "levels": [
+            "C1"
+          ],
           "contribution": "component"
         }
       ]
@@ -1255,7 +1259,7 @@
       "strand": "Research Communication",
       "domain": "Research Writing",
       "name": "Thesis macrostructure",
-      "description": "Choose and justify an overall organisation for a dissertation or thesis — traditional simple (IMRaD-like), traditional complex (several studies), topic-based, or publication-based (compilation of articles with framing chapters) — and plan chapters that fit the research, the institution's regulations and disciplinary norms. Writers understand what each chapter type contributes, how a publication-based thesis builds coherence across stand-alone papers, and what examiners will look for in the whole document.",
+      "description": "Choose and justify an overall organisation for a dissertation or thesis — traditional simple (IMRaD-like), traditional complex (several studies), topic-based, or publication-based (compilation of articles with framing chapters, assembled during candidature or, in some systems, retrospectively as a PhD by published works), alongside practice-based and professional-doctorate variants that combine an artefact or portfolio with an exegesis or commentary — and plan chapters that fit the research, the institution's regulations and disciplinary norms. Writers understand what each chapter type contributes, how a publication-based thesis builds coherence across stand-alone papers, and what examiners will look for in the whole document.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "stages": [
@@ -1278,15 +1282,14 @@
       ],
       "frameworks": [
         {
-          "key": "cefr-cv:prag.thematic-development",
-          "levels": [
-            "C1",
-            "C2"
-          ],
+          "key": "vitae-rdf:D2",
           "contribution": "component"
         },
         {
-          "key": "vitae-rdf:D2",
+          "key": "cefr-cv:prag.thematic-development",
+          "levels": [
+            "C1"
+          ],
           "contribution": "component"
         }
       ]
@@ -1320,18 +1323,20 @@
       ],
       "frameworks": [
         {
+          "key": "vitae-rdf:D2",
+          "contribution": "related"
+        },
+        {
           "key": "cefr-cv:prag.coherence-cohesion",
           "levels": [
-            "C1",
-            "C2"
+            "C1"
           ],
           "contribution": "core"
         },
         {
           "key": "cefr-cv:prag.thematic-development",
           "levels": [
-            "C1",
-            "C2"
+            "C1"
           ],
           "contribution": "component"
         }
@@ -1495,7 +1500,7 @@
       "masteryEvidence": [
         "Maintains a writing routine with planned sessions and records output over several weeks",
         "Sets writing goals in terms of specific text, such as section drafts or word counts, rather than vague intentions",
-        "Uses at least one social structure for writing, such as a writing group, retreat or accountability partner",
+        "Uses at least one social structure for writing, such as a writing group, retreat or accountability partner, and can show from their writing log what it changed in their output",
         "Writes from early in the project (notes, memos, draft sections) instead of postponing writing until the research is finished",
         "Identifies personal patterns of avoidance or over-revision and adjusts strategies in response"
       ],
@@ -1533,7 +1538,7 @@
       "masteryEvidence": [
         "Identifies aspects of their own position that plausibly affected this study's access, data or interpretation, and omits those that did not",
         "Explains the likely effect of each aspect and the steps taken to address it, such as memoing, member checking or peer debriefing",
-        "Uses first-person reference confidently and appropriately to the field",
+        "Uses first-person reference where the field's exemplars do, consistently across reflexive passages, without retreating into third-person self-reference ('the researcher')",
         "Integrates reflexive comments into methods and discussion where they bear on specific decisions or interpretations",
         "Distinguishes positionality statements from personal narrative or justification of interest in the topic"
       ],
@@ -2022,7 +2027,7 @@
     {
       "topicId": "res.conclusions-implications",
       "prerequisiteId": "res.contribution",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Articulating the contribution is a central move in research conclusions"
     },
     {
@@ -2106,7 +2111,7 @@
     {
       "topicId": "res.research-proposal",
       "prerequisiteId": "res.literature-review",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Proposals must position the project in the literature and justify the gap in condensed form"
     },
     {
@@ -2210,6 +2215,24 @@
       "prerequisiteId": "res.methods",
       "strength": "soft",
       "reason": "Reflexive comments are integrated with methodological decisions described in the methods section"
+    },
+    {
+      "topicId": "res.discussion",
+      "prerequisiteId": "sta.claim-calibration",
+      "strength": "hard",
+      "reason": "Interpreting findings, comparing them with prior work and proposing explanations requires matching each claim's strength to what the results can support"
+    },
+    {
+      "topicId": "res.limitations",
+      "prerequisiteId": "sta.claim-calibration",
+      "strength": "soft",
+      "reason": "Stating limitations is the counterpart of calibrating claims: it marks the scope beyond which the study's claims should not be extended"
+    },
+    {
+      "topicId": "res.methods",
+      "prerequisiteId": "reg.impersonality-presence",
+      "strength": "soft",
+      "reason": "Methods sections force the choice between agentless passives and author-visible 'we' or 'I'; learners need the impersonality-presence choice to make it deliberately"
     }
   ],
   "guidance": [
@@ -2381,10 +2404,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "Dear Respected Editor, I humbly request you to kindly consider my manuscript…",
-          "kind": "L1-transfer",
-          "revealedBy": "Highly deferential formulae carried over from correspondence norms where elaborate honorifics signal respect.",
-          "response": "Show that in English-medium journal correspondence, professional respect is conveyed through concision and specificity rather than honorifics. Present this as a genre convention, not as a judgement of other norms.",
+          "pattern": "Opening with several lines of courtesy formulae and expressions of humility before saying what the manuscript is.",
+          "kind": "prior-schooling",
+          "revealedBy": "Letters whose first paragraph contains courtesy formulae but no title, contribution or fit, often following formal-letter conventions taught at school or used in other varieties of English.",
+          "response": "Show that in English-medium journal correspondence, professional respect is conveyed through concision and specificity rather than honorifics. Present this as a convention of this genre, not as a judgement of other norms; such formulae are standard and respectful in many Englishes and need not be 'corrected' elsewhere.",
           "reteachPrerequisiteId": "prg.emails-to-staff"
         },
         {
@@ -2484,7 +2507,7 @@
     },
     {
       "topicId": "pub.peer-review-reports",
-      "summary": "Reviewing is both an evaluative genre and an ethical role. The ICMJE recommendations (ICMJE 2025) set out reviewers' responsibilities, including confidentiality and declaring competing interests. Paltridge (2017) and Fortanet (2008) analyse the language of referee reports, including how criticism and recommendations are framed. In classroom settings, Lundstrom and Baker (2009) found that L2 writers who gave peer feedback improved their own writing more than those who only received it, which suggests reviewing can also benefit early-career researchers' writing, although that study did not involve journal reviewing.",
+      "summary": "Reviewing is both an evaluative genre and an ethical role. The ICMJE recommendations (ICMJE 2025) set out reviewers' responsibilities, including confidentiality and declaring competing interests; journals and funders increasingly state that confidentiality rules out uploading manuscripts to generative AI tools. Paltridge (2017) and Fortanet (2008) analyse the language of referee reports, including how criticism and recommendations are framed. In classroom settings, Lundstrom and Baker (2009) found that L2 writers who gave peer feedback improved their own writing more than those who only received it, which suggests reviewing can also benefit early-career researchers' writing, although that study did not involve journal reviewing.",
       "activities": [
         {
           "title": "Report structure from exemplars",
@@ -2674,7 +2697,7 @@
         "partialResponse": "States the contribution but struggles to discuss limitations, or concedes too much.",
         "gapResponse": "Cannot state a contribution or becomes defensive."
       },
-      "contextNotes": "Formats differ substantially: UK and Irish closed vivas with internal and external examiners and outcomes such as minor or major corrections; Nordic and Dutch public defences with an opponent; North American committee defences; and systems, including many Australian universities, that examine the thesis in writing only. Preparation should follow local regulations.",
+      "contextNotes": "Formats differ substantially: UK and Irish closed vivas with internal and external examiners and outcomes such as minor or major corrections; public defences in the Netherlands, the Nordic countries and elsewhere in continental Europe, usually held after a committee has approved the written thesis and conducted by one opponent (as in Sweden or Finland) or several committee members (as in the Netherlands); North American committee defences, preceded by proposal defences or qualifying examinations; UK outcomes that also include revise-and-resubmit or a lower award; online and hybrid vivas; and systems, including many Australian universities, that examine the thesis in writing only. Preparation should follow local regulations.",
       "citations": [
         "paltridgestarfield2020",
         "swales2004",
@@ -2737,7 +2760,7 @@
       ],
       "diagnostic": {
         "task": "Ask the learner whether a person who only collected data qualifies as an author, and why.",
-        "strongResponse": "Applies all the criteria and explains that data collection alone usually warrants acknowledgement rather than authorship under ICMJE, while noting field variation.",
+        "strongResponse": "Applies all four ICMJE criteria: notes that data acquisition can satisfy the first, so the person is acknowledged unless they are also given, and take up, the opportunity to draft or critically revise, approve the final version and accept accountability; and notes that ICMJE was written for medical journals and that other fields follow other norms.",
         "partialResponse": "Gives an answer based on effort or seniority, with partial reference to criteria.",
         "gapResponse": "Has no criteria for deciding."
       },
@@ -2787,7 +2810,7 @@
           "pattern": "My English is the problem; native speakers have no difficulties publishing.",
           "kind": "affective",
           "revealedBy": "Attributing all rejections to language, and reluctance to submit.",
-          "response": "Discuss evidence that all novice writers face difficulties and that rejections usually concern content and fit, while acknowledging real additional costs. Avoid dismissing the learner's experience.",
+          "response": "Discuss evidence that all novice writers face rejection and that many rejections concern content and fit, while acknowledging that multilingual scholars report language-related reviewer comments and real additional costs (Flowerdew, 1999; Lillis & Curry, 2010). Avoid dismissing the learner's experience.",
           "reteachPrerequisiteId": "idn.standards-legitimacy"
         },
         {
@@ -2880,7 +2903,7 @@
     },
     {
       "topicId": "pub.academic-cv-bio",
-      "summary": "Academic self-presentation genres construct a professional identity. Ivanič (1998) frames writing as the discoursal construction of identity, and Hyland (2012) analysed article bio statements, showing how writers present credentials and affiliations and how this varies with seniority. The Vitae RDF names professional and career development as a sub-domain (Vitae 2010, B3). Teach each genre with exemplars from the target context, since CV and personal statement conventions differ across countries and sectors.",
+      "summary": "Academic self-presentation genres construct a professional identity. Ivanič (1998) frames writing as the discoursal construction of identity, and Hyland and Tse (2012) analysed article bio statements, showing how writers present credentials and affiliations and how this varies with seniority. The Vitae RDF names professional and career development as a sub-domain (Vitae 2010, B3). Teach each genre with exemplars from the target context, since CV and personal statement conventions differ across countries and sectors.",
       "activities": [
         {
           "title": "Bio comparison",
@@ -2891,7 +2914,7 @@
             "Write your own 100-word bio"
           ],
           "intendedInsight": "Bio statements follow conventions of content and order that signal membership of a field.",
-          "rationale": "Hyland (2012) shows that bio statements construct academic identity through selected credentials.",
+          "rationale": "Hyland and Tse (2012) show that bio statements construct academic identity through selected credentials.",
           "citations": [
             "hyland2012bios",
             "ivanic1998"
@@ -2922,7 +2945,7 @@
         },
         {
           "pattern": "Including a photo, date of birth and marital status on an academic CV.",
-          "kind": "L1-transfer",
+          "kind": "prior-schooling",
           "revealedBy": "CVs following conventions of another national context where such details are expected.",
           "response": "Show the target context's conventions and explain the reasons, such as equality legislation, without judging other conventions.",
           "reteachPrerequisiteId": null
@@ -3011,7 +3034,7 @@
     },
     {
       "topicId": "res.research-questions",
-      "summary": "Treat research questions as the hinge between the gap and the design: they should follow from the literature and determine what data and analysis are needed. Creswell and Creswell (2018) offer scripts for purpose statements, questions and hypotheses across qualitative, quantitative and mixed designs, and Bunton (2002) shows that statements of purpose and questions are a recurrent element of PhD thesis introductions. Teaching works best through repeated revision of the learner's own questions against their methods, rather than through generic question-writing exercises.",
+      "summary": "Treat research questions as the hinge between the gap and the design: they should follow from the literature and determine what data and analysis are needed. Creswell and Creswell (2018) offer scripts for purpose statements, questions and hypotheses across qualitative, quantitative and mixed designs, and Bunton (2002) shows that statements of purpose and questions are a recurrent element of PhD thesis introductions. In practitioner experience, teaching works best through repeated revision of the learner's own questions against their methods, rather than through generic question-writing exercises.",
       "activities": [
         {
           "title": "Alignment table",
@@ -3264,7 +3287,7 @@
           "kind": "affective",
           "revealedBy": "Reviews in which every study is presented neutrally or approvingly and no tensions or weaknesses are named.",
           "response": "Present evaluation as a disciplinary expectation, model mitigated evaluation from published reviews and discuss authorial identity explicitly (Kamler & Thomson 2014).",
-          "reteachPrerequisiteId": "res.gap-niche"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4144,9 +4167,7 @@
           ],
           "intendedInsight": "The same procedure must be described differently for a committee and for a participant, without loss of accuracy.",
           "rationale": "Adapting register for a non-specialist audience is a mediation skill; comprehension checks with lay readers make clarity testable.",
-          "citations": [
-            "creswell2018"
-          ]
+          "citations": []
         },
         {
           "title": "Consistency audit",
@@ -4229,9 +4250,9 @@
       "difficulties": [
         {
           "pattern": "My supervisor said 'you might want to think about' restructuring, so it's optional.",
-          "kind": "L1-transfer",
+          "kind": "conceptual",
           "revealedBy": "Hedged suggestions left unaddressed and surprise when the supervisor repeats them more forcefully.",
-          "response": "Discuss how indirectness in English academic feedback often encodes requests, and practise clarifying ('Would you like me to restructure this before the next draft?'). Note that this varies by individual supervisor.",
+          "response": "Discuss how indirectness in English academic feedback often encodes requests, and practise clarifying ('Would you like me to restructure this before the next draft?'). Note that this varies by individual supervisor and that many first-language English students misread hedged advice too; clarity is a shared responsibility, so where possible encourage supervisors to mark which suggestions are requirements.",
           "reteachPrerequisiteId": null
         },
         {

@@ -235,7 +235,7 @@
       "strand": "Academic Language",
       "domain": "Academic Grammar",
       "name": "Nominalisation and grammatical metaphor",
-      "description": "Express processes and qualities as nouns (X increased sharply → the sharp increase in X) so that they can be classified, evaluated, made the subject of further clauses and used to carry given information forward, and unpack nominalisations when reading. Writers also need to recognise the costs: nominal style can hide agency and causal relations and can make prose harder to process than necessary.",
+      "description": "Express processes and qualities as nouns (X increased sharply → the sharp increase in X), and logical relations inside the clause as verbs, nouns or prepositions (because X rose, Y fell → the rise in X caused a fall in Y), so that they can be classified, evaluated, made the subject of further clauses and used to carry given information forward, and unpack nominalisations when reading. Writers also need to recognise the costs: nominal style can hide agency and causal relations and can make prose harder to process than necessary.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "stages": [
@@ -330,7 +330,7 @@
       "name": "Articles in academic writing",
       "description": "Choose between a/an, the and zero article according to countability, specific versus generic reference, first versus subsequent or otherwise identifiable mention, and postmodification (the role of X; zero article with uncountable and plural generic nouns). Article choices encode whether a reader can identify a referent and whether a claim is general or specific, so they matter for meaning as well as accuracy.",
       "cefrStart": "B1",
-      "cefrEnd": "C1",
+      "cefrEnd": "C2",
       "stages": [
         "foundation",
         "pre-sessional",
@@ -476,11 +476,11 @@
       "masteryEvidence": [
         "Uses past tense to report what a specific researcher did or found and present tense to report claims treated as currently valid",
         "Uses present perfect to summarise a strand of research (Several studies have examined…) before narrowing to specific studies",
-        "Explains how a shift from past to present tense in reporting a finding increases the writer's endorsement of it",
+        "Explains how, in fields where past tense is the default for reporting studies, a shift to present tense can present a finding as current and generalisable, and why in fields that report positions in the present (Smith argues…) tense alone does not signal endorsement",
         "Keeps tense choices consistent with the citation form chosen and with the conventions of the target discipline",
         "Identifies tense patterns in a literature review from their own field and states the norms they observed"
       ],
-      "assessmentPrompt": "Show the learner three versions of a citing sentence that differ only in tense (Smith found / has found / finds that X). Ask what each version implies about the status of the finding and the writer's view. Look for answers that link tense to currency and endorsement, not only to when the study was published.",
+      "assessmentPrompt": "Show the learner three versions of a citing sentence that differ only in tense (Smith found / has found / finds that X). Ask what each version implies about the status of the finding and the writer's view. Look for answers that link tense to currency and generality, recognise that endorsement is signalled mainly by the reporting verb (shows versus claims) and that field conventions differ, and do not tie tense only to when the study was published.",
       "citations": [
         "swales1990",
         "swalesfeak2012",
@@ -620,7 +620,7 @@
         "Uses present-tense conditionals to state general dependencies and boundary conditions (If the sample is small, estimates are unstable)",
         "Uses unreal and past unreal conditionals to argue about counterfactuals and alternative explanations",
         "Selects among if, unless, provided that and assuming that according to the logical relation intended",
-        "Uses inverted conditionals (Were X to…, Had the study…) appropriately in formal writing, or avoids them where they sound mannered",
+        "Recognises inverted conditionals (Were X to…, Had the study…) in formal texts and uses them sparingly where they suit the register",
         "Interprets conditional claims in sources correctly, including what they do not assert"
       ],
       "assessmentPrompt": "Give a short claim (Raising the minimum wage reduces employment) and ask the learner to rewrite it as three qualified claims using different conditional forms or subordinators. Check whether the conditions are logically appropriate, tense and modal choices are accurate, and 'unless' is used with the correct polarity.",
@@ -1110,7 +1110,7 @@
       "name": "Fronting and inversion",
       "description": "Recognise and use marked word orders in formal writing: fronted complements with subject–verb inversion (Of particular concern is…; Central to this argument is…), inversion after fronted negative or restrictive elements (Not only does X…, Only when… does…, Rarely have…), and fronted adverbials. These structures link to preceding text or create emphasis, but they are infrequent and easily overused, so the target is controlled, occasional use and accurate comprehension.",
       "cefrStart": "B2+",
-      "cefrEnd": "C1",
+      "cefrEnd": "C2",
       "stages": [
         "in-sessional-ug",
         "in-sessional-pgt",
@@ -1254,7 +1254,7 @@
       "domain": "Academic Grammar",
       "name": "Pronoun and demonstrative reference",
       "description": "Use it, they, this, these, that, those and the former/the latter so that each has a clear antecedent, and choose 'this + noun' (this approach, these findings) when a pronoun alone could refer to several things or to a whole preceding clause. Clear reference is a basic condition of cohesion, and ambiguous 'this' or 'it' is one of the most frequent clarity problems tutors identify.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -1391,7 +1391,7 @@
       "domain": "Sentence Construction & Punctuation",
       "name": "Simple, compound and complex sentences",
       "description": "Recognise and build simple, compound, complex and compound-complex sentences by identifying independent and dependent clauses and the devices that join them (coordinators, subordinators, relative pronouns, punctuation). The classification is a working tool for punctuation and clause combining; it does not measure sophistication, since a long simple sentence with dense noun phrases is typical of academic prose.",
-      "cefrStart": "B1",
+      "cefrStart": "A2",
       "cefrEnd": "B2",
       "stages": [
         "foundation",
@@ -1400,12 +1400,12 @@
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies independent and dependent clauses in sentences of up to three clauses",
-        "Classifies sentences as simple, compound, complex or compound-complex and justifies the classification by counting finite clauses",
+        "Classifies sentences as simple, compound, complex or compound-complex and justifies the classification by counting finite clauses (the pedagogical convention, while recognising that descriptive grammars also count non-finite clauses as dependent clauses)",
         "Combines short sentences into compound and complex sentences using a joining device that expresses the intended relation",
         "Explains why a dependent clause cannot stand alone as a sentence in formal writing",
         "Recognises a long single-clause sentence with heavy noun phrases as grammatically simple but informationally dense"
       ],
-      "assessmentPrompt": "Give six sentences from a textbook, including a 35-word sentence with one finite verb and heavy noun phrases. Ask the learner to mark clause boundaries and classify each sentence. Check that they count finite clauses rather than words and do not label the long single-clause sentence as complex.",
+      "assessmentPrompt": "Give six sentences from a textbook, including a 35-word sentence with one finite verb and heavy noun phrases built only from adjectives, nouns and prepositional phrases (no non-finite or relative clauses). Ask the learner to mark clause boundaries and classify each sentence. Check that they count finite clauses rather than words and do not label the long single-clause sentence as complex.",
       "citations": [
         "celcemurcia1999",
         "biber1999lgswe",
@@ -1568,7 +1568,7 @@
       "type": "LINGUISTIC",
       "strand": "Academic Language",
       "domain": "Sentence Construction & Punctuation",
-      "name": "Apostrophes, hyphens and dashes",
+      "name": "Punctuation and mechanics beyond the comma",
       "description": "Use apostrophes for possession (the author's, the authors', Smith and Jones's study) but not for plurals (1990s, PhDs, NGOs); hyphenate compound modifiers before a noun (evidence-based practice, a well-designed study) but not after it or after -ly adverbs; and use en dashes for ranges and relationships (pp. 12–18; a cost–benefit analysis) and dashes for parenthetical asides according to the target style. These marks distinguish meanings (a small-business owner versus a small business owner) and are routinely checked by editors.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
@@ -1649,7 +1649,7 @@
       "domain": "Sentence Construction & Punctuation",
       "name": "Punctuating quotations and brackets",
       "description": "Punctuate quotations accurately: single or double quotation marks and nested quotations according to style, placement of commas, full stops and citations relative to closing marks, block quotations, ellipsis for omissions, square brackets for insertions and changes, [sic] for errors in the original, and parentheses for citations and asides. Accurate quotation punctuation is part of representing sources faithfully as well as a formatting requirement.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -1820,10 +1820,6 @@
             "C1"
           ],
           "contribution": "related"
-        },
-        {
-          "key": "ielts:wr.coherence-cohesion",
-          "contribution": "related"
         }
       ]
     },
@@ -1928,7 +1924,7 @@
     {
       "topicId": "grm.subject-verb-agreement",
       "prerequisiteId": "grm.np-postmodification",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Most agreement errors with complex subjects arise from postmodifiers placed between the head noun and the verb; learners must be able to bracket postmodifiers to find the head that controls agreement"
     },
     {
@@ -1940,7 +1936,7 @@
     {
       "topicId": "grm.np-premodification",
       "prerequisiteId": "voc.word-families-morphology",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Premodifier slots require the right word-class variant (economic/economics, well-funded/funding), which depends on control of derivational families"
     },
     {
@@ -2042,7 +2038,7 @@
     {
       "topicId": "grm.conditionals",
       "prerequisiteId": "grm.epistemic-modality",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "The main clauses of hypothetical and counterfactual conditionals use would, could and might with epistemic meaning"
     },
     {
@@ -2174,7 +2170,7 @@
     {
       "topicId": "grm.fronting-inversion",
       "prerequisiteId": "grm.tense-aspect",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Inversion after negative or restrictive fronted elements requires selecting the correct operator (does, has, can) from the verb phrase"
     },
     {
@@ -2186,7 +2182,7 @@
     {
       "topicId": "grm.linking-adverbial-placement",
       "prerequisiteId": "sen.semicolons-colons",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Joining two independent clauses with however or therefore requires a semicolon or full stop, so learners need control of sentence-joining punctuation"
     },
     {
@@ -2276,7 +2272,7 @@
     {
       "topicId": "sen.apostrophes-hyphens-dashes",
       "prerequisiteId": "grm.np-premodification",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Hyphenation of compound modifiers depends on recognising that the compound premodifies a head noun (a long-term study versus in the long term)"
     },
     {
@@ -2284,12 +2280,6 @@
       "prerequisiteId": "sen.commas",
       "strength": "soft",
       "reason": "Parenthetical dashes are taught as an alternative to paired commas, so comma conventions are usually secured first"
-    },
-    {
-      "topicId": "sen.capitalisation",
-      "prerequisiteId": "cit.referencing-systems",
-      "strength": "soft",
-      "reason": "Many academic capitalisation decisions (titles of works, reference-list entries, headings) are set by the chosen referencing style"
     },
     {
       "topicId": "sen.quotation-punctuation",
@@ -2385,7 +2375,7 @@
   "guidance": [
     {
       "topicId": "grm.clause-elements",
-      "summary": "Teach clause elements functionally and with authentic academic sentences: the difficulty in academic text is not finding the subject of a five-word sentence but finding it when it carries several postmodifiers. Keep metalanguage minimal and use it at once for reading (locating the main clause) and for writing (checking completeness). Explicit instruction has measurable benefits for grammatical development (Norris & Ortega, 2000), and rapid syntactic parsing is one of the lower-level processes L2 academic readers need to automatise (Grabe, 2009).",
+      "summary": "Teach clause elements functionally and with authentic academic sentences: the difficulty in academic text is not finding the subject of a five-word sentence but finding it when it carries several postmodifiers. Keep metalanguage minimal and use it at once for reading (locating the main clause) and for writing (checking completeness). Norris and Ortega's (2000) meta-analysis found explicit instruction effective, although many outcome measures favoured explicit knowledge, and rapid syntactic parsing is one of the lower-level processes L2 academic readers need to automatise (Grabe, 2009).",
       "activities": [
         {
           "title": "Core-sentence extraction",
@@ -2478,7 +2468,7 @@
             "Decide on a policy for their own writing and record it in a personal style sheet"
           ],
           "intendedInsight": "Some agreement 'rules' are usage choices that vary by field and house style; consistency matters more than any single prescription.",
-          "rationale": "Data-driven learning encourages evidence-based usage judgements (Boulton & Cobb, 2017), and corpus grammar documents notional as well as grammatical concord (Biber et al., 1999).",
+          "rationale": "Corpus consultation grounds usage judgements in attested examples, and a meta-analysis reports generally positive learning effects of data-driven learning (Boulton & Cobb, 2017), and corpus grammar documents notional as well as grammatical concord (Biber et al., 1999).",
           "citations": [
             "boultoncobb2017",
             "biber1999lgswe"
@@ -2615,7 +2605,7 @@
           "title": "Relative-clause reduction ladder",
           "learnerActions": [
             "Take sentences containing full relative clauses (the data which were collected in 2020)",
-            "Reduce each to a non-finite clause and then, where possible, to a prepositional phrase (the data collected in 2020; the 2020 data)",
+            "Reduce each to a non-finite clause and then, where possible, to a prepositional phrase or a premodifier (the data collected in 2020; the data from 2020; the 2020 data)",
             "Mark which reductions change or lose meaning, and explain why"
           ],
           "intendedInsight": "The same meaning can be packaged at different levels of compression, and not all reductions are equivalent.",
@@ -2657,7 +2647,7 @@
     },
     {
       "topicId": "grm.nominalisation",
-      "summary": "Systemic functional work on 'grammatical metaphor' explains how nominalisation turns processes into things that can be quantified, evaluated and used as given information in the next clause, and why this makes scientific and academic text dense for novice readers (Halliday & Martin, 1993; Schleppegrell, 2004). Teach both packing and unpacking: learners must decode nominal style when reading and use it selectively in writing, noticing when it hides agency or causality. Present nominalisation as a resource with costs, not as a marker of good style.",
+      "summary": "Systemic functional work on 'grammatical metaphor' covers ideational metaphor (processes and qualities realised as nouns; logical relations such as cause realised inside the clause as verbs, nouns or prepositions: leads to, the cause of, due to) and interpersonal metaphor (I think → it is likely that). For nominalisation, it explains how processes become things that can be quantified, evaluated and used as given information in the next clause, and why this makes scientific and academic text dense for novice readers (Halliday & Martin, 1993; Schleppegrell, 2004). Teach both packing and unpacking: learners must decode nominal style when reading and use it selectively in writing, noticing when it hides agency or causality. Present nominalisation as a resource with costs, not as a marker of good style.",
       "activities": [
         {
           "title": "Congruent and metaphorical versions",
@@ -2789,7 +2779,7 @@
     },
     {
       "topicId": "grm.articles",
-      "summary": "Article choice is semantic (identifiable or not, specific or generic) and depends on countability, which is why learners whose first languages lack articles may find the system persistently difficult even at advanced levels. Master (1997) recommends a simplified, meaning-based system, broadly identification (the) versus classification (a/an or zero), rather than long lists of rules. Prioritise errors that change meaning or affect generic statements and definitions, and teach the of-phrase and relative-clause contexts where 'the' is licensed by postmodification.",
+      "summary": "Article choice is semantic (identifiable or not, specific or generic) and depends on countability, which is why learners whose first languages lack articles may find the system persistently difficult even at advanced levels. Master (1997) recommends a simplified, meaning-based system, broadly identification (the) versus classification (a/an or zero), rather than long lists of rules. Prioritise errors that change meaning or affect generic statements and definitions, and teach the of-phrase and relative-clause contexts where postmodification makes the referent identifiable and so licenses 'the', contrasting them with postmodified nouns that still take 'a' or zero (a study of, an increase of 5%, evidence of).",
       "activities": [
         {
           "title": "Identify or classify?",
@@ -2822,7 +2812,7 @@
         {
           "pattern": "My first language has no articles, so I add 'the' when it sounds right.",
           "kind": "L1-transfer",
-          "revealedBy": "Omitted articles with singular countable nouns and overuse of 'the' with generic plurals and uncountables (The education is important), in writers whose first languages do not grammaticalise definiteness through articles.",
+          "revealedBy": "Omitted articles with singular countable nouns, and fluctuating use of 'the' that tracks specificity rather than definiteness (for example 'the' for a particular referent the reader cannot yet identify), in writers whose first languages do not grammaticalise definiteness through articles.",
           "response": "Teach a small decision sequence (countable? singular? identifiable?) and give focused feedback on one or two high-impact categories at a time. Avoid comprehensive correction of every article, which overloads attention.",
           "reteachPrerequisiteId": "voc.countability-academic-nouns"
         },
@@ -2843,7 +2833,7 @@
       ],
       "diagnostic": {
         "task": "Remove all articles from a 100-word paragraph in the learner's field and ask the learner to restore them, then explain three choices.",
-        "strongResponse": "Restores articles with few errors and explains choices by identifiability, genericity and countability, including 'the' licensed by an of-phrase.",
+        "strongResponse": "Restores articles with few errors and explains choices by identifiability, genericity and countability, including 'the' where an of-phrase makes the referent uniquely identifiable (the role of X), and 'a' or zero where the postmodifier only classifies (a member of the committee, evidence of bias).",
         "partialResponse": "Handles specific reference well but errs on generic statements or uncountables, or relies on memorised phrases for explanations.",
         "gapResponse": "Errors throughout, with no consistent principle in explanations."
       },
@@ -3004,7 +2994,7 @@
             "Discuss what each implies about whether the finding still holds and whether the writer accepts it",
             "Find two examples of each pattern in a literature review in their field"
           ],
-          "intendedInsight": "Tense in reporting signals currency and writer endorsement, not just the date of publication.",
+          "intendedInsight": "Tense in reporting can signal currency and generality, not just the date of publication; endorsement depends more on the reporting verb and on field conventions.",
           "rationale": "Making the stance function of reporting tense explicit follows the account in Swales (1990) and Swales and Feak (2012) and supports more deliberate source use.",
           "citations": [
             "swales1990",
@@ -3101,8 +3091,8 @@
         {
           "pattern": "The problem was happened… / The results were arisen from…",
           "kind": "overgeneralisation",
-          "revealedBy": "Passives formed with intransitive verbs, sometimes where the first language marks such events with a construction resembling the passive.",
-          "response": "Contrast transitive and intransitive verbs with examples, and provide a short list of common academic intransitive verbs (occur, arise, emerge, happen).",
+          "revealedBy": "Passives formed with unaccusative intransitive verbs (happen, occur, arise, emerge, appear), whose subject undergoes rather than performs the event; this overpassivisation is attested across many first-language backgrounds and is largely developmental.",
+          "response": "Contrast transitive and intransitive verbs with examples, and provide a short list of common academic intransitive verbs (occur, arise, emerge, happen), and contrast them with ergative verbs that work both ways (The temperature increased / The researchers increased the temperature; the rate changed / the dose was changed).",
           "reteachPrerequisiteId": "grm.clause-elements"
         },
         {
@@ -3359,7 +3349,7 @@
             "Check own methods section for the same pattern"
           ],
           "intendedInsight": "An introductory non-finite clause borrows its subject from the main clause, so the two must match.",
-          "rationale": "A clear rule plus repair practice suits a rule-governed, treatable structure (Ferris, 1999), and applying it to the learner's own methods text builds an editing habit.",
+          "rationale": "A clear rule plus repair practice suits a structure with a checkable rule (the implied subject must be the main-clause subject), although Ferris (1999) classed sentence-structure problems as less readily 'treatable' than agreement or tense, and applying it to the learner's own methods text builds an editing habit.",
           "citations": [
             "ferris1999"
           ]
@@ -3370,7 +3360,7 @@
           "pattern": "Having collected the data, the results showed a clear trend.",
           "kind": "developmental",
           "revealedBy": "Dangling participles, especially before passive or inanimate main-clause subjects in methods and results sections.",
-          "response": "Teach the subject-sharing rule and the two repairs. Do not ban introductory participle clauses; they are useful and frequent in methods writing.",
+          "response": "Teach the subject-sharing rule and the two repairs, noting conventional exceptions that are acceptable in academic prose (given…, considering…, assuming…, generally speaking…, compared with…) and that style guides disagree about 'Based on…'. Do not ban introductory participle clauses; they are useful and frequent in methods writing.",
           "reteachPrerequisiteId": "grm.subordination"
         },
         {
@@ -3611,7 +3601,7 @@
     },
     {
       "topicId": "grm.anticipatory-it",
-      "summary": "Anticipatory-it frames such as 'it is important to' and 'it is possible that' are frequent lexical bundles in university registers (Biber, Conrad & Cortes, 2004), and Hunston and Sinclair's local grammar of evaluation, in Hunston and Thompson (2000), shows how the 'it + link verb + adjective + clause' pattern carries evaluation. Comparative work on student and published writing (Hewings & Hewings, 2002, proposed) reports differences in how often and for what purposes these frames are used. Teach them as stance resources, with explicit attention to frames that hide who holds a view and to frames that add words without adding stance.",
+      "summary": "Anticipatory-it frames such as 'it is important to' and 'it is possible that' are frequent lexical bundles in university registers (Biber, Conrad & Cortes, 2004), and Hunston and Sinclair's local grammar of evaluation, in Hunston and Thompson (2000), shows how the 'it + link verb + adjective + clause' pattern carries evaluation. Comparative work on student and published writing (Hewings & Hewings, 2002) reports differences in how often and for what purposes these frames are used. Teach them as stance resources, with explicit attention to frames that hide who holds a view and to frames that add words without adding stance.",
       "activities": [
         {
           "title": "What stance does the frame carry?",
@@ -3704,7 +3694,7 @@
             "Decide which repair is more concise or better suited to the paragraph and explain why"
           ],
           "intendedInsight": "Existential there cannot be followed directly by a second finite verb, and deleting the frame is often the better repair.",
-          "rationale": "Targeted repair of a frequent, rule-governed error supports self-editing (Ferris, 1999).",
+          "rationale": "Targeted repair of a frequent, recognisable error pattern supports self-editing; Ferris (1999) would class this sentence-structure error as less readily 'treatable' than agreement or tense, so expect repeated practice to be needed.",
           "citations": [
             "ferris1999"
           ]
@@ -4006,7 +3996,7 @@
     },
     {
       "topicId": "grm.linking-adverbial-placement",
-      "summary": "Linking adverbials are particularly frequent in academic prose; the Longman grammar reports that initial position is the most common overall, while medial position is comparatively frequent in academic writing (Biber et al., 1999). Learner corpus research reports mismatches with expert usage, including over- and under-use of particular connectors and a preference for sentence-initial placement (Granger, 1998; Granger & Tyson, 1996, proposed). Teach placement and punctuation together, with the comma splice (…, however, …) as the key accuracy target and medial placement as a range target.",
+      "summary": "Linking adverbials are particularly frequent in academic prose; the Longman grammar reports that initial position is the most common overall, while medial position is comparatively frequent in academic writing (Biber et al., 1999). Learner corpus research reports mismatches with expert usage, including over- and under-use of particular connectors and a preference for sentence-initial placement (Granger, 1998; Granger & Tyson, 1996). Teach placement and punctuation together, with the comma splice (…, however, …) as the key accuracy target and medial placement as a range target.",
       "activities": [
         {
           "title": "Position audit",
@@ -4030,7 +4020,7 @@
             "Explain to a partner why 'but' can join two clauses with a comma and 'however' cannot"
           ],
           "intendedInsight": "Linking adverbials link sentences; they do not join clauses.",
-          "rationale": "The comma splice with linking adverbials is a rule-governed error suited to focused attention and self-editing (Ferris, 1999).",
+          "rationale": "The comma splice with linking adverbials follows a clear punctuation rule and suits focused self-editing; Ferris (1999) listed fragments, not comma splices, among 'treatable' errors, so the extension is by analogy.",
           "citations": [
             "ferris1999"
           ]
@@ -4101,10 +4091,8 @@
             "Check the reporting sentences in their own latest draft for the same problems"
           ],
           "intendedInsight": "Adjunct frames and verb frames should not be combined, and each reporting verb has its own pattern.",
-          "rationale": "These are rule-governed errors suited to focused self-editing (Ferris, 1999).",
-          "citations": [
-            "ferris1999"
-          ]
+          "rationale": "Reporting-frame errors are largely lexically governed (each verb has its own complementation), so they are best tracked verb by verb in a personal pattern record and checked against a corpus or learner dictionary.",
+          "citations": []
         }
       ],
       "difficulties": [
@@ -4185,7 +4173,7 @@
           "reteachPrerequisiteId": "sen.sentence-types"
         },
         {
-          "pattern": "This data shows… / these criterion.",
+          "pattern": "These criterion… / this phenomena… / these data shows… (plural data with a singular verb).",
           "kind": "overgeneralisation",
           "revealedBy": "Number mismatches between demonstratives and nouns with irregular or Latinate plurals.",
           "response": "Check irregular plurals and agree on a consistent policy for 'data'.",
@@ -4212,7 +4200,7 @@
         "changswales1999"
       ],
       "reviewNotes": [
-        "Check that unattended anaphoric this is among the features examined by Chang and Swales (1999)."
+        "Chang and Swales (1999) include unattended anaphoric 'this' among the ten informal features they examined; Gray and Cortes (2011) also document unattended this/these in published prose."
       ]
     },
     {
@@ -4285,10 +4273,10 @@
     },
     {
       "topicId": "grm.error-monitoring",
-      "summary": "Error monitoring is a self-regulatory strategy (Zimmerman, 2002) through which learners turn feedback into targeted editing. Ferris (1999) distinguishes 'treatable' rule-governed errors (agreement, verb forms, articles, fragments) from less rule-governed lexical ones, and Bitchener and Ferris (2012) discuss error logs and focused self-editing; meta-analytic evidence suggests written corrective feedback can improve accuracy (Kang & Han, 2015), though the debate initiated by Truscott (1996) shows that effects depend on how feedback is used. Ellis and Yuan (2004) found that careful online planning was associated with greater accuracy, which supports separating composing from monitoring.",
+      "summary": "Error monitoring is a self-regulatory strategy (Zimmerman, 2002) through which learners turn feedback into targeted editing. Ferris (1999) distinguishes 'treatable' rule-governed errors (agreement, verb forms, articles, fragments) from less rule-governed lexical ones, and Bitchener and Ferris (2012) discuss error logs and focused self-editing; meta-analytic evidence suggests written corrective feedback can improve accuracy (Kang & Han, 2015), though the debate initiated by Truscott (1996) shows that effects depend on how feedback is used. Ellis and Yuan (2004) found that careful online planning was associated with greater accuracy, which is consistent with, though it did not test, separating composing from monitoring.",
       "activities": [
         {
-          "title": "Evidence-based error log",
+          "title": "Error log built from your own feedback",
           "learnerActions": [
             "Go through feedback on two or three recent assignments and record each grammatical error with its type, the original sentence and a correction",
             "Count types and choose three to five priorities, favouring frequent, treatable errors that affect meaning or reader judgement",
@@ -4418,7 +4406,7 @@
     },
     {
       "topicId": "sen.sentence-boundaries",
-      "summary": "Comma splices, fused sentences and fragments are rule-governed and therefore 'treatable' errors in Ferris's (1999) sense, well suited to explicit teaching and self-editing. Teach four repair strategies and ask learners to choose by meaning, so that boundary editing also improves logical clarity. Separate genuine boundary errors from style prescriptions: Chang and Swales (1999) found that features such as sentence-initial conjunctions, often proscribed in style advice, do occur in expert academic writing, so 'never start with And or But' should not be taught as a rule.",
+      "summary": "Fragments are among the 'treatable' rule-governed errors in Ferris's (1999) sense, and comma splices and fused sentences follow similarly clear rules, well suited to explicit teaching and self-editing. Teach four repair strategies and ask learners to choose by meaning, so that boundary editing also improves logical clarity. Separate genuine boundary errors from style prescriptions: Chang and Swales (1999) found that features such as sentence-initial conjunctions, often proscribed in style advice, do occur in expert academic writing, so 'never start with And or But' should not be taught as a rule.",
       "activities": [
         {
           "title": "Four ways to fix a splice",
@@ -4483,7 +4471,7 @@
         "celcemurcia1999"
       ],
       "reviewNotes": [
-        "Check that sentence-initial conjunctions are among the informal features examined by Chang and Swales (1999) before relying on that citation for the claim."
+        "Chang and Swales (1999) include sentence-initial conjunctions among the ten informal features they examined."
       ]
     },
     {
@@ -4726,7 +4714,7 @@
           "kind": "performance",
           "revealedBy": "Mixed title and sentence case in reference lists imported from different databases.",
           "response": "Teach a final consistency check of reference-list capitalisation against the required style.",
-          "reteachPrerequisiteId": "cit.referencing-systems"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4831,7 +4819,7 @@
             "Count clauses and noun-phrase modifiers in each",
             "Rewrite the student sentence to reduce clauses while keeping its content"
           ],
-          "intendedInsight": "Long sentences in speech-like writing are intricate; long sentences in academic writing are dense, and the latter usually read more easily for expert readers.",
+          "intendedInsight": "Long sentences in speech-like writing are intricate; long sentences in academic writing are dense; expert readers often process dense sentences in their field efficiently, but density also leaves relations implicit, so neither kind is automatically easier.",
           "rationale": "Halliday's (1989) distinction between grammatical intricacy and lexical density explains the difference and offers a revision target.",
           "citations": [
             "halliday1989"
@@ -4907,7 +4895,7 @@
           "pattern": "More words show more knowledge, and I need to reach the word count.",
           "kind": "prior-schooling",
           "revealedBy": "Padding to reach minimum word counts, often from assessment contexts that rewarded length.",
-          "response": "Explain that UK assignments set maximum limits and reward density of argument, and practise cutting.",
+          "response": "Explain that many university assignments, including most in the UK, set maximum limits and reward density of argument; check the local rule and practise cutting.",
           "reteachPrerequisiteId": null
         },
         {
@@ -4981,8 +4969,8 @@
           "reteachPrerequisiteId": "grm.phrasal-complexity"
         },
         {
-          "pattern": "Writers whose first language places the verb at the end of the clause may produce late-verb sentences in English.",
-          "kind": "L1-transfer",
+          "pattern": "Long pre-verbal subjects delay the main verb, a pattern common across first-language backgrounds as writers begin to compress information into noun phrases; writers whose first language places modifiers, including relative clauses, before the noun may favour heavy pre-head modification.",
+          "kind": "developmental",
           "revealedBy": "Heavy pre-verbal material and verbs delayed until the end of long sentences.",
           "response": "Teach end-weight explicitly and practise moving material after the verb.",
           "reteachPrerequisiteId": "coh.given-new"

@@ -1,0 +1,3654 @@
+[
+ {
+  "findingId": "R3-02",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "rds.main-ideas",
+   "prerequisiteId": "rdp.parsing-complex-sentences"
+  }
+ },
+ {
+  "findingId": "R3-02",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "rds.fact-opinion-claim",
+   "prerequisiteId": "sta.hedging"
+  }
+ },
+ {
+  "findingId": "R3-02",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "sta.hedging",
+   "prerequisiteId": "grm.anticipatory-it"
+  }
+ },
+ {
+  "findingId": "R3-02",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "rdp.parsing-complex-sentences",
+   "prerequisiteId": "grm.nominalisation",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-03",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "reg.register-awareness",
+   "prerequisiteId": "acu.teaching-formats"
+  }
+ },
+ {
+  "findingId": "R3-03",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "acu.discourse-communities",
+   "prerequisiteId": "acu.university-structures"
+  }
+ },
+ {
+  "findingId": "R3-03",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "wpr.audience-purpose",
+   "prerequisiteId": "acu.academic-expectations"
+  }
+ },
+ {
+  "findingId": "R3-03",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "voc.command-words",
+   "prerequisiteId": "voc.university-terminology"
+  }
+ },
+ {
+  "findingId": "R3-03",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "lrn.goal-setting",
+   "prerequisiteId": "acu.academic-expectations"
+  }
+ },
+ {
+  "findingId": "R3-04",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "sem.turn-taking",
+   "path": "difficulties[0].reteachPrerequisiteId",
+   "oldText": "lis.multi-party-discussion",
+   "newValue": "prg.politeness"
+  }
+ },
+ {
+  "findingId": "R3-04",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "sem.turn-taking",
+   "prerequisiteId": "lis.multi-party-discussion"
+  }
+ },
+ {
+  "findingId": "R3-04",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "lis.multi-party-discussion",
+   "prerequisiteId": "lis.speaker-stance",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-04",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "idn.diversity-as-resource",
+   "prerequisiteId": "acu.academic-literacies"
+  }
+ },
+ {
+  "findingId": "R3-04",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "grw.contribution-assessment",
+   "prerequisiteId": "grw.meetings"
+  }
+ },
+ {
+  "findingId": "R3-04",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "sem.building-on-others",
+   "prerequisiteId": "lis.multi-party-discussion",
+   "strength": "soft",
+   "reason": "Linking to a peer's point depends on having tracked which participant said what and how contributions respond to one another in multi-party talk"
+  }
+ },
+ {
+  "findingId": "R3-05",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "dig.word-processing",
+   "prerequisiteId": "grp.report-conventions"
+  }
+ },
+ {
+  "findingId": "R3-05",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "sen.capitalisation",
+   "prerequisiteId": "cit.referencing-systems"
+  }
+ },
+ {
+  "findingId": "R3-05",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "src.reporting-verbs",
+   "prerequisiteId": "rds.writer-stance"
+  }
+ },
+ {
+  "findingId": "R3-06",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "par.topic-sentences",
+   "path": "difficulties[0].reteachPrerequisiteId",
+   "oldText": "voc.abstract-shell-nouns",
+   "newValue": "par.paragraph-unit"
+  }
+ },
+ {
+  "findingId": "R3-06",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "par.topic-sentences",
+   "prerequisiteId": "voc.abstract-shell-nouns"
+  }
+ },
+ {
+  "findingId": "R3-06",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "par.concluding-sentences",
+   "prerequisiteId": "coh.signalling-nouns"
+  }
+ },
+ {
+  "findingId": "R3-06",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "prs.openings",
+   "prerequisiteId": "sta.engagement-markers"
+  }
+ },
+ {
+  "findingId": "R3-06",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "crt.applying-theory",
+   "prerequisiteId": "rdc.theoretical-texts"
+  }
+ },
+ {
+  "findingId": "R3-06",
+  "change": {
+   "kind": "edge-remove",
+   "topicId": "wpr.generating-ideas",
+   "prerequisiteId": "crt.questioning"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "rdc.critical-response",
+   "prerequisiteId": "rdc.evidence-evaluation",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "src.voice-boundaries",
+   "prerequisiteId": "sta.averral-attribution",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "crt.multiple-perspectives",
+   "prerequisiteId": "rds.writer-stance",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "ges.argumentative-essay",
+   "prerequisiteId": "arg.extended-argument",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "ges.argumentative-essay",
+   "prerequisiteId": "arg.position",
+   "strength": "hard",
+   "reason": "The genre is organised around a sustained, supported position on the question; taking and defending a position is the core argumentative competence the essay assesses"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "grp.lab-report",
+   "prerequisiteId": "dat.data-commentary",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "grp.lab-report",
+   "prerequisiteId": "dat.referring-to-visuals",
+   "strength": "hard",
+   "reason": "Lab-report results present measurements in numbered tables and figures that the text must refer to and direct the reader through"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "prs.explaining-visuals",
+   "prerequisiteId": "dat.data-commentary",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "prs.explaining-visuals",
+   "prerequisiteId": "dat.describing-trends",
+   "strength": "hard",
+   "reason": "Talking an audience through a chart requires describing its pattern, magnitudes and turning points in trend language"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "prn.prominence",
+   "prerequisiteId": "coh.given-new",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "dse.scientific-language",
+   "prerequisiteId": "grm.nominalisation",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "dse.mathematical-writing",
+   "prerequisiteId": "crt.reasoning-types",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "dhl.professional-communication",
+   "prerequisiteId": "reg.non-specialist-audiences",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "res.conclusions-implications",
+   "prerequisiteId": "res.contribution",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "res.research-proposal",
+   "prerequisiteId": "res.literature-review",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "retag-stages",
+   "topicIds": [
+    "sem.debate"
+   ],
+   "stages": [
+    "pre-sessional",
+    "in-sessional-ug"
+   ]
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "retag-stages",
+   "topicIds": [
+    "syn.gaps-tensions"
+   ],
+   "stages": [
+    "pre-sessional",
+    "in-sessional-ug",
+    "in-sessional-pgt",
+    "pgr"
+   ]
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "syn.gaps-tensions",
+   "cefrStart": "B2",
+   "cefrEnd": "C2"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "retag-stages",
+   "topicIds": [
+    "prs.handling-questions"
+   ],
+   "stages": [
+    "foundation",
+    "pre-sessional",
+    "in-sessional-ug",
+    "in-sessional-pgt",
+    "pgr"
+   ]
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "prs.handling-questions",
+   "cefrStart": "B1+",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "retag-stages",
+   "topicIds": [
+    "voc.subtechnical-polysemy"
+   ],
+   "stages": [
+    "foundation",
+    "pre-sessional",
+    "in-sessional-ug",
+    "in-sessional-pgt"
+   ]
+  }
+ },
+ {
+  "findingId": "R3-07",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "voc.subtechnical-polysemy",
+   "cefrStart": "B1+",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "grm.subject-verb-agreement",
+   "prerequisiteId": "grm.np-postmodification",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "sen.apostrophes-hyphens-dashes",
+   "prerequisiteId": "grm.np-premodification",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "lis.main-points",
+   "prerequisiteId": "lis.relevance-markers",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "sem.opinions",
+   "prerequisiteId": "fun.explaining",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "prs.structure",
+   "prerequisiteId": "reg.spoken-vs-written",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "prs.speaking-from-notes",
+   "prerequisiteId": "reg.spoken-vs-written",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "src.signal-phrases",
+   "prerequisiteId": "grm.reporting-structures",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "grm.reference-pronouns",
+   "cefrStart": "B1",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "coh.spoken-signposting",
+   "cefrStart": "B1",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "prs.delivery-voice",
+   "cefrStart": "B1+",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "ess.answering-question",
+   "cefrStart": "B1+",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "sen.quotation-punctuation",
+   "cefrStart": "B1",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "cit.referencing-systems",
+   "cefrStart": "B1",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "crt.evidence-types",
+   "cefrStart": "B1",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "ges.discussion-essay",
+   "cefrStart": "B1+",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "ges.explanation-essay",
+   "cefrStart": "B1+",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "ges.problem-solution-essay",
+   "cefrStart": "B1+",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "ges.short-answer",
+   "cefrStart": "B1+",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "sta.evaluating-others-language",
+   "cefrStart": "B2",
+   "cefrEnd": "C2"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "res.research-questions",
+   "cefrStart": "B2",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "pub.journal-selection",
+   "cefrStart": "B2+",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "prg.politeness",
+   "cefrStart": "B1",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "prg.requests",
+   "cefrStart": "B1",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R3-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "gai.authorship-voice",
+   "cefrStart": "B2+",
+   "cefrEnd": "C2"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "voc.academic-verbs",
+   "prerequisiteId": "voc.word-grammar-patterns",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "grm.np-premodification",
+   "prerequisiteId": "voc.word-families-morphology",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "grm.conditionals",
+   "prerequisiteId": "grm.epistemic-modality",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "grm.fronting-inversion",
+   "prerequisiteId": "grm.tense-aspect",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "grm.linking-adverbial-placement",
+   "prerequisiteId": "sen.semicolons-colons",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "fun.recommending",
+   "prerequisiteId": "grm.complement-clauses",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "prs.purpose-audience",
+   "prerequisiteId": "reg.register-awareness",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "prn.word-stress",
+   "prerequisiteId": "voc.word-families-morphology",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "grw.inclusive-collaboration",
+   "prerequisiteId": "idn.elf",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "src.paraphrasing",
+   "prerequisiteId": "cit.when-to-cite",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "ges.reflective-writing",
+   "prerequisiteId": "crt.applying-theory",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-09",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "lrn.time-management",
+   "prerequisiteId": "lrn.goal-setting",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-10",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "rdp.parsing-complex-sentences",
+   "prerequisiteId": "grm.subordination",
+   "strength": "hard",
+   "reason": "Finding the main clause of a long sentence means bracketing adverbial and other subordinate clauses and identifying which finite verb belongs to the main clause"
+  }
+ },
+ {
+  "findingId": "R3-10",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "rdp.parsing-complex-sentences",
+   "prerequisiteId": "grm.relative-clauses",
+   "strength": "hard",
+   "reason": "Embedded relative clauses separate a head noun from its verb; parsing requires locating where the relative clause begins and ends"
+  }
+ },
+ {
+  "findingId": "R3-11",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "res.discussion",
+   "prerequisiteId": "sta.claim-calibration",
+   "strength": "hard",
+   "reason": "Interpreting findings, comparing them with prior work and proposing explanations requires matching each claim's strength to what the results can support"
+  }
+ },
+ {
+  "findingId": "R3-11",
+  "change": {
+   "kind": "edge-strength",
+   "topicId": "dat.data-commentary",
+   "prerequisiteId": "sta.claim-calibration",
+   "strength": "soft"
+  }
+ },
+ {
+  "findingId": "R3-11",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "res.limitations",
+   "prerequisiteId": "sta.claim-calibration",
+   "strength": "soft",
+   "reason": "Stating limitations is the counterpart of calibrating claims: it marks the scope beyond which the study's claims should not be extended"
+  }
+ },
+ {
+  "findingId": "R3-11",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "res.methods",
+   "prerequisiteId": "reg.impersonality-presence",
+   "strength": "soft",
+   "reason": "Methods sections force the choice between agentless passives and author-visible 'we' or 'I'; learners need the impersonality-presence choice to make it deliberately"
+  }
+ },
+ {
+  "findingId": "R3-12",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "prs.research-presentations",
+   "prerequisiteId": "prs.delivery-voice",
+   "strength": "soft",
+   "reason": "Conference talks to international audiences depend on intelligible, well-paced delivery with key information made prominent"
+  }
+ },
+ {
+  "findingId": "R3-12",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "prs.research-presentations",
+   "prerequisiteId": "prs.signposting",
+   "strength": "soft",
+   "reason": "Research talks carry dense content in a fixed slot, so audiences rely on explicit previews and section transitions"
+  }
+ },
+ {
+  "findingId": "R3-12",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "prs.delivery-voice",
+   "prerequisiteId": "prn.fluency",
+   "strength": "soft",
+   "reason": "Pacing and pausing a talk so it sounds controlled rather than read or halting draws on fluency resources such as chunked planning and pausing at boundaries"
+  }
+ },
+ {
+  "findingId": "R3-13",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "par.integrating-evidence",
+   "prerequisiteId": "cit.author-date-in-text",
+   "strength": "soft",
+   "reason": "Evidence integrated in a paragraph must carry an in-text citation placed correctly relative to the signal phrase or the borrowed content"
+  }
+ },
+ {
+  "findingId": "R3-13",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "ges.discussion-essay",
+   "prerequisiteId": "par.integrating-evidence",
+   "strength": "soft",
+   "reason": "University discussion essays present perspectives from sources, which must be introduced, cited and commented on within paragraphs"
+  }
+ },
+ {
+  "findingId": "R3-13",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "ges.compare-contrast-essay",
+   "prerequisiteId": "par.integrating-evidence",
+   "strength": "soft",
+   "reason": "Points of comparison in university essays are usually supported with cited source evidence integrated within paragraphs"
+  }
+ },
+ {
+  "findingId": "R3-13",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "ges.explanation-essay",
+   "prerequisiteId": "par.integrating-evidence",
+   "strength": "soft",
+   "reason": "Factors and mechanisms in university explanation essays are supported with cited evidence integrated within paragraphs"
+  }
+ },
+ {
+  "findingId": "R3-13",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "ges.problem-solution-essay",
+   "prerequisiteId": "par.integrating-evidence",
+   "strength": "soft",
+   "reason": "Claims about the problem and the effectiveness of responses are supported with cited evidence integrated within paragraphs"
+  }
+ },
+ {
+  "findingId": "R3-13",
+  "change": {
+   "kind": "edge-add",
+   "topicId": "ges.reflective-writing",
+   "prerequisiteId": "lrn.reflective-logs",
+   "strength": "soft",
+   "reason": "Regular dated learning logs build the habit of selective recording and evaluation on which extended reflective commentaries draw"
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "voc.countability-academic-nouns",
+   "path": "difficulties[1].reteachPrerequisiteId",
+   "oldText": "voc.core-academic-vocabulary",
+   "newValue": "voc.dictionary-use"
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "rdc.critical-response",
+   "path": "difficulties[0].reteachPrerequisiteId",
+   "oldText": "rdc.evidence-evaluation",
+   "newValue": "rdc.critical-questions"
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "prn.repair",
+   "path": "difficulties[2].reteachPrerequisiteId",
+   "oldText": "sta.code-glosses",
+   "newValue": "prn.intelligibility"
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "exm.objective-questions",
+   "path": "difficulties[2].reteachPrerequisiteId",
+   "oldText": "sta.generalisation-qualification",
+   "newValue": "exm.exam-formats"
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "crt.multiple-perspectives",
+   "path": "difficulties[2].reteachPrerequisiteId",
+   "oldText": "rds.writer-stance",
+   "newValue": null
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "coh.writer-responsibility",
+   "path": "difficulties[2].reteachPrerequisiteId",
+   "oldText": "coh.cohesion-vs-coherence",
+   "newValue": "wpr.audience-purpose"
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "coh.text-patterns",
+   "path": "difficulties[1].reteachPrerequisiteId",
+   "oldText": "coh.cohesion-vs-coherence",
+   "newValue": null
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "sem.preparation",
+   "path": "difficulties[2].reteachPrerequisiteId",
+   "oldText": "ntk.notes-from-reading",
+   "newValue": null
+  }
+ },
+ {
+  "findingId": "R3-15",
+  "change": {
+   "kind": "edit-field",
+   "file": "guidance",
+   "topicId": "res.literature-review",
+   "path": "difficulties[2].reteachPrerequisiteId",
+   "oldText": "res.gap-niche",
+   "newValue": null
+  }
+ },
+ {
+  "findingId": "R2-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.bundles-research-oriented",
+   "file": "topics",
+   "path": "description",
+   "oldText": "such as location, procedure, quantification and description ('the extent to which', 'in the case of', 'the nature of the', 'at the same time', 'on the basis of')",
+   "newValue": "such as location, procedure, quantification, description and topic ('the extent to which', 'the role of the', 'the nature of the', 'at the same time', 'a wide range of')"
+  }
+ },
+ {
+  "findingId": "R2-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.bundles-research-oriented",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "Give five bundles ('the extent to which', 'in the case of', 'the nature of the', 'on the basis of', 'the relationship between')",
+   "newValue": "Give five bundles ('the extent to which', 'the role of the', 'the nature of the', 'a wide range of', 'the relationship between')"
+  }
+ },
+ {
+  "findingId": "R2-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.bundles-research-oriented",
+   "file": "guidance",
+   "path": "diagnostic.task",
+   "oldText": "'The results indicate the extent to which…' and 'On the basis of…'",
+   "newValue": "'The results indicate the extent to which…' and 'This study examines the role of…'"
+  }
+ },
+ {
+  "findingId": "R2-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.bundles-research-oriented",
+   "file": "guidance",
+   "path": "diagnostic.strongResponse",
+   "oldText": "a noun phrase after 'on the basis of'",
+   "newValue": "a noun phrase after 'the role of'"
+  }
+ },
+ {
+  "findingId": "R2-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.bundles-text-oriented",
+   "file": "topics",
+   "path": "description",
+   "oldText": "framing ('in terms of the', 'with respect to the')",
+   "newValue": "framing ('in terms of the', 'with respect to the', 'in the case of', 'on the basis of')"
+  }
+ },
+ {
+  "findingId": "R2-02",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.nominalisation",
+   "file": "topics",
+   "path": "description",
+   "oldText": "Express processes and qualities as nouns (X increased sharply → the sharp increase in X) so that",
+   "newValue": "Express processes and qualities as nouns (X increased sharply → the sharp increase in X), and logical relations inside the clause as verbs, nouns or prepositions (because X rose, Y fell → the rise in X caused a fall in Y), so that"
+  }
+ },
+ {
+  "findingId": "R2-02",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.nominalisation",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Systemic functional work on 'grammatical metaphor' explains how nominalisation turns processes into things",
+   "newValue": "Systemic functional work on 'grammatical metaphor' covers ideational metaphor (processes and qualities realised as nouns; logical relations such as cause realised inside the clause as verbs, nouns or prepositions: leads to, the cause of, due to) and interpersonal metaphor (I think → it is likely that). For nominalisation, it explains how processes become things"
+  }
+ },
+ {
+  "findingId": "R2-02",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dse.scientific-language",
+   "file": "topics",
+   "path": "description",
+   "oldText": "nominalisation (grammatical metaphor)",
+   "newValue": "grammatical metaphor (especially nominalisation)"
+  }
+ },
+ {
+  "findingId": "R2-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.dialogic-positioning",
+   "file": "topics",
+   "path": "description",
+   "oldText": "or contracting it (denying, countering, concurring, pronouncing)",
+   "newValue": "or contracting it (denying, countering, concurring, pronouncing, endorsing)"
+  }
+ },
+ {
+  "findingId": "R2-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.dialogic-positioning",
+   "file": "topics",
+   "path": "masteryEvidence[0]",
+   "oldText": "contracting (deny, counter, concur, pronounce)",
+   "newValue": "contracting (deny, counter, concur, pronounce, endorse)"
+  }
+ },
+ {
+  "findingId": "R2-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.dialogic-positioning",
+   "file": "topics",
+   "path": "masteryEvidence[2]",
+   "oldText": "Chooses between neutral attribution (X reports) and distancing (X claims) according to the writer's position",
+   "newValue": "Chooses between endorsing attribution (X shows, X demonstrates), which contracts the dialogue, and acknowledging (X reports, X argues) or distancing (X claims) attribution, which keeps it open, according to the writer's position"
+  }
+ },
+ {
+  "findingId": "R2-04",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "lis.relevance-markers",
+   "file": "guidance",
+   "path": "difficulties[1].kind",
+   "oldText": "L1-transfer",
+   "newValue": "developmental"
+  }
+ },
+ {
+  "findingId": "R2-04",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "lis.relevance-markers",
+   "file": "guidance",
+   "path": "difficulties[1].pattern",
+   "oldText": "Learners whose first language marks focus mainly through word order or particles rather than pitch prominence do not treat heavy stress or slowing as a cue to importance.",
+   "newValue": "Learners attend mainly to lexical content and, especially when decoding load is high, do not use the speaker's voice (heavy stress, slowing, pausing, repetition) as a cue to importance."
+  }
+ },
+ {
+  "findingId": "R2-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.clarity-end-weight",
+   "file": "guidance",
+   "path": "difficulties[1].kind",
+   "oldText": "L1-transfer",
+   "newValue": "developmental"
+  }
+ },
+ {
+  "findingId": "R2-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.clarity-end-weight",
+   "file": "guidance",
+   "path": "difficulties[1].pattern",
+   "oldText": "Writers whose first language places the verb at the end of the clause may produce late-verb sentences in English.",
+   "newValue": "Long pre-verbal subjects delay the main verb, a pattern common across first-language backgrounds as writers begin to compress information into noun phrases; writers whose first language places modifiers, including relative clauses, before the noun may favour heavy pre-head modification."
+  }
+ },
+ {
+  "findingId": "R2-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "lis.word-segmentation",
+   "file": "topics",
+   "path": "description",
+   "oldText": "using stressed (strong) syllables, which in English often mark the start of content words",
+   "newValue": "using strong syllables (syllables with full, unreduced vowels, including those carrying primary stress), which in English mark the start of most content words"
+  }
+ },
+ {
+  "findingId": "R2-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "lis.word-segmentation",
+   "file": "guidance",
+   "path": "difficulties[0].pattern",
+   "oldText": "Learners whose first language has fixed stress or little contrast between strong and weak syllables do not use English strong syllables as onset cues.",
+   "newValue": "Learners transfer the segmentation routines of their first language (for example syllable-based segmentation in French or mora-based segmentation in Japanese, or expectations of fixed final or penultimate stress), so English strong syllables are not used, or are misused, as onset cues."
+  }
+ },
+ {
+  "findingId": "R2-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.tense-in-reporting",
+   "file": "topics",
+   "path": "masteryEvidence[2]",
+   "oldText": "Explains how a shift from past to present tense in reporting a finding increases the writer's endorsement of it",
+   "newValue": "Explains how, in fields where past tense is the default for reporting studies, a shift to present tense can present a finding as current and generalisable, and why in fields that report positions in the present (Smith argues…) tense alone does not signal endorsement"
+  }
+ },
+ {
+  "findingId": "R2-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.tense-in-reporting",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "Look for answers that link tense to currency and endorsement, not only to when the study was published.",
+   "newValue": "Look for answers that link tense to currency and generality, recognise that endorsement is signalled mainly by the reporting verb (shows versus claims) and that field conventions differ, and do not tie tense only to when the study was published."
+  }
+ },
+ {
+  "findingId": "R2-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.tense-in-reporting",
+   "file": "guidance",
+   "path": "activities[0].intendedInsight",
+   "oldText": "Tense in reporting signals currency and writer endorsement, not just the date of publication.",
+   "newValue": "Tense in reporting can signal currency and generality, not just the date of publication; endorsement depends more on the reporting verb and on field conventions."
+  }
+ },
+ {
+  "findingId": "R2-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.deliberate-learning-systems",
+   "file": "topics",
+   "path": "description",
+   "oldText": "and review by retrieval at expanding intervals",
+   "newValue": "and review by retrieval at spaced intervals (expanding or equal; the evidence favours spacing itself more than any particular schedule)"
+  }
+ },
+ {
+  "findingId": "R2-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.deliberate-learning-systems",
+   "file": "topics",
+   "path": "masteryEvidence[3]",
+   "oldText": "Schedules reviews at increasing intervals using software or a manual system",
+   "newValue": "Schedules spaced reviews (for example at increasing intervals) using software or a manual system"
+  }
+ },
+ {
+  "findingId": "R2-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.deliberate-learning-systems",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "explains why retrieval and expanding intervals outperform rereading",
+   "newValue": "explains why retrieval and spaced (distributed) review outperform massed rereading; whether expanding schedules beat equally spaced ones is not settled"
+  }
+ },
+ {
+  "findingId": "R2-09",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.articles",
+   "file": "guidance",
+   "path": "difficulties[0].revealedBy",
+   "oldText": "Omitted articles with singular countable nouns and overuse of 'the' with generic plurals and uncountables (The education is important), in writers whose first languages do not grammaticalise definiteness through articles.",
+   "newValue": "Omitted articles with singular countable nouns, and fluctuating use of 'the' that tracks specificity rather than definiteness (for example 'the' for a particular referent the reader cannot yet identify), in writers whose first languages do not grammaticalise definiteness through articles."
+  }
+ },
+ {
+  "findingId": "R2-12",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.passive-voice",
+   "file": "guidance",
+   "path": "difficulties[1].revealedBy",
+   "oldText": "Passives formed with intransitive verbs, sometimes where the first language marks such events with a construction resembling the passive.",
+   "newValue": "Passives formed with unaccusative intransitive verbs (happen, occur, arise, emerge, appear), whose subject undergoes rather than performs the event; this overpassivisation is attested across many first-language backgrounds and is largely developmental."
+  }
+ },
+ {
+  "findingId": "R2-12",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.passive-voice",
+   "file": "guidance",
+   "path": "difficulties[1].response",
+   "oldText": "provide a short list of common academic intransitive verbs (occur, arise, emerge, happen).",
+   "newValue": "provide a short list of common academic intransitive verbs (occur, arise, emerge, happen), and contrast them with ergative verbs that work both ways (The temperature increased / The researchers increased the temperature; the rate changed / the dose was changed)."
+  }
+ },
+ {
+  "findingId": "R2-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.anticipatory-it",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "(Hewings & Hewings, 2002, proposed)",
+   "newValue": "(Hewings & Hewings, 2002)"
+  }
+ },
+ {
+  "findingId": "R2-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.linking-adverbial-placement",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "(Granger, 1998; Granger & Tyson, 1996, proposed)",
+   "newValue": "(Granger, 1998; Granger & Tyson, 1996)"
+  }
+ },
+ {
+  "findingId": "R2-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.reference-pronouns",
+   "file": "guidance",
+   "path": "reviewNotes[0]",
+   "oldText": "Check that unattended anaphoric this is among the features examined by Chang and Swales (1999).",
+   "newValue": "Chang and Swales (1999) include unattended anaphoric 'this' among the ten informal features they examined; Gray and Cortes (2011) also document unattended this/these in published prose."
+  }
+ },
+ {
+  "findingId": "R2-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.sentence-boundaries",
+   "file": "guidance",
+   "path": "reviewNotes[0]",
+   "oldText": "Check that sentence-initial conjunctions are among the informal features examined by Chang and Swales (1999) before relying on that citation for the claim.",
+   "newValue": "Chang and Swales (1999) include sentence-initial conjunctions among the ten informal features they examined."
+  }
+ },
+ {
+  "findingId": "R2-14",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "coh.linking-adverbials",
+   "file": "topics",
+   "path": "description",
+   "oldText": "Learner corpora show both overuse of a small set of sentence-initial connectors and mismatches between connector and relation",
+   "newValue": "Learner corpora show, varying by learner group, overuse of some connectors, underuse of others, a preference for sentence-initial position and mismatches between connector and relation"
+  }
+ },
+ {
+  "findingId": "R2-15",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.spelling-conventions",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "Check consistency (including -ise/-ize)",
+   "newValue": "Check consistency (accepting either -ise or Oxford -ize as British if applied consistently, but treating -yze as American only)"
+  }
+ },
+ {
+  "findingId": "R2-16",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.bundles-text-oriented",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "Teach the paired frame 'on the one hand … on the other hand' and alternatives for addition.",
+   "newValue": "Teach that 'on the other hand' introduces a contrasting alternative or perspective (the paired frame with 'on the one hand' is one option, but expert writers often use 'on the other hand' alone), and offer alternatives for addition."
+  }
+ },
+ {
+  "findingId": "R2-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.verb-noun-collocation-accuracy",
+   "file": "guidance",
+   "path": "diagnostic.task",
+   "oldText": "'In this essay I will make a research on how temperature raises crop yields.'",
+   "newValue": "'In this essay I will make a research on why crop yields raise when temperatures are high.'"
+  }
+ },
+ {
+  "findingId": "R2-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.verb-noun-collocation-accuracy",
+   "file": "guidance",
+   "path": "diagnostic.strongResponse",
+   "oldText": "and checks whether 'raises' or 'increases' with the right subject is meant, explaining both collocation and countability",
+   "newValue": "and replaces intransitive 'raise' with 'rise' (crop yields rise), explaining collocation, countability and the raise/rise contrast"
+  }
+ },
+ {
+  "findingId": "R2-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.verb-noun-collocation-accuracy",
+   "file": "guidance",
+   "path": "difficulties[2].revealedBy",
+   "oldText": "'prices were raised by 5%' used to mean prices went up.",
+   "newValue": "'the number of students raised by 5%' used to mean the number went up."
+  }
+ },
+ {
+  "findingId": "R2-18",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.word-grammar-patterns",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "'consistent to', 'aim at improving' versus 'aim to improve')",
+   "newValue": "'consistent to', 'emphasise on', and the two acceptable patterns 'aim to improve' and 'aim at improving')"
+  }
+ },
+ {
+  "findingId": "R2-19",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.reference-pronouns",
+   "file": "guidance",
+   "path": "difficulties[1].pattern",
+   "oldText": "This data shows… / these criterion.",
+   "newValue": "These criterion… / this phenomena… / these data shows… (plural data with a singular verb)."
+  }
+ },
+ {
+  "findingId": "R2-20",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.precision-near-synonyms",
+   "file": "guidance",
+   "path": "diagnostic.strongResponse",
+   "oldText": "'impact' (noun, and verb in some varieties)",
+   "newValue": "'impact' (mainly a noun; its verb use is common in British and American English but disliked by some editors)"
+  }
+ },
+ {
+  "findingId": "R2-21",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.affixes-roots",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "plus a misleading one such as 'disinterested'",
+   "newValue": "plus a misleading one such as 'inflammable'"
+  }
+ },
+ {
+  "findingId": "R2-21",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.affixes-roots",
+   "file": "topics",
+   "path": "description",
+   "oldText": "Greco-Latin roots (bio-, geo-, -graph-, -cracy)",
+   "newValue": "Greco-Latin roots and combining forms (bio-, geo-, -graph-, -cracy)"
+  }
+ },
+ {
+  "findingId": "R2-22",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.word-families-morphology",
+   "file": "guidance",
+   "path": "difficulties[2].revealedBy",
+   "oldText": "Forms such as 'analysation' or 'criticalness'.",
+   "newValue": "Forms such as 'analysation' or 'investigatement'."
+  }
+ },
+ {
+  "findingId": "R2-22",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.word-families-morphology",
+   "file": "topics",
+   "path": "description",
+   "oldText": "(analyse, analysis, analyst, analytical, analytically)",
+   "newValue": "(analyse, analysis, analyst, analytical, analytically), including members related by conversion with no affix (a study / to study; an INcrease / to inCREASE, with a stress shift)"
+  }
+ },
+ {
+  "findingId": "R2-23",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.multiword-verbs-register",
+   "file": "guidance",
+   "path": "difficulties[0].revealedBy",
+   "oldText": "Contorted replacements ('executed the experiment', 'the sample was comprised of')",
+   "newValue": "Contorted replacements ('executed the experiment', 'the problem was eliminated from consideration' for 'ruled out')"
+  }
+ },
+ {
+  "findingId": "R2-24",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.np-postmodification",
+   "file": "guidance",
+   "path": "activities[1].learnerActions[1]",
+   "oldText": "to a prepositional phrase (the data collected in 2020; the 2020 data)",
+   "newValue": "to a prepositional phrase or a premodifier (the data collected in 2020; the data from 2020; the 2020 data)"
+  }
+ },
+ {
+  "findingId": "R2-25",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.non-finite-clauses",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "Teach the subject-sharing rule and the two repairs.",
+   "newValue": "Teach the subject-sharing rule and the two repairs, noting conventional exceptions that are acceptable in academic prose (given…, considering…, assuming…, generally speaking…, compared with…) and that style guides disagree about 'Based on…'."
+  }
+ },
+ {
+  "findingId": "R2-26",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.sentence-types",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "including a 35-word sentence with one finite verb and heavy noun phrases",
+   "newValue": "including a 35-word sentence with one finite verb and heavy noun phrases built only from adjectives, nouns and prepositional phrases (no non-finite or relative clauses)"
+  }
+ },
+ {
+  "findingId": "R2-26",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.sentence-types",
+   "file": "topics",
+   "path": "masteryEvidence[1]",
+   "oldText": "justifies the classification by counting finite clauses",
+   "newValue": "justifies the classification by counting finite clauses (the pedagogical convention, while recognising that descriptive grammars also count non-finite clauses as dependent clauses)"
+  }
+ },
+ {
+  "findingId": "R2-27",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.sentence-length-variety",
+   "file": "guidance",
+   "path": "activities[1].intendedInsight",
+   "oldText": "long sentences in academic writing are dense, and the latter usually read more easily for expert readers.",
+   "newValue": "long sentences in academic writing are dense; expert readers often process dense sentences in their field efficiently, but density also leaves relations implicit, so neither kind is automatically easier."
+  }
+ },
+ {
+  "findingId": "R2-28",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "prn.intonation",
+   "file": "guidance",
+   "path": "difficulties[0].kind",
+   "oldText": "L1-transfer",
+   "newValue": "developmental"
+  }
+ },
+ {
+  "findingId": "R2-28",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "prn.intonation",
+   "file": "guidance",
+   "path": "difficulties[0].pattern",
+   "oldText": "Learners whose first language uses pitch mainly to distinguish words, or uses a narrower pitch range for discourse purposes, produce relatively flat English intonation.",
+   "newValue": "Learners use a narrower pitch range and fewer discourse-marking pitch movements in English than proficient speakers, a tendency reported across many first-language backgrounds and linked to processing load and unfamiliarity with English tone choices."
+  }
+ },
+ {
+  "findingId": "R2-29",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.spoken-stance",
+   "file": "guidance",
+   "path": "difficulties[2].kind",
+   "oldText": "L1-transfer",
+   "newValue": "developmental"
+  }
+ },
+ {
+  "findingId": "R2-29",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.spoken-stance",
+   "file": "guidance",
+   "path": "difficulties[2].response",
+   "oldText": "Listeners whose other languages signal stance mainly through particles or word choice rather than intonation benefit from focused listening to prosodic stance cues.",
+   "newValue": "Recognising irony and scepticism from the voice is demanding for most L2 listeners and depends on cultural familiarity; focused listening to prosodic stance cues helps, particularly for listeners whose other languages carry such meanings mainly through particles or word choice."
+  }
+ },
+ {
+  "findingId": "R2-30",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "prn.connected-speech-production",
+   "file": "guidance",
+   "path": "diagnostic.gapResponse",
+   "oldText": "Either staccato full forms throughout or over-reduction that obscures content.",
+   "newValue": "Listeners cannot pick out the key words, either because every syllable receives equal weight so that key words do not stand out or because over-reduction obscures content words."
+  }
+ },
+ {
+  "findingId": "R2-31",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "prn.numbers-aloud",
+   "file": "topics",
+   "path": "masteryEvidence[1]",
+   "oldText": "Distinguishes -teen and -ty numbers through stress and vowel quality, and confirms figures when misunderstanding is likely",
+   "newValue": "Distinguishes -teen and -ty numbers mainly through the final syllable (/tiːn/ versus /ti/), knowing that -teen stress shifts forward before a stressed noun (FOURteen STUdents), and confirms figures when misunderstanding is likely"
+  }
+ },
+ {
+  "findingId": "R2-31",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "prn.numbers-aloud",
+   "file": "topics",
+   "path": "description",
+   "oldText": "use stress to keep confusable numbers apart (thirTEEN versus THIRty)",
+   "newValue": "use the final syllable and stress to keep confusable numbers apart (thirTEEN versus THIRty)"
+  }
+ },
+ {
+  "findingId": "R2-32",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "prn.segmental-priorities",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "while excluding features such as the dental fricatives;",
+   "newValue": "while excluding features such as the dental fricatives, weak forms, word stress and pitch movement (nuclear stress placement is one of the few prosodic features it retains, which supports the priority given to prominence);"
+  }
+ },
+ {
+  "findingId": "R2-33",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.conditionals",
+   "file": "topics",
+   "path": "masteryEvidence[3]",
+   "oldText": "Uses inverted conditionals (Were X to…, Had the study…) appropriately in formal writing, or avoids them where they sound mannered",
+   "newValue": "Recognises inverted conditionals (Were X to…, Had the study…) in formal texts and uses them sparingly where they suit the register"
+  }
+ },
+ {
+  "findingId": "R2-33",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "grm.articles",
+   "cefrStart": "B1",
+   "cefrEnd": "C2"
+  }
+ },
+ {
+  "findingId": "R2-33",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "grm.fronting-inversion",
+   "cefrStart": "B2+",
+   "cefrEnd": "C2"
+  }
+ },
+ {
+  "findingId": "R2-34",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.generalisation-qualification",
+   "file": "topics",
+   "path": "masteryEvidence[1]",
+   "oldText": "most + plural noun without 'of'",
+   "newValue": "most + plural noun without 'of' but most of + determiner + noun: most students, most of the students"
+  }
+ },
+ {
+  "findingId": "R2-35",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.hedging",
+   "file": "guidance",
+   "path": "difficulties[2].response",
+   "oldText": "need explicit contrast between dynamic 'can' and epistemic 'may', 'might' and 'could'.",
+   "newValue": "need to see that 'can' expresses general possibility (This can be problematic) but not, in positive statements, an inference about a specific case, where 'may', 'might' or 'could' is used (This could be the reason)."
+  }
+ },
+ {
+  "findingId": "R2-36",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.evaluative-lexis",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "categories — appreciation of things, judgement of people, graduation of strength —",
+   "newValue": "categories — affect (feelings), judgement of people's behaviour, appreciation of things and texts, and graduation (force: degree; focus: sharpness of category membership) —"
+  }
+ },
+ {
+  "findingId": "R2-37",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.self-mention",
+   "file": "topics",
+   "path": "description",
+   "oldText": "from guide through the text and architect of its structure to recounter of procedures, opinion-holder and originator of ideas",
+   "newValue": "from representative of a wider group (generic 'we') and guide through the text, through architect of its structure and recounter of procedures, to opinion-holder and originator of ideas"
+  }
+ },
+ {
+  "findingId": "R2-37",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.self-mention",
+   "file": "topics",
+   "path": "masteryEvidence[0]",
+   "oldText": "(guide, architect, recounter, opinion-holder, originator)",
+   "newValue": "(representative, guide, architect, recounter, opinion-holder, originator)"
+  }
+ },
+ {
+  "findingId": "R2-38",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.engagement-markers",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Teach engagement as calibrated to readership through comparative genre analysis rather than through rules.",
+   "newValue": "Teach engagement as calibrated to readership through comparative genre analysis rather than through rules. Note that Hyland's 'engagement' (reader-oriented features) differs from 'engagement' in Martin and White's appraisal framework (dialogic positioning; see sta.dialogic-positioning)."
+  }
+ },
+ {
+  "findingId": "R2-39",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.averral-attribution",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "developed by Hunston in Hunston and Thompson's collection",
+   "newValue": "introduced by Sinclair and developed by Hunston in Hunston and Thompson's collection"
+  }
+ },
+ {
+  "findingId": "R2-40",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.bundles-research-oriented",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "they should be taught with their typical grammatical continuations and in context.",
+   "newValue": "they should be taught with their typical grammatical continuations and in context. Structurally, written academic bundles are mostly noun-phrase and prepositional-phrase based, whereas classroom speech favours verb-phrase and clause-based bundles (Biber, Conrad & Cortes, 2004), mirroring the phrasal–clausal contrast in academic grammar."
+  }
+ },
+ {
+  "findingId": "R2-43",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.core-academic-vocabulary",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "each covers a meaningful share of academic text",
+   "newValue": "each covers a meaningful share of academic text (about 10% of Coxhead's Academic Corpus for the AWL and about 14% of academic text for the AVL, figures not directly comparable because they use different units and corpora)"
+  }
+ },
+ {
+  "findingId": "R2-44",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.articles",
+   "file": "guidance",
+   "path": "diagnostic.strongResponse",
+   "oldText": "including 'the' licensed by an of-phrase",
+   "newValue": "including 'the' where an of-phrase makes the referent uniquely identifiable (the role of X), and 'a' or zero where the postmodifier only classifies (a member of the committee, evidence of bias)"
+  }
+ },
+ {
+  "findingId": "R2-44",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.articles",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "and teach the of-phrase and relative-clause contexts where 'the' is licensed by postmodification",
+   "newValue": "and teach the of-phrase and relative-clause contexts where postmodification makes the referent identifiable and so licenses 'the', contrasting them with postmodified nouns that still take 'a' or zero (a study of, an increase of 5%, evidence of)"
+  }
+ },
+ {
+  "findingId": "R4-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "ess.criticality",
+   "file": "guidance",
+   "path": "contextNotes",
+   "oldText": "which differ, for example, between engineering and history (Moore, 2013)",
+   "newValue": "which differ across fields; even within the humanities, Moore (2013) found academics in history, philosophy and cultural studies holding distinct conceptions of critical thinking"
+  }
+ },
+ {
+  "findingId": "R4-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "rdc.critical-reading",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Moore (2013) found that academics across disciplines understand critical thinking",
+   "newValue": "Moore (2013) found that academics in history, philosophy and cultural studies understand critical thinking"
+  }
+ },
+ {
+  "findingId": "R4-02",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.corpus-consultation",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Charles shows how graduate writers can build small corpora of theses in their own field to link bottom-up searches with rhetorical functions",
+   "newValue": "Charles (2007) shows how concordance searches of thesis corpora can be linked to the rhetorical functions students first identify in whole texts"
+  }
+ },
+ {
+  "findingId": "R4-02",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.corpus-consultation",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "Charles describes graduate writers building their own corpora to explore rhetorical functions in their disciplines.",
+   "newValue": "Charles (2007) links concordance searches of thesis corpora to the rhetorical functions graduate writers identify in whole texts; students building their own discipline-specific corpora is reported in Charles's later work (2012), which should be added before this activity is attributed to it."
+  }
+ },
+ {
+  "findingId": "R4-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.deliberate-learning-systems",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "explains why retrieval and expanding intervals outperform rereading",
+   "newValue": "explains why retrieval practice outperforms restudy and spaced practice outperforms massed practice (the cited work does not show that expanding intervals beat equal spacing)"
+  }
+ },
+ {
+  "findingId": "R4-04",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.academic-cv-bio",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "and Hyland (2012) analysed article bio statements",
+   "newValue": "and Hyland and Tse (2012) analysed article bio statements"
+  }
+ },
+ {
+  "findingId": "R4-04",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.academic-cv-bio",
+   "file": "guidance",
+   "path": "activities[0].rationale",
+   "oldText": "Hyland (2012) shows that bio statements",
+   "newValue": "Hyland and Tse (2012) show that bio statements"
+  }
+ },
+ {
+  "findingId": "R4-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.reporting-structures",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "These are rule-governed errors suited to focused self-editing (Ferris, 1999).",
+   "newValue": "Reporting-frame errors are largely lexically governed (each verb has its own complementation), so they are best tracked verb by verb in a personal pattern record and checked against a corpus or learner dictionary."
+  }
+ },
+ {
+  "findingId": "R4-05",
+  "change": {
+   "kind": "remove-citation",
+   "topicId": "grm.reporting-structures",
+   "file": "guidance",
+   "path": "activities[1].citations",
+   "referenceKey": "ferris1999"
+  }
+ },
+ {
+  "findingId": "R4-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.non-finite-clauses",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "suits a rule-governed, treatable structure (Ferris, 1999)",
+   "newValue": "suits a structure with a checkable rule (the implied subject must be the main-clause subject), although Ferris (1999) classed sentence-structure problems as less readily 'treatable' than agreement or tense"
+  }
+ },
+ {
+  "findingId": "R4-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.existential-there",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "Targeted repair of a frequent, rule-governed error supports self-editing (Ferris, 1999).",
+   "newValue": "Targeted repair of a frequent, recognisable error pattern supports self-editing; Ferris (1999) would class this sentence-structure error as less readily 'treatable' than agreement or tense, so expect repeated practice to be needed."
+  }
+ },
+ {
+  "findingId": "R4-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.linking-adverbial-placement",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "The comma splice with linking adverbials is a rule-governed error suited to focused attention and self-editing (Ferris, 1999).",
+   "newValue": "The comma splice with linking adverbials follows a clear punctuation rule and suits focused self-editing; Ferris (1999) listed fragments, not comma splices, among 'treatable' errors, so the extension is by analogy."
+  }
+ },
+ {
+  "findingId": "R4-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.sentence-boundaries",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Comma splices, fused sentences and fragments are rule-governed and therefore 'treatable' errors in Ferris's (1999) sense",
+   "newValue": "Fragments are among the 'treatable' rule-governed errors in Ferris's (1999) sense, and comma splices and fused sentences follow similarly clear rules"
+  }
+ },
+ {
+  "findingId": "R4-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "cit.author-date-in-text",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Instruction works best when formatting is linked to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) rather than taught as an isolated rule list",
+   "newValue": "Linking formatting to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) gives the mechanics a rhetorical rationale and is likely to be more useful than an isolated rule list, although this has not been tested"
+  }
+ },
+ {
+  "findingId": "R4-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "reg.vague-overgeneralised",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Teaching works best by asking",
+   "newValue": "Teaching is likely to work best (a practitioner judgement; the cited studies are descriptive) by asking"
+  }
+ },
+ {
+  "findingId": "R4-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.research-questions",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Teaching works best through repeated revision",
+   "newValue": "In practitioner experience, teaching works best through repeated revision"
+  }
+ },
+ {
+  "findingId": "R4-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "crt.problem-solving",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "are the two moves most likely to improve student work",
+   "newValue": "are, in practitioner experience, the two moves most likely to improve student work; neither cited source tests this"
+  }
+ },
+ {
+  "findingId": "R4-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "inf.open-access",
+   "file": "guidance",
+   "path": "activities[0].rationale",
+   "oldText": "Practising the routes reduces reliance on unauthorised sources",
+   "newValue": "Practising the legitimate routes is intended to reduce reliance on unauthorised sources (an untested expectation)"
+  }
+ },
+ {
+  "findingId": "R4-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "int.policy-processes",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "Rehearsing the genre before it is needed reduces anxiety and supports appropriate formality.",
+   "newValue": "Rehearsing the genre before it is needed is intended to reduce anxiety and support appropriate formality (a practitioner proposal); Bretag (2016) is cited for the educative approach to integrity, not for this effect."
+  }
+ },
+ {
+  "findingId": "R4-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "src.signal-phrases",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "Learning frames as patterns reduces the blending errors common at this stage.",
+   "newValue": "Learning frames as patterns is intended to reduce the blending errors common at this stage (a practitioner proposal); Pecorari (2013) supports explicit teaching of source use, not this specific effect."
+  }
+ },
+ {
+  "findingId": "R4-08",
+  "change": {
+   "kind": "remove-citation",
+   "topicId": "exm.open-book",
+   "file": "guidance",
+   "path": "activities[0].citations",
+   "referenceKey": "pecorari2013"
+  }
+ },
+ {
+  "findingId": "R4-08",
+  "change": {
+   "kind": "remove-citation",
+   "topicId": "res.ethics-documentation",
+   "file": "guidance",
+   "path": "activities[0].citations",
+   "referenceKey": "creswell2018"
+  }
+ },
+ {
+  "findingId": "R4-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.subject-verb-agreement",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "Data-driven learning encourages evidence-based usage judgements (Boulton & Cobb, 2017)",
+   "newValue": "Corpus consultation grounds usage judgements in attested examples, and a meta-analysis reports generally positive learning effects of data-driven learning (Boulton & Cobb, 2017)"
+  }
+ },
+ {
+  "findingId": "R4-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "par.concluding-sentences",
+   "file": "guidance",
+   "path": "activities[0].rationale",
+   "oldText": "that Wingate (2012) found students often leave implicit",
+   "newValue": "which Wingate (2012) treats as part of developing a position through analysis of sources"
+  }
+ },
+ {
+  "findingId": "R4-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "par.concluding-sentences",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "and show that authentic paragraphs frequently end on evidence or comment without a separate closing formula (Swales & Feak, 2012)",
+   "newValue": "and use authentic paragraphs, which often end on evidence or comment without a separate closing formula (a practitioner observation; Swales and Feak (2012) supply model paragraphs for analysis)"
+  }
+ },
+ {
+  "findingId": "R4-08",
+  "change": {
+   "kind": "remove-citation",
+   "topicId": "wpr.planning-outlining",
+   "file": "guidance",
+   "path": "activities[1].citations",
+   "referenceKey": "hyland2003writing"
+  }
+ },
+ {
+  "findingId": "R4-09",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.detection-limits",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "while classifying essays by US students largely correctly",
+   "newValue": "while classifying essays by US eighth-grade students largely correctly"
+  }
+ },
+ {
+  "findingId": "R4-10",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "rds.annotation",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "in parallel with the encoding benefits of generative note-taking (Kiewra, 1985)",
+   "newValue": "in line with Kiewra's (1985) depth-of-processing account of note-taking, although his review found the benefits of reviewing notes more consistent than the encoding benefits of taking them"
+  }
+ },
+ {
+  "findingId": "R4-11",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "rds.skimming",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "readers lose information in what they skip and are less able to judge what mattered",
+   "newValue": "readers lose information in what they skip, so skimming serves gist and relevance decisions only when readers can identify the important parts"
+  }
+ },
+ {
+  "findingId": "R4-12",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.word-families-morphology",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Bauer and Nation's word-family levels show that a limited set of regular, frequent affixes accounts for most family relationships, so teaching these explicitly is efficient",
+   "newValue": "Bauer and Nation's word-family levels rank affixes by frequency, regularity and productivity, implying that a limited set of regular, frequent affixes is the efficient place to start explicit teaching"
+  }
+ },
+ {
+  "findingId": "R4-12",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.word-families-morphology",
+   "file": "guidance",
+   "path": "activities[0].rationale",
+   "oldText": "Bauer and Nation's framework shows that regular affixation makes word families learnable as sets.",
+   "newValue": "Bauer and Nation's framework assumes that once regular affixes are known, word families can be learned as sets."
+  }
+ },
+ {
+  "findingId": "R4-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "rds.comprehension-monitoring",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "the effects of strategy instruction are variable and depend on adequate language knowledge (Plonsky, 2011)",
+   "newValue": "the effects of strategy instruction are variable (Plonsky, 2011) and are likely to depend on adequate language knowledge"
+  }
+ },
+ {
+  "findingId": "R4-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.clause-elements",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Explicit instruction has measurable benefits for grammatical development (Norris & Ortega, 2000)",
+   "newValue": "Norris and Ortega's (2000) meta-analysis found explicit instruction effective, although many outcome measures favoured explicit knowledge"
+  }
+ },
+ {
+  "findingId": "R4-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.error-monitoring",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "which supports separating composing from monitoring",
+   "newValue": "which is consistent with, though it did not test, separating composing from monitoring"
+  }
+ },
+ {
+  "findingId": "R4-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "tst.test-formats",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "is real but complex (Alderson & Wall, 1993)",
+   "newValue": "is more complex than often assumed and has to be demonstrated rather than presumed (Alderson & Wall, 1993)"
+  }
+ },
+ {
+  "findingId": "R4-14",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grm.error-monitoring",
+   "file": "guidance",
+   "path": "activities[0].title",
+   "oldText": "Evidence-based error log",
+   "newValue": "Error log built from your own feedback"
+  }
+ },
+ {
+  "findingId": "R4-14",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "grw.contribution-assessment",
+   "file": "guidance",
+   "path": "activities[0].title",
+   "oldText": "Evidence-based rating",
+   "newValue": "Rating backed by documented contributions"
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "crt.concept",
+   "file": "guidance",
+   "path": "difficulties[1].pattern",
+   "oldText": "'In my previous studies we were expected to learn from experts, not question them, so I am not good at this.'",
+   "newValue": "'In my previous exams, marks came from reproducing the textbook accurately, so I'm not sure when I'm allowed to evaluate a source.'"
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.evaluating-others-language",
+   "file": "guidance",
+   "path": "difficulties[0].kind",
+   "oldText": "prior-schooling",
+   "newValue": "affective"
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.evaluating-others-language",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "start with evaluating the fit of a study to the learner's own question.",
+   "newValue": "start with evaluating the fit of a study to the learner's own question. This hesitation is common among novice writers of every background, including first-language English undergraduates, so do not treat it as a marker of particular educational systems."
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "idn.academic-identity",
+   "file": "guidance",
+   "path": "difficulties[2].kind",
+   "oldText": "prior-schooling",
+   "newValue": "affective"
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.evaluative-lexis",
+   "file": "guidance",
+   "path": "difficulties[1].pattern",
+   "oldText": "'Who am I to criticise a published expert?'",
+   "newValue": "Evaluative words chosen for force rather than precision ('a terrible study', 'a perfect method')."
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.evaluative-lexis",
+   "file": "guidance",
+   "path": "difficulties[1].kind",
+   "oldText": "affective",
+   "newValue": "overgeneralisation"
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.evaluative-lexis",
+   "file": "guidance",
+   "path": "difficulties[1].revealedBy",
+   "oldText": "Purely descriptive critiques; criticism hidden or omitted.",
+   "newValue": "Critiques that swing between unqualified praise and blanket condemnation, with no criterion named."
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.evaluative-lexis",
+   "file": "guidance",
+   "path": "difficulties[1].response",
+   "oldText": "Present mitigated critique as an expected practice and model the language for it.",
+   "newValue": "Teach graded evaluative sets (for example limited, partial, robust, compelling) and ask learners to name the criterion behind each choice."
+  }
+ },
+ {
+  "findingId": "R5-01",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "fbk.seeking-feedback",
+   "file": "guidance",
+   "path": "difficulties[0].kind",
+   "oldText": "prior-schooling",
+   "newValue": "affective"
+  }
+ },
+ {
+  "findingId": "R5-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.detection-limits",
+   "file": "topics",
+   "path": "description",
+   "oldText": "learners protect themselves by keeping evidence of their writing process and knowing how integrity processes treat such indicators.",
+   "newValue": "institutions remain responsible for not treating such scores as evidence, and learners benefit from knowing their rights in integrity processes and from keeping ordinary records of their writing process (notes, drafts, version history), without being expected to prove their innocence."
+  }
+ },
+ {
+  "findingId": "R5-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.detection-limits",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Teaching should make clear that detector output cannot establish misconduct and help learners keep evidence of their writing process.",
+   "newValue": "Teaching should make clear that detector output cannot establish misconduct, that the burden of proof lies with the institution, and that keeping ordinary process records is a sensible habit rather than an obligation to prove innocence."
+  }
+ },
+ {
+  "findingId": "R5-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "wpr.l1-in-composing",
+   "file": "guidance",
+   "path": "difficulties[1].revealedBy",
+   "oldText": "a marked gap between in-class and take-home writing.",
+   "newValue": "a gap between in-class and take-home writing (which on its own is expected, since timed in-class writing is usually weaker, and is not evidence of translation or misconduct)."
+  }
+ },
+ {
+  "findingId": "R5-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dig.machine-translation",
+   "file": "guidance",
+   "path": "difficulties[2].revealedBy",
+   "oldText": "Marked differences between in-class and submitted writing; rhetorical organisation that does not match the English genre.",
+   "newValue": "The learner's own account of their process; terminology or hedging that shifts in ways typical of MT output. Differences between in-class and submitted writing are expected and are not evidence on their own."
+  }
+ },
+ {
+  "findingId": "R5-03",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "edt.proofreading-ethics",
+   "file": "guidance",
+   "path": "difficulties[0].revealedBy",
+   "oldText": "Marked differences in style between supervised and submitted writing.",
+   "newValue": "The learner's own account of what the helper changed; tracked changes or earlier drafts showing content-level rewriting. Style differences between supervised and submitted writing are not evidence on their own."
+  }
+ },
+ {
+  "findingId": "R5-04",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "int.policy-processes",
+   "file": "topics",
+   "path": "description",
+   "oldText": "Knowing the process reduces fear, helps learners respond appropriately and in time if concerns are raised, and makes clear that policies and terminology vary between institutions and modules.",
+   "newValue": "Knowing the process reduces fear, helps learners respond appropriately and in time if concerns are raised, and makes clear that policies and terminology vary between institutions and modules. Learners should also know their procedural rights: to see the evidence, to respond in a language and format they can use (including interpreting or language support where offered), to be accompanied, and to have indicators such as similarity scores, AI-detector output or differences in writing style weighed by people alongside their own account."
+  }
+ },
+ {
+  "findingId": "R5-04",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "INT",
+   "file": "domains",
+   "path": "learnerSummary",
+   "oldText": "and where to get help when deadlines and pressure build up.",
+   "newValue": "where to get help when deadlines and pressure build up, and what your rights are if questions are ever raised about your work."
+  }
+ },
+ {
+  "findingId": "R5-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.authorship-voice",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "Explain that assessed writing evidences language and reasoning as well as ideas; refer to the policy.",
+   "newValue": "Explain that whether an assessment evidences language as well as ideas depends on its purpose and policy: language-focused tasks usually do, many content tasks may not. Discuss the debate openly, including the equity argument that AI language polishing resembles help from proofreaders or literacy brokers, and refer to the policy for the task."
+  }
+ },
+ {
+  "findingId": "R5-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.authorship-voice",
+   "file": "guidance",
+   "path": "difficulties[1].response",
+   "oldText": "Value the learner's voice as legitimate; show that markers assess reasoning and clarity, not native-like polish.",
+   "newValue": "Value the learner's voice as legitimate and show where AI edits changed meaning or stance. Be honest that some readers do react to non-standard English, distinguish changes that improve clarity from those that only make text sound native-like, and point to the criteria actually used for the task."
+  }
+ },
+ {
+  "findingId": "R5-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.authorship-voice",
+   "file": "topics",
+   "path": "description",
+   "oldText": "so learners decide where assistance must stop for a task to remain their own work.",
+   "newValue": "so learners decide where assistance must stop for a task to remain their own work. Where that line lies is contested: AI language polishing can also reduce the penalties multilingual writers face for non-standard English, much as proofreaders and literacy brokers do."
+  }
+ },
+ {
+  "findingId": "R5-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "idn.plurilingual-repertoire",
+   "file": "topics",
+   "path": "description",
+   "oldText": "while producing assessed work in the required language and within institutional rules.",
+   "newValue": "while meeting the language requirements and rules of each assessment. Whether assessed texts may themselves be translingual (for example, quoting and glossing sources in other languages, or mixing languages in reflective genres) is contested and varies by task, and learners can ask."
+  }
+ },
+ {
+  "findingId": "R5-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "wpr.l1-in-composing",
+   "file": "topics",
+   "path": "description",
+   "oldText": "Plurilingual composing is a resource, but translating whole L1 drafts tends to carry over L1 structures, reduces L2 practice and can breach assessment rules.",
+   "newValue": "Plurilingual composing is a resource. Evidence on drafting fully in another language and then translating is mixed: it can support content and organisation, especially at lower proficiency, but may carry over source-language structures, reduce L2 practice and, with machine translation, breach assessment rules."
+  }
+ },
+ {
+  "findingId": "R5-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sem.online-discussion",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "a gap is a learner who contributes only in the chat or not at all, or who repeatedly talks over others because of delay.",
+   "newValue": "a gap is a learner who does not contribute in any channel, or who repeatedly talks over others because of delay. Chat-only participation is a legitimate mode for some learners (for example deaf, hard-of-hearing, stammering or neurodivergent learners, or those with poor connections) and should be judged on content."
+  }
+ },
+ {
+  "findingId": "R5-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sem.online-discussion",
+   "file": "guidance",
+   "path": "diagnostic.gapResponse",
+   "oldText": "Silent, or present only in the chat.",
+   "newValue": "No contribution in any channel, and no account of what would make participation possible."
+  }
+ },
+ {
+  "findingId": "R5-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sem.turn-taking",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "a gap is near-silence or long, unlinked monologues.",
+   "newValue": "a gap is long, unlinked monologues, or near-silence that the learner cannot explain or plan around. Interpret silence cautiously: it can reflect a deliberate choice, processing time, disability or the way the group distributes the floor, so pair the tally with the learner's own account."
+  }
+ },
+ {
+  "findingId": "R5-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.spelling-conventions",
+   "file": "guidance",
+   "path": "contextNotes",
+   "oldText": "In UG in-sessional settings, align with departmental and style-guide requirements.",
+   "newValue": "In UG in-sessional settings, align with departmental and style-guide requirements. Persistent spelling difficulty that does not respond to teaching may reflect dyslexia or another specific learning difference in any language; refer sensitively to disability or learning-support services and allow assistive tools (spell-checkers, text-to-speech) rather than treating it as carelessness."
+  }
+ },
+ {
+  "findingId": "R5-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "rdp.reading-fluency-rate",
+   "file": "guidance",
+   "path": "contextNotes",
+   "oldText": "very high rates are not a goal.",
+   "newValue": "very high rates are not a goal. Adapt timed reading for learners with dyslexia, visual impairment or other access needs, for example with text-to-speech or untimed versions."
+  }
+ },
+ {
+  "findingId": "R5-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "acu.hidden-curriculum",
+   "file": "topics",
+   "path": "description",
+   "oldText": "Tacit expectations disadvantage students whose prior schooling did not share them, so surfacing them is a matter of equity as well as skill.",
+   "newValue": "Tacit expectations disadvantage students whose prior schooling or family experience did not share them, including first-generation, mature and returning students as well as those new to the national system, so surfacing them is a matter of equity as well as skill."
+  }
+ },
+ {
+  "findingId": "R5-09",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.concision",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "Explain that UK assignments set maximum limits and reward density of argument, and practise cutting.",
+   "newValue": "Explain that many university assignments, including most in the UK, set maximum limits and reward density of argument; check the local rule and practise cutting."
+  }
+ },
+ {
+  "findingId": "R5-09",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "crt.multiple-perspectives",
+   "file": "guidance",
+   "path": "difficulties[2].response",
+   "oldText": "Show that in most UK HE genres balanced consideration",
+   "newValue": "Show that in many English-medium university genres (check local criteria) balanced consideration"
+  }
+ },
+ {
+  "findingId": "R5-09",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "coh.writer-responsibility",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "Ask how a UK marker might respond",
+   "newValue": "Ask how a marker in the learner's target programme might respond"
+  }
+ },
+ {
+  "findingId": "R5-10",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.cover-letters",
+   "file": "guidance",
+   "path": "difficulties[0].pattern",
+   "oldText": "Dear Respected Editor, I humbly request you to kindly consider my manuscript…",
+   "newValue": "Opening with several lines of courtesy formulae and expressions of humility before saying what the manuscript is."
+  }
+ },
+ {
+  "findingId": "R5-10",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.cover-letters",
+   "file": "guidance",
+   "path": "difficulties[0].kind",
+   "oldText": "L1-transfer",
+   "newValue": "prior-schooling"
+  }
+ },
+ {
+  "findingId": "R5-10",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.cover-letters",
+   "file": "guidance",
+   "path": "difficulties[0].revealedBy",
+   "oldText": "Highly deferential formulae carried over from correspondence norms where elaborate honorifics signal respect.",
+   "newValue": "Letters whose first paragraph contains courtesy formulae but no title, contribution or fit, often following formal-letter conventions taught at school or used in other varieties of English."
+  }
+ },
+ {
+  "findingId": "R5-10",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.cover-letters",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "Present this as a genre convention, not as a judgement of other norms.",
+   "newValue": "Present this as a convention of this genre, not as a judgement of other norms; such formulae are standard and respectful in many Englishes and need not be 'corrected' elsewhere."
+  }
+ },
+ {
+  "findingId": "R5-10",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.academic-cv-bio",
+   "file": "guidance",
+   "path": "difficulties[1].kind",
+   "oldText": "L1-transfer",
+   "newValue": "prior-schooling"
+  }
+ },
+ {
+  "findingId": "R5-11",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "coh.writer-responsibility",
+   "file": "guidance",
+   "path": "difficulties[0].pattern",
+   "oldText": "'If I state my point at the start, the reader will think I am not subtle.'",
+   "newValue": "'I build up to my main point so that the conclusion has more impact.'"
+  }
+ },
+ {
+  "findingId": "R5-11",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "reg.spoken-vs-written",
+   "file": "guidance",
+   "path": "difficulties[2].response",
+   "oldText": "Acknowledge that writing traditions value different qualities, and make explicit",
+   "newValue": "Acknowledge that genres and teachers in every language, English included, value different qualities (school writing in English often rewards elaborate style too), and make explicit"
+  }
+ },
+ {
+  "findingId": "R5-11",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "arg.toulmin",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Qin and Karabacak's analysis of Chinese EFL university students' argumentative essays used a modified Toulmin scheme and found that counter-argument and rebuttal elements were relatively infrequent but associated with higher-rated essays.",
+   "newValue": "Qin and Karabacak's study of argumentative essays by EFL undergraduates at one Chinese university used a modified Toulmin scheme and found that counter-argument and rebuttal elements were relatively infrequent but associated with higher-rated essays; Wingate (2012) similarly reports that students at a UK university were often unclear about what argument requires, so the pattern reflects novice status and instruction, not nationality."
+  }
+ },
+ {
+  "findingId": "R5-12",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "phr.academic-collocations",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Durrant and Schmitt's comparison of native and non-native writers suggests learners rely on frequent, general combinations and underuse strongly associated but less frequent ones",
+   "newValue": "Durrant and Schmitt's comparison of writing by first-language and additional-language users of English suggests that the latter rely more on frequent, general combinations and use fewer strongly associated but less frequent ones (a comparison with first-language student writing, not with an ideal)"
+  }
+ },
+ {
+  "findingId": "R5-12",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "coh.linking-adverbials",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "report overuse of some connectors, underuse of others and sentence-initial stacking",
+   "newValue": "report overuse of some connectors, underuse of others and sentence-initial stacking relative to first-language student essays (comparisons that measure difference from a reference corpus rather than error, so expert disciplinary writing is the better model)"
+  }
+ },
+ {
+  "findingId": "R5-12",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "voc.academic-verbs",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "because L2 writers tend to rely on a narrow range of general verbs.",
+   "newValue": "because developing writers, including the L2 writers in Hinkel's data, often rely on a narrow range of general verbs."
+  }
+ },
+ {
+  "findingId": "R5-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.supervision",
+   "file": "guidance",
+   "path": "difficulties[0].kind",
+   "oldText": "L1-transfer",
+   "newValue": "conceptual"
+  }
+ },
+ {
+  "findingId": "R5-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.supervision",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "Note that this varies by individual supervisor.",
+   "newValue": "Note that this varies by individual supervisor and that many first-language English students misread hedged advice too; clarity is a shared responsibility, so where possible encourage supervisors to mark which suggestions are requirements."
+  }
+ },
+ {
+  "findingId": "R5-14",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "idn.standards-legitimacy",
+   "file": "topics",
+   "path": "description",
+   "oldText": "understanding how native-speakerism, gatekeeping and language ideologies affect assessment, publication and participation.",
+   "newValue": "understanding how native-speakerism, gatekeeping and language ideologies, including the tendency to judge the same English differently depending on a speaker's perceived race, nationality or accent, affect assessment, publication and participation."
+  }
+ },
+ {
+  "findingId": "R5-15",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "crt.epistemic-beliefs",
+   "file": "topics",
+   "path": "description",
+   "oldText": "moving from treating knowledge as fixed facts transmitted by authorities, through treating all views as equally valid, towards evaluating claims as better or worse supported.",
+   "newValue": "drawing on models, developed largely with US undergraduates, that describe a broad tendency rather than fixed stages: from treating knowledge as fixed facts transmitted by authorities, through treating all views as equally valid, towards evaluating claims as better or worse supported."
+  }
+ },
+ {
+  "findingId": "R5-16",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.multilingual-scholars",
+   "file": "guidance",
+   "path": "difficulties[0].response",
+   "oldText": "Discuss evidence that all novice writers face difficulties and that rejections usually concern content and fit, while acknowledging real additional costs.",
+   "newValue": "Discuss evidence that all novice writers face rejection and that many rejections concern content and fit, while acknowledging that multilingual scholars report language-related reviewer comments and real additional costs (Flowerdew, 1999; Lillis & Curry, 2010)."
+  }
+ },
+ {
+  "findingId": "R5-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "PHR",
+   "file": "domains",
+   "path": "learnerSummary",
+   "oldText": "with corpora and phrase resources",
+   "newValue": "with corpus tools (searchable collections of real academic texts) and phrase resources"
+  }
+ },
+ {
+  "findingId": "R5-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "GES",
+   "file": "domains",
+   "path": "learnerSummary",
+   "oldText": "so that you can write genres nobody has taught you.",
+   "newValue": "so that you can write new types of text that nobody has taught you."
+  }
+ },
+ {
+  "findingId": "R5-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "STA",
+   "file": "domains",
+   "path": "learnerSummary",
+   "oldText": "You will learn how to show how sure you are about a claim, how to evaluate other people's work fairly, when and how to make your own voice visible, and how to keep clear for the reader which ideas are yours and which come from your sources.",
+   "newValue": "You will learn how to show how sure you are about a claim and how to evaluate other people's work fairly. You will also learn when and how to make your own voice heard, and how to show the reader which ideas are yours and which come from your sources."
+  }
+ },
+ {
+  "findingId": "R5-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "GAI",
+   "file": "domains",
+   "path": "learnerSummary",
+   "oldText": "You will learn how generative AI tools work and where they fail, how to find out what AI use is allowed in each task, how to acknowledge and check AI use, and how to use AI to develop your English and research skills without losing your own voice.",
+   "newValue": "You will learn how generative AI tools work and where they fail, and how to find out what AI use is allowed in each task. You will also practise acknowledging and checking AI use, using AI to develop your English while keeping your own voice, and responding if a detector wrongly flags your work."
+  }
+ },
+ {
+  "findingId": "R5-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "DLW",
+   "file": "domains",
+   "path": "learnerSummary",
+   "oldText": "supported by legal authority and OSCOLA referencing.",
+   "newValue": "supported by legal authority and the referencing style your law school requires (often OSCOLA in the UK)."
+  }
+ },
+ {
+  "findingId": "R5-18",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.detection-limits",
+   "file": "topics",
+   "path": "description",
+   "oldText": "misclassify writing by non-native English writers as AI-generated at high rates",
+   "newValue": "misclassify writing by people who use English as an additional language as AI-generated at high rates"
+  }
+ },
+ {
+  "findingId": "R5-18",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "gai.detection-limits",
+   "file": "topics",
+   "path": "masteryEvidence[1]",
+   "oldText": "Summarises evidence that detectors have misclassified non-native English writing as AI-generated",
+   "newValue": "Summarises evidence that detectors have misclassified writing by users of English as an additional language as AI-generated, and the limits of that evidence"
+  }
+ },
+ {
+  "findingId": "R5-18",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "lis.accent-variation",
+   "file": "topics",
+   "path": "masteryEvidence[3]",
+   "oldText": "without equating a regional or non-native accent with low competence",
+   "newValue": "without equating a regional, second-language or unfamiliar accent with low competence"
+  }
+ },
+ {
+  "findingId": "R5-19",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "arg.counterarguments",
+   "file": "topics",
+   "path": "description",
+   "oldText": "Anticipating objections is a hallmark of mature argument and of higher-rated student essays, but learners rarely do it spontaneously.",
+   "newValue": "Anticipating objections is a feature of well-developed argument and of higher-rated student essays, but most writers, in any language, rarely do it without explicit teaching."
+  }
+ },
+ {
+  "findingId": "R5-20",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "acu.academic-literacies",
+   "file": "topics",
+   "path": "masteryEvidence[2]",
+   "oldText": "Identifies a point in their own writing where institutional conventions and their preferred identity or voice were in tension, and explains how they negotiated it",
+   "newValue": "Identifies a point in their own writing, or in a case or published account if they prefer, where institutional conventions and a writer's preferred identity or voice were in tension, and explains how the tension was or could be negotiated"
+  }
+ },
+ {
+  "findingId": "R5-21",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "coh.writer-responsibility",
+   "file": "topics",
+   "path": "name",
+   "oldText": "Reader and writer responsibility",
+   "newValue": "Making reasoning explicit for the reader"
+  }
+ },
+ {
+  "findingId": "R6-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "tst.test-formats",
+   "file": "topics",
+   "path": "description",
+   "oldText": "lecture-style listening, independent and integrated writing, and interview-based or computer-delivered speaking)",
+   "newValue": "lecture-style listening, independent writing and, in some tests only, integrated reading- or listening-into-writing or -speaking tasks, interview-based or computer-delivered speaking, and computer-adaptive item selection)"
+  }
+ },
+ {
+  "findingId": "R6-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "tst.integrated-test-tasks",
+   "file": "topics",
+   "path": "description",
+   "oldText": "(for example, a talk that challenges a reading)",
+   "newValue": "(for example, a talk that challenges or extends a reading, or several speakers' views that must be summarised together)"
+  }
+ },
+ {
+  "findingId": "R6-05",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "tst.integrated-test-tasks",
+   "file": "guidance",
+   "path": "contextNotes",
+   "oldText": "Foundation and pre-sessional learners preparing for tests with integrated tasks need this directly;",
+   "newValue": "Foundation and pre-sessional learners preparing for tests that currently include integrated tasks need this directly (major tests have both added and removed integrated tasks in recent revisions, so check the test owner's current task list before teaching task-specific strategies);"
+  }
+ },
+ {
+  "findingId": "R6-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.viva",
+   "file": "topics",
+   "path": "description",
+   "oldText": "from closed UK-style vivas with internal and external examiners to public defences with an opponent in parts of continental Europe and committee defences in North America,",
+   "newValue": "from closed UK-style vivas with internal and external examiners, whose recommendation follows the oral, to public defences in much of continental Europe that take place only after a committee has approved the written thesis, often with one or more opponents, and committee defences in North America that follow earlier proposal defences or qualifying examinations,"
+  }
+ },
+ {
+  "findingId": "R6-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.viva",
+   "file": "topics",
+   "path": "masteryEvidence[0]",
+   "oldText": "Describes the format, participants, procedures and possible outcomes of the viva or defence in their institution",
+   "newValue": "Describes the format (including online or hybrid arrangements), participants, procedures and possible outcomes of the viva or defence in their institution, and what happens afterwards, such as how required corrections are specified, made and approved"
+  }
+ },
+ {
+  "findingId": "R6-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.viva",
+   "file": "topics",
+   "path": "assessmentPrompt",
+   "oldText": "Run a ten-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation.",
+   "newValue": "Run a 15–20-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation. Follow each answer with at least one probing follow-up, including one that requires the candidate to find and use a specific passage in the thesis."
+  }
+ },
+ {
+  "findingId": "R6-06",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.viva",
+   "file": "guidance",
+   "path": "contextNotes",
+   "oldText": "Nordic and Dutch public defences with an opponent; North American committee defences;",
+   "newValue": "public defences in the Netherlands, the Nordic countries and elsewhere in continental Europe, usually held after a committee has approved the written thesis and conducted by one opponent (as in Sweden or Finland) or several committee members (as in the Netherlands); North American committee defences, preceded by proposal defences or qualifying examinations; UK outcomes that also include revise-and-resubmit or a lower award; online and hybrid vivas;"
+  }
+ },
+ {
+  "findingId": "R6-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.peer-review-reports",
+   "file": "topics",
+   "path": "masteryEvidence[4]",
+   "oldText": "Identifies the ethical obligations of reviewers, including confidentiality and declaring competing interests",
+   "newValue": "Identifies the ethical obligations of reviewers, including confidentiality (for example not sharing the manuscript or uploading it to generative AI tools unless the journal explicitly permits this), declaring competing interests and involving co-reviewers only with the editor's permission"
+  }
+ },
+ {
+  "findingId": "R6-07",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.peer-review-reports",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "including confidentiality and declaring competing interests.",
+   "newValue": "including confidentiality and declaring competing interests; journals and funders increasingly state that confidentiality rules out uploading manuscripts to generative AI tools."
+  }
+ },
+ {
+  "findingId": "R6-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dhl.evidence-based-practice",
+   "file": "topics",
+   "path": "description",
+   "oldText": "framing focused clinical questions (for example in PICO form)",
+   "newValue": "framing focused clinical questions with a framework suited to the question (for example PICO for intervention questions, or PEO or SPIDER for questions about experience)"
+  }
+ },
+ {
+  "findingId": "R6-08",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dhl.evidence-based-practice",
+   "file": "topics",
+   "path": "masteryEvidence[1]",
+   "oldText": "Turns a clinical scenario into a focused, searchable question that names population, intervention, comparison and outcome",
+   "newValue": "Turns a clinical scenario into a focused, searchable question using a framework suited to the question type (for example PICO for an intervention question, PEO or SPIDER for a question about patient experience)"
+  }
+ },
+ {
+  "findingId": "R6-09",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dhl.case-reports-care-plans",
+   "file": "topics",
+   "path": "description",
+   "oldText": "and care plans that link assessed needs to goals, interventions with rationales, and evaluation",
+   "newValue": "and care plans, usually structured by the nursing process (assessment, problem identification or diagnosis, planning, implementation, evaluation) and often by a nursing model the programme specifies, that link assessed needs to goals, interventions with rationales, and evaluation"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "grw.purposes",
+   "key": "vitae-rdf:D1"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "grw.roles-planning",
+   "key": "vitae-rdf:D1"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "grw.contribution-assessment",
+   "key": "vitae-rdf:D1"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "ess.criticality",
+   "key": "vitae-rdf:A2"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "crt.problem-solving",
+   "key": "vitae-rdf:A2"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "crt.problem-solving",
+   "key": "vitae-rdf:A3"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "mmd.multimodal-literacy",
+   "key": "vitae-rdf:D2"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.chapter-metatext",
+   "key": "vitae-rdf:D2",
+   "levels": [],
+   "contribution": "related"
+  }
+ },
+ {
+  "findingId": "R6-10",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "arg.extended-argument",
+   "key": "vitae-rdf:A3",
+   "levels": [],
+   "contribution": "related"
+  }
+ },
+ {
+  "findingId": "R6-11",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "dat.data-commentary",
+   "key": "ielts:wr1.task-achievement"
+  }
+ },
+ {
+  "findingId": "R6-11",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "sen.clarity-end-weight",
+   "key": "ielts:wr.coherence-cohesion"
+  }
+ },
+ {
+  "findingId": "R6-11",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "sta.claim-calibration",
+   "key": "ielts:wr2.task-response"
+  }
+ },
+ {
+  "findingId": "R6-11",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "phr.bundles-research-oriented",
+   "key": "ielts:wr.lexical-resource"
+  }
+ },
+ {
+  "findingId": "R6-11",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "phr.spoken-academic-formulas",
+   "key": "ielts:sp.lexical-resource",
+   "levels": [],
+   "contribution": "related"
+  }
+ },
+ {
+  "findingId": "R6-12",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "ges.reflective-writing",
+   "key": "cefr-cv:prod.writ.creative",
+   "levels": [
+    "B1",
+    "B2"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-12",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "dhl.reflective-practice",
+   "key": "cefr-cv:prod.writ.overall"
+  }
+ },
+ {
+  "findingId": "R6-12",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "dhl.reflective-practice",
+   "key": "cefr-cv:prod.writ.creative",
+   "levels": [
+    "B2",
+    "C1"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-12",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "lrn.reflective-logs",
+   "key": "cefr-cv:prod.writ.creative",
+   "levels": [
+    "B1",
+    "B2"
+   ],
+   "contribution": "related"
+  }
+ },
+ {
+  "findingId": "R6-13",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "cit.author-date-in-text",
+   "key": "cefr-cv:prod.writ.reports-essays"
+  }
+ },
+ {
+  "findingId": "R6-13",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "src.integrating-quotations",
+   "key": "cefr-cv:med.text.relaying-information",
+   "levels": [
+    "B2"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "res.abstracts",
+   "key": "cefr-cv:med.strat.streamlining-text"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.abstracts",
+   "key": "cefr-cv:med.text.processing-text",
+   "levels": [
+    "C1"
+   ],
+   "contribution": "core"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.abstracts",
+   "key": "cefr-cv:med.strat.streamlining-text",
+   "levels": [
+    "C1"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "dat.captions-labelling",
+   "key": "cefr-cv:med.text.explaining-data",
+   "levels": [
+    "B2"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "dhl.case-reports-care-plans",
+   "key": "cefr-cv:prod.writ.reports-essays",
+   "levels": [
+    "B2",
+    "C1"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "dhu.interpretive-argument",
+   "key": "cefr-cv:med.text.analysis-creative"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "dhu.interpretive-argument",
+   "key": "cefr-cv:prod.writ.reports-essays"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "dhu.interpretive-argument",
+   "key": "cefr-cv:prod.writ.reports-essays",
+   "levels": [
+    "C1",
+    "C2"
+   ],
+   "contribution": "core"
+  }
+ },
+ {
+  "findingId": "R6-14",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "dhu.interpretive-argument",
+   "key": "cefr-cv:med.text.analysis-creative",
+   "levels": [
+    "C1",
+    "C2"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "res.thesis-macrostructure",
+   "key": "cefr-cv:prag.thematic-development"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.thesis-macrostructure",
+   "key": "cefr-cv:prag.thematic-development",
+   "levels": [
+    "C1"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "res.chapter-metatext",
+   "key": "cefr-cv:prag.coherence-cohesion"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.chapter-metatext",
+   "key": "cefr-cv:prag.coherence-cohesion",
+   "levels": [
+    "C1"
+   ],
+   "contribution": "core"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "res.chapter-metatext",
+   "key": "cefr-cv:prag.thematic-development"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.chapter-metatext",
+   "key": "cefr-cv:prag.thematic-development",
+   "levels": [
+    "C1"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "res.qualitative-reporting",
+   "key": "cefr-cv:prag.thematic-development"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.qualitative-reporting",
+   "key": "cefr-cv:prag.thematic-development",
+   "levels": [
+    "C1"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-remove",
+   "topicId": "res.gap-niche",
+   "key": "cefr-cv:prod.writ.reports-essays"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "framework-add",
+   "topicId": "res.gap-niche",
+   "key": "cefr-cv:prod.writ.reports-essays",
+   "levels": [
+    "C1"
+   ],
+   "contribution": "component"
+  }
+ },
+ {
+  "findingId": "R6-15",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "pub.journal-selection",
+   "cefrStart": "B2+",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R6-16",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.introductions-cars",
+   "file": "topics",
+   "path": "description",
+   "oldText": "establishing a territory (claiming centrality, generalising, reviewing previous research), establishing a niche, and occupying it by announcing the present research, its questions, and optionally its findings, value and structure.",
+   "newValue": "establishing a territory (in Swales's 1990 model by claiming centrality, making topic generalisations and reviewing previous research; in the 2004 revision through cited topic generalisations of increasing specificity), establishing a niche (indicating a gap or adding to what is known), and presenting the present work (the 1990 'occupying the niche'), by announcing the research and its questions and, optionally, its methods, findings, value and structure."
+  }
+ },
+ {
+  "findingId": "R6-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.authorship",
+   "file": "topics",
+   "path": "description",
+   "oldText": "and how contributions are described with contributor-role taxonomies such as CRediT,",
+   "newValue": "and how contributions are described with contributor-role taxonomies such as CRediT (which record who did what but do not by themselves decide who qualifies as an author),"
+  }
+ },
+ {
+  "findingId": "R6-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.authorship",
+   "file": "guidance",
+   "path": "diagnostic.strongResponse",
+   "oldText": "Applies all the criteria and explains that data collection alone usually warrants acknowledgement rather than authorship under ICMJE, while noting field variation.",
+   "newValue": "Applies all four ICMJE criteria: notes that data acquisition can satisfy the first, so the person is acknowledged unless they are also given, and take up, the opportunity to draft or critically revise, approve the final version and accept accountability; and notes that ICMJE was written for medical journals and that other fields follow other norms."
+  }
+ },
+ {
+  "findingId": "R6-18",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "tst.cefr-entry",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "As a UK example, the Student route requires English at CEFR B2 for degree-level study, shown through an approved test or, in some cases, the sponsoring provider's own assessment (UK Visas and Immigration, 2025); these rules change and must be checked at source.",
+   "newValue": "As a UK example, at the time of writing the Student route requires English at CEFR B2 for degree-level study (B1 below degree level), shown through a Home Office-approved secure English language test or, for degree-level study at higher education providers with a track record of compliance, the provider's own assessment, with some nationality and qualification exemptions (UK Visas and Immigration, 2025). Both the requirements and the approved-test arrangements change, so they must be checked at source and visa questions referred to qualified advisers."
+  }
+ },
+ {
+  "findingId": "R6-18",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "tst.cefr-entry",
+   "file": "topics",
+   "path": "masteryEvidence[3]",
+   "oldText": "using the UK Student route as an example",
+   "newValue": "using a relevant national student-visa route (for example the UK Student route) as an example"
+  }
+ },
+ {
+  "findingId": "R6-19",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dhl.reflective-practice",
+   "file": "guidance",
+   "path": "summary",
+   "oldText": "Rolfe et al.'s (2001) What? So what? Now what? framework",
+   "newValue": "the What? So what? Now what? questions (originating with Borton and developed by Driscoll and by Rolfe et al., 2001)"
+  }
+ },
+ {
+  "findingId": "R6-19",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dhl.reflective-practice",
+   "file": "guidance",
+   "path": "contextNotes",
+   "oldText": "UG nursing, midwifery and allied health students write reflections from the first placement onwards.",
+   "newValue": "UG nursing, midwifery and allied health students write reflections from the first placement onwards; teach early that, following UK regulators' joint guidance on reflective practice, reflective accounts should be anonymised and focused on learning rather than on a detailed factual record, because they are not legally privileged."
+  }
+ },
+ {
+  "findingId": "R6-19",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "ges.reflective-writing",
+   "file": "guidance",
+   "path": "activities[1].rationale",
+   "oldText": "Applies Ryan's (2011) social semiotic account of reflective writing and its 4Rs scaffold.",
+   "newValue": "Applies Ryan's (2011) social semiotic account of reflective writing and the 4Rs scaffold she adapted from earlier work by Bain and colleagues."
+  }
+ },
+ {
+  "findingId": "R6-20",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dlw.statutes",
+   "file": "topics",
+   "path": "description",
+   "oldText": "and recognise the main approaches courts take to interpretation (literal, golden, mischief and purposive)",
+   "newValue": "and recognise both the traditional textbook approaches to interpretation (literal, golden and mischief rules) and the contextual, purposive approach that UK courts now describe as the modern method"
+  }
+ },
+ {
+  "findingId": "R6-21",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dad.artist-statement",
+   "file": "topics",
+   "path": "description",
+   "oldText": "usually written in the present tense and the first person",
+   "newValue": "usually written in the present tense, in the first person for statements the artist or designer authors but often in the third person for wall labels, catalogue entries and short bios"
+  }
+ },
+ {
+  "findingId": "R6-22",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.thesis-macrostructure",
+   "file": "topics",
+   "path": "description",
+   "oldText": "or publication-based (compilation of articles with framing chapters)",
+   "newValue": "or publication-based (compilation of articles with framing chapters, assembled during candidature or, in some systems, retrospectively as a PhD by published works), alongside practice-based and professional-doctorate variants that combine an artefact or portfolio with an exegesis or commentary"
+  }
+ },
+ {
+  "findingId": "R6-23",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.quantitative-reporting",
+   "file": "topics",
+   "path": "description",
+   "oldText": "exact p-values",
+   "newValue": "exact p-values (reported as p < .001 when very small)"
+  }
+ },
+ {
+  "findingId": "R6-23",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.methods",
+   "file": "topics",
+   "path": "description",
+   "oldText": "so writers calibrate against field exemplars and reporting guidelines.",
+   "newValue": "so writers calibrate against field exemplars and reporting guidelines (for example CONSORT, STROBE, COREQ or SRQR, collected by the EQUATOR Network)."
+  }
+ },
+ {
+  "findingId": "R6-23",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "pub.publishing-process",
+   "file": "topics",
+   "path": "description",
+   "oldText": "peer review (single-anonymous, double-anonymous, open)",
+   "newValue": "peer review (single-anonymous, double-anonymous, open or transparent, and models such as registered reports and review of preprints)"
+  }
+ },
+ {
+  "findingId": "R6-24",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.positionality-writing",
+   "file": "topics",
+   "path": "masteryEvidence[2]",
+   "oldText": "Uses first-person reference confidently and appropriately to the field",
+   "newValue": "Uses first-person reference where the field's exemplars do, consistently across reflexive passages, without retreating into third-person self-reference ('the researcher')"
+  }
+ },
+ {
+  "findingId": "R6-24",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "res.writing-productivity",
+   "file": "topics",
+   "path": "masteryEvidence[2]",
+   "oldText": "Uses at least one social structure for writing, such as a writing group, retreat or accountability partner",
+   "newValue": "Uses at least one social structure for writing, such as a writing group, retreat or accountability partner, and can show from their writing log what it changed in their output"
+  }
+ },
+ {
+  "findingId": "R6-26",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "ges.genre-families",
+   "file": "topics",
+   "path": "description",
+   "oldText": "and narrative or reflective recounts)",
+   "newValue": "narrative or reflective recounts, and empathy writing for non-specialist or professional readers)"
+  }
+ },
+ {
+  "findingId": "R1-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "sen.sentence-types",
+   "cefrStart": "A2",
+   "cefrEnd": "B2"
+  }
+ },
+ {
+  "findingId": "R1-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "rds.scanning",
+   "cefrStart": "A2",
+   "cefrEnd": "B2"
+  }
+ },
+ {
+  "findingId": "R1-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "rds.skimming",
+   "cefrStart": "A2",
+   "cefrEnd": "B2"
+  }
+ },
+ {
+  "findingId": "R1-08",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "prg.emails-to-staff",
+   "cefrStart": "A2",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R1-09",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "ess.headings",
+   "cefrStart": "B1+",
+   "cefrEnd": "B2+"
+  }
+ },
+ {
+  "findingId": "R1-09",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "sem.debate",
+   "cefrStart": "B1+",
+   "cefrEnd": "C1"
+  }
+ },
+ {
+  "findingId": "R1-10",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "acu.critical-eap",
+   "field": "name",
+   "newValue": "Making informed choices about academic conventions"
+  }
+ },
+ {
+  "findingId": "R1-13",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "wpr.task-analysis",
+   "field": "name",
+   "newValue": "Analysing assignment and exam tasks"
+  }
+ },
+ {
+  "findingId": "R1-15",
+  "change": {
+   "kind": "set-cefr",
+   "topicId": "cit.citation-functions",
+   "cefrStart": "B1+",
+   "cefrEnd": "C2"
+  }
+ },
+ {
+  "findingId": "R1-17",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dig.machine-translation",
+   "field": "name",
+   "newValue": "Translation tools in reading and drafting"
+  }
+ },
+ {
+  "findingId": "R1-19",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sen.apostrophes-hyphens-dashes",
+   "field": "name",
+   "newValue": "Punctuation and mechanics beyond the comma"
+  }
+ },
+ {
+  "findingId": "R1-27",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "sta.dialogic-positioning",
+   "field": "name",
+   "newValue": "Opening and closing space for other voices"
+  }
+ },
+ {
+  "findingId": "R1-28",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "ges.genre-concept",
+   "field": "name",
+   "newValue": "What a genre is"
+  }
+ },
+ {
+  "findingId": "R1-29",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "dss.qualitative-writing",
+   "field": "name",
+   "newValue": "Field notes, analytic memos and analysis accounts"
+  }
+ },
+ {
+  "findingId": "R1-40",
+  "change": {
+   "kind": "edit-field",
+   "topicId": "exm.open-book",
+   "field": "name",
+   "newValue": "Open-book, take-home and online time-windowed exams"
+  }
+ }
+]

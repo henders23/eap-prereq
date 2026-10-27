@@ -630,6 +630,13 @@
             "C1"
           ],
           "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.text.relaying-information",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "component"
         }
       ]
     },
@@ -1240,9 +1247,10 @@
       "domain": "Synthesis",
       "name": "Identifying gaps and tensions",
       "description": "Identify what a body of literature leaves unresolved (conflicting findings, competing interpretations, methodological limitations, under-studied populations or contexts, and untested assumptions) and express it accurately and with appropriate hedging. Gaps and tensions justify new work and give reviews and essays an argumentative direction, but a claimed gap must be grounded in the literature actually reviewed.",
-      "cefrStart": "B2+",
+      "cefrStart": "B2",
       "cefrEnd": "C2",
       "stages": [
+        "pre-sessional",
         "in-sessional-ug",
         "in-sessional-pgt",
         "pgr"
@@ -1553,7 +1561,7 @@
     {
       "topicId": "src.paraphrasing",
       "prerequisiteId": "cit.when-to-cite",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Learners must understand that paraphrased ideas still require citation"
     },
     {
@@ -1647,12 +1655,6 @@
       "reason": "Reporting verbs extend basic attribution frames with choices of act and stance"
     },
     {
-      "topicId": "src.reporting-verbs",
-      "prerequisiteId": "rds.writer-stance",
-      "strength": "soft",
-      "reason": "Selecting a verb that fits the source's commitment requires reading how strongly the source asserts its claim"
-    },
-    {
       "topicId": "src.citation-forms",
       "prerequisiteId": "src.signal-phrases",
       "strength": "hard",
@@ -1667,7 +1669,7 @@
     {
       "topicId": "src.signal-phrases",
       "prerequisiteId": "grm.reporting-structures",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Attribution frames instantiate reporting structures (verb + that-clause, according to, as X notes)"
     },
     {
@@ -1685,7 +1687,7 @@
     {
       "topicId": "src.voice-boundaries",
       "prerequisiteId": "sta.averral-attribution",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Signalling boundaries applies the distinction between claims the writer avers and claims attributed to others"
     },
     {
@@ -2551,7 +2553,7 @@
             "Record the route used and the version found"
           ],
           "intendedInsight": "Most paywalled work can be obtained legitimately with the right routes.",
-          "rationale": "Practising the routes reduces reliance on unauthorised sources and links access to version awareness.",
+          "rationale": "Practising the legitimate routes is intended to reduce reliance on unauthorised sources (an untested expectation) and links access to version awareness.",
           "citations": [
             "acrl2016"
           ]
@@ -3264,7 +3266,7 @@
           "kind": "conceptual",
           "revealedBy": "Unintended distancing from, or endorsement of, reported claims",
           "response": "Contrast verb pairs in context and ask what each implies about the writer's view, linking back to how the source itself commits to its claim.",
-          "reteachPrerequisiteId": "rds.writer-stance"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "The author discusses about the problem and emphasises on its causes.",
@@ -3377,7 +3379,7 @@
             "Write one sentence with each pattern about a source you are using"
           ],
           "intendedInsight": "Signal phrases follow a few grammatical patterns that can be learned as units.",
-          "rationale": "Learning frames as patterns reduces the blending errors common at this stage.",
+          "rationale": "Learning frames as patterns is intended to reduce the blending errors common at this stage (a practitioner proposal); Pecorari (2013) supports explicit teaching of source use, not this specific effect.",
           "citations": [
             "pecorari2013"
           ]

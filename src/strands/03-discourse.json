@@ -50,7 +50,7 @@
       "strand": "Academic Discourse",
       "name": "Stance, Metadiscourse & Evaluation",
       "summary": "This domain covers the interpersonal dimension of academic discourse: how writers and speakers signal certainty and commitment, evaluate ideas and sources, represent themselves, engage readers, and keep their own claims distinct from those they attribute to others. It draws on Hyland's models of metadiscourse and of stance and engagement and on Martin and White's appraisal framework, especially engagement, treating them as complementary lenses rather than a single taxonomy. Stance is approached as calibration and positioning grounded in evidence, not as lists of hedges to insert, and disciplinary variation is made explicit throughout.",
-      "learnerSummary": "You will learn how to show how sure you are about a claim, how to evaluate other people's work fairly, when and how to make your own voice visible, and how to keep clear for the reader which ideas are yours and which come from your sources.",
+      "learnerSummary": "You will learn how to show how sure you are about a claim and how to evaluate other people's work fairly. You will also learn when and how to make your own voice heard, and how to show the reader which ideas are yours and which come from your sources.",
       "stageEmphasis": {
         "foundation": "Foundation programmes introduce basic hedging and boosting, qualified generalisations and simple opinion language in speech and writing, linked to avoiding sweeping claims.",
         "pre-sessional": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention.",
@@ -162,7 +162,7 @@
       "strand": "Academic Discourse",
       "domain": "Cohesion & Coherence",
       "name": "Linking adverbials and connectors",
-      "description": "Use additive, adversative, causal, sequential and summative linking adverbials (in addition, however, therefore, first, overall) to make relations between sentences explicit where the reader needs them, with expert-like frequency, placement and punctuation. Learner corpora show both overuse of a small set of sentence-initial connectors and mismatches between connector and relation, so the aim is selective rather than maximal use.",
+      "description": "Use additive, adversative, causal, sequential and summative linking adverbials (in addition, however, therefore, first, overall) to make relations between sentences explicit where the reader needs them, with expert-like frequency, placement and punctuation. Learner corpora show, varying by learner group, overuse of some connectors, underuse of others, a preference for sentence-initial position and mismatches between connector and relation, so the aim is selective rather than maximal use.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "stages": [
@@ -621,7 +621,7 @@
       "type": "CONCEPTUAL",
       "strand": "Academic Discourse",
       "domain": "Cohesion & Coherence",
-      "name": "Reader and writer responsibility",
+      "name": "Making reasoning explicit for the reader",
       "description": "Understand the expectation, common in English-medium academic writing, that the writer rather than the reader is responsible for making purpose, structure and logical connections explicit, and recognise this as a convention that varies across disciplines, genres and writing traditions rather than a universal standard of good writing. The concept helps learners interpret feedback such as 'unclear' or 'make the link explicit' and decide how much to spell out for a given reader.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
@@ -638,7 +638,7 @@
         "Adjusts explicitness for different readers (expert examiner, non-specialist, peer)",
         "Discusses the concept critically, recognising variation within English and the risk of stereotyping other writing traditions"
       ],
-      "assessmentPrompt": "Give a paragraph whose main claim appears only implicitly in its last sentence and whose evidence-to-claim links are unstated. Ask how a UK marker might respond and what the learner would change, then ask whether the original could work well in another context. A strong answer revises for explicitness while recognising that the original is not illogical.",
+      "assessmentPrompt": "Give a paragraph whose main claim appears only implicitly in its last sentence and whose evidence-to-claim links are unstated. Ask how a marker in the learner's target programme might respond and what the learner would change, then ask whether the original could work well in another context. A strong answer revises for explicitness while recognising that the original is not illogical.",
       "citations": [
         "hinds1987",
         "connor2004",
@@ -670,7 +670,7 @@
       "domain": "Cohesion & Coherence",
       "name": "Signposting in spoken academic discourse",
       "description": "Use and recognise macro-markers (Let's move on to…, What I want to focus on today is…) and micro-markers (so, now, right) together with pausing and intonation to organise spoken academic discourse in lectures, presentations and seminars. Because listeners cannot scan back, explicit structural signalling carries more of the organisational load in speech than in writing.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "C1",
       "stages": [
         "foundation",
@@ -1589,10 +1589,6 @@
           "contribution": "core"
         },
         {
-          "key": "ielts:wr2.task-response",
-          "contribution": "related"
-        },
-        {
           "key": "vitae-rdf:A2",
           "contribution": "related"
         }
@@ -1660,7 +1656,7 @@
       "strand": "Academic Discourse",
       "domain": "Stance, Metadiscourse & Evaluation",
       "name": "Self-mention and authorial roles",
-      "description": "Use first-person pronouns and alternatives (I, we, the present study, this thesis) to construct authorial roles — from guide through the text and architect of its structure to recounter of procedures, opinion-holder and originator of ideas — in line with disciplinary and genre norms. Self-mention is a choice about presence and responsibility, not a matter of a blanket rule for or against 'I'.",
+      "description": "Use first-person pronouns and alternatives (I, we, the present study, this thesis) to construct authorial roles — from representative of a wider group (generic 'we') and guide through the text, through architect of its structure and recounter of procedures, to opinion-holder and originator of ideas — in line with disciplinary and genre norms. Self-mention is a choice about presence and responsibility, not a matter of a blanket rule for or against 'I'.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
       "stages": [
@@ -1671,7 +1667,7 @@
       ],
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Identifies the role a first-person pronoun plays in a sentence (guide, architect, recounter, opinion-holder, originator)",
+        "Identifies the role a first-person pronoun plays in a sentence (representative, guide, architect, recounter, opinion-holder, originator)",
         "Uses self-mention where it is conventional in their discipline and genre, and impersonal alternatives where those are",
         "Uses 'I' or 'we' to take responsibility for interpretations and contributions, not only for procedures",
         "Avoids author-'we' for a single author unless it is a field convention, and avoids inclusive 'we' that overgeneralises",
@@ -1766,7 +1762,7 @@
       "specificity": "EGAP",
       "masteryEvidence": [
         "Rewrites sweeping generalisations (everyone, always, all societies) as bounded claims appropriate to the evidence",
-        "Uses tend to, frequency adverbs and quantifiers accurately, including their grammar (tend + to-infinitive; most + plural noun without 'of')",
+        "Uses tend to, frequency adverbs and quantifiers accurately, including their grammar (tend + to-infinitive; most + plural noun without 'of' but most of + determiner + noun: most students, most of the students)",
         "States the population, context or conditions to which a generalisation applies",
         "Distinguishes a claim about a category from a claim about every member of it",
         "Moves from a set of examples to a stated general pattern"
@@ -1892,8 +1888,8 @@
       "type": "CONCEPTUAL",
       "strand": "Academic Discourse",
       "domain": "Stance, Metadiscourse & Evaluation",
-      "name": "Dialogic positioning (engagement)",
-      "description": "Position a text in relation to other voices by expanding the dialogue (entertaining possibilities, attributing views to others) or contracting it (denying, countering, concurring, pronouncing), as described in the engagement system of appraisal theory. Control of these options lets writers acknowledge alternatives while steering readers towards their own position, a pattern associated with highly rated academic argument.",
+      "name": "Opening and closing space for other voices",
+      "description": "Position a text in relation to other voices by expanding the dialogue (entertaining possibilities, attributing views to others) or contracting it (denying, countering, concurring, pronouncing, endorsing), as described in the engagement system of appraisal theory. Control of these options lets writers acknowledge alternatives while steering readers towards their own position, a pattern associated with highly rated academic argument.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
       "stages": [
@@ -1903,9 +1899,9 @@
       ],
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Classifies stance options in a text as expanding (entertain, attribute) or contracting (deny, counter, concur, pronounce)",
+        "Classifies stance options in a text as expanding (entertain, attribute) or contracting (deny, counter, concur, pronounce, endorse)",
         "Analyses how a published introduction or discussion opens and then closes dialogic space across a paragraph",
-        "Chooses between neutral attribution (X reports) and distancing (X claims) according to the writer's position",
+        "Chooses between endorsing attribution (X shows, X demonstrates), which contracts the dialogue, and acknowledging (X reports, X argues) or distancing (X claims) attribution, which keeps it open, according to the writer's position",
         "Revises a paragraph of bare assertions to acknowledge relevant alternative positions before contracting towards the writer's claim",
         "Explains how the sequence of expanding and contracting moves leads the reader to a conclusion"
       ],
@@ -1941,7 +1937,7 @@
       "domain": "Stance, Metadiscourse & Evaluation",
       "name": "Language for evaluating others' work",
       "description": "Use language that evaluates other scholars' work fairly and precisely — evaluative reporting verbs and adjectives, praise–criticism pairs and mitigated critique (While X offers…, it overlooks…; a limitation of this study is…) — so that critique is specific, justified and collegial. This language is central to literature reviews, critiques, peer review and positioning one's own research.",
-      "cefrStart": "B2+",
+      "cefrStart": "B2",
       "cefrEnd": "C2",
       "stages": [
         "pre-sessional",
@@ -2413,7 +2409,7 @@
     {
       "topicId": "fun.recommending",
       "prerequisiteId": "grm.complement-clauses",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Recommendation frames (it is recommended that, it is essential that) take that-clauses, including mandative forms"
     },
     {
@@ -2493,12 +2489,6 @@
       "prerequisiteId": "voc.academic-verbs",
       "strength": "soft",
       "reason": "Lexical hedges such as suggest, indicate and appear depend on knowing these verbs' meanings, strength and complementation"
-    },
-    {
-      "topicId": "sta.hedging",
-      "prerequisiteId": "grm.anticipatory-it",
-      "strength": "soft",
-      "reason": "Impersonal hedging frames (it seems that, it is possible that) are built on anticipatory 'it' with extraposed clauses"
     },
     {
       "topicId": "sta.claim-calibration",
@@ -2811,7 +2801,7 @@
     },
     {
       "topicId": "coh.linking-adverbials",
-      "summary": "Biber et al. describe the semantic categories of linking adverbials and show that a relatively small set accounts for most uses in academic prose. Learner-corpus studies, including Altenberg and Tapper's chapter in Granger's collection and Granger and Tyson's comparison of native and non-native student essays, report overuse of some connectors, underuse of others and sentence-initial stacking; Hinkel similarly documents L2 writers' reliance on sentence-level transitions. Teach connectors by relation and with evidence of expert frequency, aiming for fewer, better-chosen links rather than long lists of supposed equivalents.",
+      "summary": "Biber et al. describe the semantic categories of linking adverbials and show that a relatively small set accounts for most uses in academic prose. Learner-corpus studies, including Altenberg and Tapper's chapter in Granger's collection and Granger and Tyson's comparison of native and non-native student essays, report overuse of some connectors, underuse of others and sentence-initial stacking relative to first-language student essays (comparisons that measure difference from a reference corpus rather than error, so expert disciplinary writing is the better model); Hinkel similarly documents L2 writers' reliance on sentence-level transitions. Teach connectors by relation and with evidence of expert frequency, aiming for fewer, better-chosen links rather than long lists of supposed equivalents.",
       "activities": [
         {
           "title": "Frequency reality check",
@@ -3203,7 +3193,7 @@
           "kind": "developmental",
           "revealedBy": "Paragraphs that describe several solutions but never assess whether they work.",
           "response": "Show that evaluation is an expected element; ask 'did it work, and how do we know?' after each response.",
-          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Reading a reported view in a claim–counterclaim structure as the writer's own position.",
@@ -3470,7 +3460,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "'If I state my point at the start, the reader will think I am not subtle.'",
+          "pattern": "'I build up to my main point so that the conclusion has more impact.'",
           "kind": "prior-schooling",
           "revealedBy": "Main claims withheld until the conclusion or left implicit; feedback such as 'what is your argument?'.",
           "response": "Writers whose previous schooling rewarded delayed or implied conclusions can be shown the genre expectation and asked to compare effects for the target reader, without implying their earlier practice was wrong.",
@@ -3488,7 +3478,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Heavy metatext and explanations of points an expert reader would take for granted.",
           "response": "Return to the intended reader: explicitness is about the links that matter to the argument, not about everything.",
-          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
+          "reteachPrerequisiteId": "wpr.audience-purpose"
         }
       ],
       "diagnostic": {
@@ -4648,7 +4638,7 @@
           "pattern": "'This can be the reason for the decline.'",
           "kind": "L1-transfer",
           "revealedBy": "'Can' used for epistemic possibility where 'could' or 'may' is expected.",
-          "response": "Writers whose other languages use one modal for both ability and possibility need explicit contrast between dynamic 'can' and epistemic 'may', 'might' and 'could'.",
+          "response": "Writers whose other languages use one modal for both ability and possibility need to see that 'can' expresses general possibility (This can be problematic) but not, in positive statements, an inference about a specific case, where 'may', 'might' or 'could' is used (This could be the reason).",
           "reteachPrerequisiteId": "grm.epistemic-modality"
         }
       ],
@@ -4949,7 +4939,7 @@
     },
     {
       "topicId": "sta.engagement-markers",
-      "summary": "Hyland's stance-and-engagement model identifies reader pronouns, directives, questions, appeals to shared knowledge and personal asides as ways writers acknowledge and position readers, with distributions varying across disciplines. His study of addressee features in research articles develops this account, and Chang and Swales discuss informal elements such as direct questions and imperatives as both risks and opportunities for advanced L2 writers. Teach engagement as calibrated to readership through comparative genre analysis rather than through rules.",
+      "summary": "Hyland's stance-and-engagement model identifies reader pronouns, directives, questions, appeals to shared knowledge and personal asides as ways writers acknowledge and position readers, with distributions varying across disciplines. His study of addressee features in research articles develops this account, and Chang and Swales discuss informal elements such as direct questions and imperatives as both risks and opportunities for advanced L2 writers. Teach engagement as calibrated to readership through comparative genre analysis rather than through rules. Note that Hyland's 'engagement' (reader-oriented features) differs from 'engagement' in Martin and White's appraisal framework (dialogic positioning; see sta.dialogic-positioning).",
       "activities": [
         {
           "title": "Textbook versus article",
@@ -5088,7 +5078,7 @@
     },
     {
       "topicId": "sta.averral-attribution",
-      "summary": "The distinction between averred and attributed propositions, developed by Hunston in Hunston and Thompson's collection, underpins both critical reading and transparent source use: readers assume unattributed statements are the writer's own. Thompson and Ye show how the choice of reporting verb signals whether the writer accepts an attributed proposition, and Hyland documents how disciplines differ in attribution practices. Teach the concept explicitly before reporting-verb lists, using colour-coding of authentic and student texts.",
+      "summary": "The distinction between averred and attributed propositions, introduced by Sinclair and developed by Hunston in Hunston and Thompson's collection, underpins both critical reading and transparent source use: readers assume unattributed statements are the writer's own. Thompson and Ye show how the choice of reporting verb signals whether the writer accepts an attributed proposition, and Hyland documents how disciplines differ in attribution practices. Teach the concept explicitly before reporting-verb lists, using colour-coding of authentic and student texts.",
       "activities": [
         {
           "title": "Whose voice?",
@@ -5321,9 +5311,9 @@
       "difficulties": [
         {
           "pattern": "'Who am I to criticise a published professor?'",
-          "kind": "prior-schooling",
+          "kind": "affective",
           "revealedBy": "Literature reviews that summarise without evaluation; feedback asking for critical engagement.",
-          "response": "Show that critique is an expected scholarly practice and model respectful evaluative language; start with evaluating the fit of a study to the learner's own question.",
+          "response": "Show that critique is an expected scholarly practice and model respectful evaluative language; start with evaluating the fit of a study to the learner's own question. This hesitation is common among novice writers of every background, including first-language English undergraduates, so do not treat it as a marker of particular educational systems.",
           "reteachPrerequisiteId": null
         },
         {
@@ -5542,9 +5532,9 @@
         },
         {
           "pattern": "Missing a lecturer's sceptical or ironic stance.",
-          "kind": "L1-transfer",
+          "kind": "developmental",
           "revealedBy": "Notes that record a view the lecturer was signalling doubt about; confusion when the lecturer later rejects it.",
-          "response": "Listeners whose other languages signal stance mainly through particles or word choice rather than intonation benefit from focused listening to prosodic stance cues.",
+          "response": "Recognising irony and scepticism from the voice is demanding for most L2 listeners and depends on cultural familiarity; focused listening to prosodic stance cues helps, particularly for listeners whose other languages carry such meanings mainly through particles or word choice.",
           "reteachPrerequisiteId": null
         }
       ],

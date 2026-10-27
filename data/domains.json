@@ -158,7 +158,7 @@
       "strand": "Academic Language",
       "name": "Phraseology & Formulaic Language",
       "summary": "Phraseology & Formulaic Language treats multi-word units — collocations, lexical bundles, spoken formulas and fixed expressions — as core carriers of academic meaning rather than decorative extras. Corpus research shows that expert academic writing and speech rely heavily on recurrent combinations whose functions differ (research-, text- and stance-oriented) and vary by discipline, and that L2 and novice writers tend to underuse, misuse or overuse them. The domain also develops strategies (corpus consultation, critical use of phrase resources) so that learners can verify phraseology independently, while guarding against formulaic, template-driven text.",
-      "learnerSummary": "You will learn to notice and use the word combinations that academic writers and lecturers rely on, and to check combinations yourself with corpora and phrase resources without filling your writing with stock phrases.",
+      "learnerSummary": "You will learn to notice and use the word combinations that academic writers and lecturers rely on, and to check combinations yourself with corpus tools (searchable collections of real academic texts) and phrase resources without filling your writing with stock phrases.",
       "stageEmphasis": {
         "foundation": "Build the habit of noticing and recording combinations, with frequent academic collocations and text-organising bundles from course materials.",
         "pre-sessional": "Extend collocational range, introduce research- and stance-oriented bundles linked to calibration, and train learners in collocation dictionaries, simple corpus searches and critical phrasebank use.",
@@ -266,7 +266,7 @@
       "strand": "Academic Discourse",
       "name": "Stance, Metadiscourse & Evaluation",
       "summary": "This domain covers the interpersonal dimension of academic discourse: how writers and speakers signal certainty and commitment, evaluate ideas and sources, represent themselves, engage readers, and keep their own claims distinct from those they attribute to others. It draws on Hyland's models of metadiscourse and of stance and engagement and on Martin and White's appraisal framework, especially engagement, treating them as complementary lenses rather than a single taxonomy. Stance is approached as calibration and positioning grounded in evidence, not as lists of hedges to insert, and disciplinary variation is made explicit throughout.",
-      "learnerSummary": "You will learn how to show how sure you are about a claim, how to evaluate other people's work fairly, when and how to make your own voice visible, and how to keep clear for the reader which ideas are yours and which come from your sources.",
+      "learnerSummary": "You will learn how to show how sure you are about a claim and how to evaluate other people's work fairly. You will also learn when and how to make your own voice heard, and how to show the reader which ideas are yours and which come from your sources.",
       "stageEmphasis": {
         "foundation": "Foundation programmes introduce basic hedging and boosting, qualified generalisations and simple opinion language in speech and writing, linked to avoiding sweeping claims.",
         "pre-sessional": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention.",
@@ -670,7 +670,7 @@
       "strand": "Sources & Academic Integrity",
       "name": "Academic Integrity",
       "summary": "Academic integrity is taught here as values and practices rather than a list of offences. The domain moves from shared values and an informed understanding of plagiarism (including the developmental status of patchwriting and the contested role of intention) to collusion, contract cheating, reuse of one's own work and research integrity, and to the procedural knowledge learners need: interpreting similarity reports, navigating policies and processes, and managing pressure without shortcuts. Rules differ between institutions and modules, so teaching centres on locating and reading the rules that apply, and similarity scores are never treated as verdicts.",
-      "learnerSummary": "You will learn what academic integrity means in practice, how to avoid plagiarism, collusion and other misconduct, what similarity reports do and do not show, and where to get help when deadlines and pressure build up.",
+      "learnerSummary": "You will learn what academic integrity means in practice, how to avoid plagiarism, collusion and other misconduct, what similarity reports do and do not show, where to get help when deadlines and pressure build up, and what your rights are if questions are ever raised about your work.",
       "stageEmphasis": {
         "foundation": "Values, a clear and non-threatening understanding of plagiarism and collusion, and where to get help, introduced early in the course.",
         "pre-sessional": "Integrity in source-based writing, similarity reports as formative tools, and the policies that will govern the degree programme.",
@@ -756,7 +756,7 @@
       "strand": "Academic Genres",
       "name": "Essay & Examination Genres",
       "summary": "This domain covers the essay, examination, review and source-based genres most often assessed in foundation, pre-sessional and taught programmes, together with the genre concepts and analytic strategies learners need to handle genres they have not been explicitly taught. Each genre topic integrates component skills from the writing, sources, argument, discourse and reading strands, and describes typical purposes, stages and language; because conventions vary by discipline, department and assignment brief, every topic stresses analysis of local exemplars, briefs and marking criteria rather than a single template. The domain draws on all three genre traditions (ESP, Sydney School and New Rhetoric) and on corpus evidence about genre families in UK student writing.",
-      "learnerSummary": "You will learn what different kinds of academic writing are for, how they are usually organised and what language they use, and how to analyse examples and assignment briefs so that you can write genres nobody has taught you.",
+      "learnerSummary": "You will learn what different kinds of academic writing are for, how they are usually organised and what language they use, and how to analyse examples and assignment briefs so that you can write new types of text that nobody has taught you.",
       "stageEmphasis": {
         "foundation": "Explanation, discussion, compare-and-contrast, problem–solution, short-answer and summary–response genres with strong scaffolding, plus the idea that texts are shaped by purpose and reader.",
         "pre-sessional": "The shift from test-style opinion essays to source-based argumentative essays, critiques, annotated bibliographies and short literature reviews, with guided analysis of target-department exemplars.",
@@ -1046,7 +1046,7 @@
       "strand": "Digital Literacy & AI",
       "name": "Generative AI Literacy",
       "summary": "Generative AI literacy is treated here as part of academic literacy: understanding how large language models generate text and why they fail; reading and applying AI policies that vary by institution, module and task; acknowledging and verifying AI use; and using AI in ways that build rather than replace learners' own language, reasoning and voice. The domain also covers the limits of AI-text detection, including documented bias against writers using English as an additional language, and privacy and intellectual-property risks. Tools and policies change quickly, so topics are framed around durable principles and verification habits rather than particular products.",
-      "learnerSummary": "You will learn how generative AI tools work and where they fail, how to find out what AI use is allowed in each task, how to acknowledge and check AI use, and how to use AI to develop your English and research skills without losing your own voice.",
+      "learnerSummary": "You will learn how generative AI tools work and where they fail, and how to find out what AI use is allowed in each task. You will also practise acknowledging and checking AI use, using AI to develop your English while keeping your own voice, and responding if a detector wrongly flags your work.",
       "stageEmphasis": {
         "foundation": "How generative AI works and fails, finding the AI rules for each task, and using AI for explanation and practice rather than to produce assessed text.",
         "pre-sessional": "Transparent, policy-compliant AI use in source-based assignments, verifying outputs and references, and keeping evidence of one's own writing process.",
@@ -1130,7 +1130,7 @@
       "strand": "Disciplinary Literacies",
       "name": "Law",
       "summary": "This domain covers the literacies of studying law in English, with a primary focus on common-law systems such as England and Wales: the register and terms of art of legal English, reading and briefing cases, reading legislation, answering problem questions and writing legal essays. Legal knowledge is constructed through authoritative texts (judgments and statutes) whose language is itself the object of analysis, so reading precision and the handling of authority are central (Bhatia, 1993; Twining & Miers, 2010). Many international law students, especially on LLM programmes, have trained in civil-law or mixed systems, which makes making the common-law conventions explicit particularly important.",
-      "learnerSummary": "You will learn how to read cases and legislation, use legal terms precisely, answer problem questions and write legal essays supported by legal authority and OSCOLA referencing.",
+      "learnerSummary": "You will learn how to read cases and legislation, use legal terms precisely, answer problem questions and write legal essays supported by legal authority and the referencing style your law school requires (often OSCOLA in the UK).",
       "stageEmphasis": {
         "foundation": "Introduce legal vocabulary, the structure of cases and the idea of precedent in law foundation programmes.",
         "pre-sessional": "On law pathways, practise reading short judgments and statutes and contrast problem questions with essays.",

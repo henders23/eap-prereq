@@ -88,7 +88,7 @@
       "strand": "Disciplinary Literacies",
       "name": "Law",
       "summary": "This domain covers the literacies of studying law in English, with a primary focus on common-law systems such as England and Wales: the register and terms of art of legal English, reading and briefing cases, reading legislation, answering problem questions and writing legal essays. Legal knowledge is constructed through authoritative texts (judgments and statutes) whose language is itself the object of analysis, so reading precision and the handling of authority are central (Bhatia, 1993; Twining & Miers, 2010). Many international law students, especially on LLM programmes, have trained in civil-law or mixed systems, which makes making the common-law conventions explicit particularly important.",
-      "learnerSummary": "You will learn how to read cases and legislation, use legal terms precisely, answer problem questions and write legal essays supported by legal authority and OSCOLA referencing.",
+      "learnerSummary": "You will learn how to read cases and legislation, use legal terms precisely, answer problem questions and write legal essays supported by legal authority and the referencing style your law school requires (often OSCOLA in the UK).",
       "stageEmphasis": {
         "foundation": "Introduce legal vocabulary, the structure of cases and the idea of precedent in law foundation programmes.",
         "pre-sessional": "On law pathways, practise reading short judgments and statutes and contrast problem questions with essays.",
@@ -206,7 +206,7 @@
       "strand": "Disciplinary Literacies",
       "domain": "Creative Arts & Design",
       "name": "Artist and design statements",
-      "description": "Write short statements, typically 50 to 300 words, that explain the concept, materials and process, and context of a work or body of practice for a specific purpose such as an exhibition label, degree show, portfolio or application. Effective statements are concrete and specific, usually written in the present tense and the first person, and connect the work to influences or ideas without inflated or unexplained theoretical language.",
+      "description": "Write short statements, typically 50 to 300 words, that explain the concept, materials and process, and context of a work or body of practice for a specific purpose such as an exhibition label, degree show, portfolio or application. Effective statements are concrete and specific, usually written in the present tense, in the first person for statements the artist or designer authors but often in the third person for wall labels, catalogue entries and short bios, and connect the work to influences or ideas without inflated or unexplained theoretical language.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "stages": [
@@ -541,7 +541,7 @@
       "strand": "Disciplinary Literacies",
       "domain": "Health & Life Sciences",
       "name": "Evidence-based practice",
-      "description": "Understand evidence-based practice as the integration of the best available research evidence with clinical expertise and the values and circumstances of the patient, not as following research alone. In academic work this means framing focused clinical questions (for example in PICO form), recognising evidence hierarchies and their limits, and writing assignments in which recommendations for practice are justified by appraised evidence, professional judgement and patient perspective.",
+      "description": "Understand evidence-based practice as the integration of the best available research evidence with clinical expertise and the values and circumstances of the patient, not as following research alone. In academic work this means framing focused clinical questions with a framework suited to the question (for example PICO for intervention questions, or PEO or SPIDER for questions about experience), recognising evidence hierarchies and their limits, and writing assignments in which recommendations for practice are justified by appraised evidence, professional judgement and patient perspective.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "stages": [
@@ -552,7 +552,7 @@
       "specificity": "ESAP",
       "masteryEvidence": [
         "Explains the components of evidence-based practice and why research evidence alone does not determine a care decision",
-        "Turns a clinical scenario into a focused, searchable question that names population, intervention, comparison and outcome",
+        "Turns a clinical scenario into a focused, searchable question using a framework suited to the question type (for example PICO for an intervention question, PEO or SPIDER for a question about patient experience)",
         "Places study designs in a conventional hierarchy of evidence and explains at least one limitation of hierarchies (for example for questions about patient experience)",
         "Justifies a recommendation in an assignment by linking it to appraised evidence, practice context and patient preference",
         "Distinguishes evidence-based statements from tradition- or authority-based ones in a clinical text"
@@ -617,12 +617,12 @@
           "contribution": "component"
         },
         {
-          "key": "cefr-cv:prod.writ.overall",
+          "key": "cefr-cv:prod.writ.creative",
           "levels": [
             "B2",
             "C1"
           ],
-          "contribution": "related"
+          "contribution": "component"
         }
       ]
     },
@@ -632,7 +632,7 @@
       "strand": "Disciplinary Literacies",
       "domain": "Health & Life Sciences",
       "name": "Case reports and care plans",
-      "description": "Produce the case-based genres of health education: oral and written case presentations that order patient information conventionally (presenting complaint, history, examination, investigations, assessment, plan), and care plans that link assessed needs to goals, interventions with rationales, and evaluation. These genres select and order information for clinical decision-making, use standard abbreviations cautiously and must respect confidentiality.",
+      "description": "Produce the case-based genres of health education: oral and written case presentations that order patient information conventionally (presenting complaint, history, examination, investigations, assessment, plan), and care plans, usually structured by the nursing process (assessment, problem identification or diagnosis, planning, implementation, evaluation) and often by a nursing model the programme specifies, that link assessed needs to goals, interventions with rationales, and evaluation. These genres select and order information for clinical decision-making, use standard abbreviations cautiously and must respect confidentiality.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "stages": [
@@ -668,6 +668,14 @@
             "C1"
           ],
           "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
         }
       ]
     },
@@ -897,7 +905,7 @@
       ],
       "frameworks": [
         {
-          "key": "cefr-cv:med.text.analysis-creative",
+          "key": "cefr-cv:prod.writ.reports-essays",
           "levels": [
             "C1",
             "C2"
@@ -905,7 +913,7 @@
           "contribution": "core"
         },
         {
-          "key": "cefr-cv:prod.writ.reports-essays",
+          "key": "cefr-cv:med.text.analysis-creative",
           "levels": [
             "C1",
             "C2"
@@ -1108,7 +1116,7 @@
       "strand": "Disciplinary Literacies",
       "domain": "Law",
       "name": "Reading legislation",
-      "description": "Navigate and interpret legislation: use its structure (long and short title, parts, sections, subsections, paragraphs, schedules, interpretation and commencement provisions) to find relevant provisions, follow cross-references and definitions (including the difference between 'means' and 'includes'), parse qualifications such as subject to, notwithstanding and unless, and recognise the main approaches courts take to interpretation (literal, golden, mischief and purposive). Statutory text is drafted for precision and comprehensiveness, so reading it requires slow, structural parsing.",
+      "description": "Navigate and interpret legislation: use its structure (long and short title, parts, sections, subsections, paragraphs, schedules, interpretation and commencement provisions) to find relevant provisions, follow cross-references and definitions (including the difference between 'means' and 'includes'), parse qualifications such as subject to, notwithstanding and unless, and recognise both the traditional textbook approaches to interpretation (literal, golden and mischief rules) and the contextual, purposive approach that UK courts now describe as the modern method. Statutory text is drafted for precision and comprehensiveness, so reading it requires slow, structural parsing.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "stages": [
@@ -1191,7 +1199,7 @@
       "strand": "Disciplinary Literacies",
       "domain": "Science, Engineering & Computing",
       "name": "The language of science",
-      "description": "Recognise how scientific English builds knowledge through technical terms organised into taxonomies, chains of interlocking definitions, nominalisation (grammatical metaphor) and high lexical density, and explain what each does for the scientific reader. Understanding these features as functional, not as obscurity, lets learners unpack dense textbook and research prose and begin to produce it.",
+      "description": "Recognise how scientific English builds knowledge through technical terms organised into taxonomies, chains of interlocking definitions, grammatical metaphor (especially nominalisation) and high lexical density, and explain what each does for the scientific reader. Understanding these features as functional, not as obscurity, lets learners unpack dense textbook and research prose and begin to produce it.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
@@ -1524,7 +1532,7 @@
       "type": "GENRE",
       "strand": "Disciplinary Literacies",
       "domain": "Social Sciences & Education",
-      "name": "Qualitative research writing",
+      "name": "Field notes, analytic memos and analysis accounts",
       "description": "Produce the texts of qualitative social research: field notes that separate observational description from reflective and analytic comment; accounts of thematic or other qualitative analysis that make analytic decisions transparent; and findings sections that organise themes around interpretive claims, select and frame participant quotations, and interpret them rather than letting them speak for themselves. Qualitative writing positions the researcher reflexively and makes claims whose scope matches the data.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
@@ -1881,7 +1889,7 @@
     {
       "topicId": "dhl.professional-communication",
       "prerequisiteId": "reg.non-specialist-audiences",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Explaining conditions and procedures to patients requires shifting from specialist to lay register"
     },
     {
@@ -2121,7 +2129,7 @@
     {
       "topicId": "dse.scientific-language",
       "prerequisiteId": "grm.nominalisation",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Grammatical metaphor in scientific discourse is realised mainly through nominalisation, so learners must recognise and form process nouns before they can analyse its scientific function"
     },
     {
@@ -2235,7 +2243,7 @@
     {
       "topicId": "dse.mathematical-writing",
       "prerequisiteId": "crt.reasoning-types",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Proofs are deductive arguments, and proof by induction or contradiction presupposes understanding of deductive inference"
     },
     {
@@ -2906,7 +2914,7 @@
     },
     {
       "topicId": "dhl.reflective-practice",
-      "summary": "Reflective writing in health draws on Schön's (1983) account of reflection-in-action and reflection-on-action and is usually scaffolded with models such as Gibbs's (1988) cycle or Rolfe et al.'s (2001) What? So what? Now what? framework. Models help, but used mechanically they produce long descriptions and superficial analysis. Ryan (2011) proposes making the language of deeper reflection explicit: shifts from past-tense report to present-tense analysis that draws on theory, and to future-oriented action. Programmes differ in the model they require and in the use of first person, so check the brief and use local exemplars.",
+      "summary": "Reflective writing in health draws on Schön's (1983) account of reflection-in-action and reflection-on-action and is usually scaffolded with models such as Gibbs's (1988) cycle or the What? So what? Now what? questions (originating with Borton and developed by Driscoll and by Rolfe et al., 2001). Models help, but used mechanically they produce long descriptions and superficial analysis. Ryan (2011) proposes making the language of deeper reflection explicit: shifts from past-tense report to present-tense analysis that draws on theory, and to future-oriented action. Programmes differ in the model they require and in the use of first person, so check the brief and use local exemplars.",
       "activities": [
         {
           "title": "Weighing the stages",
@@ -2967,7 +2975,7 @@
         "partialResponse": "Follows the stages but analysis is limited to personal feelings, or the action plan is generic.",
         "gapResponse": "Narrative account of the event with an evaluative conclusion and no analysis."
       },
-      "contextNotes": "On pre-sessional health pathways, introduce reflection as a genre and its tense and stance patterns. UG nursing, midwifery and allied health students write reflections from the first placement onwards. PGT practitioners may need help to make reflection analytical and to link it to advanced practice literature.",
+      "contextNotes": "On pre-sessional health pathways, introduce reflection as a genre and its tense and stance patterns. UG nursing, midwifery and allied health students write reflections from the first placement onwards; teach early that, following UK regulators' joint guidance on reflective practice, reflective accounts should be anonymised and focused on learning rather than on a detailed factual record, because they are not legally privileged. PGT practitioners may need help to make reflection analytical and to link it to advanced practice literature.",
       "citations": [
         "gibbs1988",
         "schon1983",

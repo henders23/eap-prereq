@@ -779,7 +779,7 @@
       "domain": "Essay Construction",
       "name": "Answering the question",
       "description": "Keep every part of an essay relevant to the question as set—its command words, focus and limits—by checking the thesis, topic sentences and conclusion against the question and cutting or reframing material that does not contribute to the answer. Irrelevance and partial answers are among the reasons markers most often give for low marks.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
         "foundation",
@@ -859,7 +859,7 @@
       "domain": "Essay Construction",
       "name": "Headings and sections",
       "description": "Judge whether headings are expected, permitted or discouraged in a given essay (practice varies by discipline, length and department) and, where they are used, write informative headings in a consistent hierarchy without letting them replace topic sentences and transitions. Reports and dissertations use headings conventionally; many essay traditions do not.",
-      "cefrStart": "B2",
+      "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
         "pre-sessional",
@@ -970,10 +970,6 @@
             "C1"
           ],
           "contribution": "component"
-        },
-        {
-          "key": "vitae-rdf:A2",
-          "contribution": "related"
         }
       ]
     },
@@ -1424,7 +1420,7 @@
       "type": "PROCEDURAL",
       "strand": "Academic Writing",
       "domain": "Writing Process",
-      "name": "Analysing assignment tasks",
+      "name": "Analysing assignment and exam tasks",
       "description": "Unpack an assignment brief or question to identify the command word(s), the topic and its limits, required sources, genre and reader, word limit and marking criteria, and turn these into a working statement of what the text must do. Task representation shapes every later writing decision, and misreading the task is a common, avoidable cause of low marks.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
@@ -1773,7 +1769,7 @@
       "strand": "Academic Writing",
       "domain": "Writing Process",
       "name": "Using the first language in composing",
-      "description": "Use the first language and other languages strategically while composing in English—for generating ideas, planning, note-making, checking meaning and solving lexical problems—while drafting the text predominantly in English and using machine translation transparently and within local rules. Plurilingual composing is a resource, but translating whole L1 drafts tends to carry over L1 structures, reduces L2 practice and can breach assessment rules.",
+      "description": "Use the first language and other languages strategically while composing in English—for generating ideas, planning, note-making, checking meaning and solving lexical problems—while drafting the text predominantly in English and using machine translation transparently and within local rules. Plurilingual composing is a resource. Evidence on drafting fully in another language and then translating is mixed: it can support content and organisation, especially at lower proficiency, but may carry over source-language structures, reduce L2 practice and, with machine translation, breach assessment rules.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
@@ -2253,12 +2249,6 @@
       "reason": "A topic sentence states the controlling idea, so the learner must first understand the paragraph as a one-idea unit"
     },
     {
-      "topicId": "par.topic-sentences",
-      "prerequisiteId": "voc.abstract-shell-nouns",
-      "strength": "soft",
-      "reason": "Controlling ideas are often framed with general and shell nouns that announce scope (two factors, this limitation, a further problem)"
-    },
-    {
       "topicId": "par.support",
       "prerequisiteId": "par.topic-sentences",
       "strength": "hard",
@@ -2317,12 +2307,6 @@
       "prerequisiteId": "fun.summarising-concluding",
       "strength": "soft",
       "reason": "Closing sentences use the language of summarising and drawing conclusions"
-    },
-    {
-      "topicId": "par.concluding-sentences",
-      "prerequisiteId": "coh.signalling-nouns",
-      "strength": "soft",
-      "reason": "Closings often encapsulate the paragraph with a demonstrative and signalling noun (this pattern, these findings)"
     },
     {
       "topicId": "par.length-division",
@@ -2385,12 +2369,6 @@
       "reason": "Ideas are generated for, and later selected against, the writer's representation of the task"
     },
     {
-      "topicId": "wpr.generating-ideas",
-      "prerequisiteId": "crt.questioning",
-      "strength": "soft",
-      "reason": "Question heuristics for extending ideas apply the habit of asking how, why, with what evidence and so what"
-    },
-    {
       "topicId": "wpr.planning-outlining",
       "prerequisiteId": "wpr.generating-ideas",
       "strength": "hard",
@@ -2451,12 +2429,6 @@
       "reason": "Adjusting writing to reader and purpose builds on the understanding that language varies with tenor, field and mode"
     },
     {
-      "topicId": "wpr.audience-purpose",
-      "prerequisiteId": "acu.academic-expectations",
-      "strength": "soft",
-      "reason": "Understanding what markers look for presupposes awareness of general expectations of independence and criticality in university study"
-    },
-    {
       "topicId": "wpr.managing-long-projects",
       "prerequisiteId": "lrn.time-management",
       "strength": "hard",
@@ -2515,6 +2487,12 @@
       "prerequisiteId": "dig.word-processing",
       "strength": "soft",
       "reason": "Consistent formatting is applied most reliably through word-processing styles and automatic numbering"
+    },
+    {
+      "topicId": "par.integrating-evidence",
+      "prerequisiteId": "cit.author-date-in-text",
+      "strength": "soft",
+      "reason": "Evidence integrated in a paragraph must carry an in-text citation placed correctly relative to the signal phrase or the borrowed content"
     }
   ],
   "guidance": [
@@ -3122,7 +3100,7 @@
         {
           "pattern": "‘A friend only improved my English, so it is still my work.’",
           "kind": "conceptual",
-          "revealedBy": "Marked differences in style between supervised and submitted writing.",
+          "revealedBy": "The learner's own account of what the helper changed; tracked changes or earlier drafts showing content-level rewriting. Style differences between supervised and submitted writing are not evidence on their own.",
           "response": "Discuss where improving language becomes changing content and authorship, using concrete examples.",
           "reteachPrerequisiteId": "int.collusion"
         },
@@ -3767,7 +3745,7 @@
         "partialResponse": "Adds evaluation, but it is generic (‘this study has limitations’) or unconnected to the argument.",
         "gapResponse": "Adds more description, or adds unsupported opinion."
       },
-      "contextNotes": "Pre-sessional programmes typically focus on evaluating sources and making a position visible. Undergraduate in-sessional work should address disciplinary forms of criticality, which differ, for example, between engineering and history (Moore, 2013). PGT writers are expected to engage critically with debates and methods.",
+      "contextNotes": "Pre-sessional programmes typically focus on evaluating sources and making a position visible. Undergraduate in-sessional work should address disciplinary forms of criticality, which differ across fields; even within the humanities, Moore (2013) found academics in history, philosophy and cultural studies holding distinct conceptions of critical thinking. PGT writers are expected to engage critically with debates and methods.",
       "citations": [
         "moore2013",
         "lancaster2014",
@@ -3936,7 +3914,7 @@
           "kind": "developmental",
           "revealedBy": "Paragraphs that cannot fulfil their opening, or have nowhere to go after it.",
           "response": "Practise scaling controlling ideas with general and shell nouns (‘two main factors’, ‘a significant limitation’) and test them with prediction.",
-          "reteachPrerequisiteId": "voc.abstract-shell-nouns"
+          "reteachPrerequisiteId": "par.paragraph-unit"
         },
         {
           "pattern": "Opening with a source (‘Smith (2019) states that…’), so that the source rather than the writer controls the paragraph.",
@@ -4151,7 +4129,7 @@
     },
     {
       "topicId": "par.concluding-sentences",
-      "summary": "Closing sentences are often where writers make the analytic move markers look for: saying what the evidence means. Present them functionally (significance, qualification, transition) rather than as a required restatement, and show that authentic paragraphs frequently end on evidence or comment without a separate closing formula (Swales & Feak, 2012). This links to Wingate's (2012) emphasis on keeping the argument visible throughout a text.",
+      "summary": "Closing sentences are often where writers make the analytic move markers look for: saying what the evidence means. Present them functionally (significance, qualification, transition) rather than as a required restatement, and use authentic paragraphs, which often end on evidence or comment without a separate closing formula (a practitioner observation; Swales and Feak (2012) supply model paragraphs for analysis). This links to Wingate's (2012) emphasis on keeping the argument visible throughout a text.",
       "activities": [
         {
           "title": "So what?",
@@ -4161,7 +4139,7 @@
             "Compare versions and choose the one that adds most"
           ],
           "intendedInsight": "The best closing sentences add interpretation, not repetition.",
-          "rationale": "Prompts learners to state the link between evidence and argument that Wingate (2012) found students often leave implicit.",
+          "rationale": "Prompts learners to state the link between evidence and argument which Wingate (2012) treats as part of developing a position through analysis of sources.",
           "citations": [
             "wingate2012argument"
           ]
@@ -4621,9 +4599,7 @@
           ],
           "intendedInsight": "Different formats reveal different weaknesses; there is no single correct planning format.",
           "rationale": "Offering formats as tools to compare supports learner choice without relying on unsupported learning-styles claims.",
-          "citations": [
-            "hyland2003writing"
-          ]
+          "citations": []
         }
       ],
       "difficulties": [
@@ -4830,7 +4806,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Lecture views reproduced without evaluation; inflated register.",
           "response": "Discuss what markers reward using criteria and exemplars, and reframe the task as offering a reasoned view to an informed reader.",
-          "reteachPrerequisiteId": "acu.academic-expectations"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -5017,7 +4993,7 @@
         {
           "pattern": "Writing the whole text in the L1, translating it with machine translation and lightly editing the output.",
           "kind": "performance",
-          "revealedBy": "Fluent but uneven text, unexpected term choices, a marked gap between in-class and take-home writing.",
+          "revealedBy": "Fluent but uneven text, unexpected term choices, a gap between in-class and take-home writing (which on its own is expected, since timed in-class writing is usually weaker, and is not evidence of translation or misconduct).",
           "response": "Clarify local rules; discuss what the learner loses (practice, control of voice) and the integrity risks; show targeted uses of translation that are permitted.",
           "reteachPrerequisiteId": null
         },

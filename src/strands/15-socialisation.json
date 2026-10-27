@@ -172,7 +172,7 @@
       "strand": "Academic Socialisation & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Tacit expectations",
-      "description": "Identify the unstated conventions behind university tasks and feedback, such as what tutors mean by 'argument', 'structure', 'critical' or 'too descriptive', how criteria are applied in practice, and which behaviours are valued but not taught, and use questioning, exemplars and feedback to make them explicit. Tacit expectations disadvantage students whose prior schooling did not share them, so surfacing them is a matter of equity as well as skill.",
+      "description": "Identify the unstated conventions behind university tasks and feedback, such as what tutors mean by 'argument', 'structure', 'critical' or 'too descriptive', how criteria are applied in practice, and which behaviours are valued but not taught, and use questioning, exemplars and feedback to make them explicit. Tacit expectations disadvantage students whose prior schooling or family experience did not share them, including first-generation, mature and returning students as well as those new to the national system, so surfacing them is a matter of equity as well as skill.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
@@ -295,7 +295,7 @@
       "masteryEvidence": [
         "Distinguishes the study skills, academic socialisation and academic literacies models and shows how each would explain the same writing difficulty",
         "Analyses a feedback exchange in terms of differing tutor and student interpretations of what the task required",
-        "Identifies a point in their own writing where institutional conventions and their preferred identity or voice were in tension, and explains how they negotiated it",
+        "Identifies a point in their own writing, or in a case or published account if they prefer, where institutional conventions and a writer's preferred identity or voice were in tension, and explains how the tension was or could be negotiated",
         "Explains why the perspective treats conventions as negotiable while acknowledging the real consequences of not meeting them"
       ],
       "assessmentPrompt": "Present a short case: a student is repeatedly told both to 'use your own voice' and to 'support every claim with sources'. Ask the learner to explain the student's difficulty first from a study-skills and then from an academic literacies perspective. Check whether the second explanation addresses contested expectations, identity and institutional responsibility, not only skill gaps.",
@@ -398,7 +398,7 @@
       "type": "CONCEPTUAL",
       "strand": "Academic Socialisation & Communication",
       "domain": "Academic Culture & Expectations",
-      "name": "Critical perspectives on EAP",
+      "name": "Making informed choices about academic conventions",
       "description": "Examine whose norms EAP teaches, whose interests they serve and how they might be questioned or negotiated, including native-speaker standards, the dominance of English in scholarship and the pragmatic aim of fitting students to existing demands, and identify where learners can exercise informed choice or seek change. A critical perspective supports agency without pretending that conventions carry no consequences.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
@@ -485,7 +485,7 @@
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Politeness and face in academic interaction",
       "description": "Analyse student–staff and peer interaction in terms of face, social distance, relative power and the size of an imposition, and choose linguistic strategies (mitigation, indirectness, acknowledging the other's time and autonomy) accordingly. Politeness norms depend on context and vary across institutions and individuals, so the aim is informed choice rather than a single formula.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "C1",
       "stages": [
         "foundation",
@@ -534,7 +534,7 @@
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Making requests",
       "description": "Make academic requests (for extensions, meetings, references, clarification, feedback or resources) in writing and speech that state clearly what is wanted, give a relevant reason, and are mitigated in proportion to the imposition. Clarity of purpose and appropriate mitigation together determine whether a request is understood and granted, and some requests must go through formal procedures rather than personal appeal.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "C1",
       "stages": [
         "foundation",
@@ -585,7 +585,7 @@
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Emails to academic staff",
       "description": "Write emails to lecturers, supervisors and professional services staff with an informative subject line, an appropriate greeting and form of address, an early statement of purpose, sufficient context, a clear request or question, and a suitable closing and signature with identifying details. Email is often the first and most frequent written contact with staff, and its form shapes perceptions of the writer.",
-      "cefrStart": "B1",
+      "cefrStart": "A2",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -925,12 +925,6 @@
       "prerequisiteId": "voc.command-words",
       "strength": "soft",
       "reason": "Much tacit expectation is carried by task and feedback vocabulary (analyse, evaluate, critically discuss); knowing their dictionary meanings lets learners notice where local usage goes beyond them"
-    },
-    {
-      "topicId": "acu.discourse-communities",
-      "prerequisiteId": "acu.university-structures",
-      "strength": "soft",
-      "reason": "Learners usually first meet disciplines as administrative units (schools, departments, programmes) before reconceptualising them as communities with shared goals, genres and lexis"
     },
     {
       "topicId": "acu.disciplinary-knowledge",

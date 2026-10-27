@@ -129,7 +129,7 @@ for (const entry of changes) {
         else if (fileKind === 'guidance') target = topicFile.get(c.topicId)?.data.guidance.find((g) => g.topicId === c.topicId);
         else target = topicFile.get(c.topicId)?.data.topics.find((t) => t.id === c.topicId);
         if (!target) { skip(c, `target not found for ${fileKind} ${c.topicId ?? c.domainCode}`); break; }
-        const { parent, key } = resolvePath(target, c.path);
+        const { parent, key } = resolvePath(target, c.path ?? c.field);
         if (parent == null || !(key in parent)) { skip(c, `path ${c.path} not found on ${c.topicId}`); break; }
         const current = parent[key];
         if (typeof current !== 'string') { skip(c, `path ${c.path} on ${c.topicId} is not text`); break; }

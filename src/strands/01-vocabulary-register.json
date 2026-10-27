@@ -6,7 +6,7 @@
       "strand": "Academic Language",
       "name": "Phraseology & Formulaic Language",
       "summary": "Phraseology & Formulaic Language treats multi-word units — collocations, lexical bundles, spoken formulas and fixed expressions — as core carriers of academic meaning rather than decorative extras. Corpus research shows that expert academic writing and speech rely heavily on recurrent combinations whose functions differ (research-, text- and stance-oriented) and vary by discipline, and that L2 and novice writers tend to underuse, misuse or overuse them. The domain also develops strategies (corpus consultation, critical use of phrase resources) so that learners can verify phraseology independently, while guarding against formulaic, template-driven text.",
-      "learnerSummary": "You will learn to notice and use the word combinations that academic writers and lecturers rely on, and to check combinations yourself with corpora and phrase resources without filling your writing with stock phrases.",
+      "learnerSummary": "You will learn to notice and use the word combinations that academic writers and lecturers rely on, and to check combinations yourself with corpus tools (searchable collections of real academic texts) and phrase resources without filling your writing with stock phrases.",
       "stageEmphasis": {
         "foundation": "Build the habit of noticing and recording combinations, with frequent academic collocations and text-organising bundles from course materials.",
         "pre-sessional": "Extend collocational range, introduce research- and stance-oriented bundles linked to calibration, and train learners in collocation dictionaries, simple corpus searches and critical phrasebank use.",
@@ -208,7 +208,7 @@
       "strand": "Academic Language",
       "domain": "Phraseology & Formulaic Language",
       "name": "Research-oriented lexical bundles",
-      "description": "Recognise and use research-oriented lexical bundles — recurrent word sequences that structure content about the research world, such as location, procedure, quantification and description ('the extent to which', 'in the case of', 'the nature of the', 'at the same time', 'on the basis of') — together with their typical grammatical continuations. These bundles are frequent in expert writing, vary by discipline and help writers express relations between concepts economically.",
+      "description": "Recognise and use research-oriented lexical bundles — recurrent word sequences that structure content about the research world, such as location, procedure, quantification, description and topic ('the extent to which', 'the role of the', 'the nature of the', 'at the same time', 'a wide range of') — together with their typical grammatical continuations. These bundles are frequent in expert writing, vary by discipline and help writers express relations between concepts economically.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "stages": [
@@ -224,7 +224,7 @@
         "Uses several research-oriented bundles accurately in own writing",
         "Identifies which bundles are frequent in texts from their own discipline"
       ],
-      "assessmentPrompt": "Give five bundles ('the extent to which', 'in the case of', 'the nature of the', 'on the basis of', 'the relationship between') and ask for one sentence with each about the learner's field. Check grammatical completion (e.g. 'the extent to which X affects Y', not 'the extent to which of X') and that each bundle performs a sensible function.",
+      "assessmentPrompt": "Give five bundles ('the extent to which', 'the role of the', 'the nature of the', 'a wide range of', 'the relationship between') and ask for one sentence with each about the learner's field. Check grammatical completion (e.g. 'the extent to which X affects Y', not 'the extent to which of X') and that each bundle performs a sensible function.",
       "citations": [
         "hyland2008bundles",
         "cortes2004",
@@ -237,10 +237,6 @@
             "C1"
           ],
           "contribution": "component"
-        },
-        {
-          "key": "ielts:wr.lexical-resource",
-          "contribution": "related"
         }
       ]
     },
@@ -250,7 +246,7 @@
       "strand": "Academic Language",
       "domain": "Phraseology & Formulaic Language",
       "name": "Text-oriented lexical bundles",
-      "description": "Use text-oriented bundles that organise discourse and signal relations between ideas — transition ('on the other hand', 'in addition to the'), result ('as a result of'), structuring ('in the next section') and framing ('in terms of the', 'with respect to the') — with accurate meaning and grammar and without overuse. These bundles support cohesion and help readers navigate a text.",
+      "description": "Use text-oriented bundles that organise discourse and signal relations between ideas — transition ('on the other hand', 'in addition to the'), result ('as a result of'), structuring ('in the next section') and framing ('in terms of the', 'with respect to the', 'in the case of', 'on the basis of') — with accurate meaning and grammar and without overuse. These bundles support cohesion and help readers navigate a text.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
@@ -369,6 +365,10 @@
           "levels": [
             "B2"
           ],
+          "contribution": "related"
+        },
+        {
+          "key": "ielts:sp.lexical-resource",
           "contribution": "related"
         }
       ]
@@ -1047,7 +1047,7 @@
       "strand": "Academic Language",
       "domain": "Academic Vocabulary",
       "name": "Word families and derivational morphology",
-      "description": "Recognise and produce the word-class members of a word family (analyse, analysis, analyst, analytical, analytically) and choose the form a sentence slot requires. Control of derivational morphology multiplies the value of each word learned and prevents a frequent class of errors in academic writing, where nominal and adjectival forms predominate.",
+      "description": "Recognise and produce the word-class members of a word family (analyse, analysis, analyst, analytical, analytically), including members related by conversion with no affix (a study / to study; an INcrease / to inCREASE, with a stress shift) and choose the form a sentence slot requires. Control of derivational morphology multiplies the value of each word learned and prevents a frequent class of errors in academic writing, where nominal and adjectival forms predominate.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
@@ -1097,7 +1097,7 @@
       "strand": "Academic Language",
       "domain": "Academic Vocabulary",
       "name": "Academic affixes and Greco-Latin roots",
-      "description": "Use common academic prefixes (inter-, multi-, sub-, pre-, re-, non-), suffixes (-tion, -ity, -ise/-ize, -ology, -al) and Greco-Latin roots (bio-, geo-, -graph-, -cracy) to infer and remember the meanings of unfamiliar words, while checking inferences, because word parts can mislead (e.g. 'inflammable', 'discursive').",
+      "description": "Use common academic prefixes (inter-, multi-, sub-, pre-, re-, non-), suffixes (-tion, -ity, -ise/-ize, -ology, -al) and Greco-Latin roots and combining forms (bio-, geo-, -graph-, -cracy) to infer and remember the meanings of unfamiliar words, while checking inferences, because word parts can mislead (e.g. 'inflammable', 'discursive').",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
@@ -1113,7 +1113,7 @@
         "Identifies cases where word-part analysis would mislead",
         "Uses word parts as memory links when learning new words"
       ],
-      "assessmentPrompt": "Give six unfamiliar words from academic texts (e.g. 'interdisciplinary', 'decentralisation', 'biodegradable', 'retrospective', plus a misleading one such as 'disinterested'). Ask the learner to segment each, propose a meaning and rate their confidence. Check segmentation, plausibility and whether they flag the misleading item for checking.",
+      "assessmentPrompt": "Give six unfamiliar words from academic texts (e.g. 'interdisciplinary', 'decentralisation', 'biodegradable', 'retrospective', plus a misleading one such as 'inflammable'). Ask the learner to segment each, propose a meaning and rate their confidence. Check segmentation, plausibility and whether they flag the misleading item for checking.",
       "citations": [
         "bauernation1993",
         "nation2013",
@@ -1325,9 +1325,10 @@
       "domain": "Academic Vocabulary",
       "name": "Sub-technical vocabulary and polysemy",
       "description": "Recognise that many general and academic words take specialised meanings in particular disciplines ('significant' in statistics, 'culture' in biology, 'power' in physics and politics, 'tissue', 'consistent', 'discourse'), and interpret and use the intended sense. Misreading such words is a hidden source of comprehension failure because learners believe they already know them.",
-      "cefrStart": "B2",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
+        "foundation",
         "pre-sessional",
         "in-sessional-ug",
         "in-sessional-pgt"
@@ -1592,7 +1593,7 @@
       "strand": "Academic Language",
       "domain": "Academic Vocabulary",
       "name": "Deliberate vocabulary learning systems",
-      "description": "Set up and maintain a system for deliberately learning selected words — paper word cards or spaced-retrieval software recording form, meaning, collocates and an example — and review by retrieval at expanding intervals. Deliberate learning efficiently establishes form–meaning links for priority vocabulary and complements the large amount of exposure needed for depth.",
+      "description": "Set up and maintain a system for deliberately learning selected words — paper word cards or spaced-retrieval software recording form, meaning, collocates and an example — and review by retrieval at spaced intervals (expanding or equal; the evidence favours spacing itself more than any particular schedule). Deliberate learning efficiently establishes form–meaning links for priority vocabulary and complements the large amount of exposure needed for depth.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
@@ -1606,7 +1607,7 @@
         "Selects words for deliberate study using frequency and relevance criteria",
         "Records each item with form, meaning, collocates and an example from own reading",
         "Practises by retrieval (recalling the word or meaning) rather than rereading lists",
-        "Schedules reviews at increasing intervals using software or a manual system",
+        "Schedules spaced reviews (for example at increasing intervals) using software or a manual system",
         "Monitors and adjusts the system, retiring known items and adding productive practice"
       ],
       "assessmentPrompt": "Ask the learner to show their vocabulary system and explain how they choose words, what they record, and how and when they review. Check for explicit selection criteria, retrieval-based practice, spacing, and information beyond a translation.",
@@ -1686,7 +1687,7 @@
         "Corrects own pattern errors (e.g. 'discuss about', 'emphasise on', 'consistent to')",
         "Recognises that related words may take different patterns ('emphasise X' but 'put emphasis on X')"
       ],
-      "assessmentPrompt": "Give ten sentences mixing pattern errors and correct uses (e.g. 'discuss about', 'contribute to', 'consistent to', 'aim at improving' versus 'aim to improve'). Ask the learner to identify and correct the errors without changing correct items, and to state the pattern for each word.",
+      "assessmentPrompt": "Give ten sentences mixing pattern errors and correct uses (e.g. 'discuss about', 'contribute to', 'consistent to', 'emphasise on', and the two acceptable patterns 'aim to improve' and 'aim at improving'). Ask the learner to identify and correct the errors without changing correct items, and to state the pattern for each word.",
       "citations": [
         "hunstonfrancis2000",
         "hunston2002",
@@ -1777,7 +1778,7 @@
         "Distinguishes commonly confused pairs in context",
         "Follows a style guide or module requirement where it specifies spelling"
       ],
-      "assessmentPrompt": "Give a 120-word paragraph mixing British and American spellings and containing three confusable-word errors. Ask the learner to make it consistently British and correct the errors. Check consistency (including -ise/-ize), accuracy, and whether they notice real-word errors a spell-checker would miss.",
+      "assessmentPrompt": "Give a 120-word paragraph mixing British and American spellings and containing three confusable-word errors. Ask the learner to make it consistently British and correct the errors. Check consistency (accepting either -ise or Oxford -ize as British if applied consistently, but treating -yze as American only), accuracy, and whether they notice real-word errors a spell-checker would miss.",
       "citations": [
         "nation2013",
         "apa2020"
@@ -2153,12 +2154,6 @@
       "reason": "Hedging, boosting and engagement are compared across fields as metadiscourse resources, so the concept gives learners categories for comparison."
     },
     {
-      "topicId": "reg.register-awareness",
-      "prerequisiteId": "acu.teaching-formats",
-      "strength": "soft",
-      "reason": "Recognising the different situations of university communication (lectures, seminars, tutorials, VLE forums) provides the situational contrasts register analysis works with."
-    },
-    {
       "topicId": "voc.lexical-coverage",
       "prerequisiteId": "voc.high-frequency-base",
       "strength": "soft",
@@ -2197,7 +2192,7 @@
     {
       "topicId": "voc.academic-verbs",
       "prerequisiteId": "voc.word-grammar-patterns",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Controlling these verbs depends on their complementation patterns (attribute X to Y, indicate that, consist of)."
     },
     {
@@ -2393,12 +2388,6 @@
       "reason": "Most command words are academic process verbs (analyse, examine, evaluate) whose general meanings are learned first."
     },
     {
-      "topicId": "voc.command-words",
-      "prerequisiteId": "voc.university-terminology",
-      "strength": "soft",
-      "reason": "Command words are met in assessment briefs alongside terms such as learning outcome and criteria, which frame their interpretation."
-    },
-    {
       "topicId": "voc.abbreviations-latin",
       "prerequisiteId": "voc.dictionary-use",
       "strength": "soft",
@@ -2471,7 +2460,7 @@
     },
     {
       "topicId": "phr.academic-collocations",
-      "summary": "Ackermann and Chen's Academic Collocation List offers a corpus-derived, expert-judged inventory of academic collocations that can serve as a syllabus starting point. Durrant and Schmitt's comparison of native and non-native writers suggests learners rely on frequent, general combinations and underuse strongly associated but less frequent ones, so teaching should extend range, not just correct errors. As with single-word lists, disciplinary relevance should be checked against field texts.",
+      "summary": "Ackermann and Chen's Academic Collocation List offers a corpus-derived, expert-judged inventory of academic collocations that can serve as a syllabus starting point. Durrant and Schmitt's comparison of writing by first-language and additional-language users of English suggests that the latter rely more on frequent, general combinations and use fewer strongly associated but less frequent ones (a comparison with first-language student writing, not with an ideal), so teaching should extend range, not just correct errors. As with single-word lists, disciplinary relevance should be checked against field texts.",
       "activities": [
         {
           "title": "Collocation grids",
@@ -2583,14 +2572,14 @@
         {
           "pattern": "Transitive and intransitive pairs confused (raise/rise).",
           "kind": "developmental",
-          "revealedBy": "'Rise a question', 'prices were raised by 5%' used to mean prices went up.",
+          "revealedBy": "'Rise a question', 'the number of students raised by 5%' used to mean the number went up.",
           "response": "Teach the pair as a contrast in verb pattern (object or no object) with academic nouns.",
           "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to correct and explain: 'In this essay I will make a research on how temperature raises crop yields.'",
-        "strongResponse": "Corrects to 'conduct/carry out research' (uncountable, no article) and checks whether 'raises' or 'increases' with the right subject is meant, explaining both collocation and countability.",
+        "task": "Ask the learner to correct and explain: 'In this essay I will make a research on why crop yields raise when temperatures are high.'",
+        "strongResponse": "Corrects to 'conduct/carry out research' (uncountable, no article) and replaces intransitive 'raise' with 'rise' (crop yields rise), explaining collocation, countability and the raise/rise contrast.",
         "partialResponse": "Corrects only one of the problems.",
         "gapResponse": "Sees no error."
       },
@@ -2604,7 +2593,7 @@
     },
     {
       "topicId": "phr.bundles-research-oriented",
-      "summary": "Hyland's functional taxonomy of bundles (research-, text- and participant-oriented) and his evidence that research-oriented bundles are especially frequent in science and engineering writing illustrate both the usefulness of bundles and their disciplinary skew. Cortes found that student writers rarely used the bundles found in published texts in their discipline, and used them differently when they did. Because bundles are often structurally incomplete (many end in 'of the'), they should be taught with their typical grammatical continuations and in context.",
+      "summary": "Hyland's functional taxonomy of bundles (research-, text- and participant-oriented) and his evidence that research-oriented bundles are especially frequent in science and engineering writing illustrate both the usefulness of bundles and their disciplinary skew. Cortes found that student writers rarely used the bundles found in published texts in their discipline, and used them differently when they did. Because bundles are often structurally incomplete (many end in 'of the'), they should be taught with their typical grammatical continuations and in context. Structurally, written academic bundles are mostly noun-phrase and prepositional-phrase based, whereas classroom speech favours verb-phrase and clause-based bundles (Biber, Conrad & Cortes, 2004), mirroring the phrasal–clausal contrast in academic grammar.",
       "activities": [
         {
           "title": "Bundles in context",
@@ -2651,8 +2640,8 @@
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to complete 'The results indicate the extent to which…' and 'On the basis of…' with content from their field.",
-        "strongResponse": "Produces grammatical, meaningful completions (a clause after 'to which', a noun phrase after 'on the basis of').",
+        "task": "Ask the learner to complete 'The results indicate the extent to which…' and 'This study examines the role of…' with content from their field.",
+        "strongResponse": "Produces grammatical, meaningful completions (a clause after 'to which', a noun phrase after 'the role of').",
         "partialResponse": "One completion is correct and the other ungrammatical.",
         "gapResponse": "Cannot complete either grammatically."
       },
@@ -2702,7 +2691,7 @@
           "pattern": "'On the other hand' used to add a point rather than introduce a contrasting alternative.",
           "kind": "overgeneralisation",
           "revealedBy": "'Pollution harms health. On the other hand, it damages crops.'",
-          "response": "Teach the paired frame 'on the one hand … on the other hand' and alternatives for addition.",
+          "response": "Teach that 'on the other hand' introduces a contrasting alternative or perspective (the paired frame with 'on the one hand' is one option, but expert writers often use 'on the other hand' alone), and offer alternatives for addition.",
           "reteachPrerequisiteId": "coh.linking-adverbials"
         },
         {
@@ -2920,7 +2909,7 @@
     },
     {
       "topicId": "phr.corpus-consultation",
-      "summary": "Boulton and Cobb's meta-analysis reports generally positive effects of data-driven learning, though effects vary with design and context. Yoon and Hirvela found ESL writers valued corpus use for checking collocation and usage but found it time-consuming at first, and Charles shows how graduate writers can build small corpora of theses in their own field to link bottom-up searches with rhetorical functions. Short, frequent, task-linked searches are likely to be more sustainable than extended tool training.",
+      "summary": "Boulton and Cobb's meta-analysis reports generally positive effects of data-driven learning, though effects vary with design and context. Yoon and Hirvela found ESL writers valued corpus use for checking collocation and usage but found it time-consuming at first, and Charles (2007) shows how concordance searches of thesis corpora can be linked to the rhetorical functions students first identify in whole texts. Short, frequent, task-linked searches are likely to be more sustainable than extended tool training.",
       "activities": [
         {
           "title": "Usage question clinic",
@@ -2945,7 +2934,7 @@
             "Search for language serving one rhetorical function (e.g. stating limitations) and compile the phrases used"
           ],
           "intendedInsight": "Discipline-specific evidence can answer questions general lists cannot.",
-          "rationale": "Charles describes graduate writers building their own corpora to explore rhetorical functions in their disciplines.",
+          "rationale": "Charles (2007) links concordance searches of thesis corpora to the rhetorical functions graduate writers identify in whole texts; students building their own discipline-specific corpora is reported in Charles's later work (2012), which should be added before this activity is attributed to it.",
           "citations": [
             "charles2007"
           ]
@@ -3096,7 +3085,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Seminar contributions delivered as if read from an essay; surprise at lecturers saying 'you', 'stuff' or 'OK, so'.",
           "response": "Use lecture and seminar transcripts to show that spoken academic registers are interactive and less formal, and position registers on a continuum.",
-          "reteachPrerequisiteId": "acu.teaching-formats"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "A memorised set of 'formal phrases' from school or test preparation is used in every text.",
@@ -3172,7 +3161,7 @@
           "pattern": "'A good academic sentence should sound elaborate and elegant.'",
           "kind": "prior-schooling",
           "revealedBy": "Ornamental clauses, rhetorical flourishes and stacked subordinate clauses in essays.",
-          "response": "Acknowledge that writing traditions value different qualities, and make explicit the preference in English-medium academic prose for information-dense, plainly organised sentences, using exemplars from the learner's field.",
+          "response": "Acknowledge that genres and teachers in every language, English included, value different qualities (school writing in English often rewards elaborate style too), and make explicit the preference in English-medium academic prose for information-dense, plainly organised sentences, using exemplars from the learner's field.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -3467,7 +3456,7 @@
     },
     {
       "topicId": "reg.vague-overgeneralised",
-      "summary": "Hinkel's comparisons of L2 and L1 student texts document frequent vague nouns, exaggeratives and overstatements in novice writing, and Aull and Lancaster find that early-stage writers use more certainty-oriented stance than advanced writers. These features usually reflect developmental reliance on general high-frequency vocabulary and a schooled sense that essays should begin with universal statements. Teaching works best by asking the reader's questions — which things? how many? where? when? — and by linking precision to the evidence a claim would need.",
+      "summary": "Hinkel's comparisons of L2 and L1 student texts document frequent vague nouns, exaggeratives and overstatements in novice writing, and Aull and Lancaster find that early-stage writers use more certainty-oriented stance than advanced writers. These features usually reflect developmental reliance on general high-frequency vocabulary and a schooled sense that essays should begin with universal statements. Teaching is likely to work best (a practitioner judgement; the cited studies are descriptive) by asking the reader's questions — which things? how many? where? when? — and by linking precision to the evidence a claim would need.",
       "activities": [
         {
           "title": "Reader's questions",
@@ -3879,7 +3868,7 @@
     },
     {
       "topicId": "voc.word-families-morphology",
-      "summary": "Bauer and Nation's word-family levels show that a limited set of regular, frequent affixes accounts for most family relationships, so teaching these explicitly is efficient. Learners often know a word's meaning without knowing its derivatives, so recognising and producing forms should be practised separately. Hinkel identifies word-form errors as common in L2 academic writing; linking forms to sentence slots makes the grammatical dimension explicit.",
+      "summary": "Bauer and Nation's word-family levels rank affixes by frequency, regularity and productivity, implying that a limited set of regular, frequent affixes is the efficient place to start explicit teaching. Learners often know a word's meaning without knowing its derivatives, so recognising and producing forms should be practised separately. Hinkel identifies word-form errors as common in L2 academic writing; linking forms to sentence slots makes the grammatical dimension explicit.",
       "activities": [
         {
           "title": "Word family tables",
@@ -3889,7 +3878,7 @@
             "Write sentences using two different forms of each word"
           ],
           "intendedInsight": "One word learned well can yield several usable forms.",
-          "rationale": "Bauer and Nation's framework shows that regular affixation makes word families learnable as sets.",
+          "rationale": "Bauer and Nation's framework assumes that once regular affixes are known, word families can be learned as sets.",
           "citations": [
             "bauernation1993"
           ]
@@ -3926,7 +3915,7 @@
         {
           "pattern": "Non-existent family members coined by analogy.",
           "kind": "overgeneralisation",
-          "revealedBy": "Forms such as 'analysation' or 'criticalness'.",
+          "revealedBy": "Forms such as 'analysation' or 'investigatement'.",
           "response": "Show that families have gaps and teach checking in a learner dictionary.",
           "reteachPrerequisiteId": null
         }
@@ -4009,7 +3998,7 @@
     },
     {
       "topicId": "voc.core-academic-vocabulary",
-      "summary": "Coxhead's AWL (570 word families beyond the General Service List) and Gardner and Davies's lemma-based AVL both identify vocabulary with broad academic range and each covers a meaningful share of academic text. Hyland and Tse argued that AWL items differ in frequency, meaning and collocation across disciplines, and Durrant found substantial disciplinary variation in how relevant AVL items are to student writing. Lists are therefore best used as a menu for selection, cross-checked against the learner's field, and taught with collocation and grammar rather than as isolated definitions.",
+      "summary": "Coxhead's AWL (570 word families beyond the General Service List) and Gardner and Davies's lemma-based AVL both identify vocabulary with broad academic range and each covers a meaningful share of academic text (about 10% of Coxhead's Academic Corpus for the AWL and about 14% of academic text for the AVL, figures not directly comparable because they use different units and corpora). Hyland and Tse argued that AWL items differ in frequency, meaning and collocation across disciplines, and Durrant found substantial disciplinary variation in how relevant AVL items are to student writing. Lists are therefore best used as a menu for selection, cross-checked against the learner's field, and taught with collocation and grammar rather than as isolated definitions.",
       "activities": [
         {
           "title": "List meets discipline",
@@ -4084,7 +4073,7 @@
     },
     {
       "topicId": "voc.academic-verbs",
-      "summary": "Hinkel recommends explicit teaching of a core set of academic verbs with their patterns because L2 writers tend to rely on a narrow range of general verbs. Corpus grammar shows that complementation is verb-specific, so patterns must be learned with each verb. The strength of commitment a verb conveys should be taught alongside its meaning, linking this topic to hedging and to reporting verbs.",
+      "summary": "Hinkel recommends explicit teaching of a core set of academic verbs with their patterns because developing writers, including the L2 writers in Hinkel's data, often rely on a narrow range of general verbs. Corpus grammar shows that complementation is verb-specific, so patterns must be learned with each verb. The strength of commitment a verb conveys should be taught alongside its meaning, linking this topic to hedging and to reporting verbs.",
       "activities": [
         {
           "title": "Verb strength continuum",
@@ -4414,7 +4403,7 @@
       ],
       "diagnostic": {
         "task": "Ask the learner to explain the difference between 'method' and 'methodology', and between 'affect' and 'impact', with examples.",
-        "strongResponse": "Distinguishes procedure from rationale/study of methods, and explains grammatical and collocational differences between 'affect' (verb) and 'impact' (noun, and verb in some varieties).",
+        "strongResponse": "Distinguishes procedure from rationale/study of methods, and explains grammatical and collocational differences between 'affect' (verb) and 'impact' (mainly a noun; its verb use is common in British and American English but disliked by some editors).",
         "partialResponse": "Explains one pair accurately.",
         "gapResponse": "Treats both pairs as equivalent."
       },
@@ -4428,7 +4417,7 @@
     },
     {
       "topicId": "voc.evaluative-lexis",
-      "summary": "Hunston and Thompson's work on evaluation shows that evaluative meaning is spread across lexis and grammar, and Martin and White's Appraisal framework offers categories — appreciation of things, judgement of people, graduation of strength — that help learners organise evaluative vocabulary. Novice writers often evaluate with a narrow range of general words (good, bad, interesting) or avoid evaluation. Build graded sets organised by what is evaluated (evidence, method, argument) and always pair evaluation with reasons.",
+      "summary": "Hunston and Thompson's work on evaluation shows that evaluative meaning is spread across lexis and grammar, and Martin and White's Appraisal framework offers categories — affect (feelings), judgement of people's behaviour, appreciation of things and texts, and graduation (force: degree; focus: sharpness of category membership) — that help learners organise evaluative vocabulary. Novice writers often evaluate with a narrow range of general words (good, bad, interesting) or avoid evaluation. Build graded sets organised by what is evaluated (evidence, method, argument) and always pair evaluation with reasons.",
       "activities": [
         {
           "title": "Evaluation ladders",
@@ -4466,10 +4455,10 @@
           "reteachPrerequisiteId": "voc.precision-near-synonyms"
         },
         {
-          "pattern": "'Who am I to criticise a published expert?'",
-          "kind": "affective",
-          "revealedBy": "Purely descriptive critiques; criticism hidden or omitted.",
-          "response": "Present mitigated critique as an expected practice and model the language for it.",
+          "pattern": "Evaluative words chosen for force rather than precision ('a terrible study', 'a perfect method').",
+          "kind": "overgeneralisation",
+          "revealedBy": "Critiques that swing between unqualified praise and blanket condemnation, with no criterion named.",
+          "response": "Teach graded evaluative sets (for example limited, partial, robust, compelling) and ask learners to name the criterion behind each choice.",
           "reteachPrerequisiteId": "crt.description-analysis-evaluation"
         },
         {
@@ -4532,7 +4521,7 @@
         {
           "pattern": "'All phrasal verbs are informal.'",
           "kind": "overgeneralisation",
-          "revealedBy": "Contorted replacements ('executed the experiment', 'the sample was comprised of') and avoidance of standard verbs such as 'carry out'.",
+          "revealedBy": "Contorted replacements ('executed the experiment', 'the problem was eliminated from consideration' for 'ruled out') and avoidance of standard verbs such as 'carry out'.",
           "response": "Show corpus evidence that some multi-word verbs are normal in academic prose. Do not teach a blanket replacement list.",
           "reteachPrerequisiteId": "reg.formality-features"
         },
@@ -4706,7 +4695,7 @@
     },
     {
       "topicId": "voc.deliberate-learning-systems",
-      "summary": "Nation and Webb and Nation argue that deliberate learning with word cards or software is an efficient way to establish form–meaning links, provided it involves retrieval and spacing. Research on the testing effect (Roediger and Karpicke) and distributed practice (Cepeda et al.) explains why retrieval and expanding intervals outperform rereading. Deliberate learning should be balanced with meaning-focused input and output so that words learned on cards are also met and used in context.",
+      "summary": "Nation and Webb and Nation argue that deliberate learning with word cards or software is an efficient way to establish form–meaning links, provided it involves retrieval and spacing. Research on the testing effect (Roediger and Karpicke) and distributed practice (Cepeda et al.) explains why retrieval and spaced (distributed) review outperform massed rereading; whether expanding schedules beat equally spaced ones is not settled. Deliberate learning should be balanced with meaning-focused input and output so that words learned on cards are also met and used in context.",
       "activities": [
         {
           "title": "Build your deck",
@@ -4947,7 +4936,7 @@
           "kind": "developmental",
           "revealedBy": "Agreement errors with these nouns.",
           "response": "Teach singular/plural pairs explicitly and practise agreement.",
-          "reteachPrerequisiteId": "voc.core-academic-vocabulary"
+          "reteachPrerequisiteId": "voc.dictionary-use"
         },
         {
           "pattern": "'Data is' and 'data are' mixed within one text.",
@@ -5034,7 +5023,7 @@
         "partialResponse": "Fixes variety or confusables, not both.",
         "gapResponse": "Sees no problems."
       },
-      "contextNotes": "At foundation and pre-sessional stages, establish the habit of consistency and checking. In UG in-sessional settings, align with departmental and style-guide requirements.",
+      "contextNotes": "At foundation and pre-sessional stages, establish the habit of consistency and checking. In UG in-sessional settings, align with departmental and style-guide requirements. Persistent spelling difficulty that does not respond to teaching may reflect dyslexia or another specific learning difference in any language; refer sensitively to disability or learning-support services and allow assistive tools (spell-checkers, text-to-speech) rather than treating it as carelessness.",
       "citations": [
         "nation2013",
         "apa2020"
@@ -5149,7 +5138,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Answers that match a glossary definition but miss what this tutor expects.",
           "response": "Teach learners to read command, criteria and exemplars together and to ask when unclear.",
-          "reteachPrerequisiteId": "voc.university-terminology"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Secondary commands in multi-part questions overlooked.",

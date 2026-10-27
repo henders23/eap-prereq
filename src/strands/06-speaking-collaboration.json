@@ -95,10 +95,6 @@
       ],
       "frameworks": [
         {
-          "key": "vitae-rdf:D1",
-          "contribution": "related"
-        },
-        {
           "key": "cefr-cv:int.oral.goal-oriented-cooperation",
           "levels": [
             "B1",
@@ -144,10 +140,6 @@
             "B2"
           ],
           "contribution": "core"
-        },
-        {
-          "key": "vitae-rdf:D1",
-          "contribution": "component"
         }
       ]
     },
@@ -384,12 +376,7 @@
         "leki2001",
         "sadler1989"
       ],
-      "frameworks": [
-        {
-          "key": "vitae-rdf:D1",
-          "contribution": "related"
-        }
-      ]
+      "frameworks": []
     },
     {
       "id": "prs.purpose-audience",
@@ -677,7 +664,7 @@
       "domain": "Presentations",
       "name": "Vocal delivery",
       "description": "Control pace, volume, pausing, thought groups, prominence and intonation so that a presentation is intelligible and easy to follow, prioritising the prosodic features that most affect listeners' understanding over accent reduction. Prosody signals structure, new and contrastive information, and the speaker's engagement with the audience.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
         "foundation",
@@ -808,9 +795,10 @@
       "domain": "Presentations",
       "name": "Handling questions",
       "description": "Manage question-and-answer sessions by listening to the whole question, clarifying or reformulating it, answering concisely and relevantly, acknowledging limits honestly, and deferring or redirecting when appropriate, including when the turn is a critical comment rather than a question. Q&A is the least predictable part of a presentation and a key site for demonstrating understanding and establishing credibility.",
-      "cefrStart": "B2",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
+        "foundation",
         "pre-sessional",
         "in-sessional-ug",
         "in-sessional-pgt",
@@ -1184,7 +1172,7 @@
         "Re-enters after a failed attempt or overlap at the next opportunity",
         "Adjusts the frequency and length of their turns to the group, avoiding both prolonged silence and domination"
       ],
-      "assessmentPrompt": "Record a 10-minute student-led discussion of four to six participants and tally, for the learner, self-selected entries, invited entries, failed attempts and turn length; then ask them to explain one moment when they wanted to speak but did not. Strong learners self-select at transition points with linking moves and can name the cues they used; partial learners speak mainly when invited; a gap is near-silence or long, unlinked monologues.",
+      "assessmentPrompt": "Record a 10-minute student-led discussion of four to six participants and tally, for the learner, self-selected entries, invited entries, failed attempts and turn length; then ask them to explain one moment when they wanted to speak but did not. Strong learners self-select at transition points with linking moves and can name the cues they used; partial learners speak mainly when invited; a gap is long, unlinked monologues, or near-silence that the learner cannot explain or plan around. Interpret silence cautiously: it can reflect a deliberate choice, processing time, disability or the way the group distributes the floor, so pair the tally with the learner's own account.",
       "citations": [
         "basturkmen2003",
         "morita2004",
@@ -1669,7 +1657,7 @@
         "Organises breakout tasks by agreeing a reporter and timekeeper and recording outcomes",
         "Recovers from technical disruption by summarising what was missed and checking before continuing"
       ],
-      "assessmentPrompt": "Review a recorded 15-minute online seminar with the learner, looking at both spoken turns and chat contributions. Check for appropriate bidding, explicit addressing and yielding, purposeful chat use and recovery from disruption; a gap is a learner who contributes only in the chat or not at all, or who repeatedly talks over others because of delay.",
+      "assessmentPrompt": "Review a recorded 15-minute online seminar with the learner, looking at both spoken turns and chat contributions. Check for appropriate bidding, explicit addressing and yielding, purposeful chat use and recovery from disruption; a gap is a learner who does not contribute in any channel, or who repeatedly talks over others because of delay. Chat-only participation is a legitimate mode for some learners (for example deaf, hard-of-hearing, stammering or neurodivergent learners, or those with poor connections) and should be judged on content.",
       "citations": [
         "coe2020",
         "hampel2012"
@@ -1701,10 +1689,9 @@
       "domain": "Seminars & Discussion",
       "name": "Structured academic debate",
       "description": "Take part in structured academic debates by building a case within a time limit, anticipating and rebutting the strongest opposing arguments, conceding where necessary and responding concisely to challenges. Debate trains rapid oral argument, but its adversarial logic differs from the exploratory, idea-developing norms of most seminars, and learners need to know when each mode is appropriate.",
-      "cefrStart": "B2",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
-        "foundation",
         "pre-sessional",
         "in-sessional-ug"
       ],
@@ -1805,7 +1792,7 @@
     {
       "topicId": "grw.inclusive-collaboration",
       "prerequisiteId": "idn.elf",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Accommodating to varied accents and proficiency rests on understanding communicative effectiveness among multilingual users of English"
     },
     {
@@ -1846,12 +1833,6 @@
     },
     {
       "topicId": "grw.contribution-assessment",
-      "prerequisiteId": "grw.meetings",
-      "strength": "soft",
-      "reason": "Minutes and action-point records provide the evidence on which fair contribution judgements are based"
-    },
-    {
-      "topicId": "grw.contribution-assessment",
       "prerequisiteId": "ges.reflective-writing",
       "strength": "soft",
       "reason": "Individual accounts of one's role are often written as structured reflective commentaries"
@@ -1859,7 +1840,7 @@
     {
       "topicId": "prs.purpose-audience",
       "prerequisiteId": "reg.register-awareness",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Adapting a talk to its audience applies the idea that field, tenor and mode shape language choices"
     },
     {
@@ -1877,7 +1858,7 @@
     {
       "topicId": "prs.structure",
       "prerequisiteId": "reg.spoken-vs-written",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Designing for real-time listening requires understanding how spoken and written packaging of information differ"
     },
     {
@@ -1891,12 +1872,6 @@
       "prerequisiteId": "prs.structure",
       "strength": "hard",
       "reason": "An opening previews and frames a structure that must already be planned"
-    },
-    {
-      "topicId": "prs.openings",
-      "prerequisiteId": "sta.engagement-markers",
-      "strength": "soft",
-      "reason": "Audience engagement in openings uses resources such as inclusive pronouns, questions and appeals to shared knowledge"
     },
     {
       "topicId": "prs.signposting",
@@ -1931,7 +1906,7 @@
     {
       "topicId": "prs.explaining-visuals",
       "prerequisiteId": "dat.data-commentary",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Talking through data adapts the location–highlight–interpretation moves of data commentary to speech"
     },
     {
@@ -1973,7 +1948,7 @@
     {
       "topicId": "prs.speaking-from-notes",
       "prerequisiteId": "reg.spoken-vs-written",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "The case for prompts rather than scripts rests on the lexical density of written language being hard to process aurally"
     },
     {
@@ -2134,12 +2109,6 @@
     },
     {
       "topicId": "sem.turn-taking",
-      "prerequisiteId": "lis.multi-party-discussion",
-      "strength": "hard",
-      "reason": "Learners cannot find transition points or judge when to enter until they can track speakers, positions and turns in multi-party talk"
-    },
-    {
-      "topicId": "sem.turn-taking",
       "prerequisiteId": "prg.politeness",
       "strength": "soft",
       "reason": "Judging when interruption or overlap is acceptable draws on understanding of face and imposition"
@@ -2147,7 +2116,7 @@
     {
       "topicId": "sem.opinions",
       "prerequisiteId": "fun.explaining",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Justifying a view orally requires the language of giving reasons and rationales"
     },
     {
@@ -2317,6 +2286,36 @@
       "prerequisiteId": "arg.exploratory-adversarial",
       "strength": "soft",
       "reason": "Learners need to understand advocacy as distinct from exploratory inquiry to use debate appropriately and not transfer its norms to seminars"
+    },
+    {
+      "topicId": "sem.building-on-others",
+      "prerequisiteId": "lis.multi-party-discussion",
+      "strength": "soft",
+      "reason": "Linking to a peer's point depends on having tracked which participant said what and how contributions respond to one another in multi-party talk"
+    },
+    {
+      "topicId": "prs.explaining-visuals",
+      "prerequisiteId": "dat.describing-trends",
+      "strength": "hard",
+      "reason": "Talking an audience through a chart requires describing its pattern, magnitudes and turning points in trend language"
+    },
+    {
+      "topicId": "prs.research-presentations",
+      "prerequisiteId": "prs.delivery-voice",
+      "strength": "soft",
+      "reason": "Conference talks to international audiences depend on intelligible, well-paced delivery with key information made prominent"
+    },
+    {
+      "topicId": "prs.research-presentations",
+      "prerequisiteId": "prs.signposting",
+      "strength": "soft",
+      "reason": "Research talks carry dense content in a fixed slot, so audiences rely on explicit previews and section transitions"
+    },
+    {
+      "topicId": "prs.delivery-voice",
+      "prerequisiteId": "prn.fluency",
+      "strength": "soft",
+      "reason": "Pacing and pausing a talk so it sounds controlled rather than read or halting draws on fluency resources such as chunked planning and pausing at boundaries"
     }
   ],
   "guidance": [
@@ -2714,7 +2713,7 @@
       "summary": "Evaluative judgement depends on understanding criteria and comparing work against them (Sadler, 1989). Peer evaluation of contributions can reproduce the positioning Leki (2001) documented, in which multilingual members' contributions were undervalued. Teach criterion-referenced, evidenced evaluation and accurate self-documentation.",
       "activities": [
         {
-          "title": "Evidence-based rating",
+          "title": "Rating backed by documented contributions",
           "learnerActions": [
             "Read anonymised minutes and a version history for a group project",
             "Rate each member against the given criteria, citing evidence for each rating",
@@ -3862,7 +3861,7 @@
           "kind": "performance",
           "revealedBy": "Notes stop part-way through; the learner avoids discussing later sections.",
           "response": "Teach selective reading for seminar purposes (abstract, introduction, conclusion and the section most relevant to the questions) and plan reading time across the week.",
-          "reteachPrerequisiteId": "ntk.notes-from-reading"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3918,7 +3917,7 @@
           "kind": "performance",
           "revealedBy": "Late or abandoned entry attempts; prepared ideas are never voiced.",
           "response": "Teach short floor-claiming moves that buy formulation time ('Can I come in on that?', 'Just on that point…') and encourage an early first contribution. Also adjust task design (think time, rounds). Do not simply tell learners to 'be more confident'.",
-          "reteachPrerequisiteId": "lis.multi-party-discussion"
+          "reteachPrerequisiteId": "prg.politeness"
         },
         {
           "pattern": "Applying one rule about interruption across all settings — never interrupting, or cutting in frequently to show engagement.",
@@ -4570,7 +4569,7 @@
         "task": "Review a recorded online seminar with the learner and ask them to comment on their participation.",
         "strongResponse": "Appropriate bidding, explicit addressing and yielding, and purposeful chat use.",
         "partialResponse": "Participates but with awkward turn-taking or chat that runs separately from the discussion.",
-        "gapResponse": "Silent, or present only in the chat."
+        "gapResponse": "No contribution in any channel, and no account of what would make participation possible."
       },
       "contextNotes": "Relevant at every stage where online or hybrid teaching occurs, including pre-sessional courses delivered online and PGR supervision and research-group meetings with remote collaborators. Hybrid rooms add the challenge of including remote participants in in-room talk.",
       "citations": [

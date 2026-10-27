@@ -170,7 +170,7 @@
       "strand": "Academic Listening",
       "domain": "Lecture & Academic Listening",
       "name": "Segmenting the speech stream",
-      "description": "Identify where words begin and end in continuous speech, using stressed (strong) syllables, which in English often mark the start of content words, together with lexical knowledge, grammar and context to confirm or revise a hypothesis. Segmentation errors (hearing 'a notion' as 'an ocean') produce misrecognitions that then mislead interpretation of the rest of the utterance.",
+      "description": "Identify where words begin and end in continuous speech, using strong syllables (syllables with full, unreduced vowels, including those carrying primary stress), which in English mark the start of most content words, together with lexical knowledge, grammar and context to confirm or revise a hypothesis. Segmentation errors (hearing 'a notion' as 'an ocean') produce misrecognitions that then mislead interpretation of the rest of the utterance.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
@@ -274,7 +274,7 @@
         "Shows improved comprehension of an initially unfamiliar accent after several minutes of exposure, measured by transcription or summary accuracy",
         "Identifies specific features of a speaker's accent that caused misrecognition (for example vowel quality or stress placement) and adjusts expectations",
         "Seeks out recordings by speakers with a range of accents for independent listening",
-        "Describes accent variation among lecturers and peers without equating a regional or non-native accent with low competence",
+        "Describes accent variation among lecturers and peers without equating a regional, second-language or unfamiliar accent with low competence",
         "Uses clarification and confirmation checks when a peer's accent blocks understanding in discussion"
       ],
       "assessmentPrompt": "Play two short extracts on similar content, one by a speaker whose accent is familiar to the learner and one by a speaker whose accent is not, and ask for the key points of each. Then play a further 2 minutes by the unfamiliar speaker and ask for the key points of a new section. Check whether comprehension of the unfamiliar speaker improves with exposure and whether the learner can say what caused the initial difficulty.",
@@ -1753,7 +1753,7 @@
       "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Saying numbers, formulae and symbols aloud",
-      "description": "Say numbers and quantities, formulae, units, dates and symbols aloud accurately and intelligibly — large numbers and decimals, fractions and percentages, ranges and approximations, equations and units — following the conventions of one's discipline, and use stress to keep confusable numbers apart (thirTEEN versus THIRty). Errors with numbers in presentations and seminars can mislead listeners about findings.",
+      "description": "Say numbers and quantities, formulae, units, dates and symbols aloud accurately and intelligibly — large numbers and decimals, fractions and percentages, ranges and approximations, equations and units — following the conventions of one's discipline, and use the final syllable and stress to keep confusable numbers apart (thirTEEN versus THIRty). Errors with numbers in presentations and seminars can mislead listeners about findings.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
@@ -1765,7 +1765,7 @@
       "specificity": "EGAP",
       "masteryEvidence": [
         "Reads aloud large numbers, decimals and percentages correctly (for example 3.05 million, 0.025, 12.5%)",
-        "Distinguishes -teen and -ty numbers through stress and vowel quality, and confirms figures when misunderstanding is likely",
+        "Distinguishes -teen and -ty numbers mainly through the final syllable (/tiːn/ versus /ti/), knowing that -teen stress shifts forward before a stressed noun (FOURteen STUdents), and confirms figures when misunderstanding is likely",
         "Reads simple equations and formulae aloud using conventional wording (x squared, the square root of, is proportional to)",
         "Says units and symbols in the conventional spoken form (kilometres per hour, p less than nought point nought five)",
         "Says years, decades and ranges correctly (the 1990s, from 2010 to 2015)"
@@ -1912,7 +1912,7 @@
     {
       "topicId": "lis.main-points",
       "prerequisiteId": "lis.relevance-markers",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Selecting central content in real time relies on the speaker's own signals of what matters"
     },
     {
@@ -1960,7 +1960,7 @@
     {
       "topicId": "lis.multi-party-discussion",
       "prerequisiteId": "lis.speaker-stance",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Tracking participants' positions and how contributions respond to one another requires inferring each speaker's stance"
     },
     {
@@ -2176,7 +2176,7 @@
     {
       "topicId": "prn.word-stress",
       "prerequisiteId": "voc.word-families-morphology",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Stress shift across derived forms can only be learnt once learners know the members of the word family and the suffixes that derive them"
     },
     {
@@ -2212,7 +2212,7 @@
     {
       "topicId": "prn.prominence",
       "prerequisiteId": "coh.given-new",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Placing prominence on new or contrastive information and de-accenting given information requires the given–new distinction"
     },
     {
@@ -2485,7 +2485,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Learners whose first language has fixed stress or little contrast between strong and weak syllables do not use English strong syllables as onset cues.",
+          "pattern": "Learners transfer the segmentation routines of their first language (for example syllable-based segmentation in French or mora-based segmentation in Japanese, or expectations of fixed final or penultimate stress), so English strong syllables are not used, or are misused, as onset cues.",
           "kind": "L1-transfer",
           "revealedBy": "Boundary errors cluster around words that begin with an unstressed syllable (economy, consider, analysis), which are attached to or split from neighbouring words.",
           "response": "Teach explicitly that weak-initial words are the main exception to the strong-onset tendency and therefore the main source of boundary errors; practise prefix-initial academic words (con-, de-, re-) in context, linked to word-stress work.",
@@ -2962,8 +2962,8 @@
           "reteachPrerequisiteId": "lis.lecture-discourse-markers"
         },
         {
-          "pattern": "Learners whose first language marks focus mainly through word order or particles rather than pitch prominence do not treat heavy stress or slowing as a cue to importance.",
-          "kind": "L1-transfer",
+          "pattern": "Learners attend mainly to lexical content and, especially when decoding load is high, do not use the speaker's voice (heavy stress, slowing, pausing, repetition) as a cue to importance.",
+          "kind": "developmental",
           "revealedBy": "Learners catch verbal relevance markers but miss points emphasised by voice alone.",
           "response": "Contrast the same sentence delivered with and without emphatic stress and ask what changes; link to production work on prominence so that perception and production reinforce each other.",
           "reteachPrerequisiteId": "prn.prominence"
@@ -4401,8 +4401,8 @@
       ],
       "difficulties": [
         {
-          "pattern": "Learners whose first language uses pitch mainly to distinguish words, or uses a narrower pitch range for discourse purposes, produce relatively flat English intonation.",
-          "kind": "L1-transfer",
+          "pattern": "Learners use a narrower pitch range and fewer discourse-marking pitch movements in English than proficient speakers, a tendency reported across many first-language backgrounds and linked to processing load and unfamiliarity with English tone choices.",
+          "kind": "developmental",
           "revealedBy": "Narrow pitch range; topic shifts and contrasts not signalled prosodically.",
           "response": "Practise exaggerated pitch range in controlled tasks and then reduce it; record and listen back.",
           "reteachPrerequisiteId": "prn.prominence"
@@ -4433,7 +4433,7 @@
     },
     {
       "topicId": "prn.segmental-priorities",
-      "summary": "Munro and Derwing (2006) found that errors in high-functional-load contrasts had a greater effect on comprehensibility than errors in low-functional-load contrasts. Jenkins (2000) proposed a Lingua Franca Core of features, including most consonant contrasts and vowel length, as priorities for intelligibility in lingua franca settings, while excluding features such as the dental fricatives; the core has been influential but is contested, for example over its empirical base and its treatment of word stress. Derwing and Munro (2015) summarise evidence that instruction can improve pronunciation. Prioritise individually, on the basis of what listeners actually misunderstand.",
+      "summary": "Munro and Derwing (2006) found that errors in high-functional-load contrasts had a greater effect on comprehensibility than errors in low-functional-load contrasts. Jenkins (2000) proposed a Lingua Franca Core of features, including most consonant contrasts and vowel length, as priorities for intelligibility in lingua franca settings, while excluding features such as the dental fricatives, weak forms, word stress and pitch movement (nuclear stress placement is one of the few prosodic features it retains, which supports the priority given to prominence); the core has been influential but is contested, for example over its empirical base and its treatment of word stress. Derwing and Munro (2015) summarise evidence that instruction can improve pronunciation. Prioritise individually, on the basis of what listeners actually misunderstand.",
       "activities": [
         {
           "title": "Find my priorities",
@@ -4551,7 +4551,7 @@
         "task": "Ask the learner to read a 30-second presentation opening aloud.",
         "strongResponse": "Moderate linking and weak forms; content words clear.",
         "partialResponse": "Few reductions, but intelligible.",
-        "gapResponse": "Either staccato full forms throughout or over-reduction that obscures content."
+        "gapResponse": "Listeners cannot pick out the key words, either because every syllable receives equal weight so that key words do not stand out or because over-reduction obscures content words."
       },
       "contextNotes": "Teach production after or alongside recognition. For presentation-focused PGT and PGR learners, emphasis should be on clarity of key terms and fluent formulaic phrases rather than maximal reduction.",
       "citations": [
@@ -4675,7 +4675,7 @@
           "kind": "developmental",
           "revealedBy": "Continuing with an explanation despite puzzled looks or questions.",
           "response": "Practise recognising non-understanding signals and responding with reformulation markers.",
-          "reteachPrerequisiteId": "sta.code-glosses"
+          "reteachPrerequisiteId": "prn.intelligibility"
         }
       ],
       "diagnostic": {

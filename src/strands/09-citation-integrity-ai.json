@@ -27,7 +27,7 @@
       "strand": "Digital Literacy & AI",
       "name": "Generative AI Literacy",
       "summary": "Generative AI literacy is treated here as part of academic literacy: understanding how large language models generate text and why they fail; reading and applying AI policies that vary by institution, module and task; acknowledging and verifying AI use; and using AI in ways that build rather than replace learners' own language, reasoning and voice. The domain also covers the limits of AI-text detection, including documented bias against writers using English as an additional language, and privacy and intellectual-property risks. Tools and policies change quickly, so topics are framed around durable principles and verification habits rather than particular products.",
-      "learnerSummary": "You will learn how generative AI tools work and where they fail, how to find out what AI use is allowed in each task, how to acknowledge and check AI use, and how to use AI to develop your English and research skills without losing your own voice.",
+      "learnerSummary": "You will learn how generative AI tools work and where they fail, and how to find out what AI use is allowed in each task. You will also practise acknowledging and checking AI use, using AI to develop your English while keeping your own voice, and responding if a detector wrongly flags your work.",
       "stageEmphasis": {
         "foundation": "How generative AI works and fails, finding the AI rules for each task, and using AI for explanation and practice rather than to produce assessed text.",
         "pre-sessional": "Transparent, policy-compliant AI use in source-based assignments, verifying outputs and references, and keeping evidence of one's own writing process.",
@@ -49,7 +49,7 @@
       "strand": "Sources & Academic Integrity",
       "name": "Academic Integrity",
       "summary": "Academic integrity is taught here as values and practices rather than a list of offences. The domain moves from shared values and an informed understanding of plagiarism (including the developmental status of patchwriting and the contested role of intention) to collusion, contract cheating, reuse of one's own work and research integrity, and to the procedural knowledge learners need: interpreting similarity reports, navigating policies and processes, and managing pressure without shortcuts. Rules differ between institutions and modules, so teaching centres on locating and reading the rules that apply, and similarity scores are never treated as verdicts.",
-      "learnerSummary": "You will learn what academic integrity means in practice, how to avoid plagiarism, collusion and other misconduct, what similarity reports do and do not show, and where to get help when deadlines and pressure build up.",
+      "learnerSummary": "You will learn what academic integrity means in practice, how to avoid plagiarism, collusion and other misconduct, what similarity reports do and do not show, where to get help when deadlines and pressure build up, and what your rights are if questions are ever raised about your work.",
       "stageEmphasis": {
         "foundation": "Values, a clear and non-threatening understanding of plagiarism and collusion, and where to get help, introduced early in the course.",
         "pre-sessional": "Integrity in source-based writing, similarity reports as formative tools, and the policies that will govern the degree programme.",
@@ -149,7 +149,7 @@
       "domain": "Citation & Referencing",
       "name": "Referencing systems and style guides",
       "description": "Distinguish the main families of referencing system — author–date (APA 7, Chicago author–date, Harvard variants), MLA's author–page system, numeric (IEEE, Vancouver) and note-based (Chicago notes and bibliography, OSCOLA) — and recognise that the departmental, module or journal guide, not a universal rule, decides which applies. 'Harvard' has no single authoritative edition, so learners must follow the version their institution specifies.",
-      "cefrStart": "B1+",
+      "cefrStart": "B1",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -210,13 +210,6 @@
         "thompsontribble2001"
       ],
       "frameworks": [
-        {
-          "key": "cefr-cv:prod.writ.reports-essays",
-          "levels": [
-            "B2"
-          ],
-          "contribution": "related"
-        },
         {
           "key": "acrl:value",
           "contribution": "related"
@@ -466,7 +459,7 @@
       "domain": "Citation & Referencing",
       "name": "Rhetorical functions of citation",
       "description": "Recognise and use the range of functions citations perform — attribution, exemplification, pointing to further reading, statement of use, application, evaluation, establishing links between sources, and comparing one's own findings with others' — and choose citation form and reporting language to fit the function. Using citation beyond simple attribution has been associated with more highly rated postgraduate writing.",
-      "cefrStart": "B2+",
+      "cefrStart": "B1+",
       "cefrEnd": "C2",
       "stages": [
         "in-sessional-ug",
@@ -747,8 +740,8 @@
       "strand": "Digital Literacy & AI",
       "domain": "Generative AI Literacy",
       "name": "AI, authorship and voice",
-      "description": "Consider who is the author of a text produced with AI assistance — whose ideas, reasoning and words it contains, and who is accountable for them — and maintain one's own authorial voice and stance when using AI. AI-polished text can become generic and can misrepresent a writer's actual reasoning and competence, so learners decide where assistance must stop for a task to remain their own work.",
-      "cefrStart": "B2",
+      "description": "Consider who is the author of a text produced with AI assistance — whose ideas, reasoning and words it contains, and who is accountable for them — and maintain one's own authorial voice and stance when using AI. AI-polished text can become generic and can misrepresent a writer's actual reasoning and competence, so learners decide where assistance must stop for a task to remain their own work. Where that line lies is contested: AI language polishing can also reduce the penalties multilingual writers face for non-standard English, much as proofreaders and literacy brokers do.",
+      "cefrStart": "B2+",
       "cefrEnd": "C2",
       "stages": [
         "pre-sessional",
@@ -787,7 +780,7 @@
       "strand": "Digital Literacy & AI",
       "domain": "Generative AI Literacy",
       "name": "Limits of AI detection",
-      "description": "Understand that AI-text detectors estimate the likelihood that text was machine-generated, produce both false positives and false negatives, can be evaded, and have been shown to misclassify writing by non-native English writers as AI-generated at high rates. Detector output therefore does not establish misconduct; learners protect themselves by keeping evidence of their writing process and knowing how integrity processes treat such indicators.",
+      "description": "Understand that AI-text detectors estimate the likelihood that text was machine-generated, produce both false positives and false negatives, can be evaded, and have been shown to misclassify writing by people who use English as an additional language as AI-generated at high rates. Detector output therefore does not establish misconduct; institutions remain responsible for not treating such scores as evidence, and learners benefit from knowing their rights in integrity processes and from keeping ordinary records of their writing process (notes, drafts, version history), without being expected to prove their innocence.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
@@ -800,7 +793,7 @@
       "specificity": "EGAP",
       "masteryEvidence": [
         "Explains in plain terms why detectors that rely on measures of predictability can flag simple or formulaic human writing",
-        "Summarises evidence that detectors have misclassified non-native English writing as AI-generated",
+        "Summarises evidence that detectors have misclassified writing by users of English as an additional language as AI-generated, and the limits of that evidence",
         "Explains why a detector score alone cannot establish misconduct",
         "Keeps evidence of their own writing process (notes, drafts, version history) for assessed work",
         "Rejects 'humanising' or paraphrasing tools as a response to detectors and explains the integrity and quality risks"
@@ -1143,7 +1136,7 @@
       "strand": "Sources & Academic Integrity",
       "domain": "Academic Integrity",
       "name": "Integrity policies and processes",
-      "description": "Locate and interpret the integrity regulations that apply: definitions of misconduct, module-level rules, procedures for suspected cases, possible outcomes, and rights to support, representation and appeal. Knowing the process reduces fear, helps learners respond appropriately and in time if concerns are raised, and makes clear that policies and terminology vary between institutions and modules.",
+      "description": "Locate and interpret the integrity regulations that apply: definitions of misconduct, module-level rules, procedures for suspected cases, possible outcomes, and rights to support, representation and appeal. Knowing the process reduces fear, helps learners respond appropriately and in time if concerns are raised, and makes clear that policies and terminology vary between institutions and modules. Learners should also know their procedural rights: to see the evidence, to respond in a language and format they can use (including interpreting or language support where offered), to be accompanied, and to have indicators such as similarity scores, AI-detector output or differences in writing style weighed by people alongside their own account.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "stages": [
@@ -1879,7 +1872,7 @@
     },
     {
       "topicId": "cit.author-date-in-text",
-      "summary": "Author–date citation is usually the first system taught in EAP because most general EAP programmes use APA 7 or an institutional Harvard. Instruction works best when formatting is linked to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) rather than taught as an isolated rule list, and when learners practise placing citations so that the scope of attribution is clear. Learners should consult the guide for edge cases rather than memorise them; the stable core is who, when and, for quotations, where.",
+      "summary": "Author–date citation is usually the first system taught in EAP because most general EAP programmes use APA 7 or an institutional Harvard. Linking formatting to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) gives the mechanics a rhetorical rationale and is likely to be more useful than an isolated rule list, although this has not been tested, and when learners practise placing citations so that the scope of attribution is clear. Learners should consult the guide for edge cases rather than memorise them; the stable core is who, when and, for quotations, where.",
       "activities": [
         {
           "title": "Narrative or parenthetical?",
@@ -2913,14 +2906,14 @@
           "pattern": "'The ideas are mine, so it doesn't matter who wrote the sentences.'",
           "kind": "conceptual",
           "revealedBy": "Heavily AI-written text submitted with a sense of ownership.",
-          "response": "Explain that assessed writing evidences language and reasoning as well as ideas; refer to the policy.",
+          "response": "Explain that whether an assessment evidences language as well as ideas depends on its purpose and policy: language-focused tasks usually do, many content tasks may not. Discuss the debate openly, including the equity argument that AI language polishing resembles help from proofreaders or literacy brokers, and refer to the policy for the task.",
           "reteachPrerequisiteId": "int.plagiarism"
         },
         {
           "pattern": "'My own English sounds worse, so the AI version represents me better.'",
           "kind": "affective",
           "revealedBy": "Reluctance to submit own wording; anxiety about language.",
-          "response": "Value the learner's voice as legitimate; show that markers assess reasoning and clarity, not native-like polish.",
+          "response": "Value the learner's voice as legitimate and show where AI edits changed meaning or stance. Be honest that some readers do react to non-standard English, distinguish changes that improve clarity from those that only make text sound native-like, and point to the criteria actually used for the task.",
           "reteachPrerequisiteId": "sta.authorial-voice"
         }
       ],
@@ -2943,7 +2936,7 @@
     },
     {
       "topicId": "gai.detection-limits",
-      "summary": "Liang et al. (2023) found that several widely used GPT detectors misclassified more than half of a set of TOEFL essays written by non-native English writers as AI-generated, while classifying essays by US students largely correctly, and linked this to the detectors' reliance on measures of textual predictability. Weber-Wulff et al. (2023) found that the detection tools they tested were neither accurate nor reliable. Perkins (2023) cautions against relying on detection. Teaching should make clear that detector output cannot establish misconduct and help learners keep evidence of their writing process.",
+      "summary": "Liang et al. (2023) found that several widely used GPT detectors misclassified more than half of a set of TOEFL essays written by non-native English writers as AI-generated, while classifying essays by US eighth-grade students largely correctly, and linked this to the detectors' reliance on measures of textual predictability. Weber-Wulff et al. (2023) found that the detection tools they tested were neither accurate nor reliable. Perkins (2023) cautions against relying on detection. Teaching should make clear that detector output cannot establish misconduct, that the burden of proof lies with the institution, and that keeping ordinary process records is a sensible habit rather than an obligation to prove innocence.",
       "activities": [
         {
           "title": "What the detector sees",
@@ -3653,7 +3646,7 @@
             "Draft a short, factual reply confirming attendance and requesting any needed information"
           ],
           "intendedInsight": "A calm, prompt and factual response, with support, is in the student's interest.",
-          "rationale": "Rehearsing the genre before it is needed reduces anxiety and supports appropriate formality.",
+          "rationale": "Rehearsing the genre before it is needed is intended to reduce anxiety and support appropriate formality (a practitioner proposal); Bretag (2016) is cited for the educative approach to integrity, not for this effect.",
           "citations": [
             "bretag2016"
           ]

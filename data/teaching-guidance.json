@@ -208,7 +208,7 @@
     },
     {
       "topicId": "voc.word-families-morphology",
-      "summary": "Bauer and Nation's word-family levels show that a limited set of regular, frequent affixes accounts for most family relationships, so teaching these explicitly is efficient. Learners often know a word's meaning without knowing its derivatives, so recognising and producing forms should be practised separately. Hinkel identifies word-form errors as common in L2 academic writing; linking forms to sentence slots makes the grammatical dimension explicit.",
+      "summary": "Bauer and Nation's word-family levels rank affixes by frequency, regularity and productivity, implying that a limited set of regular, frequent affixes is the efficient place to start explicit teaching. Learners often know a word's meaning without knowing its derivatives, so recognising and producing forms should be practised separately. Hinkel identifies word-form errors as common in L2 academic writing; linking forms to sentence slots makes the grammatical dimension explicit.",
       "activities": [
         {
           "title": "Word family tables",
@@ -218,7 +218,7 @@
             "Write sentences using two different forms of each word"
           ],
           "intendedInsight": "One word learned well can yield several usable forms.",
-          "rationale": "Bauer and Nation's framework shows that regular affixation makes word families learnable as sets.",
+          "rationale": "Bauer and Nation's framework assumes that once regular affixes are known, word families can be learned as sets.",
           "citations": [
             "bauernation1993"
           ]
@@ -255,7 +255,7 @@
         {
           "pattern": "Non-existent family members coined by analogy.",
           "kind": "overgeneralisation",
-          "revealedBy": "Forms such as 'analysation' or 'criticalness'.",
+          "revealedBy": "Forms such as 'analysation' or 'investigatement'.",
           "response": "Show that families have gaps and teach checking in a learner dictionary.",
           "reteachPrerequisiteId": null
         }
@@ -338,7 +338,7 @@
     },
     {
       "topicId": "voc.core-academic-vocabulary",
-      "summary": "Coxhead's AWL (570 word families beyond the General Service List) and Gardner and Davies's lemma-based AVL both identify vocabulary with broad academic range and each covers a meaningful share of academic text. Hyland and Tse argued that AWL items differ in frequency, meaning and collocation across disciplines, and Durrant found substantial disciplinary variation in how relevant AVL items are to student writing. Lists are therefore best used as a menu for selection, cross-checked against the learner's field, and taught with collocation and grammar rather than as isolated definitions.",
+      "summary": "Coxhead's AWL (570 word families beyond the General Service List) and Gardner and Davies's lemma-based AVL both identify vocabulary with broad academic range and each covers a meaningful share of academic text (about 10% of Coxhead's Academic Corpus for the AWL and about 14% of academic text for the AVL, figures not directly comparable because they use different units and corpora). Hyland and Tse argued that AWL items differ in frequency, meaning and collocation across disciplines, and Durrant found substantial disciplinary variation in how relevant AVL items are to student writing. Lists are therefore best used as a menu for selection, cross-checked against the learner's field, and taught with collocation and grammar rather than as isolated definitions.",
       "activities": [
         {
           "title": "List meets discipline",
@@ -413,7 +413,7 @@
     },
     {
       "topicId": "voc.academic-verbs",
-      "summary": "Hinkel recommends explicit teaching of a core set of academic verbs with their patterns because L2 writers tend to rely on a narrow range of general verbs. Corpus grammar shows that complementation is verb-specific, so patterns must be learned with each verb. The strength of commitment a verb conveys should be taught alongside its meaning, linking this topic to hedging and to reporting verbs.",
+      "summary": "Hinkel recommends explicit teaching of a core set of academic verbs with their patterns because developing writers, including the L2 writers in Hinkel's data, often rely on a narrow range of general verbs. Corpus grammar shows that complementation is verb-specific, so patterns must be learned with each verb. The strength of commitment a verb conveys should be taught alongside its meaning, linking this topic to hedging and to reporting verbs.",
       "activities": [
         {
           "title": "Verb strength continuum",
@@ -743,7 +743,7 @@
       ],
       "diagnostic": {
         "task": "Ask the learner to explain the difference between 'method' and 'methodology', and between 'affect' and 'impact', with examples.",
-        "strongResponse": "Distinguishes procedure from rationale/study of methods, and explains grammatical and collocational differences between 'affect' (verb) and 'impact' (noun, and verb in some varieties).",
+        "strongResponse": "Distinguishes procedure from rationale/study of methods, and explains grammatical and collocational differences between 'affect' (verb) and 'impact' (mainly a noun; its verb use is common in British and American English but disliked by some editors).",
         "partialResponse": "Explains one pair accurately.",
         "gapResponse": "Treats both pairs as equivalent."
       },
@@ -757,7 +757,7 @@
     },
     {
       "topicId": "voc.evaluative-lexis",
-      "summary": "Hunston and Thompson's work on evaluation shows that evaluative meaning is spread across lexis and grammar, and Martin and White's Appraisal framework offers categories — appreciation of things, judgement of people, graduation of strength — that help learners organise evaluative vocabulary. Novice writers often evaluate with a narrow range of general words (good, bad, interesting) or avoid evaluation. Build graded sets organised by what is evaluated (evidence, method, argument) and always pair evaluation with reasons.",
+      "summary": "Hunston and Thompson's work on evaluation shows that evaluative meaning is spread across lexis and grammar, and Martin and White's Appraisal framework offers categories — affect (feelings), judgement of people's behaviour, appreciation of things and texts, and graduation (force: degree; focus: sharpness of category membership) — that help learners organise evaluative vocabulary. Novice writers often evaluate with a narrow range of general words (good, bad, interesting) or avoid evaluation. Build graded sets organised by what is evaluated (evidence, method, argument) and always pair evaluation with reasons.",
       "activities": [
         {
           "title": "Evaluation ladders",
@@ -795,10 +795,10 @@
           "reteachPrerequisiteId": "voc.precision-near-synonyms"
         },
         {
-          "pattern": "'Who am I to criticise a published expert?'",
-          "kind": "affective",
-          "revealedBy": "Purely descriptive critiques; criticism hidden or omitted.",
-          "response": "Present mitigated critique as an expected practice and model the language for it.",
+          "pattern": "Evaluative words chosen for force rather than precision ('a terrible study', 'a perfect method').",
+          "kind": "overgeneralisation",
+          "revealedBy": "Critiques that swing between unqualified praise and blanket condemnation, with no criterion named.",
+          "response": "Teach graded evaluative sets (for example limited, partial, robust, compelling) and ask learners to name the criterion behind each choice.",
           "reteachPrerequisiteId": "crt.description-analysis-evaluation"
         },
         {
@@ -861,7 +861,7 @@
         {
           "pattern": "'All phrasal verbs are informal.'",
           "kind": "overgeneralisation",
-          "revealedBy": "Contorted replacements ('executed the experiment', 'the sample was comprised of') and avoidance of standard verbs such as 'carry out'.",
+          "revealedBy": "Contorted replacements ('executed the experiment', 'the problem was eliminated from consideration' for 'ruled out') and avoidance of standard verbs such as 'carry out'.",
           "response": "Show corpus evidence that some multi-word verbs are normal in academic prose. Do not teach a blanket replacement list.",
           "reteachPrerequisiteId": "reg.formality-features"
         },
@@ -1035,7 +1035,7 @@
     },
     {
       "topicId": "voc.deliberate-learning-systems",
-      "summary": "Nation and Webb and Nation argue that deliberate learning with word cards or software is an efficient way to establish form–meaning links, provided it involves retrieval and spacing. Research on the testing effect (Roediger and Karpicke) and distributed practice (Cepeda et al.) explains why retrieval and expanding intervals outperform rereading. Deliberate learning should be balanced with meaning-focused input and output so that words learned on cards are also met and used in context.",
+      "summary": "Nation and Webb and Nation argue that deliberate learning with word cards or software is an efficient way to establish form–meaning links, provided it involves retrieval and spacing. Research on the testing effect (Roediger and Karpicke) and distributed practice (Cepeda et al.) explains why retrieval and spaced (distributed) review outperform massed rereading; whether expanding schedules beat equally spaced ones is not settled. Deliberate learning should be balanced with meaning-focused input and output so that words learned on cards are also met and used in context.",
       "activities": [
         {
           "title": "Build your deck",
@@ -1276,7 +1276,7 @@
           "kind": "developmental",
           "revealedBy": "Agreement errors with these nouns.",
           "response": "Teach singular/plural pairs explicitly and practise agreement.",
-          "reteachPrerequisiteId": "voc.core-academic-vocabulary"
+          "reteachPrerequisiteId": "voc.dictionary-use"
         },
         {
           "pattern": "'Data is' and 'data are' mixed within one text.",
@@ -1363,7 +1363,7 @@
         "partialResponse": "Fixes variety or confusables, not both.",
         "gapResponse": "Sees no problems."
       },
-      "contextNotes": "At foundation and pre-sessional stages, establish the habit of consistency and checking. In UG in-sessional settings, align with departmental and style-guide requirements.",
+      "contextNotes": "At foundation and pre-sessional stages, establish the habit of consistency and checking. In UG in-sessional settings, align with departmental and style-guide requirements. Persistent spelling difficulty that does not respond to teaching may reflect dyslexia or another specific learning difference in any language; refer sensitively to disability or learning-support services and allow assistive tools (spell-checkers, text-to-speech) rather than treating it as carelessness.",
       "citations": [
         "nation2013",
         "apa2020"
@@ -1478,7 +1478,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Answers that match a glossary definition but miss what this tutor expects.",
           "response": "Teach learners to read command, criteria and exemplars together and to ask when unclear.",
-          "reteachPrerequisiteId": "voc.university-terminology"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Secondary commands in multi-part questions overlooked.",
@@ -1640,7 +1640,7 @@
     },
     {
       "topicId": "phr.academic-collocations",
-      "summary": "Ackermann and Chen's Academic Collocation List offers a corpus-derived, expert-judged inventory of academic collocations that can serve as a syllabus starting point. Durrant and Schmitt's comparison of native and non-native writers suggests learners rely on frequent, general combinations and underuse strongly associated but less frequent ones, so teaching should extend range, not just correct errors. As with single-word lists, disciplinary relevance should be checked against field texts.",
+      "summary": "Ackermann and Chen's Academic Collocation List offers a corpus-derived, expert-judged inventory of academic collocations that can serve as a syllabus starting point. Durrant and Schmitt's comparison of writing by first-language and additional-language users of English suggests that the latter rely more on frequent, general combinations and use fewer strongly associated but less frequent ones (a comparison with first-language student writing, not with an ideal), so teaching should extend range, not just correct errors. As with single-word lists, disciplinary relevance should be checked against field texts.",
       "activities": [
         {
           "title": "Collocation grids",
@@ -1752,14 +1752,14 @@
         {
           "pattern": "Transitive and intransitive pairs confused (raise/rise).",
           "kind": "developmental",
-          "revealedBy": "'Rise a question', 'prices were raised by 5%' used to mean prices went up.",
+          "revealedBy": "'Rise a question', 'the number of students raised by 5%' used to mean the number went up.",
           "response": "Teach the pair as a contrast in verb pattern (object or no object) with academic nouns.",
           "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to correct and explain: 'In this essay I will make a research on how temperature raises crop yields.'",
-        "strongResponse": "Corrects to 'conduct/carry out research' (uncountable, no article) and checks whether 'raises' or 'increases' with the right subject is meant, explaining both collocation and countability.",
+        "task": "Ask the learner to correct and explain: 'In this essay I will make a research on why crop yields raise when temperatures are high.'",
+        "strongResponse": "Corrects to 'conduct/carry out research' (uncountable, no article) and replaces intransitive 'raise' with 'rise' (crop yields rise), explaining collocation, countability and the raise/rise contrast.",
         "partialResponse": "Corrects only one of the problems.",
         "gapResponse": "Sees no error."
       },
@@ -1773,7 +1773,7 @@
     },
     {
       "topicId": "phr.bundles-research-oriented",
-      "summary": "Hyland's functional taxonomy of bundles (research-, text- and participant-oriented) and his evidence that research-oriented bundles are especially frequent in science and engineering writing illustrate both the usefulness of bundles and their disciplinary skew. Cortes found that student writers rarely used the bundles found in published texts in their discipline, and used them differently when they did. Because bundles are often structurally incomplete (many end in 'of the'), they should be taught with their typical grammatical continuations and in context.",
+      "summary": "Hyland's functional taxonomy of bundles (research-, text- and participant-oriented) and his evidence that research-oriented bundles are especially frequent in science and engineering writing illustrate both the usefulness of bundles and their disciplinary skew. Cortes found that student writers rarely used the bundles found in published texts in their discipline, and used them differently when they did. Because bundles are often structurally incomplete (many end in 'of the'), they should be taught with their typical grammatical continuations and in context. Structurally, written academic bundles are mostly noun-phrase and prepositional-phrase based, whereas classroom speech favours verb-phrase and clause-based bundles (Biber, Conrad & Cortes, 2004), mirroring the phrasal–clausal contrast in academic grammar.",
       "activities": [
         {
           "title": "Bundles in context",
@@ -1820,8 +1820,8 @@
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to complete 'The results indicate the extent to which…' and 'On the basis of…' with content from their field.",
-        "strongResponse": "Produces grammatical, meaningful completions (a clause after 'to which', a noun phrase after 'on the basis of').",
+        "task": "Ask the learner to complete 'The results indicate the extent to which…' and 'This study examines the role of…' with content from their field.",
+        "strongResponse": "Produces grammatical, meaningful completions (a clause after 'to which', a noun phrase after 'the role of').",
         "partialResponse": "One completion is correct and the other ungrammatical.",
         "gapResponse": "Cannot complete either grammatically."
       },
@@ -1871,7 +1871,7 @@
           "pattern": "'On the other hand' used to add a point rather than introduce a contrasting alternative.",
           "kind": "overgeneralisation",
           "revealedBy": "'Pollution harms health. On the other hand, it damages crops.'",
-          "response": "Teach the paired frame 'on the one hand … on the other hand' and alternatives for addition.",
+          "response": "Teach that 'on the other hand' introduces a contrasting alternative or perspective (the paired frame with 'on the one hand' is one option, but expert writers often use 'on the other hand' alone), and offer alternatives for addition.",
           "reteachPrerequisiteId": "coh.linking-adverbials"
         },
         {
@@ -2089,7 +2089,7 @@
     },
     {
       "topicId": "phr.corpus-consultation",
-      "summary": "Boulton and Cobb's meta-analysis reports generally positive effects of data-driven learning, though effects vary with design and context. Yoon and Hirvela found ESL writers valued corpus use for checking collocation and usage but found it time-consuming at first, and Charles shows how graduate writers can build small corpora of theses in their own field to link bottom-up searches with rhetorical functions. Short, frequent, task-linked searches are likely to be more sustainable than extended tool training.",
+      "summary": "Boulton and Cobb's meta-analysis reports generally positive effects of data-driven learning, though effects vary with design and context. Yoon and Hirvela found ESL writers valued corpus use for checking collocation and usage but found it time-consuming at first, and Charles (2007) shows how concordance searches of thesis corpora can be linked to the rhetorical functions students first identify in whole texts. Short, frequent, task-linked searches are likely to be more sustainable than extended tool training.",
       "activities": [
         {
           "title": "Usage question clinic",
@@ -2114,7 +2114,7 @@
             "Search for language serving one rhetorical function (e.g. stating limitations) and compile the phrases used"
           ],
           "intendedInsight": "Discipline-specific evidence can answer questions general lists cannot.",
-          "rationale": "Charles describes graduate writers building their own corpora to explore rhetorical functions in their disciplines.",
+          "rationale": "Charles (2007) links concordance searches of thesis corpora to the rhetorical functions graduate writers identify in whole texts; students building their own discipline-specific corpora is reported in Charles's later work (2012), which should be added before this activity is attributed to it.",
           "citations": [
             "charles2007"
           ]
@@ -2265,7 +2265,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Seminar contributions delivered as if read from an essay; surprise at lecturers saying 'you', 'stuff' or 'OK, so'.",
           "response": "Use lecture and seminar transcripts to show that spoken academic registers are interactive and less formal, and position registers on a continuum.",
-          "reteachPrerequisiteId": "acu.teaching-formats"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "A memorised set of 'formal phrases' from school or test preparation is used in every text.",
@@ -2341,7 +2341,7 @@
           "pattern": "'A good academic sentence should sound elaborate and elegant.'",
           "kind": "prior-schooling",
           "revealedBy": "Ornamental clauses, rhetorical flourishes and stacked subordinate clauses in essays.",
-          "response": "Acknowledge that writing traditions value different qualities, and make explicit the preference in English-medium academic prose for information-dense, plainly organised sentences, using exemplars from the learner's field.",
+          "response": "Acknowledge that genres and teachers in every language, English included, value different qualities (school writing in English often rewards elaborate style too), and make explicit the preference in English-medium academic prose for information-dense, plainly organised sentences, using exemplars from the learner's field.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -2636,7 +2636,7 @@
     },
     {
       "topicId": "reg.vague-overgeneralised",
-      "summary": "Hinkel's comparisons of L2 and L1 student texts document frequent vague nouns, exaggeratives and overstatements in novice writing, and Aull and Lancaster find that early-stage writers use more certainty-oriented stance than advanced writers. These features usually reflect developmental reliance on general high-frequency vocabulary and a schooled sense that essays should begin with universal statements. Teaching works best by asking the reader's questions — which things? how many? where? when? — and by linking precision to the evidence a claim would need.",
+      "summary": "Hinkel's comparisons of L2 and L1 student texts document frequent vague nouns, exaggeratives and overstatements in novice writing, and Aull and Lancaster find that early-stage writers use more certainty-oriented stance than advanced writers. These features usually reflect developmental reliance on general high-frequency vocabulary and a schooled sense that essays should begin with universal statements. Teaching is likely to work best (a practitioner judgement; the cited studies are descriptive) by asking the reader's questions — which things? how many? where? when? — and by linking precision to the evidence a claim would need.",
       "activities": [
         {
           "title": "Reader's questions",
@@ -2915,7 +2915,7 @@
     },
     {
       "topicId": "grm.clause-elements",
-      "summary": "Teach clause elements functionally and with authentic academic sentences: the difficulty in academic text is not finding the subject of a five-word sentence but finding it when it carries several postmodifiers. Keep metalanguage minimal and use it at once for reading (locating the main clause) and for writing (checking completeness). Explicit instruction has measurable benefits for grammatical development (Norris & Ortega, 2000), and rapid syntactic parsing is one of the lower-level processes L2 academic readers need to automatise (Grabe, 2009).",
+      "summary": "Teach clause elements functionally and with authentic academic sentences: the difficulty in academic text is not finding the subject of a five-word sentence but finding it when it carries several postmodifiers. Keep metalanguage minimal and use it at once for reading (locating the main clause) and for writing (checking completeness). Norris and Ortega's (2000) meta-analysis found explicit instruction effective, although many outcome measures favoured explicit knowledge, and rapid syntactic parsing is one of the lower-level processes L2 academic readers need to automatise (Grabe, 2009).",
       "activities": [
         {
           "title": "Core-sentence extraction",
@@ -3008,7 +3008,7 @@
             "Decide on a policy for their own writing and record it in a personal style sheet"
           ],
           "intendedInsight": "Some agreement 'rules' are usage choices that vary by field and house style; consistency matters more than any single prescription.",
-          "rationale": "Data-driven learning encourages evidence-based usage judgements (Boulton & Cobb, 2017), and corpus grammar documents notional as well as grammatical concord (Biber et al., 1999).",
+          "rationale": "Corpus consultation grounds usage judgements in attested examples, and a meta-analysis reports generally positive learning effects of data-driven learning (Boulton & Cobb, 2017), and corpus grammar documents notional as well as grammatical concord (Biber et al., 1999).",
           "citations": [
             "boultoncobb2017",
             "biber1999lgswe"
@@ -3145,7 +3145,7 @@
           "title": "Relative-clause reduction ladder",
           "learnerActions": [
             "Take sentences containing full relative clauses (the data which were collected in 2020)",
-            "Reduce each to a non-finite clause and then, where possible, to a prepositional phrase (the data collected in 2020; the 2020 data)",
+            "Reduce each to a non-finite clause and then, where possible, to a prepositional phrase or a premodifier (the data collected in 2020; the data from 2020; the 2020 data)",
             "Mark which reductions change or lose meaning, and explain why"
           ],
           "intendedInsight": "The same meaning can be packaged at different levels of compression, and not all reductions are equivalent.",
@@ -3187,7 +3187,7 @@
     },
     {
       "topicId": "grm.nominalisation",
-      "summary": "Systemic functional work on 'grammatical metaphor' explains how nominalisation turns processes into things that can be quantified, evaluated and used as given information in the next clause, and why this makes scientific and academic text dense for novice readers (Halliday & Martin, 1993; Schleppegrell, 2004). Teach both packing and unpacking: learners must decode nominal style when reading and use it selectively in writing, noticing when it hides agency or causality. Present nominalisation as a resource with costs, not as a marker of good style.",
+      "summary": "Systemic functional work on 'grammatical metaphor' covers ideational metaphor (processes and qualities realised as nouns; logical relations such as cause realised inside the clause as verbs, nouns or prepositions: leads to, the cause of, due to) and interpersonal metaphor (I think → it is likely that). For nominalisation, it explains how processes become things that can be quantified, evaluated and used as given information in the next clause, and why this makes scientific and academic text dense for novice readers (Halliday & Martin, 1993; Schleppegrell, 2004). Teach both packing and unpacking: learners must decode nominal style when reading and use it selectively in writing, noticing when it hides agency or causality. Present nominalisation as a resource with costs, not as a marker of good style.",
       "activities": [
         {
           "title": "Congruent and metaphorical versions",
@@ -3319,7 +3319,7 @@
     },
     {
       "topicId": "grm.articles",
-      "summary": "Article choice is semantic (identifiable or not, specific or generic) and depends on countability, which is why learners whose first languages lack articles may find the system persistently difficult even at advanced levels. Master (1997) recommends a simplified, meaning-based system, broadly identification (the) versus classification (a/an or zero), rather than long lists of rules. Prioritise errors that change meaning or affect generic statements and definitions, and teach the of-phrase and relative-clause contexts where 'the' is licensed by postmodification.",
+      "summary": "Article choice is semantic (identifiable or not, specific or generic) and depends on countability, which is why learners whose first languages lack articles may find the system persistently difficult even at advanced levels. Master (1997) recommends a simplified, meaning-based system, broadly identification (the) versus classification (a/an or zero), rather than long lists of rules. Prioritise errors that change meaning or affect generic statements and definitions, and teach the of-phrase and relative-clause contexts where postmodification makes the referent identifiable and so licenses 'the', contrasting them with postmodified nouns that still take 'a' or zero (a study of, an increase of 5%, evidence of).",
       "activities": [
         {
           "title": "Identify or classify?",
@@ -3352,7 +3352,7 @@
         {
           "pattern": "My first language has no articles, so I add 'the' when it sounds right.",
           "kind": "L1-transfer",
-          "revealedBy": "Omitted articles with singular countable nouns and overuse of 'the' with generic plurals and uncountables (The education is important), in writers whose first languages do not grammaticalise definiteness through articles.",
+          "revealedBy": "Omitted articles with singular countable nouns, and fluctuating use of 'the' that tracks specificity rather than definiteness (for example 'the' for a particular referent the reader cannot yet identify), in writers whose first languages do not grammaticalise definiteness through articles.",
           "response": "Teach a small decision sequence (countable? singular? identifiable?) and give focused feedback on one or two high-impact categories at a time. Avoid comprehensive correction of every article, which overloads attention.",
           "reteachPrerequisiteId": "voc.countability-academic-nouns"
         },
@@ -3373,7 +3373,7 @@
       ],
       "diagnostic": {
         "task": "Remove all articles from a 100-word paragraph in the learner's field and ask the learner to restore them, then explain three choices.",
-        "strongResponse": "Restores articles with few errors and explains choices by identifiability, genericity and countability, including 'the' licensed by an of-phrase.",
+        "strongResponse": "Restores articles with few errors and explains choices by identifiability, genericity and countability, including 'the' where an of-phrase makes the referent uniquely identifiable (the role of X), and 'a' or zero where the postmodifier only classifies (a member of the committee, evidence of bias).",
         "partialResponse": "Handles specific reference well but errs on generic statements or uncountables, or relies on memorised phrases for explanations.",
         "gapResponse": "Errors throughout, with no consistent principle in explanations."
       },
@@ -3534,7 +3534,7 @@
             "Discuss what each implies about whether the finding still holds and whether the writer accepts it",
             "Find two examples of each pattern in a literature review in their field"
           ],
-          "intendedInsight": "Tense in reporting signals currency and writer endorsement, not just the date of publication.",
+          "intendedInsight": "Tense in reporting can signal currency and generality, not just the date of publication; endorsement depends more on the reporting verb and on field conventions.",
           "rationale": "Making the stance function of reporting tense explicit follows the account in Swales (1990) and Swales and Feak (2012) and supports more deliberate source use.",
           "citations": [
             "swales1990",
@@ -3631,8 +3631,8 @@
         {
           "pattern": "The problem was happened… / The results were arisen from…",
           "kind": "overgeneralisation",
-          "revealedBy": "Passives formed with intransitive verbs, sometimes where the first language marks such events with a construction resembling the passive.",
-          "response": "Contrast transitive and intransitive verbs with examples, and provide a short list of common academic intransitive verbs (occur, arise, emerge, happen).",
+          "revealedBy": "Passives formed with unaccusative intransitive verbs (happen, occur, arise, emerge, appear), whose subject undergoes rather than performs the event; this overpassivisation is attested across many first-language backgrounds and is largely developmental.",
+          "response": "Contrast transitive and intransitive verbs with examples, and provide a short list of common academic intransitive verbs (occur, arise, emerge, happen), and contrast them with ergative verbs that work both ways (The temperature increased / The researchers increased the temperature; the rate changed / the dose was changed).",
           "reteachPrerequisiteId": "grm.clause-elements"
         },
         {
@@ -3889,7 +3889,7 @@
             "Check own methods section for the same pattern"
           ],
           "intendedInsight": "An introductory non-finite clause borrows its subject from the main clause, so the two must match.",
-          "rationale": "A clear rule plus repair practice suits a rule-governed, treatable structure (Ferris, 1999), and applying it to the learner's own methods text builds an editing habit.",
+          "rationale": "A clear rule plus repair practice suits a structure with a checkable rule (the implied subject must be the main-clause subject), although Ferris (1999) classed sentence-structure problems as less readily 'treatable' than agreement or tense, and applying it to the learner's own methods text builds an editing habit.",
           "citations": [
             "ferris1999"
           ]
@@ -3900,7 +3900,7 @@
           "pattern": "Having collected the data, the results showed a clear trend.",
           "kind": "developmental",
           "revealedBy": "Dangling participles, especially before passive or inanimate main-clause subjects in methods and results sections.",
-          "response": "Teach the subject-sharing rule and the two repairs. Do not ban introductory participle clauses; they are useful and frequent in methods writing.",
+          "response": "Teach the subject-sharing rule and the two repairs, noting conventional exceptions that are acceptable in academic prose (given…, considering…, assuming…, generally speaking…, compared with…) and that style guides disagree about 'Based on…'. Do not ban introductory participle clauses; they are useful and frequent in methods writing.",
           "reteachPrerequisiteId": "grm.subordination"
         },
         {
@@ -4141,7 +4141,7 @@
     },
     {
       "topicId": "grm.anticipatory-it",
-      "summary": "Anticipatory-it frames such as 'it is important to' and 'it is possible that' are frequent lexical bundles in university registers (Biber, Conrad & Cortes, 2004), and Hunston and Sinclair's local grammar of evaluation, in Hunston and Thompson (2000), shows how the 'it + link verb + adjective + clause' pattern carries evaluation. Comparative work on student and published writing (Hewings & Hewings, 2002, proposed) reports differences in how often and for what purposes these frames are used. Teach them as stance resources, with explicit attention to frames that hide who holds a view and to frames that add words without adding stance.",
+      "summary": "Anticipatory-it frames such as 'it is important to' and 'it is possible that' are frequent lexical bundles in university registers (Biber, Conrad & Cortes, 2004), and Hunston and Sinclair's local grammar of evaluation, in Hunston and Thompson (2000), shows how the 'it + link verb + adjective + clause' pattern carries evaluation. Comparative work on student and published writing (Hewings & Hewings, 2002) reports differences in how often and for what purposes these frames are used. Teach them as stance resources, with explicit attention to frames that hide who holds a view and to frames that add words without adding stance.",
       "activities": [
         {
           "title": "What stance does the frame carry?",
@@ -4234,7 +4234,7 @@
             "Decide which repair is more concise or better suited to the paragraph and explain why"
           ],
           "intendedInsight": "Existential there cannot be followed directly by a second finite verb, and deleting the frame is often the better repair.",
-          "rationale": "Targeted repair of a frequent, rule-governed error supports self-editing (Ferris, 1999).",
+          "rationale": "Targeted repair of a frequent, recognisable error pattern supports self-editing; Ferris (1999) would class this sentence-structure error as less readily 'treatable' than agreement or tense, so expect repeated practice to be needed.",
           "citations": [
             "ferris1999"
           ]
@@ -4536,7 +4536,7 @@
     },
     {
       "topicId": "grm.linking-adverbial-placement",
-      "summary": "Linking adverbials are particularly frequent in academic prose; the Longman grammar reports that initial position is the most common overall, while medial position is comparatively frequent in academic writing (Biber et al., 1999). Learner corpus research reports mismatches with expert usage, including over- and under-use of particular connectors and a preference for sentence-initial placement (Granger, 1998; Granger & Tyson, 1996, proposed). Teach placement and punctuation together, with the comma splice (…, however, …) as the key accuracy target and medial placement as a range target.",
+      "summary": "Linking adverbials are particularly frequent in academic prose; the Longman grammar reports that initial position is the most common overall, while medial position is comparatively frequent in academic writing (Biber et al., 1999). Learner corpus research reports mismatches with expert usage, including over- and under-use of particular connectors and a preference for sentence-initial placement (Granger, 1998; Granger & Tyson, 1996). Teach placement and punctuation together, with the comma splice (…, however, …) as the key accuracy target and medial placement as a range target.",
       "activities": [
         {
           "title": "Position audit",
@@ -4560,7 +4560,7 @@
             "Explain to a partner why 'but' can join two clauses with a comma and 'however' cannot"
           ],
           "intendedInsight": "Linking adverbials link sentences; they do not join clauses.",
-          "rationale": "The comma splice with linking adverbials is a rule-governed error suited to focused attention and self-editing (Ferris, 1999).",
+          "rationale": "The comma splice with linking adverbials follows a clear punctuation rule and suits focused self-editing; Ferris (1999) listed fragments, not comma splices, among 'treatable' errors, so the extension is by analogy.",
           "citations": [
             "ferris1999"
           ]
@@ -4631,10 +4631,8 @@
             "Check the reporting sentences in their own latest draft for the same problems"
           ],
           "intendedInsight": "Adjunct frames and verb frames should not be combined, and each reporting verb has its own pattern.",
-          "rationale": "These are rule-governed errors suited to focused self-editing (Ferris, 1999).",
-          "citations": [
-            "ferris1999"
-          ]
+          "rationale": "Reporting-frame errors are largely lexically governed (each verb has its own complementation), so they are best tracked verb by verb in a personal pattern record and checked against a corpus or learner dictionary.",
+          "citations": []
         }
       ],
       "difficulties": [
@@ -4715,7 +4713,7 @@
           "reteachPrerequisiteId": "sen.sentence-types"
         },
         {
-          "pattern": "This data shows… / these criterion.",
+          "pattern": "These criterion… / this phenomena… / these data shows… (plural data with a singular verb).",
           "kind": "overgeneralisation",
           "revealedBy": "Number mismatches between demonstratives and nouns with irregular or Latinate plurals.",
           "response": "Check irregular plurals and agree on a consistent policy for 'data'.",
@@ -4742,7 +4740,7 @@
         "changswales1999"
       ],
       "reviewNotes": [
-        "Check that unattended anaphoric this is among the features examined by Chang and Swales (1999)."
+        "Chang and Swales (1999) include unattended anaphoric 'this' among the ten informal features they examined; Gray and Cortes (2011) also document unattended this/these in published prose."
       ]
     },
     {
@@ -4815,10 +4813,10 @@
     },
     {
       "topicId": "grm.error-monitoring",
-      "summary": "Error monitoring is a self-regulatory strategy (Zimmerman, 2002) through which learners turn feedback into targeted editing. Ferris (1999) distinguishes 'treatable' rule-governed errors (agreement, verb forms, articles, fragments) from less rule-governed lexical ones, and Bitchener and Ferris (2012) discuss error logs and focused self-editing; meta-analytic evidence suggests written corrective feedback can improve accuracy (Kang & Han, 2015), though the debate initiated by Truscott (1996) shows that effects depend on how feedback is used. Ellis and Yuan (2004) found that careful online planning was associated with greater accuracy, which supports separating composing from monitoring.",
+      "summary": "Error monitoring is a self-regulatory strategy (Zimmerman, 2002) through which learners turn feedback into targeted editing. Ferris (1999) distinguishes 'treatable' rule-governed errors (agreement, verb forms, articles, fragments) from less rule-governed lexical ones, and Bitchener and Ferris (2012) discuss error logs and focused self-editing; meta-analytic evidence suggests written corrective feedback can improve accuracy (Kang & Han, 2015), though the debate initiated by Truscott (1996) shows that effects depend on how feedback is used. Ellis and Yuan (2004) found that careful online planning was associated with greater accuracy, which is consistent with, though it did not test, separating composing from monitoring.",
       "activities": [
         {
-          "title": "Evidence-based error log",
+          "title": "Error log built from your own feedback",
           "learnerActions": [
             "Go through feedback on two or three recent assignments and record each grammatical error with its type, the original sentence and a correction",
             "Count types and choose three to five priorities, favouring frequent, treatable errors that affect meaning or reader judgement",
@@ -4948,7 +4946,7 @@
     },
     {
       "topicId": "sen.sentence-boundaries",
-      "summary": "Comma splices, fused sentences and fragments are rule-governed and therefore 'treatable' errors in Ferris's (1999) sense, well suited to explicit teaching and self-editing. Teach four repair strategies and ask learners to choose by meaning, so that boundary editing also improves logical clarity. Separate genuine boundary errors from style prescriptions: Chang and Swales (1999) found that features such as sentence-initial conjunctions, often proscribed in style advice, do occur in expert academic writing, so 'never start with And or But' should not be taught as a rule.",
+      "summary": "Fragments are among the 'treatable' rule-governed errors in Ferris's (1999) sense, and comma splices and fused sentences follow similarly clear rules, well suited to explicit teaching and self-editing. Teach four repair strategies and ask learners to choose by meaning, so that boundary editing also improves logical clarity. Separate genuine boundary errors from style prescriptions: Chang and Swales (1999) found that features such as sentence-initial conjunctions, often proscribed in style advice, do occur in expert academic writing, so 'never start with And or But' should not be taught as a rule.",
       "activities": [
         {
           "title": "Four ways to fix a splice",
@@ -5013,7 +5011,7 @@
         "celcemurcia1999"
       ],
       "reviewNotes": [
-        "Check that sentence-initial conjunctions are among the informal features examined by Chang and Swales (1999) before relying on that citation for the claim."
+        "Chang and Swales (1999) include sentence-initial conjunctions among the ten informal features they examined."
       ]
     },
     {
@@ -5256,7 +5254,7 @@
           "kind": "performance",
           "revealedBy": "Mixed title and sentence case in reference lists imported from different databases.",
           "response": "Teach a final consistency check of reference-list capitalisation against the required style.",
-          "reteachPrerequisiteId": "cit.referencing-systems"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -5361,7 +5359,7 @@
             "Count clauses and noun-phrase modifiers in each",
             "Rewrite the student sentence to reduce clauses while keeping its content"
           ],
-          "intendedInsight": "Long sentences in speech-like writing are intricate; long sentences in academic writing are dense, and the latter usually read more easily for expert readers.",
+          "intendedInsight": "Long sentences in speech-like writing are intricate; long sentences in academic writing are dense; expert readers often process dense sentences in their field efficiently, but density also leaves relations implicit, so neither kind is automatically easier.",
           "rationale": "Halliday's (1989) distinction between grammatical intricacy and lexical density explains the difference and offers a revision target.",
           "citations": [
             "halliday1989"
@@ -5437,7 +5435,7 @@
           "pattern": "More words show more knowledge, and I need to reach the word count.",
           "kind": "prior-schooling",
           "revealedBy": "Padding to reach minimum word counts, often from assessment contexts that rewarded length.",
-          "response": "Explain that UK assignments set maximum limits and reward density of argument, and practise cutting.",
+          "response": "Explain that many university assignments, including most in the UK, set maximum limits and reward density of argument; check the local rule and practise cutting.",
           "reteachPrerequisiteId": null
         },
         {
@@ -5511,8 +5509,8 @@
           "reteachPrerequisiteId": "grm.phrasal-complexity"
         },
         {
-          "pattern": "Writers whose first language places the verb at the end of the clause may produce late-verb sentences in English.",
-          "kind": "L1-transfer",
+          "pattern": "Long pre-verbal subjects delay the main verb, a pattern common across first-language backgrounds as writers begin to compress information into noun phrases; writers whose first language places modifiers, including relative clauses, before the noun may favour heavy pre-head modification.",
+          "kind": "developmental",
           "revealedBy": "Heavy pre-verbal material and verbs delayed until the end of long sentences.",
           "response": "Teach end-weight explicitly and practise moving material after the verb.",
           "reteachPrerequisiteId": "coh.given-new"
@@ -5789,7 +5787,7 @@
     },
     {
       "topicId": "coh.linking-adverbials",
-      "summary": "Biber et al. describe the semantic categories of linking adverbials and show that a relatively small set accounts for most uses in academic prose. Learner-corpus studies, including Altenberg and Tapper's chapter in Granger's collection and Granger and Tyson's comparison of native and non-native student essays, report overuse of some connectors, underuse of others and sentence-initial stacking; Hinkel similarly documents L2 writers' reliance on sentence-level transitions. Teach connectors by relation and with evidence of expert frequency, aiming for fewer, better-chosen links rather than long lists of supposed equivalents.",
+      "summary": "Biber et al. describe the semantic categories of linking adverbials and show that a relatively small set accounts for most uses in academic prose. Learner-corpus studies, including Altenberg and Tapper's chapter in Granger's collection and Granger and Tyson's comparison of native and non-native student essays, report overuse of some connectors, underuse of others and sentence-initial stacking relative to first-language student essays (comparisons that measure difference from a reference corpus rather than error, so expert disciplinary writing is the better model); Hinkel similarly documents L2 writers' reliance on sentence-level transitions. Teach connectors by relation and with evidence of expert frequency, aiming for fewer, better-chosen links rather than long lists of supposed equivalents.",
       "activities": [
         {
           "title": "Frequency reality check",
@@ -6181,7 +6179,7 @@
           "kind": "developmental",
           "revealedBy": "Paragraphs that describe several solutions but never assess whether they work.",
           "response": "Show that evaluation is an expected element; ask 'did it work, and how do we know?' after each response.",
-          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Reading a reported view in a claim–counterclaim structure as the writer's own position.",
@@ -6448,7 +6446,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "'If I state my point at the start, the reader will think I am not subtle.'",
+          "pattern": "'I build up to my main point so that the conclusion has more impact.'",
           "kind": "prior-schooling",
           "revealedBy": "Main claims withheld until the conclusion or left implicit; feedback such as 'what is your argument?'.",
           "response": "Writers whose previous schooling rewarded delayed or implied conclusions can be shown the genre expectation and asked to compare effects for the target reader, without implying their earlier practice was wrong.",
@@ -6466,7 +6464,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Heavy metatext and explanations of points an expert reader would take for granted.",
           "response": "Return to the intended reader: explicitness is about the links that matter to the argument, not about everything.",
-          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
+          "reteachPrerequisiteId": "wpr.audience-purpose"
         }
       ],
       "diagnostic": {
@@ -6670,7 +6668,7 @@
           "pattern": "'This can be the reason for the decline.'",
           "kind": "L1-transfer",
           "revealedBy": "'Can' used for epistemic possibility where 'could' or 'may' is expected.",
-          "response": "Writers whose other languages use one modal for both ability and possibility need explicit contrast between dynamic 'can' and epistemic 'may', 'might' and 'could'.",
+          "response": "Writers whose other languages use one modal for both ability and possibility need to see that 'can' expresses general possibility (This can be problematic) but not, in positive statements, an inference about a specific case, where 'may', 'might' or 'could' is used (This could be the reason).",
           "reteachPrerequisiteId": "grm.epistemic-modality"
         }
       ],
@@ -6971,7 +6969,7 @@
     },
     {
       "topicId": "sta.engagement-markers",
-      "summary": "Hyland's stance-and-engagement model identifies reader pronouns, directives, questions, appeals to shared knowledge and personal asides as ways writers acknowledge and position readers, with distributions varying across disciplines. His study of addressee features in research articles develops this account, and Chang and Swales discuss informal elements such as direct questions and imperatives as both risks and opportunities for advanced L2 writers. Teach engagement as calibrated to readership through comparative genre analysis rather than through rules.",
+      "summary": "Hyland's stance-and-engagement model identifies reader pronouns, directives, questions, appeals to shared knowledge and personal asides as ways writers acknowledge and position readers, with distributions varying across disciplines. His study of addressee features in research articles develops this account, and Chang and Swales discuss informal elements such as direct questions and imperatives as both risks and opportunities for advanced L2 writers. Teach engagement as calibrated to readership through comparative genre analysis rather than through rules. Note that Hyland's 'engagement' (reader-oriented features) differs from 'engagement' in Martin and White's appraisal framework (dialogic positioning; see sta.dialogic-positioning).",
       "activities": [
         {
           "title": "Textbook versus article",
@@ -7106,7 +7104,7 @@
     },
     {
       "topicId": "sta.averral-attribution",
-      "summary": "The distinction between averred and attributed propositions, developed by Hunston in Hunston and Thompson's collection, underpins both critical reading and transparent source use: readers assume unattributed statements are the writer's own. Thompson and Ye show how the choice of reporting verb signals whether the writer accepts an attributed proposition, and Hyland documents how disciplines differ in attribution practices. Teach the concept explicitly before reporting-verb lists, using colour-coding of authentic and student texts.",
+      "summary": "The distinction between averred and attributed propositions, introduced by Sinclair and developed by Hunston in Hunston and Thompson's collection, underpins both critical reading and transparent source use: readers assume unattributed statements are the writer's own. Thompson and Ye show how the choice of reporting verb signals whether the writer accepts an attributed proposition, and Hyland documents how disciplines differ in attribution practices. Teach the concept explicitly before reporting-verb lists, using colour-coding of authentic and student texts.",
       "activities": [
         {
           "title": "Whose voice?",
@@ -7207,9 +7205,9 @@
       "difficulties": [
         {
           "pattern": "'Who am I to criticise a published professor?'",
-          "kind": "prior-schooling",
+          "kind": "affective",
           "revealedBy": "Literature reviews that summarise without evaluation; feedback asking for critical engagement.",
-          "response": "Show that critique is an expected scholarly practice and model respectful evaluative language; start with evaluating the fit of a study to the learner's own question.",
+          "response": "Show that critique is an expected scholarly practice and model respectful evaluative language; start with evaluating the fit of a study to the learner's own question. This hesitation is common among novice writers of every background, including first-language English undergraduates, so do not treat it as a marker of particular educational systems.",
           "reteachPrerequisiteId": null
         },
         {
@@ -7564,9 +7562,9 @@
         },
         {
           "pattern": "Missing a lecturer's sceptical or ironic stance.",
-          "kind": "L1-transfer",
+          "kind": "developmental",
           "revealedBy": "Notes that record a view the lecturer was signalling doubt about; confusion when the lecturer later rejects it.",
-          "response": "Listeners whose other languages signal stance mainly through particles or word choice rather than intonation benefit from focused listening to prosodic stance cues.",
+          "response": "Recognising irony and scepticism from the voice is demanding for most L2 listeners and depends on cultural familiarity; focused listening to prosodic stance cues helps, particularly for listeners whose other languages carry such meanings mainly through particles or word choice.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -8740,7 +8738,7 @@
         "partialResponse": "Good comprehension at a markedly slow rate, or a fast rate with weak comprehension.",
         "gapResponse": "Slow rate and weak comprehension even on easy text, suggesting vocabulary or word-recognition gaps rather than a fluency problem."
       },
-      "contextNotes": "Foundation and pre-sessional programmes can timetable a regular fluency strand. In-sessional learners benefit from self-access timed reading with progress charts. For postgraduates the focus shifts to rate flexibility across specialist text types and to realistic planning; very high rates are not a goal.",
+      "contextNotes": "Foundation and pre-sessional programmes can timetable a regular fluency strand. In-sessional learners benefit from self-access timed reading with progress charts. For postgraduates the focus shifts to rate flexibility across specialist text types and to realistic planning; very high rates are not a goal. Adapt timed reading for learners with dyslexia, visual impairment or other access needs, for example with text-to-speech or untimed versions.",
       "citations": [
         "rayner2016",
         "nation2009readingwriting",
@@ -9300,7 +9298,7 @@
     },
     {
       "topicId": "rds.skimming",
-      "summary": "Skimming has a legitimate role in orientation and relevance decisions, but Rayner et al. (2016) show that it trades comprehension for speed: readers lose information in what they skip and are less able to judge what mattered. Materials shaped by test formats often over-teach skimming and scanning relative to careful reading for learning and argument, which Grabe (2009) and Grabe and Stoller (2011) identify as central academic reading purposes. Teach skimming as a bounded, purposeful technique and always pair it with decisions about which parts to read carefully.",
+      "summary": "Skimming has a legitimate role in orientation and relevance decisions, but Rayner et al. (2016) show that it trades comprehension for speed: readers lose information in what they skip, so skimming serves gist and relevance decisions only when readers can identify the important parts. Materials shaped by test formats often over-teach skimming and scanning relative to careful reading for learning and argument, which Grabe (2009) and Grabe and Stoller (2011) identify as central academic reading purposes. Teach skimming as a bounded, purposeful technique and always pair it with decisions about which parts to read carefully.",
       "activities": [
         {
           "title": "Skim, then decide",
@@ -9481,7 +9479,7 @@
           "kind": "developmental",
           "revealedBy": "Verbatim main-idea statements that include irrelevant modifiers.",
           "response": "Require own-word statements of a fixed short length; if the learner cannot shorten the sentence, check whether they have parsed it. Treat copying here as a comprehension signal, not as an integrity issue.",
-          "reteachPrerequisiteId": "rdp.parsing-complex-sentences"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -9873,7 +9871,7 @@
           "kind": "developmental",
           "revealedBy": "Summaries that drop 'may', 'suggests' or 'in this sample'.",
           "response": "Teach hedges as meaning-bearing and check every summary for preserved certainty.",
-          "reteachPrerequisiteId": "sta.hedging"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -9963,7 +9961,7 @@
     },
     {
       "topicId": "rds.comprehension-monitoring",
-      "summary": "Metacognitive monitoring is a hallmark of skilled reading (Flavell, 1979), and strategy inventories such as MARSI (Mokhtari & Reichard, 2002) and SORS (Sheorey & Mokhtari, 2001) indicate that more able readers report greater use of monitoring and problem-solving strategies. Reciprocal teaching combines predicting, questioning, clarifying and summarising with modelling and gradual handover (Palincsar & Brown, 1984). Teach monitoring through think-alouds and inconsistency-detection tasks, and be candid that self-report inventories measure awareness rather than use and that the effects of strategy instruction are variable and depend on adequate language knowledge (Plonsky, 2011).",
+      "summary": "Metacognitive monitoring is a hallmark of skilled reading (Flavell, 1979), and strategy inventories such as MARSI (Mokhtari & Reichard, 2002) and SORS (Sheorey & Mokhtari, 2001) indicate that more able readers report greater use of monitoring and problem-solving strategies. Reciprocal teaching combines predicting, questioning, clarifying and summarising with modelling and gradual handover (Palincsar & Brown, 1984). Teach monitoring through think-alouds and inconsistency-detection tasks, and be candid that self-report inventories measure awareness rather than use and that the effects of strategy instruction are variable (Plonsky, 2011) and are likely to depend on adequate language knowledge.",
       "activities": [
         {
           "title": "Reciprocal teaching groups",
@@ -10035,7 +10033,7 @@
     },
     {
       "topicId": "rds.annotation",
-      "summary": "Dunlosky et al. (2013) rate highlighting and underlining as low-utility study techniques, largely because they require little processing. Annotation adds value when readers summarise, question and connect in their own words, in parallel with the encoding benefits of generative note-taking (Kiewra, 1985). Teach a small, purposeful annotation system linked to the reading task and to later note-making, and make the separation of author's and reader's ideas a routine part of it.",
+      "summary": "Dunlosky et al. (2013) rate highlighting and underlining as low-utility study techniques, largely because they require little processing. Annotation adds value when readers summarise, question and connect in their own words, in line with Kiewra's (1985) depth-of-processing account of note-taking, although his review found the benefits of reviewing notes more consistent than the encoding benefits of taking them. Teach a small, purposeful annotation system linked to the reading task and to later note-making, and make the separation of author's and reader's ideas a routine part of it.",
       "activities": [
         {
           "title": "Annotation audit",
@@ -10235,7 +10233,7 @@
     },
     {
       "topicId": "rdc.critical-reading",
-      "summary": "Moore (2013) found that academics across disciplines understand critical thinking in at least seven different ways, from judgement and scepticism to sensitive reading and self-reflexivity, and Atkinson (1997) questioned whether it can be taught as a culture-free, generic skill. Wallace and Wray (2016) present critical reading as evaluating texts in relation to the reader's own purpose, with constructive as well as sceptical engagement. Teach critical reading as discipline-situated questioning and evaluation, model it with texts from learners' fields, and make explicit that being critical includes recognising strengths.",
+      "summary": "Moore (2013) found that academics in history, philosophy and cultural studies understand critical thinking in at least seven different ways, from judgement and scepticism to sensitive reading and self-reflexivity, and Atkinson (1997) questioned whether it can be taught as a culture-free, generic skill. Wallace and Wray (2016) present critical reading as evaluating texts in relation to the reader's own purpose, with constructive as well as sceptical engagement. Teach critical reading as discipline-situated questioning and evaluation, model it with texts from learners' fields, and make explicit that being critical includes recognising strengths.",
       "activities": [
         {
           "title": "Description versus evaluation sort",
@@ -11025,7 +11023,7 @@
           "kind": "conceptual",
           "revealedBy": "Responses whose reasons do not refer to the text's argument or evidence.",
           "response": "Require each reason to be linked to a specific feature of the text.",
-          "reteachPrerequisiteId": "rdc.evidence-evaluation"
+          "reteachPrerequisiteId": "rdc.critical-questions"
         },
         {
           "pattern": "Summarises at length and adds a one-line evaluation.",
@@ -11222,7 +11220,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Learners whose first language has fixed stress or little contrast between strong and weak syllables do not use English strong syllables as onset cues.",
+          "pattern": "Learners transfer the segmentation routines of their first language (for example syllable-based segmentation in French or mora-based segmentation in Japanese, or expectations of fixed final or penultimate stress), so English strong syllables are not used, or are misused, as onset cues.",
           "kind": "L1-transfer",
           "revealedBy": "Boundary errors cluster around words that begin with an unstressed syllable (economy, consider, analysis), which are attached to or split from neighbouring words.",
           "response": "Teach explicitly that weak-initial words are the main exception to the strong-onset tendency and therefore the main source of boundary errors; practise prefix-initial academic words (con-, de-, re-) in context, linked to word-stress work.",
@@ -11563,8 +11561,8 @@
           "reteachPrerequisiteId": "lis.lecture-discourse-markers"
         },
         {
-          "pattern": "Learners whose first language marks focus mainly through word order or particles rather than pitch prominence do not treat heavy stress or slowing as a cue to importance.",
-          "kind": "L1-transfer",
+          "pattern": "Learners attend mainly to lexical content and, especially when decoding load is high, do not use the speaker's voice (heavy stress, slowing, pausing, repetition) as a cue to importance.",
+          "kind": "developmental",
           "revealedBy": "Learners catch verbal relevance markers but miss points emphasised by voice alone.",
           "response": "Contrast the same sentence delivered with and without emphatic stress and ask what changes; link to production work on prominence so that perception and production reinforce each other.",
           "reteachPrerequisiteId": "prn.prominence"
@@ -12961,7 +12959,7 @@
           "kind": "performance",
           "revealedBy": "Notes stop part-way through; the learner avoids discussing later sections.",
           "response": "Teach selective reading for seminar purposes (abstract, introduction, conclusion and the section most relevant to the questions) and plan reading time across the week.",
-          "reteachPrerequisiteId": "ntk.notes-from-reading"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -13017,7 +13015,7 @@
           "kind": "performance",
           "revealedBy": "Late or abandoned entry attempts; prepared ideas are never voiced.",
           "response": "Teach short floor-claiming moves that buy formulation time ('Can I come in on that?', 'Just on that point…') and encourage an early first contribution. Also adjust task design (think time, rounds). Do not simply tell learners to 'be more confident'.",
-          "reteachPrerequisiteId": "lis.multi-party-discussion"
+          "reteachPrerequisiteId": "prg.politeness"
         },
         {
           "pattern": "Applying one rule about interruption across all settings — never interrupting, or cutting in frequently to show engagement.",
@@ -13669,7 +13667,7 @@
         "task": "Review a recorded online seminar with the learner and ask them to comment on their participation.",
         "strongResponse": "Appropriate bidding, explicit addressing and yielding, and purposeful chat use.",
         "partialResponse": "Participates but with awkward turn-taking or chat that runs separately from the discussion.",
-        "gapResponse": "Silent, or present only in the chat."
+        "gapResponse": "No contribution in any channel, and no account of what would make participation possible."
       },
       "contextNotes": "Relevant at every stage where online or hybrid teaching occurs, including pre-sessional courses delivered online and PGR supervision and research-group meetings with remote collaborators. Hybrid rooms add the challenge of including remote participants in in-room talk.",
       "citations": [
@@ -15015,8 +15013,8 @@
       ],
       "difficulties": [
         {
-          "pattern": "Learners whose first language uses pitch mainly to distinguish words, or uses a narrower pitch range for discourse purposes, produce relatively flat English intonation.",
-          "kind": "L1-transfer",
+          "pattern": "Learners use a narrower pitch range and fewer discourse-marking pitch movements in English than proficient speakers, a tendency reported across many first-language backgrounds and linked to processing load and unfamiliarity with English tone choices.",
+          "kind": "developmental",
           "revealedBy": "Narrow pitch range; topic shifts and contrasts not signalled prosodically.",
           "response": "Practise exaggerated pitch range in controlled tasks and then reduce it; record and listen back.",
           "reteachPrerequisiteId": "prn.prominence"
@@ -15047,7 +15045,7 @@
     },
     {
       "topicId": "prn.segmental-priorities",
-      "summary": "Munro and Derwing (2006) found that errors in high-functional-load contrasts had a greater effect on comprehensibility than errors in low-functional-load contrasts. Jenkins (2000) proposed a Lingua Franca Core of features, including most consonant contrasts and vowel length, as priorities for intelligibility in lingua franca settings, while excluding features such as the dental fricatives; the core has been influential but is contested, for example over its empirical base and its treatment of word stress. Derwing and Munro (2015) summarise evidence that instruction can improve pronunciation. Prioritise individually, on the basis of what listeners actually misunderstand.",
+      "summary": "Munro and Derwing (2006) found that errors in high-functional-load contrasts had a greater effect on comprehensibility than errors in low-functional-load contrasts. Jenkins (2000) proposed a Lingua Franca Core of features, including most consonant contrasts and vowel length, as priorities for intelligibility in lingua franca settings, while excluding features such as the dental fricatives, weak forms, word stress and pitch movement (nuclear stress placement is one of the few prosodic features it retains, which supports the priority given to prominence); the core has been influential but is contested, for example over its empirical base and its treatment of word stress. Derwing and Munro (2015) summarise evidence that instruction can improve pronunciation. Prioritise individually, on the basis of what listeners actually misunderstand.",
       "activities": [
         {
           "title": "Find my priorities",
@@ -15165,7 +15163,7 @@
         "task": "Ask the learner to read a 30-second presentation opening aloud.",
         "strongResponse": "Moderate linking and weak forms; content words clear.",
         "partialResponse": "Few reductions, but intelligible.",
-        "gapResponse": "Either staccato full forms throughout or over-reduction that obscures content."
+        "gapResponse": "Listeners cannot pick out the key words, either because every syllable receives equal weight so that key words do not stand out or because over-reduction obscures content words."
       },
       "contextNotes": "Teach production after or alongside recognition. For presentation-focused PGT and PGR learners, emphasis should be on clarity of key terms and fluent formulaic phrases rather than maximal reduction.",
       "citations": [
@@ -15361,7 +15359,7 @@
           "kind": "developmental",
           "revealedBy": "Continuing with an explanation despite puzzled looks or questions.",
           "response": "Practise recognising non-understanding signals and responding with reformulation markers.",
-          "reteachPrerequisiteId": "sta.code-glosses"
+          "reteachPrerequisiteId": "prn.intelligibility"
         }
       ],
       "diagnostic": {
@@ -15839,7 +15837,7 @@
       "summary": "Evaluative judgement depends on understanding criteria and comparing work against them (Sadler, 1989). Peer evaluation of contributions can reproduce the positioning Leki (2001) documented, in which multilingual members' contributions were undervalued. Teach criterion-referenced, evidenced evaluation and accurate self-documentation.",
       "activities": [
         {
-          "title": "Evidence-based rating",
+          "title": "Rating backed by documented contributions",
           "learnerActions": [
             "Read anonymised minutes and a version history for a group project",
             "Rate each member against the given criteria, citing evidence for each rating",
@@ -16119,9 +16117,7 @@
           ],
           "intendedInsight": "Different formats reveal different weaknesses; there is no single correct planning format.",
           "rationale": "Offering formats as tools to compare supports learner choice without relying on unsupported learning-styles claims.",
-          "citations": [
-            "hyland2003writing"
-          ]
+          "citations": []
         }
       ],
       "difficulties": [
@@ -16328,7 +16324,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Lecture views reproduced without evaluation; inflated register.",
           "response": "Discuss what markers reward using criteria and exemplars, and reframe the task as offering a reasoned view to an informed reader.",
-          "reteachPrerequisiteId": "acu.academic-expectations"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -16515,7 +16511,7 @@
         {
           "pattern": "Writing the whole text in the L1, translating it with machine translation and lightly editing the output.",
           "kind": "performance",
-          "revealedBy": "Fluent but uneven text, unexpected term choices, a marked gap between in-class and take-home writing.",
+          "revealedBy": "Fluent but uneven text, unexpected term choices, a gap between in-class and take-home writing (which on its own is expected, since timed in-class writing is usually weaker, and is not evidence of translation or misconduct).",
           "response": "Clarify local rules; discuss what the learner loses (practice, control of voice) and the integrity risks; show targeted uses of translation that are permitted.",
           "reteachPrerequisiteId": null
         },
@@ -16771,7 +16767,7 @@
           "kind": "developmental",
           "revealedBy": "Paragraphs that cannot fulfil their opening, or have nowhere to go after it.",
           "response": "Practise scaling controlling ideas with general and shell nouns (‘two main factors’, ‘a significant limitation’) and test them with prediction.",
-          "reteachPrerequisiteId": "voc.abstract-shell-nouns"
+          "reteachPrerequisiteId": "par.paragraph-unit"
         },
         {
           "pattern": "Opening with a source (‘Smith (2019) states that…’), so that the source rather than the writer controls the paragraph.",
@@ -16986,7 +16982,7 @@
     },
     {
       "topicId": "par.concluding-sentences",
-      "summary": "Closing sentences are often where writers make the analytic move markers look for: saying what the evidence means. Present them functionally (significance, qualification, transition) rather than as a required restatement, and show that authentic paragraphs frequently end on evidence or comment without a separate closing formula (Swales & Feak, 2012). This links to Wingate's (2012) emphasis on keeping the argument visible throughout a text.",
+      "summary": "Closing sentences are often where writers make the analytic move markers look for: saying what the evidence means. Present them functionally (significance, qualification, transition) rather than as a required restatement, and use authentic paragraphs, which often end on evidence or comment without a separate closing formula (a practitioner observation; Swales and Feak (2012) supply model paragraphs for analysis). This links to Wingate's (2012) emphasis on keeping the argument visible throughout a text.",
       "activities": [
         {
           "title": "So what?",
@@ -16996,7 +16992,7 @@
             "Compare versions and choose the one that adds most"
           ],
           "intendedInsight": "The best closing sentences add interpretation, not repetition.",
-          "rationale": "Prompts learners to state the link between evidence and argument that Wingate (2012) found students often leave implicit.",
+          "rationale": "Prompts learners to state the link between evidence and argument which Wingate (2012) treats as part of developing a position through analysis of sources.",
           "citations": [
             "wingate2012argument"
           ]
@@ -17847,7 +17843,7 @@
         "partialResponse": "Adds evaluation, but it is generic (‘this study has limitations’) or unconnected to the argument.",
         "gapResponse": "Adds more description, or adds unsupported opinion."
       },
-      "contextNotes": "Pre-sessional programmes typically focus on evaluating sources and making a position visible. Undergraduate in-sessional work should address disciplinary forms of criticality, which differ, for example, between engineering and history (Moore, 2013). PGT writers are expected to engage critically with debates and methods.",
+      "contextNotes": "Pre-sessional programmes typically focus on evaluating sources and making a position visible. Undergraduate in-sessional work should address disciplinary forms of criticality, which differ across fields; even within the humanities, Moore (2013) found academics in history, philosophy and cultural studies holding distinct conceptions of critical thinking. PGT writers are expected to engage critically with debates and methods.",
       "citations": [
         "moore2013",
         "lancaster2014",
@@ -18521,7 +18517,7 @@
         {
           "pattern": "‘A friend only improved my English, so it is still my work.’",
           "kind": "conceptual",
-          "revealedBy": "Marked differences in style between supervised and submitted writing.",
+          "revealedBy": "The learner's own account of what the helper changed; tracked changes or earlier drafts showing content-level rewriting. Style differences between supervised and submitted writing are not evidence on their own.",
           "response": "Discuss where improving language becomes changing content and authorship, using concrete examples.",
           "reteachPrerequisiteId": "int.collusion"
         },
@@ -19229,7 +19225,7 @@
             "Record the route used and the version found"
           ],
           "intendedInsight": "Most paywalled work can be obtained legitimately with the right routes.",
-          "rationale": "Practising the routes reduces reliance on unauthorised sources and links access to version awareness.",
+          "rationale": "Practising the legitimate routes is intended to reduce reliance on unauthorised sources (an untested expectation) and links access to version awareness.",
           "citations": [
             "acrl2016"
           ]
@@ -19942,7 +19938,7 @@
           "kind": "conceptual",
           "revealedBy": "Unintended distancing from, or endorsement of, reported claims",
           "response": "Contrast verb pairs in context and ask what each implies about the writer's view, linking back to how the source itself commits to its claim.",
-          "reteachPrerequisiteId": "rds.writer-stance"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "The author discusses about the problem and emphasises on its causes.",
@@ -20055,7 +20051,7 @@
             "Write one sentence with each pattern about a source you are using"
           ],
           "intendedInsight": "Signal phrases follow a few grammatical patterns that can be learned as units.",
-          "rationale": "Learning frames as patterns reduces the blending errors common at this stage.",
+          "rationale": "Learning frames as patterns is intended to reduce the blending errors common at this stage (a practitioner proposal); Pecorari (2013) supports explicit teaching of source use, not this specific effect.",
           "citations": [
             "pecorari2013"
           ]
@@ -20980,7 +20976,7 @@
     },
     {
       "topicId": "cit.author-date-in-text",
-      "summary": "Author–date citation is usually the first system taught in EAP because most general EAP programmes use APA 7 or an institutional Harvard. Instruction works best when formatting is linked to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) rather than taught as an isolated rule list, and when learners practise placing citations so that the scope of attribution is clear. Learners should consult the guide for edge cases rather than memorise them; the stable core is who, when and, for quotations, where.",
+      "summary": "Author–date citation is usually the first system taught in EAP because most general EAP programmes use APA 7 or an institutional Harvard. Linking formatting to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) gives the mechanics a rhetorical rationale and is likely to be more useful than an isolated rule list, although this has not been tested, and when learners practise placing citations so that the scope of attribution is clear. Learners should consult the guide for edge cases rather than memorise them; the stable core is who, when and, for quotations, where.",
       "activities": [
         {
           "title": "Narrative or parenthetical?",
@@ -22072,7 +22068,7 @@
             "Draft a short, factual reply confirming attendance and requesting any needed information"
           ],
           "intendedInsight": "A calm, prompt and factual response, with support, is in the student's interest.",
-          "rationale": "Rehearsing the genre before it is needed reduces anxiety and supports appropriate formality.",
+          "rationale": "Rehearsing the genre before it is needed is intended to reduce anxiety and support appropriate formality (a practitioner proposal); Bretag (2016) is cited for the educative approach to integrity, not for this effect.",
           "citations": [
             "bretag2016"
           ]
@@ -22298,7 +22294,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'In my previous studies we were expected to learn from experts, not question them, so I am not good at this.'",
+          "pattern": "'In my previous exams, marks came from reproducing the textbook accurately, so I'm not sure when I'm allowed to evaluate a source.'",
           "kind": "prior-schooling",
           "revealedBy": "Reluctance to evaluate published sources, heavy deference language, and accurate summaries with no comment.",
           "response": "Treat this as a difference in assessment genres and in the licence to question, not in ability: point out the evaluation learners already do in other domains, show that evaluating published work is an expected and licensed move in the target context, and teach mitigated forms of critique. Do not frame learners' educational backgrounds as lacking critical thinking or contrast 'Western' and 'non-Western' thinkers; such framings are native-speakerist and empirically unfounded.",
@@ -22843,8 +22839,8 @@
           "pattern": "'A good essay is balanced and does not take sides.'",
           "kind": "prior-schooling",
           "revealedBy": "Refusal to reach a conclusion even when the task asks 'to what extent'.",
-          "response": "Show that in most UK HE genres balanced consideration is expected to lead to a reasoned position; contrast discussion and argumentative tasks.",
-          "reteachPrerequisiteId": "rds.writer-stance"
+          "response": "Show that in many English-medium university genres (check local criteria) balanced consideration is expected to lead to a reasoned position; contrast discussion and argumentative tasks.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -23057,7 +23053,7 @@
     },
     {
       "topicId": "crt.problem-solving",
-      "summary": "Hoey's situation–problem–response–evaluation pattern gives a textual model of the reasoning process and links problem-solving to the structure of problem–solution essays, reports and case analyses. Facione's consensus statement presents critical-thinking skills such as analysis, evaluation and inference as the means of reasoned problem-solving and decision-making. Separating option generation from option evaluation, and making evaluation criteria explicit, are the two moves most likely to improve student work.",
+      "summary": "Hoey's situation–problem–response–evaluation pattern gives a textual model of the reasoning process and links problem-solving to the structure of problem–solution essays, reports and case analyses. Facione's consensus statement presents critical-thinking skills such as analysis, evaluation and inference as the means of reasoned problem-solving and decision-making. Separating option generation from option evaluation, and making evaluation criteria explicit, are, in practitioner experience, the two moves most likely to improve student work; neither cited source tests this.",
       "activities": [
         {
           "title": "Symptom or cause?",
@@ -23319,7 +23315,7 @@
     },
     {
       "topicId": "arg.toulmin",
-      "summary": "Toulmin proposed his layout as a field-dependent alternative to formal logic, describing how practical arguments move from data to claim through warrants that may themselves need backing and that are limited by qualifiers and rebuttal conditions. Qin and Karabacak's analysis of Chinese EFL university students' argumentative essays used a modified Toulmin scheme and found that counter-argument and rebuttal elements were relatively infrequent but associated with higher-rated essays. Andrews cautions that the model analyses individual arguments rather than whole texts, so use it diagnostically and keep the terminology light at lower levels.",
+      "summary": "Toulmin proposed his layout as a field-dependent alternative to formal logic, describing how practical arguments move from data to claim through warrants that may themselves need backing and that are limited by qualifiers and rebuttal conditions. Qin and Karabacak's study of argumentative essays by EFL undergraduates at one Chinese university used a modified Toulmin scheme and found that counter-argument and rebuttal elements were relatively infrequent but associated with higher-rated essays; Wingate (2012) similarly reports that students at a UK university were often unclear about what argument requires, so the pattern reflects novice status and instruction, not nationality. Andrews cautions that the model analyses individual arguments rather than whole texts, so use it diagnostically and keep the terminology light at lower levels.",
       "activities": [
         {
           "title": "Unpacking an argument",
@@ -24156,7 +24152,7 @@
         },
         {
           "pattern": "'I'm only a student, so I can't evaluate published research.'",
-          "kind": "prior-schooling",
+          "kind": "affective",
           "revealedBy": "Deferential positioning; summaries without evaluation; reluctance to claim originality.",
           "response": "Show that the role of evaluator is expected of students in the target context and model how to evaluate with appropriate mitigation.",
           "reteachPrerequisiteId": null
@@ -25429,7 +25425,7 @@
             "Peer-check that each stage does its job"
           ],
           "intendedInsight": "Each reflective stage has typical language; reflection is a learnable academic genre.",
-          "rationale": "Applies Ryan's (2011) social semiotic account of reflective writing and its 4Rs scaffold.",
+          "rationale": "Applies Ryan's (2011) social semiotic account of reflective writing and the 4Rs scaffold she adapted from earlier work by Bain and colleagues.",
           "citations": [
             "ryan2011"
           ]
@@ -26753,7 +26749,7 @@
           "kind": "affective",
           "revealedBy": "Reviews in which every study is presented neutrally or approvingly and no tensions or weaknesses are named.",
           "response": "Present evaluation as a disciplinary expectation, model mitigated evaluation from published reviews and discuss authorial identity explicitly (Kamler & Thomson 2014).",
-          "reteachPrerequisiteId": "res.gap-niche"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -27173,7 +27169,7 @@
     },
     {
       "topicId": "res.research-questions",
-      "summary": "Treat research questions as the hinge between the gap and the design: they should follow from the literature and determine what data and analysis are needed. Creswell and Creswell (2018) offer scripts for purpose statements, questions and hypotheses across qualitative, quantitative and mixed designs, and Bunton (2002) shows that statements of purpose and questions are a recurrent element of PhD thesis introductions. Teaching works best through repeated revision of the learner's own questions against their methods, rather than through generic question-writing exercises.",
+      "summary": "Treat research questions as the hinge between the gap and the design: they should follow from the literature and determine what data and analysis are needed. Creswell and Creswell (2018) offer scripts for purpose statements, questions and hypotheses across qualitative, quantitative and mixed designs, and Bunton (2002) shows that statements of purpose and questions are a recurrent element of PhD thesis introductions. In practitioner experience, teaching works best through repeated revision of the learner's own questions against their methods, rather than through generic question-writing exercises.",
       "activities": [
         {
           "title": "Alignment table",
@@ -27762,9 +27758,7 @@
           ],
           "intendedInsight": "The same procedure must be described differently for a committee and for a participant, without loss of accuracy.",
           "rationale": "Adapting register for a non-specialist audience is a mediation skill; comprehension checks with lay readers make clarity testable.",
-          "citations": [
-            "creswell2018"
-          ]
+          "citations": []
         },
         {
           "title": "Consistency audit",
@@ -27847,9 +27841,9 @@
       "difficulties": [
         {
           "pattern": "My supervisor said 'you might want to think about' restructuring, so it's optional.",
-          "kind": "L1-transfer",
+          "kind": "conceptual",
           "revealedBy": "Hedged suggestions left unaddressed and surprise when the supervisor repeats them more forcefully.",
-          "response": "Discuss how indirectness in English academic feedback often encodes requests, and practise clarifying ('Would you like me to restructure this before the next draft?'). Note that this varies by individual supervisor.",
+          "response": "Discuss how indirectness in English academic feedback often encodes requests, and practise clarifying ('Would you like me to restructure this before the next draft?'). Note that this varies by individual supervisor and that many first-language English students misread hedged advice too; clarity is a shared responsibility, so where possible encourage supervisors to mark which suggestions are requirements.",
           "reteachPrerequisiteId": null
         },
         {
@@ -28171,10 +28165,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "Dear Respected Editor, I humbly request you to kindly consider my manuscript…",
-          "kind": "L1-transfer",
-          "revealedBy": "Highly deferential formulae carried over from correspondence norms where elaborate honorifics signal respect.",
-          "response": "Show that in English-medium journal correspondence, professional respect is conveyed through concision and specificity rather than honorifics. Present this as a genre convention, not as a judgement of other norms.",
+          "pattern": "Opening with several lines of courtesy formulae and expressions of humility before saying what the manuscript is.",
+          "kind": "prior-schooling",
+          "revealedBy": "Letters whose first paragraph contains courtesy formulae but no title, contribution or fit, often following formal-letter conventions taught at school or used in other varieties of English.",
+          "response": "Show that in English-medium journal correspondence, professional respect is conveyed through concision and specificity rather than honorifics. Present this as a convention of this genre, not as a judgement of other norms; such formulae are standard and respectful in many Englishes and need not be 'corrected' elsewhere.",
           "reteachPrerequisiteId": "prg.emails-to-staff"
         },
         {
@@ -28274,7 +28268,7 @@
     },
     {
       "topicId": "pub.peer-review-reports",
-      "summary": "Reviewing is both an evaluative genre and an ethical role. The ICMJE recommendations (ICMJE 2025) set out reviewers' responsibilities, including confidentiality and declaring competing interests. Paltridge (2017) and Fortanet (2008) analyse the language of referee reports, including how criticism and recommendations are framed. In classroom settings, Lundstrom and Baker (2009) found that L2 writers who gave peer feedback improved their own writing more than those who only received it, which suggests reviewing can also benefit early-career researchers' writing, although that study did not involve journal reviewing.",
+      "summary": "Reviewing is both an evaluative genre and an ethical role. The ICMJE recommendations (ICMJE 2025) set out reviewers' responsibilities, including confidentiality and declaring competing interests; journals and funders increasingly state that confidentiality rules out uploading manuscripts to generative AI tools. Paltridge (2017) and Fortanet (2008) analyse the language of referee reports, including how criticism and recommendations are framed. In classroom settings, Lundstrom and Baker (2009) found that L2 writers who gave peer feedback improved their own writing more than those who only received it, which suggests reviewing can also benefit early-career researchers' writing, although that study did not involve journal reviewing.",
       "activities": [
         {
           "title": "Report structure from exemplars",
@@ -28464,7 +28458,7 @@
         "partialResponse": "States the contribution but struggles to discuss limitations, or concedes too much.",
         "gapResponse": "Cannot state a contribution or becomes defensive."
       },
-      "contextNotes": "Formats differ substantially: UK and Irish closed vivas with internal and external examiners and outcomes such as minor or major corrections; Nordic and Dutch public defences with an opponent; North American committee defences; and systems, including many Australian universities, that examine the thesis in writing only. Preparation should follow local regulations.",
+      "contextNotes": "Formats differ substantially: UK and Irish closed vivas with internal and external examiners and outcomes such as minor or major corrections; public defences in the Netherlands, the Nordic countries and elsewhere in continental Europe, usually held after a committee has approved the written thesis and conducted by one opponent (as in Sweden or Finland) or several committee members (as in the Netherlands); North American committee defences, preceded by proposal defences or qualifying examinations; UK outcomes that also include revise-and-resubmit or a lower award; online and hybrid vivas; and systems, including many Australian universities, that examine the thesis in writing only. Preparation should follow local regulations.",
       "citations": [
         "paltridgestarfield2020",
         "swales2004",
@@ -28527,7 +28521,7 @@
       ],
       "diagnostic": {
         "task": "Ask the learner whether a person who only collected data qualifies as an author, and why.",
-        "strongResponse": "Applies all the criteria and explains that data collection alone usually warrants acknowledgement rather than authorship under ICMJE, while noting field variation.",
+        "strongResponse": "Applies all four ICMJE criteria: notes that data acquisition can satisfy the first, so the person is acknowledged unless they are also given, and take up, the opportunity to draft or critically revise, approve the final version and accept accountability; and notes that ICMJE was written for medical journals and that other fields follow other norms.",
         "partialResponse": "Gives an answer based on effort or seniority, with partial reference to criteria.",
         "gapResponse": "Has no criteria for deciding."
       },
@@ -28577,7 +28571,7 @@
           "pattern": "My English is the problem; native speakers have no difficulties publishing.",
           "kind": "affective",
           "revealedBy": "Attributing all rejections to language, and reluctance to submit.",
-          "response": "Discuss evidence that all novice writers face difficulties and that rejections usually concern content and fit, while acknowledging real additional costs. Avoid dismissing the learner's experience.",
+          "response": "Discuss evidence that all novice writers face rejection and that many rejections concern content and fit, while acknowledging that multilingual scholars report language-related reviewer comments and real additional costs (Flowerdew, 1999; Lillis & Curry, 2010). Avoid dismissing the learner's experience.",
           "reteachPrerequisiteId": "idn.standards-legitimacy"
         },
         {
@@ -28670,7 +28664,7 @@
     },
     {
       "topicId": "pub.academic-cv-bio",
-      "summary": "Academic self-presentation genres construct a professional identity. Ivanič (1998) frames writing as the discoursal construction of identity, and Hyland (2012) analysed article bio statements, showing how writers present credentials and affiliations and how this varies with seniority. The Vitae RDF names professional and career development as a sub-domain (Vitae 2010, B3). Teach each genre with exemplars from the target context, since CV and personal statement conventions differ across countries and sectors.",
+      "summary": "Academic self-presentation genres construct a professional identity. Ivanič (1998) frames writing as the discoursal construction of identity, and Hyland and Tse (2012) analysed article bio statements, showing how writers present credentials and affiliations and how this varies with seniority. The Vitae RDF names professional and career development as a sub-domain (Vitae 2010, B3). Teach each genre with exemplars from the target context, since CV and personal statement conventions differ across countries and sectors.",
       "activities": [
         {
           "title": "Bio comparison",
@@ -28681,7 +28675,7 @@
             "Write your own 100-word bio"
           ],
           "intendedInsight": "Bio statements follow conventions of content and order that signal membership of a field.",
-          "rationale": "Hyland (2012) shows that bio statements construct academic identity through selected credentials.",
+          "rationale": "Hyland and Tse (2012) show that bio statements construct academic identity through selected credentials.",
           "citations": [
             "hyland2012bios",
             "ivanic1998"
@@ -28712,7 +28706,7 @@
         },
         {
           "pattern": "Including a photo, date of birth and marital status on an academic CV.",
-          "kind": "L1-transfer",
+          "kind": "prior-schooling",
           "revealedBy": "CVs following conventions of another national context where such details are expected.",
           "response": "Show the target context's conventions and explain the reasons, such as equality legislation, without judging other conventions.",
           "reteachPrerequisiteId": null
@@ -31617,7 +31611,7 @@
       "difficulties": [
         {
           "pattern": "Reluctance to approach staff because it seems to challenge authority or waste their time.",
-          "kind": "prior-schooling",
+          "kind": "affective",
           "revealedBy": "Unclear comments never followed up; office hours unused.",
           "response": "Make the expectation explicit (in many UK institutions, students are expected to use office hours) and model requests.",
           "reteachPrerequisiteId": "fbk.feedback-literacy"
@@ -32059,7 +32053,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Learners report rules of thumb in place of reasoning.",
           "response": "Show that well-written items avoid such cues and redirect effort to knowledge and precise reading.",
-          "reteachPrerequisiteId": "sta.generalisation-qualification"
+          "reteachPrerequisiteId": "exm.exam-formats"
         }
       ],
       "diagnostic": {
@@ -32091,9 +32085,7 @@
           ],
           "intendedInsight": "In open-book exams, the speed of finding information depends on preparation done beforehand.",
           "rationale": "Time spent searching unorganised materials reduces time for analysis, which is what these formats reward.",
-          "citations": [
-            "pecorari2013"
-          ]
+          "citations": []
         },
         {
           "title": "Reproduction versus application",
@@ -32360,7 +32352,7 @@
     },
     {
       "topicId": "tst.cefr-entry",
-      "summary": "The CEFR (Council of Europe, 2001, 2020) is a descriptive framework of communicative ability, not a test; the Companion Volume refines and extends the illustrative scales, including plus levels and mediation. North (2014) explains that relating an examination to the CEFR requires specific procedures and expert judgement, so test-to-CEFR alignments are claims made by test owners, not exact conversions. As a UK example, the Student route requires English at CEFR B2 for degree-level study, shown through an approved test or, in some cases, the sponsoring provider's own assessment (UK Visas and Immigration, 2025); these rules change and must be checked at source. Arkoudis et al. (2012) argue that meeting entry standards is the start of language development, not its end.",
+      "summary": "The CEFR (Council of Europe, 2001, 2020) is a descriptive framework of communicative ability, not a test; the Companion Volume refines and extends the illustrative scales, including plus levels and mediation. North (2014) explains that relating an examination to the CEFR requires specific procedures and expert judgement, so test-to-CEFR alignments are claims made by test owners, not exact conversions. As a UK example, at the time of writing the Student route requires English at CEFR B2 for degree-level study (B1 below degree level), shown through a Home Office-approved secure English language test or, for degree-level study at higher education providers with a track record of compliance, the provider's own assessment, with some nationality and qualification exemptions (UK Visas and Immigration, 2025). Both the requirements and the approved-test arrangements change, so they must be checked at source and visa questions referred to qualified advisers. Arkoudis et al. (2012) argue that meeting entry standards is the start of language development, not its end.",
       "activities": [
         {
           "title": "Read the requirement",
@@ -32433,7 +32425,7 @@
     },
     {
       "topicId": "tst.test-formats",
-      "summary": "Bachman and Palmer (2010) describe how task characteristics shape what an assessment measures, which is why preparation should target the constructs behind task types rather than surface tricks. Washback, the influence of tests on teaching and learning, is real but complex (Alderson & Wall, 1993), and Green's (2007) study of IELTS preparation documents how test-focused preparation can narrow attention to test task types. Teach formats at the level of task types and constructs, using official current sample materials and public criteria, and do not reproduce test content. Formats and timings change, so learners should check the test owner's current information.",
+      "summary": "Bachman and Palmer (2010) describe how task characteristics shape what an assessment measures, which is why preparation should target the constructs behind task types rather than surface tricks. Washback, the influence of tests on teaching and learning, is more complex than often assumed and has to be demonstrated rather than presumed (Alderson & Wall, 1993), and Green's (2007) study of IELTS preparation documents how test-focused preparation can narrow attention to test task types. Teach formats at the level of task types and constructs, using official current sample materials and public criteria, and do not reproduce test content. Formats and timings change, so learners should check the test owner's current information.",
       "activities": [
         {
           "title": "Construct mapping",
@@ -32635,7 +32627,7 @@
         "partialResponse": "Summarises both but does not state the relationship, or states it with copied wording.",
         "gapResponse": "Summarises only one source or misrepresents the relationship."
       },
-      "contextNotes": "Foundation and pre-sessional learners preparing for tests with integrated tasks need this directly; it also prepares them for the source-based tasks of pre-sessional progression and university study.",
+      "contextNotes": "Foundation and pre-sessional learners preparing for tests that currently include integrated tasks need this directly (major tests have both added and removed integrated tasks in recent revisions, so check the test owner's current task list before teaching task-specific strategies); it also prepares them for the source-based tasks of pre-sessional progression and university study.",
       "citations": [
         "plakans2008",
         "plakansgebril2012"
@@ -34372,7 +34364,7 @@
         {
           "pattern": "Composing whole texts in another language and translating them.",
           "kind": "developmental",
-          "revealedBy": "Marked differences between in-class and submitted writing; rhetorical organisation that does not match the English genre.",
+          "revealedBy": "The learner's own account of their process; terminology or hedging that shifts in ways typical of MT output. Differences between in-class and submitted writing are expected and are not evidence on their own.",
           "response": "Discuss when planning in another language helps and when whole-text translation undermines development and may breach policy. Do not prohibit use of other languages in planning.",
           "reteachPrerequisiteId": null
         }
@@ -35049,14 +35041,14 @@
           "pattern": "'The ideas are mine, so it doesn't matter who wrote the sentences.'",
           "kind": "conceptual",
           "revealedBy": "Heavily AI-written text submitted with a sense of ownership.",
-          "response": "Explain that assessed writing evidences language and reasoning as well as ideas; refer to the policy.",
+          "response": "Explain that whether an assessment evidences language as well as ideas depends on its purpose and policy: language-focused tasks usually do, many content tasks may not. Discuss the debate openly, including the equity argument that AI language polishing resembles help from proofreaders or literacy brokers, and refer to the policy for the task.",
           "reteachPrerequisiteId": "int.plagiarism"
         },
         {
           "pattern": "'My own English sounds worse, so the AI version represents me better.'",
           "kind": "affective",
           "revealedBy": "Reluctance to submit own wording; anxiety about language.",
-          "response": "Value the learner's voice as legitimate; show that markers assess reasoning and clarity, not native-like polish.",
+          "response": "Value the learner's voice as legitimate and show where AI edits changed meaning or stance. Be honest that some readers do react to non-standard English, distinguish changes that improve clarity from those that only make text sound native-like, and point to the criteria actually used for the task.",
           "reteachPrerequisiteId": "sta.authorial-voice"
         }
       ],
@@ -35079,7 +35071,7 @@
     },
     {
       "topicId": "gai.detection-limits",
-      "summary": "Liang et al. (2023) found that several widely used GPT detectors misclassified more than half of a set of TOEFL essays written by non-native English writers as AI-generated, while classifying essays by US students largely correctly, and linked this to the detectors' reliance on measures of textual predictability. Weber-Wulff et al. (2023) found that the detection tools they tested were neither accurate nor reliable. Perkins (2023) cautions against relying on detection. Teaching should make clear that detector output cannot establish misconduct and help learners keep evidence of their writing process.",
+      "summary": "Liang et al. (2023) found that several widely used GPT detectors misclassified more than half of a set of TOEFL essays written by non-native English writers as AI-generated, while classifying essays by US eighth-grade students largely correctly, and linked this to the detectors' reliance on measures of textual predictability. Weber-Wulff et al. (2023) found that the detection tools they tested were neither accurate nor reliable. Perkins (2023) cautions against relying on detection. Teaching should make clear that detector output cannot establish misconduct, that the burden of proof lies with the institution, and that keeping ordinary process records is a sensible habit rather than an obligation to prove innocence.",
       "activities": [
         {
           "title": "What the detector sees",
@@ -35808,7 +35800,7 @@
     },
     {
       "topicId": "dhl.reflective-practice",
-      "summary": "Reflective writing in health draws on Schön's (1983) account of reflection-in-action and reflection-on-action and is usually scaffolded with models such as Gibbs's (1988) cycle or Rolfe et al.'s (2001) What? So what? Now what? framework. Models help, but used mechanically they produce long descriptions and superficial analysis. Ryan (2011) proposes making the language of deeper reflection explicit: shifts from past-tense report to present-tense analysis that draws on theory, and to future-oriented action. Programmes differ in the model they require and in the use of first person, so check the brief and use local exemplars.",
+      "summary": "Reflective writing in health draws on Schön's (1983) account of reflection-in-action and reflection-on-action and is usually scaffolded with models such as Gibbs's (1988) cycle or the What? So what? Now what? questions (originating with Borton and developed by Driscoll and by Rolfe et al., 2001). Models help, but used mechanically they produce long descriptions and superficial analysis. Ryan (2011) proposes making the language of deeper reflection explicit: shifts from past-tense report to present-tense analysis that draws on theory, and to future-oriented action. Programmes differ in the model they require and in the use of first person, so check the brief and use local exemplars.",
       "activities": [
         {
           "title": "Weighing the stages",
@@ -35869,7 +35861,7 @@
         "partialResponse": "Follows the stages but analysis is limited to personal feelings, or the action plan is generic.",
         "gapResponse": "Narrative account of the event with an evaluative conclusion and no analysis."
       },
-      "contextNotes": "On pre-sessional health pathways, introduce reflection as a genre and its tense and stance patterns. UG nursing, midwifery and allied health students write reflections from the first placement onwards. PGT practitioners may need help to make reflection analytical and to link it to advanced practice literature.",
+      "contextNotes": "On pre-sessional health pathways, introduce reflection as a genre and its tense and stance patterns. UG nursing, midwifery and allied health students write reflections from the first placement onwards; teach early that, following UK regulators' joint guidance on reflective practice, reflective accounts should be anonymised and focused on learning rather than on a detailed factual record, because they are not legally privileged. PGT practitioners may need help to make reflection analytical and to link it to advanced practice literature.",
       "citations": [
         "gibbs1988",
         "schon1983",

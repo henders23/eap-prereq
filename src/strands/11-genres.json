@@ -6,7 +6,7 @@
       "strand": "Academic Genres",
       "name": "Essay & Examination Genres",
       "summary": "This domain covers the essay, examination, review and source-based genres most often assessed in foundation, pre-sessional and taught programmes, together with the genre concepts and analytic strategies learners need to handle genres they have not been explicitly taught. Each genre topic integrates component skills from the writing, sources, argument, discourse and reading strands, and describes typical purposes, stages and language; because conventions vary by discipline, department and assignment brief, every topic stresses analysis of local exemplars, briefs and marking criteria rather than a single template. The domain draws on all three genre traditions (ESP, Sydney School and New Rhetoric) and on corpus evidence about genre families in UK student writing.",
-      "learnerSummary": "You will learn what different kinds of academic writing are for, how they are usually organised and what language they use, and how to analyse examples and assignment briefs so that you can write genres nobody has taught you.",
+      "learnerSummary": "You will learn what different kinds of academic writing are for, how they are usually organised and what language they use, and how to analyse examples and assignment briefs so that you can write new types of text that nobody has taught you.",
       "stageEmphasis": {
         "foundation": "Explanation, discussion, compare-and-contrast, problem–solution, short-answer and summary–response genres with strong scaffolding, plus the idea that texts are shaped by purpose and reader.",
         "pre-sessional": "The shift from test-style opinion essays to source-based argumentative essays, critiques, annotated bibliographies and short literature reviews, with guided analysis of target-department exemplars.",
@@ -52,7 +52,7 @@
       "type": "CONCEPTUAL",
       "strand": "Academic Genres",
       "domain": "Essay & Examination Genres",
-      "name": "Genre and discourse community",
+      "name": "What a genre is",
       "description": "Understand a genre as a recognisable, purpose-driven type of communicative event (an essay, a lab report, a case study, an email to a tutor) whose typical stages, content and language are shaped by the shared purposes and expectations of a discourse community. Seeing conventions as motivated responses to purpose, reader and context, rather than as arbitrary rules, lets learners explain why texts differ across modules and adapt to genres they have not been taught.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
@@ -153,7 +153,7 @@
       "strand": "Academic Genres",
       "domain": "Essay & Examination Genres",
       "name": "Genre families in university assessment",
-      "description": "Know the range of genres in which students are assessed (essays, critiques, explanations, exercises, case studies, literature surveys, methodology recounts such as lab reports, research reports, proposals, design specifications, problem questions, and narrative or reflective recounts) and the broad social purposes they serve, from demonstrating knowledge to preparing for professional practice. This map helps learners recognise what an assignment is asking for and see that the essay is not the only, or even the dominant, genre in many disciplines.",
+      "description": "Know the range of genres in which students are assessed (essays, critiques, explanations, exercises, case studies, literature surveys, methodology recounts such as lab reports, research reports, proposals, design specifications, problem questions, narrative or reflective recounts, and empathy writing for non-specialist or professional readers) and the broad social purposes they serve, from demonstrating knowledge to preparing for professional practice. This map helps learners recognise what an assignment is asking for and see that the essay is not the only, or even the dominant, genre in many disciplines.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
@@ -248,7 +248,7 @@
       "domain": "Essay & Examination Genres",
       "name": "Discussion essay",
       "description": "Produce an essay that represents two or more perspectives on an issue fairly, weighs them against evidence and explicit criteria, and reaches a reasoned, qualified conclusion. Typical stages are statement of the issue, presentation of perspectives (in blocks or point by point), evaluation and judgement; characteristic language includes attribution and reporting verbs, contrastive connectors, concession and evaluative lexis. In UK higher education even a 'discuss' essay is usually expected to arrive at a position, and often to signal it early.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -329,7 +329,7 @@
       "domain": "Essay & Examination Genres",
       "name": "Explanation and cause–effect essay",
       "description": "Produce an essay that explains how or why a phenomenon occurs: its causes (factorial explanation), its consequences (consequential explanation) or the mechanism or sequence by which it happens, evaluating the relative importance and certainty of the factors. Typical stages are identification of the phenomenon, an explanation sequence organised by factor, consequence or step, and a conclusion that weighs the factors; characteristic language includes causal verbs and nouns (lead to, result in, a consequence of), nominalised causal chains, hedged causal claims and sequencing.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -375,7 +375,7 @@
       "domain": "Essay & Examination Genres",
       "name": "Problem–solution essay",
       "description": "Produce an essay that defines a problem, establishes its causes and significance, presents possible responses and evaluates them against criteria such as effectiveness, feasibility, cost and equity, ending with a justified recommendation. The genre realises the situation–problem–response–evaluation pattern; characteristic language includes problem-signalling nouns (challenge, barrier, shortfall), evaluative lexis, conditional and hypothetical reasoning, and recommending language.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -461,7 +461,7 @@
       "domain": "Essay & Examination Genres",
       "name": "Short-answer responses",
       "description": "Write concise, accurate answers, from a sentence to a paragraph, that define, identify, explain or briefly justify, as required in coursework exercises, short-answer exam questions and in-class tests. Markers reward precision, correct terminology and completeness relative to the marks available rather than introductions or elaboration; typical language includes formal definitions, compact causal and procedural explanation, and dense noun phrases.",
-      "cefrStart": "B1",
+      "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
         "foundation",
@@ -623,6 +623,14 @@
             "C1"
           ],
           "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:prod.writ.creative",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
         }
       ]
     },
@@ -1395,7 +1403,7 @@
     {
       "topicId": "ges.argumentative-essay",
       "prerequisiteId": "arg.extended-argument",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "The body of the essay is a sequence of sub-claims that must build a cumulative case, which is the skill of structuring an extended argument."
     },
     {
@@ -1569,7 +1577,7 @@
     {
       "topicId": "ges.reflective-writing",
       "prerequisiteId": "crt.applying-theory",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Academic reflection is assessed largely on how experience is interpreted through relevant theory, research or standards."
     },
     {
@@ -1677,7 +1685,7 @@
     {
       "topicId": "grp.lab-report",
       "prerequisiteId": "dat.data-commentary",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "The results section depends on locating data, highlighting significant findings and commenting on them without over-interpreting."
     },
     {
@@ -1949,6 +1957,48 @@
       "prerequisiteId": "sen.concision",
       "strength": "soft",
       "reason": "Word limits make concise phrasing essential to include all required moves."
+    },
+    {
+      "topicId": "ges.argumentative-essay",
+      "prerequisiteId": "arg.position",
+      "strength": "hard",
+      "reason": "The genre is organised around a sustained, supported position on the question; taking and defending a position is the core argumentative competence the essay assesses"
+    },
+    {
+      "topicId": "grp.lab-report",
+      "prerequisiteId": "dat.referring-to-visuals",
+      "strength": "hard",
+      "reason": "Lab-report results present measurements in numbered tables and figures that the text must refer to and direct the reader through"
+    },
+    {
+      "topicId": "ges.discussion-essay",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "soft",
+      "reason": "University discussion essays present perspectives from sources, which must be introduced, cited and commented on within paragraphs"
+    },
+    {
+      "topicId": "ges.compare-contrast-essay",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "soft",
+      "reason": "Points of comparison in university essays are usually supported with cited source evidence integrated within paragraphs"
+    },
+    {
+      "topicId": "ges.explanation-essay",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "soft",
+      "reason": "Factors and mechanisms in university explanation essays are supported with cited evidence integrated within paragraphs"
+    },
+    {
+      "topicId": "ges.problem-solution-essay",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "soft",
+      "reason": "Claims about the problem and the effectiveness of responses are supported with cited evidence integrated within paragraphs"
+    },
+    {
+      "topicId": "ges.reflective-writing",
+      "prerequisiteId": "lrn.reflective-logs",
+      "strength": "soft",
+      "reason": "Regular dated learning logs build the habit of selective recording and evaluation on which extended reflective commentaries draw"
     }
   ],
   "guidance": [
@@ -2799,7 +2849,7 @@
             "Peer-check that each stage does its job"
           ],
           "intendedInsight": "Each reflective stage has typical language; reflection is a learnable academic genre.",
-          "rationale": "Applies Ryan's (2011) social semiotic account of reflective writing and its 4Rs scaffold.",
+          "rationale": "Applies Ryan's (2011) social semiotic account of reflective writing and the 4Rs scaffold she adapted from earlier work by Bain and colleagues.",
           "citations": [
             "ryan2011"
           ]

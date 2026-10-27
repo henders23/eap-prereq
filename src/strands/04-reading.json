@@ -1104,7 +1104,7 @@
       "domain": "Reading Strategies & Comprehension",
       "name": "Skimming for gist",
       "description": "Read rapidly and selectively, sampling headings, the opening and closing sentences of paragraphs and salient words, to grasp the gist and overall structure of a text. Skimming is useful for orientation and relevance decisions, but it inevitably reduces comprehension of what is skipped, so it complements rather than replaces careful reading of texts that matter for the task.",
-      "cefrStart": "B1",
+      "cefrStart": "A2",
       "cefrEnd": "B2",
       "stages": [
         "foundation",
@@ -1146,7 +1146,7 @@
       "domain": "Reading Strategies & Comprehension",
       "name": "Scanning for specific information",
       "description": "Locate specific information such as names, dates, figures, terms or a particular claim by searching for its likely form rather than reading continuously, then read the surrounding text carefully to confirm that it answers the question. In academic work scanning is used with indexes, tables, reference lists and long documents, increasingly through digital search, so anticipating wording and verifying context matter more than raw speed.",
-      "cefrStart": "B1",
+      "cefrStart": "A2",
       "cefrEnd": "B2",
       "stages": [
         "foundation",
@@ -1907,7 +1907,7 @@
     {
       "topicId": "rdc.critical-response",
       "prerequisiteId": "rdc.evidence-evaluation",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Supporting an evaluative position requires judgements about the text's evidence"
     },
     {
@@ -1919,7 +1919,7 @@
     {
       "topicId": "rdp.parsing-complex-sentences",
       "prerequisiteId": "grm.nominalisation",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Unpacking nominalised processes, and the postmodified noun phrases that carry them, into who-did-what clauses is the core operation in parsing compressed academic prose"
     },
     {
@@ -2055,12 +2055,6 @@
       "reason": "Identifying central claims within paragraphs draws on recognising controlling sentences and development patterns"
     },
     {
-      "topicId": "rds.main-ideas",
-      "prerequisiteId": "rdp.parsing-complex-sentences",
-      "strength": "soft",
-      "reason": "Main claims in academic prose are often carried by long nominalised sentences that must be parsed accurately"
-    },
-    {
       "topicId": "rds.paragraph-structure-reading",
       "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
@@ -2125,12 +2119,6 @@
       "prerequisiteId": "rds.main-ideas",
       "strength": "soft",
       "reason": "Classifying statements by status presupposes identifying the propositions a paragraph makes and how they relate"
-    },
-    {
-      "topicId": "rds.fact-opinion-claim",
-      "prerequisiteId": "sta.hedging",
-      "strength": "soft",
-      "reason": "Hedges are a principal cue to the strength and status of claims"
     },
     {
       "topicId": "rds.writer-stance",
@@ -2209,12 +2197,24 @@
       "prerequisiteId": "rds.main-ideas",
       "strength": "soft",
       "reason": "Reconciling text with a visual requires first identifying the claim the text makes about the data"
+    },
+    {
+      "topicId": "rdp.parsing-complex-sentences",
+      "prerequisiteId": "grm.subordination",
+      "strength": "hard",
+      "reason": "Finding the main clause of a long sentence means bracketing adverbial and other subordinate clauses and identifying which finite verb belongs to the main clause"
+    },
+    {
+      "topicId": "rdp.parsing-complex-sentences",
+      "prerequisiteId": "grm.relative-clauses",
+      "strength": "hard",
+      "reason": "Embedded relative clauses separate a head noun from its verb; parsing requires locating where the relative clause begins and ends"
     }
   ],
   "guidance": [
     {
       "topicId": "rdc.critical-reading",
-      "summary": "Moore (2013) found that academics across disciplines understand critical thinking in at least seven different ways, from judgement and scepticism to sensitive reading and self-reflexivity, and Atkinson (1997) questioned whether it can be taught as a culture-free, generic skill. Wallace and Wray (2016) present critical reading as evaluating texts in relation to the reader's own purpose, with constructive as well as sceptical engagement. Teach critical reading as discipline-situated questioning and evaluation, model it with texts from learners' fields, and make explicit that being critical includes recognising strengths.",
+      "summary": "Moore (2013) found that academics in history, philosophy and cultural studies understand critical thinking in at least seven different ways, from judgement and scepticism to sensitive reading and self-reflexivity, and Atkinson (1997) questioned whether it can be taught as a culture-free, generic skill. Wallace and Wray (2016) present critical reading as evaluating texts in relation to the reader's own purpose, with constructive as well as sceptical engagement. Teach critical reading as discipline-situated questioning and evaluation, model it with texts from learners' fields, and make explicit that being critical includes recognising strengths.",
       "activities": [
         {
           "title": "Description versus evaluation sort",
@@ -3004,7 +3004,7 @@
           "kind": "conceptual",
           "revealedBy": "Responses whose reasons do not refer to the text's argument or evidence.",
           "response": "Require each reason to be linked to a specific feature of the text.",
-          "reteachPrerequisiteId": "rdc.evidence-evaluation"
+          "reteachPrerequisiteId": "rdc.critical-questions"
         },
         {
           "pattern": "Summarises at length and adds a one-line evaluation.",
@@ -3236,7 +3236,7 @@
         "partialResponse": "Good comprehension at a markedly slow rate, or a fast rate with weak comprehension.",
         "gapResponse": "Slow rate and weak comprehension even on easy text, suggesting vocabulary or word-recognition gaps rather than a fluency problem."
       },
-      "contextNotes": "Foundation and pre-sessional programmes can timetable a regular fluency strand. In-sessional learners benefit from self-access timed reading with progress charts. For postgraduates the focus shifts to rate flexibility across specialist text types and to realistic planning; very high rates are not a goal.",
+      "contextNotes": "Foundation and pre-sessional programmes can timetable a regular fluency strand. In-sessional learners benefit from self-access timed reading with progress charts. For postgraduates the focus shifts to rate flexibility across specialist text types and to realistic planning; very high rates are not a goal. Adapt timed reading for learners with dyslexia, visual impairment or other access needs, for example with text-to-speech or untimed versions.",
       "citations": [
         "rayner2016",
         "nation2009readingwriting",
@@ -3796,7 +3796,7 @@
     },
     {
       "topicId": "rds.skimming",
-      "summary": "Skimming has a legitimate role in orientation and relevance decisions, but Rayner et al. (2016) show that it trades comprehension for speed: readers lose information in what they skip and are less able to judge what mattered. Materials shaped by test formats often over-teach skimming and scanning relative to careful reading for learning and argument, which Grabe (2009) and Grabe and Stoller (2011) identify as central academic reading purposes. Teach skimming as a bounded, purposeful technique and always pair it with decisions about which parts to read carefully.",
+      "summary": "Skimming has a legitimate role in orientation and relevance decisions, but Rayner et al. (2016) show that it trades comprehension for speed: readers lose information in what they skip, so skimming serves gist and relevance decisions only when readers can identify the important parts. Materials shaped by test formats often over-teach skimming and scanning relative to careful reading for learning and argument, which Grabe (2009) and Grabe and Stoller (2011) identify as central academic reading purposes. Teach skimming as a bounded, purposeful technique and always pair it with decisions about which parts to read carefully.",
       "activities": [
         {
           "title": "Skim, then decide",
@@ -3977,7 +3977,7 @@
           "kind": "developmental",
           "revealedBy": "Verbatim main-idea statements that include irrelevant modifiers.",
           "response": "Require own-word statements of a fixed short length; if the learner cannot shorten the sentence, check whether they have parsed it. Treat copying here as a comprehension signal, not as an integrity issue.",
-          "reteachPrerequisiteId": "rdp.parsing-complex-sentences"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4369,7 +4369,7 @@
           "kind": "developmental",
           "revealedBy": "Summaries that drop 'may', 'suggests' or 'in this sample'.",
           "response": "Teach hedges as meaning-bearing and check every summary for preserved certainty.",
-          "reteachPrerequisiteId": "sta.hedging"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4459,7 +4459,7 @@
     },
     {
       "topicId": "rds.comprehension-monitoring",
-      "summary": "Metacognitive monitoring is a hallmark of skilled reading (Flavell, 1979), and strategy inventories such as MARSI (Mokhtari & Reichard, 2002) and SORS (Sheorey & Mokhtari, 2001) indicate that more able readers report greater use of monitoring and problem-solving strategies. Reciprocal teaching combines predicting, questioning, clarifying and summarising with modelling and gradual handover (Palincsar & Brown, 1984). Teach monitoring through think-alouds and inconsistency-detection tasks, and be candid that self-report inventories measure awareness rather than use and that the effects of strategy instruction are variable and depend on adequate language knowledge (Plonsky, 2011).",
+      "summary": "Metacognitive monitoring is a hallmark of skilled reading (Flavell, 1979), and strategy inventories such as MARSI (Mokhtari & Reichard, 2002) and SORS (Sheorey & Mokhtari, 2001) indicate that more able readers report greater use of monitoring and problem-solving strategies. Reciprocal teaching combines predicting, questioning, clarifying and summarising with modelling and gradual handover (Palincsar & Brown, 1984). Teach monitoring through think-alouds and inconsistency-detection tasks, and be candid that self-report inventories measure awareness rather than use and that the effects of strategy instruction are variable (Plonsky, 2011) and are likely to depend on adequate language knowledge.",
       "activities": [
         {
           "title": "Reciprocal teaching groups",
@@ -4531,7 +4531,7 @@
     },
     {
       "topicId": "rds.annotation",
-      "summary": "Dunlosky et al. (2013) rate highlighting and underlining as low-utility study techniques, largely because they require little processing. Annotation adds value when readers summarise, question and connect in their own words, in parallel with the encoding benefits of generative note-taking (Kiewra, 1985). Teach a small, purposeful annotation system linked to the reading task and to later note-making, and make the separation of author's and reader's ideas a routine part of it.",
+      "summary": "Dunlosky et al. (2013) rate highlighting and underlining as low-utility study techniques, largely because they require little processing. Annotation adds value when readers summarise, question and connect in their own words, in line with Kiewra's (1985) depth-of-processing account of note-taking, although his review found the benefits of reviewing notes more consistent than the encoding benefits of taking them. Teach a small, purposeful annotation system linked to the reading task and to later note-making, and make the separation of author's and reader's ideas a routine part of it.",
       "activities": [
         {
           "title": "Annotation audit",

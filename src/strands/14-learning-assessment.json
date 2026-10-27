@@ -270,7 +270,7 @@
       "type": "PROCEDURAL",
       "strand": "Learning & Autonomy",
       "domain": "Exams & Timed Performance",
-      "name": "Open-book and take-home exams",
+      "name": "Open-book, take-home and online time-windowed exams",
       "description": "Prepare for and complete open-book and take-home exams, recognising that they assess application, analysis and synthesis rather than recall: organising and indexing permitted materials in advance, managing extended time windows, and observing paper-specific rules on collaboration, sources, citation and AI use.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
@@ -985,7 +985,16 @@
         "moon2004",
         "zimmerman2002"
       ],
-      "frameworks": []
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.creative",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
     },
     {
       "id": "lrn.support-services",
@@ -1146,7 +1155,7 @@
         "Explains what a CEFR level describes and why a learner's profile can differ across skills",
         "Reads a programme's entry requirement (overall and minimum component scores) and determines whether a given score profile meets it",
         "Explains that alignments between tests and the CEFR are published by test owners, are approximate, and do not make scores from different tests interchangeable",
-        "Distinguishes institutional entry requirements from immigration requirements, using the UK Student route as an example, and identifies the official source for checking current rules",
+        "Distinguishes institutional entry requirements from immigration requirements, using a relevant national student-visa route (for example the UK Student route) as an example, and identifies the official source for checking current rules",
         "Explains why meeting the entry threshold does not guarantee readiness for all the language demands of a programme"
       ],
       "assessmentPrompt": "Give a programme's entry requirement (an overall score plus minimum component scores) and three score profiles from the same test, one of which meets the overall requirement but misses a component minimum. Ask which profiles meet the requirement and why, and where the learner would check whether it also satisfies current visa rules. Look for attention to component minimums and to current official sources rather than agents or forums.",
@@ -1164,7 +1173,7 @@
       "strand": "Learning & Autonomy",
       "domain": "Proficiency Tests & Progression",
       "name": "Academic proficiency test formats",
-      "description": "Understand the task types and constructs of the major academic English proficiency tests used for university entry (for example, reading with selected-response items, lecture-style listening, independent and integrated writing, and interview-based or computer-delivered speaking), including differences in delivery mode and in human, automated or hybrid scoring, so that preparation targets what each test actually measures.",
+      "description": "Understand the task types and constructs of the major academic English proficiency tests used for university entry (for example, reading with selected-response items, lecture-style listening, independent writing and, in some tests only, integrated reading- or listening-into-writing or -speaking tasks, interview-based or computer-delivered speaking, and computer-adaptive item selection), including differences in delivery mode and in human, automated or hybrid scoring, so that preparation targets what each test actually measures.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
       "stages": [
@@ -1240,7 +1249,7 @@
       "strand": "Learning & Autonomy",
       "domain": "Proficiency Tests & Progression",
       "name": "Integrated test tasks",
-      "description": "Handle integrated test tasks that require reading and/or listening before writing or speaking: noting key points from the input efficiently, identifying the relationship between sources (for example, a talk that challenges a reading), selecting and transforming content in one's own words, and organising the response around the task's specific demand within the time limit.",
+      "description": "Handle integrated test tasks that require reading and/or listening before writing or speaking: noting key points from the input efficiently, identifying the relationship between sources (for example, a talk that challenges or extends a reading, or several speakers' views that must be summarised together), selecting and transforming content in one's own words, and organising the response around the task's specific demand within the time limit.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "stages": [
@@ -1562,15 +1571,9 @@
       "reason": "Goal setting is a forethought process whose value lies in providing the standard for later self-monitoring and self-evaluation"
     },
     {
-      "topicId": "lrn.goal-setting",
-      "prerequisiteId": "acu.academic-expectations",
-      "strength": "soft",
-      "reason": "Academic goals must be derived from what university study actually requires (independence, criticality, participation)"
-    },
-    {
       "topicId": "lrn.time-management",
       "prerequisiteId": "lrn.goal-setting",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Prioritising and scheduling require explicit goals and sub-goals to allocate time against"
     },
     {
@@ -2070,7 +2073,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Learners report rules of thumb in place of reasoning.",
           "response": "Show that well-written items avoid such cues and redirect effort to knowledge and precise reading.",
-          "reteachPrerequisiteId": "sta.generalisation-qualification"
+          "reteachPrerequisiteId": "exm.exam-formats"
         }
       ],
       "diagnostic": {
@@ -2102,9 +2105,7 @@
           ],
           "intendedInsight": "In open-book exams, the speed of finding information depends on preparation done beforehand.",
           "rationale": "Time spent searching unorganised materials reduces time for analysis, which is what these formats reward.",
-          "citations": [
-            "pecorari2013"
-          ]
+          "citations": []
         },
         {
           "title": "Reproduction versus application",
@@ -2757,7 +2758,7 @@
       "difficulties": [
         {
           "pattern": "Reluctance to approach staff because it seems to challenge authority or waste their time.",
-          "kind": "prior-schooling",
+          "kind": "affective",
           "revealedBy": "Unclear comments never followed up; office hours unused.",
           "response": "Make the expectation explicit (in many UK institutions, students are expected to use office hours) and model requests.",
           "reteachPrerequisiteId": "fbk.feedback-literacy"
@@ -3834,7 +3835,7 @@
     },
     {
       "topicId": "tst.cefr-entry",
-      "summary": "The CEFR (Council of Europe, 2001, 2020) is a descriptive framework of communicative ability, not a test; the Companion Volume refines and extends the illustrative scales, including plus levels and mediation. North (2014) explains that relating an examination to the CEFR requires specific procedures and expert judgement, so test-to-CEFR alignments are claims made by test owners, not exact conversions. As a UK example, the Student route requires English at CEFR B2 for degree-level study, shown through an approved test or, in some cases, the sponsoring provider's own assessment (UK Visas and Immigration, 2025); these rules change and must be checked at source. Arkoudis et al. (2012) argue that meeting entry standards is the start of language development, not its end.",
+      "summary": "The CEFR (Council of Europe, 2001, 2020) is a descriptive framework of communicative ability, not a test; the Companion Volume refines and extends the illustrative scales, including plus levels and mediation. North (2014) explains that relating an examination to the CEFR requires specific procedures and expert judgement, so test-to-CEFR alignments are claims made by test owners, not exact conversions. As a UK example, at the time of writing the Student route requires English at CEFR B2 for degree-level study (B1 below degree level), shown through a Home Office-approved secure English language test or, for degree-level study at higher education providers with a track record of compliance, the provider's own assessment, with some nationality and qualification exemptions (UK Visas and Immigration, 2025). Both the requirements and the approved-test arrangements change, so they must be checked at source and visa questions referred to qualified advisers. Arkoudis et al. (2012) argue that meeting entry standards is the start of language development, not its end.",
       "activities": [
         {
           "title": "Read the requirement",
@@ -3907,7 +3908,7 @@
     },
     {
       "topicId": "tst.test-formats",
-      "summary": "Bachman and Palmer (2010) describe how task characteristics shape what an assessment measures, which is why preparation should target the constructs behind task types rather than surface tricks. Washback, the influence of tests on teaching and learning, is real but complex (Alderson & Wall, 1993), and Green's (2007) study of IELTS preparation documents how test-focused preparation can narrow attention to test task types. Teach formats at the level of task types and constructs, using official current sample materials and public criteria, and do not reproduce test content. Formats and timings change, so learners should check the test owner's current information.",
+      "summary": "Bachman and Palmer (2010) describe how task characteristics shape what an assessment measures, which is why preparation should target the constructs behind task types rather than surface tricks. Washback, the influence of tests on teaching and learning, is more complex than often assumed and has to be demonstrated rather than presumed (Alderson & Wall, 1993), and Green's (2007) study of IELTS preparation documents how test-focused preparation can narrow attention to test task types. Teach formats at the level of task types and constructs, using official current sample materials and public criteria, and do not reproduce test content. Formats and timings change, so learners should check the test owner's current information.",
       "activities": [
         {
           "title": "Construct mapping",
@@ -4109,7 +4110,7 @@
         "partialResponse": "Summarises both but does not state the relationship, or states it with copied wording.",
         "gapResponse": "Summarises only one source or misrepresents the relationship."
       },
-      "contextNotes": "Foundation and pre-sessional learners preparing for tests with integrated tasks need this directly; it also prepares them for the source-based tasks of pre-sessional progression and university study.",
+      "contextNotes": "Foundation and pre-sessional learners preparing for tests that currently include integrated tasks need this directly (major tests have both added and removed integrated tasks in recent revisions, so check the test owner's current task list before teaching task-specific strategies); it also prepares them for the source-based tasks of pre-sessional progression and university study.",
       "citations": [
         "plakans2008",
         "plakansgebril2012"

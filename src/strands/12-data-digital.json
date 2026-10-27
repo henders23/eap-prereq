@@ -372,10 +372,6 @@
             "C1"
           ],
           "contribution": "component"
-        },
-        {
-          "key": "ielts:wr1.task-achievement",
-          "contribution": "related"
         }
       ]
     },
@@ -455,6 +451,13 @@
         {
           "key": "acrl:value",
           "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:med.text.explaining-data",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "component"
         }
       ]
     },
@@ -719,7 +722,7 @@
       "type": "STRATEGIC",
       "strand": "Digital Literacy & AI",
       "domain": "Digital Scholarship Tools",
-      "name": "Machine translation",
+      "name": "Translation tools in reading and drafting",
       "description": "Use machine translation (MT) strategically and transparently: to support comprehension of difficult texts, to check understanding, to explore wording and, where permitted, to support drafting, while recognising MT’s characteristic errors (terminology, register, lost hedging, ambiguity), verifying its output and complying with assessment rules. MT is a legitimate plurilingual resource, but undeclared or wholesale use in assessed writing can breach integrity policies and bypass language development.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
@@ -987,10 +990,6 @@
             "B2",
             "C1"
           ],
-          "contribution": "related"
-        },
-        {
-          "key": "vitae-rdf:D2",
           "contribution": "related"
         }
       ]
@@ -1630,7 +1629,7 @@
     {
       "topicId": "dat.data-commentary",
       "prerequisiteId": "sta.claim-calibration",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Highlighting statements and interpretations must be calibrated to what the data can support"
     },
     {
@@ -1686,12 +1685,6 @@
       "prerequisiteId": "dig.word-processing",
       "strength": "soft",
       "reason": "Citations are inserted and reference lists generated through the word processor, so basic document handling is needed first"
-    },
-    {
-      "topicId": "dig.word-processing",
-      "prerequisiteId": "grp.report-conventions",
-      "strength": "soft",
-      "reason": "Knowing why reports use numbered sections, headings and captions motivates using styles and automatic numbering to produce them"
     },
     {
       "topicId": "dig.machine-translation",
@@ -2900,7 +2893,7 @@
         {
           "pattern": "Composing whole texts in another language and translating them.",
           "kind": "developmental",
-          "revealedBy": "Marked differences between in-class and submitted writing; rhetorical organisation that does not match the English genre.",
+          "revealedBy": "The learner's own account of their process; terminology or hedging that shifts in ways typical of MT output. Differences between in-class and submitted writing are expected and are not evidence on their own.",
           "response": "Discuss when planning in another language helps and when whole-text translation undermines development and may breach policy. Do not prohibit use of other languages in planning.",
           "reteachPrerequisiteId": null
         }

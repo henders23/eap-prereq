@@ -1,0 +1,76 @@
+# Integration log
+
+Changes the curator made when merging the 16 authored strands (before adversarial review).
+
+## Cycles, redundant edges and structure
+
+- Removed `crt.questioning <- sem.questions-clarification`: cycle with `sem.questions-clarification <- crt.questioning`; critical questioning is the more foundational habit and seminar questioning applies it.
+- Removed `acu.transition <- idn.intercultural-communication`: cycle with `idn.intercultural-communication <- acu.transition`; transition is met first (foundation/pre-sessional) and is the experiential starting point for intercultural analysis.
+- Removed `grm.np-premodification <- grm.clause-elements`: soft edge implied by a longer prerequisite chain.
+- Removed `grm.tense-in-reporting <- grm.reporting-structures`: soft edge implied by a longer prerequisite chain.
+- Removed `grm.error-monitoring <- grm.clause-elements`: soft edge implied by a longer prerequisite chain.
+- Removed `fun.problem-solution <- fun.cause-effect`: soft edge implied by a longer prerequisite chain.
+- Removed `fun.hypothesising <- grm.epistemic-modality`: hard edge implied by a chain of hard edges.
+- Removed `sta.self-mention <- grm.passive-voice`: soft edge implied by a longer prerequisite chain.
+- Removed `sta.evaluating-others-language <- sta.concession-language`: soft edge implied by a longer prerequisite chain.
+- Removed `lis.digressions <- lis.lecture-discourse-markers`: soft edge implied by a longer prerequisite chain.
+- Removed `ntk.digital-notes <- ntk.functions-of-notes`: soft edge implied by a longer prerequisite chain.
+- Removed `grw.purposes <- acu.academic-expectations`: soft edge implied by a longer prerequisite chain.
+- Removed `grw.inclusive-collaboration <- idn.diversity-as-resource`: soft edge implied by a longer prerequisite chain.
+- Removed `prs.slide-design <- mmd.multimodal-literacy`: soft edge implied by a longer prerequisite chain.
+- Removed `prs.delivery-voice <- prn.thought-groups`: hard edge implied by a chain of hard edges.
+- Removed `sem.seminar-purposes <- acu.teaching-formats`: soft edge implied by a longer prerequisite chain.
+- Removed `sem.turn-taking <- sem.seminar-purposes`: soft edge implied by a longer prerequisite chain.
+- Removed `sem.checking-understanding <- sta.code-glosses`: soft edge implied by a longer prerequisite chain.
+- Removed `sem.facilitating <- sem.questions-clarification`: soft edge implied by a longer prerequisite chain.
+- Removed `ess.depth-focus <- crt.description-analysis-evaluation`: soft edge implied by a longer prerequisite chain.
+- Removed `par.internal-coherence <- coh.cohesion-vs-coherence`: soft edge implied by a longer prerequisite chain.
+- Removed `par.internal-coherence <- coh.linking-adverbials`: soft edge implied by a longer prerequisite chain.
+- Removed `src.quoting <- cit.when-to-cite`: soft edge implied by a longer prerequisite chain.
+- Removed `src.integrating-quotations <- grm.clause-elements`: soft edge implied by a longer prerequisite chain.
+- Removed `src.reporting-verbs <- voc.academic-verbs`: soft edge implied by a longer prerequisite chain.
+- Removed `syn.relating-sources <- src.reporting-verbs`: soft edge implied by a longer prerequisite chain.
+- Removed `cit.locators <- cit.author-date-in-text`: soft edge implied by a longer prerequisite chain.
+- Removed `int.collusion <- fbk.assessment-literacy`: soft edge implied by a longer prerequisite chain.
+- Removed `arg.argument-concept <- rds.main-ideas`: soft edge implied by a longer prerequisite chain.
+- Removed `arg.toulmin <- sta.hedging`: soft edge implied by a longer prerequisite chain.
+- Removed `arg.rhetorical-appeals <- wpr.audience-purpose`: soft edge implied by a longer prerequisite chain.
+- Removed `arg.oral-argument <- sta.spoken-stance`: soft edge implied by a longer prerequisite chain.
+- Removed `idn.academic-identity <- acu.discourse-communities`: soft edge implied by a longer prerequisite chain.
+- Removed `idn.intercultural-communication <- acu.transition`: soft edge implied by a longer prerequisite chain.
+- Removed `ges.argumentative-essay <- arg.rebuttal-concession`: soft edge implied by a longer prerequisite chain.
+- Removed `ges.reflective-writing <- crt.description-analysis-evaluation`: hard edge implied by a chain of hard edges.
+- Removed `ges.literature-review-assignment <- rdc.literature-mapping`: soft edge implied by a longer prerequisite chain.
+- Removed `dat.describing-trends <- voc.word-families-morphology`: soft edge implied by a longer prerequisite chain.
+- Removed `dat.describing-trends <- grm.prepositions`: soft edge implied by a longer prerequisite chain.
+- Removed `dat.creating-visuals <- dat.visual-types`: hard edge implied by a chain of hard edges.
+- Removed `dig.digital-etiquette <- reg.register-awareness`: soft edge implied by a longer prerequisite chain.
+- Removed `dig.automated-feedback-tools <- fbk.feedback-literacy`: soft edge implied by a longer prerequisite chain.
+- Removed `dig.automated-feedback-tools <- edt.revision-editing-proofreading`: soft edge implied by a longer prerequisite chain.
+- Removed `mmd.accessibility <- dat.captions-labelling`: soft edge implied by a longer prerequisite chain.
+- Removed `num.mathematical-expression <- grm.relative-clauses`: soft edge implied by a longer prerequisite chain.
+- Removed `pub.journal-selection <- inf.open-access`: soft edge implied by a longer prerequisite chain.
+- Removed `pub.conference-abstracts <- inf.scholarly-communication`: soft edge implied by a longer prerequisite chain.
+- Removed `pub.multilingual-scholars <- acu.academic-literacies`: soft edge implied by a longer prerequisite chain.
+- Removed `res.theoretical-framework <- rdc.theoretical-texts`: soft edge implied by a longer prerequisite chain.
+- Removed `res.methods <- grm.passive-voice`: soft edge implied by a longer prerequisite chain.
+- Removed `res.results <- sta.hedging`: soft edge implied by a longer prerequisite chain.
+- Removed `res.results <- grm.tense-aspect`: soft edge implied by a longer prerequisite chain.
+- Removed `res.quantitative-reporting <- dat.captions-labelling`: soft edge implied by a longer prerequisite chain.
+- Removed `res.discussion <- sta.claim-calibration`: hard edge implied by a chain of hard edges.
+- Removed `res.limitations <- sta.hedging`: soft edge implied by a longer prerequisite chain.
+- Removed `res.contribution <- sta.boosters`: soft edge implied by a longer prerequisite chain.
+- Removed `res.abstracts <- sen.concision`: soft edge implied by a longer prerequisite chain.
+- Removed `res.supervision <- fbk.feedback-literacy`: soft edge implied by a longer prerequisite chain.
+- Removed `exm.oral-exams <- prn.repair`: soft edge implied by a longer prerequisite chain.
+- Removed `acu.critical-eap <- acu.academic-literacies`: soft edge implied by a longer prerequisite chain.
+- Removed `acu.emi-tne <- acu.academic-expectations`: soft edge implied by a longer prerequisite chain.
+- Removed `prg.office-hours <- acu.teaching-formats`: soft edge implied by a longer prerequisite chain.
+- Removed `prg.office-hours <- prg.politeness`: soft edge implied by a longer prerequisite chain.
+- Removed `prg.forum-posts <- reg.register-awareness`: soft edge implied by a longer prerequisite chain.
+- Removed `prg.acknowledgements <- reg.register-awareness`: soft edge implied by a longer prerequisite chain.
+- Removed `dbe.business-case-analysis <- fun.recommending`: soft edge implied by a longer prerequisite chain.
+- Removed `dbe.critical-frameworks <- crt.description-analysis-evaluation`: hard edge implied by a chain of hard edges.
+- Removed `dhu.interpretive-argument <- sta.dialogic-positioning`: soft edge implied by a longer prerequisite chain.
+- Removed `dse.software-documentation <- wpr.audience-purpose`: soft edge implied by a longer prerequisite chain.
+- Moved the PRN (Pronunciation & Fluency) domain from Academic Listening to Academic Speaking.

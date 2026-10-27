@@ -1744,12 +1744,6 @@
   "dependencies": [
     {
       "topicId": "grw.purposes",
-      "prerequisiteId": "acu.academic-expectations",
-      "strength": "soft",
-      "reason": "Assessed collaboration is one expression of broader university expectations of independence and active participation"
-    },
-    {
-      "topicId": "grw.purposes",
       "prerequisiteId": "fbk.assessment-literacy",
       "strength": "soft",
       "reason": "Reading what a group task assesses depends on understanding assessment types, learning outcomes and how marks are allocated"
@@ -1813,12 +1807,6 @@
       "prerequisiteId": "idn.elf",
       "strength": "hard",
       "reason": "Accommodating to varied accents and proficiency rests on understanding communicative effectiveness among multilingual users of English"
-    },
-    {
-      "topicId": "grw.inclusive-collaboration",
-      "prerequisiteId": "idn.diversity-as-resource",
-      "strength": "soft",
-      "reason": "Challenging task allocation by assumed language ability requires rejecting deficit framings of multilingual students"
     },
     {
       "topicId": "grw.inclusive-collaboration",
@@ -1930,12 +1918,6 @@
     },
     {
       "topicId": "prs.slide-design",
-      "prerequisiteId": "mmd.multimodal-literacy",
-      "strength": "soft",
-      "reason": "Visual hierarchy and text–image relations on slides draw on understanding how modes combine to make meaning"
-    },
-    {
-      "topicId": "prs.slide-design",
       "prerequisiteId": "dat.creating-visuals",
       "strength": "soft",
       "reason": "Choosing and simplifying charts for slides applies principles of chart choice and honest design"
@@ -1963,12 +1945,6 @@
       "prerequisiteId": "prs.slide-design",
       "strength": "soft",
       "reason": "Visuals that have been simplified and built for presentation are far easier to talk through"
-    },
-    {
-      "topicId": "prs.delivery-voice",
-      "prerequisiteId": "prn.thought-groups",
-      "strength": "hard",
-      "reason": "Pausing and pacing in delivery depend on chunking speech into meaningful thought groups"
     },
     {
       "topicId": "prs.delivery-voice",
@@ -2134,12 +2110,6 @@
     },
     {
       "topicId": "sem.seminar-purposes",
-      "prerequisiteId": "acu.teaching-formats",
-      "strength": "soft",
-      "reason": "Seminar expectations are defined in contrast to other formats; learners first need to know what seminars and tutorials are and how they differ from lectures and labs"
-    },
-    {
-      "topicId": "sem.seminar-purposes",
       "prerequisiteId": "acu.academic-expectations",
       "strength": "soft",
       "reason": "Seminar participation norms are a concrete instance of broader expectations of independent, critical and active engagement"
@@ -2167,12 +2137,6 @@
       "prerequisiteId": "lis.multi-party-discussion",
       "strength": "hard",
       "reason": "Learners cannot find transition points or judge when to enter until they can track speakers, positions and turns in multi-party talk"
-    },
-    {
-      "topicId": "sem.turn-taking",
-      "prerequisiteId": "sem.seminar-purposes",
-      "strength": "soft",
-      "reason": "Knowing that self-selection is expected in seminars motivates and frames the teaching of floor-taking moves"
     },
     {
       "topicId": "sem.turn-taking",
@@ -2259,12 +2223,6 @@
       "reason": "Reformulating one's own unclear point uses self-repair and paraphrase strategies"
     },
     {
-      "topicId": "sem.checking-understanding",
-      "prerequisiteId": "sta.code-glosses",
-      "strength": "soft",
-      "reason": "Paraphrasing others and glossing terms relies on reformulation markers such as 'in other words' and 'so you mean'"
-    },
-    {
       "topicId": "sem.citing-in-speech",
       "prerequisiteId": "sem.opinions",
       "strength": "hard",
@@ -2305,12 +2263,6 @@
       "prerequisiteId": "sem.summarising-discussion",
       "strength": "hard",
       "reason": "Facilitators must summarise at transitions and at the close, and must track how contributions relate"
-    },
-    {
-      "topicId": "sem.facilitating",
-      "prerequisiteId": "sem.questions-clarification",
-      "strength": "soft",
-      "reason": "Opening questions and follow-up probes are the facilitator's main tools"
     },
     {
       "topicId": "sem.facilitating",
@@ -2659,7 +2611,7 @@
           "kind": "conceptual",
           "revealedBy": "Peers allocate peripheral tasks or ignore suggestions from some members.",
           "response": "Discuss evidence of positioning (Leki, 2001), separate language proficiency from expertise, and allocate content roles to all.",
-          "reteachPrerequisiteId": "idn.diversity-as-resource"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Proficient or confident speakers dominating without realising it.",
@@ -3107,7 +3059,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Visual elements that compete with or do not relate to the message.",
           "response": "Ask learners to justify every visual element by its function; remove those that have none.",
-          "reteachPrerequisiteId": "mmd.multimodal-literacy"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Pasting complex figures from published papers without simplification.",
@@ -3240,7 +3192,7 @@
           "kind": "performance",
           "revealedBy": "Rising speech rate and fewer pauses as the talk progresses, especially near the end.",
           "response": "Cut content rather than increasing speed; set time checkpoints. Do not simply tell the speaker to 'slow down' without reducing content.",
-          "reteachPrerequisiteId": "prn.thought-groups"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Distributing stress evenly across words and syllables, so key information does not stand out.",
@@ -3832,7 +3784,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Learners transfer a style (e.g. frequent interruption, or waiting to be nominated) into a setting where it does not fit, or report confusion when expectations differ.",
           "response": "Have learners compare two settings and identify the variables (class size, assessment, tutor style, discipline) that shape norms, and encourage them to ask tutors directly about expectations.",
-          "reteachPrerequisiteId": "acu.teaching-formats"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Equating participation solely with how much one speaks, and judging oneself or quieter peers as 'not participating'.",
@@ -3980,7 +3932,7 @@
           "kind": "affective",
           "revealedBy": "The learner reports trying to speak and being overlooked; observation shows peers not taking up their points.",
           "response": "Treat this as a group dynamic, not only the learner's problem: use structures such as rounds and nomination, and teach all students to take up others' points. Give the learner re-entry moves ('As I was starting to say…').",
-          "reteachPrerequisiteId": "sem.seminar-purposes"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4420,7 +4372,7 @@
           "kind": "performance",
           "revealedBy": "Each question is answered once and the next is asked; ideas are not developed.",
           "response": "Practise follow-up probes ('Can you say more about…?', 'How does that fit with what X said?') and listening for points to connect.",
-          "reteachPrerequisiteId": "sem.questions-clarification"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Putting quieter participants on the spot by nominating them without warning.",

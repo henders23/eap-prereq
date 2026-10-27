@@ -1344,12 +1344,6 @@
       "reason": "Locators are obligatory with direct quotation, so learners must first know what counts as quoting and when to quote"
     },
     {
-      "topicId": "cit.locators",
-      "prerequisiteId": "cit.author-date-in-text",
-      "strength": "soft",
-      "reason": "Locators are usually first taught as additions to author–date citations before pinpointing in note systems"
-    },
-    {
       "topicId": "cit.accuracy-consistency",
       "prerequisiteId": "cit.reference-list",
       "strength": "hard",
@@ -1588,12 +1582,6 @@
       "prerequisiteId": "int.integrity-values",
       "strength": "soft",
       "reason": "Collusion is best explained through fairness to other students and honesty about whose work is being assessed"
-    },
-    {
-      "topicId": "int.collusion",
-      "prerequisiteId": "fbk.assessment-literacy",
-      "strength": "soft",
-      "reason": "Whether collaboration is collusion depends on whether the assessment is individual or collaborative and on its stated rules"
     },
     {
       "topicId": "int.collusion",
@@ -3469,7 +3457,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Identical answers or code in individual submissions.",
           "response": "Validate collaborative learning, then distinguish discussing approaches from submitting shared answers in individually assessed work.",
-          "reteachPrerequisiteId": "fbk.assessment-literacy"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Avoiding all discussion with peers for fear of collusion.",

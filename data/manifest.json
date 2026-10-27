@@ -1,0 +1,80 @@
+{
+  "dataset": "EAP Skill Taxonomy",
+  "taxonomyVersion": "v1",
+  "releaseDate": "2026-10-27",
+  "counts": {
+    "strands": 15,
+    "domains": 51,
+    "topics": 557,
+    "topicsByStrand": {
+      "Academic Language": 83,
+      "Academic Discourse": 42,
+      "Academic Reading": 37,
+      "Academic Listening": 27,
+      "Academic Speaking": 47,
+      "Academic Writing": 42,
+      "Sources & Academic Integrity": 54,
+      "Argument & Critical Thinking": 35,
+      "Academic Genres": 29,
+      "Research Communication": 33,
+      "Data, Numeracy & Multimodality": 23,
+      "Learning & Autonomy": 35,
+      "Academic Socialisation & Communication": 20,
+      "Digital Literacy & AI": 18,
+      "Disciplinary Literacies": 32
+    },
+    "topicsByType": {
+      "LINGUISTIC": 110,
+      "CONCEPTUAL": 114,
+      "STRATEGIC": 56,
+      "SOCIOPRAGMATIC": 17,
+      "PROCEDURAL": 194,
+      "GENRE": 66
+    },
+    "topicsByStage": {
+      "foundation": 372,
+      "pre-sessional": 477,
+      "in-sessional-ug": 524,
+      "in-sessional-pgt": 467,
+      "pgr": 261
+    },
+    "topicsBySpecificity": {
+      "EGAP": 502,
+      "ESAP": 55
+    },
+    "dependencies": 1347,
+    "hardDependencies": 522,
+    "crossStrandDependencies": 658,
+    "guidanceRecords": 557,
+    "references": 467,
+    "referencesCited": 448,
+    "frameworkItems": 109,
+    "topicFrameworkLinks": 1018
+  },
+  "files": {
+    "topics.json": {
+      "bytes": 1293641,
+      "sha256": "d708e3f94a9b55f1d9f36667edcf7350973c2c4a08f3155f11b1660ac2768767"
+    },
+    "dependencies.json": {
+      "bytes": 347521,
+      "sha256": "39706f191863e16402867858854b9e38236e95246e4c96f4ed834bad13d019d3"
+    },
+    "domains.json": {
+      "bytes": 110088,
+      "sha256": "4d055435b2aeac507ab156b8a5cbf42ced0fff601279788678c3bc2169720263"
+    },
+    "teaching-guidance.json": {
+      "bytes": 2446261,
+      "sha256": "db295ac32347a87388a3ba06ac661f36479e4e4c02afd7637eca32943178a30b"
+    },
+    "references.json": {
+      "bytes": 249861,
+      "sha256": "443507824543eeeb349b5a4218879ec2cbeac04dd9caa65b3fada4a3e982dbae"
+    },
+    "frameworks.json": {
+      "bytes": 25760,
+      "sha256": "68b42503c13f6e2c7756a005f8f640e3b6eadb152eceec9b5ca9f1fa4a6dab52"
+    }
+  }
+}

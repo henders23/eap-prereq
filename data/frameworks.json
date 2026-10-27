@@ -1,0 +1,702 @@
+{
+  "version": "v1",
+  "note": "Codes and titles only. No descriptor or band-descriptor text is reproduced. Topic links are mapping judgements, not coverage certifications.",
+  "sourceCount": 4,
+  "itemCount": 109,
+  "sources": [
+    {
+      "slug": "cefr-cv",
+      "name": "Common European Framework of Reference for Languages: Companion Volume — illustrative descriptor scales",
+      "publisher": "Council of Europe",
+      "version": "2020",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages",
+      "idPolicy": "Scale names are official; codes are project-assigned slugs of those names. Topics cite scales and CEFR levels, never descriptor text.",
+      "items": [
+        {
+          "key": "cefr-cv:rec.oral.overall",
+          "code": "rec.oral.overall",
+          "title": "Overall oral comprehension",
+          "group": "Reception: oral comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.oral.conversation-between-others",
+          "code": "rec.oral.conversation-between-others",
+          "title": "Understanding conversation between other people",
+          "group": "Reception: oral comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.oral.live-audience",
+          "code": "rec.oral.live-audience",
+          "title": "Understanding as a member of a live audience",
+          "group": "Reception: oral comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.oral.announcements-instructions",
+          "code": "rec.oral.announcements-instructions",
+          "title": "Understanding announcements and instructions",
+          "group": "Reception: oral comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.oral.media-recordings",
+          "code": "rec.oral.media-recordings",
+          "title": "Understanding audio (or signed) media and recordings",
+          "group": "Reception: oral comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.av.film-video",
+          "code": "rec.av.film-video",
+          "title": "Watching TV, film and video",
+          "group": "Reception: audio-visual comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.read.overall",
+          "code": "rec.read.overall",
+          "title": "Overall reading comprehension",
+          "group": "Reception: reading comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.read.correspondence",
+          "code": "rec.read.correspondence",
+          "title": "Reading correspondence",
+          "group": "Reception: reading comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.read.orientation",
+          "code": "rec.read.orientation",
+          "title": "Reading for orientation",
+          "group": "Reception: reading comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.read.information-argument",
+          "code": "rec.read.information-argument",
+          "title": "Reading for information and argument",
+          "group": "Reception: reading comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.read.instructions",
+          "code": "rec.read.instructions",
+          "title": "Reading instructions",
+          "group": "Reception: reading comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.read.leisure",
+          "code": "rec.read.leisure",
+          "title": "Reading as a leisure activity",
+          "group": "Reception: reading comprehension"
+        },
+        {
+          "key": "cefr-cv:rec.strat.cues-inferring",
+          "code": "rec.strat.cues-inferring",
+          "title": "Identifying cues and inferring (spoken, signed and written)",
+          "group": "Reception strategies"
+        },
+        {
+          "key": "cefr-cv:prod.oral.overall",
+          "code": "prod.oral.overall",
+          "title": "Overall oral production",
+          "group": "Production: oral production"
+        },
+        {
+          "key": "cefr-cv:prod.oral.describing-experience",
+          "code": "prod.oral.describing-experience",
+          "title": "Sustained monologue: describing experience",
+          "group": "Production: oral production"
+        },
+        {
+          "key": "cefr-cv:prod.oral.giving-information",
+          "code": "prod.oral.giving-information",
+          "title": "Sustained monologue: giving information",
+          "group": "Production: oral production"
+        },
+        {
+          "key": "cefr-cv:prod.oral.putting-a-case",
+          "code": "prod.oral.putting-a-case",
+          "title": "Sustained monologue: putting a case (e.g. in a debate)",
+          "group": "Production: oral production"
+        },
+        {
+          "key": "cefr-cv:prod.oral.public-announcements",
+          "code": "prod.oral.public-announcements",
+          "title": "Public announcements",
+          "group": "Production: oral production"
+        },
+        {
+          "key": "cefr-cv:prod.oral.addressing-audiences",
+          "code": "prod.oral.addressing-audiences",
+          "title": "Addressing audiences",
+          "group": "Production: oral production"
+        },
+        {
+          "key": "cefr-cv:prod.writ.overall",
+          "code": "prod.writ.overall",
+          "title": "Overall written production",
+          "group": "Production: written production"
+        },
+        {
+          "key": "cefr-cv:prod.writ.creative",
+          "code": "prod.writ.creative",
+          "title": "Creative writing",
+          "group": "Production: written production"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "code": "prod.writ.reports-essays",
+          "title": "Reports and essays",
+          "group": "Production: written production"
+        },
+        {
+          "key": "cefr-cv:prod.strat.planning",
+          "code": "prod.strat.planning",
+          "title": "Planning",
+          "group": "Production strategies"
+        },
+        {
+          "key": "cefr-cv:prod.strat.compensating",
+          "code": "prod.strat.compensating",
+          "title": "Compensating",
+          "group": "Production strategies"
+        },
+        {
+          "key": "cefr-cv:prod.strat.monitoring-repair",
+          "code": "prod.strat.monitoring-repair",
+          "title": "Monitoring and repair",
+          "group": "Production strategies"
+        },
+        {
+          "key": "cefr-cv:int.oral.overall",
+          "code": "int.oral.overall",
+          "title": "Overall oral interaction",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.understanding-interlocutor",
+          "code": "int.oral.understanding-interlocutor",
+          "title": "Understanding an interlocutor",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.conversation",
+          "code": "int.oral.conversation",
+          "title": "Conversation",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.informal-discussion",
+          "code": "int.oral.informal-discussion",
+          "title": "Informal discussion (with friends)",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.formal-discussion",
+          "code": "int.oral.formal-discussion",
+          "title": "Formal discussion (meetings)",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.goal-oriented-cooperation",
+          "code": "int.oral.goal-oriented-cooperation",
+          "title": "Goal-oriented co-operation",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.information-exchange",
+          "code": "int.oral.information-exchange",
+          "title": "Information exchange",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.interviewing",
+          "code": "int.oral.interviewing",
+          "title": "Interviewing and being interviewed",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.oral.telecommunications",
+          "code": "int.oral.telecommunications",
+          "title": "Using telecommunications",
+          "group": "Interaction: oral interaction"
+        },
+        {
+          "key": "cefr-cv:int.writ.overall",
+          "code": "int.writ.overall",
+          "title": "Overall written interaction",
+          "group": "Interaction: written interaction"
+        },
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "code": "int.writ.correspondence",
+          "title": "Correspondence",
+          "group": "Interaction: written interaction"
+        },
+        {
+          "key": "cefr-cv:int.writ.notes-messages-forms",
+          "code": "int.writ.notes-messages-forms",
+          "title": "Notes, messages and forms",
+          "group": "Interaction: written interaction"
+        },
+        {
+          "key": "cefr-cv:int.online.conversation-discussion",
+          "code": "int.online.conversation-discussion",
+          "title": "Online conversation and discussion",
+          "group": "Interaction: online interaction"
+        },
+        {
+          "key": "cefr-cv:int.online.goal-oriented-collaboration",
+          "code": "int.online.goal-oriented-collaboration",
+          "title": "Goal-oriented online transactions and collaboration",
+          "group": "Interaction: online interaction"
+        },
+        {
+          "key": "cefr-cv:int.strat.turntaking",
+          "code": "int.strat.turntaking",
+          "title": "Turntaking",
+          "group": "Interaction strategies"
+        },
+        {
+          "key": "cefr-cv:int.strat.cooperating",
+          "code": "int.strat.cooperating",
+          "title": "Co-operating",
+          "group": "Interaction strategies"
+        },
+        {
+          "key": "cefr-cv:int.strat.asking-clarification",
+          "code": "int.strat.asking-clarification",
+          "title": "Asking for clarification",
+          "group": "Interaction strategies"
+        },
+        {
+          "key": "cefr-cv:med.text.overall",
+          "code": "med.text.overall",
+          "title": "Overall mediation",
+          "group": "Mediation"
+        },
+        {
+          "key": "cefr-cv:med.text.relaying-information",
+          "code": "med.text.relaying-information",
+          "title": "Relaying specific information (in speech / in writing)",
+          "group": "Mediation: mediating a text"
+        },
+        {
+          "key": "cefr-cv:med.text.explaining-data",
+          "code": "med.text.explaining-data",
+          "title": "Explaining data (e.g. in graphs, diagrams, etc.) (in speech / in writing)",
+          "group": "Mediation: mediating a text"
+        },
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "code": "med.text.processing-text",
+          "title": "Processing text (in speech / in writing)",
+          "group": "Mediation: mediating a text"
+        },
+        {
+          "key": "cefr-cv:med.text.translating",
+          "code": "med.text.translating",
+          "title": "Translating a written text (in speech / in writing)",
+          "group": "Mediation: mediating a text"
+        },
+        {
+          "key": "cefr-cv:med.text.note-taking",
+          "code": "med.text.note-taking",
+          "title": "Note-taking (lectures, seminars, meetings, etc.)",
+          "group": "Mediation: mediating a text"
+        },
+        {
+          "key": "cefr-cv:med.text.personal-response-creative",
+          "code": "med.text.personal-response-creative",
+          "title": "Expressing a personal response to creative texts (including literature)",
+          "group": "Mediation: mediating a text"
+        },
+        {
+          "key": "cefr-cv:med.text.analysis-creative",
+          "code": "med.text.analysis-creative",
+          "title": "Analysis and criticism of creative texts (including literature)",
+          "group": "Mediation: mediating a text"
+        },
+        {
+          "key": "cefr-cv:med.concepts.facilitating-collaboration",
+          "code": "med.concepts.facilitating-collaboration",
+          "title": "Facilitating collaborative interaction with peers",
+          "group": "Mediation: mediating concepts"
+        },
+        {
+          "key": "cefr-cv:med.concepts.collaborating-meaning",
+          "code": "med.concepts.collaborating-meaning",
+          "title": "Collaborating to construct meaning",
+          "group": "Mediation: mediating concepts"
+        },
+        {
+          "key": "cefr-cv:med.concepts.managing-interaction",
+          "code": "med.concepts.managing-interaction",
+          "title": "Managing interaction",
+          "group": "Mediation: mediating concepts"
+        },
+        {
+          "key": "cefr-cv:med.concepts.encouraging-conceptual-talk",
+          "code": "med.concepts.encouraging-conceptual-talk",
+          "title": "Encouraging conceptual talk",
+          "group": "Mediation: mediating concepts"
+        },
+        {
+          "key": "cefr-cv:med.comm.pluricultural-space",
+          "code": "med.comm.pluricultural-space",
+          "title": "Facilitating pluricultural space",
+          "group": "Mediation: mediating communication"
+        },
+        {
+          "key": "cefr-cv:med.comm.intermediary",
+          "code": "med.comm.intermediary",
+          "title": "Acting as an intermediary in informal situations (with friends and colleagues)",
+          "group": "Mediation: mediating communication"
+        },
+        {
+          "key": "cefr-cv:med.comm.delicate-situations",
+          "code": "med.comm.delicate-situations",
+          "title": "Facilitating communication in delicate situations and disagreements",
+          "group": "Mediation: mediating communication"
+        },
+        {
+          "key": "cefr-cv:med.strat.linking-previous-knowledge",
+          "code": "med.strat.linking-previous-knowledge",
+          "title": "Linking to previous knowledge",
+          "group": "Mediation strategies: explaining a new concept"
+        },
+        {
+          "key": "cefr-cv:med.strat.adapting-language",
+          "code": "med.strat.adapting-language",
+          "title": "Adapting language",
+          "group": "Mediation strategies: explaining a new concept"
+        },
+        {
+          "key": "cefr-cv:med.strat.breaking-down-information",
+          "code": "med.strat.breaking-down-information",
+          "title": "Breaking down complicated information",
+          "group": "Mediation strategies: explaining a new concept"
+        },
+        {
+          "key": "cefr-cv:med.strat.amplifying-text",
+          "code": "med.strat.amplifying-text",
+          "title": "Amplifying a dense text",
+          "group": "Mediation strategies: simplifying a text"
+        },
+        {
+          "key": "cefr-cv:med.strat.streamlining-text",
+          "code": "med.strat.streamlining-text",
+          "title": "Streamlining a text",
+          "group": "Mediation strategies: simplifying a text"
+        },
+        {
+          "key": "cefr-cv:plu.pluricultural-repertoire",
+          "code": "plu.pluricultural-repertoire",
+          "title": "Building on pluricultural repertoire",
+          "group": "Plurilingual and pluricultural competence"
+        },
+        {
+          "key": "cefr-cv:plu.plurilingual-comprehension",
+          "code": "plu.plurilingual-comprehension",
+          "title": "Plurilingual comprehension",
+          "group": "Plurilingual and pluricultural competence"
+        },
+        {
+          "key": "cefr-cv:plu.plurilingual-repertoire",
+          "code": "plu.plurilingual-repertoire",
+          "title": "Building on plurilingual repertoire",
+          "group": "Plurilingual and pluricultural competence"
+        },
+        {
+          "key": "cefr-cv:ling.general-range",
+          "code": "ling.general-range",
+          "title": "General linguistic range",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:ling.vocabulary-range",
+          "code": "ling.vocabulary-range",
+          "title": "Vocabulary range",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:ling.grammatical-accuracy",
+          "code": "ling.grammatical-accuracy",
+          "title": "Grammatical accuracy",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:ling.vocabulary-control",
+          "code": "ling.vocabulary-control",
+          "title": "Vocabulary control",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:ling.phonological-overall",
+          "code": "ling.phonological-overall",
+          "title": "Overall phonological control",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:ling.phonological-articulation",
+          "code": "ling.phonological-articulation",
+          "title": "Sound articulation",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:ling.phonological-prosody",
+          "code": "ling.phonological-prosody",
+          "title": "Prosodic features",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:ling.orthographic-control",
+          "code": "ling.orthographic-control",
+          "title": "Orthographic control",
+          "group": "Communicative language competences: linguistic"
+        },
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "code": "socio.appropriateness",
+          "title": "Sociolinguistic appropriateness",
+          "group": "Communicative language competences: sociolinguistic"
+        },
+        {
+          "key": "cefr-cv:prag.flexibility",
+          "code": "prag.flexibility",
+          "title": "Flexibility",
+          "group": "Communicative language competences: pragmatic"
+        },
+        {
+          "key": "cefr-cv:prag.turntaking",
+          "code": "prag.turntaking",
+          "title": "Turntaking",
+          "group": "Communicative language competences: pragmatic"
+        },
+        {
+          "key": "cefr-cv:prag.thematic-development",
+          "code": "prag.thematic-development",
+          "title": "Thematic development",
+          "group": "Communicative language competences: pragmatic"
+        },
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "code": "prag.coherence-cohesion",
+          "title": "Coherence and cohesion",
+          "group": "Communicative language competences: pragmatic"
+        },
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "code": "prag.propositional-precision",
+          "title": "Propositional precision",
+          "group": "Communicative language competences: pragmatic"
+        },
+        {
+          "key": "cefr-cv:prag.fluency",
+          "code": "prag.fluency",
+          "title": "Fluency",
+          "group": "Communicative language competences: pragmatic"
+        }
+      ]
+    },
+    {
+      "slug": "ielts",
+      "name": "IELTS Academic — public assessment criteria and components",
+      "publisher": "British Council, IDP: IELTS Australia, Cambridge University Press & Assessment",
+      "version": "Band descriptors updated May 2023",
+      "url": "https://ielts.org",
+      "idPolicy": "Criterion names are official; codes are project-assigned. No band-descriptor text is reproduced.",
+      "items": [
+        {
+          "key": "ielts:wr1.task-achievement",
+          "code": "wr1.task-achievement",
+          "title": "Writing Task 1: Task Achievement",
+          "group": "Writing"
+        },
+        {
+          "key": "ielts:wr2.task-response",
+          "code": "wr2.task-response",
+          "title": "Writing Task 2: Task Response",
+          "group": "Writing"
+        },
+        {
+          "key": "ielts:wr.coherence-cohesion",
+          "code": "wr.coherence-cohesion",
+          "title": "Writing: Coherence and Cohesion",
+          "group": "Writing"
+        },
+        {
+          "key": "ielts:wr.lexical-resource",
+          "code": "wr.lexical-resource",
+          "title": "Writing: Lexical Resource",
+          "group": "Writing"
+        },
+        {
+          "key": "ielts:wr.grammatical-range-accuracy",
+          "code": "wr.grammatical-range-accuracy",
+          "title": "Writing: Grammatical Range and Accuracy",
+          "group": "Writing"
+        },
+        {
+          "key": "ielts:sp.fluency-coherence",
+          "code": "sp.fluency-coherence",
+          "title": "Speaking: Fluency and Coherence",
+          "group": "Speaking"
+        },
+        {
+          "key": "ielts:sp.lexical-resource",
+          "code": "sp.lexical-resource",
+          "title": "Speaking: Lexical Resource",
+          "group": "Speaking"
+        },
+        {
+          "key": "ielts:sp.grammatical-range-accuracy",
+          "code": "sp.grammatical-range-accuracy",
+          "title": "Speaking: Grammatical Range and Accuracy",
+          "group": "Speaking"
+        },
+        {
+          "key": "ielts:sp.pronunciation",
+          "code": "sp.pronunciation",
+          "title": "Speaking: Pronunciation",
+          "group": "Speaking"
+        },
+        {
+          "key": "ielts:rd.academic",
+          "code": "rd.academic",
+          "title": "Academic Reading component",
+          "group": "Reading"
+        },
+        {
+          "key": "ielts:ls.listening",
+          "code": "ls.listening",
+          "title": "Listening component",
+          "group": "Listening"
+        }
+      ]
+    },
+    {
+      "slug": "acrl",
+      "name": "Framework for Information Literacy for Higher Education",
+      "publisher": "Association of College and Research Libraries",
+      "version": "2016",
+      "url": "https://www.ala.org/acrl/standards/ilframework",
+      "idPolicy": "Frame titles are official; codes are project-assigned.",
+      "items": [
+        {
+          "key": "acrl:authority",
+          "code": "authority",
+          "title": "Authority Is Constructed and Contextual",
+          "group": "Frames"
+        },
+        {
+          "key": "acrl:creation-process",
+          "code": "creation-process",
+          "title": "Information Creation as a Process",
+          "group": "Frames"
+        },
+        {
+          "key": "acrl:value",
+          "code": "value",
+          "title": "Information Has Value",
+          "group": "Frames"
+        },
+        {
+          "key": "acrl:inquiry",
+          "code": "inquiry",
+          "title": "Research as Inquiry",
+          "group": "Frames"
+        },
+        {
+          "key": "acrl:conversation",
+          "code": "conversation",
+          "title": "Scholarship as Conversation",
+          "group": "Frames"
+        },
+        {
+          "key": "acrl:strategic-exploration",
+          "code": "strategic-exploration",
+          "title": "Searching as Strategic Exploration",
+          "group": "Frames"
+        }
+      ]
+    },
+    {
+      "slug": "vitae-rdf",
+      "name": "Researcher Development Framework",
+      "publisher": "Vitae (CRAC)",
+      "version": "2010",
+      "url": "https://www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-development-framework",
+      "idPolicy": "Domain and sub-domain codes (A1–D3) are Vitae's own. Descriptor text is not reproduced.",
+      "items": [
+        {
+          "key": "vitae-rdf:A1",
+          "code": "A1",
+          "title": "Knowledge base",
+          "group": "Domain A: Knowledge and intellectual abilities"
+        },
+        {
+          "key": "vitae-rdf:A2",
+          "code": "A2",
+          "title": "Cognitive abilities",
+          "group": "Domain A: Knowledge and intellectual abilities"
+        },
+        {
+          "key": "vitae-rdf:A3",
+          "code": "A3",
+          "title": "Creativity",
+          "group": "Domain A: Knowledge and intellectual abilities"
+        },
+        {
+          "key": "vitae-rdf:B1",
+          "code": "B1",
+          "title": "Personal qualities",
+          "group": "Domain B: Personal effectiveness"
+        },
+        {
+          "key": "vitae-rdf:B2",
+          "code": "B2",
+          "title": "Self-management",
+          "group": "Domain B: Personal effectiveness"
+        },
+        {
+          "key": "vitae-rdf:B3",
+          "code": "B3",
+          "title": "Professional and career development",
+          "group": "Domain B: Personal effectiveness"
+        },
+        {
+          "key": "vitae-rdf:C1",
+          "code": "C1",
+          "title": "Professional conduct",
+          "group": "Domain C: Research governance and organisation"
+        },
+        {
+          "key": "vitae-rdf:C2",
+          "code": "C2",
+          "title": "Research management",
+          "group": "Domain C: Research governance and organisation"
+        },
+        {
+          "key": "vitae-rdf:C3",
+          "code": "C3",
+          "title": "Finance, funding and resources",
+          "group": "Domain C: Research governance and organisation"
+        },
+        {
+          "key": "vitae-rdf:D1",
+          "code": "D1",
+          "title": "Working with others",
+          "group": "Domain D: Engagement, influence and impact"
+        },
+        {
+          "key": "vitae-rdf:D2",
+          "code": "D2",
+          "title": "Communication and dissemination",
+          "group": "Domain D: Engagement, influence and impact"
+        },
+        {
+          "key": "vitae-rdf:D3",
+          "code": "D3",
+          "title": "Engagement and impact",
+          "group": "Domain D: Engagement, influence and impact"
+        }
+      ]
+    }
+  ]
+}

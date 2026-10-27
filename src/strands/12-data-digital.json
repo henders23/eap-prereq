@@ -1545,21 +1545,9 @@
     },
     {
       "topicId": "dat.describing-trends",
-      "prerequisiteId": "voc.word-families-morphology",
-      "strength": "soft",
-      "reason": "Alternating verb, noun, adjective and adverb forms of change words (rise/a rise; sharp/sharply) depends on derivational control"
-    },
-    {
-      "topicId": "dat.describing-trends",
       "prerequisiteId": "grm.tense-aspect",
       "strength": "soft",
       "reason": "Trend description requires principled choice between past simple for completed periods and present simple for what a figure shows"
-    },
-    {
-      "topicId": "dat.describing-trends",
-      "prerequisiteId": "grm.prepositions",
-      "strength": "soft",
-      "reason": "Change statements depend on prepositions that encode amount and end-points of change (by, to, from, of, in)"
     },
     {
       "topicId": "dat.describing-proportions",
@@ -1665,12 +1653,6 @@
     },
     {
       "topicId": "dat.creating-visuals",
-      "prerequisiteId": "dat.visual-types",
-      "strength": "hard",
-      "reason": "Designing a visual begins with matching the chart type to the relationship to be shown, a distinct decision from reading an existing chart"
-    },
-    {
-      "topicId": "dat.creating-visuals",
       "prerequisiteId": "dat.misleading-visuals",
       "strength": "hard",
       "reason": "Designing honest visuals requires knowing which scale, area and selection choices distort"
@@ -1754,24 +1736,6 @@
       "reason": "Choosing tone and mitigation in digital messages applies face and politeness considerations to new channels"
     },
     {
-      "topicId": "dig.digital-etiquette",
-      "prerequisiteId": "reg.register-awareness",
-      "strength": "soft",
-      "reason": "Adapting formality to channel and audience depends on understanding register as variation in tenor and mode"
-    },
-    {
-      "topicId": "dig.automated-feedback-tools",
-      "prerequisiteId": "fbk.feedback-literacy",
-      "strength": "soft",
-      "reason": "Weighing AWE suggestions against other feedback draws on the broader capacity to appreciate, judge and act on feedback"
-    },
-    {
-      "topicId": "dig.automated-feedback-tools",
-      "prerequisiteId": "edt.revision-editing-proofreading",
-      "strength": "soft",
-      "reason": "Recognising that AWE mostly addresses sentence and surface levels requires distinguishing revision, editing and proofreading"
-    },
-    {
       "topicId": "dig.automated-feedback-tools",
       "prerequisiteId": "grm.error-monitoring",
       "strength": "soft",
@@ -1848,12 +1812,6 @@
       "prerequisiteId": "dig.word-processing",
       "strength": "hard",
       "reason": "Accessible structure (headings, reading order, captions) is created through styles and automatic features rather than manual formatting"
-    },
-    {
-      "topicId": "mmd.accessibility",
-      "prerequisiteId": "dat.captions-labelling",
-      "strength": "soft",
-      "reason": "Writing alternative text presupposes knowing what a caption already provides and how the two differ"
     },
     {
       "topicId": "mmd.accessibility",
@@ -1944,12 +1902,6 @@
       "prerequisiteId": "num.number-expressions",
       "strength": "hard",
       "reason": "Verbalising formulae builds on reading numbers, fractions, powers and operations aloud and in prose"
-    },
-    {
-      "topicId": "num.mathematical-expression",
-      "prerequisiteId": "grm.relative-clauses",
-      "strength": "soft",
-      "reason": "Variables are conventionally defined with where-clauses and reduced relatives after a displayed equation"
     },
     {
       "topicId": "num.mathematical-expression",
@@ -2204,7 +2156,7 @@
           "kind": "developmental",
           "revealedBy": "‘Sales increased to 5%’ when an increase of five points was meant; ‘an increase of sales’.",
           "response": "Use contrast pairs with numerical consequences (rose by five points to 25% vs rose to 5%) and ask learners to work out the starting value each sentence implies.",
-          "reteachPrerequisiteId": "grm.prepositions"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Describing every fluctuation.",
@@ -2552,7 +2504,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Different chart types for parallel data in successive sections, making comparison harder.",
           "response": "Explain that consistency aids comparison and that form should change only when the relationship changes.",
-          "reteachPrerequisiteId": "dat.visual-types"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3204,7 +3156,7 @@
           "kind": "conceptual",
           "revealedBy": "Content and structure left unrevised once surface errors are cleared.",
           "response": "Separate global revision from surface editing in the drafting process and in feedback.",
-          "reteachPrerequisiteId": "edt.revision-editing-proofreading"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Using rewriting or paraphrasing features that breach policy.",
@@ -3539,7 +3491,7 @@
           "kind": "conceptual",
           "revealedBy": "‘Graph 1’, ‘picture’, or alternative text identical to the caption.",
           "response": "Explain that a caption serves all readers while alternative text substitutes for the visual; write it for purpose.",
-          "reteachPrerequisiteId": "dat.captions-labelling"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {

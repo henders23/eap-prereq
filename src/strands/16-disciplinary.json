@@ -1760,12 +1760,6 @@
     },
     {
       "topicId": "dbe.business-case-analysis",
-      "prerequisiteId": "fun.recommending",
-      "strength": "soft",
-      "reason": "Case reports end in justified recommendations that draw on the language of recommending, priority and feasibility"
-    },
-    {
-      "topicId": "dbe.business-case-analysis",
       "prerequisiteId": "dat.data-commentary",
       "strength": "soft",
       "reason": "Cases include financial and market exhibits that must be interpreted in data commentary"
@@ -1817,12 +1811,6 @@
       "prerequisiteId": "crt.applying-theory",
       "strength": "hard",
       "reason": "Using SWOT or Five Forces analytically is a specific case of applying concepts and models to a case"
-    },
-    {
-      "topicId": "dbe.critical-frameworks",
-      "prerequisiteId": "crt.description-analysis-evaluation",
-      "strength": "hard",
-      "reason": "The common failure with frameworks is description presented as analysis, so learners need the distinction first"
     },
     {
       "topicId": "dbe.critical-frameworks",
@@ -1991,12 +1979,6 @@
       "prerequisiteId": "src.integrating-quotations",
       "strength": "hard",
       "reason": "Textual evidence in the humanities is presented through short, grammatically integrated quotations with commentary"
-    },
-    {
-      "topicId": "dhu.interpretive-argument",
-      "prerequisiteId": "sta.dialogic-positioning",
-      "strength": "soft",
-      "reason": "Positioning an interpretation against other readings uses resources for expanding and contracting dialogue"
     },
     {
       "topicId": "dhu.philosophical-writing",
@@ -2237,12 +2219,6 @@
       "prerequisiteId": "dse.protocols-specifications",
       "strength": "hard",
       "reason": "Installation and usage instructions and API contracts use the imperative steps and verifiable specification language developed in protocols and specifications"
-    },
-    {
-      "topicId": "dse.software-documentation",
-      "prerequisiteId": "wpr.audience-purpose",
-      "strength": "soft",
-      "reason": "Each documentation genre is defined by a different reader (user, contributor, maintainer), so learners need a working model of audience and purpose"
     },
     {
       "topicId": "dse.software-documentation",
@@ -2655,7 +2631,7 @@
           "kind": "developmental",
           "revealedBy": "Recommendation sections that introduce new ideas or could apply to any company.",
           "response": "Ask learners to link each recommendation to a numbered finding and to add who, what, when and cost. Use the decision matrix to make the link visible.",
-          "reteachPrerequisiteId": "fun.recommending"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2842,7 +2818,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Reports with several framework tables but little analysis, and feedback such as 'descriptive' or 'lacks depth'.",
           "response": "Show markers' criteria and high-scoring exemplars that use one or two frameworks in depth. Discuss depth versus breadth.",
-          "reteachPrerequisiteId": "crt.description-analysis-evaluation"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Listing factors as bullet points without evidence or implications.",
@@ -3378,7 +3354,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Essays that report critics' views approvingly without positioning the writer's own reading.",
           "response": "Model respectful disagreement and extension, and show exemplars where students challenge critics. Present this as a disciplinary expectation, not a rejection of respect for authority.",
-          "reteachPrerequisiteId": "sta.dialogic-positioning"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Using long quotations that substitute for analysis.",
@@ -4101,7 +4077,7 @@
           "kind": "conceptual",
           "revealedBy": "Projects submitted with no README or only auto-generated stubs, and marks lost on maintainability criteria.",
           "response": "Show the marking criteria and a maintainer's task that cannot be done from the code alone. Bring in a subject tutor's or developer's view of documentation as part of the product.",
-          "reteachPrerequisiteId": "wpr.audience-purpose"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Writing comments that translate each line into English (increment i by 1).",

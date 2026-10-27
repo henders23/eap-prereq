@@ -1515,12 +1515,6 @@
       "reason": "Recognising an argument depends on distinguishing claims from facts, opinions and evidence"
     },
     {
-      "topicId": "arg.argument-concept",
-      "prerequisiteId": "rds.main-ideas",
-      "strength": "soft",
-      "reason": "Learners locate a text's central position by first identifying its main ideas as distinct from supporting detail"
-    },
-    {
       "topicId": "arg.claim-types",
       "prerequisiteId": "arg.argument-concept",
       "strength": "hard",
@@ -1543,12 +1537,6 @@
       "prerequisiteId": "arg.argument-concept",
       "strength": "hard",
       "reason": "Toulmin's layout analyses the internal structure of arguments, which requires the basic concept of argument first"
-    },
-    {
-      "topicId": "arg.toulmin",
-      "prerequisiteId": "sta.hedging",
-      "strength": "soft",
-      "reason": "The qualifier element is realised through hedging devices that learners need to recognise"
     },
     {
       "topicId": "arg.supporting-claims",
@@ -1666,12 +1654,6 @@
     },
     {
       "topicId": "arg.rhetorical-appeals",
-      "prerequisiteId": "wpr.audience-purpose",
-      "strength": "soft",
-      "reason": "Choosing and balancing appeals depends on analysing the reader and the purpose of the text"
-    },
-    {
-      "topicId": "arg.rhetorical-appeals",
       "prerequisiteId": "sta.metadiscourse",
       "strength": "soft",
       "reason": "In academic writing, credibility and reader engagement are realised largely through metadiscourse resources"
@@ -1705,12 +1687,6 @@
       "prerequisiteId": "arg.rebuttal-concession",
       "strength": "soft",
       "reason": "Real-time defence of a position transfers concession and rebuttal moves usually first practised in writing"
-    },
-    {
-      "topicId": "arg.oral-argument",
-      "prerequisiteId": "sta.spoken-stance",
-      "strength": "soft",
-      "reason": "Oral argument depends on spoken stance and mitigation resources"
     },
     {
       "topicId": "arg.exploratory-adversarial",
@@ -1789,12 +1765,6 @@
       "prerequisiteId": "rds.main-ideas",
       "strength": "soft",
       "reason": "Questioning a text's claims requires first identifying which statements are its central claims"
-    },
-    {
-      "topicId": "crt.questioning",
-      "prerequisiteId": "sem.questions-clarification",
-      "strength": "soft",
-      "reason": "Learners need the linguistic resources to formulate and mitigate questions before using them as a critical routine in discussion and supervision"
     },
     {
       "topicId": "crt.evidence-types",
@@ -1977,12 +1947,6 @@
       "reason": "The academic literacies view of writing as social practice involving identity and power frames identity as a legitimate object of study"
     },
     {
-      "topicId": "idn.academic-identity",
-      "prerequisiteId": "acu.discourse-communities",
-      "strength": "soft",
-      "reason": "Negotiating an academic identity means positioning oneself in relation to a discipline's community and its norms"
-    },
-    {
       "topicId": "idn.diversity-as-resource",
       "prerequisiteId": "acu.academic-literacies",
       "strength": "soft",
@@ -2023,12 +1987,6 @@
       "prerequisiteId": "idn.elf",
       "strength": "soft",
       "reason": "Academic intercultural interaction typically takes place in English as a lingua franca, where accommodation is a shared responsibility"
-    },
-    {
-      "topicId": "idn.intercultural-communication",
-      "prerequisiteId": "acu.transition",
-      "strength": "soft",
-      "reason": "Learners' own experience of academic and sociocultural adjustment is the starting point for analysing intercultural misunderstandings"
     },
     {
       "topicId": "idn.intercultural-communication",
@@ -2113,7 +2071,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Comprehensive, well-organised but descriptive essays, often shaped by knowledge-display exams.",
           "response": "Use exemplars to show that the question demands a position; have learners state their answer before planning content.",
-          "reteachPrerequisiteId": "rds.main-ideas"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "'Argument is only for argumentative essays, not for reports or lab write-ups.'",
@@ -2250,7 +2208,7 @@
           "kind": "developmental",
           "revealedBy": "A narrow hedging repertoire in analysis and writing.",
           "response": "Teach a range of hedging devices and match them to the strength of data and warrant.",
-          "reteachPrerequisiteId": "sta.hedging"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2711,7 +2669,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Language carried over from persuasive school genres, including rhetorical questions and intensifiers.",
           "response": "Compare register choices across genres and revise towards evidence-based significance statements.",
-          "reteachPrerequisiteId": "wpr.audience-purpose"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2835,7 +2793,7 @@
           "kind": "developmental",
           "revealedBy": "Peers' reactions; listeners unsure what the speaker thinks.",
           "response": "Teach a graded set of mitigation and stance expressions and practise firm but polite disagreement.",
-          "reteachPrerequisiteId": "sta.spoken-stance"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "'If someone challenges me, it means I have failed.'",
@@ -3169,7 +3127,7 @@
           "kind": "conceptual",
           "revealedBy": "Silence when invited to question a reading; reading logs that contain only summary.",
           "response": "Reframe questions as contributions rather than admissions of confusion; model a tutor questioning a text they fully understand; provide question stems.",
-          "reteachPrerequisiteId": "sem.questions-clarification"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "'It would be disrespectful to question a professor's published work.'",
@@ -3970,7 +3928,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Deferential positioning; summaries without evaluation; reluctance to claim originality.",
           "response": "Show that the role of evaluator is expected of students in the target context and model how to evaluate with appropriate mitigation.",
-          "reteachPrerequisiteId": "acu.discourse-communities"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4171,7 +4129,7 @@
           "kind": "affective",
           "revealedBy": "Reduced participation, absence and reports of loneliness.",
           "response": "Normalise adjustment difficulties, build structured peer contact, and refer to support services where appropriate.",
-          "reteachPrerequisiteId": "acu.transition"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Assuming one's own communication norms are neutral and others' are odd.",

@@ -231,19 +231,6 @@ ntk.reviewing-notes | STRATEGIC | Reviewing and reworking notes | Generative rev
 ntk.digital-notes | PROCEDURAL | Digital and handwritten note-taking | Choosing tools; evidence on laptop versus handwritten notes; avoiding verbatim transcription.
 ntk.collaborative-notes | PROCEDURAL | Collaborative notes | Shared and co-constructed notes in study groups.
 
-### DOMAIN PRN: Pronunciation & Fluency
-prn.intelligibility | CONCEPTUAL | Intelligibility, comprehensibility and accent | Distinguishing accent from intelligibility and prioritising what affects understanding.
-prn.word-stress | PROCEDURAL | Word stress in academic vocabulary | Stress placement and stress shift across word families (PHOtograph, phoTOgraphy, photoGRAPHic).
-prn.prominence | PROCEDURAL | Sentence stress and prominence | Using nuclear stress to mark new and contrastive information.
-prn.thought-groups | PROCEDURAL | Thought groups and pausing | Chunking speech into meaningful units with appropriate pauses.
-prn.intonation | PROCEDURAL | Intonation for discourse functions | Tone choice for signalling new/shared information, continuation and finality.
-prn.segmental-priorities | PROCEDURAL | Prioritised segmental features | Targeting sounds with high functional load and those that cause intelligibility problems.
-prn.connected-speech-production | PROCEDURAL | Connected speech in production | Linking and weak forms for natural, fluent delivery.
-prn.technical-terms | PROCEDURAL | Pronouncing technical terms and names | Checking and practising pronunciation of terms, names and acronyms.
-prn.fluency | STRATEGIC | Developing speech fluency | Planning, formulaic language and practice cycles to reduce hesitation.
-prn.repair | STRATEGIC | Self-repair and reformulation | Noticing and repairing breakdowns; paraphrasing when a word is unavailable.
-prn.numbers-aloud | PROCEDURAL | Saying numbers, formulae and symbols aloud | Large numbers, decimals, fractions, equations, units and dates in speech.
-
 ## STRAND: Academic Speaking
 
 ### DOMAIN SEM: Seminars & Discussion
@@ -278,6 +265,19 @@ prs.posters | GENRE | Poster presentations | Presenting and discussing an academ
 prs.research-presentations | GENRE | Research and conference presentations | Presenting research to specialist audiences within strict time limits.
 prs.recorded-online | PROCEDURAL | Recorded and online presentations | Video presentations, screen-sharing and recorded assessments.
 prs.rehearsal-timing | STRATEGIC | Rehearsal and timing | Rehearsing, timing and adjusting content to time limits.
+
+### DOMAIN PRN: Pronunciation & Fluency
+prn.intelligibility | CONCEPTUAL | Intelligibility, comprehensibility and accent | Distinguishing accent from intelligibility and prioritising what affects understanding.
+prn.word-stress | PROCEDURAL | Word stress in academic vocabulary | Stress placement and stress shift across word families (PHOtograph, phoTOgraphy, photoGRAPHic).
+prn.prominence | PROCEDURAL | Sentence stress and prominence | Using nuclear stress to mark new and contrastive information.
+prn.thought-groups | PROCEDURAL | Thought groups and pausing | Chunking speech into meaningful units with appropriate pauses.
+prn.intonation | PROCEDURAL | Intonation for discourse functions | Tone choice for signalling new/shared information, continuation and finality.
+prn.segmental-priorities | PROCEDURAL | Prioritised segmental features | Targeting sounds with high functional load and those that cause intelligibility problems.
+prn.connected-speech-production | PROCEDURAL | Connected speech in production | Linking and weak forms for natural, fluent delivery.
+prn.technical-terms | PROCEDURAL | Pronouncing technical terms and names | Checking and practising pronunciation of terms, names and acronyms.
+prn.fluency | STRATEGIC | Developing speech fluency | Planning, formulaic language and practice cycles to reduce hesitation.
+prn.repair | STRATEGIC | Self-repair and reformulation | Noticing and repairing breakdowns; paraphrasing when a word is unavailable.
+prn.numbers-aloud | PROCEDURAL | Saying numbers, formulae and symbols aloud | Large numbers, decimals, fractions, equations, units and dates in speech.
 
 ### DOMAIN GRW: Group Work & Collaboration
 grw.purposes | CONCEPTUAL | Purposes of group work | Why universities assess collaboration and what is expected.

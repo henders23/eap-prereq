@@ -963,12 +963,6 @@
       "reason": "Academic adjustment involves identifying which expectations of the new context differ from prior experience"
     },
     {
-      "topicId": "acu.transition",
-      "prerequisiteId": "idn.intercultural-communication",
-      "strength": "soft",
-      "reason": "Sociocultural adjustment draws on strategies for managing differences in expectations and communication style without essentialising them"
-    },
-    {
       "topicId": "acu.roles-address",
       "prerequisiteId": "acu.university-structures",
       "strength": "hard",
@@ -976,21 +970,9 @@
     },
     {
       "topicId": "acu.critical-eap",
-      "prerequisiteId": "acu.academic-literacies",
-      "strength": "soft",
-      "reason": "Treating conventions as social practices bound up with power provides the conceptual ground for questioning whose norms EAP teaches"
-    },
-    {
-      "topicId": "acu.critical-eap",
       "prerequisiteId": "idn.standards-legitimacy",
       "strength": "soft",
       "reason": "Questioning native-speaker norms is a concrete, accessible entry to the broader critique of EAP's purposes and standards"
-    },
-    {
-      "topicId": "acu.emi-tne",
-      "prerequisiteId": "acu.academic-expectations",
-      "strength": "soft",
-      "reason": "Analysing EMI and TNE contexts involves comparing local academic expectations with those assumed by anglophone-campus EAP materials"
     },
     {
       "topicId": "acu.emi-tne",
@@ -1048,18 +1030,6 @@
     },
     {
       "topicId": "prg.office-hours",
-      "prerequisiteId": "acu.teaching-formats",
-      "strength": "soft",
-      "reason": "Learners need to know what office hours and tutorials are for, and how they are booked locally, before preparing to use them"
-    },
-    {
-      "topicId": "prg.office-hours",
-      "prerequisiteId": "prg.politeness",
-      "strength": "soft",
-      "reason": "Opening, making suggestions or requests, and closing a one-to-one meeting with a staff member require managing status asymmetry"
-    },
-    {
-      "topicId": "prg.office-hours",
       "prerequisiteId": "sem.questions-clarification",
       "strength": "soft",
       "reason": "Productive meetings depend on formulating specific questions and requesting clarification of advice in real time"
@@ -1107,12 +1077,6 @@
       "reason": "Replies frequently express partial or mitigated disagreement, and the language for this is usually first taught for seminars"
     },
     {
-      "topicId": "prg.forum-posts",
-      "prerequisiteId": "reg.register-awareness",
-      "strength": "soft",
-      "reason": "Forum posts sit between spoken and written registers, so writers need awareness of mode and tenor to judge the appropriate style"
-    },
-    {
       "topicId": "prg.messaging-channels",
       "prerequisiteId": "prg.emails-to-staff",
       "strength": "hard",
@@ -1135,12 +1099,6 @@
       "prerequisiteId": "pub.authorship",
       "strength": "soft",
       "reason": "Article acknowledgements list contributors who do not meet authorship criteria, so deciding who is acknowledged depends on knowing those criteria"
-    },
-    {
-      "topicId": "prg.acknowledgements",
-      "prerequisiteId": "reg.register-awareness",
-      "strength": "soft",
-      "reason": "Acknowledgements permit a more personal register than the main text, and judging how personal depends on awareness of tenor and audience"
     }
   ],
   "guidance": [
@@ -1682,7 +1640,7 @@
           "kind": "affective",
           "revealedBy": "Withdrawal from discussion; staff references to 'quiet international students'.",
           "response": "Explore situational reasons such as unfamiliar norms, how the learner is positioned by others, confidence and processing time, as Morita (2004) documents, and provide structured participation opportunities. Challenge essentialising explanations wherever they arise.",
-          "reteachPrerequisiteId": "idn.intercultural-communication"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Waiting until problems are severe before seeking help.",
@@ -1828,7 +1786,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Learners dismiss conventions as arbitrary without weighing the consequences.",
           "response": "Stress that critique and access go together; a precise understanding of a convention is what makes it possible to negotiate it effectively.",
-          "reteachPrerequisiteId": "acu.academic-literacies"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -1895,7 +1853,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Mismatched expectations about participation, assessment formats or staff roles.",
           "response": "Investigate local practice through documents, observation and conversations with staff and senior students before generalising.",
-          "reteachPrerequisiteId": "acu.academic-expectations"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2170,7 +2128,7 @@
           "kind": "prior-schooling",
           "revealedBy": "No attendance at office hours; questions saved until after assessment.",
           "response": "Explain what office hours are for at this institution and give concrete reasons to attend (checking a plan, discussing feedback). Arrange a first visit as a class task where possible.",
-          "reteachPrerequisiteId": "acu.teaching-formats"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Arriving without specific questions or materials.",
@@ -2400,7 +2358,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Text-speak at one extreme, essay-style impersonality at the other.",
           "response": "Show model posts from the learner's own course and discuss what the forum's purpose requires.",
-          "reteachPrerequisiteId": "reg.register-awareness"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2536,7 +2494,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Very long, emotional acknowledgements or a single generic line.",
           "response": "Show a range of models from the learner's field and institution and discuss audience.",
-          "reteachPrerequisiteId": "reg.register-awareness"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Offering authorship as a form of thanks, or acknowledging someone whose contribution merits authorship.",

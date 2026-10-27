@@ -47,7 +47,7 @@
     },
     {
       "code": "PRN",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "name": "Pronunciation & Fluency",
       "summary": "The domain adopts the intelligibility principle (Levis, 2005): the goal is speech that listeners can understand with reasonable effort, not a native-like accent. Building on Munro and Derwing's (1995) distinction between accentedness, comprehensibility and intelligibility, priority goes to the features most likely to affect understanding in academic speaking — word stress in academic vocabulary, thought groups and prominence, intonation for discourse functions, high-functional-load segmentals — together with fluency and repair. Pronunciation is linked to listening, since perception supports production, and to the presentations, seminars and teaching in which students use it; accent is treated as part of speakers' identity rather than as an error to be removed.",
       "learnerSummary": "You will learn which features of pronunciation most affect whether listeners understand you, and practise them in the speaking you do at university — presentations, seminars and explaining your work — without needing to sound like a native speaker.",
@@ -1272,7 +1272,7 @@
     {
       "id": "prn.intelligibility",
       "type": "CONCEPTUAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Intelligibility, comprehensibility and accent",
       "description": "Distinguish intelligibility (how much of a speaker's message a listener actually understands), comprehensibility (how easy the listener finds it to understand) and accentedness (how different the speech sounds from the listener's reference variety), and use the finding that these are partly independent to set pronunciation goals around being understood rather than sounding native. Intelligibility depends on listeners as well as speakers, and accent is part of a speaker's identity.",
@@ -1319,7 +1319,7 @@
     {
       "id": "prn.word-stress",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Word stress in academic vocabulary",
       "description": "Place primary stress correctly on multi-syllable academic and technical words, including the shifts that occur across word families (ANalyse, aNALysis, anaLYtical) and the regularities associated with suffixes such as -ic, -ion, -ity and -ical, and reduce unstressed vowels appropriately. Misplaced word stress can cause listeners to misidentify words even when individual sounds are accurate.",
@@ -1365,7 +1365,7 @@
     {
       "id": "prn.thought-groups",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Thought groups and pausing",
       "description": "Divide speech into thought groups — short, meaningful units usually corresponding to grammatical phrases or clauses — with pauses at group boundaries rather than within them and one main prominence in each group. Thought groups help listeners parse speech and give speakers natural planning points; pauses inside phrases make speech harder to follow.",
@@ -1413,7 +1413,7 @@
     {
       "id": "prn.prominence",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Sentence stress and prominence",
       "description": "Place prominence (nuclear or focal stress) on the word that carries new or contrastive information in each thought group, and de-accent information that is already given, so that listeners can identify what is important and what is being contrasted. Misplaced or absent prominence can lead listeners to misunderstand the point and to recall less of an explanation.",
@@ -1462,7 +1462,7 @@
     {
       "id": "prn.intonation",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Intonation for discourse functions",
       "description": "Use pitch movement for discourse purposes in academic speaking: falling tones to present new information and close points, rising or fall-rise tones to refer to shared information, signal continuation or invite response, and pitch range and key to mark new topics and contrasts. Tone choice helps listeners follow organisation and affects how interactive and approachable a speaker sounds.",
@@ -1510,7 +1510,7 @@
     {
       "id": "prn.segmental-priorities",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Prioritised segmental features",
       "description": "Identify and work on the consonant and vowel features in one's own speech that most affect intelligibility — typically contrasts with high functional load, word-final consonants and clusters that carry grammatical meaning, and vowel length or quality contrasts — rather than trying to perfect every sound. Priorities are individual: they depend on the speaker's other languages, on the listeners and on which features actually cause misunderstanding.",
@@ -1554,7 +1554,7 @@
     {
       "id": "prn.connected-speech-production",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Connected speech in production",
       "description": "Use linking within thought groups, weak forms of function words where they are unstressed, and natural reductions so that speech flows and stressed information stands out, while keeping content words and key terms clear. Moderate use of connected speech supports fluent delivery; how far full reduction helps intelligibility, particularly in lingua franca settings, is contested.",
@@ -1601,7 +1601,7 @@
     {
       "id": "prn.technical-terms",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Pronouncing technical terms and names",
       "description": "Find, check and practise the pronunciation of discipline-specific terms, proper names (theorists, places, organisations) and acronyms before using them in speech, recognising when an abbreviation is said as a word (UNESCO) or as letters (DNA) and that disciplinary communities may have their own conventions. Because key terms recur throughout an explanation, a mispronounced term can disrupt understanding of the whole.",
@@ -1649,7 +1649,7 @@
     {
       "id": "prn.repair",
       "type": "STRATEGIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Self-repair and reformulation",
       "description": "Notice when one's own speech has gone wrong or a listener has not understood, and repair efficiently: correcting errors that affect meaning, reformulating, and using compensatory strategies such as paraphrase, description or approximation when a word is unavailable. Effective repair keeps communication going without excessive self-correction of minor errors.",
@@ -1696,7 +1696,7 @@
     {
       "id": "prn.fluency",
       "type": "STRATEGIC",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Developing speech fluency",
       "description": "Develop speech that flows at a rate appropriate to the audience, with pauses mainly at natural boundaries, few long hesitations inside clauses and efficient recovery, through planning, formulaic language and repeated practice. Fluency here concerns the listener's experience of smooth delivery and the speaker's processing efficiency, not speed for its own sake.",
@@ -1750,7 +1750,7 @@
     {
       "id": "prn.numbers-aloud",
       "type": "PROCEDURAL",
-      "strand": "Academic Listening",
+      "strand": "Academic Speaking",
       "domain": "Pronunciation & Fluency",
       "name": "Saying numbers, formulae and symbols aloud",
       "description": "Say numbers and quantities, formulae, units, dates and symbols aloud accurately and intelligibly — large numbers and decimals, fractions and percentages, ranges and approximations, equations and units — following the conventions of one's discipline, and use stress to keep confusable numbers apart (thirTEEN versus THIRty). Errors with numbers in presentations and seminars can mislead listeners about findings.",
@@ -1938,12 +1938,6 @@
       "prerequisiteId": "lis.main-points",
       "strength": "hard",
       "reason": "Recognising a departure from the main thread presupposes a representation of what the main thread is"
-    },
-    {
-      "topicId": "lis.digressions",
-      "prerequisiteId": "lis.lecture-discourse-markers",
-      "strength": "soft",
-      "reason": "Departure and return are signalled by specific markers (anyway, back to…) that learners must recognise; included despite the chain through main points because these markers are distinct and essential here"
     },
     {
       "topicId": "lis.speaker-stance",
@@ -2148,12 +2142,6 @@
       "prerequisiteId": "ntk.lecture-notes",
       "strength": "hard",
       "reason": "The device question arises mainly in real-time lecture note-taking, where typing speed invites transcription"
-    },
-    {
-      "topicId": "ntk.digital-notes",
-      "prerequisiteId": "ntk.functions-of-notes",
-      "strength": "soft",
-      "reason": "Interpreting the laptop-versus-longhand evidence depends on the distinction between processing during note-taking and the value of a complete record; included despite the chain because it is the conceptual core of the debate"
     },
     {
       "topicId": "ntk.digital-notes",
@@ -3117,7 +3105,7 @@
           "kind": "performance",
           "revealedBy": "Notes stop or become fragmented after an aside.",
           "response": "Teach return markers explicitly and suggest leaving a visible gap in notes during a digression, resuming with a heading when the lecturer returns.",
-          "reteachPrerequisiteId": "lis.lecture-discourse-markers"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Learners feel excluded or anxious when they miss humour or cultural references.",
@@ -4010,7 +3998,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Learners repeat the claim from popular sources, sometimes against their own needs.",
           "response": "Show the replication results and focus on processing rather than device.",
-          "reteachPrerequisiteId": "ntk.functions-of-notes"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Learners type quickly and transcribe almost verbatim.",

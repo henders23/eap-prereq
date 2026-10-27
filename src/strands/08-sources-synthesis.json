@@ -1533,12 +1533,6 @@
       "reason": "Deciding whether to quote depends on what the source is doing for the writer's text"
     },
     {
-      "topicId": "src.quoting",
-      "prerequisiteId": "cit.when-to-cite",
-      "strength": "soft",
-      "reason": "Learners need to know that quoted wording always requires citation before practising selection and economy"
-    },
-    {
       "topicId": "src.integrating-quotations",
       "prerequisiteId": "src.quoting",
       "strength": "hard",
@@ -1549,12 +1543,6 @@
       "prerequisiteId": "src.signal-phrases",
       "strength": "hard",
       "reason": "Framing a quotation uses attribution frames to introduce the source"
-    },
-    {
-      "topicId": "src.integrating-quotations",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "soft",
-      "reason": "Fitting a partial quotation into a sentence requires analysing the clause element it must complete"
     },
     {
       "topicId": "src.paraphrasing",
@@ -1657,12 +1645,6 @@
       "prerequisiteId": "src.signal-phrases",
       "strength": "hard",
       "reason": "Reporting verbs extend basic attribution frames with choices of act and stance"
-    },
-    {
-      "topicId": "src.reporting-verbs",
-      "prerequisiteId": "voc.academic-verbs",
-      "strength": "soft",
-      "reason": "Choosing among reporting verbs depends on knowing the meaning, strength and complementation of academic verbs"
     },
     {
       "topicId": "src.reporting-verbs",
@@ -1813,12 +1795,6 @@
       "prerequisiteId": "rdc.multiple-texts",
       "strength": "hard",
       "reason": "Writing relationships presupposes having compared and corroborated claims across texts while reading"
-    },
-    {
-      "topicId": "syn.relating-sources",
-      "prerequisiteId": "src.reporting-verbs",
-      "strength": "soft",
-      "reason": "Relational sentences rely on reporting verbs that represent what each source does and the writer's stance towards it"
     },
     {
       "topicId": "syn.relating-sources",
@@ -2864,7 +2840,7 @@
           "kind": "performance",
           "revealedBy": "Ungrammatical sentences at the join between frame and quotation",
           "response": "Practise reading the combined sentence without quotation marks and identifying which clause element the quotation must supply. Do not alter the quoted words to repair the sentence.",
-          "reteachPrerequisiteId": "grm.clause-elements"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "I always write 'X says that' before a quotation.",
@@ -3295,7 +3271,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Prepositions added to transitive reporting verbs",
           "response": "Learners often extend the pattern of a related noun ('a discussion about', 'an emphasis on') to the verb. Teach verbs with their complementation from corpus or dictionary examples and practise noun–verb pairs side by side.",
-          "reteachPrerequisiteId": "voc.academic-verbs"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3885,7 +3861,7 @@
           "kind": "developmental",
           "revealedBy": "A narrow range of relational verbs, often only 'says'",
           "response": "Teach a small set of relational reporting verbs (confirm, extend, challenge, qualify) in context.",
-          "reteachPrerequisiteId": "src.reporting-verbs"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {

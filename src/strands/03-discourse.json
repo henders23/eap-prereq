@@ -2382,12 +2382,6 @@
     },
     {
       "topicId": "fun.problem-solution",
-      "prerequisiteId": "fun.cause-effect",
-      "strength": "soft",
-      "reason": "Analysing a problem usually involves stating its causes and consequences"
-    },
-    {
-      "topicId": "fun.problem-solution",
       "prerequisiteId": "fun.evaluating",
       "strength": "soft",
       "reason": "The evaluation element requires judging responses against criteria"
@@ -2409,12 +2403,6 @@
       "prerequisiteId": "grm.conditionals",
       "strength": "hard",
       "reason": "Predictions and hypotheses are frequently framed as real or unreal conditionals"
-    },
-    {
-      "topicId": "fun.hypothesising",
-      "prerequisiteId": "grm.epistemic-modality",
-      "strength": "hard",
-      "reason": "Grading predictive confidence outside conditionals (will, is likely to, may) depends on epistemic modals, a distinct need from conditional form"
     },
     {
       "topicId": "fun.hypothesising",
@@ -2550,12 +2538,6 @@
     },
     {
       "topicId": "sta.self-mention",
-      "prerequisiteId": "grm.passive-voice",
-      "strength": "soft",
-      "reason": "The central decision in self-mention is often between a first-person active and an agentless passive, so both forms must be available"
-    },
-    {
-      "topicId": "sta.self-mention",
       "prerequisiteId": "reg.formality-features",
       "strength": "soft",
       "reason": "Learners need to see personal pronouns as a formality tendency rather than a prohibition before they can make discipline-sensitive choices"
@@ -2649,12 +2631,6 @@
       "prerequisiteId": "fun.evaluating",
       "strength": "soft",
       "reason": "Evaluating sources applies general evaluation skills — criteria, strengths and weaknesses, judgement — to other scholars' work"
-    },
-    {
-      "topicId": "sta.evaluating-others-language",
-      "prerequisiteId": "sta.concession-language",
-      "strength": "soft",
-      "reason": "Mitigated critique typically takes a concessive form (While X offers…, it overlooks…)"
     },
     {
       "topicId": "sta.authorial-voice",
@@ -4127,7 +4103,7 @@
           "kind": "conceptual",
           "revealedBy": "Responses that address symptoms rather than causes; mixed-up cause and consequence statements.",
           "response": "Map causes and consequences visually before writing, then check that responses target causes where appropriate.",
-          "reteachPrerequisiteId": "fun.cause-effect"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Forcing every task into a problem–solution frame.",
@@ -4271,7 +4247,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Hypothetical 'would' where 'will' or 'is expected to' is meant, making predictions sound unreal.",
           "response": "Contrast will, would and is likely to in pairs of sentences.",
-          "reteachPrerequisiteId": "grm.epistemic-modality"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -5355,7 +5331,7 @@
           "kind": "developmental",
           "revealedBy": "Global, unmitigated evaluations without reasons or specific targets.",
           "response": "Ask what exactly is weak and why, and rebuild the critique with a specific target, a reason and appropriate mitigation.",
-          "reteachPrerequisiteId": "sta.concession-language"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Listing what studies did as if this were evaluation.",

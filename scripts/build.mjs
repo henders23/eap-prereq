@@ -31,19 +31,32 @@ const pkg = JSON.parse(readFileSync(resolve(ROOT, 'package.json'), 'utf8'));
 const VERSION = pkg.taxonomyVersion;
 const RELEASE_DATE = pkg.releaseDate;
 
+const DRAFT = process.argv.includes('--draft');
 const skeleton = parseSkeleton();
 const references = parseReferences();
-const frameworks = parseFrameworks();
-const refKeys = new Set(references.map((r) => r.key));
-const frameworkKeys = new Set(frameworks.flatMap((s) => s.items.map((i) => i.key)));
 const strandFiles = loadStrandFiles();
+const baseRefKeys = new Set(references.map((r) => r.key));
+if (DRAFT) {
+  // Draft builds include references still awaiting verification, so the
+  // dataset can be reviewed before the bibliography is finalised.
+  const known = new Set(references.map((r) => r.key));
+  for (const { data } of strandFiles) {
+    for (const r of data.proposedReferences ?? []) {
+      if (known.has(r.key)) continue;
+      known.add(r.key);
+      references.push({ key: r.key, kind: 'article', year: Number((r.apa.match(/\((\d{4})/) ?? [])[1]) || null, citation: r.apa, draft: true });
+    }
+  }
+}
+const frameworks = parseFrameworks();
+const frameworkKeys = new Set(frameworks.flatMap((s) => s.items.map((i) => i.key)));
 
 // --- 1. per-file validation -----------------------------------------------
 const problems = [];
 for (const { file, data } of strandFiles) {
-  const { errors } = checkStrand(data, { skeleton, refKeys, frameworkKeys });
+  const { errors } = checkStrand(data, { skeleton, refKeys: baseRefKeys, frameworkKeys });
   for (const e of errors) problems.push(`${file}: ${e}`);
-  for (const r of data.proposedReferences ?? []) problems.push(`${file}: unresolved proposedReference ${r.key} (add to src/meta/references.txt or remove)`);
+  if (!DRAFT) for (const r of data.proposedReferences ?? []) problems.push(`${file}: unresolved proposedReference ${r.key} (add to src/meta/references.txt or remove)`);
 }
 
 // --- 2. merge -----------------------------------------------------------------
@@ -153,7 +166,8 @@ for (const g of guidance) {
 for (const d of domains) for (const c of d.keyReferences ?? []) usage.get(c).domains.add(d.code);
 const publishedRefs = references.map((r) => {
   const u = usage.get(r.key);
-  const v = verification.get(r.key) ?? { status: 'unverified' };
+  const v = r.draft ? { status: 'unverified', note: 'Draft build: proposed reference awaiting verification.' } : verification.get(r.key) ?? { status: 'unverified' };
+  delete r.draft;
   return {
     ...r,
     verification: v.status,

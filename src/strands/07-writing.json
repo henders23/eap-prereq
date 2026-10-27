@@ -2200,12 +2200,6 @@
     },
     {
       "topicId": "ess.depth-focus",
-      "prerequisiteId": "crt.description-analysis-evaluation",
-      "strength": "soft",
-      "reason": "Developing a point in depth means adding analysis and evaluation, not further description"
-    },
-    {
-      "topicId": "ess.depth-focus",
       "prerequisiteId": "wpr.word-limits",
       "strength": "soft",
       "reason": "Choosing between depth and breadth is driven by the word budget available"
@@ -2308,21 +2302,9 @@
     },
     {
       "topicId": "par.internal-coherence",
-      "prerequisiteId": "coh.cohesion-vs-coherence",
-      "strength": "soft",
-      "reason": "Learners need to distinguish surface linking from underlying logical unity before they can repair coherence"
-    },
-    {
-      "topicId": "par.internal-coherence",
       "prerequisiteId": "coh.given-new",
       "strength": "soft",
       "reason": "Ordering information within and across sentences applies the given–new principle"
-    },
-    {
-      "topicId": "par.internal-coherence",
-      "prerequisiteId": "coh.linking-adverbials",
-      "strength": "soft",
-      "reason": "Signalling logical relations where needed requires a repertoire of connectors and awareness of overuse"
     },
     {
       "topicId": "par.concluding-sentences",
@@ -4140,7 +4122,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Most sentences begin with a connector; mismatched relations (‘Moreover’ introducing a contrast).",
           "response": "Teach logical ordering and given–new first, then precise connector choice. Do not reward connector counts in feedback or rubrics.",
-          "reteachPrerequisiteId": "coh.linking-adverbials"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Each sentence introduces a new topic in subject position, so the paragraph reads like a list.",

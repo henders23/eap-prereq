@@ -1583,12 +1583,6 @@
     },
     {
       "topicId": "pub.journal-selection",
-      "prerequisiteId": "inf.open-access",
-      "strength": "soft",
-      "reason": "Choosing among open-access routes and charges builds on understanding of open access and repositories"
-    },
-    {
-      "topicId": "pub.journal-selection",
       "prerequisiteId": "res.contribution",
       "strength": "soft",
       "reason": "Judging fit requires a clear statement of what the manuscript contributes and to whom"
@@ -1672,12 +1666,6 @@
       "reason": "Reporting expected or preliminary results requires predictive and speculative language"
     },
     {
-      "topicId": "pub.conference-abstracts",
-      "prerequisiteId": "inf.scholarly-communication",
-      "strength": "soft",
-      "reason": "Understanding conferences as venues with their own review and status conventions helps writers pitch submissions"
-    },
-    {
       "topicId": "pub.viva",
       "prerequisiteId": "prs.handling-questions",
       "strength": "hard",
@@ -1736,12 +1724,6 @@
       "prerequisiteId": "idn.standards-legitimacy",
       "strength": "soft",
       "reason": "Recognising native-speaker bias in review builds on questioning native-speaker norms as the benchmark"
-    },
-    {
-      "topicId": "pub.multilingual-scholars",
-      "prerequisiteId": "acu.academic-literacies",
-      "strength": "soft",
-      "reason": "Treating publishing as social practice shaped by power and institutions draws on the academic literacies perspective"
     },
     {
       "topicId": "pub.research-engagement",
@@ -1901,12 +1883,6 @@
     },
     {
       "topicId": "res.theoretical-framework",
-      "prerequisiteId": "rdc.theoretical-texts",
-      "strength": "soft",
-      "reason": "Writers must read dense theoretical texts accurately before representing and adapting their concepts"
-    },
-    {
-      "topicId": "res.theoretical-framework",
       "prerequisiteId": "dss.operationalising-concepts",
       "strength": "soft",
       "reason": "Framework sections define and operationalise contested constructs, a skill developed in work with concepts"
@@ -1930,12 +1906,6 @@
       "reason": "Describing procedures depends on sequencing, purpose expressions and passive constructions taught under describing processes"
     },
     {
-      "topicId": "res.methods",
-      "prerequisiteId": "grm.passive-voice",
-      "strength": "soft",
-      "reason": "Choosing between passive and active voice with 'we' or 'I' for procedures requires control of the passive and its functions"
-    },
-    {
       "topicId": "res.results",
       "prerequisiteId": "dat.data-commentary",
       "strength": "hard",
@@ -1948,18 +1918,6 @@
       "reason": "Deciding how much interpretation belongs in Results rather than Discussion depends on understanding section functions"
     },
     {
-      "topicId": "res.results",
-      "prerequisiteId": "sta.hedging",
-      "strength": "soft",
-      "reason": "Commenting on tentative findings requires hedging resources"
-    },
-    {
-      "topicId": "res.results",
-      "prerequisiteId": "grm.tense-aspect",
-      "strength": "soft",
-      "reason": "Results alternate between past tense for findings and present tense for what visuals show"
-    },
-    {
       "topicId": "res.quantitative-reporting",
       "prerequisiteId": "num.interpreting-statistics",
       "strength": "hard",
@@ -1970,12 +1928,6 @@
       "prerequisiteId": "res.results",
       "strength": "hard",
       "reason": "Statistical reporting conventions are applied within the organisation and commentary of a results section"
-    },
-    {
-      "topicId": "res.quantitative-reporting",
-      "prerequisiteId": "dat.captions-labelling",
-      "strength": "soft",
-      "reason": "Statistical tables need correctly numbered titles, notes and source information"
     },
     {
       "topicId": "res.quantitative-reporting",
@@ -2006,12 +1958,6 @@
       "prerequisiteId": "res.results",
       "strength": "hard",
       "reason": "A discussion interprets findings already reported, and writers need to separate the two functions"
-    },
-    {
-      "topicId": "res.discussion",
-      "prerequisiteId": "sta.claim-calibration",
-      "strength": "hard",
-      "reason": "Interpretive claims in discussions must be matched in strength to design and evidence"
     },
     {
       "topicId": "res.discussion",
@@ -2050,12 +1996,6 @@
       "reason": "Acknowledging limitations while maintaining claims uses concessive constructions (although, admittedly, nevertheless)"
     },
     {
-      "topicId": "res.limitations",
-      "prerequisiteId": "sta.hedging",
-      "strength": "soft",
-      "reason": "Stating the likely effect of limitations requires modal and lexical hedging"
-    },
-    {
       "topicId": "res.contribution",
       "prerequisiteId": "res.gap-niche",
       "strength": "hard",
@@ -2066,12 +2006,6 @@
       "prerequisiteId": "sta.claim-calibration",
       "strength": "hard",
       "reason": "Originality and significance claims must be matched to what the evidence and design support"
-    },
-    {
-      "topicId": "res.contribution",
-      "prerequisiteId": "sta.boosters",
-      "strength": "soft",
-      "reason": "Promoting a contribution relies on judicious use of boosters and their appropriate limits"
     },
     {
       "topicId": "res.contribution",
@@ -2120,12 +2054,6 @@
       "prerequisiteId": "res.contribution",
       "strength": "soft",
       "reason": "Research abstracts must state what the study adds, which depends on having articulated the contribution"
-    },
-    {
-      "topicId": "res.abstracts",
-      "prerequisiteId": "sen.concision",
-      "strength": "soft",
-      "reason": "Fitting a whole study into a strict word limit depends on removing redundancy and wordiness"
     },
     {
       "topicId": "res.thesis-macrostructure",
@@ -2228,12 +2156,6 @@
       "prerequisiteId": "fbk.seeking-feedback",
       "strength": "hard",
       "reason": "Productive supervision depends on requesting targeted feedback on drafts"
-    },
-    {
-      "topicId": "res.supervision",
-      "prerequisiteId": "fbk.feedback-literacy",
-      "strength": "soft",
-      "reason": "Interpreting and acting on supervisors' comments, and managing the affect they provoke, draws on feedback literacy"
     },
     {
       "topicId": "res.supervision",
@@ -2873,7 +2795,7 @@
           "kind": "conceptual",
           "revealedBy": "Neglect of local audiences and venues where they would be valuable.",
           "response": "Discuss multilingual dissemination strategies and their value, alongside institutional incentives.",
-          "reteachPrerequisiteId": "acu.academic-literacies"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3465,7 +3387,7 @@
           "kind": "overgeneralisation",
           "revealedBy": "Strained agentless passives, dangling modifiers ('After collecting the data, it was analysed') or inconsistency with the learner's target journal.",
           "response": "Show the variation in voice in the learner's target journals and discuss when an agent matters. Present voice as a field and journal choice, not a rule about objectivity.",
-          "reteachPrerequisiteId": "grm.passive-voice"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Methods are just a list of what I did, in the order I did it.",
@@ -3538,7 +3460,7 @@
           "kind": "developmental",
           "revealedBy": "Present-tense generalisations in results without reference to the sample or data, and unhedged comments.",
           "response": "Contrast 'participants in this study reported…' with general claims, and practise tense and hedging choices that keep the scope of results claims explicit.",
-          "reteachPrerequisiteId": "sta.hedging"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -3730,7 +3652,7 @@
           "kind": "developmental",
           "revealedBy": "Boosted claims, generalisation beyond the sample and no mention of alternative explanations or limitations.",
           "response": "Work through claim calibration with the learner's own sentences: what does the design allow, for whom, under what conditions? Avoid over-correcting into hedging every clause.",
-          "reteachPrerequisiteId": "sta.claim-calibration"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Unexpected results are mistakes, so I mention them briefly or leave them out.",
@@ -3999,7 +3921,7 @@
           "kind": "performance",
           "revealedBy": "Disproportionate Move 1, often copied from the introduction.",
           "response": "Have the learner allocate word counts per move before drafting, using exemplars as a guide.",
-          "reteachPrerequisiteId": "sen.concision"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4310,7 +4232,7 @@
           "kind": "L1-transfer",
           "revealedBy": "Hedged suggestions left unaddressed and surprise when the supervisor repeats them more forcefully.",
           "response": "Discuss how indirectness in English academic feedback often encodes requests, and practise clarifying ('Would you like me to restructure this before the next draft?'). Note that this varies by individual supervisor.",
-          "reteachPrerequisiteId": "fbk.feedback-literacy"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "The supervisor is the expert, so I must not disagree or ask for anything.",

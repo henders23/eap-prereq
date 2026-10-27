@@ -1405,12 +1405,6 @@
       "reason": "University argumentative essays are source-based; each reason must be supported by evidence introduced, cited and commented on within paragraphs."
     },
     {
-      "topicId": "ges.argumentative-essay",
-      "prerequisiteId": "arg.rebuttal-concession",
-      "strength": "soft",
-      "reason": "Engaging counter-positions through concession and rebuttal is expected in most university argument, though one-sided expositions are acceptable in some early tasks."
-    },
-    {
       "topicId": "ges.discussion-essay",
       "prerequisiteId": "crt.multiple-perspectives",
       "strength": "hard",
@@ -1574,12 +1568,6 @@
     },
     {
       "topicId": "ges.reflective-writing",
-      "prerequisiteId": "crt.description-analysis-evaluation",
-      "strength": "hard",
-      "reason": "The commonest weakness in reflective writing is staying descriptive; distinguishing description from analysis and evaluation is the core prerequisite."
-    },
-    {
-      "topicId": "ges.reflective-writing",
       "prerequisiteId": "crt.applying-theory",
       "strength": "hard",
       "reason": "Academic reflection is assessed largely on how experience is interpreted through relevant theory, research or standards."
@@ -1631,12 +1619,6 @@
       "prerequisiteId": "syn.gaps-tensions",
       "strength": "hard",
       "reason": "Reviews culminate in identifying what is contested, unresolved or under-researched, which gives the review its purpose."
-    },
-    {
-      "topicId": "ges.literature-review-assignment",
-      "prerequisiteId": "rdc.literature-mapping",
-      "strength": "soft",
-      "reason": "Organising a review thematically depends on first mapping the themes, debates and key contributors in the literature."
     },
     {
       "topicId": "ges.literature-review-assignment",
@@ -2239,7 +2221,7 @@
           "kind": "developmental",
           "revealedBy": "Weak objections followed by 'but this is wrong'; no concession of anything valid.",
           "response": "Ask learners to state the strongest objection a knowledgeable critic would make, and to concede what is valid in it before countering.",
-          "reteachPrerequisiteId": "arg.rebuttal-concession"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2829,7 +2811,7 @@
           "kind": "conceptual",
           "revealedBy": "Narrative-dominated texts with little analysis; feelings reported without interpretation.",
           "response": "Use word budgets per stage and the depth ladder. Do not respond by discouraging feelings altogether: feelings are data to be analysed.",
-          "reteachPrerequisiteId": "crt.description-analysis-evaluation"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Discomfort with the first person and with personal disclosure in assessed writing.",
@@ -2977,7 +2959,7 @@
           "kind": "conceptual",
           "revealedBy": "Over-inclusive reviews that cover everything found; anxiety about missing sources.",
           "response": "Agree scope criteria tied to the question and keep a search record; explain that coverage depends on the review's purpose.",
-          "reteachPrerequisiteId": "rdc.literature-mapping"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {

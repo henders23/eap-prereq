@@ -1939,12 +1939,6 @@
     },
     {
       "topicId": "grm.np-premodification",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "soft",
-      "reason": "Recognising a head noun and the noun phrase it heads within a clause element is the starting point for analysing what comes before it"
-    },
-    {
-      "topicId": "grm.np-premodification",
       "prerequisiteId": "voc.word-families-morphology",
       "strength": "hard",
       "reason": "Premodifier slots require the right word-class variant (economic/economics, well-funded/funding), which depends on control of derivational families"
@@ -2020,12 +2014,6 @@
       "prerequisiteId": "grm.tense-aspect",
       "strength": "hard",
       "reason": "Reporting conventions apply the general meanings of past, present and present perfect to citation; those meanings must already be controlled"
-    },
-    {
-      "topicId": "grm.tense-in-reporting",
-      "prerequisiteId": "grm.reporting-structures",
-      "strength": "soft",
-      "reason": "Tense is chosen within particular reporting frames (X argues that, according to X, X was found to), so the frames are usually taught first"
     },
     {
       "topicId": "grm.tense-in-reporting",
@@ -2248,12 +2236,6 @@
       "prerequisiteId": "edt.revision-editing-proofreading",
       "strength": "soft",
       "reason": "Targeted error monitoring is a sentence-level editing activity, distinct from global revision; learners need that distinction to schedule it"
-    },
-    {
-      "topicId": "grm.error-monitoring",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "soft",
-      "reason": "Naming and tracking error patterns (agreement, fragments, missing verbs) relies on basic clause metalanguage"
     },
     {
       "topicId": "sen.sentence-types",
@@ -3056,7 +3038,7 @@
           "kind": "developmental",
           "revealedBy": "Mixed tenses in consecutive citing sentences with no change of function.",
           "response": "Teach a default pattern for the learner's field and a small number of motivated departures, and check during editing.",
-          "reteachPrerequisiteId": "grm.reporting-structures"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {

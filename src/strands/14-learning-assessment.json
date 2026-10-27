@@ -1424,12 +1424,6 @@
       "reason": "Preparation depends on the type of oral assessment and what it is designed to test"
     },
     {
-      "topicId": "exm.oral-exams",
-      "prerequisiteId": "prn.repair",
-      "strength": "soft",
-      "reason": "Recovering from breakdowns under examination pressure relies on self-repair and reformulation"
-    },
-    {
       "topicId": "exm.test-anxiety",
       "prerequisiteId": "lrn.wellbeing",
       "strength": "soft",
@@ -2217,7 +2211,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Answers that address a misinterpreted question.",
           "response": "Make explicit that examiners generally expect and accept clarification requests, and model them.",
-          "reteachPrerequisiteId": "prn.repair"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {

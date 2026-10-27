@@ -1329,7 +1329,7 @@
       "stageRoles": {
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
       "coreBand": "C1",
       "audience": "learner",
@@ -2206,12 +2206,6 @@
       "reason": "Comparing rhetorical conventions requires the ability to recognise how texts are organised"
     },
     {
-      "topicId": "idn.intercultural-rhetoric",
-      "prerequisiteId": "reg.disciplinary-style",
-      "strength": "soft",
-      "reason": "Seeing variation across disciplines within English helps learners avoid attributing all rhetorical difference to national culture"
-    },
-    {
       "topicId": "idn.standards-legitimacy",
       "prerequisiteId": "idn.elf",
       "strength": "soft",
@@ -2372,7 +2366,7 @@
         {
           "pattern": "'According to the Oxford Dictionary, X means…' used to settle a contested concept.",
           "kind": "prior-schooling",
-          "revealedBy": "Dictionary definitions opening essays on contested disciplinary concepts.",
+          "revealedBy": "Dictionary definitions opening essays on contested disciplinary concepts, a move often taught as a standard essay opening at school.",
           "response": "Show competing scholarly definitions and treat choosing a definition as a claim that needs justification.",
           "reteachPrerequisiteId": "fun.defining"
         }
@@ -2759,8 +2753,8 @@
       "difficulties": [
         {
           "pattern": "'Academic writing must be objective, so I should not take a side.'",
-          "kind": "prior-schooling",
-          "revealedBy": "Essays that survey views but reach no judgement, even for 'to what extent' questions.",
+          "kind": "conceptual",
+          "revealedBy": "Essays that survey views but reach no judgement, even for 'to what extent' questions, sometimes following advice that academic writing must be 'objective'.",
           "response": "Distinguish objectivity (fair use of evidence) from neutrality (no judgement); show position statements in exemplars.",
           "reteachPrerequisiteId": "crt.multiple-perspectives"
         },
@@ -3350,7 +3344,7 @@
             "Discuss which questions were most productive for this text and which needed rewording for the discipline",
             "Rewrite the set as a personal version for their own field and test it on a second text"
           ],
-          "intendedInsight": "A question set makes critical reading manageable, but it works best when adapted to the text, the discipline and the purpose.",
+          "intendedInsight": "A question set makes critical reading manageable, but it is most useful when adapted to the text, the discipline and the purpose.",
           "rationale": "Adapts Wallace and Wray's critical synopsis approach; handing the set over for adaptation follows the modelling-then-transfer logic of reciprocal teaching.",
           "citations": [
             "wallacewray2016",
@@ -3787,7 +3781,7 @@
         {
           "pattern": "'A good essay is balanced and does not take sides.'",
           "kind": "prior-schooling",
-          "revealedBy": "Refusal to reach a conclusion even when the task asks 'to what extent'.",
+          "revealedBy": "Refusal to reach a conclusion even when the task asks 'to what extent', often after school or test discussion-essay formats that reward listing both sides.",
           "response": "Show that in many English-medium university genres (check local criteria) balanced consideration is expected to lead to a reasoned position; contrast discussion and argumentative tasks.",
           "reteachPrerequisiteId": null
         }
@@ -4122,7 +4116,7 @@
         "partialResponse": "Names an aspect of position without an effect or practice.",
         "gapResponse": "Claims complete objectivity or lists identity categories only."
       },
-      "contextNotes": "Undergraduates meet reflexivity mainly in reflective writing and final-year projects. PGT learners in social sciences, education and health need it for dissertations; PGR learners for methodology chapters, ethics applications and likely viva questions.",
+      "contextNotes": "Undergraduates meet reflexivity mainly in reflective writing and final-year projects. PGT learners in social sciences, education and health need it for dissertations. The topic is core for PGR learners, especially in qualitative and practice-based fields, who need it for methodology chapters, ethics applications and likely viva questions; in some quantitative fields it is limited to a brief statement of the researcher's role.",
       "citations": [
         "creswell2018",
         "finlay2002"
@@ -4239,7 +4233,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Guilt about first-language use; avoiding useful first-language resources, often after English-only classroom policies.",
           "response": "Discuss the rationale for strategic first-language use and distinguish supportive strategies from wholesale translation of assessed work.",
-          "reteachPrerequisiteId": "idn.diversity-as-resource"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Using one composing route for every task — always translating a full first-language draft, or never using the first language at all — without checking what works for the task, the rules and their current proficiency.",
@@ -4457,8 +4451,8 @@
           "pattern": "'English academic writing is simply logical; other traditions are illogical.'",
           "kind": "conceptual",
           "revealedBy": "Hierarchical comparisons of writing traditions, by learners or in materials.",
-          "response": "Present English academic conventions as conventions and show variation within English across disciplines.",
-          "reteachPrerequisiteId": "reg.disciplinary-style"
+          "response": "Present English academic conventions as conventions, and show variation within English across disciplines (for example where the thesis appears in a history essay and in a lab report) so that difference is not read as a hierarchy of logic.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4477,6 +4471,7 @@
       "reviewNotes": [
         "Evidence for systematic cross-linguistic rhetorical differences exists for some genres and features, but findings vary with genre and corpus design; single studies should not be generalised to whole languages.",
         "Review response: R5-02 notes that foundation learners have no access to this topic. The Kaplan–Connor–Kubota debate is kept at B2 and above because it is conceptually and linguistically demanding; its foundation-appropriate core — that conventions are learnable and differ by context, not markers of deficit — is carried at foundation by idn.standards-legitimacy, idn.diversity-as-resource and idn.translingual-writing. The topic is no longer a leaf: idn.translingual-writing now takes it as a soft prerequisite.",
+        "Graph note: the soft edge from reg.disciplinary-style (in-sessional only, B2+) was removed because it placed this pre-sessional B2 topic, and the translingual writing topic that builds on it, behind an in-sessional chain; disciplinary variation within English is now handled in the difficulty response and context notes.",
         "Review response: R5-21 asks for the Hinds/Connor/Kubota discussion to be moved here from coh.writer-responsibility; the summary already covers Hinds's typology. A coh.writer-responsibility <- idn.intercultural-rhetoric edge is not recommended because it would create a cycle in the current graph."
       ]
     },

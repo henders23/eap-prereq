@@ -22,6 +22,28 @@
         "tardy2009",
         "rosemartin2012"
       ]
+    },
+    {
+      "code": "GRP",
+      "strand": "Academic Genres",
+      "name": "Report & Practice-Based Genres",
+      "summary": "This domain covers report-based, practice-based and professional genres in which students document investigations, analyse cases, justify designs, propose projects, summarise for decision-makers, reflect on practice and write for non-academic readers. Most are discipline-specific in their sections, terminology and evidence, so each topic sets out common purposes, stages and language while stressing that lab manuals, templates, handbooks and assignment briefs override any generic model. The domain draws on genre-family research on UK student writing, analyses of particular student genres such as the lab report and the business case report, and research on reflective writing.",
+      "learnerSummary": "You will learn how reports, case studies, proposals, portfolios, dissertations and public-facing texts work, who reads them and what those readers need, and how to adapt to your own department's templates and expectations.",
+      "stageEmphasis": {
+        "foundation": "Report conventions, guided lab reports and introductory case studies and business reports in subject pathways.",
+        "pre-sessional": "Extended project reports, proposals and abstracts as progression assessments, with an introduction to report formats in the learners' target disciplines.",
+        "in-sessional-ug": "Discipline-embedded lab, design, business and case reports, placement portfolios and the final-year dissertation or project.",
+        "in-sessional-pgt": "Professional reports, case analyses, policy briefs, portfolios and the master's dissertation, often within a compressed timeline.",
+        "pgr": "Policy briefs and public-facing writing for engagement and impact; doctoral research genres themselves sit in the Research Communication strand."
+      },
+      "keyReferences": [
+        "nesigardner2012",
+        "gardnernesi2013",
+        "parkinson2017",
+        "nathan2013",
+        "ryan2011",
+        "paltridgestarfield2020"
+      ]
     }
   ],
   "topics": [
@@ -748,6 +770,589 @@
           "contribution": "component"
         }
       ]
+    },
+    {
+      "id": "grp.report-conventions",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Report conventions",
+      "description": "Understand how academic and professional reports typically differ from essays: they respond to a defined problem, question or brief for a specified reader, are divided into numbered, headed sections that support selective reading, separate findings from interpretation, integrate captioned tables and figures, and often end with conclusions and recommendations. Section names and order vary widely across lab, project, business, technical and policy reports, so learners need to read the brief and departmental templates rather than assume a single report format.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Explains the main differences in purpose, reader and organisation between an essay and a report on the same topic",
+        "Uses informative headings and a consistent numbering system that supports selective reading",
+        "Separates presentation of findings from discussion or interpretation where the report type requires it",
+        "Integrates numbered, captioned tables and figures and refers to each in the text",
+        "Identifies the required sections and their order from a brief or template and adapts when they differ from a taught model"
+      ],
+      "assessmentPrompt": "Give the learner an essay-style answer to a task whose brief specifies a report. Ask them to outline how it should be restructured, with section headings. Check whether the headings are informative and functional, whether findings are separated from interpretation and recommendations, and whether the learner cites the brief to justify the structure.",
+      "citations": [
+        "nesigardner2012",
+        "gardnernesi2013",
+        "bruce2008genre"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "core"
+        }
+      ]
+    },
+    {
+      "id": "grp.lab-report",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Laboratory report",
+      "description": "Write a laboratory report that records and interprets a practical investigation, typically with an introduction stating the relevant theory and the aim or hypothesis, a method, results presented in tables and figures with data commentary, a discussion that interprets the results against theory and expected values and evaluates sources of error and uncertainty, and a conclusion. Although it resembles the IMRaD research article, the student lab report usually serves to demonstrate understanding of established theory, procedure and data handling, often for an experiment with a known outcome, and its sections, tense and voice conventions vary with discipline, module and lab manual.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "States the aim and the theory needed to interpret the experiment concisely, linking them to the expected outcome",
+        "Describes the method in enough detail for replication, using tense and voice according to the local convention",
+        "Presents results in correctly numbered and labelled tables and figures, with commentary that highlights significant patterns and values",
+        "Interprets results against theory or expected values, quantifying discrepancies and evaluating specific sources of error and uncertainty",
+        "Follows the structure and formatting specified in the lab manual or brief"
+      ],
+      "assessmentPrompt": "Give the learner the aim, a small dataset and one figure from a simple experiment. Ask for a results paragraph and a discussion paragraph. Check that the results paragraph highlights significant patterns with values and refers to the figure without interpreting, and that the discussion compares outcomes with theory and evaluates specific sources of error rather than generic 'human error'.",
+      "citations": [
+        "parkinson2017",
+        "gardnernesi2013",
+        "swalesfeak2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.text.explaining-data",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "grp.empirical-project-report",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Empirical project report",
+      "description": "Write a report of a small-scale empirical study that the student has designed and conducted (for example a survey, interview study, observation or small experiment), presenting the rationale and research questions, a focused review of literature, methods with justification and ethical considerations, findings, a discussion relating findings to the literature, limitations and conclusions. Common on pre-sessional extended projects and in undergraduate and master's research modules, the genre apprentices learners into research reporting; its sections, length and quantitative or qualitative conventions vary by discipline and brief.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Formulates focused, answerable research questions and keeps methods, findings and conclusions aligned with them",
+        "Justifies methodological choices such as sampling, instruments and analysis, and reports ethical procedures",
+        "Presents findings accurately using quantitative or qualitative reporting conventions appropriate to the design",
+        "Discusses findings in relation to the reviewed literature, explaining agreements and differences",
+        "States limitations proportionately and draws conclusions that do not overreach the data"
+      ],
+      "assessmentPrompt": "Give the learner the research questions, a method summary, a findings table and an overclaiming conclusion from a student project. Ask them to identify misalignments and rewrite the conclusion. Check whether they spot claims that the sample and design cannot support and revise them with appropriate hedging and scope.",
+      "citations": [
+        "nesigardner2012",
+        "creswell2018",
+        "swalesfeak2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:med.text.explaining-data",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "acrl:inquiry",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "grp.case-study",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Case study analysis",
+      "description": "Write a case study analysis that applies disciplinary concepts, theories or frameworks to a real or hypothetical case (an organisation, patient, client, project, school or event) to diagnose the key issues, evaluate options and, usually, recommend action. Typical stages are a brief case overview, identification and prioritisation of issues, analysis through theory or frameworks, evaluation of options, and recommendations, sometimes with implementation; the text may be report-like with headings or essay-like, and conventions differ sharply across business, health, law, education and engineering.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Identifies the key issues in a case and prioritises them with justification",
+        "Applies relevant concepts or frameworks analytically, using case evidence, rather than describing the framework",
+        "Distinguishes case facts from inferences and assumptions",
+        "Evaluates options against criteria and recommends action that follows from the analysis",
+        "Uses the format, headings and depth of theory specified by the brief"
+      ],
+      "assessmentPrompt": "Give the learner a one-page case and a named framework or theory from their discipline. Ask for one analytical paragraph applying it to one issue. Check whether case facts are used as evidence, whether the framework is applied rather than defined at length, and whether the paragraph moves towards a judgement or implication.",
+      "citations": [
+        "gardnernesi2013",
+        "nathan2013",
+        "horowitz1986"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "grp.business-report",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Business report",
+      "description": "Write a business report that investigates an organisational problem or opportunity for a specified decision-maker, analyses relevant evidence and data (often with management frameworks), presents findings and conclusions, and makes prioritised, feasible recommendations. Typical sections include an executive summary, introduction with terms of reference, findings or analysis, conclusions, recommendations and appendices; because the reader is assumed to be busy and decision-oriented, front-loading, informative headings and visuals matter, and assignment briefs often simulate a client or manager.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Defines the purpose, terms of reference and readership of the report",
+        "Analyses evidence and data relevant to the problem, using frameworks analytically rather than as lists",
+        "Distinguishes findings, conclusions and recommendations and keeps them aligned",
+        "Writes specific, prioritised and feasible recommendations with justification and, where required, implementation steps",
+        "Uses headings, numbering, visuals and an executive summary that a decision-maker could act on"
+      ],
+      "assessmentPrompt": "Give the learner the findings and conclusions sections of a short business report and ask for three recommendations. Check whether each recommendation follows from a conclusion, is specific about who should do what and when, is prioritised, and acknowledges cost or risk.",
+      "citations": [
+        "nathan2013",
+        "bhatia1993",
+        "gardnernesi2013"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:med.text.explaining-data",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "grp.technical-design-report",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Technical and design report",
+      "description": "Write a technical or design report that documents an engineering, computing or design project: the problem and requirements or specification, constraints, generation and evaluation of options against criteria, the selected design and its justification, implementation, testing or validation against requirements, and evaluation with recommendations for further work. The reader must be able to follow, assess and potentially reproduce decisions, so the genre relies on precise technical description, requirement and specification language, comparative evaluation, and close integration of diagrams, tables and calculations.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "States requirements and constraints in precise, testable terms",
+        "Describes design options and evaluates them against explicit criteria, justifying the selected solution and its trade-offs",
+        "Describes components, structures and processes accurately with integrated, labelled diagrams",
+        "Reports testing or validation results and evaluates performance against the requirements",
+        "Follows departmental and professional conventions for numbered sections, appendices and technical notation"
+      ],
+      "assessmentPrompt": "Give the learner a design requirement and data on two candidate solutions. Ask for a design-selection paragraph. Check for explicit criteria linked to the requirements, quantitative comparison, justification of trade-offs and reference to a numbered table or figure.",
+      "citations": [
+        "gardnernesi2013",
+        "trimble1985",
+        "nesigardner2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.text.explaining-data",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "grp.project-proposal",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Project proposal (student)",
+      "description": "Write a proposal for a student project or dissertation that defines the topic and research questions or aims, justifies them in relation to the literature and a gap or practical need, outlines methods and data sources, addresses ethics and feasibility, and presents a realistic timeline. The proposal persuades a supervisor or module team that the project is worthwhile, answerable and achievable; characteristic language includes future and conditional forms, purpose and justification expressions, and hedged statements about expected outcomes.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "States focused research questions or aims and justifies their significance with reference to literature or need",
+        "Identifies the gap, problem or need that the project addresses",
+        "Outlines methods and data sources that can answer the questions, with an analysis approach",
+        "Addresses ethical issues and feasibility, including access, time and resources",
+        "Presents a realistic timeline aligned with institutional deadlines"
+      ],
+      "assessmentPrompt": "Give the learner a weak proposal with broad aims and a method that cannot answer them. Ask them to list the three most important revisions. Check whether they target alignment between aims and methods, feasibility within the time available, and justification of significance.",
+      "citations": [
+        "creswell2018",
+        "gardnernesi2013",
+        "paltridgestarfield2020"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "acrl:inquiry",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "grp.executive-summary",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Executive summary",
+      "description": "Write an executive summary that lets a decision-maker grasp a report's purpose, key findings, conclusions and recommendations without reading the full document. It stands alone, usually appears at the front, is short relative to the report, orders content by importance to the reader rather than by the report's section order, and states recommendations explicitly; unlike an academic abstract, it foregrounds implications and actions over method.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Includes purpose, key findings, conclusions and recommendations in proportion to their importance for the reader",
+        "Produces a text that can be understood without the full report, defining any essential terms",
+        "Front-loads the main message and orders content by importance to the decision-maker",
+        "Keeps within the specified length and introduces no information absent from the report",
+        "Explains how an executive summary differs from an abstract and from an introduction"
+      ],
+      "assessmentPrompt": "Give the learner a 1,500-word report and ask for a 200-word executive summary. Check that the main message appears in the first two sentences, that recommendations are explicit, that no new information is introduced and that method detail is minimal.",
+      "citations": [
+        "bhatia1993",
+        "swalesfeak2009abstracts"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.strat.streamlining-text",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "grp.policy-brief",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Policy brief",
+      "description": "Write a short, evidence-based document that presents a policy problem, summarises and weighs the relevant evidence, sets out options with their trade-offs and recommends action to a non-specialist policy audience such as officials, practitioners or NGOs. Typical features are a front-loaded set of key messages, a concise problem statement, accessible synthesis of research with its strength signalled, options, and concrete recommendations addressed to named actors, presented in a few pages with headings and visuals; tone is authoritative but calibrated to the evidence, and organisations use their own templates.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "States the policy problem and its significance concisely for a non-specialist reader",
+        "Synthesises research evidence accessibly while signalling its strength and limits",
+        "Presents options with trade-offs and recommends specific, feasible actions for named actors",
+        "Front-loads key messages and uses headings, visuals and plain language appropriately",
+        "Keeps recommendations within what the evidence supports, presenting risks and effect sizes in terms readers can interpret"
+      ],
+      "assessmentPrompt": "Give the learner the abstract and main findings of a policy-relevant research article and ask for a three-point 'key messages' box for a government official. Check that the messages are accessible, specific and action-oriented, that they do not overstate the evidence, and that any statistics are expressed in interpretable terms (for example absolute rather than only relative change).",
+      "citations": [
+        "bhatia1993",
+        "gigerenzer2007"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.strat.adapting-language",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "vitae-rdf:D3",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "grp.professional-portfolio",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Professional practice portfolio",
+      "description": "Compile and write a professional practice portfolio for a placement, practicum or work-based module: dated logs of activities, reflective accounts of significant incidents, and evidence mapped to professional standards or competencies, held together by a commentary that synthesises development and plans further learning. Assessed in nursing and allied health, teacher education, social work, engineering and business placements, the genre combines factual recording, reflection and evidence-based argument, requires strict attention to confidentiality, and follows highly specific institutional and professional-body templates.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Maintains concise, factual, dated logs using appropriate professional terminology",
+        "Writes reflective accounts that link practice incidents to theory and to the relevant professional standards",
+        "Selects and annotates evidence that demonstrates specific competencies, explaining how each item meets them",
+        "Anonymises people and settings and observes confidentiality requirements",
+        "Synthesises development over the placement and sets specific goals for further learning"
+      ],
+      "assessmentPrompt": "Give the learner one competency statement from a relevant professional standard and three items of evidence of varying relevance. Ask them to select the best item and write a 100-word annotation explaining how it demonstrates the competency. Check for explicit mapping, specificity and acknowledgement of what the evidence does not show.",
+      "citations": [
+        "schon1983",
+        "moon2004",
+        "ryan2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "grp.public-writing",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Academic blogs and public-facing writing",
+      "description": "Write academic blog posts, opinion pieces and other outreach texts that communicate research or disciplinary perspectives to non-specialist or mixed readers. Compared with academic genres, these texts lead with the main point, use a more personal and engaging voice, concrete examples, short paragraphs and links rather than formal citation, and signal uncertainty without technical hedging; they also require judgements about representing evidence fairly, the writer's public identity and platform norms.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Leads with a significant or newsworthy point and sustains it for a non-specialist reader",
+        "Explains technical concepts accessibly without distorting the evidence or overstating certainty",
+        "Uses an engaging voice, reader address and concrete examples suited to the platform",
+        "Attributes sources through links or brief references according to platform conventions",
+        "Adapts an academic text, such as their own assignment or an article, into a public-facing piece"
+      ],
+      "assessmentPrompt": "Give the learner the abstract of a published study and ask for a 150-word blog opening. Check for an opening that states why the finding matters, accessible explanation of the finding, appropriate signalling of uncertainty and absence of unexplained jargon.",
+      "citations": [
+        "hyland2005stance",
+        "hyland2010proximity",
+        "mewburnthomson2013"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:D3",
+          "contribution": "core"
+        },
+        {
+          "key": "vitae-rdf:D2",
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.strat.adapting-language",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "grp.dissertation-overview",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Undergraduate and master's dissertation",
+      "description": "Understand and plan the undergraduate or taught master's dissertation as a genre: an extended, largely independent piece of research or scholarship whose typical macrostructures include empirical IMRaD-like chapters, topic-based or theoretical structures and practice-based variants, with expectations of scope, length and originality that are lower than for doctoral theses. Learners need to see how proposal, literature review, methodology, findings, discussion and conclusion form one argument across chapters, and how supervision and assessment work; because expectations vary across disciplines and institutions, the handbook, marking criteria and past dissertations are the key sources.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Describes the macrostructure expected in their department and justifies any variation for their own project",
+        "Distinguishes taught-programme dissertation expectations of scope, originality and length from those of doctoral theses",
+        "Plans chapter functions and word allocations aligned with the research questions",
+        "Uses chapter introductions, conclusions and cross-references to guide the reader through the extended text",
+        "Uses handbook criteria and past dissertations to identify what distinguishes high-graded work"
+      ],
+      "assessmentPrompt": "Ask the learner to produce a one-page chapter plan with word allocations and a one-sentence function for each chapter, based on their department's handbook. Check alignment with the research questions, realistic proportions (for example a discussion that is not squeezed), and whether functions state what each chapter does rather than what it is about.",
+      "citations": [
+        "paltridge2002",
+        "paltridgestarfield2020",
+        "petric2007",
+        "hopkins1988"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "acrl:inquiry",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "grp.student-abstract",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Report & Practice-Based Genres",
+      "name": "Abstracts for student work",
+      "description": "Write an abstract for a dissertation, project report or poster that summarises, in a stand-alone paragraph within a strict word limit, the context or problem, aim, method, main findings and conclusion or implication. Student abstracts follow moves similar to those of research abstracts but are judged mainly on accuracy, completeness and concision; tense typically shifts between present for context and conclusions and past for methods and findings, and some fields require structured formats with headings.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Includes the moves required by the brief (context, aim, method, findings, conclusion) in sensible proportion",
+        "Reports specific findings rather than promising that results 'will be discussed'",
+        "Uses tense and voice consistently with move function and local convention",
+        "Writes within the word limit without unexplained abbreviations, or citations unless permitted",
+        "Ensures the abstract matches the content and the strength of claims in the full text"
+      ],
+      "assessmentPrompt": "Give the learner a 250-word abstract that ends indicatively ('results are discussed') and omits the method. Ask them to identify the missing moves and rewrite it in 200 words. Check for an added method, specific findings and a conclusion consistent with those findings.",
+      "citations": [
+        "swalesfeak2009abstracts",
+        "santos1996",
+        "swalesfeak2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.strat.streamlining-text",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
     }
   ],
   "dependencies": [
@@ -1074,6 +1679,312 @@
       "prerequisiteId": "src.voice-boundaries",
       "strength": "hard",
       "reason": "The genre depends on marking clearly where the source's ideas end and the writer's response begins."
+    },
+    {
+      "topicId": "grp.report-conventions",
+      "prerequisiteId": "ess.essay-structure",
+      "strength": "soft",
+      "reason": "Report conventions are most easily taught by contrast with the essay structure learners usually know first."
+    },
+    {
+      "topicId": "grp.report-conventions",
+      "prerequisiteId": "ges.genre-families",
+      "strength": "soft",
+      "reason": "Knowing that 'report' covers several genre families (methodology recounts, research reports, design specifications, case studies) prevents learners treating it as a single format."
+    },
+    {
+      "topicId": "grp.report-conventions",
+      "prerequisiteId": "dat.captions-labelling",
+      "strength": "soft",
+      "reason": "Numbered, captioned tables and figures are a defining feature of reports, so captioning conventions are usually taught first."
+    },
+    {
+      "topicId": "grp.lab-report",
+      "prerequisiteId": "grp.report-conventions",
+      "strength": "hard",
+      "reason": "The lab report applies sectioned report organisation, separation of results from discussion and integrated visuals."
+    },
+    {
+      "topicId": "grp.lab-report",
+      "prerequisiteId": "fun.describing-process",
+      "strength": "hard",
+      "reason": "The method section is a replicable description of an experimental procedure, using sequencing and purpose language."
+    },
+    {
+      "topicId": "grp.lab-report",
+      "prerequisiteId": "dat.data-commentary",
+      "strength": "hard",
+      "reason": "The results section depends on locating data, highlighting significant findings and commenting on them without over-interpreting."
+    },
+    {
+      "topicId": "grp.lab-report",
+      "prerequisiteId": "dse.hypothesis-language",
+      "strength": "soft",
+      "reason": "Aims, hypotheses, variables, controls, error and uncertainty are expressed through the language of experimentation."
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "prerequisiteId": "grp.report-conventions",
+      "strength": "hard",
+      "reason": "The project report uses sectioned report organisation, with findings presented separately from their discussion."
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "prerequisiteId": "res.research-questions",
+      "strength": "hard",
+      "reason": "The whole report is organised around answerable research questions that methods, findings and conclusions must align with."
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "prerequisiteId": "res.imrad",
+      "strength": "soft",
+      "reason": "Most empirical project reports adapt an IMRaD-type macrostructure, so understanding its logic and variants helps learners organise the report."
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "prerequisiteId": "dat.data-commentary",
+      "strength": "soft",
+      "reason": "Quantitative projects present findings in tables and figures with commentary; qualitative projects draw less on this skill, hence a soft link."
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "prerequisiteId": "ges.literature-review-assignment",
+      "strength": "soft",
+      "reason": "The project report contains a focused literature review that frames the questions and is returned to in the discussion."
+    },
+    {
+      "topicId": "grp.case-study",
+      "prerequisiteId": "crt.applying-theory",
+      "strength": "hard",
+      "reason": "The analytical core of the genre is using concepts and frameworks to explain what is happening in the case."
+    },
+    {
+      "topicId": "grp.case-study",
+      "prerequisiteId": "crt.problem-solving",
+      "strength": "hard",
+      "reason": "Case analyses define and prioritise problems and generate and evaluate options before recommending action."
+    },
+    {
+      "topicId": "grp.case-study",
+      "prerequisiteId": "fun.recommending",
+      "strength": "soft",
+      "reason": "Most case studies end with recommendations, which draw on recommending, priority and feasibility language."
+    },
+    {
+      "topicId": "grp.case-study",
+      "prerequisiteId": "grp.report-conventions",
+      "strength": "soft",
+      "reason": "Many case studies are written in report format with headings, though some briefs require an essay format."
+    },
+    {
+      "topicId": "grp.business-report",
+      "prerequisiteId": "grp.report-conventions",
+      "strength": "hard",
+      "reason": "The business report is a sectioned, headed report written for selective reading by a decision-maker."
+    },
+    {
+      "topicId": "grp.business-report",
+      "prerequisiteId": "fun.recommending",
+      "strength": "hard",
+      "reason": "Prioritised, justified recommendations are the purpose of the genre and the section decision-makers read most closely."
+    },
+    {
+      "topicId": "grp.business-report",
+      "prerequisiteId": "crt.problem-solving",
+      "strength": "soft",
+      "reason": "Business reports are problem-oriented, defining an organisational problem and evaluating options before recommending."
+    },
+    {
+      "topicId": "grp.business-report",
+      "prerequisiteId": "dat.data-commentary",
+      "strength": "soft",
+      "reason": "Findings sections often present financial, market or survey data in tables and charts that require commentary."
+    },
+    {
+      "topicId": "grp.technical-design-report",
+      "prerequisiteId": "grp.report-conventions",
+      "strength": "hard",
+      "reason": "Technical and design reports are numbered, sectioned reports with integrated visuals and appendices."
+    },
+    {
+      "topicId": "grp.technical-design-report",
+      "prerequisiteId": "fun.describing-structure",
+      "strength": "hard",
+      "reason": "Documenting a design depends on precise part–whole, spatial and functional description of components and systems."
+    },
+    {
+      "topicId": "grp.technical-design-report",
+      "prerequisiteId": "fun.evaluating",
+      "strength": "hard",
+      "reason": "Design decisions must be justified by evaluating options against explicit criteria derived from the requirements."
+    },
+    {
+      "topicId": "grp.technical-design-report",
+      "prerequisiteId": "dat.referring-to-visuals",
+      "strength": "soft",
+      "reason": "Technical description relies on drawings, diagrams and tables that must be referred to and integrated in the text."
+    },
+    {
+      "topicId": "grp.project-proposal",
+      "prerequisiteId": "res.research-questions",
+      "strength": "hard",
+      "reason": "The proposal is built around focused, answerable research questions or aims that the methods must address."
+    },
+    {
+      "topicId": "grp.project-proposal",
+      "prerequisiteId": "syn.gaps-tensions",
+      "strength": "hard",
+      "reason": "The rationale argues for the project by identifying a gap, tension or need in the literature or practice; this is distinct from formulating the questions themselves."
+    },
+    {
+      "topicId": "grp.project-proposal",
+      "prerequisiteId": "wpr.managing-long-projects",
+      "strength": "soft",
+      "reason": "The timeline and feasibility sections draw on planning milestones and allocating time to an extended project."
+    },
+    {
+      "topicId": "grp.project-proposal",
+      "prerequisiteId": "int.research-integrity",
+      "strength": "soft",
+      "reason": "Proposals must address ethics and responsible research practice, usually before ethical approval is sought."
+    },
+    {
+      "topicId": "grp.executive-summary",
+      "prerequisiteId": "grp.report-conventions",
+      "strength": "hard",
+      "reason": "An executive summary exists only in relation to a report and must mirror its findings, conclusions and recommendations."
+    },
+    {
+      "topicId": "grp.executive-summary",
+      "prerequisiteId": "src.summarising-text",
+      "strength": "hard",
+      "reason": "Writing the summary requires condensing a whole document to its main points with macro-rules of deletion, generalisation and construction."
+    },
+    {
+      "topicId": "grp.executive-summary",
+      "prerequisiteId": "fun.recommending",
+      "strength": "soft",
+      "reason": "Most executive summaries state recommendations explicitly and in priority order."
+    },
+    {
+      "topicId": "grp.executive-summary",
+      "prerequisiteId": "sen.concision",
+      "strength": "soft",
+      "reason": "Strict length limits and a time-poor reader make removal of redundancy and empty phrasing essential."
+    },
+    {
+      "topicId": "grp.policy-brief",
+      "prerequisiteId": "reg.non-specialist-audiences",
+      "strength": "hard",
+      "reason": "The genre is defined by its non-specialist policy readership, so plain-language and lay-summary principles are foundational."
+    },
+    {
+      "topicId": "grp.policy-brief",
+      "prerequisiteId": "fun.recommending",
+      "strength": "hard",
+      "reason": "Concrete, prioritised recommendations to named actors are the purpose of a policy brief."
+    },
+    {
+      "topicId": "grp.policy-brief",
+      "prerequisiteId": "crt.evidence-types",
+      "strength": "soft",
+      "reason": "Weighing and signalling the strength of different kinds of evidence underpins credible, calibrated policy messages."
+    },
+    {
+      "topicId": "grp.policy-brief",
+      "prerequisiteId": "grp.executive-summary",
+      "strength": "soft",
+      "reason": "Front-loaded key messages in a policy brief work like an executive summary, which is usually met first in report writing."
+    },
+    {
+      "topicId": "grp.professional-portfolio",
+      "prerequisiteId": "ges.reflective-writing",
+      "strength": "hard",
+      "reason": "Reflective accounts of practice are the core component of most portfolios and draw directly on the reflective writing genre."
+    },
+    {
+      "topicId": "grp.professional-portfolio",
+      "prerequisiteId": "lrn.reflective-logs",
+      "strength": "soft",
+      "reason": "Maintaining regular learning logs builds the habit of dated, selective recording that placement logs formalise."
+    },
+    {
+      "topicId": "grp.professional-portfolio",
+      "prerequisiteId": "fbk.marking-criteria",
+      "strength": "soft",
+      "reason": "Mapping evidence to professional competencies uses the same skill of unpacking criteria and judging evidence against them."
+    },
+    {
+      "topicId": "grp.public-writing",
+      "prerequisiteId": "reg.non-specialist-audiences",
+      "strength": "hard",
+      "reason": "Public-facing genres depend on adapting content and register for readers without specialist knowledge."
+    },
+    {
+      "topicId": "grp.public-writing",
+      "prerequisiteId": "sta.engagement-markers",
+      "strength": "soft",
+      "reason": "Blogs and opinion pieces rely more heavily on reader pronouns, questions and directives than academic prose does."
+    },
+    {
+      "topicId": "grp.public-writing",
+      "prerequisiteId": "arg.rhetorical-appeals",
+      "strength": "soft",
+      "reason": "Opinion pieces and outreach texts combine evidence with appeals to credibility and to readers' values, which must be used responsibly."
+    },
+    {
+      "topicId": "grp.public-writing",
+      "prerequisiteId": "dig.digital-etiquette",
+      "strength": "soft",
+      "reason": "Publishing online involves platform norms, a public academic profile and privacy considerations."
+    },
+    {
+      "topicId": "grp.dissertation-overview",
+      "prerequisiteId": "ges.literature-review-assignment",
+      "strength": "hard",
+      "reason": "Every dissertation includes a substantial literature review chapter or strand that positions the study."
+    },
+    {
+      "topicId": "grp.dissertation-overview",
+      "prerequisiteId": "grp.project-proposal",
+      "strength": "soft",
+      "reason": "The dissertation usually develops from an assessed or approved proposal that fixes its questions, methods and timeline."
+    },
+    {
+      "topicId": "grp.dissertation-overview",
+      "prerequisiteId": "grp.empirical-project-report",
+      "strength": "soft",
+      "reason": "Empirical dissertations scale up the shorter project report; non-empirical dissertations draw on it less, hence a soft link."
+    },
+    {
+      "topicId": "grp.dissertation-overview",
+      "prerequisiteId": "ges.genre-analysis",
+      "strength": "soft",
+      "reason": "Because dissertation expectations vary widely, analysing departmental handbooks and past dissertations is the main route to local conventions."
+    },
+    {
+      "topicId": "grp.student-abstract",
+      "prerequisiteId": "src.summarising-text",
+      "strength": "hard",
+      "reason": "An abstract condenses a whole text to its essential content within a strict word limit."
+    },
+    {
+      "topicId": "grp.student-abstract",
+      "prerequisiteId": "res.imrad",
+      "strength": "soft",
+      "reason": "Abstract moves broadly mirror the IMRaD sections of empirical reports, so understanding that structure helps learners select content."
+    },
+    {
+      "topicId": "grp.student-abstract",
+      "prerequisiteId": "grm.tense-in-reporting",
+      "strength": "soft",
+      "reason": "Abstracts shift between present and past tense according to move, which draws on tense choices for reporting research."
+    },
+    {
+      "topicId": "grp.student-abstract",
+      "prerequisiteId": "sen.concision",
+      "strength": "soft",
+      "reason": "Word limits make concise phrasing essential to include all required moves."
     }
   ],
   "guidance": [
@@ -2165,6 +3076,897 @@
       "reviewNotes": [
         "The summary–response paper is mainly a North American composition genre; in UK contexts it is more often an EAP or foundation teaching genre than a departmental assessment."
       ]
+    },
+    {
+      "topicId": "grp.report-conventions",
+      "summary": "Nesi and Gardner (2012) show that 'report' is a label applied to several distinct genre families (methodology recounts, research reports, design specifications and case studies among them), so report conventions should be taught as a family resemblance rather than a single template. Gardner and Nesi's (2013) classification helps learners locate the report they have been set. Bruce's (2008) distinction between social genres and the cognitive genres within them shows learners that a report may contain explanation, discussion or recount. Contrast essay and report on the same content, emphasise the reader who reads selectively and acts on findings, and always check the brief and templates.",
+      "activities": [
+        {
+          "title": "Essay to report",
+          "learnerActions": [
+            "Read a short essay and the brief for a report on the same topic",
+            "Identify the report's reader and what decision or understanding they need",
+            "Restructure the essay into headed sections",
+            "Write informative headings and decide where a table would serve better than prose"
+          ],
+          "intendedInsight": "Report structure serves a reader who reads selectively and needs findings and recommendations.",
+          "rationale": "Holding content constant while changing the genre isolates purpose and reader, the factors that distinguish the report families described by Nesi and Gardner (2012).",
+          "citations": [
+            "nesigardner2012"
+          ]
+        },
+        {
+          "title": "Which report is this?",
+          "learnerActions": [
+            "Examine extracts from a lab report, a business report and a design report",
+            "Compare their sections, headings and use of visuals",
+            "Agree which features are shared and which are specific to each"
+          ],
+          "intendedInsight": "'Report' covers several genres, and the shared features are fewer than learners expect.",
+          "rationale": "Based on Gardner and Nesi's (2013) classification of genre families in student writing.",
+          "citations": [
+            "gardnernesi2013"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'A report is an essay with headings.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Headings inserted into continuous argumentative prose; no separation of findings from recommendations.",
+          "response": "Show reports in which sections do different jobs and ask what the reader of each section needs. Do not imply that reports contain no argument: analysis and justification remain central.",
+          "reteachPrerequisiteId": "ess.essay-structure"
+        },
+        {
+          "pattern": "Uninformative or generic headings ('Part 1', 'Main body').",
+          "kind": "developmental",
+          "revealedBy": "Headings that do not tell the reader what a section contains.",
+          "response": "Practise writing headings a reader could navigate by, and check them against the template.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Visuals inserted without number, caption or reference in the text.",
+          "kind": "developmental",
+          "revealedBy": "Figures that the text never mentions or explains.",
+          "response": "Teach captioning and in-text reference together, and require every visual to be cited and commented on.",
+          "reteachPrerequisiteId": "dat.captions-labelling"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: what are three differences between an essay and a report?",
+        "strongResponse": "Mentions purpose and reader, selective reading supported by headings, separation of findings from conclusions or recommendations, and integrated visuals.",
+        "partialResponse": "Mentions headings only.",
+        "gapResponse": "Cannot name a difference."
+      },
+      "contextNotes": "Foundation: introduce through simple reports in subject modules. Pre-sessional: often the format of the progression project. In-sessional undergraduate: reports in science, engineering, business and social science differ substantially, so work from departmental templates. Taught postgraduate: professional report formats and dissertation-style reports.",
+      "citations": [
+        "nesigardner2012",
+        "gardnernesi2013",
+        "bruce2008genre"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "grp.lab-report",
+      "summary": "Parkinson (2017) characterises the student laboratory report as a genre in its own right that differs from the research article it superficially resembles, notably because it is written to demonstrate understanding of established theory and procedure rather than to claim a new contribution. Gardner and Nesi (2013) classify lab reports with Methodology Recounts. Teach section by section with the department's lab manual, attending to data commentary (Swales & Feak, 2012) and to the discussion of error, which students frequently reduce to generic statements. Conventions such as passive or active voice, and whether results and discussion are combined, vary by discipline and lab manual and should be checked locally.",
+      "activities": [
+        {
+          "title": "Results or discussion?",
+          "learnerActions": [
+            "Sort sentences from a lab report into results (what was found) and discussion (what it means)",
+            "Identify the language that distinguishes them, such as tense, hedging and comparison with theory",
+            "Rewrite a mixed paragraph as separate results and discussion paragraphs"
+          ],
+          "intendedInsight": "Results report and highlight; discussion interprets and evaluates.",
+          "rationale": "Builds awareness of section functions as described in genre analysis of student lab reports (Parkinson, 2017).",
+          "citations": [
+            "parkinson2017"
+          ]
+        },
+        {
+          "title": "Beyond 'human error'",
+          "learnerActions": [
+            "List possible sources of error in a familiar experiment",
+            "Classify them as systematic or random, procedural or instrumental",
+            "Estimate the direction and approximate size of each one's effect on the result",
+            "Write an evaluation paragraph that ends with a specific improvement"
+          ],
+          "intendedInsight": "Error analysis is reasoning about specific effects on results, not a ritual admission of imperfection.",
+          "rationale": "Makes explicit the evaluative expectations of the discussion section, which generic error statements do not meet; the activity draws on data commentary principles (Swales & Feak, 2012).",
+          "citations": [
+            "swalesfeak2012"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Method written as instructions copied from the lab manual ('Add 5 ml of ...').",
+          "kind": "overgeneralisation",
+          "revealedBy": "Imperative sentences in the method section.",
+          "response": "Contrast manual instructions with a report method and practise converting them to past-tense description, passive or active according to the local convention. Do not teach that the passive is always required.",
+          "reteachPrerequisiteId": "fun.describing-process"
+        },
+        {
+          "pattern": "Results described vaguely, without values or figure references, or mixed with interpretation.",
+          "kind": "developmental",
+          "revealedBy": "Statements such as 'the graph goes up' and explanations embedded in the results.",
+          "response": "Teach location and highlighting statements that cite values and figure numbers, and move interpretation to the discussion.",
+          "reteachPrerequisiteId": "dat.data-commentary"
+        },
+        {
+          "pattern": "Introduction written as a general history of the topic or as a research-gap argument.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Long background with no link between theory and the aim of the experiment.",
+          "response": "Analyse departmental exemplar introductions and focus on the theory needed to interpret this experiment.",
+          "reteachPrerequisiteId": "grp.report-conventions"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a short results table and ask for two sentences of results and two of discussion.",
+        "strongResponse": "Results sentences cite values and the table; discussion sentences interpret them against theory.",
+        "partialResponse": "Cites values but mixes interpretation into the results.",
+        "gapResponse": "Restates the whole table without selecting what matters."
+      },
+      "contextNotes": "Foundation: science foundation students write lab reports early, usually with structured templates. In-sessional undergraduate: discipline-specific support, ideally embedded with lab staff, since conventions differ between chemistry, physics, biology and engineering. Taught postgraduate: lab-based MSc students may need support in moving towards research-article conventions for project reports.",
+      "citations": [
+        "parkinson2017",
+        "gardnernesi2013",
+        "swalesfeak2012"
+      ],
+      "reviewNotes": [
+        "Claims about Parkinson (2017) are stated at a general level; reviewers should check the article's specific move findings before adding detail."
+      ]
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "summary": "Nesi and Gardner (2012) identify the Research Report as a genre family in which students report their own investigations, usually later in a programme. Swales and Feak (2012) give accessible, move-based treatments of research-reporting sections, and Creswell and Creswell (2018) offer frameworks for aligning questions, design and reporting across quantitative, qualitative and mixed approaches. Emphasise alignment between questions, methods, findings and conclusions, and proportionate claims from small samples. On pre-sessionals the project is also a vehicle for academic socialisation, so keep its scope modest and its process visible.",
+      "activities": [
+        {
+          "title": "Alignment audit",
+          "learnerActions": [
+            "Write your research questions at the top of a page",
+            "For each question, note the method, data and finding that address it",
+            "Mark any finding not linked to a question and any question without a finding",
+            "Revise the questions or the conclusions to restore alignment"
+          ],
+          "intendedInsight": "Coherence in a report comes from alignment between questions, methods, findings and conclusions.",
+          "rationale": "Applies the design alignment emphasised by Creswell and Creswell (2018) to the student's own report.",
+          "citations": [
+            "creswell2018"
+          ]
+        },
+        {
+          "title": "Claims sized to data",
+          "learnerActions": [
+            "Read conclusions from three student projects",
+            "Rate the strength of each claim against the sample size and design",
+            "Rewrite overclaims with hedges and explicit scope limits"
+          ],
+          "intendedInsight": "Small-scale studies support modest, bounded claims, and stating limits strengthens credibility.",
+          "rationale": "Builds claim calibration in the context where learners most often overclaim: reporting their own first research.",
+          "citations": []
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Generalising from small samples ('This proves that students prefer ...').",
+          "kind": "developmental",
+          "revealedBy": "Unhedged generalisations beyond the participants studied.",
+          "response": "Teach scope language and the limitations section together. Do not discourage claims altogether; the aim is claims that the data can bear.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Literature review and discussion disconnected from each other.",
+          "kind": "developmental",
+          "revealedBy": "A discussion that never returns to the sources reviewed.",
+          "response": "Require each discussion paragraph to relate a finding to at least one reviewed source.",
+          "reteachPrerequisiteId": "ges.literature-review-assignment"
+        },
+        {
+          "pattern": "Research questions too broad to answer with the data available.",
+          "kind": "conceptual",
+          "revealedBy": "Questions such as 'What is the impact of social media on society?'",
+          "response": "Narrow by population, context and variable or phenomenon, and check feasibility before data collection.",
+          "reteachPrerequisiteId": "res.research-questions"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a research question and ask what data could answer it and what claims would then be possible.",
+        "strongResponse": "Proposes feasible data and states bounded claims.",
+        "partialResponse": "Proposes feasible data but overclaims.",
+        "gapResponse": "Proposes unfeasible or misaligned data."
+      },
+      "contextNotes": "Pre-sessional: extended projects of modest scope, often using secondary data or small primary datasets, where process and alignment matter more than results. In-sessional undergraduate: research methods modules and final-year projects, with disciplinary conventions for quantitative and qualitative reporting. Taught postgraduate: projects that prepare for or form part of the dissertation.",
+      "citations": [
+        "nesigardner2012",
+        "swalesfeak2012",
+        "creswell2018"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "grp.case-study",
+      "summary": "Gardner and Nesi (2013) classify case studies among genres that prepare students for professional practice, and Horowitz (1986) found case studies among the tasks university teachers set. Nathan's (2013) analysis of the business case report describes a problem-oriented genre organised around analysis and recommendations and distinct from the essay. The central challenge is analytical application: frameworks and theories must be used to explain the case, not summarised. Because the genre varies so much across fields (a nursing case study differs markedly from a business case report), analyse departmental exemplars and briefs.",
+      "activities": [
+        {
+          "title": "Facts, inferences, assumptions",
+          "learnerActions": [
+            "Read a short case and list its facts",
+            "List the inferences you draw and the evidence for each",
+            "Identify assumptions that would need checking",
+            "Write a short statement of the main issue grounded in the facts"
+          ],
+          "intendedInsight": "Analysis rests on distinguishing what the case states from what the analyst infers.",
+          "rationale": "Supports the analytical stance expected in professional-practice genres (Gardner & Nesi, 2013).",
+          "citations": [
+            "gardnernesi2013"
+          ]
+        },
+        {
+          "title": "Framework as lens, not list",
+          "learnerActions": [
+            "Compare two paragraphs applying the same framework to a case, one descriptive and one analytical",
+            "Identify how the analytical paragraph uses case evidence and draws implications",
+            "Rewrite a descriptive paragraph analytically"
+          ],
+          "intendedInsight": "Frameworks earn credit when they reveal something about the case.",
+          "rationale": "Reflects the analysis-and-recommendation focus Nathan (2013) describes in business case reports.",
+          "citations": [
+            "nathan2013"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Retelling the case.",
+          "kind": "developmental",
+          "revealedBy": "Long summaries of the case at the expense of analysis.",
+          "response": "Tell learners to assume the marker knows the case, and set a small word budget for the overview.",
+          "reteachPrerequisiteId": "crt.applying-theory"
+        },
+        {
+          "pattern": "Describing a framework or theory at length without applying it.",
+          "kind": "prior-schooling",
+          "revealedBy": "Paragraphs that define a model or list its components with little reference to the case.",
+          "response": "Require every analytical paragraph to contain case evidence and an implication for the issue.",
+          "reteachPrerequisiteId": "crt.applying-theory"
+        },
+        {
+          "pattern": "Recommendations not linked to the analysis, or not feasible.",
+          "kind": "developmental",
+          "revealedBy": "New ideas appearing for the first time in the recommendations.",
+          "response": "Have learners trace each recommendation back to an issue and forward to feasibility and risk.",
+          "reteachPrerequisiteId": "crt.problem-solving"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a mini-case and ask for the most important issue and why.",
+        "strongResponse": "Names a prioritised issue with supporting case evidence and an implication.",
+        "partialResponse": "Names an issue without justification.",
+        "gapResponse": "Retells the case."
+      },
+      "contextNotes": "Foundation: business and other pathways introduce short cases with guided frameworks. In-sessional undergraduate: discipline-specific case studies in business, health, law, education and engineering, ideally co-taught with subject staff. Taught postgraduate: professional master's programmes rely heavily on case analysis, often with complex cases and group work.",
+      "citations": [
+        "gardnernesi2013",
+        "nathan2013",
+        "horowitz1986"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "grp.business-report",
+      "summary": "Nathan (2013) shows that business school case report writing is problem-oriented and recommendation-driven and argues for making its structure and expectations explicit to students. Bhatia (1993) offers a framework for analysing professional genres through the communicative purposes of their users, which suits reports written for simulated clients and managers, and Gardner and Nesi (2013) note the professional-practice purpose of such genres. Teach the findings–conclusions–recommendations chain, the role of the executive summary and analytical use of frameworks, and check local templates because business schools differ.",
+      "activities": [
+        {
+          "title": "Findings, conclusions, recommendations",
+          "learnerActions": [
+            "Given a set of findings, write a conclusion for each",
+            "Derive a recommendation from each conclusion",
+            "Prioritise the recommendations by impact and feasibility",
+            "Check that no recommendation lacks a supporting finding"
+          ],
+          "intendedInsight": "Recommendations persuade when they can be traced back to findings.",
+          "rationale": "Reflects the recommendation-driven structure of business case genres (Nathan, 2013).",
+          "citations": [
+            "nathan2013"
+          ]
+        },
+        {
+          "title": "Writing for a busy manager",
+          "learnerActions": [
+            "Read two versions of a report introduction, one front-loaded and one background-heavy",
+            "Decide which better supports a decision and why",
+            "Rewrite a background-heavy section so that the key message comes first"
+          ],
+          "intendedInsight": "Professional readers prioritise purpose, conclusions and actions.",
+          "rationale": "Communicative purpose shapes the structure of professional genres (Bhatia, 1993).",
+          "citations": [
+            "bhatia1993"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Essay-like discussion with vague or missing recommendations.",
+          "kind": "overgeneralisation",
+          "revealedBy": "A final section that summarises rather than recommends.",
+          "response": "Use the findings–conclusions–recommendations chain and require a recommendations section mapped to the conclusions.",
+          "reteachPrerequisiteId": "fun.recommending"
+        },
+        {
+          "pattern": "Management frameworks used as checklists.",
+          "kind": "prior-schooling",
+          "revealedBy": "Bulleted framework lists with no prioritisation or implications.",
+          "response": "Require learners to prioritise framework items and state the implication of each for the problem.",
+          "reteachPrerequisiteId": "crt.problem-solving"
+        },
+        {
+          "pattern": "Bullet points used for analysis, or avoided where they would help.",
+          "kind": "developmental",
+          "revealedBy": "Analysis fragmented into bullets, or long recommendations buried in prose.",
+          "response": "Use bullets for parallel items such as recommendations and continuous prose for analysis and justification, following the brief.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: what is the difference between a conclusion and a recommendation in a business report?",
+        "strongResponse": "A conclusion is a judgement drawn from findings; a recommendation proposes an action that follows from a conclusion.",
+        "partialResponse": "Gives a vague or partly correct distinction.",
+        "gapResponse": "Treats them as the same."
+      },
+      "contextNotes": "Foundation: simple reports in business pathways. Pre-sessional: business-specific pre-sessionals may use report assessments. In-sessional undergraduate: business, management and accounting reports. Taught postgraduate: MBA and management master's reports, often for simulated clients and with group authorship.",
+      "citations": [
+        "nathan2013",
+        "bhatia1993",
+        "gardnernesi2013"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "grp.technical-design-report",
+      "summary": "Gardner and Nesi (2013) identify Design Specification as a genre family that prepares students for professional practice, particularly in engineering. Trimble's (1985) rhetorical approach to scientific and technical English highlights the description, definition, classification and visual–verbal relationships on which technical reports depend. Prioritise justification of decisions against requirements and integration of visuals, and consult departmental templates, professional-body expectations and module briefs, because formats differ between engineering branches, computing and product design.",
+      "activities": [
+        {
+          "title": "Requirements to criteria",
+          "learnerActions": [
+            "Extract requirements and constraints from a design brief",
+            "Rewrite vague requirements as measurable ones",
+            "Use them as criteria in a decision matrix for two options",
+            "Write a selection paragraph that refers to the matrix"
+          ],
+          "intendedInsight": "Design decisions are justified by explicit, measurable criteria.",
+          "rationale": "Supports the justificatory purpose of the Design Specification family (Gardner & Nesi, 2013).",
+          "citations": [
+            "gardnernesi2013"
+          ]
+        },
+        {
+          "title": "Text and diagram together",
+          "learnerActions": [
+            "Describe a component using a labelled diagram",
+            "Write a paragraph that refers to the diagram and explains each part's function",
+            "Ask a partner to identify the parts from your text alone"
+          ],
+          "intendedInsight": "Technical description depends on precise integration of text and visuals.",
+          "rationale": "Trimble (1985) treats visual–verbal relationships as a core rhetorical feature of technical writing.",
+          "citations": [
+            "trimble1985"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Narrating what the team did chronologically instead of justifying decisions.",
+          "kind": "developmental",
+          "revealedBy": "'First we ..., then we ...' structures with little evaluation.",
+          "response": "Restructure sections around decisions, options and criteria, keeping chronology for logs or appendices.",
+          "reteachPrerequisiteId": "fun.evaluating"
+        },
+        {
+          "pattern": "Imprecise requirements and evaluations ('the design is efficient and good').",
+          "kind": "developmental",
+          "revealedBy": "Unmeasurable claims without values or units.",
+          "response": "Require quantification with units and tolerances, and link each evaluative claim to a requirement.",
+          "reteachPrerequisiteId": "fun.describing-structure"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask learners to justify, in three sentences, choosing one of two familiar products for a stated purpose.",
+        "strongResponse": "Names explicit criteria, compares the options on them with values where possible, and acknowledges a trade-off.",
+        "partialResponse": "Gives criteria but no comparison, or comparison without criteria.",
+        "gapResponse": "States a preference without reasons."
+      },
+      "contextNotes": "In-sessional undergraduate: engineering, computing and design programmes, best embedded in project modules with subject staff. Taught postgraduate: MSc engineering and computing projects, where professional standards and group-authored reports are common.",
+      "citations": [
+        "gardnernesi2013",
+        "trimble1985",
+        "nesigardner2012"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "grp.project-proposal",
+      "summary": "Gardner and Nesi (2013) include proposals among genres preparing students for professional and research practice. Creswell and Creswell (2018) provide widely used proposal structures for quantitative, qualitative and mixed methods studies that emphasise alignment between purpose, questions and methods, and Paltridge and Starfield (2020) discuss the proposal as a persuasive text addressed to supervisors and committees. Connor and Mauranen's (1999) move analysis of research grant proposals identifies persuasive moves (such as territory, gap, goal, means and benefits) that can be adapted to student proposals, which are far less competitive. Departmental templates differ substantially and must guide the structure.",
+      "activities": [
+        {
+          "title": "Proposal skeleton from the template",
+          "learnerActions": [
+            "Collect your department's proposal template and assessment criteria",
+            "Write one sentence for each section",
+            "Check alignment: does each question have a method and a data source?",
+            "Ask a peer to review feasibility within the time available"
+          ],
+          "intendedInsight": "A convincing proposal is aligned, feasible and shaped by the local template.",
+          "rationale": "Applies the alignment of purpose, questions and methods emphasised by Creswell and Creswell (2018).",
+          "citations": [
+            "creswell2018"
+          ]
+        },
+        {
+          "title": "Persuasive moves",
+          "learnerActions": [
+            "Label the moves in a model proposal rationale (territory, gap, aim, method, benefit)",
+            "Identify the language that persuades the reader of significance and feasibility",
+            "Draft your own rationale paragraph using the moves"
+          ],
+          "intendedInsight": "A proposal is an argument for the project, not a description of it.",
+          "rationale": "Adapts Connor and Mauranen's (1999) analysis of grant proposal moves to student proposals.",
+          "citations": [
+            "connormauranen1999"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Over-ambitious scope for the time and resources available.",
+          "kind": "developmental",
+          "revealedBy": "Multiple broad questions, large samples or several methods in a short project.",
+          "response": "Narrow the questions and test feasibility against the timeline and access, with supervisor input.",
+          "reteachPrerequisiteId": "res.research-questions"
+        },
+        {
+          "pattern": "A rationale based only on personal interest ('I have always been interested in ...').",
+          "kind": "overgeneralisation",
+          "revealedBy": "Significance argued from the writer's biography rather than from literature or need.",
+          "response": "Allow a brief note of motivation where the brief permits, but require significance to be argued from the literature, a gap or a practical need.",
+          "reteachPrerequisiteId": "syn.gaps-tensions"
+        },
+        {
+          "pattern": "Ethics treated as a formality.",
+          "kind": "conceptual",
+          "revealedBy": "Generic statements ('there are no ethical issues') for projects involving people or data.",
+          "response": "Discuss consent, confidentiality, data management and risk for the specific project and link to the institution's ethics process.",
+          "reteachPrerequisiteId": "int.research-integrity"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to state their project aim, one research question and the data that will answer it in three sentences.",
+        "strongResponse": "A focused aim, an answerable question and feasible, aligned data.",
+        "partialResponse": "A focused aim but a misaligned or unfeasible data source.",
+        "gapResponse": "A topic rather than an aim or question."
+      },
+      "contextNotes": "Pre-sessional: short proposals for extended projects, closely supervised. In-sessional undergraduate: final-year project and dissertation proposals. Taught postgraduate: dissertation proposals are frequently assessed and are followed by ethics applications, often within weeks.",
+      "citations": [
+        "creswell2018",
+        "gardnernesi2013",
+        "paltridgestarfield2020",
+        "connormauranen1999"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "grp.executive-summary",
+      "summary": "Executive summaries are professional rather than research genres: Bhatia (1993) argues that professional genres are best understood through the communicative purposes of their users, here a reader deciding whether and how to act. They share with abstracts the demand for a stand-alone condensation of a longer text (Swales & Feak, 2009) but prioritise findings and recommendations over method. Teach by comparing an abstract, an introduction and an executive summary for the same report, and have learners write for a named reader facing a specific decision.",
+      "activities": [
+        {
+          "title": "Three openings compared",
+          "learnerActions": [
+            "Read an abstract, an introduction and an executive summary written for the same report",
+            "List what each includes and omits and in what order",
+            "Identify the reader and purpose of each",
+            "Write a rule of thumb for each text type in one sentence"
+          ],
+          "intendedInsight": "Different reader purposes produce different selections and orderings of the same content.",
+          "rationale": "Comparison by purpose follows Bhatia's (1993) approach to professional genres; the abstract provides a familiar point of contrast (Swales & Feak, 2009).",
+          "citations": [
+            "bhatia1993",
+            "swalesfeak2009abstracts"
+          ]
+        },
+        {
+          "title": "Two sentences first",
+          "learnerActions": [
+            "State the report's main finding and main recommendation in two sentences",
+            "Test them on a partner who has not read the report: could they act on them?",
+            "Expand to the required length, adding supporting findings in order of importance",
+            "Check that nothing appears that is not in the report"
+          ],
+          "intendedInsight": "The executive summary is built outward from the key message rather than compiled section by section.",
+          "rationale": "Front-loading serves the decision-making reader that defines the genre's purpose (Bhatia, 1993).",
+          "citations": [
+            "bhatia1993"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "The summary is written as an introduction, describing background and what the report will do.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Phrases such as 'This report will examine ...' and no findings or recommendations.",
+          "response": "Contrast introduction and executive summary directly, and require findings and recommendations in the first paragraph.",
+          "reteachPrerequisiteId": "grp.report-conventions"
+        },
+        {
+          "pattern": "One sentence copied or paraphrased from each section in report order.",
+          "kind": "developmental",
+          "revealedBy": "A summary that mirrors the report's table of contents and gives method as much space as findings.",
+          "response": "Have learners rank content by importance to the reader before drafting, and allow the order to depart from the report's.",
+          "reteachPrerequisiteId": "src.summarising-text"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to explain, in two or three sentences, how an executive summary differs from an abstract.",
+        "strongResponse": "Notes the decision-making reader, the emphasis on findings and recommendations over method, and stand-alone use.",
+        "partialResponse": "Says it is 'a longer abstract' or notes only position in the document.",
+        "gapResponse": "Treats it as an introduction."
+      },
+      "contextNotes": "In-sessional undergraduate: business, engineering and some social science reports require executive summaries, often as a separately marked element. Taught postgraduate: management, public policy and public health programmes use them routinely, and they recur in professional practice.",
+      "citations": [
+        "bhatia1993",
+        "swalesfeak2009abstracts"
+      ],
+      "reviewNotes": [
+        "No item in the closed bibliography analyses executive summaries directly; the citations support only the general claims about professional genres and abstracts."
+      ]
+    },
+    {
+      "topicId": "grp.policy-brief",
+      "summary": "Treat the policy brief as a professional genre whose structure follows its users' purposes (Bhatia, 1993): busy readers need key messages first, a clear problem, a fair account of evidence and actionable options. A recurrent challenge is presenting evidence accessibly without distortion; Gigerenzer et al. (2007) show that statistical information is better understood when presented as absolute risks and natural frequencies rather than relative risks alone, which is directly relevant to briefs on health, education or social policy. Analyse briefs from the organisations learners might write for, as templates and expectations vary.",
+      "activities": [
+        {
+          "title": "Key messages from research",
+          "learnerActions": [
+            "Read the abstract and findings of a policy-relevant study",
+            "Draft three key messages for a named policy reader",
+            "Check each against the evidence for overstatement",
+            "Rewrite any statistics as absolute figures or natural frequencies where helpful"
+          ],
+          "intendedInsight": "Policy messages must be both actionable and faithful to the strength of the evidence.",
+          "rationale": "Applies Gigerenzer et al.'s (2007) principles for transparent risk communication to the genre's central move.",
+          "citations": [
+            "gigerenzer2007"
+          ]
+        },
+        {
+          "title": "Brief anatomy",
+          "learnerActions": [
+            "Compare two published policy briefs from different organisations",
+            "Label their sections and identify how evidence and recommendations are presented",
+            "Note how visuals and headings serve a skimming reader",
+            "Draft a template for a brief in your field"
+          ],
+          "intendedInsight": "Policy briefs share a purpose-driven logic but differ in template by organisation.",
+          "rationale": "Analysing professional genres through their purposes and users follows Bhatia (1993).",
+          "citations": [
+            "bhatia1993"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Writing an academic literature review with recommendations added at the end.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Long background, dense citation and recommendations only in the final paragraph.",
+          "response": "Insist on key messages first and a strict page limit; move citations to endnotes or links where the template allows.",
+          "reteachPrerequisiteId": "grp.executive-summary"
+        },
+        {
+          "pattern": "Overstating certainty or causal effects to make recommendations persuasive.",
+          "kind": "conceptual",
+          "revealedBy": "Unqualified claims ('X will reduce Y') from observational or limited evidence.",
+          "response": "Teach plain-language ways of signalling evidence strength ('strong evidence suggests', 'early findings indicate') and check each message against its source.",
+          "reteachPrerequisiteId": "crt.evidence-types"
+        },
+        {
+          "pattern": "Recommendations that are vague or addressed to no one ('More should be done').",
+          "kind": "developmental",
+          "revealedBy": "Recommendations without an actor, action or time frame.",
+          "response": "Require each recommendation to name who should do what, by when, and at roughly what cost or risk.",
+          "reteachPrerequisiteId": "fun.recommending"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give learners a research finding and ask for one recommendation for a named policy actor.",
+        "strongResponse": "A specific, feasible action for a named actor, worded within the strength of the evidence.",
+        "partialResponse": "A specific action that overstates the evidence, or a cautious but vague action.",
+        "gapResponse": "A general statement with no actor or action."
+      },
+      "contextNotes": "In-sessional undergraduate: occasional assessments in politics, development, public health and environmental studies. Taught postgraduate: common in public policy, international development, public health and education master's programmes. PGR: briefs are a route to research impact and engagement, often written with institutional policy or knowledge-exchange teams.",
+      "citations": [
+        "bhatia1993",
+        "gigerenzer2007"
+      ],
+      "reviewNotes": [
+        "The closed bibliography contains no genre analysis of policy briefs; adding a verified source on policy-brief writing would strengthen this topic. Overlaps with dss.policy-analysis."
+      ]
+    },
+    {
+      "topicId": "grp.professional-portfolio",
+      "summary": "Portfolios operationalise Schön's (1983) idea of the reflective practitioner in assessed form, typically combining logs, reflective accounts and evidence mapped to competencies. Moon (2004) shows that reflective writing ranges from description to deeper, critical reflection, and Ryan (2011) argues that the language of reflection must be taught explicitly; both apply to the reflective components of portfolios. The less-discussed demands are documentary: concise factual logging, selection and annotation of evidence against standards, and confidentiality. Work from the specific professional standards and templates learners must use, ideally with placement tutors.",
+      "activities": [
+        {
+          "title": "Evidence to competency",
+          "learnerActions": [
+            "Take one competency statement from your professional standards",
+            "Collect three possible pieces of evidence from your practice",
+            "Rank them by how directly they demonstrate the competency",
+            "Write an annotation for the best one explaining what it shows and what it does not"
+          ],
+          "intendedInsight": "Evidence must be selected and explicitly argued to meet a standard; inclusion alone does not demonstrate competence.",
+          "rationale": "Connects reflective practice (Schön, 1983) to the argumentative work of evidencing competence.",
+          "citations": [
+            "schon1983"
+          ]
+        },
+        {
+          "title": "From log entry to reflective account",
+          "learnerActions": [
+            "Read a factual log entry about a placement incident",
+            "Identify what in it is worth reflecting on and why",
+            "Write a short reflective account using the language of reasoning and reconstruction",
+            "Link it to one theory or standard"
+          ],
+          "intendedInsight": "Logs record; reflective accounts interpret and plan, and each has its own language.",
+          "rationale": "Applies Ryan's (2011) reflective language resources and Moon's (2004) levels of reflection to portfolio components.",
+          "citations": [
+            "ryan2011",
+            "moon2004"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Including everything rather than selecting and annotating evidence.",
+          "kind": "developmental",
+          "revealedBy": "Large portfolios with unannotated certificates, notes and documents.",
+          "response": "Limit evidence per competency and require an annotation for every item.",
+          "reteachPrerequisiteId": "fbk.marking-criteria"
+        },
+        {
+          "pattern": "Breaching confidentiality through identifiable details about patients, pupils, clients or colleagues.",
+          "kind": "conceptual",
+          "revealedBy": "Names, locations or distinctive details in logs and reflections.",
+          "response": "Teach anonymisation conventions of the relevant profession and review drafts before submission.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Reflection reduced to descriptive logging.",
+          "kind": "conceptual",
+          "revealedBy": "Accounts that list activities without interpretation or learning.",
+          "response": "Return to reflective writing models and require an explicit link to theory or a standard in each account.",
+          "reteachPrerequisiteId": "ges.reflective-writing"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to annotate one piece of evidence against a given competency in 80–100 words.",
+        "strongResponse": "Explicitly maps the evidence to the competency, specifies what it demonstrates and notes its limits.",
+        "partialResponse": "Describes the evidence without explicit mapping.",
+        "gapResponse": "Restates the competency or the evidence title."
+      },
+      "contextNotes": "In-sessional undergraduate: nursing, midwifery, allied health, teacher education, social work and engineering placements, where professional bodies define standards. Taught postgraduate: professional master's and conversion programmes, often with e-portfolio platforms and tight placement schedules.",
+      "citations": [
+        "schon1983",
+        "moon2004",
+        "ryan2011"
+      ],
+      "reviewNotes": [
+        "Overlaps with dhl.reflective-practice and mmd.digital-assessments (e-portfolios)."
+      ]
+    },
+    {
+      "topicId": "grp.public-writing",
+      "summary": "Public-facing writing intensifies the engagement resources Hyland (2005) describes for academic discourse, and Hyland (2010, proposed reference) compares how popular and professional science texts construct proximity to their readers differently, which gives learners a principled basis for adapting their writing. Mewburn and Thomson (2013, proposed reference) analysed academic blogs and found a range of audiences and purposes, so 'blog' is not a single genre. Teach learners to adapt their own academic texts for a named public, to keep fidelity to the evidence, and to consider their public academic identity.",
+      "activities": [
+        {
+          "title": "Same finding, two readers",
+          "learnerActions": [
+            "Compare a research article's abstract with a blog post or news piece on the same study",
+            "List changes in structure, voice, engagement and treatment of uncertainty",
+            "Identify any place where the public version distorts or overstates the finding",
+            "Rewrite one paragraph of your own assignment for a public reader"
+          ],
+          "intendedInsight": "Adapting for the public changes structure and voice but should not change what the evidence shows.",
+          "rationale": "Draws on Hyland's (2010, proposed) comparison of popular and professional science and on Hyland's (2005) account of engagement resources.",
+          "citations": [
+            "hyland2010proximity",
+            "hyland2005stance"
+          ]
+        },
+        {
+          "title": "Purpose and platform",
+          "learnerActions": [
+            "Read three academic blog posts with different purposes (explaining research, commenting on policy, reflecting on academic life)",
+            "Identify each post's likely audience and how it addresses them",
+            "Plan a post for one purpose and audience relevant to your field"
+          ],
+          "intendedInsight": "Academic blogs serve varied purposes and audiences, and these shape their style.",
+          "rationale": "Reflects Mewburn and Thomson's (2013, proposed) finding that academic blogs vary in audience and purpose.",
+          "citations": [
+            "mewburnthomson2013"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Writing a shortened academic paper, dense with terminology and citations.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Unexplained jargon, formal citations and a slow build-up to the main point.",
+          "response": "Have learners state the main point in one plain sentence first, then test drafts on a non-specialist reader.",
+          "reteachPrerequisiteId": "reg.non-specialist-audiences"
+        },
+        {
+          "pattern": "Overcorrecting into hype or oversimplification.",
+          "kind": "developmental",
+          "revealedBy": "Claims such as 'scientists prove' or 'breakthrough' for tentative findings.",
+          "response": "Practise plain-language signals of uncertainty and compare drafts with the source's own claims.",
+          "reteachPrerequisiteId": "arg.rhetorical-appeals"
+        },
+        {
+          "pattern": "Anxiety about public visibility or criticism online.",
+          "kind": "affective",
+          "revealedBy": "Reluctance to publish, or extreme hedging and impersonality in public drafts.",
+          "response": "Discuss platform choice, moderation and institutional support; start with internal or departmental outlets.",
+          "reteachPrerequisiteId": "dig.digital-etiquette"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to explain a key finding from their field to a non-specialist in three sentences in writing.",
+        "strongResponse": "Accurate, jargon-free, leads with significance and signals uncertainty appropriately.",
+        "partialResponse": "Accurate but jargon-heavy, or accessible but overstated.",
+        "gapResponse": "Inaccurate or incomprehensible to a lay reader."
+      },
+      "contextNotes": "In-sessional undergraduate: blog and opinion-piece assessments are increasingly common in media, politics and science communication modules. Taught postgraduate: public-facing assessments in policy, development and communication programmes. PGR: blogs and outreach writing as part of research engagement and impact, often supported by institutional communications teams.",
+      "citations": [
+        "hyland2005stance",
+        "hyland2010proximity",
+        "mewburnthomson2013"
+      ],
+      "reviewNotes": [
+        "Two of the three citations are proposed references; if they cannot be verified, remove the related claims and rely on hyland2005stance and the reg.non-specialist-audiences prerequisite. Overlaps with pub.research-engagement."
+      ]
+    },
+    {
+      "topicId": "grp.dissertation-overview",
+      "summary": "Paltridge (2002) identified several macrostructures for theses and dissertations (traditional simple, traditional complex, topic-based and compilation) and showed that published advice under-represents this variety; Paltridge and Starfield (2020) offer practical guidance for second-language writers and their supervisors. Research on master's dissertations shows where high- and low-rated work differ, for example in the range of rhetorical functions of citation (Petrić, 2007), and Hopkins and Dudley-Evans (1988) analysed the moves of discussion sections in MSc dissertations. Use departmental handbooks and past dissertations as primary sources, and present the dissertation as one argument developed across chapters.",
+      "activities": [
+        {
+          "title": "Past dissertation analysis",
+          "learnerActions": [
+            "With departmental permission, examine two high-graded dissertations from your programme",
+            "Map each chapter's function and its share of the total word count",
+            "Compare the maps with the handbook's guidance and with each other",
+            "Draft your own chapter plan with functions and word allocations"
+          ],
+          "intendedInsight": "Dissertation structures vary within a department; functions and proportions matter more than chapter names.",
+          "rationale": "Paltridge (2002) shows that actual practice is more varied than published advice suggests, so local examples are essential.",
+          "citations": [
+            "paltridge2002"
+          ]
+        },
+        {
+          "title": "What citation is doing",
+          "learnerActions": [
+            "Classify the citations in two pages of a dissertation by function (attribution, support, comparison, evaluation, establishing links)",
+            "Compare the distribution with a page of your own draft",
+            "Revise one paragraph to use citation for comparison or evaluation rather than attribution alone"
+          ],
+          "intendedInsight": "Higher-rated work uses citation to do more rhetorical work than attribution.",
+          "rationale": "Based on Petrić's (2007) comparison of citation functions in high- and low-rated master's theses.",
+          "citations": [
+            "petric2007"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Treating the dissertation as a long essay or as a set of separate assignments.",
+          "kind": "conceptual",
+          "revealedBy": "Chapters that do not refer to each other; research questions that disappear after the introduction.",
+          "response": "Have learners write chapter introductions and conclusions that state each chapter's contribution to answering the questions.",
+          "reteachPrerequisiteId": "ges.genre-analysis"
+        },
+        {
+          "pattern": "A thin discussion that restates findings without interpreting them.",
+          "kind": "developmental",
+          "revealedBy": "Discussion chapters that repeat results and add little reference to literature.",
+          "response": "Analyse discussion moves in local exemplars and require each finding to be interpreted against the literature.",
+          "reteachPrerequisiteId": "grp.empirical-project-report"
+        },
+        {
+          "pattern": "A literature review disconnected from the study.",
+          "kind": "developmental",
+          "revealedBy": "A broad review that does not lead to the research questions or return in the discussion.",
+          "response": "Require the review's final section to justify the research questions and the discussion to revisit the review's key themes.",
+          "reteachPrerequisiteId": "ges.literature-review-assignment"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to describe, in five bullet points, what each chapter of their planned dissertation will do.",
+        "strongResponse": "Functional descriptions linked to the research questions, with a coherent through-line.",
+        "partialResponse": "Accurate chapter names with topical rather than functional descriptions.",
+        "gapResponse": "Cannot outline a structure or lists generic headings."
+      },
+      "contextNotes": "In-sessional undergraduate: final-year dissertations and projects, whose length, format and empirical expectations vary greatly between disciplines. Taught postgraduate: the dissertation is often written over a compressed summer period, carries heavy credit weighting and may be the learner's first extended research text, so early planning support is especially valuable.",
+      "citations": [
+        "paltridge2002",
+        "paltridgestarfield2020",
+        "petric2007",
+        "hopkins1988"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "grp.student-abstract",
+      "summary": "Swales and Feak (2009) treat abstracts as a genre with recognisable moves and linguistic choices, and Santos (1996) proposed a five-move model for research article abstracts in applied linguistics (situating the research, presenting it, describing the methodology, summarising results and discussing the research). Student abstracts adapt these moves to assessment purposes: the marker uses the abstract to check that the student can represent their work accurately and concisely. Analyse local exemplars, because poster, dissertation and report abstracts differ in length and format, and some fields require structured abstracts.",
+      "activities": [
+        {
+          "title": "Move check",
+          "learnerActions": [
+            "Label the moves in three abstracts from your department or field",
+            "Note the tense and voice used in each move",
+            "Check your own draft abstract for missing or over-long moves",
+            "Revise to the word limit"
+          ],
+          "intendedInsight": "Abstracts have predictable moves with typical tense patterns, and completeness matters within tight limits.",
+          "rationale": "Applies the move models of Santos (1996) and Swales and Feak (2009) as a revision checklist.",
+          "citations": [
+            "santos1996",
+            "swalesfeak2009abstracts"
+          ]
+        },
+        {
+          "title": "From indicative to informative",
+          "learnerActions": [
+            "Read an abstract that says what the report 'will discuss' without stating results",
+            "Rewrite it to state the actual findings and conclusion",
+            "Compare which version would better serve a marker or a reader deciding whether to read on"
+          ],
+          "intendedInsight": "Informative abstracts state findings; indicative ones only describe topics.",
+          "rationale": "The distinction between informative and indicative abstracts is a standard element of abstract instruction (Swales & Feak, 2009).",
+          "citations": [
+            "swalesfeak2009abstracts"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Abstract written as an introduction or table of contents.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Background-heavy abstracts that preview sections and omit findings.",
+          "response": "Require one sentence each for method, findings and conclusion before adding context.",
+          "reteachPrerequisiteId": "src.summarising-text"
+        },
+        {
+          "pattern": "Inconsistent or unmotivated tense shifts.",
+          "kind": "developmental",
+          "revealedBy": "Methods in the present and conclusions in the past, or random alternation.",
+          "response": "Show the typical tense pattern by move and the reasons for it, noting that local conventions differ.",
+          "reteachPrerequisiteId": "grm.tense-in-reporting"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to write a 100-word abstract of a project or assignment they have completed.",
+        "strongResponse": "All core moves, specific findings and appropriate tenses within the limit.",
+        "partialResponse": "Most moves present but findings vague or method missing.",
+        "gapResponse": "An introduction or topic description without findings."
+      },
+      "contextNotes": "Pre-sessional: abstracts for extended projects and posters. In-sessional undergraduate: abstracts for final-year projects, lab reports and posters. Taught postgraduate: dissertation abstracts, sometimes structured, and abstracts for student conferences.",
+      "citations": [
+        "swalesfeak2009abstracts",
+        "santos1996",
+        "swalesfeak2012"
+      ],
+      "reviewNotes": []
     }
   ],
   "proposedReferences": [
@@ -2172,6 +3974,16 @@
       "key": "horowitz1986exam",
       "apa": "Horowitz, D. (1986). Essay examination prompts and the teaching of academic writing. *English for Specific Purposes, 5*(2), 107–120.",
       "note": "High confidence in author, year, title and journal; moderate confidence in volume, issue and page range, which should be checked. No DOI given because I am not certain of it. Cited for the general claim that exam essay prompts ask students to select and organise known content in response to specific demands."
+    },
+    {
+      "key": "mewburnthomson2013",
+      "apa": "Mewburn, I., & Thomson, P. (2013). Why do academics blog? An analysis of audiences, purposes and challenges. *Studies in Higher Education, 38*(8), 1105–1119.",
+      "note": "High confidence in authors, year, title and journal; moderate confidence in volume, issue and pages, which should be checked. DOI omitted because I am not certain of it. Cited for the general finding that academic blogs serve varied audiences and purposes."
+    },
+    {
+      "key": "hyland2010proximity",
+      "apa": "Hyland, K. (2010). Constructing proximity: Relating to readers in popular and professional science. *Journal of English for Academic Purposes, 9*(2), 116–127.",
+      "note": "High confidence in author, year, title and journal; moderate confidence in issue and page range. DOI omitted. Cited for the general claim that popular and professional science texts construct relationships with readers differently."
     }
   ],
   "authorNotes": [
@@ -2181,6 +3993,17 @@
     "ges.literature-review-assignment and res.literature-review are appropriately split (coursework versus research writing); the research strand already links res.literature-review to this topic, which is the right direction.",
     "ges.reflective-writing overlaps with dhl.reflective-practice and lrn.reflective-logs; dhl.reflective-practice already takes it as a prerequisite. lrn.reflective-logs is not linked to reflective writing to avoid presuming the learning strand's direction.",
     "ges.summary-response is largely a North American composition genre; in UK contexts it is mainly an EAP or foundation teaching genre. Consider noting this in the skeleton scope.",
-    "The compare-and-contrast, explanation and problem–solution essays are partly 'cognitive genres' (in Bruce's sense) rather than distinct social genres; they are valid EAP teaching genres but departments rarely name them. A future revision could fold them into one topic on essay rhetorical patterns."
+    "The compare-and-contrast, explanation and problem–solution essays are partly 'cognitive genres' (in Bruce's sense) rather than distinct social genres; they are valid EAP teaching genres but departments rarely name them. A future revision could fold them into one topic on essay rhetorical patterns.",
+    "grp.case-study overlaps with dbe.business-case-analysis and dhl.case-reports-care-plans. The disciplinary strand already takes grp.case-study as a prerequisite of both, which is the right direction; this topic covers the cross-disciplinary genre.",
+    "grp.business-report overlaps with dbe.professional-genres, which already takes it as a prerequisite.",
+    "grp.technical-design-report overlaps with dad.design-rationale, dse.protocols-specifications and dse.software-documentation; suggest those topics take it as a soft prerequisite where appropriate.",
+    "grp.project-proposal overlaps with res.research-proposal (doctoral and grant proposals); suggest res.research-proposal take grp.project-proposal as a soft prerequisite.",
+    "grp.policy-brief overlaps with dss.policy-analysis; one should be scoped as the short advocacy genre (this topic) and the other as the analytical process, and linked dss.policy-analysis -> grp.policy-brief or left unlinked.",
+    "grp.public-writing overlaps heavily with pub.research-engagement and reg.non-specialist-audiences. Suggest pub.research-engagement be scoped as strategy and channels (impact, social media planning) and this topic as the writing of specific public genres, with pub.research-engagement taking it as a soft prerequisite.",
+    "grp.student-abstract overlaps with res.abstracts and grp.executive-summary; suggest res.abstracts take grp.student-abstract as a soft prerequisite.",
+    "grp.dissertation-overview overlaps with res.thesis-macrostructure (doctoral); suggest that topic take this one as a soft prerequisite.",
+    "grp.professional-portfolio overlaps with dhl.reflective-practice and mmd.digital-assessments (e-portfolios). It is not linked to either, to avoid presuming those strands' directions.",
+    "grp.dissertation-overview is typed GENRE in the skeleton but its scope note ('structure, scope and expectations') is partly conceptual; it is written here as a genre with planning-oriented mastery evidence.",
+    "Gap: the Empathy Writing family identified by Gardner and Nesi (2013) (writing in role for a lay or professional reader, such as a client letter, patient leaflet or information sheet) has no dedicated topic; grp.public-writing, grp.policy-brief and res.ethics-documentation cover it only partially."
   ]
 }

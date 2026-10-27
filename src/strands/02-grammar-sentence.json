@@ -5,15 +5,15 @@
       "code": "GRM",
       "strand": "Academic Language",
       "name": "Academic Grammar",
-      "summary": "This domain covers the grammatical resources that carry meaning in academic registers, prioritised by what corpus research shows academic writing actually does rather than by a general-English syllabus order. Its centre of gravity is the noun phrase: academic prose compresses information into premodified and postmodified noun phrases and nominalisations far more than conversation does, so learners need both to unpack such phrases when reading and to build them when writing. Clause-level resources (tense, voice, modality, subordination, complement and reporting clauses) are treated in terms of the rhetorical choices they serve, such as currency in citation, agency in methods and degrees of commitment in claims. Accuracy topics are framed as monitoring and editing problems as much as knowledge problems.",
-      "learnerSummary": "You will learn the grammar that academic texts rely on most, especially how long noun phrases pack information, and how choices of tense, voice and sentence structure change what your writing claims. You will also build routines for finding and fixing your own most frequent errors.",
+      "summary": "This domain covers the grammatical resources that carry meaning in academic registers, prioritised by what corpus research shows academic writing actually does rather than by a general-English syllabus order. Its centre of gravity is the noun phrase: academic prose compresses information into premodified and postmodified noun phrases and nominalisations far more than conversation does, so learners need both to unpack such phrases when reading and to build them when writing. Clause-level resources (tense, voice, modality, subordination, complement and reporting clauses) are treated in terms of the rhetorical choices they serve, such as currency in citation, agency in methods and degrees of commitment in claims. Accuracy topics are framed as monitoring and editing problems as much as knowledge problems, and the grammar of spoken academic interaction is treated on its own terms rather than measured against writing.",
+      "learnerSummary": "You will learn the grammar academic texts use most, such as long noun phrases, tense and voice, and how it shapes your claims. You will also learn to find and fix your frequent errors.",
       "stageEmphasis": {
-        "foundation": "Secure clause analysis, agreement, articles, tense and basic subordination with textbook-level texts, and introduce noun-phrase expansion through description and definition tasks.",
-        "in-sessional-ug": "Address grammar through students' disciplinary reading and assessed drafts, focusing on noun phrases, reporting, passive versus active choices and recurrent errors flagged in feedback.",
-        "in-sessional-pgt": "Concentrate on nominalisation, tense in literature reviews, stance-bearing structures and editing efficiency under the time pressure of a one-year programme.",
-        "pgr": "Refine information packaging (clefts, fronting, end-weight), voice and tense choices in research genres and independent self-editing for publication.",
-        "pre-sessional-ug": "Shift attention from clause-combining to phrasal complexity, tense and voice in source-based writing, reporting structures and personal error monitoring tied to the progression assignment.",
-        "pre-sessional-pg": "Shift attention from clause-combining to phrasal complexity, tense and voice in source-based writing, reporting structures and personal error monitoring tied to the progression assignment."
+        "foundation": "Secure clause analysis, agreement, tense, the passive for process description, relative clauses and basic subordination with textbook-level texts, and introduce noun-phrase expansion and the grammar of discussion through description, definition and seminar tasks.",
+        "pre-sessional-ug": "Consolidate tense, voice, articles and noun-phrase postmodification for essays and reports, introduce reporting structures for source-based writing, and build personal error monitoring tied to the progression assignment.",
+        "pre-sessional-pg": "Assume most clause-level grammar and move quickly to phrasal complexity, nominalisation, reporting structures and tense in literature-based writing, with error monitoring geared to the extended project of the target programme.",
+        "in-sessional-ug": "Address grammar through students' disciplinary reading and assessed drafts, focusing on nominalisation, noun phrases, passive versus active choices and recurrent errors flagged in feedback.",
+        "in-sessional-pgt": "Concentrate on tense in literature reviews, nominalisation, stance-bearing structures and editing efficiency under the time pressure of a short taught programme.",
+        "pgr": "Refine information packaging (clefts, fronting, end-weight), voice and tense choices in research genres and independent self-editing for publication."
       },
       "keyReferences": [
         "biber1999lgswe",
@@ -27,15 +27,15 @@
       "code": "SEN",
       "strand": "Academic Language",
       "name": "Sentence Construction & Punctuation",
-      "summary": "This domain covers how clauses are combined into well-formed sentences, how punctuation marks grammatical structure and meaning, and how sentence-level choices (length, concision, end-weight) affect readability. Punctuation is treated as a consequence of clause and phrase analysis rather than as a list of rules, and conventions that vary by style guide (serial commas, quotation marks, capitalisation, numbers) are taught as choices to be applied consistently. Sentence-level style is grounded in what corpus research shows about academic prose, in particular that its difficulty comes mainly from dense noun phrases rather than from long chains of clauses.",
-      "learnerSummary": "You will learn to build clear, correctly punctuated sentences and to apply the conventions your department or style guide expects. You will also learn to edit sentences so that readers can follow dense academic ideas easily.",
+      "summary": "This domain covers how clauses are combined into well-formed sentences, how punctuation marks grammatical structure and meaning, and how sentence-level choices (length, concision, end-weight) affect readability. Punctuation is treated as a consequence of clause and phrase analysis rather than as a list of rules, and conventions that vary by style guide (serial commas, quotation marks, capitalisation, title case) are taught as choices to be applied consistently. Sentence-level style is grounded in what corpus research shows about academic prose, in particular that its difficulty comes mainly from dense noun phrases rather than from long chains of clauses. The style of numbers and units in running text is covered with the language of quantity in num.number-expressions.",
+      "learnerSummary": "You will learn to build clear, correctly punctuated sentences and apply the conventions your department or style guide expects. You will also learn to edit sentences so readers can follow dense ideas.",
       "stageEmphasis": {
-        "foundation": "Establish sentence types, boundaries, core comma and capitalisation conventions, and basic number and list formatting in short assignments.",
-        "in-sessional-ug": "Address style-guide conventions required by departments and sentence-level clarity in assessed reports and essays.",
-        "in-sessional-pgt": "Focus on concision, end-weight and consistent application of a style guide in dissertations and data-heavy writing.",
-        "pgr": "Refine sentence-level clarity, end-weight and house-style conventions for theses and journal submission.",
-        "pre-sessional-ug": "Consolidate boundary and punctuation accuracy under time pressure, introduce semicolons, colons, quotation punctuation and concision for word-limited progression tasks.",
-        "pre-sessional-pg": "Consolidate boundary and punctuation accuracy under time pressure, introduce semicolons, colons, quotation punctuation and concision for word-limited progression tasks."
+        "foundation": "Establish sentence types and boundaries, core comma use, apostrophes, capitals and basic quotation punctuation in short assignments, and introduce list formatting.",
+        "pre-sessional-ug": "Consolidate boundary and punctuation accuracy under time pressure, including quotation punctuation for source-based essays, and introduce semicolons, colons and control of sentence length.",
+        "pre-sessional-pg": "Assume basic boundary control and focus on concision for word-limited extended projects, semicolons and colons in dense prose, quotation conventions in literature-based writing and early work on end-weight.",
+        "in-sessional-ug": "Address the style-guide conventions departments require and sentence-level clarity in assessed reports and essays, with low-level mechanics handled through self-access.",
+        "in-sessional-pgt": "Focus on concision and end-weight in dissertations and data-heavy writing; mechanics are handled through proofreading checklists rather than taught sessions.",
+        "pgr": "Refine sentence-level clarity, end-weight and house-style conventions for theses and journal submission."
       },
       "keyReferences": [
         "apa2020",
@@ -90,8 +90,8 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -135,13 +135,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -190,7 +190,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -200,7 +200,7 @@
       "strand": "Academic Language",
       "domain": "Academic Grammar",
       "name": "Noun-phrase postmodification",
-      "description": "Use and parse the structures that follow a head noun: prepositional phrases (by far the most frequent postmodifier in academic prose), relative clauses, non-finite clauses and appositive noun phrases or clauses. Postmodified noun phrases let writers specify and qualify referents precisely, and they produce the long subjects that L2 readers and writers find hardest to process.",
+      "description": "Use and parse the structures that follow a head noun: prepositional phrases (by far the most frequent postmodifier in academic prose), relative clauses, non-finite clauses and appositive noun phrases or clauses. Postmodified noun phrases let writers specify and qualify referents precisely, and they produce the long subjects that many readers, including users of English as an additional language, find demanding to process.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -238,12 +238,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -262,7 +262,8 @@
         "Unpacks a nominalised sentence into clauses that make agents and causal links explicit",
         "Uses a nominalisation to summarise the previous sentence and make it the theme of the next",
         "Identifies where a nominalisation obscures who did what and restores an agent when the argument needs it",
-        "Explains why nominalisation density differs between, for example, a lab report and a reflective account"
+        "Explains why nominalisation density differs between, for example, a lab report and a reflective account",
+        "Rewrites a conjunction-linked pair of clauses as a single clause in which the relation is expressed by a verb, noun or preposition (because → led to, resulted in, the reason for, due to) and explains what becomes less explicit"
       ],
       "assessmentPrompt": "Give a pair of linked sentences in congruent, clause-based form (The government reduced funding. Because of this, universities recruited more international students.). Ask the learner to rewrite them as one sentence using nominalisation, then to unpack a dense nominal sentence from a set text. Check derived-noun accuracy, preposition choice, whether causal meaning survives compression, and whether unpacking recovers the agents.",
       "citations": [
@@ -290,12 +291,12 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -331,10 +332,6 @@
             "C1"
           ],
           "contribution": "related"
-        },
-        {
-          "key": "ielts:wr.grammatical-range-accuracy",
-          "contribution": "related"
         }
       ],
       "stageRoles": {
@@ -342,10 +339,10 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
-      "audience": "learner",
+      "coreBand": "B2+",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -369,7 +366,8 @@
       "citations": [
         "master1997",
         "celcemurcia1999",
-        "biber1999lgswe"
+        "biber1999lgswe",
+        "ionin2004"
       ],
       "frameworks": [
         {
@@ -388,13 +386,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -440,8 +438,8 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -485,11 +483,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -539,9 +537,9 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
       "coreBand": "B2",
@@ -562,7 +560,7 @@
         "Forms passives accurately with simple, perfect and modal verb phrases (have been reported, may be attributed to)",
         "Justifies a voice choice in terms of topic continuity, agent relevance or genre convention rather than objectivity",
         "Rewrites a passive sentence as active when the agent matters to the argument (for example when attributing a decision or a claim)",
-        "Avoids passives with intransitive verbs (*was happened, *was arisen) and with stative verbs that resist them",
+        "Avoids passives with intransitive verbs (*was happened, *was arisen) and uses passive change-of-state verbs only when an agent is implied (the rate increased / the dose was increased)",
         "Repairs dangling constructions in which an introductory participle clause has no matching subject after a passive main clause"
       ],
       "assessmentPrompt": "Give a methods paragraph written entirely in the passive and a discussion paragraph in which a passive hides who made a claim. Ask the learner to decide which sentences should stay passive and which should change, giving a reason for each. Check whether reasons refer to topic continuity and agent relevance, and whether they mention discipline norms on 'we'.",
@@ -588,14 +586,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -645,9 +643,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -694,7 +692,7 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -738,12 +736,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -838,10 +836,10 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -889,7 +887,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -939,7 +937,7 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -992,9 +990,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1033,8 +1031,8 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -1088,9 +1086,9 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1140,9 +1138,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1186,13 +1184,12 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1240,7 +1237,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1292,8 +1289,8 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -1343,12 +1340,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1393,9 +1390,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1436,7 +1433,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -1491,15 +1488,183 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
+    },
+    {
+      "id": "grm.spoken-grammar",
+      "type": "LINGUISTIC",
+      "strand": "Academic Language",
+      "domain": "Academic Grammar",
+      "name": "Grammar of spoken academic interaction",
+      "description": "Recognise and use the grammar typical of spoken academic interaction (heads and tails, situational ellipsis, clause chaining with and, so and because, discourse markers such as so, right and I mean, and vague category markers such as and so on or that kind of thing), and decide which accuracy features matter most for being understood in seminars, tutorials, group work and presentations. Speech follows different grammatical norms from writing, so learners need neither to speak in written sentences nor to treat normal spoken features as errors.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
+      "masteryEvidence": [
+        "Identifies heads, tails, situational ellipsis and clause chaining in a transcript of a seminar or tutorial exchange and explains what each does for the listener",
+        "Uses short elliptical responses (Probably not; Same here; Depends on the sample) in discussion instead of repeating full clauses",
+        "Uses a fronted head or a clarifying tail to introduce or pin down a topic when explaining an idea to peers (This model, it assumes…; It's quite dated, that study)",
+        "Uses discourse markers and vague category markers to manage talk, and replaces them with specific content when the listener needs precision",
+        "Keeps the features most likely to affect understanding in speech accurate (verb forms that carry time or certainty, negation, clear reference) while using spoken features that would be edited out of writing",
+        "Adjusts grammatical choices between an informal group discussion and a formal presentation segment"
+      ],
+      "assessmentPrompt": "Give a two-minute transcript of students discussing a reading that includes a head (This model, it assumes…), elliptical replies and a long and-so chain. Ask the learner which features would be changed in a written summary and which work well in speech, then ask them to answer a seminar question orally for one minute. Check whether they treat spoken features as legitimate rather than as errors and whether their own answer keeps tense, negation and reference clear.",
+      "citations": [
+        "biber1999lgswe",
+        "biber2006",
+        "halliday1989",
+        "channell1994"
+      ],
+      "frameworks": [
+        {
+          "key": "ielts:sp.grammatical-range-accuracy",
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:ling.grammatical-accuracy",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:int.oral.formal-discussion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "grm.genitive-noun-modifiers",
+      "type": "LINGUISTIC",
+      "strand": "Academic Language",
+      "domain": "Academic Grammar",
+      "name": "Genitive and noun-modifier choices",
+      "description": "Choose between the s-genitive (the study's aims; Piaget's theory; the region's population), the of-phrase (the aims of the study) and a noun premodifier (study aims) according to the animacy, length and information status of the modifying noun and to field convention, and avoid long chains of of-phrases. Inanimate s-genitives are well established in published academic prose, so the school rule that 's is only for people is a simplification, not a norm.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
+      "masteryEvidence": [
+        "Rewrites a phrase in all three forms (the model's accuracy / the accuracy of the model / model accuracy) and explains which suits a given sentence",
+        "Uses an of-phrase when the modifying noun phrase is long or carries new information (the accuracy of the model proposed by Lee) and a genitive or premodifier when it is short and given",
+        "Uses s-genitives with inanimate possessors (the study's limitations, the region's population) where they read naturally, without avoiding them on principle",
+        "Revises chains of three or more of-phrases into clearer noun phrases using a genitive, a premodifier or a clause",
+        "Forms genitives accurately, including plural possessors, and does not combine an article with a proper-noun genitive (*the Smith's theory)"
+      ],
+      "assessmentPrompt": "Give six noun phrases, including an of-chain (the results of the analysis of the data of the survey), two inanimate genitives (the study's aims; the country's economy) and a phrase with a long possessor. Ask the learner to give the alternative forms for each and to choose the best one for a given sentence, explaining why. Check whether choices reflect possessor length, given–new order and clarity rather than a blanket rule against inanimate 's, and whether genitive forms are accurate.",
+      "citations": [
+        "biber1999lgswe",
+        "bibergray2016",
+        "celcemurcia1999"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:ling.general-range",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:ling.grammatical-accuracy",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "ielts:wr.grammatical-range-accuracy",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "grm.unaccusative-verbs",
+      "type": "LINGUISTIC",
+      "strand": "Academic Language",
+      "domain": "Academic Grammar",
+      "name": "Unaccusative and ergative verbs",
+      "description": "Use intransitive verbs that describe events without an agent (occur, happen, arise, emerge, appear, exist) in the active voice, avoiding overpassivised forms such as *was happened and *was emerged, and choose between intransitive and passive uses of ergative change-of-state verbs (the temperature increased / the temperature was increased; prices rose / prices were raised) according to whether an agent is implied. These choices are frequent in process description, methods and data commentary, where voice shows whether a change is presented as spontaneous or caused.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
+      "masteryEvidence": [
+        "Uses occur, happen, arise, emerge, appear and exist only in the active voice in own writing",
+        "Chooses between intransitive and passive uses of change-of-state verbs (prices rose / prices were raised; the rate increased / the dose was increased) according to whether an agent is implied",
+        "Uses transitive–intransitive pairs such as rise/raise and fall/lower or reduce with the correct transitivity and verb forms",
+        "Explains how a voice choice in a methods or results sentence changes whether a change appears spontaneous or caused",
+        "Finds and repairs overpassivised intransitive verbs in a draft"
+      ],
+      "assessmentPrompt": "Give a short process or results paragraph with gaps for six verbs (occur, emerge, increase, decrease, raise, change), with context that makes clear whether an agent caused each change. Ask the learner to fill each gap with an active intransitive or a passive form and to justify two choices. Check for *was occurred-type forms and whether the voice of each change-of-state verb matches the presence or absence of an agent.",
+      "citations": [
+        "biber1999lgswe",
+        "celcemurcia1999",
+        "oshita2000"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:ling.grammatical-accuracy",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.text.explaining-data",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "ielts:wr.grammatical-range-accuracy",
+          "contribution": "related"
+        }
+      ]
     },
     {
       "id": "sen.sentence-types",
@@ -1539,11 +1704,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop"
+        "pre-sessional-pg": "revisit"
       },
-      "coreBand": "A2",
+      "coreBand": "B1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1593,10 +1758,10 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -1640,13 +1805,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1689,10 +1854,10 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1702,21 +1867,24 @@
       "strand": "Academic Language",
       "domain": "Sentence Construction & Punctuation",
       "name": "Punctuation and mechanics beyond the comma",
-      "description": "Use apostrophes for possession (the author's, the authors', Smith and Jones's study) but not for plurals (1990s, PhDs, NGOs); hyphenate compound modifiers before a noun (evidence-based practice, a well-designed study) but not after it or after -ly adverbs; and use en dashes for ranges and relationships (pp. 12–18; a cost–benefit analysis) and dashes for parenthetical asides according to the target style. These marks distinguish meanings (a small-business owner versus a small business owner) and are routinely checked by editors.",
+      "description": "Apply the conventions for marks and mechanics that markers and editors check routinely: apostrophes for possession but not plurals (the authors' view; 1990s; PhDs), hyphens in compound modifiers before a noun (an evidence-based approach) and en dashes for ranges (pp. 12–18); quotation marks, ellipsis, square brackets and the position of citations and full stops in quotations; and capitals for proper nouns and named theories but not general concepts, with title or sentence case as the target style requires. Some of these choices carry meaning (a small-business owner; an ellipsis that drops a negation from a quotation), while others are style conventions to be applied consistently.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Places possessive apostrophes correctly for singular and plural nouns and avoids apostrophes in plurals of acronyms and decades",
-        "Hyphenates compound modifiers before a noun and leaves them open after the noun (a long-term study; effects in the long term)",
-        "Leaves compounds with -ly adverbs unhyphenated (a carefully designed study)",
-        "Uses an en dash for numerical ranges and for relational compounds, consistent with the target style",
-        "Uses parenthetical dashes sparingly and with consistent spacing according to British or US convention"
+        "Places possessive apostrophes correctly for singular and plural owners and omits them from plurals of acronyms, numbers and decades",
+        "Hyphenates compound modifiers before a noun but not after it or after -ly adverbs, and uses an en dash for ranges and relational compounds (a cost–benefit analysis)",
+        "Uses ellipsis and square brackets to fit a quotation into own sentence without changing the source's meaning",
+        "Places quotation marks, citations and final punctuation in run-in and block quotations as the target style requires, applying one quotation-mark convention consistently",
+        "Capitalises proper nouns and named models while keeping general concepts and disciplines in lower case, and applies sentence or title case to headings and reference-list titles as the target style requires",
+        "Checks a draft in a final mechanics pass and leaves no inconsistencies in these conventions"
       ],
-      "assessmentPrompt": "Give ten phrases containing apostrophe, hyphen and dash decisions (for example 'the participants responses', 'a well known model', '1990s', 'pages 10-15'). Ask the learner to correct them and explain two. Check the before/after-noun hyphen rule and apostrophe placement with plural possessives.",
+      "assessmentPrompt": "Give a 60-word source passage and a short draft extract with a heading and two reference entries. Ask the learner to quote part of the passage in their own sentence, omitting a phrase and changing one word to fit their grammar, with a citation in the specified style; then ask them to correct ten mechanics decisions in the extract (apostrophes, compound modifiers, a page range, capitalised general concepts, title case). Check fidelity of the quotation, ellipsis and bracket use, citation and full-stop placement, and whether corrections follow the named style consistently.",
       "citations": [
         "apa2020",
-        "chicago2024"
+        "chicago2024",
+        "mla2021",
+        "pecorari2013"
       ],
       "frameworks": [
         {
@@ -1736,13 +1904,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1787,7 +1955,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -1824,20 +1992,16 @@
             "C1"
           ],
           "contribution": "component"
-        },
-        {
-          "key": "ielts:wr.lexical-resource",
-          "contribution": "related"
         }
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1883,11 +2047,12 @@
         }
       ],
       "stageRoles": {
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1935,7 +2100,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -2020,12 +2185,6 @@
       "prerequisiteId": "voc.countability-academic-nouns",
       "strength": "hard",
       "reason": "much/many, less/fewer and little/few are selected by the countability of the noun"
-    },
-    {
-      "topicId": "grm.tense-aspect",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "soft",
-      "reason": "Tense and aspect are marked on the finite verb phrase, so learners need to identify the finite verb of each clause before choosing or checking tense"
     },
     {
       "topicId": "grm.tense-in-reporting",
@@ -2166,12 +2325,6 @@
       "reason": "Dependent prepositions are best learned as habitual co-occurrences with particular verbs, nouns and adjectives rather than inferred from meaning"
     },
     {
-      "topicId": "grm.prepositions",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "soft",
-      "reason": "Distinguishing a prepositional phrase that complements a verb from one that is an adverbial or a postmodifier underlies accurate use (and the debate about 'due to' after be versus as an adverbial)"
-    },
-    {
       "topicId": "grm.clefts-emphasis",
       "prerequisiteId": "grm.anticipatory-it",
       "strength": "soft",
@@ -2254,6 +2407,48 @@
       "prerequisiteId": "edt.revision-editing-proofreading",
       "strength": "soft",
       "reason": "Targeted error monitoring is a sentence-level editing activity, distinct from global revision; learners need that distinction to schedule it"
+    },
+    {
+      "topicId": "grm.spoken-grammar",
+      "prerequisiteId": "reg.register-awareness",
+      "strength": "soft",
+      "reason": "Spoken grammar is taught as a set of norms appropriate to a mode and situation rather than as error, which presupposes the idea that grammatical choices vary with register"
+    },
+    {
+      "topicId": "grm.spoken-grammar",
+      "prerequisiteId": "grm.clause-elements",
+      "strength": "soft",
+      "reason": "Recognising what situational ellipsis leaves out (a subject, an auxiliary, a verb phrase) and what a head or tail duplicates draws on identifying clause elements"
+    },
+    {
+      "topicId": "grm.genitive-noun-modifiers",
+      "prerequisiteId": "grm.np-premodification",
+      "strength": "hard",
+      "reason": "One of the three options is a noun premodifier (study aims); choosing it requires control of noun + noun premodification and head-final order"
+    },
+    {
+      "topicId": "grm.genitive-noun-modifiers",
+      "prerequisiteId": "grm.np-postmodification",
+      "strength": "hard",
+      "reason": "The of-phrase option is a prepositional postmodifier, and repairing of-chains requires bracketing stacked postmodifiers"
+    },
+    {
+      "topicId": "grm.genitive-noun-modifiers",
+      "prerequisiteId": "sen.punctuation-mechanics",
+      "strength": "soft",
+      "reason": "Forming singular and plural s-genitives (the author's / the authors') depends on accurate apostrophe placement"
+    },
+    {
+      "topicId": "grm.unaccusative-verbs",
+      "prerequisiteId": "grm.passive-voice",
+      "strength": "hard",
+      "reason": "Choosing between an intransitive and a passive use of a change-of-state verb, and recognising *was happened as an overpassivisation, presupposes forming passives and knowing that they imply an agent"
+    },
+    {
+      "topicId": "grm.unaccusative-verbs",
+      "prerequisiteId": "voc.word-grammar-patterns",
+      "strength": "soft",
+      "reason": "Whether a verb is intransitive, transitive or both is a lexical property learned with each verb's complementation pattern"
     },
     {
       "topicId": "sen.sentence-types",
@@ -2356,6 +2551,12 @@
       "prerequisiteId": "grm.anticipatory-it",
       "strength": "soft",
       "reason": "Extraposition with anticipatory it is a standard technique for moving a heavy clausal subject to the end"
+    },
+    {
+      "topicId": "sen.clarity-end-weight",
+      "prerequisiteId": "grm.genitive-noun-modifiers",
+      "strength": "soft",
+      "reason": "Rewriting of-chains and ambiguous noun stacks for readability draws on choosing among a genitive, an of-phrase and a noun premodifier"
     },
     {
       "topicId": "sen.lists-bullets",
@@ -2585,7 +2786,7 @@
       ],
       "reviewNotes": [
         "Premodifier order is presented as a tendency; descriptive grammars disagree on the precise categories, so the order should not be taught as an absolute rule.",
-        "Parkinson and Musgrave (2014) are summarised as broadly supporting the developmental sequence proposed by Biber et al. (2011); the specific contrasts between their learner groups should be verified before publication."
+        "Parkinson and Musgrave (2014) are cited only for the broad finding that noun premodifiers were a feature of their more advanced EAP group, consistent with the developmental sequence proposed by Biber et al. (2011); the guidance does not depend on the details of their group comparison. Genitive choice (the study's aims / the aims of the study / study aims) is treated in grm.genitive-noun-modifiers."
       ]
     },
     {
@@ -2710,7 +2911,7 @@
         "partialResponse": "Produces nominalisations with one grammatical slip, or unpacks accurately but cannot pack, or vice versa.",
         "gapResponse": "Cannot produce the derived nouns or the unpacked version changes the meaning."
       },
-      "contextNotes": "Pre-sessional courses introduce nominalisation for summarising and creating flow, with an emphasis on reading. In undergraduate in-sessional work it is linked to disciplinary reading and lab or report writing. PGT and PGR writers need to calibrate nominal density to genre and audience, including lay summaries where unpacking is the goal.",
+      "contextNotes": "Pre-sessional UG courses introduce nominalisation mainly for reading and for summarising. Pre-sessional PG courses teach it productively for literature-based writing and creating flow, because master's writing depends on it. In undergraduate in-sessional work it is linked to disciplinary reading and lab or report writing. PGT and PGR writers need to calibrate nominal density to genre and audience, including lay summaries where unpacking is the goal.",
       "citations": [
         "hallidaymartin1993",
         "schleppegrell2004",
@@ -2779,7 +2980,9 @@
         "biber2011complexity",
         "lu2011"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R6-11): the IELTS Grammatical Range and Accuracy link was removed, because this conceptual topic is not primarily used for test preparation. Audience is set to \"both\" because the concept also shapes how teachers judge complexity in learner writing (Biber et al., 2011)."
+      ]
     },
     {
       "topicId": "grm.articles",
@@ -2816,7 +3019,7 @@
         {
           "pattern": "My first language has no articles, so I add 'the' when it sounds right.",
           "kind": "L1-transfer",
-          "revealedBy": "Omitted articles with singular countable nouns, and fluctuating use of 'the' that tracks specificity rather than definiteness (for example 'the' for a particular referent the reader cannot yet identify), in writers whose first languages do not grammaticalise definiteness through articles.",
+          "revealedBy": "Omitted articles with singular countable nouns, and fluctuating use of 'the' that tracks specificity rather than definiteness (for example 'the' for a particular referent the reader cannot yet identify; Ionin et al., 2004), in writers whose first languages do not grammaticalise definiteness through articles.",
           "response": "Teach a small decision sequence (countable? singular? identifiable?) and give focused feedback on one or two high-impact categories at a time. Avoid comprehensive correction of every article, which overloads attention.",
           "reteachPrerequisiteId": "voc.countability-academic-nouns"
         },
@@ -2841,11 +3044,12 @@
         "partialResponse": "Handles specific reference well but errs on generic statements or uncountables, or relies on memorised phrases for explanations.",
         "gapResponse": "Errors throughout, with no consistent principle in explanations."
       },
-      "contextNotes": "Article accuracy is a long-term development area, so stages differ in emphasis rather than content. Foundation and pre-sessional teaching establishes the decision sequence; undergraduate and PGT in-sessional work concentrates on high-impact errors in assessed writing. For PGR writers, articles are mainly an editing and publication-readiness issue, often handled through targeted self-editing and literacy brokers.",
+      "contextNotes": "Article accuracy is a long-term development area, so stages differ in emphasis rather than content. Pre-sessional teaching (UG and PG) establishes the decision sequence and assesses it in writing; foundation courses introduce it alongside countability. Undergraduate and PGT in-sessional work concentrates on high-impact errors in assessed writing. For PGR writers, articles are mainly an editing and publication-readiness issue, often handled through targeted self-editing and literacy brokers.",
       "citations": [
         "master1997",
         "celcemurcia1999",
-        "bitchenerferris2012"
+        "bitchenerferris2012",
+        "ionin2004"
       ],
       "reviewNotes": [
         "Generalisations about which L1 backgrounds find articles difficult should be read as tendencies linked to whether the L1 marks definiteness grammatically, not as predictions for individuals."
@@ -2962,8 +3166,8 @@
           "pattern": "Writers whose first language marks time with adverbs rather than verb inflection may leave tense unmarked or inconsistent.",
           "kind": "L1-transfer",
           "revealedBy": "Base forms or shifting tense within a paragraph where time is clear from context.",
-          "response": "Teach tense as an obligatory grammatical choice in English, then give a focused editing pass for finite verbs.",
-          "reteachPrerequisiteId": "grm.clause-elements"
+          "response": "Teach tense as an obligatory grammatical choice in English, then give a focused editing pass for finite verbs; if the learner cannot find the finite verb of each clause, return to clause analysis (grm.clause-elements).",
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Present perfect means a short time ago.",
@@ -2979,7 +3183,7 @@
         "partialResponse": "Most choices correct but one function mismatch, such as present perfect with a specific date.",
         "gapResponse": "Single tense throughout or frequent unmotivated shifts."
       },
-      "contextNotes": "Foundation learners need control of forms and the main academic functions. Pre-sessional and undergraduate in-sessional courses link tense to genre sections. PGT writers mainly need consistency and conventions for literature reviews and methods.",
+      "contextNotes": "Foundation and pre-sessional UG learners need explicit control of forms and the main academic functions, and tense is assessed directly in their writing. Pre-sessional PG learners review it briefly and link tense to genre sections and literature-based writing. Undergraduate and PGT in-sessional learners mainly need consistency and conventions for literature reviews and methods, usually through self-editing.",
       "citations": [
         "biber1999lgswe",
         "swalesfeak2012",
@@ -3041,7 +3245,7 @@
         "partialResponse": "Correct forms but no differentiation of the accepted finding, or inconsistent citation form.",
         "gapResponse": "Tense errors in form or random tense switching."
       },
-      "contextNotes": "On pre-sessional courses the focus is on a default pattern for source-based essays. In undergraduate and PGT in-sessional work, learners analyse their field's literature reviews. PGR writers need conscious control of tense to position their work in relation to others' findings.",
+      "contextNotes": "Pre-sessional UG courses introduce a default pattern for source-based essays. Pre-sessional PG courses teach reporting tense explicitly for the literature-based extended project. In-sessional PGT work, usually in literature-review sessions, has learners analyse their field's literature reviews; undergraduate in-sessional work does so where assignments are source-heavy. PGR writers need conscious control of tense to position their work in relation to others' findings.",
       "citations": [
         "swales1990",
         "swalesfeak2012",
@@ -3096,7 +3300,7 @@
           "pattern": "The problem was happened… / The results were arisen from…",
           "kind": "overgeneralisation",
           "revealedBy": "Passives formed with unaccusative intransitive verbs (happen, occur, arise, emerge, appear), whose subject undergoes rather than performs the event; this overpassivisation is attested across many first-language backgrounds and is largely developmental.",
-          "response": "Contrast transitive and intransitive verbs with examples, and provide a short list of common academic intransitive verbs (occur, arise, emerge, happen), and contrast them with ergative verbs that work both ways (The temperature increased / The researchers increased the temperature; the rate changed / the dose was changed).",
+          "response": "Contrast transitive and intransitive verbs with examples, provide a short list of common academic intransitive verbs (occur, arise, emerge, happen), and contrast them with ergative verbs that work both ways (The temperature increased / The researchers increased the temperature; the rate changed / the dose was changed). The fuller treatment is in grm.unaccusative-verbs.",
           "reteachPrerequisiteId": "grm.clause-elements"
         },
         {
@@ -3113,7 +3317,7 @@
         "partialResponse": "Converts all sentences mechanically to passive with accurate forms but without considering flow or discipline norms.",
         "gapResponse": "Form errors in passive verb phrases or passives with intransitive verbs."
       },
-      "contextNotes": "Foundation learners need accurate forms and the main functions in process description. Pre-sessional and undergraduate in-sessional work addresses voice choice in reports and essays. PGT and PGR writers should examine target-journal norms, including first-person active, and the interaction of voice with authorial stance.",
+      "contextNotes": "Foundation and pre-sessional UG learners need accurate forms and the main functions in process description and reports, and the passive is assessed directly. Pre-sessional PG and undergraduate in-sessional work addresses voice choice in reports, methods and essays. PGT and PGR writers should examine target-journal norms, including first-person active, and the interaction of voice with authorial stance.",
       "citations": [
         "biber1999lgswe",
         "tarone1998passive",
@@ -3669,9 +3873,7 @@
         "hunstonthompson2000",
         "hewings2002"
       ],
-      "reviewNotes": [
-        "hewings2002 is a proposed reference; claims attributed to it are stated generally and should be checked against the article before publication."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "grm.existential-there",
@@ -3859,7 +4061,7 @@
           "kind": "conceptual",
           "revealedBy": "Plausible but non-standard choices (an increase of 10% in X used for 'an increase in X of 10%') and inconsistency across drafts.",
           "response": "Explain that many dependent prepositions are conventional rather than predictable, and shift the learner to pattern lists and corpus checks.",
-          "reteachPrerequisiteId": "grm.clause-elements"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -4066,8 +4268,7 @@
         "grangertyson1996"
       ],
       "reviewNotes": [
-        "grangertyson1996 is a proposed reference; the general claim about learner connector use is also supported by work in granger1998.",
-        "The positional claim (initial most frequent overall; medial comparatively frequent in academic prose) is summarised from the Longman grammar and should be checked against its figures before publication."
+        "The positional claim (initial position most frequent overall; medial position comparatively frequent in academic prose) is summarised from the Longman grammar (Biber et al., 1999) as a tendency, not as a frequency ranking for every connector."
       ]
     },
     {
@@ -4349,6 +4550,218 @@
       ]
     },
     {
+      "topicId": "grm.spoken-grammar",
+      "summary": "Corpus grammars show that conversation differs systematically from academic writing: it relies on clause chaining, situational ellipsis, prefaces and tags (often taught as heads and tails), discourse markers and vague expressions, and it elaborates meaning through clauses rather than compressed noun phrases (Biber et al., 1999; Halliday, 1989). University speech such as classroom teaching and study groups shares many of these features (Biber, 2006), and vague language does interpersonal work rather than simply signalling imprecision (Channell, 1994). Teach spoken grammar as a set of resources with their own norms, and set accuracy priorities for speech by asking what affects understanding rather than by applying written-grammar correction to talk.",
+      "activities": [
+        {
+          "title": "What does speech do differently?",
+          "learnerActions": [
+            "Read or listen to a short study-group or seminar exchange and mark heads, tails, ellipsis, discourse markers and vague expressions",
+            "For each feature, say what it does for the listener (introduces a topic, clarifies a referent, saves repetition, softens a claim)",
+            "Rewrite two turns as they would appear in a written summary and compare what changed"
+          ],
+          "intendedInsight": "Spoken grammar is organised for real-time listening and interaction, so features that would be edited out of writing do useful work in speech.",
+          "rationale": "Contrasting spoken and written versions of the same content makes the register differences described in corpus and functional grammars visible (Biber et al., 1999; Halliday, 1989).",
+          "citations": [
+            "biber1999lgswe",
+            "halliday1989"
+          ]
+        },
+        {
+          "title": "Accuracy priorities for speaking",
+          "learnerActions": [
+            "Record a one- to two-minute answer to a seminar question and transcribe it, or check an automatic transcript",
+            "Mark only features that could cause misunderstanding (a verb form that changes time or certainty, missing negation, an unclear it or this) and leave features that are normal in speech",
+            "Record the answer again with attention to one priority feature"
+          ],
+          "intendedInsight": "In speech some accuracy features carry meaning and others do not, so monitoring effort is better spent on the former.",
+          "rationale": "University spoken registers differ from writing in their grammatical profile (Biber, 2006), so correcting speech against written norms misdirects attention; the prioritisation step is a proposal intended to focus monitoring on meaning-bearing features, not a tested procedure.",
+          "citations": [
+            "biber2006"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "I should speak in full, correct sentences, like in my essays.",
+          "kind": "prior-schooling",
+          "revealedBy": "Slow, heavily planned contributions that sound like written text read aloud, late entry into discussion, or self-interruptions to repair features that are normal in speech.",
+          "response": "Show transcripts of proficient academic speakers, including users of English as an additional language, using ellipsis, heads and tails and discourse markers, and practise short elliptical responses. Do not present spoken features as a lower standard or as permission to ignore errors that affect meaning.",
+          "reteachPrerequisiteId": "reg.register-awareness"
+        },
+        {
+          "pattern": "If I say 'sort of' or 'and things like that', I sound as if I don't know the answer.",
+          "kind": "conceptual",
+          "revealedBy": "Either no vague expressions at all, giving blunt or over-precise statements, or heavy reliance on them in place of content when explaining a concept.",
+          "response": "Discuss what vague expressions do (approximating, appealing to shared knowledge, softening) and practise replacing them with specific content where the listener needs precision.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "My tutor corrects my grammar every time I speak in the seminar, so I have stopped talking.",
+          "kind": "institutional",
+          "revealedBy": "Reduced participation after public correction of features that did not impede understanding, or speaking assessments that apply written-grammar criteria to spoken performance.",
+          "response": "For teachers and assessors: separate feedback on errors that affect meaning from features that are normal in speech, give accuracy feedback privately or after the discussion, and check that speaking criteria credit effective spoken grammar. For learners: ask for feedback focused on the features that affect understanding.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a 90-second transcript of a study-group exchange and ask the learner which three features would change in a written summary and why; then ask them to answer a discussion question orally for one minute.",
+        "strongResponse": "Identifies heads, tails, ellipsis or vague markers as spoken resources with functions, explains how writing would differ, and answers with natural spoken grammar while keeping tense, negation and reference clear.",
+        "partialResponse": "Recognises the features but labels them as errors, or answers in written-style sentences that are accurate but slow and hard to follow in real time.",
+        "gapResponse": "Does not notice the features, or makes errors in tense, negation or reference that obscure the answer."
+      },
+      "contextNotes": "Foundation and pre-sessional (UG and PG) learners meet the topic in seminar and group-work preparation, with the emphasis on recognising spoken features in lectures and discussion and on accuracy priorities for assessed speaking. Undergraduate in-sessional work links it to seminars and group projects; PGT learners revisit it when supervision meetings or lab discussions become frequent. In EMI and transnational settings, models should include proficient speakers who use English as an additional language, not only speakers of one variety. Accept multiple modes of participation for learners who stammer, are autistic or have hearing impairments, and judge the grammar of what they contribute rather than its speed.",
+      "citations": [
+        "biber1999lgswe",
+        "biber2006",
+        "halliday1989",
+        "channell1994"
+      ],
+      "reviewNotes": [
+        "Review response (R1-21): added as a new topic. 'Heads and tails' is the usual pedagogical label; the Longman grammar (Biber et al., 1999) describes the same features as prefaces and noun-phrase tags. No source in the bibliography tests whether teaching spoken grammar improves seminar performance, so the activities are proposals. Suggested downstream links (for the SEM, PRS and PRG authors): sem.* discussion topics and prs.* delivery topics may take this topic as a soft prerequisite."
+      ]
+    },
+    {
+      "topicId": "grm.genitive-noun-modifiers",
+      "summary": "Academic English has three main ways of relating two nouns: the s-genitive, the of-phrase and noun premodification. The Longman grammar describes the choice as influenced by the animacy of the modifying noun, its length and the given–new organisation of the phrase, and shows that the options are distributed differently across registers (Biber et al., 1999); Biber and Gray (2016) document the long-term growth of noun premodifiers in academic writing. Teach the choice as a set of trade-offs rather than rules, address the school rule against inanimate 's directly, and present of-chains as a readability problem rather than a grammar error.",
+      "activities": [
+        {
+          "title": "Three ways to say it",
+          "learnerActions": [
+            "Collect ten examples of each form from articles in their field",
+            "Sort them by whether the modifying noun is a person, an organisation or place, or another inanimate noun, and note the length of each modifier",
+            "State two tendencies they observe and test them on three new phrases"
+          ],
+          "intendedInsight": "Genitive choice follows tendencies of animacy, length and information flow, and inanimate 's is common in real texts.",
+          "rationale": "Learner-collected examples let the class test the tendencies described in the Longman grammar (Biber et al., 1999) against texts from their own field.",
+          "citations": [
+            "biber1999lgswe"
+          ]
+        },
+        {
+          "title": "Untangling of-chains",
+          "learnerActions": [
+            "Find sentences in own drafts with two or more consecutive of-phrases",
+            "Rewrite each in two ways: with a genitive or premodifier, and with a clause",
+            "Ask a partner which version is easiest to read and keeps the meaning"
+          ],
+          "intendedInsight": "Of-chains can be repaired in several ways, and the best choice depends on what is given and what the reader needs to process.",
+          "rationale": "Phrasal compression is a central resource of academic prose but leaves relations between nouns implicit (Biber & Gray, 2016), so comparing compressed and expanded versions is intended to build judgement rather than a single rule.",
+          "citations": [
+            "bibergray2016"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "We were taught that 's is only for people, so I always write 'the aims of the study'.",
+          "kind": "prior-schooling",
+          "revealedBy": "Avoidance of inanimate s-genitives and long of-chains (the results of the analysis of the data of the survey).",
+          "response": "Show inanimate genitives in published articles from the learner's field and present the school rule as a simplification. Do not replace it with the opposite rule: of-phrases remain the better choice for long or new modifiers.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "In my first language I use one 'of'-type structure for everything, so I do the same in English.",
+          "kind": "L1-transfer",
+          "revealedBy": "Of-phrases where a compound or genitive is conventional (the department of the economics), or reversed noun + noun order, in writers whose first language relates nouns mainly through a postposed genitive or a single linking particle.",
+          "response": "Contrast the English options with the first-language construction, practise conversion in both directions, and accept of-phrases where they are clearer.",
+          "reteachPrerequisiteId": "grm.np-premodification"
+        },
+        {
+          "pattern": "The Smith's model … the study' aims …",
+          "kind": "developmental",
+          "revealedBy": "Articles combined with a proper-noun genitive, and apostrophes misplaced with singular and plural possessors.",
+          "response": "Show that a genitive takes the place of the determiner (Smith's model; the authors' model) and return to apostrophe forms for singular and plural possessors. Do not over-correct by removing genitives altogether.",
+          "reteachPrerequisiteId": "sen.punctuation-mechanics"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give the phrase 'the results of the analysis of the data of the survey' and two sentences with inanimate genitives, and ask the learner to rewrite the chain and judge the genitives.",
+        "strongResponse": "Produces at least two clear alternatives to the chain, explains the choice by length and given–new order, and accepts the inanimate genitives as correct.",
+        "partialResponse": "Repairs the chain but rejects inanimate genitives as wrong, or replaces the chain with an over-dense noun stack.",
+        "gapResponse": "Cannot produce alternatives, or produces inaccurate genitive forms."
+      },
+      "contextNotes": "Foundation and pre-sessional UG learners focus on forming genitives accurately and on recognising the three forms in reading. Pre-sessional PG and undergraduate in-sessional learners concentrate on of-chains and field conventions in source-based and report writing. PGT writers revisit the choice when editing dense methods and results sections. Preferences differ somewhat by field and journal, so check models from the learner's target context.",
+      "citations": [
+        "biber1999lgswe",
+        "bibergray2016",
+        "celcemurcia1999"
+      ],
+      "reviewNotes": [
+        "Review response (R2-11): implemented as a separate topic rather than inside grm.np-premodification, because the choice spans pre- and postmodification. The review's statement that inanimate s-genitives have risen historically in academic prose is not repeated here; the guidance relies on the factors described by Biber et al. (1999) and the growth of noun premodifiers documented by Biber and Gray (2016)."
+      ]
+    },
+    {
+      "topicId": "grm.unaccusative-verbs",
+      "summary": "Intransitive verbs such as occur, happen, arise and emerge have a subject that undergoes rather than performs the event, and second language research describes the passivisation of such verbs (*The problem was happened) as a pattern found across many first-language backgrounds rather than the effect of any single first language (Oshita, 2000). A related group, ergative or change-of-state verbs such as increase, decrease, change, improve and develop, can be used both transitively and intransitively (Biber et al., 1999), so the writer must decide whether to present a change as happening or as caused. Teach both groups together through process description, methods and data commentary, where the voice choice carries meaning.",
+      "activities": [
+        {
+          "title": "Happened or done?",
+          "learnerActions": [
+            "Sort verbs from a methods section and a results section into three groups: intransitive only (occur, emerge), transitive only (raise, conduct) and both (increase, change)",
+            "For each verb in the third group, say whether the writer presents the change as spontaneous or caused, and how the voice shows this",
+            "Write three sentences about a process in their field using one verb from each group"
+          ],
+          "intendedInsight": "Some verbs have no passive, and for change-of-state verbs voice signals whether an agent caused the change.",
+          "rationale": "Classifying verbs by transitivity in real texts applies the verb-pattern descriptions in the Longman grammar (Biber et al., 1999) to the learner's field.",
+          "citations": [
+            "biber1999lgswe"
+          ]
+        },
+        {
+          "title": "Trends with and without agents",
+          "learnerActions": [
+            "Describe a line graph twice: once as observed change (unemployment fell) and once as the effect of an intervention (interest rates were raised; costs were reduced)",
+            "Compare the two versions and identify which verbs changed voice and which stayed active",
+            "Edit own data commentary for forms such as *was occurred and *was increased where no agent is involved"
+          ],
+          "intendedInsight": "In data commentary the voice of a change verb shows whether a cause is being claimed.",
+          "rationale": "Teaching grammars treat the active–passive contrast with ergative verbs as a distinct teaching point (Celce-Murcia & Larsen-Freeman, 1999); the contrastive task is a proposal rather than a tested intervention.",
+          "citations": [
+            "celcemurcia1999"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "The problem was happened because… / New issues were emerged.",
+          "kind": "developmental",
+          "revealedBy": "Passive forms of occur, happen, arise, emerge and appear, often in writers who use the passive accurately elsewhere.",
+          "response": "Explain that these verbs describe events with no agent and take no object, so they have no passive; give a short list of academic intransitive verbs and an editing search for was/were + occurred, happened or emerged. Do not treat the error as a sign of weak passive knowledge or reteach the whole passive.",
+          "reteachPrerequisiteId": "voc.word-grammar-patterns"
+        },
+        {
+          "pattern": "Science writing should be passive, so I write 'the temperature was increased' for every change.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Passive change-of-state verbs where no agent is involved (the population was increased over the decade), which imply a cause the writer does not intend.",
+          "response": "Contrast agentless change (the population increased) with caused change (the dose was increased by 10 mg) and ask who, if anyone, made the change happen.",
+          "reteachPrerequisiteId": "grm.passive-voice"
+        },
+        {
+          "pattern": "Rise and raise mean the same thing.",
+          "kind": "conceptual",
+          "revealedBy": "Transitive verbs used intransitively or the reverse (prices raised sharply; the company rose its prices).",
+          "response": "Teach rise/raise and fall/lower or reduce as intransitive–transitive pairs with their past forms, and practise them in trend descriptions.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to describe a simple before-and-after table in three sentences, one of which must present a change caused by a named intervention.",
+        "strongResponse": "Uses active intransitive forms for agentless changes, passive or active transitive forms for caused changes, and no passivised intransitive verbs.",
+        "partialResponse": "Avoids *was occurred but uses passive change verbs where no agent is involved, or confuses rise and raise.",
+        "gapResponse": "Passivised intransitive verbs, or no consistent link between voice and agency."
+      },
+      "contextNotes": "Foundation learners meet these verbs in process description and simple trend description, where accurate forms are the priority. Pre-sessional UG and PG learners apply the agent distinction in data commentary and methods writing. Undergraduate in-sessional work addresses it through lab reports and data-heavy assignments, and PGT writers revisit it in self-editing. The topic matters most in fields that describe processes and trends, such as the sciences, engineering and economics.",
+      "citations": [
+        "oshita2000",
+        "biber1999lgswe",
+        "celcemurcia1999"
+      ],
+      "reviewNotes": [
+        "Review response (R2-12): added as a new topic; grm.passive-voice keeps a short mastery statement and cross-reference. Of the three SLA sources named in the review (Zobl, 1989; Yip, 1995; Oshita, 2000), only Oshita (2000) is listed under this file's proposedReferences, because one source is enough for the guidance claim. Suggested downstream links (for the FUN and DAT authors): fun.describing-process and dat.describing-trends may take this topic as a soft prerequisite."
+      ]
+    },
+    {
       "topicId": "sen.sentence-types",
       "summary": "Sentence-type labels are useful mainly as tools for punctuation and controlled clause combining. Teach them by counting finite clauses, and challenge the common classroom equation of 'complex' with 'better': corpus research shows that academic prose is distinguished by dense noun phrases rather than by many dependent clauses (Biber & Gray, 2010), so a long single-clause sentence can be both 'simple' and difficult. Celce-Murcia and Larsen-Freeman (1999) provide a pedagogical account of coordination and subordination that supports this clause-based approach.",
       "activities": [
@@ -4420,7 +4833,7 @@
             "Repair five more splices from own drafts, choosing the best option for each"
           ],
           "intendedInsight": "There is more than one correct repair, and the best one expresses the intended logical relation.",
-          "rationale": "Treating boundary errors as rule-governed and giving learners explicit repair options supports self-correction (Ferris, 1999).",
+          "rationale": "Ferris (1999) lists sentence fragments among the more 'treatable' error types; extending the same explicit-repair approach to comma splices and fused sentences is an analogy rather than a tested claim.",
           "citations": [
             "ferris1999"
           ]
@@ -4468,7 +4881,7 @@
         "partialResponse": "Most errors found, but repairs default to full stops or one error type is missed.",
         "gapResponse": "Few errors found, or correct sentences altered."
       },
-      "contextNotes": "Foundation and pre-sessional learners need explicit teaching and repeated editing practice. In undergraduate in-sessional work, the focus is on a quick editing pass for splices and fragments in assessed drafts.",
+      "contextNotes": "Foundation and pre-sessional UG learners need explicit teaching and repeated editing practice, and boundary errors are assessed directly in their writing. Pre-sessional PG learners usually need a short review and an editing routine rather than full teaching. In undergraduate in-sessional work, the focus is on a quick editing pass for splices and fragments in assessed drafts.",
       "citations": [
         "ferris1999",
         "changswales1999",
@@ -4538,7 +4951,7 @@
         "partialResponse": "Most commas correct but one subject–verb comma or a missed non-defining clause.",
         "gapResponse": "Commas placed by pause or at random."
       },
-      "contextNotes": "Foundation learners focus on introductory elements, lists and relative clauses. Pre-sessional and in-sessional learners focus on non-defining clauses, appositives and consistency with a department's style guide.",
+      "contextNotes": "Foundation learners focus on introductory elements, lists and relative clauses, and commas are assessed directly. Pre-sessional learners focus on non-defining clauses, appositives and consistency with a department's style guide. In-sessional UG and PGT learners revisit commas through self-access and proofreading checklists.",
       "citations": [
         "apa2020",
         "chicago2024",
@@ -4608,70 +5021,98 @@
     },
     {
       "topicId": "sen.punctuation-mechanics",
-      "summary": "These marks are small but meaning-bearing: hyphens disambiguate compound modifiers, apostrophes signal possession, and en dashes signal ranges and relationships. Teach the before-the-noun rule for compound modifiers alongside noun premodification, and present dash conventions as style variation (for example, spaced en dashes are common in British publishing, unspaced em dashes in US styles such as APA and Chicago).",
+      "summary": "These conventions are small, but markers and editors notice them first, and some carry meaning. Hyphens disambiguate compound modifiers, apostrophes signal possession, and ellipsis and square brackets let writers fit a quotation into their own sentence provided the source's meaning is preserved, which is part of faithful source use as well as formatting (Pecorari, 2013). Other conventions vary by style: APA and Chicago use double quotation marks and place commas and full stops inside closing marks, many British house styles use single marks and place punctuation by sense, and APA uses sentence case for article titles in the reference list where MLA uses title case (American Psychological Association, 2020; Modern Language Association of America, 2021; University of Chicago Press, 2024). Teach the meaning-bearing conventions as principles, teach the style required in the learner's context thoroughly, and build a final mechanics pass into editing.",
       "activities": [
         {
-          "title": "Hyphen or not?",
+          "title": "Integrate without distorting",
           "learnerActions": [
-            "Sort phrases into compound modifiers before a noun, the same words after a noun, and -ly adverb + adjective combinations",
-            "Hyphenate only the first group",
-            "Find three compound modifiers in own writing and check them"
+            "Quote part of a 60-word source passage in their own sentence",
+            "Use an ellipsis to omit a phrase and square brackets to change one word to fit their grammar, with a citation in the required style",
+            "Ask a partner to compare the quotation with the original and confirm that the meaning has not changed"
           ],
-          "intendedInsight": "Hyphenation depends on position: compounds are hyphenated before the noun they modify.",
-          "rationale": "Linking hyphenation to noun-phrase structure makes the rule principled; style manuals describe the same rule (American Psychological Association, 2020).",
+          "intendedInsight": "Ellipsis and brackets are tools for integration that must preserve the source's meaning.",
+          "rationale": "Accurate representation of sources is central to good source use (Pecorari, 2013), and style guides specify how changes to a quotation are marked (American Psychological Association, 2020).",
           "citations": [
+            "pecorari2013",
             "apa2020"
           ]
         },
         {
-          "title": "Apostrophe audit",
+          "title": "Hyphen, apostrophe or capital?",
           "learnerActions": [
-            "Check every apostrophe in own draft and classify it as possession, contraction or error",
-            "Correct plural-acronym and decade apostrophes (PhD's, 1990's)",
-            "Check plural possessives (participants' responses)"
+            "Sort phrases into compound modifiers before a noun, the same words after a noun, and -ly adverb + adjective combinations, and hyphenate only the first group",
+            "Sort terms from their field into proper nouns, named theories and general concepts, checking uncertain cases in a recent journal in their field",
+            "Audit every apostrophe and capital on one page of own writing and correct plural-acronym and decade apostrophes (PhD's, 1990's)"
           ],
-          "intendedInsight": "Apostrophes mark possession and contraction, not plurals.",
-          "rationale": "A targeted audit suits a small, rule-governed set of conventions; style manuals document the possessive and plural forms the audit checks against (University of Chicago Press, 2024).",
+          "intendedInsight": "Hyphens depend on position before the noun, apostrophes mark possession rather than plurals, and capitals mark names rather than importance.",
+          "rationale": "Linking each convention to a structural principle is intended to make it more transferable than a memorised list; style manuals describe the same principles (American Psychological Association, 2020; University of Chicago Press, 2024).",
           "citations": [
+            "apa2020",
+            "chicago2024"
+          ]
+        },
+        {
+          "title": "Same text, two styles",
+          "learnerActions": [
+            "Format the same quotation and the same two references in the style required by their course and in one other style",
+            "List the differences in quotation marks, punctuation placement and capitalisation of titles",
+            "Check a draft and its reference list against the required style"
+          ],
+          "intendedInsight": "Quotation-mark and capitalisation conventions are style choices; consistency with the required style is what is assessed.",
+          "rationale": "Comparing style manuals makes the variation explicit (Modern Language Association of America, 2021; University of Chicago Press, 2024).",
+          "citations": [
+            "mla2021",
             "chicago2024"
           ]
         }
       ],
       "difficulties": [
         {
-          "pattern": "The participant's responses (meaning several participants).",
-          "kind": "developmental",
-          "revealedBy": "Singular possessive used for plural owners.",
-          "response": "Teach the 'owner first' check: write the owner noun, then add 's or '.",
+          "pattern": "I removed some words so the quotation supports my point better.",
+          "kind": "conceptual",
+          "revealedBy": "Ellipses that remove qualifications or negations from the source.",
+          "response": "Discuss fidelity to meaning as an integrity issue and have learners check each quotation against the original.",
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "A well-known model / the model is well-known — both hyphenated.",
-          "kind": "overgeneralisation",
-          "revealedBy": "Hyphens after the noun or after -ly adverbs.",
-          "response": "Return to position before the head noun and show style-guide examples.",
+          "pattern": "The participant's responses (meaning several participants) … the PhD's … a well known model.",
+          "kind": "developmental",
+          "revealedBy": "Singular possessives for plural owners, apostrophes in plurals, and missing or misplaced hyphens in compound modifiers.",
+          "response": "Teach the owner-first check (write the owner noun, then add 's or ') and the before-the-noun test for hyphens. If the learner cannot find the head noun, return to noun-phrase premodification.",
           "reteachPrerequisiteId": "grm.np-premodification"
         },
         {
-          "pattern": "I use a hyphen for every kind of dash.",
-          "kind": "developmental",
-          "revealedBy": "Hyphens for ranges and parenthetical dashes, often because the keyboard makes dashes less accessible.",
-          "response": "Show how to insert en and em dashes in their word processor and give a short consistency rule for their target style.",
+          "pattern": "Important ideas should have capitals, like Globalisation and Sustainability.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Capitals on general concepts used for emphasis, and inconsistent capitalisation of the same key term.",
+          "response": "Explain that capitals signal names, not importance, and show examples from journals in the learner's field.",
           "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "The full stop always goes inside the quotation marks. / My reference manager decides the capitals.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Citation and full-stop placement that follows one style's rule in another style, and reference lists in mixed title and sentence case imported from different databases.",
+          "response": "Teach the target style's placement for run-in and block quotations with models, and add a final consistency check of quotations and reference-list capitalisation.",
+          "reteachPrerequisiteId": "cit.author-date-in-text"
         }
       ],
       "diagnostic": {
-        "task": "Give ten phrases with apostrophe, hyphen and dash decisions and ask the learner to correct them and explain two.",
-        "strongResponse": "All corrected, with the position rule for hyphens and owner-first rule for apostrophes explained.",
-        "partialResponse": "Apostrophes correct but hyphen or dash errors remain, or vice versa.",
-        "gapResponse": "Several errors in each category."
+        "task": "Ask the learner to quote part of a short passage in their own sentence, omitting a phrase and changing one word, with a citation in the specified style, and to correct a five-line extract containing apostrophe, hyphen, dash and capitalisation errors.",
+        "strongResponse": "A faithful quotation with correct ellipsis, brackets and citation placement, and all mechanics corrected consistently with the named style, with the principles (owner first, before the noun, names not importance) explained.",
+        "partialResponse": "A faithful quotation with one formatting error, or mechanics corrected in some categories but not applied consistently.",
+        "gapResponse": "Unmarked changes to the quotation, or several errors in each category."
       },
-      "contextNotes": "Foundation learners focus on apostrophes and simple compound modifiers. Pre-sessional and in-sessional learners apply hyphenation and dash conventions consistently in reports and dissertations.",
+      "contextNotes": "Foundation and pre-sessional UG learners are taught apostrophes, compound modifiers, capitals and basic quotation punctuation explicitly, because these are checked in their assessed writing. Pre-sessional PG learners extend this to ellipsis, brackets and block quotations in literature-based projects, largely through checklists and feedback. In-sessional UG and PGT learners revisit the conventions through self-access guides and proofreading checklists matched to their department's referencing style rather than taught sessions. Conventions differ between US styles, British house styles and journals elsewhere, so the target is the style required in the learner's context. Learners with dyslexia or visual impairments may find a separate mechanics pass with text-to-speech or a style checker helpful, and markers should avoid treating mechanics as evidence of understanding.",
       "citations": [
         "apa2020",
-        "chicago2024"
+        "chicago2024",
+        "mla2021",
+        "pecorari2013"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R1-19): sen.capitalisation and sen.quotation-punctuation are merged into this topic; their mastery evidence, assessment and difficulties are carried over in condensed form. Number and unit style moved to num.number-expressions.",
+        "Review response (R1-07): the topic is not core beyond pre-sessional UG. For in-sessional UG and PGT it is marked 'revisit' (self-access and proofreading guidance) rather than removed, because dissertations still require quotation and reference-list conventions."
+      ]
     },
     {
       "topicId": "sen.sentence-length-variety",
@@ -4773,7 +5214,7 @@
           "pattern": "More words show more knowledge, and I need to reach the word count.",
           "kind": "prior-schooling",
           "revealedBy": "Padding to reach minimum word counts, often from assessment contexts that rewarded length.",
-          "response": "Explain that many university assignments, including most in the UK, set maximum limits and reward density of argument; check the local rule and practise cutting.",
+          "response": "Explain that many university assignments set maximum rather than minimum limits and reward density of argument, although practice varies between institutions and countries; check the local rule in the learner's target context and practise cutting.",
           "reteachPrerequisiteId": null
         },
         {
@@ -4797,14 +5238,15 @@
         "partialResponse": "Padding reduced but the hedge removed, or cuts made with one meaning change.",
         "gapResponse": "Little reduction or substantial loss of meaning."
       },
-      "contextNotes": "Pre-sessional learners focus on padding and word limits. Undergraduate and PGT in-sessional learners apply concision in dissertations and reports. PGR writers focus on article word limits and abstract writing.",
+      "contextNotes": "Pre-sessional UG learners meet concision mainly as removing padding. Pre-sessional PG learners are taught it explicitly for word-limited extended projects. PGT in-sessional learners apply it in dissertations and reports, where word limits are a constant pressure, and undergraduate in-sessional learners in assessed reports. PGR writers focus on article word limits and abstract writing.",
       "citations": [
         "snowuccelli2009",
         "hyland2005metadiscourse",
         "bibergray2016"
       ],
       "reviewNotes": [
-        "Snow and Uccelli (2009) are cited for concision as a valued feature of academic language; verify their exact formulation."
+        "Snow and Uccelli (2009) are cited for concision as one of the features that characterise academic language, not for any claim about how concision should be taught.",
+        "Review response (R6-11): the IELTS Lexical Resource link was removed, because concision is taught here for word-limited academic writing rather than for test preparation."
       ]
     },
     {
@@ -4860,7 +5302,7 @@
         "partialResponse": "Two revised effectively, or revisions effective but explained only as preference.",
         "gapResponse": "Little change or meaning altered."
       },
-      "contextNotes": "Undergraduate in-sessional learners focus on long subjects in assessed writing. PGT and PGR writers apply end-weight in dense methods, results and theoretical writing, often in response to supervisor feedback on readability.",
+      "contextNotes": "Pre-sessional PG learners at higher entry levels meet end-weight when revising dense literature-based writing. Undergraduate in-sessional learners focus on long subjects in assessed writing. PGT writers apply end-weight in dense methods, results and theoretical writing; for PGR writers it is a core part of revising theses and articles for readability, often in response to supervisor or reviewer feedback.",
       "citations": [
         "biber1999lgswe",
         "hallidaymatthiessen2014",
@@ -4920,28 +5362,41 @@
         "partialResponse": "Corrected list but a paragraph that strings items together without links.",
         "gapResponse": "List errors persist and no conversion."
       },
-      "contextNotes": "Foundation and pre-sessional learners focus on list formatting and genre awareness. Undergraduate and PGT in-sessional learners apply list conventions in reports and proposals.",
+      "contextNotes": "Foundation and pre-sessional learners focus on list formatting and genre awareness. Undergraduate in-sessional learners apply list conventions in reports and proposals. PGT learners revisit them through self-access and proofreading checklists rather than taught sessions.",
       "citations": [
         "apa2020",
         "chicago2024"
       ],
       "reviewNotes": [
-        "The claim that essays usually discourage bullet lists reflects practitioner consensus and departmental guidance rather than a cited study; local briefs should be checked."
+        "The claim that essays usually discourage bullet lists reflects practitioner consensus and departmental guidance rather than a cited study; local briefs should be checked.",
+        "Review response (R1-07): rather than removing the PGT stage, the topic is marked 'revisit' there, meaning self-access and proofreading guidance, so it does not enter the core PGT pathway."
       ]
+    }
+  ],
+  "proposedReferences": [
+    {
+      "key": "ionin2004",
+      "apa": "Ionin, T., Ko, H., & Wexler, K. (2004). Article semantics in L2 acquisition: The role of specificity. *Language Acquisition, 12*(1), 3–69.",
+      "note": "Recommended by review finding R2-09 for the specificity-based article pattern in writers whose first languages lack articles. High confidence in authors, title, journal, volume and pages; DOI not given because it was not checked."
+    },
+    {
+      "key": "oshita2000",
+      "apa": "Oshita, H. (2000). What is happened may not be what appears to be happening: A corpus study of 'passive' unaccusatives in L2 English. *Second Language Research, 16*(4), 293–324.",
+      "note": "Named in review finding R2-12 as evidence that overpassivisation of unaccusative verbs is found across first-language backgrounds. High confidence in author, title, journal and year; moderate confidence in issue and page range; DOI not given because it was not checked."
     }
   ],
   "authorNotes": [
     "Overlap: grm.error-monitoring and edt.grammar-editing both cover targeted checking of recurrent errors. Suggest scoping grm.error-monitoring as the strategic, longitudinal routine (logging and prioritising personal error patterns) and edt.grammar-editing as the in-draft editing procedure, with edt.grammar-editing taking grm.error-monitoring as a prerequisite.",
     "Overlap: grm.passive-voice and grm.non-finite-clauses both list dangling modifiers in their skeleton scope. I treat dangling participles mainly in grm.non-finite-clauses and mention them in grm.passive-voice only where a passive main clause creates the dangle; consider removing them from the passive scope note.",
     "Overlap: grm.relative-clauses and sen.commas both cover punctuation of non-defining clauses; grm.linking-adverbial-placement overlaps sen.semicolons-colons and coh.linking-adverbials. Consider moving grm.linking-adverbial-placement to SEN, where punctuation topics sit.",
-    "Overlap: grm.reporting-structures with src.signal-phrases (according to, as X argues) and src.reporting-verbs. I scoped grm.reporting-structures to complementation patterns and did not link to SRC topics to avoid cycles; suggest src.signal-phrases and src.reporting-verbs take grm.reporting-structures as a prerequisite.",
+    "Overlap: grm.reporting-structures with src.reporting-verbs (which absorbed src.signal-phrases after review R1-37). I scoped grm.reporting-structures to complementation patterns and did not link to SRC topics to avoid cycles; R1-37 suggests src.reporting-verbs take grm.reporting-structures as a hard prerequisite.",
     "Cross-strand cycle risk: grm.tense-in-reporting takes src.citation-forms as a soft prerequisite. If the SRC author makes src.citation-forms depend on grm.tense-in-reporting, drop my edge.",
     "Overlap: grm.reference-pronouns ('this + summarising noun') with coh.signalling-nouns and voc.abstract-shell-nouns. Suggest coh.signalling-nouns take grm.reference-pronouns as a prerequisite.",
     "Overlap: grm.phrasal-complexity with reg.spoken-vs-written and reg.information-density. I used reg.register-awareness as the prerequisite to avoid a likely cycle; editors should decide one direction between grm.phrasal-complexity and reg.spoken-vs-written.",
-    "Overlap: sen.numbers-units-style with num.number-expressions and num.units-measurement. Suggest SEN keeps style-guide rendering (numerals versus words, spacing, ranges, separators) and NUM keeps the language of quantity and measurement.",
-    "Overlap: sen.concision and sen.clarity-end-weight with edt.style-editing and reg.information-density; suggest edt.style-editing take both as prerequisites. sen.capitalisation and sen.lists-bullets touch wpr.formatting, ess.headings and cit.reference-list.",
+    "Overlap: sen.concision and sen.clarity-end-weight with edt.style-editing and reg.information-density; suggest edt.style-editing take both as prerequisites. sen.punctuation-mechanics (which absorbed capitalisation and quotation punctuation) and sen.lists-bullets touch wpr.formatting, ess.headings and cit.reference-list.",
     "Possible merge: grm.fronting-inversion and grm.clefts-emphasis could be one 'focus and marked word order' topic; fronting and inversion are infrequent in academic prose and are mainly a reading and PGR refinement point.",
     "Gaps: no topic covers scope of negation and quantifiers (All X are not…; not … any; only placement), verb complementation with -ing versus to-infinitive (aim to, avoid doing, contribute to doing), or noun-phrase apposition as a definitional resource beyond the brief mention in grm.np-postmodification. Mandative subjunctive is placed under fun.recommending, which seems right.",
-    "Entry point: grm.clause-elements is the only intended entry point in GRM/SEN."
+    "Entry points: grm.clause-elements and grm.tense-aspect are the intended entry points in GRM/SEN; the soft edge grm.tense-aspect <- grm.clause-elements was removed after review R1-25 because tense is taught from the start of any programme and the edge made clause analysis a spurious gate.",
+    "Revision (post-review): new topics grm.spoken-grammar, grm.genitive-noun-modifiers and grm.unaccusative-verbs. Suggested incoming edges for other groups: sem.* and prs.* delivery topics <- grm.spoken-grammar (soft); fun.describing-process and dat.describing-trends <- grm.unaccusative-verbs (soft). reg.spoken-vs-written and grm.spoken-grammar are deliberately unlinked to avoid a cross-file cycle; editors should choose one direction."
   ]
 }

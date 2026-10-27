@@ -29,7 +29,7 @@
       "strand": "Digital Literacy & AI",
       "name": "Generative AI Literacy",
       "summary": "Generative AI literacy is treated here as part of academic literacy: understanding how large language models generate text and why they fail; reading and applying AI policies that vary by institution, module and task; acknowledging and verifying AI use; and using AI as a tutor and practice partner in ways that build rather than replace learners' own language, reasoning and voice. The domain also covers the limits of AI-text detection, including documented bias against writers using English as an additional language and why detector output cannot establish misconduct, the contested question of where AI assistance ends and authorship begins, and privacy and intellectual-property risks. Tools and policies change quickly, so topics are framed around durable principles and verification habits rather than particular products.",
-      "learnerSummary": "You will learn how AI tools work and fail, and what AI use each task allows. You will practise declaring and checking AI use, learning with AI, and responding if a detector wrongly flags your work.",
+      "learnerSummary": "You will learn how AI tools work and fail, and what each task allows. You will practise declaring and checking AI use, learning with AI, and responding if a detector wrongly flags your work.",
       "stageEmphasis": {
         "foundation": "How generative AI works and fails, finding the AI rules for each task, and using AI for explanation and practice rather than to produce assessed text.",
         "pre-sessional-ug": "Finding and applying the AI rules for each pre-sessional task, declaring use honestly, and using AI to learn rather than to write assessed text.",
@@ -3261,7 +3261,7 @@
     },
     {
       "topicId": "gai.detection-limits",
-      "summary": "Liang et al. (2023) found that several widely used GPT detectors misclassified more than half of a set of TOEFL essays written by non-native English writers as AI-generated, while classifying essays by US eighth-grade students largely correctly, and linked this to the detectors' reliance on measures of textual predictability. Weber-Wulff et al. (2023) found that the detection tools they tested were neither accurate nor reliable. Perkins (2023) cautions against relying on detection. Teaching should make clear that detector output cannot establish misconduct, that the burden of proof lies with the institution, and that keeping ordinary process records is a sensible habit rather than an obligation to prove innocence.",
+      "summary": "Liang et al. (2023) found that several widely used GPT detectors misclassified more than half of a set of TOEFL essays by writers the study describes as non-native English writers as AI-generated, while classifying essays by US eighth-grade students largely correctly, and linked this to the detectors' reliance on measures of textual predictability. Weber-Wulff et al. (2023) found that the detection tools they tested were neither accurate nor reliable. Perkins (2023) cautions against relying on detection. Teaching should make clear that detector output cannot establish misconduct, that the burden of proof lies with the institution, and that keeping ordinary process records is a sensible habit rather than an obligation to prove innocence.",
       "activities": [
         {
           "title": "What the detector sees",

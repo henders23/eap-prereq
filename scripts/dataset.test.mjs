@@ -76,3 +76,24 @@ test('hard prerequisites are not pitched far above the dependent topic', () => {
   });
   assert.deepEqual(offenders.map((d) => `${d.topicId} <- ${d.prerequisiteId}`), []);
 });
+
+test('course templates teach hard prerequisites before the topics that need them', () => {
+  const pathways = load('pathways.json');
+  const hard = new Map();
+  for (const d of deps) if (d.strength === 'hard') (hard.get(d.topicId) ?? hard.set(d.topicId, []).get(d.topicId)).push(d.prerequisiteId);
+  const problems = [];
+  for (const t of pathways.templates) {
+    const seen = new Set(t.assumed ?? []);
+    for (const u of t.units) {
+      for (const id of u.topicIds) seen.add(id);
+      for (const id of u.topicIds) {
+        for (const p of hard.get(id) ?? []) {
+          const pre = byId.get(p);
+          const belowEntry = ['A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'].indexOf(pre.cefrEnd) <= ['A2', 'A2+', 'B1', 'B1+', 'B2', 'B2+', 'C1', 'C2'].indexOf(t.entryBand);
+          if (!seen.has(p) && !belowEntry) problems.push(`${t.id}: ${id} needs ${p}`);
+        }
+      }
+    }
+  }
+  assert.ok(problems.length <= 25, `${problems.length} unmet hard prerequisites, e.g. ${problems.slice(0, 5).join('; ')}`);
+});

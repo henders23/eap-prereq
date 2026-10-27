@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eap-skill-taxonomy/schema/pathways.schema.json",
+  "title": "EAP Skill Taxonomy — task anchors and course templates",
+  "type": "object",
+  "required": ["version", "note", "anchorCount", "templateCount", "taskAnchors", "templates"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "string" },
+    "note": { "type": "string" },
+    "anchorCount": { "type": "integer" },
+    "templateCount": { "type": "integer" },
+    "taskAnchors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "description", "stages", "topicIds"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "stages": { "type": "array", "items": { "enum": ["foundation", "pre-sessional-ug", "pre-sessional-pg", "in-sessional-ug", "in-sessional-pgt", "pgr"] } },
+          "topicIds": { "type": "array", "minItems": 1, "items": { "type": "string" }, "description": "Topics this assessed task draws on and evidences." }
+        }
+      }
+    },
+    "templates": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "stage", "entryBand", "destination", "duration", "rationale", "units"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "name": { "type": "string" },
+          "stage": { "enum": ["foundation", "pre-sessional-ug", "pre-sessional-pg", "in-sessional-ug", "in-sessional-pgt", "pgr"] },
+          "entryBand": { "enum": ["A2", "A2+", "B1", "B1+", "B2", "B2+", "C1", "C2"] },
+          "destination": { "type": "string" },
+          "duration": { "type": "string" },
+          "rationale": { "type": "string" },
+          "assumed": { "type": "array", "items": { "type": "string" }, "description": "Topics assumed on entry rather than taught." },
+          "units": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["title", "weeks", "topicIds"],
+              "additionalProperties": false,
+              "properties": {
+                "title": { "type": "string" },
+                "weeks": { "type": "string" },
+                "anchor": { "type": "string" },
+                "focus": { "type": "string" },
+                "topicIds": { "type": "array", "minItems": 1, "items": { "type": "string" } }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

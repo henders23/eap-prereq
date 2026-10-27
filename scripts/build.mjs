@@ -248,7 +248,35 @@ write('retired-topics.json', {
   retired,
 });
 
-const files = ['topics.json', 'dependencies.json', 'domains.json', 'teaching-guidance.json', 'references.json', 'frameworks.json', 'retired-topics.json'];
+// pathways: task anchors and course templates (authored in src/meta/pathways.json)
+const pathwaysPath = resolve(SRC, 'meta', 'pathways.json');
+const pathways = existsSync(pathwaysPath) ? JSON.parse(readFileSync(pathwaysPath, 'utf8')) : { taskAnchors: [], templates: [] };
+{
+  const anchorIds = new Set(pathways.taskAnchors.map((a) => a.id));
+  const bad = [];
+  for (const a of pathways.taskAnchors) for (const id of a.topicIds) if (!ids.has(id)) bad.push(`anchor ${a.id}: unknown topic ${id}`);
+  for (const t of pathways.templates) {
+    if (!STAGES.includes(t.stage)) bad.push(`template ${t.id}: unknown stage ${t.stage}`);
+    for (const u of t.units) {
+      if (u.anchor && !anchorIds.has(u.anchor)) bad.push(`template ${t.id}: unknown anchor ${u.anchor}`);
+      for (const id of u.topicIds) if (!ids.has(id)) bad.push(`template ${t.id}: unknown topic ${id}`);
+    }
+  }
+  if (bad.length) {
+    console.error(`✗ pathways: ${bad.length} problem(s)`);
+    for (const b of bad) console.error(`  - ${b}`);
+    process.exit(1);
+  }
+}
+write('pathways.json', {
+  version: VERSION,
+  note: 'Task anchors and worked course templates. Templates are starting points for syllabus design, to be adapted after local needs analysis; they are not validated course designs.',
+  anchorCount: pathways.taskAnchors.length,
+  templateCount: pathways.templates.length,
+  ...pathways,
+});
+
+const files = ['topics.json', 'dependencies.json', 'domains.json', 'teaching-guidance.json', 'references.json', 'frameworks.json', 'retired-topics.json', 'pathways.json'];
 const sha = (name) => createHash('sha256').update(readFileSync(resolve(DATA, name))).digest('hex');
 const countBy = (arr, f) => arr.reduce((acc, x) => ((acc[f(x)] = (acc[f(x)] ?? 0) + 1), acc), {});
 const stageCounts = Object.fromEntries(

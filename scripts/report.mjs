@@ -28,7 +28,8 @@ for (const d of deps) prereqs.get(d.topicId).push(d);
 
 const STAGE_LABEL = {
   foundation: 'Foundation / pathway',
-  'pre-sessional': 'Pre-sessional',
+  'pre-sessional-ug': 'Pre-sessional (undergraduate entry)',
+  'pre-sessional-pg': 'Pre-sessional (postgraduate entry)',
   'in-sessional-ug': 'In-sessional (undergraduate)',
   'in-sessional-pgt': 'In-sessional (taught postgraduate)',
   pgr: 'Postgraduate research',
@@ -36,14 +37,14 @@ const STAGE_LABEL = {
 const table = (head, rows) => [`| ${head.join(' | ')} |`, `|${head.map((h, i) => (i === 0 ? '---' : '---:')).join('|')}|`, ...rows.map((r) => `| ${r.join(' | ')} |`)].join('\n');
 const anchor = (id) => id.replace(/\./g, '');
 
-/** Topological order (prerequisites first), ties broken by skeleton order. */
+/** Topological order over hard edges (prerequisites first), ties broken by skeleton order. */
 function topoOrder(ids) {
   const set = new Set(ids);
   const order = new Map(topics.map((t, i) => [t.id, i]));
   const indeg = new Map(ids.map((id) => [id, 0]));
   const out = new Map(ids.map((id) => [id, []]));
   for (const d of deps) {
-    if (set.has(d.topicId) && set.has(d.prerequisiteId)) {
+    if (d.strength === 'hard' && set.has(d.topicId) && set.has(d.prerequisiteId)) {
       indeg.set(d.topicId, indeg.get(d.topicId) + 1);
       out.get(d.prerequisiteId).push(d.topicId);
     }
@@ -104,8 +105,11 @@ function topoOrder(ids) {
   lines.push('## Topics by type', '');
   lines.push(table(['Type', 'Topics'], Object.entries(c.topicsByType).sort((a, b) => b[1] - a[1])), '');
 
-  lines.push('## Topics by stage', '', 'A topic counts towards every stage at which it is taught or revisited.', '');
-  lines.push(table(['Stage', 'Topics'], STAGES.map((s) => [STAGE_LABEL[s], c.topicsByStage[s]])), '');
+  lines.push('## Topics by stage and role', '', '*Core*: explicitly taught and normally assessed. *Develop*: taught where relevant. *Revisit*: assumed, reviewed or self-access.', '');
+  lines.push(table(['Stage', 'Core', 'Develop', 'Revisit'], STAGES.map((s) => [STAGE_LABEL[s], c.topicsByStage[s].core, c.topicsByStage[s].develop, c.topicsByStage[s].revisit])), '');
+  lines.push('## Topics by audience and discipline', '');
+  lines.push(table(['Audience', 'Topics'], Object.entries(c.topicsByAudience)), '');
+  lines.push(table(['Discipline facet', 'Topics'], Object.entries(c.topicsByDiscipline).sort((a, b) => b[1] - a[1])), '');
 
   lines.push('## Entry level (cefrStart)', '');
   lines.push(table(['CEFR', 'Topics starting here'], CEFR.map((l) => [l, topics.filter((t) => t.cefrStart === l).length])), '');
@@ -114,17 +118,18 @@ function topoOrder(ids) {
   const entries = topics.filter((t) => t.prerequisiteCount === 0);
   const maxDepth = Math.max(...topics.map((t) => t.depth));
   lines.push(`- Entry points (no prerequisites): **${entries.length}**`);
-  lines.push(`- Longest prerequisite chain: **${maxDepth + 1} topics**`);
+  lines.push(`- Longest hard-prerequisite chain: **${maxDepth + 1} topics**`);
+  lines.push(`- Retired topic IDs (merged or renamed): **${c.retiredTopics}**`);
   lines.push(`- Mean prerequisites per topic: **${(deps.length / topics.length).toFixed(2)}**`, '');
-  lines.push('### Most central topics', '', 'PageRank over prerequisite edges: foundational topics that much of the taxonomy builds on.', '');
+  lines.push('### Most central topics', '', 'PageRank over hard prerequisite edges: foundational topics that much of the taxonomy depends on.', '');
   lines.push(
     table(
-      ['Topic', 'Strand', 'Centrality', 'Topics building on it'],
+      ['Topic', 'Strand', 'Centrality', 'Topics depending on it (hard)'],
       [...topics].sort((a, b) => b.centrality - a.centrality).slice(0, 25).map((t) => [`${t.name} (\`${t.id}\`)`, t.strand, t.centrality.toFixed(3), t.downstreamCount]),
     ).replace('|---:|---:|---:|', '|---|---:|---:|'),
     '',
   );
-  lines.push('### Deepest topics', '', 'Topics at the end of the longest prerequisite chains, typically integrated genres and research communication.', '');
+  lines.push('### Deepest topics', '', 'Topics at the end of the longest hard-prerequisite chains, typically integrated genres and research communication.', '');
   lines.push(table(['Topic', 'Depth'], [...topics].sort((a, b) => b.depth - a.depth).slice(0, 15).map((t) => [`${t.name} (\`${t.id}\`)`, t.depth])), '');
   lines.push('### Entry points', '');
   lines.push(entries.map((t) => `\`${t.id}\``).join(', '), '');
@@ -151,21 +156,31 @@ function topoOrder(ids) {
 
 // --- stage-pathways.md -----------------------------------------------------------
 {
-  const lines = ['# Stage pathways', '', 'For each stage, the topics taught there, grouped by strand and listed in prerequisite order: earlier items are prerequisites of, or independent of, later ones. Use these as a starting point for syllabus design, not a fixed sequence. Prerequisites from other stages are shown as *assumed*.', ''];
+  const lines = [
+    '# Stage pathways',
+    '',
+    'For each stage: the **core** topics in hard-prerequisite order, grouped by strand, then the topics to **develop** where relevant and those to **revisit**. Soft prerequisites are not used for ordering; treat them as "teach nearby". Hard prerequisites that are not core at the stage are shown as *assumed*. Use this as a starting point for syllabus design; course templates are in `data/pathways.json`.',
+    '',
+  ];
   for (const s of STAGES) {
-    const ids = topics.filter((t) => t.stages.includes(s)).map((t) => t.id);
-    const set = new Set(ids);
-    lines.push(`## ${STAGE_LABEL[s]}`, '', `${ids.length} topics.`, '');
+    const core = topics.filter((t) => t.stageRoles[s] === 'core').map((t) => t.id);
+    const coreSet = new Set(core);
+    lines.push(`## ${STAGE_LABEL[s]}`, '', `${core.length} core · ${topics.filter((t) => t.stageRoles[s] === 'develop').length} develop · ${topics.filter((t) => t.stageRoles[s] === 'revisit').length} revisit.`, '', '### Core', '');
     for (const strand of domainsFile.strands) {
-      const inStrand = topoOrder(ids.filter((id) => byId.get(id).strand === strand.name));
+      const inStrand = topoOrder(core.filter((id) => byId.get(id).strand === strand.name));
       if (!inStrand.length) continue;
-      lines.push(`### ${strand.name}`, '');
+      lines.push(`#### ${strand.name}`, '');
       for (const id of inStrand) {
         const t = byId.get(id);
-        const assumed = prereqs.get(id).filter((d) => !set.has(d.prerequisiteId) && d.strength === 'hard').map((d) => `\`${d.prerequisiteId}\``);
-        lines.push(`- **${t.name}** (\`${id}\`, ${t.cefrStart}–${t.cefrEnd})${assumed.length ? ` — *assumed:* ${assumed.join(', ')}` : ''}`);
+        const assumed = prereqs.get(id).filter((d) => !coreSet.has(d.prerequisiteId) && d.strength === 'hard').map((d) => `\`${d.prerequisiteId}\``);
+        lines.push(`- **${t.name}** (\`${id}\`, core band ${t.coreBand})${assumed.length ? ` — *assumed:* ${assumed.join(', ')}` : ''}`);
       }
       lines.push('');
+    }
+    for (const role of ['develop', 'revisit']) {
+      const ids = topics.filter((t) => t.stageRoles[s] === role);
+      lines.push(`### ${role === 'develop' ? 'Develop where relevant' : 'Revisit'}`, '');
+      lines.push(ids.map((t) => `${t.name} (\`${t.id}\`)`).join('; ') + '.', '');
     }
   }
   writeFileSync(resolve(ROOT, 'reports', 'stage-pathways.md'), lines.join('\n'));
@@ -182,7 +197,8 @@ function topoOrder(ids) {
       for (const t of topics.filter((x) => x.domain === d.name)) {
         lines.push(`<a id="${anchor(t.id)}"></a>`);
         lines.push(`#### ${t.name}`, '');
-        lines.push(`\`${t.id}\` · ${t.type} · ${t.cefrStart}–${t.cefrEnd} · ${t.stages.join(', ')} · ${t.specificity}`, '');
+        const roles = STAGES.filter((s) => t.stageRoles[s]).map((s) => `${s}: ${t.stageRoles[s]}`).join(', ');
+        lines.push(`\`${t.id}\` · ${t.type} · ${t.cefrStart}–${t.cefrEnd} (core band ${t.coreBand}) · ${t.specificity}${t.disciplines.length ? ` (${t.disciplines.join(', ')})` : ''}${t.audience !== 'learner' ? ` · audience: ${t.audience}` : ''}`, '', `Stages — ${roles}`, '');
         lines.push(t.description, '');
         const ps = prereqs.get(t.id);
         if (ps.length) lines.push(`Prerequisites: ${ps.map((p) => `[${byId.get(p.prerequisiteId).name}](#${anchor(p.prerequisiteId)})${p.strength === 'soft' ? ' (soft)' : ''}`).join(', ')}`, '');

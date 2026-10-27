@@ -1,0 +1,1568 @@
+{
+  "group": "14-learning-assessment",
+  "domains": [
+    {
+      "code": "LRN",
+      "strand": "Learning & Autonomy",
+      "name": "Self-Regulated Learning",
+      "summary": "This domain covers the knowledge and strategies that let learners direct their own academic and language development: metacognitive knowledge, the self-regulation cycle, autonomy, motivation, goal setting, time management, study techniques, language learning strategies, reflective logs, support services, wellbeing and learning content through English. It is anchored in self-regulated learning research (Zimmerman, 2002; Flavell, 1979), autonomy research (Holec, 1981; Benson, 2011) and cognitive research on durable learning (Dunlosky et al., 2013). These topics are best taught through learners' real tasks and evidence (feedback, self-test results, time logs), not as detached 'study skills'.",
+      "learnerSummary": "You will learn how to plan, monitor and evaluate your own learning, choose study methods that actually work, manage your time and wellbeing, and keep developing your English after your course ends.",
+      "stageEmphasis": {
+        "foundation": "Explicit, scaffolded introduction to independent study, time management and evidence-informed study techniques, linked to the shift from school to university-style learning.",
+        "pre-sessional": "Compressed work on goal setting, reflective logs and study techniques tied to weekly tasks and the progression decision, with an eye to continued development during the degree.",
+        "in-sessional-ug": "Embedded support at transition points (first assessments, first exam season), focusing on time management, study techniques and use of support services.",
+        "in-sessional-pgt": "Rapid orientation to a dense one-year programme: workload planning, independent study expectations and strategies for learning disciplinary content and language together.",
+        "pgr": "Self-regulation across long, loosely structured projects: goal setting, time management, wellbeing and use of researcher development and supervisory support."
+      },
+      "keyReferences": [
+        "zimmerman2002",
+        "flavell1979",
+        "benson2011",
+        "dunlosky2013",
+        "oxford1990",
+        "dornyei2009"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "lrn.metacognitive-knowledge",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Metacognitive knowledge",
+      "description": "Knowledge of oneself as a learner and user of English, of what particular academic tasks demand, and of which strategies suit which tasks and conditions (Flavell's person, task and strategy variables). Accurate metacognitive knowledge allows learners to plan, monitor and adjust their learning rather than relying on habit or on how familiar material feels.",
+      "cefrStart": "B1",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Describes their current strengths and gaps across reading, listening, writing and speaking using specific evidence (marks, feedback comments, recurring errors) rather than global labels",
+        "Explains how two academic tasks differ in their demands (for example, a source-based coursework essay and a timed short-answer exam) and what that implies for preparation",
+        "Names strategies suited to a stated purpose and explains why a familiar strategy such as rereading can create a feeling of knowing without durable learning",
+        "Distinguishes a judgement of learning based on familiarity or fluency from one based on a self-test result",
+        "Revises a prediction about their own performance after comparing it with the actual outcome"
+      ],
+      "assessmentPrompt": "Ask the learner to predict their score on a short unseen retrieval quiz covering last week's material, take it without notes, then explain any gap between prediction and result and what they would change. Look for explanations framed in terms of task, strategy and self rather than effort or luck alone, and for recognition that familiarity is a weak signal of learning.",
+      "citations": [
+        "flavell1979",
+        "vandergriftgoh2012",
+        "bjork2013"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "lrn.self-regulation",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Self-regulated learning",
+      "description": "Understand self-regulated learning as a cyclical process of forethought (analysing the task, setting goals, planning strategies, appraising one's self-efficacy), performance (self-monitoring and controlled strategy use) and self-reflection (evaluating outcomes against standards, attributing causes and adapting). The model gives learners and teachers a shared language for locating where independent study breaks down.",
+      "cefrStart": "B1",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Describes the three phases of a self-regulation cycle and the main processes in each, using an example from their own study",
+        "Analyses a recent assignment or test experience and locates the main breakdown in a specific phase (for example, no analysis of the brief, no monitoring during drafting, no use of feedback afterwards)",
+        "Attributes outcomes to controllable factors such as strategy choice and preparation rather than to fixed ability or luck",
+        "Proposes a specific adjustment for the next cycle that follows logically from their self-evaluation"
+      ],
+      "assessmentPrompt": "Give a short case of a student who spent many hours on an essay and received a low mark with comments on structure and relevance. Ask the learner what went wrong in each phase and what the student should do next time. Look for phase-specific diagnosis (for example, no analysis of the question or criteria at forethought) and controllable attributions, rather than 'work harder'.",
+      "citations": [
+        "zimmerman2002",
+        "nicol2006"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:B2",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "lrn.motivation",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Motivation and the L2 self",
+      "description": "Understand motivation for continued language and academic development through Dörnyei's L2 Motivational Self System (the ideal L2 self, the ought-to L2 self and the learning experience), and use a specific, plausible image of oneself as a competent academic user of English, linked to concrete current actions, to sustain effort beyond an entry requirement or the end of an EAP course.",
+      "cefrStart": "B1",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Articulates a specific future academic or professional self that uses English (for example, contributing in lab meetings or writing a dissertation) rather than a generic aim to 'improve my English'",
+        "Distinguishes goals they hold for themselves from obligations set by others (entry scores, sponsor or family expectations) and explains how each affects their effort",
+        "Links their future-self image to at least two concrete learning actions they are taking now",
+        "Identifies features of the current learning experience that support or undermine their motivation and proposes a response"
+      ],
+      "assessmentPrompt": "Ask the learner to write three sentences: who they want to be as a user of English in two years, what they must do this month to move towards that, and what will happen if they do nothing. Check specificity, plausibility and the link between vision and action; a vivid image with no linked action, or an action list with no personal purpose, indicates partial understanding.",
+      "citations": [
+        "dornyei2009"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "lrn.autonomy",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Learner autonomy",
+      "description": "Understand learner autonomy as a developing capacity to take control over one's learning (choosing objectives, content and methods, and monitoring and evaluating progress) that grows through supported practice, rather than as studying alone or without a teacher. Autonomy underpins the independent study, strategy choice and continued development that universities expect but rarely teach explicitly.",
+      "cefrStart": "B1",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Explains the difference between autonomy as control over learning decisions and isolation or unsupported self-instruction",
+        "Makes and justifies a learning decision that no teacher has prescribed, such as selecting additional materials for a known weakness",
+        "Evaluates the outcome of a self-initiated learning activity and decides whether to continue, adapt or abandon it",
+        "Identifies constraints on their control in a given context (assessment rules, time, resources) and works within or around them"
+      ],
+      "assessmentPrompt": "Ask: 'Describe something you learned in English in the last fortnight that no teacher asked you to learn. How did you choose it, how did you go about it, and how did you know whether it worked?' A strong answer shows a self-made decision at each stage; a weak one describes only teacher-set work or an intention without action.",
+      "citations": [
+        "holec1981",
+        "benson2011"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "lrn.goal-setting",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Setting language and academic goals",
+      "description": "Set specific, near-term and checkable language and academic goals derived from actual course and assessment demands, and turn them into planned actions, including if–then plans for predictable obstacles. Well-formed goals turn a general wish to 'improve my English' into decisions about what to practise this week and how progress will be judged.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Writes goals that specify the skill or language feature, the context of use, a success indicator and a time frame",
+        "Derives goals from evidence (feedback, marking criteria, diagnostic results, programme requirements) rather than general impressions",
+        "Breaks a distant goal, such as meeting a progression requirement, into near-term sub-goals with dates",
+        "Pairs goals with if–then plans for anticipated obstacles",
+        "Reviews and revises goals at planned intervals in the light of progress evidence"
+      ],
+      "assessmentPrompt": "Give the learner their latest written feedback and ask them to set two goals for the next fortnight. Check whether each goal is traceable to the feedback, specific enough that progress could be checked, and paired with a concrete action and time; 'improve my academic vocabulary' with no action or indicator is a gap response.",
+      "citations": [
+        "zimmerman2002",
+        "gollwitzer1999"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:B3",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "lrn.time-management",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Time and workload management",
+      "description": "Plan, prioritise and protect study time across concurrent deadlines: estimating task duration realistically, scheduling backwards from deadlines, allocating time to independent study as well as taught sessions, and recognising and countering procrastination. For L2 learners, realistic estimates must include the extra time that reading and writing in English may take.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Produces a weekly plan that includes taught sessions, scheduled independent study blocks and deadlines across modules",
+        "Plans backwards from a deadline, breaking a task into dated stages such as reading, planning, drafting and revising, with buffer time",
+        "Compares estimated and actual task durations and adjusts future estimates accordingly",
+        "Prioritises tasks by deadline, weighting and dependency rather than by preference or ease",
+        "Identifies personal procrastination triggers and applies a specific countermeasure"
+      ],
+      "assessmentPrompt": "Give the learner a two-week scenario with three overlapping deliverables of different weightings and ask for a schedule. Check for backward planning, prioritisation by weighting and dependency, buffer time and realistic durations; scheduling most work for the final days or ignoring weighting indicates a gap.",
+      "citations": [
+        "kahneman2011",
+        "steel2007"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:B2",
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "lrn.independent-study",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Independent study",
+      "description": "Understand the scale and purpose of independent study in higher education systems where expected study hours far exceed contact hours (in many UK institutions one credit conventionally represents about ten notional learning hours), and plan that time productively: preparing for and consolidating taught sessions, following up reading, practising language and progressing assessments without waiting for instructions.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Estimates the independent study a module expects from its credit value or handbook and compares this with their current practice",
+        "Plans independent study that includes preparation before, and consolidation after, specific taught sessions",
+        "Selects independent study activities that address identified needs rather than repeating class activities",
+        "Records what independent study was done and its outcome in a form that can be reviewed"
+      ],
+      "assessmentPrompt": "Show the learner a module handbook page giving credit value and contact hours. Ask how many hours of independent study per week this implies and what they will do in those hours next week. Look for a realistic estimate and activities tied to particular sessions and assessments rather than 'revise' or 'read more'.",
+      "citations": [
+        "wingate2006",
+        "benson2011"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "lrn.study-techniques",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Evidence-based study techniques",
+      "description": "Choose and use study techniques that cognitive research rates highly for durable learning (above all retrieval practice and distributed practice, with interleaving and self-explanation as promising options) instead of relying on lower-utility habits such as rereading, highlighting and copying notes. The techniques apply to language items (vocabulary, formulaic phrases, citation conventions) as well as disciplinary content.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Converts notes or readings into retrieval questions and self-tests without looking at the source",
+        "Schedules several spaced reviews of the same material rather than one massed session",
+        "Explains why rereading and highlighting create a sense of familiarity that overestimates learning",
+        "Applies retrieval and spacing to language items such as academic collocations and reporting verbs, not only to content",
+        "Mixes question or problem types in practice when the assessment will require choosing between methods"
+      ],
+      "assessmentPrompt": "Ask the learner to show how they would prepare for a quiz on a lecture they attended last week, using their own notes. Look for self-testing (cover-and-recall, questions, flashcards) and a spaced schedule; a plan built on rereading and highlighting, or a single long session the night before, indicates a gap.",
+      "citations": [
+        "dunlosky2013",
+        "roediger2006",
+        "cepeda2006",
+        "bjork2013"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "lrn.language-learning-strategies",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Language learning strategies",
+      "description": "Select, combine and evaluate strategies for continuing to develop academic English beyond the course: for example, noticing and recording useful language from disciplinary reading, deliberate vocabulary study, seeking opportunities for spoken interaction and feedback, using the L1 as a resource, and managing affect. Strategies are chosen to fit the task and goal rather than out of habit.",
+      "cefrStart": "B1",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Names and uses strategies from several categories (memory, cognitive, compensation, metacognitive, affective, social) that fit an identified need",
+        "Combines a cluster of strategies for a specific target, such as noticing, recording and retrieving reporting verbs from set readings",
+        "Evaluates whether a strategy is working, using evidence, and replaces those that are not",
+        "Creates opportunities outside class for language use and feedback (study groups, office hours, extensive reading or listening in the discipline)"
+      ],
+      "assessmentPrompt": "Ask the learner to choose one area to improve (for example, following seminar discussion) and to describe the strategies they will use over a month and how they will know whether they are working. Look for a coherent cluster of strategies matched to the target, including monitoring; a list of generic tips ('watch films', 'read more') with no evaluation indicates a gap.",
+      "citations": [
+        "oxford1990",
+        "plonsky2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:plu.plurilingual-repertoire",
+          "levels": [
+            "B1",
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "lrn.reflective-logs",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Reflective learning logs",
+      "description": "Keep a structured learning log or journal that records goals, actions taken, evidence of progress and next steps, and use it to make decisions. The key distinction is between analytical reflection, which explains and leads to action, and description of activities or feelings alone.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Writes entries that link a learning action to evidence of its effect and a decision about what to do next",
+        "Moves beyond description ('Today I read an article') to analysis ('I followed the method section but not the discussion because…')",
+        "Reviews earlier entries to identify patterns across weeks and revises goals accordingly",
+        "Uses evidence from the log to support a tutorial conversation or an end-of-course reflection"
+      ],
+      "assessmentPrompt": "Take three consecutive entries from the learner's log and ask them to summarise what changed in their learning over that period and why. Look for patterns supported by evidence and decisions that follow from them; if the learner cannot draw anything from the entries, the log is functioning as a diary rather than a learning tool.",
+      "citations": [
+        "moon2004",
+        "zimmerman2002"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "lrn.support-services",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Using academic support services",
+      "description": "Identify the academic and personal support a university offers (library and subject librarians, writing or academic skills centres, in-sessional EAP, maths and statistics support, disability, wellbeing and advice services) and use it early, with a prepared and specific request, as a normal part of good study practice rather than a last resort.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Locates the right service for a given need (statistics help, a reading-list query, a disability adjustment) using institutional web pages or the VLE",
+        "Books and prepares for an appointment with a specific question and the relevant materials (draft, brief, feedback)",
+        "Distinguishes what a writing or language support service will and will not do, for example advising on a draft but not proofreading it",
+        "Seeks support before a deadline becomes a crisis and records what was learned"
+      ],
+      "assessmentPrompt": "Give three short scenarios (difficulty interpreting statistical output, a lecturer's comment about 'paragraph structure', anxiety that is disrupting sleep before exams) and ask which service the learner would approach, how, and what they would bring. Check for accurate matching, a specific request and awareness of each service's limits.",
+      "citations": [
+        "wingate2015",
+        "sloanporter2010"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "lrn.wellbeing",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Sustainable study habits and wellbeing",
+      "description": "Sustain study across a term or degree by anticipating workload peaks, protecting sleep, breaks and social connection, recognising early signs that stress is affecting learning, and knowing when and how to seek help. Wellbeing is treated here as a condition for learning, not as a clinical intervention.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies predictable pressure points in their term (assessment clusters, exam season) and plans for them in advance",
+        "Maintains routines for sleep and breaks during assessment periods instead of sacrificing them to extend study hours",
+        "Recognises personal early-warning signs (avoidance, disrupted sleep, withdrawal from others) and names an action for each",
+        "Matches different levels of concern to appropriate institutional or external services, including urgent routes"
+      ],
+      "assessmentPrompt": "Ask the learner to map the next six weeks, marking deadlines and exams, and to note where pressure will peak and what they will do before and during those peaks. Look for anticipation and specific protective actions (earlier starts, reduced commitments, maintained sleep, contact with support) rather than a plan simply to 'work harder'.",
+      "citations": [
+        "zhou2008"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:B2",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "lrn.content-through-english",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Self-Regulated Learning",
+      "name": "Learning subject content through English",
+      "description": "Understand that in foundation, English-medium and degree contexts, disciplinary concepts and the English used to express them are learned together: technical terms, characteristic text types and ways of explaining are part of the content. Learners use this understanding to plan for the double load, for example by previewing terminology, using L1 resources strategically and checking conceptual understanding as well as language.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies terms and constructions in a subject text or lecture whose meaning is disciplinary rather than everyday",
+        "Distinguishes a comprehension problem caused by the language from one caused by an unfamiliar concept, and applies a different repair to each",
+        "Uses L1 or bilingual resources to secure a concept, then re-expresses it in English using the discipline's terms",
+        "Explains a disciplinary concept in English at two levels, technical and plain, showing control of both content and language"
+      ],
+      "assessmentPrompt": "Give a short subject-textbook passage containing one sub-technical term (for example 'significant' in a statistics context) and one new concept. Ask the learner to explain the passage, then say which parts were difficult because of the English and which because of the idea. Look for an accurate distinction and a suitable repair strategy for each.",
+      "citations": [
+        "mohan1986",
+        "macaro2018emi",
+        "dafouzsmit2016"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.read.information-argument",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:med.strat.linking-previous-knowledge",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "topicId": "lrn.self-regulation",
+      "prerequisiteId": "lrn.metacognitive-knowledge",
+      "strength": "hard",
+      "reason": "Planning, monitoring and evaluating learning presuppose knowledge of one's own abilities, of task demands and of the strategies available"
+    },
+    {
+      "topicId": "lrn.self-regulation",
+      "prerequisiteId": "lrn.motivation",
+      "strength": "soft",
+      "reason": "The forethought phase includes self-motivation beliefs (self-efficacy, valuing of the outcome), which motivational self-images help sustain"
+    },
+    {
+      "topicId": "lrn.autonomy",
+      "prerequisiteId": "lrn.metacognitive-knowledge",
+      "strength": "soft",
+      "reason": "Taking control of learning decisions depends on knowing which strategies and resources suit which tasks and one's own needs"
+    },
+    {
+      "topicId": "lrn.goal-setting",
+      "prerequisiteId": "lrn.self-regulation",
+      "strength": "hard",
+      "reason": "Goal setting is a forethought process whose value lies in providing the standard for later self-monitoring and self-evaluation"
+    },
+    {
+      "topicId": "lrn.goal-setting",
+      "prerequisiteId": "acu.academic-expectations",
+      "strength": "soft",
+      "reason": "Academic goals must be derived from what university study actually requires (independence, criticality, participation)"
+    },
+    {
+      "topicId": "lrn.time-management",
+      "prerequisiteId": "lrn.goal-setting",
+      "strength": "hard",
+      "reason": "Prioritising and scheduling require explicit goals and sub-goals to allocate time against"
+    },
+    {
+      "topicId": "lrn.independent-study",
+      "prerequisiteId": "lrn.time-management",
+      "strength": "hard",
+      "reason": "Productive independent study depends on scheduling and protecting non-contact hours"
+    },
+    {
+      "topicId": "lrn.independent-study",
+      "prerequisiteId": "lrn.autonomy",
+      "strength": "soft",
+      "reason": "Independent study requires learners to choose what to study and how, without teacher direction"
+    },
+    {
+      "topicId": "lrn.independent-study",
+      "prerequisiteId": "lrn.study-techniques",
+      "strength": "soft",
+      "reason": "Independent study hours are only productive if filled with effective techniques such as self-testing rather than rereading"
+    },
+    {
+      "topicId": "lrn.independent-study",
+      "prerequisiteId": "acu.academic-expectations",
+      "strength": "soft",
+      "reason": "Learners need to understand the institutional expectation of self-direction before they can plan to meet it"
+    },
+    {
+      "topicId": "lrn.study-techniques",
+      "prerequisiteId": "lrn.metacognitive-knowledge",
+      "strength": "hard",
+      "reason": "Choosing retrieval and spacing over rereading requires strategy knowledge and awareness that familiarity misleads judgements of learning"
+    },
+    {
+      "topicId": "lrn.language-learning-strategies",
+      "prerequisiteId": "lrn.self-regulation",
+      "strength": "hard",
+      "reason": "Orchestrating and evaluating strategies is self-regulation applied to language development: planning, monitoring and adapting strategy use"
+    },
+    {
+      "topicId": "lrn.language-learning-strategies",
+      "prerequisiteId": "lrn.study-techniques",
+      "strength": "soft",
+      "reason": "Retrieval and spacing are the memory mechanisms behind effective deliberate study of vocabulary and phraseology"
+    },
+    {
+      "topicId": "lrn.language-learning-strategies",
+      "prerequisiteId": "lrn.autonomy",
+      "strength": "soft",
+      "reason": "Continuing language development beyond the course depends on learners taking control of what and how they practise"
+    },
+    {
+      "topicId": "lrn.reflective-logs",
+      "prerequisiteId": "lrn.goal-setting",
+      "strength": "hard",
+      "reason": "Log entries are evaluated against goals; without goals, entries become description with no standard for judging progress"
+    },
+    {
+      "topicId": "lrn.reflective-logs",
+      "prerequisiteId": "lrn.autonomy",
+      "strength": "soft",
+      "reason": "Using a log to make decisions presupposes that the learner, not only the teacher, makes learning decisions"
+    },
+    {
+      "topicId": "lrn.support-services",
+      "prerequisiteId": "acu.university-structures",
+      "strength": "soft",
+      "reason": "Finding the right service depends on understanding how the institution's schools, central services and roles are organised"
+    },
+    {
+      "topicId": "lrn.support-services",
+      "prerequisiteId": "lrn.self-regulation",
+      "strength": "soft",
+      "reason": "Deciding when to seek help is a monitoring and adaptation decision within the self-regulation cycle"
+    },
+    {
+      "topicId": "lrn.wellbeing",
+      "prerequisiteId": "lrn.time-management",
+      "strength": "soft",
+      "reason": "Anticipating workload peaks and protecting rest depend on planning study time across the term"
+    },
+    {
+      "topicId": "lrn.wellbeing",
+      "prerequisiteId": "lrn.support-services",
+      "strength": "soft",
+      "reason": "Knowing which wellbeing, advice and disability services exist is needed to act on early-warning signs"
+    },
+    {
+      "topicId": "lrn.content-through-english",
+      "prerequisiteId": "rdp.background-knowledge",
+      "strength": "soft",
+      "reason": "Distinguishing language problems from concept problems depends on understanding how background knowledge supports comprehension"
+    },
+    {
+      "topicId": "lrn.content-through-english",
+      "prerequisiteId": "voc.lexical-coverage",
+      "strength": "soft",
+      "reason": "Understanding lexical coverage explains why unknown technical and sub-technical words can block comprehension of subject texts"
+    },
+    {
+      "topicId": "lrn.content-through-english",
+      "prerequisiteId": "lrn.language-learning-strategies",
+      "strength": "soft",
+      "reason": "Managing the double load relies on deliberate strategies for noticing, recording and using disciplinary language"
+    }
+  ],
+  "guidance": [
+    {
+      "topicId": "lrn.metacognitive-knowledge",
+      "summary": "Flavell (1979) distinguishes metacognitive knowledge (about persons, tasks and strategies) from metacognitive experiences, and EAP listening pedagogy has shown the person–task–strategy distinction to be a practical teaching frame (Vandergrift & Goh, 2012). Make the three variables explicit, then repeatedly set learners' predictions against evidence, because judgements of learning tend to be driven by fluency and familiarity rather than by how well material can later be retrieved (Bjork et al., 2013). Metacognitive knowledge is built through reflection on real tasks, not delivered in a single lecture.",
+      "activities": [
+        {
+          "title": "Predict–test–explain",
+          "learnerActions": [
+            "Predict what percentage you will get on a ten-item retrieval quiz on last week's material",
+            "Take the quiz without notes",
+            "Compare your prediction with your result; the class pools anonymised prediction–result pairs on a scatter plot",
+            "Explain your gap under three headings: myself, the task, my strategy",
+            "Choose one change to your study approach and repeat the cycle next week"
+          ],
+          "intendedInsight": "Feeling familiar with material is not the same as being able to retrieve or use it, and predictions can be made more accurate with evidence.",
+          "rationale": "Calibration exercises make the gap between judgement and performance visible, which is the information metacognitive knowledge is built from; the tendency to overrate learning after restudy is reviewed by Bjork et al. (2013).",
+          "citations": [
+            "bjork2013",
+            "flavell1979"
+          ]
+        },
+        {
+          "title": "Task anatomy comparison",
+          "learnerActions": [
+            "Read two real assessment briefs from your programme that differ in type (for example, a timed exam and a source-based report)",
+            "List what each requires: sources, time, genre, criteria, individual or group work",
+            "Compare each list with how you usually prepare",
+            "Write a three-line 'task knowledge' note for each task stating what preparation it needs"
+          ],
+          "intendedInsight": "Different tasks demand different preparation; a single habitual study routine does not fit all of them.",
+          "rationale": "Flavell's task variable concerns knowledge of how task demands affect what one should do; making it explicit with authentic briefs links metacognition to task analysis.",
+          "citations": [
+            "flavell1979"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I've read it three times, so I know it.'",
+          "kind": "conceptual",
+          "revealedBy": "Confident predictions followed by low recall on self-tests; study logs dominated by rereading and highlighting.",
+          "response": "Use repeated predict–test cycles so learners see the pattern in their own data. Do not simply tell learners that rereading is ineffective: the claim is usually accepted in principle and ignored in practice unless they experience the gap.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Learners describe themselves through fixed labels ('my grammar is bad', 'I'm a visual learner') that close down strategy choice.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Self-descriptions without evidence; resistance to trying strategies that do not fit the label.",
+          "response": "Replace labels with specific, evidence-based descriptions (for example, 'in my last two essays my most frequent error was a missing article before singular countable nouns'). Point out that matching study methods to a supposed learning style is not supported by evidence; strategies should be chosen to fit the task.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Learners whose previous teachers planned all learning have little vocabulary for talking about how they learn.",
+          "kind": "prior-schooling",
+          "revealedBy": "Answers such as 'I just study' or 'I follow the teacher' when asked how they prepare.",
+          "response": "Provide and model metalanguage (task, strategy, evidence, monitoring) through teacher think-alouds on a real task, and give sentence frames for early reflections. Treat this as unfamiliarity with a way of talking, not a lack of capability.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'Which of your study methods last week worked best, and how do you know?'",
+        "strongResponse": "Names a specific method and task, cites evidence (a self-test result, feedback, a mark) and notes a limitation or condition.",
+        "partialResponse": "Names a method with a justification based on how it felt ('it was easier', 'I understood it').",
+        "gapResponse": "Cannot name a method, or attributes success only to effort, luck or the teacher."
+      },
+      "contextNotes": "At foundation level, introduce the person–task–strategy frame explicitly and link it to the transition from school learning. On pre-sessional courses, keep it compressed and attach it to weekly tasks and the progression assessment. In in-sessional UG and PGT provision, embed it in module tasks, especially before the first assessment cluster or exam season.",
+      "citations": [
+        "flavell1979",
+        "vandergriftgoh2012",
+        "bjork2013"
+      ],
+      "reviewNotes": [
+        "Calibration evidence is mainly from L1 laboratory and classroom studies; its transfer to L2 academic literacy tasks is plausible but less directly tested.",
+        "bjork2013 is a proposed reference pending verification."
+      ]
+    },
+    {
+      "topicId": "lrn.self-regulation",
+      "summary": "Zimmerman (2002) presents self-regulation not as a fixed trait but as self-directive processes that learners can acquire, organised into forethought, performance and self-reflection phases. Nicol and Macfarlane-Dick (2006) frame feedback as information that serves this cycle. In EAP, teach the model briefly and then use it repeatedly as a diagnostic lens on real task cycles (an essay, a pre-sessional week, an exam): using the model matters more than reciting it. Emphasise attributions to controllable strategy rather than to ability.",
+      "activities": [
+        {
+          "title": "Task cycle post-mortem",
+          "learnerActions": [
+            "Take a returned assignment and list what you did before starting, while working, and after receiving the mark",
+            "Map each action onto forethought, performance or self-reflection",
+            "Identify the phase where least happened and explain how that may have affected the outcome",
+            "Write one if–then plan for that phase in your next task"
+          ],
+          "intendedInsight": "Weak outcomes can usually be traced to a specific phase of the cycle, and that phase is where the next change should be made.",
+          "rationale": "Zimmerman's cyclical model locates learning problems in particular sub-processes; mapping one's own behaviour onto it turns a general sense of failure into a specific target.",
+          "citations": [
+            "zimmerman2002"
+          ]
+        },
+        {
+          "title": "Attribution sort",
+          "learnerActions": [
+            "Sort statements such as 'I'm just bad at writing', 'I didn't look at the criteria', 'The marker didn't like me' and 'I started the night before' into controllable and uncontrollable causes",
+            "Discuss which attributions lead to a next action",
+            "Rewrite each uncontrollable attribution as a controllable one where the evidence allows"
+          ],
+          "intendedInsight": "Explaining outcomes through strategy and preparation points to what to do next; explaining them through fixed ability does not.",
+          "rationale": "In Zimmerman's self-reflection phase, attributing outcomes to strategy use is associated with adaptive rather than defensive reactions.",
+          "citations": [
+            "zimmerman2002"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Self-regulation just means being disciplined and studying more hours.'",
+          "kind": "conceptual",
+          "revealedBy": "Plans that increase hours without changing methods; frustration when more time does not improve results.",
+          "response": "Use cases in which more hours did not help and ask learners to find what was missing (monitoring, strategy change, use of feedback). Present regulation as adjusting what you do, not only how long you do it.",
+          "reteachPrerequisiteId": "lrn.metacognitive-knowledge"
+        },
+        {
+          "pattern": "Once work is submitted the learner treats the cycle as finished: 'I just want the mark.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Unopened feedback on the VLE; the same issues recurring across assignments.",
+          "response": "Build self-reflection into the task cycle, for example by requiring a short feed-forward note before the next submission. Do not turn reflection into a long, graded confession, which tends to produce performative text rather than real evaluation.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "After an early low mark, self-efficacy drops and the learner avoids the next task.",
+          "kind": "affective",
+          "revealedBy": "Late starts, missed tutorials, statements such as 'there's no point'.",
+          "response": "Help the learner attribute the result to strategy, and set a small, near-term goal they can achieve and see. Avoid generic reassurance that is not tied to evidence.",
+          "reteachPrerequisiteId": "lrn.motivation"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'Think of your last piece of assessed work. What did you do before you started, while you were working, and after you got it back?'",
+        "strongResponse": "Gives concrete actions in all three phases, including some monitoring during work and an adjustment made after feedback.",
+        "partialResponse": "Gives detail about the performance phase (what they wrote or read) but little about planning or reflection.",
+        "gapResponse": "Describes only time spent or effort, with no planning, monitoring or reflection."
+      },
+      "contextNotes": "Foundation and pre-sessional learners need the cycle scaffolded within short, repeated tasks. In-sessional UG and PGT learners benefit from applying it to real module assessment cycles. For PGR researchers the emphasis shifts to self-regulation across long, ill-structured projects with few external deadlines, connecting to supervision and writing productivity.",
+      "citations": [
+        "zimmerman2002",
+        "nicol2006"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "lrn.motivation",
+      "summary": "Dörnyei (2009) proposes that L2 motivation is driven by the ideal L2 self, the ought-to L2 self and the learning experience, and argues that future-self images energise behaviour only under certain conditions, including that they are elaborate, plausible, regularly activated and accompanied by procedural strategies. For EAP this means motivational work is not pep talk; it is helping learners build a realistic image of themselves using English in their discipline and tying it to near-term plans. Treat entry-score pressure (an ought-to motivation) as legitimate while recognising that it may fade once the score is achieved.",
+      "activities": [
+        {
+          "title": "Future academic self portrait",
+          "learnerActions": [
+            "Interview a current student in your field or read your programme handbook",
+            "Write a short description of a typical week on your future programme in which you use English (lectures, seminars, lab work, writing)",
+            "Identify the three most demanding language situations in that week",
+            "Turn each into a goal for this month with one concrete action"
+          ],
+          "intendedInsight": "A specific, plausible future self that is linked to present actions is more useful than a general wish to be fluent.",
+          "rationale": "Dörnyei argues that future-self images need to be elaborate and plausible and to be accompanied by procedural strategies if they are to shape behaviour.",
+          "citations": [
+            "dornyei2009"
+          ]
+        },
+        {
+          "title": "After the score",
+          "learnerActions": [
+            "List your reasons for studying English now and mark each as your own aim or an expectation from others",
+            "Discuss which reasons will still apply once you have met your entry requirement",
+            "Draft a short plan for continuing language development during your first term, naming in-sessional or independent options"
+          ],
+          "intendedInsight": "Motivations imposed by an entry requirement end when it is met, whereas university language demands continue.",
+          "rationale": "The ideal and ought-to selves differ in how far they are internalised; making the difference visible helps learners plan for life after the test.",
+          "citations": [
+            "dornyei2009"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Once I get the score, I'm finished with English.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Disengagement from non-assessed language work; little interest in in-sessional provision.",
+          "response": "Show the language demands of degree study through authentic materials (lecture extracts, assignment briefs, student comments). Do not dismiss the score goal: it is real and high-stakes, and dismissing it damages trust.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "A vivid but implausible ideal self ('native-like English in six months') leads to discouragement.",
+          "kind": "affective",
+          "revealedBy": "Statements of frustration despite measurable progress; self-comparison with L1 English-speaking peers.",
+          "response": "Help learners recalibrate towards plausible images of a competent, intelligible multilingual academic user of English, and question the native-speaker benchmark as a target.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'Why are you improving your English, and what will you be doing with it a year from now?'",
+        "strongResponse": "Describes a specific future use of English in their field and links it to present learning choices.",
+        "partialResponse": "Gives a specific external goal (a score, admission) but no picture of later use, or a vague wish to be fluent.",
+        "gapResponse": "Cannot articulate a reason beyond obligation, or expresses no link between present study and future use."
+      },
+      "contextNotes": "In foundation and pre-sessional contexts, entry requirements dominate motivation and the task is to connect them to a longer-term academic self. In in-sessional UG and PGT contexts, motivation is often shaped by the learning experience in the discipline, so work on concrete language situations from the learner's modules.",
+      "citations": [
+        "dornyei2009"
+      ],
+      "reviewNotes": [
+        "Evidence for the L2 Motivational Self System is largely correlational and questionnaire-based; links between future-self visualisation activities and achievement in EAP specifically are not well established."
+      ]
+    },
+    {
+      "topicId": "lrn.autonomy",
+      "summary": "Holec (1981) defines autonomy as the capacity to take charge of one's own learning across objectives, content, methods, monitoring and evaluation. Benson (2011) extends this to control over learning management, cognitive processes and content, and stresses that autonomy is developed, situated and a matter of degree. In EAP, build autonomy by progressively handing over decisions within the course (choice of texts, targets and feedback focus) rather than assigning unsupported 'self-study'. Avoid framing autonomy as a cultural trait some groups lack: differences reflect prior opportunities to exercise control.",
+      "activities": [
+        {
+          "title": "Handover ladder",
+          "learnerActions": [
+            "For a recurring task (for example, weekly reading-to-write), choose the text yourself in week 1",
+            "In week 2, also choose the language focus",
+            "In week 3, also decide how your work will be evaluated and by whom",
+            "After each step, note what was easier or harder with more control"
+          ],
+          "intendedInsight": "Control over learning decisions can be taken step by step, and each step brings both freedom and responsibility.",
+          "rationale": "Benson describes autonomy as developing through opportunities to exercise control; staged handover provides support while those opportunities increase.",
+          "citations": [
+            "benson2011"
+          ]
+        },
+        {
+          "title": "Self-directed mini-project",
+          "learnerActions": [
+            "Choose a target linked to your future studies (for example, following lectures in your field)",
+            "Select resources and design a three-week plan with a progress record",
+            "Carry out the plan and keep brief notes",
+            "Present a two-minute evaluation: what worked, what you changed and what you will do next"
+          ],
+          "intendedInsight": "Autonomy covers every stage of learning: choosing a goal, a method and a means of evaluation.",
+          "rationale": "Holec's account of autonomy includes deciding objectives, methods and evaluation; a short project lets learners exercise each decision with teacher support available.",
+          "citations": [
+            "holec1981",
+            "benson2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'The teacher should tell me what to study; that's their job.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Requests for exact instructions for independent work; little activity when tasks are open.",
+          "response": "Acknowledge that this is a reasonable expectation from previous experience, and scaffold with structured choices (for example, three texts to choose from) before fully open tasks. Do not remove all structure at once, which tends to produce anxiety and inactivity rather than autonomy.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Equating autonomy with working alone and therefore avoiding peers, tutors and support services.",
+          "kind": "conceptual",
+          "revealedBy": "Reluctance to ask questions or join study groups; reports of struggling alone for long periods.",
+          "response": "Present strategic help-seeking and collaboration as autonomous decisions. Model examples of choosing when to ask for help and whom to ask.",
+          "reteachPrerequisiteId": "lrn.metacognitive-knowledge"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What have you chosen to learn or practise recently that wasn't set by a teacher, and how did you decide?'",
+        "strongResponse": "Describes a self-chosen goal, method and way of judging success, with some adaptation along the way.",
+        "partialResponse": "Describes self-chosen activity, but with no clear goal or evaluation.",
+        "gapResponse": "Describes only teacher-set work or says there is no time for anything else."
+      },
+      "contextNotes": "At foundation and pre-sessional levels, autonomy is developed through scaffolded handover within the course. In in-sessional UG and PGT provision, it is exercised in choosing what support to use and how. For PGR researchers, autonomy is a central expectation of the doctorate and is negotiated within the supervisory relationship.",
+      "citations": [
+        "holec1981",
+        "benson2011"
+      ],
+      "reviewNotes": [
+        "Autonomy is difficult to measure; the mastery evidence relies on reported and observed learning decisions."
+      ]
+    },
+    {
+      "topicId": "lrn.goal-setting",
+      "summary": "Goal setting is a core forethought process in Zimmerman's (2002) model: specific, near-term goals provide the standard against which learners monitor and evaluate their performance. Psychological research on implementation intentions (if–then plans that specify when, where and how a goal-directed action will happen) indicates that such plans help people act on their goals (Gollwitzer, 1999). In EAP, anchor goals in the learner's own evidence (feedback, criteria, diagnostic results) and review them at fixed points. Goal-setting worksheets completed once and filed achieve little.",
+      "activities": [
+        {
+          "title": "Evidence-to-goal conversion",
+          "learnerActions": [
+            "Collect three pieces of evidence: two feedback comments and the criterion on which you scored lowest",
+            "Turn each into a goal stating the feature, the context, a success indicator and a date",
+            "Swap with a partner, who checks whether progress on each goal could actually be observed",
+            "Revise any goal that could not be checked"
+          ],
+          "intendedInsight": "Useful goals come from evidence and can be checked; vague goals cannot guide action.",
+          "rationale": "In Zimmerman's model, goals function as standards for self-monitoring; goals that cannot be observed cannot serve that function.",
+          "citations": [
+            "zimmerman2002"
+          ]
+        },
+        {
+          "title": "If–then planning",
+          "learnerActions": [
+            "For each goal, predict the obstacle most likely to stop you (for example, a lab report due the same week)",
+            "Write an if–then plan: 'If [situation], then I will [specific action]'",
+            "At the review point, check whether the situation occurred and whether the plan was triggered"
+          ],
+          "intendedInsight": "Planning for obstacles in advance makes it more likely that goals survive busy weeks.",
+          "rationale": "Gollwitzer (1999) reviews evidence that implementation intentions support goal attainment; here the technique is proposed for academic study and its effect should be monitored, not assumed.",
+          "citations": [
+            "gollwitzer1999"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Goals are only distant outcomes ('get 6.5', 'get a 2:1') with no process goals.",
+          "kind": "prior-schooling",
+          "revealedBy": "Goal sheets listing scores or grades only; no weekly actions.",
+          "response": "Keep the outcome goal but add near-term process goals that lead towards it. Do not dismiss outcome goals, which are often legitimate requirements.",
+          "reteachPrerequisiteId": "lrn.self-regulation"
+        },
+        {
+          "pattern": "Setting many goals at once and abandoning them all within two weeks.",
+          "kind": "performance",
+          "revealedBy": "Long goal lists with no recorded progress at review.",
+          "response": "Limit learners to one or two active goals at a time. Do not penalise abandoned goals; treat them as information for the next review.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Goals copied from the teacher's suggestions rather than drawn from the learner's own evidence.",
+          "kind": "developmental",
+          "revealedBy": "Near-identical goals across a class; goals unrelated to the learner's feedback.",
+          "response": "Require each goal to cite the piece of evidence it comes from.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to state one current learning goal and how they will know when it has been met.",
+        "strongResponse": "States a specific goal traceable to evidence, with an observable indicator, a date and a planned action.",
+        "partialResponse": "States a relevant goal but with no indicator or action, or an indicator with no clear link to evidence.",
+        "gapResponse": "States a general wish ('improve my writing') or an outcome only ('pass')."
+      },
+      "contextNotes": "Foundation and pre-sessional learners benefit from goals tied to progression requirements and weekly tasks. In-sessional learners set goals from module feedback. For PGR researchers, goal setting moves to project milestones and longer-term development, often agreed with supervisors and linked to researcher development planning.",
+      "citations": [
+        "zimmerman2002",
+        "gollwitzer1999"
+      ],
+      "reviewNotes": [
+        "gollwitzer1999 is a proposed reference pending verification; evidence on implementation intentions comes mainly from health and social psychology rather than from language learning."
+      ]
+    },
+    {
+      "topicId": "lrn.time-management",
+      "summary": "The planning fallacy, the tendency to underestimate how long tasks will take even when past experience suggests otherwise, is well documented (Kahneman, 2011), and procrastination is common among students and is associated with task aversiveness and impulsiveness (Steel, 2007). L2 learners face an additional consideration: reading and writing in English may take longer than in their L1, and their estimates may not allow for this. Teach time management through learners' own estimate-versus-actual data rather than generic tips; the habit of planning and reviewing matters more than any particular tool.",
+      "activities": [
+        {
+          "title": "Estimate versus actual log",
+          "learnerActions": [
+            "For one week, record your estimated time for each study task before starting",
+            "Record the actual time taken",
+            "Calculate your average ratio of actual to estimated time for reading and for writing",
+            "Apply this correction to your plan for the following week"
+          ],
+          "intendedInsight": "Your own past data is a better guide to how long tasks take than your intuition.",
+          "rationale": "Kahneman recommends correcting the planning fallacy by consulting evidence from comparable past cases (the 'outside view'); a personal log provides that evidence.",
+          "citations": [
+            "kahneman2011"
+          ]
+        },
+        {
+          "title": "Backward plan from the brief",
+          "learnerActions": [
+            "Take a real assessment brief and write the deadline at the end of a timeline",
+            "Work backwards, adding dated stages: final check, revision, drafting, planning, reading, task analysis",
+            "Add buffer time and mark clashes with other deadlines",
+            "Compare plans with a partner and justify your time allocations"
+          ],
+          "intendedInsight": "Starting from the deadline shows how early work must begin.",
+          "rationale": "Breaking a distant deadline into dated stages reduces the delay between intention and action; Steel (2007) links procrastination partly to the distance of rewards and deadlines.",
+          "citations": [
+            "steel2007"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I work best under pressure', with work routinely started the night before.",
+          "kind": "performance",
+          "revealedBy": "Late submissions, all-night sessions, drafts with no time left for revision.",
+          "response": "Use estimate-versus-actual data and the quality of revision as evidence. Introduce small first steps with fixed start times. Do not moralise about laziness, which tends to increase avoidance.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Underestimating reading time in English, for example planning to read 30 dense pages in an hour.",
+          "kind": "developmental",
+          "revealedBy": "Unfinished reading, plans that collapse in the first week.",
+          "response": "Have learners time themselves on actual course texts and plan selective reading. Reading rates on dense academic texts are typically far slower than on familiar material, so plans must be realistic.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Treating timetabled contact hours as the whole workload.",
+          "kind": "prior-schooling",
+          "revealedBy": "Weekly plans containing only classes; surprise at the workload before deadlines.",
+          "response": "Make notional study hours explicit using module credit information and show what fills the non-contact time.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to show their plan for the next two weeks.",
+        "strongResponse": "Includes classes, scheduled independent study blocks, staged work on each assessment with buffers, and evidence of adjusting estimates.",
+        "partialResponse": "Lists deadlines and classes but has no staged work or study blocks.",
+        "gapResponse": "Has no written plan, or a plan of deadlines only."
+      },
+      "contextNotes": "Foundation learners need explicit work on weekly planning and the shift from school timetables. Pre-sessional learners manage intense, short courses with stacked deadlines. In-sessional UG and PGT learners must juggle concurrent modules (PGT especially, in a compressed year). PGR researchers manage long projects with self-set milestones, which links to researcher development frameworks.",
+      "citations": [
+        "kahneman2011",
+        "steel2007"
+      ],
+      "reviewNotes": [
+        "The additional time cost of reading and writing in an L2 is widely reported by practitioners; no specific source from the bibliography is attached to that claim.",
+        "steel2007 is a proposed reference pending verification."
+      ]
+    },
+    {
+      "topicId": "lrn.independent-study",
+      "summary": "Wingate (2006) argues that learning to learn should be developed within subject learning rather than taught as detached 'study skills', which suggests teaching independent study through real module materials. Benson (2011) shows that autonomy develops through practice in making learning decisions. Make the hidden arithmetic of notional learning hours explicit, then model what productive independent study looks like for particular sessions and assessments. Note that credit conventions differ across systems and institutions, so learners should check their own handbook.",
+      "activities": [
+        {
+          "title": "Hours arithmetic and audit",
+          "learnerActions": [
+            "Using your module handbook, calculate the expected total study hours and subtract contact hours",
+            "Divide the remainder by the number of teaching weeks",
+            "Compare the result with the independent study you actually did last week",
+            "List what the extra hours should contain for this module"
+          ],
+          "intendedInsight": "Most of the expected learning time happens outside class, and it needs content as well as time.",
+          "rationale": "Making tacit expectations explicit is a precondition for learners being able to meet them; Wingate argues for developing such understanding within the subject context.",
+          "citations": [
+            "wingate2006"
+          ]
+        },
+        {
+          "title": "Before-and-after session plan",
+          "learnerActions": [
+            "Choose one lecture or seminar for next week",
+            "Plan preparation: pre-reading, key vocabulary, two questions to bring",
+            "Plan consolidation: a summary from memory, self-test questions, follow-up reading",
+            "At the end of the week, record what you did and whether the session was easier to follow"
+          ],
+          "intendedInsight": "Independent study is most useful when tied to specific sessions and tasks.",
+          "rationale": "Linking independent work to particular sessions gives learners decisions to make within a structure, which Benson identifies as the way autonomy develops.",
+          "citations": [
+            "benson2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'If there's no homework, there's nothing to do.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Little independent activity between sessions; unpreparedness in seminars.",
+          "response": "Make preparation and consolidation tasks visible and model them, then gradually withdraw explicit instructions.",
+          "reteachPrerequisiteId": "lrn.autonomy"
+        },
+        {
+          "pattern": "Independent study consists mainly of rereading lecture slides.",
+          "kind": "conceptual",
+          "revealedBy": "Study logs dominated by passive review; weak recall on self-tests.",
+          "response": "Introduce retrieval-based consolidation and show its results in learners' own self-tests.",
+          "reteachPrerequisiteId": "lrn.study-techniques"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What did you do last week outside class for one of your modules, and how did it connect to what happened in class?'",
+        "strongResponse": "Describes specific preparation and consolidation linked to particular sessions or assessments, with a rough sense of time.",
+        "partialResponse": "Describes relevant activity with no clear link to sessions, or a link with no specific activity.",
+        "gapResponse": "Describes no independent activity, or only completing set homework."
+      },
+      "contextNotes": "Foundation programmes often provide the first experience of large blocks of unstructured time, so explicit modelling is essential. Pre-sessional courses can simulate the expectation with scheduled self-access time. In-sessional UG and PGT learners should apply the approach to their actual modules, where PGT intensity makes planning urgent.",
+      "citations": [
+        "wingate2006",
+        "benson2011"
+      ],
+      "reviewNotes": [
+        "The ten-hours-per-credit convention is a UK example; credit systems differ elsewhere (for example ECTS and US credit hours)."
+      ]
+    },
+    {
+      "topicId": "lrn.study-techniques",
+      "summary": "Dunlosky et al. (2013) rated practice testing and distributed practice as high-utility techniques across learners, materials and tasks, and rated highlighting, rereading and summarisation as typically practised as low-utility. Roediger and Karpicke (2006) found that retrieval practice outperformed restudy on delayed tests even though restudy looked better on an immediate test, and that students predicted the opposite. Cepeda et al. (2006) found that spacing benefits recall, with the best gap between sessions growing as the retention interval grows. Most of this evidence concerns content learning by L1 learners; in EAP, apply it explicitly to vocabulary and formulaic language as well as to subject material.",
+      "activities": [
+        {
+          "title": "Restudy versus retrieve mini-experiment",
+          "learnerActions": [
+            "Take two matched sets of ten academic collocations from your reading",
+            "Study set A by rereading it three times; study set B by reading it once and then testing yourself twice from memory",
+            "Predict which set you will remember better",
+            "Test both sets one week later and compare your results with your prediction"
+          ],
+          "intendedInsight": "Retrieving information is a stronger learning event than looking at it again, even though it feels harder.",
+          "rationale": "The activity reproduces the logic of Roediger and Karpicke's (2006) restudy and testing comparison at classroom scale. Treat class results as an illustration, not as proof.",
+          "citations": [
+            "roediger2006"
+          ]
+        },
+        {
+          "title": "Notes to questions",
+          "learnerActions": [
+            "Write retrieval questions in the margin of your lecture or reading notes",
+            "Cover the notes and answer the questions one day later, then one week later, then before the assessment",
+            "Mark which answers you got wrong and spend extra time on those items"
+          ],
+          "intendedInsight": "Notes become a self-testing tool rather than something to reread.",
+          "rationale": "This combines practice testing and distributed practice, the two techniques Dunlosky et al. (2013) rated most highly; Cepeda et al. (2006) indicate that gaps should lengthen as the test date moves further away.",
+          "citations": [
+            "dunlosky2013",
+            "cepeda2006"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Testing myself is for checking at the end, not for learning.' Learners avoid self-testing because errors feel discouraging.",
+          "kind": "conceptual",
+          "revealedBy": "Self-testing used only once, just before the exam; reluctance to attempt recall before rereading.",
+          "response": "Present retrieval errors as productive and keep early self-tests low-stakes and ungraded. Show learners their own delayed-test results.",
+          "reteachPrerequisiteId": "lrn.metacognitive-knowledge"
+        },
+        {
+          "pattern": "Highlighting and rewriting notes neatly are treated as studying.",
+          "kind": "prior-schooling",
+          "revealedBy": "Colour-coded, carefully copied notes alongside weak recall.",
+          "response": "Do not ban these habits; reposition them as preparation for retrieval (for example, highlight only what you will turn into a question).",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Abandoning spacing because cramming produces better results on a next-day quiz.",
+          "kind": "performance",
+          "revealedBy": "Learners report that cramming 'works' on the basis of immediate tests.",
+          "response": "Test again after a delay so learners see the difference in retention. Do not rely on assertion alone; the immediate benefit of cramming is real, which is why the long-term cost is easy to miss.",
+          "reteachPrerequisiteId": "lrn.metacognitive-knowledge"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to describe exactly what they did the last time they prepared for a test or quiz.",
+        "strongResponse": "Describes self-testing spread over several sessions, with time reallocated to items they got wrong.",
+        "partialResponse": "Uses some self-testing, but in a single session or only at the end.",
+        "gapResponse": "Describes only rereading, highlighting or copying notes, usually in one session."
+      },
+      "contextNotes": "Foundation learners benefit most from explicit work because they will face content exams. On pre-sessional courses, apply the techniques mainly to vocabulary and phraseology. In in-sessional UG and PGT provision, link them to module content and exam preparation, ideally in collaboration with subject staff.",
+      "citations": [
+        "dunlosky2013",
+        "roediger2006",
+        "cepeda2006",
+        "bjork2013"
+      ],
+      "reviewNotes": [
+        "Dunlosky et al.'s utility ratings rest mainly on studies with L1 learners and content material; their application to L2 vocabulary and academic phraseology is plausible and consistent with vocabulary research but should be presented as an extrapolation."
+      ]
+    },
+    {
+      "topicId": "lrn.language-learning-strategies",
+      "summary": "Oxford's (1990) taxonomy distinguishes direct strategies (memory, cognitive, compensation) from indirect ones (metacognitive, affective, social) and argues that strategies can be taught. Plonsky's (2011) meta-analysis found an overall positive effect of strategy instruction, varying by context and strategy type. Effectiveness depends on how well strategies are combined and fitted to tasks; using more strategies more often is not in itself a sign of a good learner. In EAP, teach strategies explicitly with real academic targets, then model, practise and have learners evaluate them.",
+      "activities": [
+        {
+          "title": "Strategy cluster for a disciplinary target",
+          "learnerActions": [
+            "Choose a reading from your field and notice ten phrases you could use in your own writing",
+            "Record each with its form, meaning, an example and the context in which it appeared",
+            "Plan when you will test yourself on them",
+            "Use at least three in your next piece of writing and check them with a corpus or dictionary",
+            "After two weeks, evaluate which steps helped and which you will keep"
+          ],
+          "intendedInsight": "Several strategies working together on one concrete target are more effective than isolated tips.",
+          "rationale": "Oxford's categories describe complementary strategy types; combining cognitive, memory and metacognitive strategies on one target reflects the emphasis on orchestration rather than frequency of use.",
+          "citations": [
+            "oxford1990"
+          ]
+        },
+        {
+          "title": "Strategy exchange",
+          "learnerActions": [
+            "Try one new strategy for a week",
+            "Bring evidence of its effect (a self-test result, a feedback comment, a recording)",
+            "Present the strategy and the evidence to a small group in two minutes",
+            "Choose one strategy from a peer to try next week"
+          ],
+          "intendedInsight": "Strategies should be judged by evidence of their effect, and peers are a source of tested options.",
+          "rationale": "Plonsky (2011) found that strategy instruction can be effective, and asking learners to evaluate strategies themselves builds the metacognitive judgement needed to continue without a teacher.",
+          "citations": [
+            "plonsky2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'The more strategies I use, the better learner I am.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Long strategy lists with nothing evaluated; questionnaire answers claiming frequent use of everything.",
+          "response": "Focus on fit and evaluation: ask which strategy served which target and what the evidence was.",
+          "reteachPrerequisiteId": "lrn.self-regulation"
+        },
+        {
+          "pattern": "Using the L1 or translation is seen either as cheating or as the only strategy available.",
+          "kind": "prior-schooling",
+          "revealedBy": "Hidden use of translation tools, or exclusive reliance on them for all reading and writing.",
+          "response": "Present the plurilingual repertoire as a resource and teach when L1 use helps (securing a concept, planning) and when it may limit development (composing everything through translation).",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Strategies practised in class are not used in independent study.",
+          "kind": "performance",
+          "revealedBy": "Good use during lessons; no trace in study logs or later work.",
+          "response": "Build planned independent application and a report-back into the course. Do not assume that demonstrating a strategy once will lead to transfer.",
+          "reteachPrerequisiteId": "lrn.autonomy"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What do you do when you meet a useful academic phrase in your reading?'",
+        "strongResponse": "Describes noticing, recording form and use, planned retrieval and trying it in writing, with some check of accuracy.",
+        "partialResponse": "Records it but has no plan to review or use it.",
+        "gapResponse": "Does nothing specific, or only translates it in the margin."
+      },
+      "contextNotes": "Foundation and pre-sessional courses can teach strategies explicitly with weekly practice. In-sessional UG and PGT learners need strategies they can apply to their own disciplinary texts with very little class time, so focus on a small set of high-yield strategies.",
+      "citations": [
+        "oxford1990",
+        "plonsky2011"
+      ],
+      "reviewNotes": [
+        "Strategy taxonomies, including Oxford's, have been criticised for overlapping categories and for relying on questionnaire measures; treat the categories as a teaching heuristic.",
+        "plonsky2011 is a proposed reference pending verification."
+      ]
+    },
+    {
+      "topicId": "lrn.reflective-logs",
+      "summary": "Moon (2004) treats learning journals as tools for deepening learning and notes that reflection ranges from descriptive to deeper levels and needs to be taught rather than assumed. In terms of self-regulation (Zimmerman, 2002), a log makes self-monitoring and self-evaluation visible. Keep entries short, frequent and structured by prompts linked to goals. Assessing logs on length or emotional disclosure tends to produce performative writing rather than learning.",
+      "activities": [
+        {
+          "title": "Three-line weekly log",
+          "learnerActions": [
+            "Each week write three lines: my goal; what I did and the evidence of its effect; my next step",
+            "Every four weeks, reread the entries and highlight any patterns",
+            "Revise your goals on the basis of those patterns"
+          ],
+          "intendedInsight": "A short, structured log is easier to keep up and produces evidence you can act on.",
+          "rationale": "The structure mirrors the self-monitoring and self-evaluation processes in Zimmerman's model, so each entry feeds the next planning decision.",
+          "citations": [
+            "zimmerman2002"
+          ]
+        },
+        {
+          "title": "From description to analysis",
+          "learnerActions": [
+            "Compare two sample entries about the same week, one descriptive and one analytical",
+            "Identify what the analytical entry does that the descriptive one does not (explains causes, cites evidence, decides next steps)",
+            "Rewrite one of your own recent entries to make it analytical"
+          ],
+          "intendedInsight": "Reflection is useful when it explains and leads to decisions, not when it only reports what happened.",
+          "rationale": "Moon describes levels of reflective depth and argues that learners need to be shown what deeper reflection looks like.",
+          "citations": [
+            "moon2004"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Writing what the teacher seems to want to read rather than honest evaluation.",
+          "kind": "prior-schooling",
+          "revealedBy": "Uniformly positive entries; formulaic phrases about 'learning a lot'.",
+          "response": "Keep logs low-stakes, make clear who reads them and why, and value specific evidence over positive tone. Do not grade on depth of disclosure.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Entries list activities without analysis.",
+          "kind": "developmental",
+          "revealedBy": "Entries such as 'Monday: read chapter 3. Tuesday: wrote paragraph.'",
+          "response": "Add question prompts (Why? What evidence? What next?) and model an analytical entry. Do not simply tell learners to 'be more reflective', which gives no direction.",
+          "reteachPrerequisiteId": "lrn.goal-setting"
+        },
+        {
+          "pattern": "The log is abandoned when workload rises.",
+          "kind": "performance",
+          "revealedBy": "Gaps in entries that coincide with deadlines.",
+          "response": "Keep the format minimal, and schedule a brief in-class log slot during busy periods.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to read aloud their most recent log entry and say what decision it led to.",
+        "strongResponse": "The entry links an action to evidence, and the learner names a concrete decision that followed.",
+        "partialResponse": "The entry contains some evaluation, but no decision followed from it.",
+        "gapResponse": "The entry is purely descriptive, or no recent entry exists."
+      },
+      "contextNotes": "Foundation and pre-sessional courses often require logs; keep them short and tied to goals and progression. In in-sessional UG and PGT contexts, a brief log can support work on feedback across modules. For PGR researchers, research diaries serve related but broader purposes, linked to reflexivity and research records.",
+      "citations": [
+        "moon2004",
+        "zimmerman2002"
+      ],
+      "reviewNotes": [
+        "Evidence that learning logs improve language outcomes is mixed and context-dependent; their value probably depends on whether entries feed actual decisions and dialogue with a tutor."
+      ]
+    },
+    {
+      "topicId": "lrn.support-services",
+      "summary": "Support provision has often been framed as remedial, and Wingate (2015) argues for inclusive academic literacy development for all students instead of deficit-based support for some. Sloan and Porter (2010) show that perceptions of in-sessional EAP can change when provision is contextualised and embedded in disciplinary teaching. Present support services as used by successful students, and teach learners how to prepare for an appointment so that the time is productive.",
+      "activities": [
+        {
+          "title": "Scenario-based service search",
+          "learnerActions": [
+            "In pairs, receive six realistic scenarios (for example, a statistics question, a reference-list problem, a mark you do not understand, ongoing anxiety)",
+            "Use your institution's web pages to find the right service and how to book it",
+            "Note what each service will and will not do"
+          ],
+          "intendedInsight": "Support is specialised, and knowing which service does what saves time and frustration.",
+          "rationale": "Making provision visible and normal counters the remedial framing that Wingate (2015) identifies as a barrier.",
+          "citations": [
+            "wingate2015"
+          ]
+        },
+        {
+          "title": "Appointment preparation",
+          "learnerActions": [
+            "Prepare a one-page appointment sheet: the task, your specific question, what you have tried, and relevant materials such as the draft, brief or feedback",
+            "Role-play the first two minutes of the appointment with a partner",
+            "After a real appointment, record two things you learned"
+          ],
+          "intendedInsight": "A specific, prepared request gets far more useful help than 'Can you check my essay?'",
+          "rationale": "Sloan and Porter (2010) show that the perceived value of in-sessional support depends partly on how well it connects to students' actual disciplinary tasks; preparation makes that connection explicit.",
+          "citations": [
+            "sloanporter2010"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Using support means I'm failing or weak.'",
+          "kind": "affective",
+          "revealedBy": "Learners who are struggling but do not book appointments; support sought only after a fail.",
+          "response": "Normalise use by inviting service staff into class and sharing anonymised accounts of strong students who used support.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Expecting a writing or language centre to proofread or correct the whole text.",
+          "kind": "conceptual",
+          "revealedBy": "Drafts handed over with a request to 'fix the English'.",
+          "response": "Explain what advisory services do and why, linking to institutional rules on proofreading and authorship.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Unfamiliarity with services that were absent or organised differently in the learner's previous institution.",
+          "kind": "prior-schooling",
+          "revealedBy": "Surprise that such services exist; uncertainty about whom to ask.",
+          "response": "Provide an explicit map of services early and revisit it at points of need such as the first assignment and exam season.",
+          "reteachPrerequisiteId": "acu.university-structures"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'If you didn't understand a comment on your essay and your tutor was unavailable, where else could you go, and what would you take?'",
+        "strongResponse": "Names an appropriate service, how to access it, and specific materials to bring.",
+        "partialResponse": "Names a service but has no idea how to prepare, or is unsure what it offers.",
+        "gapResponse": "Cannot name a service other than the tutor, or would not seek help."
+      },
+      "contextNotes": "Foundation and pre-sessional learners need an explicit map of services before they reach the degree. In-sessional UG and PGT learners should be prompted at points of need. PGR researchers should know about doctoral college, researcher development and thesis-writing provision as well as general services.",
+      "citations": [
+        "wingate2015",
+        "sloanporter2010"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "lrn.wellbeing",
+      "summary": "Zhou et al. (2008) review stress-and-coping, culture-learning and social-identification models of international students' adjustment, which frame difficulties as responses to change rather than personal failings and point to both coping resources and skills that can be learned. EAP teachers are not counsellors: their role is to normalise pressure, help learners plan around predictable workload peaks and refer appropriately. Avoid generic wellness lectures; connect the topic to learners' actual calendar.",
+      "activities": [
+        {
+          "title": "Term pressure map",
+          "learnerActions": [
+            "Mark every deadline and exam for the next term on a single calendar",
+            "Shade the weeks where pressure will peak",
+            "For each peak, write two protective actions you will take beforehand (start earlier, reduce other commitments, arrange support)",
+            "Revisit the map at mid-term"
+          ],
+          "intendedInsight": "Many pressure points are predictable and can be planned for.",
+          "rationale": "Treating stress as a predictable response to demands, as stress-and-coping models do, shifts attention to planning and coping resources.",
+          "citations": [
+            "zhou2008"
+          ]
+        },
+        {
+          "title": "Who to contact, and when",
+          "learnerActions": [
+            "Sort scenarios by level of concern: everyday stress, persistent difficulty, urgent risk",
+            "Match each to an appropriate response or service, including urgent routes",
+            "Check your institution's web pages for the actual contact routes"
+          ],
+          "intendedInsight": "Different levels of concern call for different responses, and knowing the route in advance makes it easier to act.",
+          "rationale": "Knowing what support exists is a coping resource in its own right; this activity builds that knowledge before it is needed.",
+          "citations": [
+            "zhou2008"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Sleep is wasted time before exams.'",
+          "kind": "prior-schooling",
+          "revealedBy": "All-night study before assessments; tiredness in exams.",
+          "response": "Discuss the cost to performance of exhaustion and plan revision so that late nights are not needed. Do not lecture; connect to the learner's own experience of tired performance.",
+          "reteachPrerequisiteId": "lrn.time-management"
+        },
+        {
+          "pattern": "Reluctance to disclose difficulties or seek help because of stigma or fear of consequences.",
+          "kind": "affective",
+          "revealedBy": "Disengagement without explanation; sudden drops in attendance or quality.",
+          "response": "Normalise help-seeking, clarify confidentiality where accurate, and make referral routes visible.",
+          "reteachPrerequisiteId": "lrn.support-services"
+        },
+        {
+          "pattern": "Isolation in the first term as previous support networks are no longer close at hand.",
+          "kind": "affective",
+          "revealedBy": "Learners who rarely speak to peers outside class; reports of loneliness.",
+          "response": "Build structured peer contact into the course, such as study groups, and point to social and community opportunities.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'When is your busiest point this term, and what will you do differently that week?'",
+        "strongResponse": "Identifies the peak and names specific protective actions taken in advance.",
+        "partialResponse": "Identifies the peak, but the plan is only to work more.",
+        "gapResponse": "Cannot identify the peak or has no plan."
+      },
+      "contextNotes": "Foundation and pre-sessional learners are often in their first period away from home and on intensive timetables. In-sessional UG learners face first-year assessment clusters; PGT learners face a compressed year. PGR researchers face long unstructured timelines and isolation, so the topic links to supervision and researcher development.",
+      "citations": [
+        "zhou2008"
+      ],
+      "reviewNotes": [
+        "This topic should be taught in coordination with institutional wellbeing services; teachers should not offer clinical advice.",
+        "No bibliography source specifically addresses sleep and academic performance; claims about sleep are kept general."
+      ]
+    },
+    {
+      "topicId": "lrn.content-through-english",
+      "summary": "Mohan (1986) argued that language and content should be integrated because language is the medium of learning in every subject. The systematic review by Macaro et al. (2018) indicates that the language demands of English-medium subject study are substantial and that gains in content and language cannot be taken for granted. Dafouz and Smit (2016) emphasise that English-medium education varies by context, agents and practices. In EAP, help learners anticipate the double load and develop routines for separating, and then connecting, language and concept problems.",
+      "activities": [
+        {
+          "title": "Language or concept?",
+          "learnerActions": [
+            "Read a passage from a textbook in your subject",
+            "Mark each difficulty L (language: word, grammar) or C (concept: unfamiliar idea)",
+            "Choose a different repair for each type: dictionary or glossary for L; textbook glossary, L1 source or worked example for C",
+            "Explain the passage to a partner and check whether both kinds of difficulty were resolved"
+          ],
+          "intendedInsight": "Not every comprehension problem is a language problem, and the repair should match the cause.",
+          "rationale": "Mohan's integration of language and content implies that learners need to handle both dimensions; separating them first helps learners choose effective repair strategies.",
+          "citations": [
+            "mohan1986"
+          ]
+        },
+        {
+          "title": "Two-level explanation",
+          "learnerActions": [
+            "Choose a key concept from your subject",
+            "Explain it in two or three sentences using the technical terms",
+            "Explain it again for a non-specialist friend",
+            "Compare the two versions: which words changed, and what had to be added?"
+          ],
+          "intendedInsight": "Moving between technical and everyday expression shows, and strengthens, understanding of both the concept and the language.",
+          "rationale": "Maton's (2013) notion of semantic waves describes knowledge-building as movement between abstract, condensed meanings and concrete, simpler ones; this activity asks learners to make that movement deliberately.",
+          "citations": [
+            "maton2013"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Translating every term and still not grasping the concept, especially with sub-technical words (for example, 'significant' or 'power') whose disciplinary meaning differs from the everyday one.",
+          "kind": "conceptual",
+          "revealedBy": "Correct translations alongside wrong explanations; confusion when the everyday meaning is applied.",
+          "response": "Highlight sub-technical polysemy and require learners to explain concepts, not just translate terms.",
+          "reteachPrerequisiteId": "voc.lexical-coverage"
+        },
+        {
+          "pattern": "'Content is the subject teacher's job; English is the language teacher's job.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Learners keep subject and language learning separate and do not apply language strategies to subject texts.",
+          "response": "Use authentic subject texts in EAP lessons and, where possible, co-plan with subject staff.",
+          "reteachPrerequisiteId": "lrn.language-learning-strategies"
+        },
+        {
+          "pattern": "Overload in early weeks when both content and language are new.",
+          "kind": "affective",
+          "revealedBy": "Reports of understanding 'nothing'; withdrawal in subject classes.",
+          "response": "Pre-teach key terms, encourage strategic L1 use for securing concepts, and build background knowledge before dense input.",
+          "reteachPrerequisiteId": "rdp.background-knowledge"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to explain a concept from this week's subject teaching and to say what made it difficult.",
+        "strongResponse": "Explains the concept accurately using the discipline's terms and distinguishes language from conceptual difficulties.",
+        "partialResponse": "Uses the terms correctly but explains the concept vaguely, or explains it well only in the L1.",
+        "gapResponse": "Cannot explain the concept or attributes all difficulty to 'the English'."
+      },
+      "contextNotes": "This topic is central in foundation programmes and in transnational or English-medium contexts where subject content and English are taught together. On content-based pre-sessional courses it shapes text choice. In-sessional UG and PGT learners meet it when entering a new discipline, and PGT students changing field face a particularly steep double load.",
+      "citations": [
+        "mohan1986",
+        "macaro2018emi",
+        "dafouzsmit2016"
+      ],
+      "reviewNotes": []
+    }
+  ],
+  "proposedReferences": [
+    {
+      "key": "bjork2013",
+      "apa": "Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444.",
+      "doi": "10.1146/annurev-psych-113011-143823",
+      "note": "High confidence in authors, title, venue, volume and pages; DOI believed correct. Used for the claim that learners' judgements of learning are biased by fluency and familiarity and that learners often prefer less effective techniques."
+    },
+    {
+      "key": "gollwitzer1999",
+      "apa": "Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503.",
+      "doi": "10.1037/0003-066X.54.7.493",
+      "note": "High confidence. Used only for the general claim that if–then plans support goal attainment; evidence is from social and health psychology."
+    },
+    {
+      "key": "steel2007",
+      "apa": "Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin, 133*(1), 65–94.",
+      "doi": "10.1037/0033-2909.133.1.65",
+      "note": "High confidence. Used for the claim that procrastination is common and associated with task aversiveness, impulsiveness and the timing of rewards."
+    },
+    {
+      "key": "plonsky2011",
+      "apa": "Plonsky, L. (2011). The effectiveness of second language strategy instruction: A meta-analysis. *Language Learning, 61*(4), 993–1038.",
+      "note": "Fairly high confidence in authors, title, journal, volume, issue and pages; DOI omitted because not certain. Used for the claim that strategy instruction has an overall positive effect that varies by context and strategy type."
+    },
+    {
+      "key": "winstone2017",
+      "apa": "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting learners' agentic engagement with feedback: A systematic review and a taxonomy of recipience processes. *Educational Psychologist, 52*(1), 17–37.",
+      "note": "Fairly high confidence in all details; DOI omitted because not certain. Used for the claim that engagement with feedback depends on learners' recipience processes (self-appraisal, assessment literacy, goal setting and self-regulation, engagement and motivation)."
+    },
+    {
+      "key": "odonovan2004",
+      "apa": "O'Donovan, B., Price, M., & Rust, C. (2004). Know what I mean? Enhancing student understanding of assessment standards and criteria. *Teaching in Higher Education, 9*(3), 325–335.",
+      "note": "Fairly high confidence in authors, title, journal and year; volume, issue and pages believed correct but should be checked; DOI omitted. Used for the claim that explicit criteria alone do not convey tacit standards and need to be combined with exemplars and dialogue."
+    },
+    {
+      "key": "ramirez2011",
+      "apa": "Ramirez, G., & Beilock, S. L. (2011). Writing about testing worries boosts exam performance in the classroom. *Science, 331*(6014), 211–213.",
+      "doi": "10.1126/science.1199427",
+      "note": "High confidence. Used for the claim that brief expressive writing about test worries before an exam improved the performance of highly anxious students in laboratory and classroom studies; later replication results should be checked before strong claims are made."
+    },
+    {
+      "key": "alderson1993washback",
+      "apa": "Alderson, J. C., & Wall, D. (1993). Does washback exist? *Applied Linguistics, 14*(2), 115–129.",
+      "doi": "10.1093/applin/14.2.115",
+      "note": "High confidence. Used for the claim that the influence of tests on teaching and learning (washback) is complex and cannot be assumed to be simple or uniformly positive or negative."
+    },
+    {
+      "key": "joughin1998",
+      "apa": "Joughin, G. (1998). Dimensions of oral assessment. *Assessment & Evaluation in Higher Education, 23*(4), 367–378.",
+      "note": "Moderate confidence in volume, issue and pages; author, year, title and journal believed correct; DOI omitted. Used for the claim that oral assessments in higher education vary along several dimensions (for example, what is assessed, interaction, authenticity, structure)."
+    },
+    {
+      "key": "haladyna2002",
+      "apa": "Haladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. *Applied Measurement in Education, 15*(3), 309–333.",
+      "note": "Fairly high confidence in authors, title, journal and year; volume, issue and pages believed correct but should be checked; DOI omitted. Used for the claim that item-writing guidance advises against negatively worded stems and absolute terms such as 'always' and 'never'."
+    }
+  ],
+  "authorNotes": [
+    "lrn.metacognitive-knowledge and lrn.motivation are treated as entry points within the strand; lrn.self-regulation depends on metacognitive knowledge rather than the reverse.",
+    "Direction assumptions made to keep the global graph acyclic: other strands should point TO lrn.study-techniques (e.g., voc.deliberate-learning-systems, ntk.reviewing-notes), lrn.time-management (e.g., wpr.managing-long-projects, res.writing-productivity) and lrn.goal-setting, not the reverse. I did not link lrn.wellbeing to acu.transition to avoid a likely cycle; editors should decide one direction (suggest acu.transition <- lrn.wellbeing as soft).",
+    "lrn.reflective-logs (a learning tool) is distinct from ges.reflective-writing and dhl.reflective-practice (assessed genres); suggest those genre topics take lrn.reflective-logs as a soft prerequisite.",
+    "lrn.content-through-english overlaps with acu.emi-tne; I avoided linking them in either direction. Suggest acu.emi-tne (context) be a soft prerequisite of lrn.content-through-english, or that the scope notes be sharpened so one describes contexts and the other the learning strategy."
+  ]
+}

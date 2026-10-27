@@ -1,0 +1,2608 @@
+{
+  "group": "15-socialisation",
+  "domains": [
+    {
+      "code": "ACU",
+      "strand": "Academic Socialisation & Communication",
+      "name": "Academic Culture & Expectations",
+      "summary": "Makes explicit how universities and disciplines are organised, what they expect of learners and how those expectations are communicated, often tacitly. The domain moves from orientation knowledge (structures, teaching formats, roles and address) through discourse-community and disciplinary awareness to perspectives (academic literacies, critical EAP, EMI and transnational education) that treat conventions as situated, variable and open to question rather than as fixed norms to be absorbed. Throughout, difficulty is framed as a mismatch between practices, not as a deficit in the learner.",
+      "learnerSummary": "You will learn how your university and your discipline work, what is expected of you (including things nobody says out loud), and how to adapt to these expectations and, where appropriate, question them.",
+      "stageEmphasis": {
+        "foundation": "Orientation to structures, teaching formats, forms of address and independent study, taught through real institutional documents at the point of need rather than in one-off information sessions.",
+        "pre-sessional": "Explicit comparison of prior and target practices, decoding tacit expectations in tasks and feedback, a first look at disciplinary difference, and transition support integrated into language work.",
+        "in-sessional-ug": "Disciplinary expectations, discourse communities and tacit criteria in the student's own modules, ideally embedded or co-taught with subject staff.",
+        "in-sessional-pgt": "Rapid orientation within compressed one-year programmes, disciplinary knowledge-making for students changing field, and academic literacies perspectives that help students interpret feedback.",
+        "pgr": "Doctoral expectations of independence, disciplinary epistemologies, the researcher's place in research communities, and critical perspectives on English-medium scholarship."
+      },
+      "keyReferences": [
+        "leastreet1998",
+        "swales1990",
+        "becher2001",
+        "zhou2008",
+        "benesch2001",
+        "dafouzsmit2016",
+        "wingate2015"
+      ]
+    },
+    {
+      "code": "PRG",
+      "strand": "Academic Socialisation & Communication",
+      "name": "Academic Pragmatics & Correspondence",
+      "summary": "Covers the sociopragmatic and pragmalinguistic resources learners need to interact with staff and peers outside the core academic genres: politeness and face, requests, apologies and accounts, emails, office hours, formal institutional statements, forum posts, channel choice and acknowledgements. Interlanguage pragmatics research shows that pragmatic competence does not keep pace with grammatical development without attention, and that staff judge messages on perceived politeness and clarity as well as accuracy. Norms are presented as variable across institutions, countries and individuals; the aim is informed, context-sensitive choice, not one correct formula.",
+      "learnerSummary": "You will learn how to write emails, make requests, apologise, take part in meetings and online discussions, and write formal statements in ways that are clear and appropriate for the people you are communicating with.",
+      "stageEmphasis": {
+        "foundation": "Core forms of address, request and apology language, and email structure, practised on real tasks such as contacting a tutor or reporting an absence.",
+        "pre-sessional": "Calibrating politeness to power, distance and imposition; email and office-hour rehearsal for the destination institution; forum participation on the course VLE.",
+        "in-sessional-ug": "Applying pragmatic knowledge to real situations as they arise (extensions, feedback tutorials, assessed forums, extenuating circumstances claims), with attention to local norms.",
+        "in-sessional-pgt": "Efficient, well-judged correspondence and meetings within a compressed timeline, including requests for references and dissertation-related contact.",
+        "pgr": "High-imposition requests to supervisors, external researchers and gatekeepers, multichannel professional communication, and acknowledgements in theses and articles."
+      },
+      "keyReferences": [
+        "brownlevinson1987",
+        "kasperrose2002",
+        "biesenbach2007",
+        "economidou2011"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "acu.university-structures",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "How universities are organised",
+      "description": "Identify the organisational units (faculty, school, department, programme, module), staff roles (module leader, personal tutor, programme director, supervisor, professional services staff) and decision-making processes (programme regulations, assessment boards, student representation) that affect one's study, and use this knowledge to find information and the right person to contact. Organisational knowledge underpins effective help-seeking and correspondence, and terms and structures vary considerably between institutions and countries.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Locates, in a real programme or module handbook, who is responsible for teaching, assessment, extensions and pastoral support",
+        "Distinguishes academic roles (module leader, personal tutor, supervisor) from professional services roles (programme administrator, student support adviser) and states which to contact for a given issue",
+        "Explains how modules, credits and programme regulations combine to determine progression and the final award at their own institution",
+        "Identifies where formal decisions are made (for example, assessment or extenuating circumstances boards) and what students can and cannot influence",
+        "Notes differences between the current institution and previous educational experience without treating either as the norm"
+      ],
+      "assessmentPrompt": "Give the learner their programme handbook and three scenarios (illness in the week of a deadline, a question about a lecture concept, a timetable clash). Ask whom they would contact first and where they found that. Check that each issue is routed to the correct role or process, that a handbook location is given, and that the learner does not default to the most senior academic for every problem.",
+      "citations": [
+        "wingate2006",
+        "jordan1997"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.read.orientation",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:rec.read.instructions",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "acu.teaching-formats",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Teaching and learning formats",
+      "description": "Recognise the purposes, participation expectations and preparation demands of the main formats of university teaching (lectures, seminars, tutorials, laboratory and studio sessions, workshops, and VLE-based or blended learning) and the relationship between timetabled contact and independent study. Knowing what each format is for lets learners prepare appropriately and interpret what counts as taking part.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "States, for each format on their timetable, its main purpose and what students are expected to do before, during and after it",
+        "Distinguishes formats in which listening and note-making dominate from those in which spoken contribution, practical work or critique is expected",
+        "Estimates the expected independent study time for a module from its credit value and contact hours and plans the week accordingly",
+        "Identifies the VLE resources attached to a module (recordings, readings, discussion boards, quizzes) and the role each plays in the module's design",
+        "Recognises that the same label (for example 'tutorial' or 'seminar') can denote different formats across departments and institutions, and checks local usage"
+      ],
+      "assessmentPrompt": "Show the learner one week's timetable and the VLE page for a real module. Ask what they would do to prepare for each session and what participation each session expects. Check that preparation for a lecture is distinguished from preparation for a seminar or lab, that independent study is planned, and that not every session is treated as content delivery.",
+      "citations": [
+        "ferristagg1996",
+        "biber2006",
+        "lynch2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.oral.live-audience",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "acu.academic-expectations",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Expectations of university learners",
+      "description": "Interpret commonly stated expectations of university learners (independent study, critical engagement with sources, contribution to discussion, responsibility for one's own learning) as situated practices whose meaning varies by discipline, level and institution, rather than as fixed personal traits. Making these expectations concrete helps learners act on them and recognise where their prior experience already meets them.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Translates abstract expectations in programme documents (for example 'independent' or 'critical') into concrete behaviours for a specific module",
+        "Compares the expectations of two modules or levels and identifies where they differ",
+        "Identifies which of their existing study practices already meet stated expectations and which need adapting",
+        "Plans a week of independent study that reflects the module's stated learning hours and reading demands",
+        "Explains why 'critical thinking' and 'participation' are interpreted differently across disciplines and teachers"
+      ],
+      "assessmentPrompt": "Give the learner a module's learning outcomes or a programme's graduate attributes. Ask them to list three things a student would actually do in this module to meet one outcome. Check for concrete, observable behaviours tied to the module (not general virtues such as 'work hard') and for awareness that interpretations may vary.",
+      "citations": [
+        "wingate2015",
+        "lekicarson1997",
+        "atkinson1997"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "acu.hidden-curriculum",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Tacit expectations",
+      "description": "Identify the unstated conventions behind university tasks and feedback, such as what tutors mean by 'argument', 'structure', 'critical' or 'too descriptive', how criteria are applied in practice, and which behaviours are valued but not taught, and use questioning, exemplars and feedback to make them explicit. Tacit expectations disadvantage students whose prior schooling did not share them, so surfacing them is a matter of equity as well as skill.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies evaluative terms in feedback or criteria whose meaning is not self-evident and formulates questions to clarify them",
+        "Infers tacit expectations by comparing higher- and lower-graded exemplars and states them as explicit principles",
+        "Distinguishes expectations stated in documents from those that are only implied in feedback or practice",
+        "Recognises that different tutors may hold different tacit expectations for the same term, and checks rather than generalises",
+        "Uses office hours, feedback requests or peers deliberately to test hypotheses about what is expected"
+      ],
+      "assessmentPrompt": "Give the learner three authentic feedback comments ('needs more argument', 'too descriptive', 'good structure but lacks criticality'). Ask what each means and what they would change. Check whether each comment is translated into a specific textual action, ambiguity is flagged, and a clarifying question is proposed, rather than the comment being guessed at or treated as a language error.",
+      "citations": [
+        "leastreet1998",
+        "lillis2001",
+        "wingate2015",
+        "bond2020"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "acu.discourse-communities",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Discourse communities and disciplines",
+      "description": "Understand disciplines and other academic groups as discourse communities with shared goals, channels of communication, characteristic genres and specialised lexis, in which membership develops through participation over time. The concept helps learners see academic conventions as purposeful practices of particular communities rather than universal rules, while recognising that communities are internally diverse and their boundaries contested.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Describes their target discipline in terms of its goals, communication channels, valued genres and specialised vocabulary",
+        "Identifies at least two genres valued in their field and explains what each does for the community",
+        "Explains how newcomers gain membership (for example through assessed genres, supervision, conferences) and where they currently stand",
+        "Distinguishes conventions shared across academic communities from those specific to their discipline",
+        "Recognises disagreement and variation within a community rather than presenting it as homogeneous"
+      ],
+      "assessmentPrompt": "Ask the learner to profile their discipline as a discourse community using five prompts (goals, genres, lexis, channels, who judges quality). Check whether examples are discipline-specific rather than generically academic, and whether internal variation is acknowledged.",
+      "citations": [
+        "swales1990",
+        "hyland2004disciplinary",
+        "johns1997",
+        "duff2010"
+      ],
+      "frameworks": [
+        {
+          "key": "acrl:conversation",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "acu.disciplinary-knowledge",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Disciplinary knowledge-making",
+      "description": "Compare how disciplines construct knowledge (what counts as evidence, how claims are warranted, the role of theory, cumulative versus interpretive knowledge-building) and relate these differences to the genres, citation practices and stance valued in one's own field. Recognising epistemological difference explains why writing advice that works in one field misleads in another.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Describes what counts as legitimate evidence in their own field and contrasts it with a field of a different type (for example hard-pure versus soft-applied)",
+        "Relates a feature of disciplinary epistemology to a concrete textual feature such as citation density, hedging or self-mention",
+        "Identifies a threshold concept or characteristic way of thinking in their field and explains why it is troublesome for newcomers",
+        "Evaluates the usefulness and limits of broad typologies such as hard/soft and pure/applied for describing their own, possibly interdisciplinary, field",
+        "Adapts a piece of general writing advice to fit the knowledge-making practices of their discipline"
+      ],
+      "assessmentPrompt": "Give the learner two short extracts on a similar topic from contrasting disciplines (for example epidemiology and sociology). Ask what kind of evidence each relies on and how each signals confidence. Check that differences are linked to how each field builds and warrants knowledge, not merely to topic or individual style.",
+      "citations": [
+        "becher2001",
+        "biglan1973",
+        "hyland2004disciplinary",
+        "meyerland2005"
+      ],
+      "frameworks": [
+        {
+          "key": "acrl:authority",
+          "contribution": "related"
+        },
+        {
+          "key": "vitae-rdf:A1",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "acu.academic-literacies",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Academic literacies perspective",
+      "description": "Understand the academic literacies view of reading and writing as social practices shaped by identity, power and institutional context, as distinct from study-skills and academic socialisation models, and use it to interpret one's own experience of feedback, conventions and voice. The perspective reframes difficulty as arising from contested and often unstated expectations rather than from individual deficit.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Distinguishes the study skills, academic socialisation and academic literacies models and shows how each would explain the same writing difficulty",
+        "Analyses a feedback exchange in terms of differing tutor and student interpretations of what the task required",
+        "Identifies a point in their own writing where institutional conventions and their preferred identity or voice were in tension, and explains how they negotiated it",
+        "Explains why the perspective treats conventions as negotiable while acknowledging the real consequences of not meeting them"
+      ],
+      "assessmentPrompt": "Present a short case: a student is repeatedly told both to 'use your own voice' and to 'support every claim with sources'. Ask the learner to explain the student's difficulty first from a study-skills and then from an academic literacies perspective. Check whether the second explanation addresses contested expectations, identity and institutional responsibility, not only skill gaps.",
+      "citations": [
+        "leastreet1998",
+        "lillisscott2007",
+        "lillis2001",
+        "ivanic1998"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "acu.transition",
+      "type": "STRATEGIC",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Transition and adjustment",
+      "description": "Manage academic and sociocultural adjustment to a new educational context by identifying specific unfamiliar practices and sources of stress, learning the practices of the new setting, drawing on prior knowledge and multilingual repertoires, and building peer, academic and professional support. Adjustment is uneven and individual rather than a fixed sequence of stages, and it involves the institution adapting as well as the student.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies specific academic and social demands of the new context that differ from prior experience and plans a response to each",
+        "Names at least three sources of support (academic, peer, professional services) and has used at least one",
+        "Describes their adjustment in terms of concrete practices learned rather than a generalised 'culture shock' narrative",
+        "Identifies prior educational experience and languages as resources they have drawn on, not only as obstacles",
+        "Monitors wellbeing and academic progress over a term and adjusts strategies in response"
+      ],
+      "assessmentPrompt": "Ask the learner to talk or write for five minutes about one academic practice that surprised them on arrival and what they did about it. Check for a specific practice, a concrete action taken (asking, observing, using a service) and reflection on what transferred from prior experience, rather than general statements about cultural difference.",
+      "citations": [
+        "zhou2008",
+        "morita2004",
+        "leki2007"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:plu.pluricultural-repertoire",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "vitae-rdf:B1",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "acu.roles-address",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Academic roles and forms of address",
+      "description": "Choose appropriate forms of address and reference for academic and professional staff (titles such as Dr and Professor, first names, or no title) by checking local practice, the person's own signature or introduction, and the institutional relationship. Norms vary across institutions, countries, disciplines and individuals, and misjudged address in either direction can affect how a message is received.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Uses the recipient's email signature, staff profile or self-introduction as evidence when choosing a form of address",
+        "Defaults to title plus family name when local norms are unclear, and adjusts when invited to use a first name",
+        "Distinguishes academic titles (Dr, Professor) and explains why they are not interchangeable in many systems",
+        "Avoids address forms likely to sound marked in the local context, such as a bare role noun used as a title",
+        "Refers appropriately to third parties in correspondence (for example 'my supervisor, Dr Rahman')"
+      ],
+      "assessmentPrompt": "Give the learner four short staff signatures or profiles (a professor, a lecturer with a doctorate who signs with a first name, a programme administrator, a graduate teaching assistant). Ask how they would open an email to each. Check that choices are justified from the evidence given, that a safe default is used where evidence is lacking, and that the learner can explain when first-name address is acceptable.",
+      "citations": [
+        "economidou2011",
+        "brownlevinson1987",
+        "kasperrose2002"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "core"
+        }
+      ]
+    },
+    {
+      "id": "acu.critical-eap",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "Critical perspectives on EAP",
+      "description": "Examine whose norms EAP teaches, whose interests they serve and how they might be questioned or negotiated, including native-speaker standards, the dominance of English in scholarship and the pragmatic aim of fitting students to existing demands, and identify where learners can exercise informed choice or seek change. A critical perspective supports agency without pretending that conventions carry no consequences.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Distinguishes a pragmatic (accommodating) from a critical rationale for teaching a given convention",
+        "Identifies a requirement in their own context whose justification is contested and sets out reasoned arguments on more than one side",
+        "Explains how the dominance of English in publishing and higher education creates advantages and costs for differently positioned scholars",
+        "Proposes a legitimate means of questioning or negotiating a requirement (for example a query to a tutor or use of student representation) and anticipates its consequences",
+        "Treats their multilingual and prior academic resources as legitimate contributions to knowledge-making"
+      ],
+      "assessmentPrompt": "Give the learner a short policy statement (for example 'All written work must be in standard British English'). Ask who benefits from the requirement, what it might exclude, and what a student could legitimately do about it. Check for reasoned analysis of interests and consequences rather than either uncritical acceptance or blanket dismissal.",
+      "citations": [
+        "benesch2001",
+        "canagarajah2002",
+        "jenkins2014",
+        "dingbruce2017"
+      ],
+      "frameworks": [
+        {
+          "key": "acrl:authority",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "acu.emi-tne",
+      "type": "CONCEPTUAL",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Culture & Expectations",
+      "name": "EMI and transnational education contexts",
+      "description": "Understand the conditions of studying through English in non-anglophone universities (English-medium instruction) and in transnational provision such as branch campuses and franchised or joint programmes, including the roles of English and other languages, content lecturers' varied expectations about language, and what this implies for the academic English that matters locally. EMI and TNE learners need academic English shaped by their actual context rather than by anglophone-campus assumptions.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Describes the language ecology of their programme: which languages are used for which purposes and by whom",
+        "Identifies whether and how content lecturers attend to language, and where language support is or is not provided",
+        "Distinguishes intelligibility and disciplinary precision from conformity to a particular national variety as goals for their own English",
+        "Draws strategically on other languages for comprehension and discussion where the programme permits",
+        "Explains how regulations and assessment in transnational programmes may follow the awarding institution's norms rather than local ones"
+      ],
+      "assessmentPrompt": "Ask the learner to map a typical week on their own (or a described) EMI programme: which language is used for lectures, readings, discussion, assessment and informal talk, and by whom. Check that actual practice is distinguished from official policy and that the learner draws a conclusion about which English skills matter most in that context.",
+      "citations": [
+        "dafouzsmit2016",
+        "macaro2018emi",
+        "jenkins2014"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:plu.plurilingual-repertoire",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:med.comm.pluricultural-space",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "prg.politeness",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Politeness and face in academic interaction",
+      "description": "Analyse student–staff and peer interaction in terms of face, social distance, relative power and the size of an imposition, and choose linguistic strategies (mitigation, indirectness, acknowledging the other's time and autonomy) accordingly. Politeness norms depend on context and vary across institutions and individuals, so the aim is informed choice rather than a single formula.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Estimates the relative power, social distance and imposition in a given academic interaction and justifies the estimate",
+        "Identifies mitigation devices (modal verbs, conditional and past-tense forms, hedges, reasons, acknowledgements of imposition) in authentic messages",
+        "Adjusts the degree of mitigation of the same act for different recipients and levels of imposition",
+        "Recognises excessive deference and over-elaboration as potential problems, not only under-mitigation",
+        "Explains why a message acceptable in one setting may be read as abrupt or as overly formal in another"
+      ],
+      "assessmentPrompt": "Give the learner two versions of the same request to a lecturer, one unmitigated and one heavily over-mitigated. Ask how each might be perceived and to write a version in between. Check that the learner names power, distance and imposition, keeps the request clear, and avoids both bare imperatives and extended deference.",
+      "citations": [
+        "brownlevinson1987",
+        "kasperrose2002",
+        "economidou2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:prag.flexibility",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "prg.requests",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Making requests",
+      "description": "Make academic requests (for extensions, meetings, references, clarification, feedback or resources) in writing and speech that state clearly what is wanted, give a relevant reason, and are mitigated in proportion to the imposition. Clarity of purpose and appropriate mitigation together determine whether a request is understood and granted, and some requests must go through formal procedures rather than personal appeal.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "States the request explicitly and early, specifying an action and timeframe the recipient can respond to",
+        "Supports the request with a relevant reason and any information or evidence the recipient needs",
+        "Uses internal modification (could/would, conditional clauses, 'possible') and external modification proportionate to the imposition",
+        "Avoids imposing obligations or deadlines on the recipient unless genuine urgency is explained",
+        "Checks institutional procedures first and frames procedurally governed requests, such as extensions, accordingly"
+      ],
+      "assessmentPrompt": "Ask the learner to write two requests: a low-imposition one (a link to a missing reading) and a high-imposition one (a reference letter needed in five days). Check that directness and mitigation differ appropriately between them, that the request is unambiguous, that a reason is given, and that any relevant procedure or timescale is acknowledged.",
+      "citations": [
+        "biesenbach2007",
+        "economidou2011",
+        "kasperrose2002",
+        "blumkulka1989"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B1+",
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "prg.emails-to-staff",
+      "type": "GENRE",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Emails to academic staff",
+      "description": "Write emails to lecturers, supervisors and professional services staff with an informative subject line, an appropriate greeting and form of address, an early statement of purpose, sufficient context, a clear request or question, and a suitable closing and signature with identifying details. Email is often the first and most frequent written contact with staff, and its form shapes perceptions of the writer.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Writes subject lines that identify the module or topic and the purpose of the message",
+        "Opens with an appropriate greeting and form of address and closes with a conventional sign-off, full name and, where relevant, student number and programme",
+        "States the purpose in the first or second sentence and keeps to one main purpose per email",
+        "Provides enough context for the recipient to act without further queries, and no more",
+        "Checks register, accuracy and tone before sending, and uses the institutional account"
+      ],
+      "assessmentPrompt": "Give the learner a scenario (they cannot access a required reading and the seminar is in two days) and ten minutes to write the email. Check the subject line, address form, early purpose statement, sufficient context, proportionately mitigated request, closing with identifying details, and the absence of over-familiar phrasing or unexplained demands for an immediate reply.",
+      "citations": [
+        "biesenbach2007",
+        "economidou2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "levels": [
+            "B1",
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "prg.office-hours",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Office hours and tutorials",
+      "description": "Prepare for and conduct one-to-one or small-group meetings with academic staff: booking through the expected channel, bringing specific questions and materials, framing the purpose at the start, negotiating and checking understanding, noting agreed actions and closing within the time available. These meetings are a key but under-used route to tacit expectations and individual feedback.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Books or attends the meeting through the expected channel and states its purpose in advance where required",
+        "Prepares two or three specific questions with relevant materials (a draft, feedback, notes)",
+        "Opens by framing the purpose and closes by summarising agreed actions",
+        "Asks follow-up and clarification questions and confirms understanding of advice before the meeting ends",
+        "Manages time and recognises the staff member's closing signals"
+      ],
+      "assessmentPrompt": "Role-play a ten-minute office hour in which the 'tutor' gives brief and somewhat vague advice on a draft. Check whether the learner states a clear purpose, asks specific questions, seeks clarification of the vague advice, summarises next steps and closes appropriately.",
+      "citations": [
+        "biber2006",
+        "kasperrose2002",
+        "bardoviharlig1990"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.strat.asking-clarification",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:int.oral.information-exchange",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "prg.formal-statements",
+      "type": "GENRE",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Formal statements and appeals",
+      "description": "Write formal institutional texts (extenuating or mitigating circumstances statements, academic appeals and complaints) that follow the relevant procedure, give a factual, chronological and evidenced account, relate it to the grounds the regulations allow, state the outcome sought and keep a measured, non-accusatory tone. These texts affect progression and are judged against regulations, so procedural fit matters more than persuasion or emotional appeal.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies the correct procedure, deadline and evidence requirements from institutional regulations before writing",
+        "Gives a concise, chronological factual account with dates, linking each circumstance to its effect on assessment",
+        "States the specific outcome requested and relates it to grounds the regulations permit",
+        "Maintains a measured register, avoiding accusation, emotional overstatement and appeals to sympathy unsupported by evidence",
+        "Distinguishes grounds a procedure accepts from those it excludes (in many institutions, disagreement with academic judgement is not itself a ground for appeal)"
+      ],
+      "assessmentPrompt": "Give the learner an extract from an extenuating circumstances policy and a disordered narrative of events. Ask for a 150-word statement. Check that relevant facts are selected and ordered chronologically with dates, that circumstances are linked to their effect on assessment, that a permitted outcome is requested, and that the tone is measured.",
+      "citations": [
+        "bhatia1993",
+        "swales1990"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "prg.apologising-explaining",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Apologising and explaining",
+      "description": "Apologise and give accounts for missed deadlines, absences, lateness or other lapses in a way that acknowledges responsibility proportionately, explains briefly and relevantly, proposes repair, and avoids both under-apology and excessive self-abasement or over-disclosure. Effective apologies maintain working relationships and often connect the student to the formal process they actually need.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Includes an explicit apology expression proportionate to the lapse",
+        "Gives a brief, relevant explanation without unnecessary personal detail",
+        "Offers or requests a concrete repair (catching up, rescheduling, using the formal absence or extension process)",
+        "Distinguishes situations needing a personal apology from those needing a formal procedure, and does both where required",
+        "Avoids accounts that shift blame onto the recipient or institution, and avoids repeated self-criticism"
+      ],
+      "assessmentPrompt": "Ask the learner to respond in writing, or orally in role-play, to a seminar tutor after missing two sessions. Check for an explicit apology, a brief relevant account, a repair or plan, reference to any formal absence process, and a proportionate register.",
+      "citations": [
+        "brownlevinson1987",
+        "kasperrose2002",
+        "blumkulka1989"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "prg.forum-posts",
+      "type": "GENRE",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Online discussion forum posts",
+      "description": "Write asynchronous discussion posts and replies on VLE forums that respond to the prompt, make a clear point supported by course readings or evidence, engage explicitly with others' contributions, and use a register between conversation and formal academic prose. Forum posts are often assessed and make reasoning visible to peers, so they reward both argument and collegial engagement.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Addresses the prompt directly with a clear point in the opening sentences",
+        "Supports the point with reference to course readings or evidence, cited in the form the module expects",
+        "Replies to peers by naming and building on, qualifying or respectfully challenging specific points",
+        "Uses a register suited to the forum (first person and direct address usually acceptable; no text-speak) and keeps to any length guidance",
+        "Moves the discussion forward with a question, new angle or synthesis rather than only agreeing"
+      ],
+      "assessmentPrompt": "Give the learner a forum prompt and two peer posts and ask for a reply of about 150 words. Check that the reply engages a specific peer point, adds supported content, handles agreement or disagreement collegially and uses an appropriate register.",
+      "citations": [
+        "hyland2005stance",
+        "coffin2005"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.online.conversation-discussion",
+          "levels": [
+            "B1+",
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:int.online.goal-oriented-collaboration",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "prg.messaging-channels",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Messaging channels and norms",
+      "description": "Choose the appropriate channel (email, VLE messages or forums, enquiry and ticketing systems, group chats, collaboration platforms) for a given purpose, recipient, level of privacy and urgency, and adjust tone, length and expectations of response time accordingly. Channel norms differ across institutions and teams and are often unstated; a misjudged channel can delay a response or blur professional boundaries.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Selects the channel specified by the module or department for each type of query and can show where this is stated",
+        "Adjusts register and length when moving between channels (for example a peer group chat versus an email to staff)",
+        "Sets realistic expectations about response times and spaces any follow-up messages appropriately",
+        "Distinguishes public or shared channels from private ones and judges what information belongs in each",
+        "Respects boundaries such as staff working hours and the use of personal accounts"
+      ],
+      "assessmentPrompt": "Give the learner six scenarios (a general assignment question, a private health matter, arranging a group meeting, an urgent laboratory safety issue, a reference request, a query about a mark). Ask which channel they would use and when they would expect a reply. Check that choices follow stated norms, protect privacy and set realistic expectations.",
+      "citations": [
+        "biesenbach2007",
+        "economidou2011"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.writ.notes-messages-forms",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:int.online.conversation-discussion",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "prg.acknowledgements",
+      "type": "GENRE",
+      "strand": "Academic Socialisation & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Acknowledgements",
+      "description": "Write acknowledgements for dissertations, theses and articles that thank supervisors, participants, funders, institutions and others in a conventional order and register, include required funding and contribution statements, and distinguish acknowledgement from authorship. The genre is short but socially significant, combining personal gratitude with institutional and ethical obligations.",
+      "cefrStart": "B2+",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Organises thanks following conventional moves for the genre (for example a reflecting move, thanking moves and an announcing move accepting responsibility)",
+        "Includes required elements such as funding sources and grant numbers in the form the institution or journal specifies",
+        "Distinguishes contributors who merit acknowledgement from those who meet authorship criteria",
+        "Selects a register more personal than the main text but appropriate for a public academic document",
+        "Respects participant confidentiality and any agreed anonymity when thanking participants or organisations"
+      ],
+      "assessmentPrompt": "Give the learner a list of people and bodies (supervisor, anonymous interview participants, a funder with grant number, a statistician who advised on analysis, a partner, a colleague who proofread). Ask for a 120-word thesis acknowledgement and a two-sentence article acknowledgement. Check ordering, inclusion of the funding detail, protection of anonymity, register, and how contributors are handled relative to authorship.",
+      "citations": [
+        "hyland2004graduates",
+        "icmje2025",
+        "brand2015credit"
+      ],
+      "frameworks": [
+        {
+          "key": "vitae-rdf:D1",
+          "contribution": "related"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "topicId": "acu.teaching-formats",
+      "prerequisiteId": "acu.university-structures",
+      "strength": "soft",
+      "reason": "Teaching formats are organised within modules and programmes, and the contact/independent-study balance is calculated from module credit structures"
+    },
+    {
+      "topicId": "acu.academic-expectations",
+      "prerequisiteId": "acu.teaching-formats",
+      "strength": "soft",
+      "reason": "Expectations of participation, preparation and independent study are enacted through specific formats (seminar contribution, lab preparation, VLE tasks), so knowing the formats makes the expectations concrete"
+    },
+    {
+      "topicId": "acu.hidden-curriculum",
+      "prerequisiteId": "acu.academic-expectations",
+      "strength": "hard",
+      "reason": "Tacit expectations are identified by contrast with what is explicitly stated; learners need the stated expectations first to see what is left unsaid"
+    },
+    {
+      "topicId": "acu.hidden-curriculum",
+      "prerequisiteId": "voc.command-words",
+      "strength": "soft",
+      "reason": "Much tacit expectation is carried by task and feedback vocabulary (analyse, evaluate, critically discuss); knowing their dictionary meanings lets learners notice where local usage goes beyond them"
+    },
+    {
+      "topicId": "acu.discourse-communities",
+      "prerequisiteId": "acu.university-structures",
+      "strength": "soft",
+      "reason": "Learners usually first meet disciplines as administrative units (schools, departments, programmes) before reconceptualising them as communities with shared goals, genres and lexis"
+    },
+    {
+      "topicId": "acu.disciplinary-knowledge",
+      "prerequisiteId": "acu.discourse-communities",
+      "strength": "hard",
+      "reason": "Comparing how disciplines make knowledge presupposes seeing disciplines as communities with their own purposes and genres"
+    },
+    {
+      "topicId": "acu.disciplinary-knowledge",
+      "prerequisiteId": "crt.evidence-types",
+      "strength": "soft",
+      "reason": "Comparing what counts as evidence across fields requires a working vocabulary of evidence types (experimental, statistical, testimonial, textual)"
+    },
+    {
+      "topicId": "acu.academic-literacies",
+      "prerequisiteId": "acu.hidden-curriculum",
+      "strength": "hard",
+      "reason": "The academic literacies perspective starts from the observation that tutors and students hold different, unstated understandings of tasks; learners need to have recognised tacit expectations before analysing them as matters of identity and power"
+    },
+    {
+      "topicId": "acu.academic-literacies",
+      "prerequisiteId": "acu.discourse-communities",
+      "strength": "soft",
+      "reason": "The perspective is partly defined against the socialisation model, which assumes relatively stable and homogeneous disciplinary communities"
+    },
+    {
+      "topicId": "acu.transition",
+      "prerequisiteId": "acu.academic-expectations",
+      "strength": "soft",
+      "reason": "Academic adjustment involves identifying which expectations of the new context differ from prior experience"
+    },
+    {
+      "topicId": "acu.transition",
+      "prerequisiteId": "idn.intercultural-communication",
+      "strength": "soft",
+      "reason": "Sociocultural adjustment draws on strategies for managing differences in expectations and communication style without essentialising them"
+    },
+    {
+      "topicId": "acu.roles-address",
+      "prerequisiteId": "acu.university-structures",
+      "strength": "hard",
+      "reason": "Choosing a form of address depends on knowing the person's role and its relationship to the student (module leader, supervisor, administrator, teaching assistant)"
+    },
+    {
+      "topicId": "acu.critical-eap",
+      "prerequisiteId": "acu.academic-literacies",
+      "strength": "soft",
+      "reason": "Treating conventions as social practices bound up with power provides the conceptual ground for questioning whose norms EAP teaches"
+    },
+    {
+      "topicId": "acu.critical-eap",
+      "prerequisiteId": "idn.standards-legitimacy",
+      "strength": "soft",
+      "reason": "Questioning native-speaker norms is a concrete, accessible entry to the broader critique of EAP's purposes and standards"
+    },
+    {
+      "topicId": "acu.emi-tne",
+      "prerequisiteId": "acu.academic-expectations",
+      "strength": "soft",
+      "reason": "Analysing EMI and TNE contexts involves comparing local academic expectations with those assumed by anglophone-campus EAP materials"
+    },
+    {
+      "topicId": "acu.emi-tne",
+      "prerequisiteId": "idn.elf",
+      "strength": "soft",
+      "reason": "In most EMI settings English is used as a lingua franca among multilingual users, so ELF provides the frame for setting realistic communicative goals"
+    },
+    {
+      "topicId": "prg.politeness",
+      "prerequisiteId": "acu.roles-address",
+      "strength": "soft",
+      "reason": "Forms of address are the most concrete, earliest-taught instance of encoding power and distance, giving learners a familiar case before the general face and imposition model"
+    },
+    {
+      "topicId": "prg.politeness",
+      "prerequisiteId": "reg.register-awareness",
+      "strength": "soft",
+      "reason": "Calibrating politeness applies the register variable of tenor (relationship between participants) to specific speech acts"
+    },
+    {
+      "topicId": "prg.requests",
+      "prerequisiteId": "prg.politeness",
+      "strength": "hard",
+      "reason": "Choosing request strategies and the amount of mitigation depends on judging power, distance and imposition"
+    },
+    {
+      "topicId": "prg.requests",
+      "prerequisiteId": "grm.conditionals",
+      "strength": "soft",
+      "reason": "Conditional clauses and hypothetical forms ('I would be grateful if', 'if possible') are central syntactic downgraders in academic requests"
+    },
+    {
+      "topicId": "prg.requests",
+      "prerequisiteId": "voc.university-terminology",
+      "strength": "soft",
+      "reason": "Many academic requests name institutional objects and processes (extension, extenuating circumstances, reference, office hours) that must be referred to accurately"
+    },
+    {
+      "topicId": "prg.emails-to-staff",
+      "prerequisiteId": "prg.requests",
+      "strength": "hard",
+      "reason": "Most student emails to staff are built around a request, so the genre's core move depends on request strategies and mitigation"
+    },
+    {
+      "topicId": "prg.emails-to-staff",
+      "prerequisiteId": "acu.roles-address",
+      "strength": "hard",
+      "reason": "The greeting, salutation and sign-off moves apply address choices directly, distinct from the mitigation of the request itself"
+    },
+    {
+      "topicId": "prg.emails-to-staff",
+      "prerequisiteId": "reg.formality-features",
+      "strength": "soft",
+      "reason": "Emails to staff require control of contractions, colloquialisms and abbreviations to avoid an instant-messaging register"
+    },
+    {
+      "topicId": "prg.office-hours",
+      "prerequisiteId": "acu.teaching-formats",
+      "strength": "soft",
+      "reason": "Learners need to know what office hours and tutorials are for, and how they are booked locally, before preparing to use them"
+    },
+    {
+      "topicId": "prg.office-hours",
+      "prerequisiteId": "prg.politeness",
+      "strength": "soft",
+      "reason": "Opening, making suggestions or requests, and closing a one-to-one meeting with a staff member require managing status asymmetry"
+    },
+    {
+      "topicId": "prg.office-hours",
+      "prerequisiteId": "sem.questions-clarification",
+      "strength": "soft",
+      "reason": "Productive meetings depend on formulating specific questions and requesting clarification of advice in real time"
+    },
+    {
+      "topicId": "prg.formal-statements",
+      "prerequisiteId": "prg.requests",
+      "strength": "hard",
+      "reason": "Extenuating circumstances claims and appeals are formal requests for a specified outcome and depend on stating the request and its grounds clearly"
+    },
+    {
+      "topicId": "prg.formal-statements",
+      "prerequisiteId": "prg.apologising-explaining",
+      "strength": "soft",
+      "reason": "Giving a brief, relevant account of circumstances without over-disclosure is first practised in everyday apologies and explanations"
+    },
+    {
+      "topicId": "prg.formal-statements",
+      "prerequisiteId": "fun.chronology-narration",
+      "strength": "soft",
+      "reason": "Statements require a dated, chronological account of events, drawing on time expressions and sequencing language"
+    },
+    {
+      "topicId": "prg.apologising-explaining",
+      "prerequisiteId": "prg.politeness",
+      "strength": "hard",
+      "reason": "Apologies redress a threat to the hearer's face, and choosing their intensity and components depends on judging the offence, power and distance"
+    },
+    {
+      "topicId": "prg.apologising-explaining",
+      "prerequisiteId": "acu.academic-expectations",
+      "strength": "soft",
+      "reason": "Knowing which obligations apply (attendance, deadlines, notification of absence) determines when an apology or account is expected and what repair is relevant"
+    },
+    {
+      "topicId": "prg.forum-posts",
+      "prerequisiteId": "sem.building-on-others",
+      "strength": "soft",
+      "reason": "Forum replies apply the moves of linking to, extending and synthesising peers' contributions in written, asynchronous form"
+    },
+    {
+      "topicId": "prg.forum-posts",
+      "prerequisiteId": "sem.agreeing-disagreeing",
+      "strength": "soft",
+      "reason": "Replies frequently express partial or mitigated disagreement, and the language for this is usually first taught for seminars"
+    },
+    {
+      "topicId": "prg.forum-posts",
+      "prerequisiteId": "reg.register-awareness",
+      "strength": "soft",
+      "reason": "Forum posts sit between spoken and written registers, so writers need awareness of mode and tenor to judge the appropriate style"
+    },
+    {
+      "topicId": "prg.messaging-channels",
+      "prerequisiteId": "prg.emails-to-staff",
+      "strength": "hard",
+      "reason": "Comparing channels presupposes control of the default formal channel; email norms are the reference point against which other channels are judged"
+    },
+    {
+      "topicId": "prg.messaging-channels",
+      "prerequisiteId": "dig.vle",
+      "strength": "soft",
+      "reason": "Choosing between VLE messaging, forums and announcements requires knowing what communication tools the VLE provides and how they are used on the course"
+    },
+    {
+      "topicId": "prg.acknowledgements",
+      "prerequisiteId": "grp.dissertation-overview",
+      "strength": "soft",
+      "reason": "Acknowledgements are part of the dissertation's front matter, and their conventions and placement follow from the overall structure of the document"
+    },
+    {
+      "topicId": "prg.acknowledgements",
+      "prerequisiteId": "pub.authorship",
+      "strength": "soft",
+      "reason": "Article acknowledgements list contributors who do not meet authorship criteria, so deciding who is acknowledged depends on knowing those criteria"
+    },
+    {
+      "topicId": "prg.acknowledgements",
+      "prerequisiteId": "reg.register-awareness",
+      "strength": "soft",
+      "reason": "Acknowledgements permit a more personal register than the main text, and judging how personal depends on awareness of tenor and audience"
+    }
+  ],
+  "guidance": [
+    {
+      "topicId": "acu.university-structures",
+      "summary": "Teach organisational knowledge through tasks that require it, such as finding the right contact in a real handbook or tracing how module marks feed progression, rather than through induction talks; this follows Wingate's (2006) argument that study-related knowledge is better embedded in authentic activity than delivered as decontextualised 'study skills'. Use the learner's actual or destination institution wherever possible, because titles, structures and processes vary widely. Treat comparison with previous institutions as a resource for noticing, not a ranking.",
+      "activities": [
+        {
+          "title": "Handbook search with consequences",
+          "learnerActions": [
+            "Work in pairs with a real programme handbook and VLE site, answering scenario questions (who approves an extension; what happens if a module is failed)",
+            "Record the page or link where each answer was found",
+            "Compare answers across pairs and resolve disagreements by returning to the source or asking the programme office",
+            "Produce a one-page personal 'who to contact for what' map"
+          ],
+          "intendedInsight": "Institutional information is distributed across documents and roles; locating it is a skill that saves time and prevents misdirected requests.",
+          "rationale": "Locating information in genuine institutional texts for a realistic purpose embeds orientation knowledge in use rather than presenting it as content to memorise (Wingate, 2006).",
+          "citations": [
+            "wingate2006"
+          ]
+        },
+        {
+          "title": "Two systems side by side",
+          "learnerActions": [
+            "Sketch how a previous school or university was organised: units, roles, who set and confirmed marks",
+            "Sketch the equivalent for the current institution from the handbook",
+            "Annotate differences that might affect help-seeking or how decisions are interpreted",
+            "Share one difference that surprised them and one prior practice that still applies"
+          ],
+          "intendedInsight": "Structures differ, and the new one is easier to understand when prior knowledge is made explicit rather than ignored.",
+          "rationale": "Building explicitly on learners' existing institutional knowledge treats prior experience as a resource. This is a practice-based proposal; its effect on help-seeking has not been tested.",
+          "citations": []
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I'll email the professor about everything; they are in charge.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Administrative queries (timetables, extensions, enrolment) sent to module leaders or senior academics; slow replies and redirections.",
+          "response": "Show the division of labour between academic and professional services roles with real examples, and practise routing scenarios. Explain that routing a query correctly is seen as competent, not disrespectful. Do not present the learner's expectation as wrong in itself: in some systems academic staff do handle such matters.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Assuming that 'course', 'module', 'programme' or 'tutor' mean the same as in a previous institution or another university's materials.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Confusion between programme and module requirements; uncertainty about who the personal tutor is or what they do.",
+          "response": "Gloss key terms from the institution's own glossary and contrast common alternative uses (for example 'course' meaning a whole degree in some systems and a single unit in others). Have learners verify terms against local documents.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Little is retained from orientation week because everything is presented at once.",
+          "kind": "performance",
+          "revealedBy": "Learners cannot name key contacts or processes some weeks after induction.",
+          "response": "Revisit structures at the point of need, for example just before the first deadline or the first marks release. Do not rely on a single front-loaded session.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'If you were ill during the week of an assessment deadline, what would you do and whom would you contact?'",
+        "strongResponse": "Names the relevant procedure (extension or extenuating circumstances), where to find it, the responsible role or office, and the likely evidence required.",
+        "partialResponse": "Knows to contact someone but names a general or senior academic and does not mention a procedure.",
+        "gapResponse": "Would wait until after the deadline, would contact nobody, or does not know that a procedure exists."
+      },
+      "contextNotes": "On foundation programmes, orientation is broad and revisited at points of need. Pre-sessional courses can use the destination institution's documents so that learners arrive informed. In-sessional UG and PGT work focuses on specific processes (progression, extensions, representation) as they arise, and early for one-year PGT programmes. For PGR, the focus shifts to graduate school structures, supervisory teams, progression reviews and research degree regulations.",
+      "citations": [
+        "wingate2006",
+        "jordan1997"
+      ],
+      "reviewNotes": [
+        "No source in the bibliography researches the teaching of institutional structures directly; this guidance is practice-based and should be checked against local induction evaluations."
+      ]
+    },
+    {
+      "topicId": "acu.teaching-formats",
+      "summary": "Ferris and Tagg (1996) found that subject instructors' oral requirements vary with discipline, class size and level, and Biber (2006) documents distinct language across university registers including classroom teaching, labs, office hours and study groups. Teaching should therefore move from a generic lecture/seminar contrast to the learner's actual timetable and clarify what preparation and participation each format assumes. Blended provision and lecture capture (Lynch, 2011) add decisions about how to use VLE materials alongside attendance.",
+      "activities": [
+        {
+          "title": "Timetable decoding",
+          "learnerActions": [
+            "List each session type in one week of their own or a sample timetable",
+            "Predict each session's purpose and what students do before, during and after it",
+            "Check predictions against module VLE pages or by asking a current student or tutor",
+            "Revise a personal weekly plan to include preparation and follow-up for each session"
+          ],
+          "intendedInsight": "Each format implies different preparation and participation, and contact hours are only part of the workload.",
+          "rationale": "Starting from the learner's real timetable ties format knowledge to immediate action; expectations vary across disciplines and classes (Ferris & Tagg, 1996).",
+          "citations": [
+            "ferristagg1996"
+          ]
+        },
+        {
+          "title": "Who talks, and how?",
+          "learnerActions": [
+            "Watch a recorded lecture extract and a seminar or tutorial extract from the same discipline",
+            "Note who talks, for how long, and what kinds of contribution are made",
+            "Compare the language of the two (extended explanation versus questions, responses and building on others)",
+            "Discuss what a student would need to do to participate well in each"
+          ],
+          "intendedInsight": "Formats differ in interaction patterns and language, not only in size.",
+          "rationale": "Comparing spoken university registers makes their structural and linguistic differences noticeable (Biber, 2006).",
+          "citations": [
+            "biber2006"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'The lecture is where the real learning happens; the seminar is optional discussion.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Missed or unprepared seminar attendance; surprise at participation-related marks or comments.",
+          "response": "Show how seminars and tutorials relate to the specific module's outcomes and assessment, and make preparation tasks explicit. Avoid implying that lecture-centred prior schooling was inferior; it was organised around different assumptions.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Equating timetabled contact hours with the whole workload.",
+          "kind": "conceptual",
+          "revealedBy": "Weekly plans with no time for reading or assignment work; reports of being overwhelmed mid-term.",
+          "response": "Have learners estimate notional study hours from credit values (in the UK one credit commonly represents about ten notional hours, but check local conventions) and distribute them across the week.",
+          "reteachPrerequisiteId": "acu.university-structures"
+        },
+        {
+          "pattern": "Treating recorded lectures as a full substitute for attending.",
+          "kind": "conceptual",
+          "revealedBy": "Low attendance combined with passive or postponed viewing of recordings.",
+          "response": "Discuss what live sessions offer (questions, interaction, peer contact) and how recordings can be used for targeted review rather than first exposure. Do not moralise about attendance; focus on effective use.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner how they would prepare differently for a lecture, a seminar and a lab session in the same week.",
+        "strongResponse": "Distinguishes previewing for the lecture, preparing positions and questions for the seminar, and reading the protocol and safety information for the lab, and mentions follow-up work.",
+        "partialResponse": "Recognises differences in size or setting but describes the same preparation for each.",
+        "gapResponse": "Sees no need for preparation beyond attending."
+      },
+      "contextNotes": "Foundation and pre-sessional learners benefit most, particularly where prior schooling was organised differently. In-sessional UG work can address discipline-specific formats such as studios, crits or clinical skills labs. PGT students meet compressed timetables and more seminar-based teaching and need early orientation.",
+      "citations": [
+        "ferristagg1996",
+        "biber2006",
+        "lynch2011"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "acu.academic-expectations",
+      "summary": "Expectations such as independence, criticality and participation are usually stated abstractly and treated as self-evident; teaching should translate them into concrete practices in specific modules (Wingate, 2015). Present them as situated institutional practices rather than personal or cultural traits: Atkinson (1997) argued that critical thinking is a socially embedded practice, and Leki and Carson (1997) found that students experienced EAP writing and subject-course writing as making quite different demands, especially about accountability to source content. Many learners already practise criticality and independence in forms that a new context may not recognise.",
+      "activities": [
+        {
+          "title": "From outcome to action",
+          "learnerActions": [
+            "Take one learning outcome or graduate attribute (for example 'demonstrate independent critical judgement')",
+            "List what a student would observably do in this module to meet it",
+            "Compare lists with peers and with a tutor's interpretation or a high-graded exemplar",
+            "Choose one action to adopt in the coming week and report back"
+          ],
+          "intendedInsight": "Abstract expectations become manageable when translated into specific practices that can be checked.",
+          "rationale": "Making expectations explicit and concrete is central to inclusive approaches to academic literacy (Wingate, 2015).",
+          "citations": [
+            "wingate2015"
+          ]
+        },
+        {
+          "title": "Two task briefs compared",
+          "learnerActions": [
+            "Read two short task briefs, one from an EAP course and one from a subject module",
+            "Identify what each expects regarding source use, personal opinion and independence",
+            "Discuss where the expectations differ and why",
+            "Note what this implies for transferring EAP practice to their subject"
+          ],
+          "intendedInsight": "Expectations vary across courses even within one institution, so transfer has to be checked rather than assumed.",
+          "rationale": "Leki and Carson (1997) found differences between EAP and subject writing demands, particularly in how far writing had to be accountable to source texts.",
+          "citations": [
+            "lekicarson1997"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Being critical means finding something wrong with what I read.'",
+          "kind": "conceptual",
+          "revealedBy": "Unsupported negative evaluations, or the opposite: reluctance to evaluate published work at all.",
+          "response": "Model criticality as judging claims against evidence and purpose, including recognising strengths, using discipline-specific examples. Do not attribute either pattern to a learner's national or cultural background.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "'Independent study means I should not ask for help.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Learners struggle without asking, skip office hours and avoid clarification questions.",
+          "response": "Present help-seeking (office hours, feedback requests, support services) as part of independent learning, and normalise it with accounts from current students.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Expectations expressed as traits ('be proactive', 'show initiative') produce anxiety rather than action.",
+          "kind": "affective",
+          "revealedBy": "Learners report feeling they are failing vague standards and cannot say what to change.",
+          "response": "Break each expectation into small, observable steps. Avoid presenting expectations as tests of personality or as signs of fitting in.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'Your module handbook says students should be independent learners. What will you do this week that shows that?'",
+        "strongResponse": "Gives specific actions tied to the module, such as following up a reference from the lecture, preparing seminar questions, or scheduling reading hours.",
+        "partialResponse": "Gives general intentions such as 'study more' or 'read widely'.",
+        "gapResponse": "Interprets independence as working alone without guidance, or cannot answer."
+      },
+      "contextNotes": "Foundation and pre-sessional learners need expectations made concrete across the board. In-sessional UG work should connect to specific modules and levels, since first-year and final-year expectations differ. PGT students face greater autonomy within compressed timelines. PGR expectations centre on ownership of the research project and independent judgement, negotiated with supervisors.",
+      "citations": [
+        "wingate2015",
+        "lekicarson1997",
+        "atkinson1997"
+      ],
+      "reviewNotes": [
+        "This topic overlaps with lrn.independent-study, lrn.autonomy and crt.concept; cross-reference rather than duplicate content."
+      ]
+    },
+    {
+      "topicId": "acu.hidden-curriculum",
+      "summary": "Lea and Street (1998) found that tutors and students held different, unarticulated understandings of terms such as 'argument' and 'structure', and Lillis (2001) described the resulting 'institutional practice of mystery', which particularly disadvantages students unfamiliar with essayist conventions. Teaching should surface tacit expectations through exemplars, analysis of feedback and dialogue with subject staff, and ideally prompt the institution to state its expectations more clearly (Wingate, 2015; Bond, 2020). Learners also need strategies for uncovering expectations themselves, not just a list of rules.",
+      "activities": [
+        {
+          "title": "Feedback lexicon",
+          "learnerActions": [
+            "Collect anonymised feedback comments (their own or supplied) and highlight evaluative terms",
+            "Group the terms and hypothesise what each means in practice",
+            "Test the hypotheses against marked exemplars at different grades",
+            "Formulate questions to ask a tutor about any remaining ambiguity"
+          ],
+          "intendedInsight": "Feedback language encodes tacit expectations that can be partly decoded, and some ambiguity can only be resolved by asking.",
+          "rationale": "Lea and Street (1998) found that feedback terms were interpreted differently by tutors and students; making the terms an object of study addresses that gap directly.",
+          "citations": [
+            "leastreet1998"
+          ]
+        },
+        {
+          "title": "Unwritten rules from exemplars",
+          "learnerActions": [
+            "Compare two anonymised assignments on the same task that received different grades",
+            "List differences that the published criteria do not mention",
+            "Write these as explicit 'unwritten rules'",
+            "Check the list with a subject tutor or against further exemplars"
+          ],
+          "intendedInsight": "Some valued features are absent from the written criteria but can be inferred and then checked.",
+          "rationale": "Comparing exemplars to make implicit criteria explicit is consistent with inclusive approaches to academic literacy instruction (Wingate, 2015).",
+          "citations": [
+            "wingate2015"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'If I just improve my grammar, my marks will go up.'",
+          "kind": "conceptual",
+          "revealedBy": "Low marks attributed to language when feedback actually concerns argument, structure or use of sources.",
+          "response": "Sort feedback comments into categories (language, argument, sources, task fulfilment) and show that many concern genre and disciplinary expectations. Acknowledge genuine language concerns while widening the frame; avoid reinforcing the belief that all difficulty is linguistic.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "'My tutor said this once, so all tutors want it.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Rigid application of one tutor's preferences (for example about headings or first-person use) across modules.",
+          "response": "Show variation between tutors and modules with real examples, and teach learners to check expectations for each module rather than treating any one preference as universal.",
+          "reteachPrerequisiteId": "acu.academic-expectations"
+        },
+        {
+          "pattern": "Reluctance to ask a tutor what a comment means, for fear of seeming incapable or disrespectful.",
+          "kind": "affective",
+          "revealedBy": "Feedback not acted on; no clarification requests even when comments are ambiguous.",
+          "response": "Model and rehearse brief, specific clarification requests, and present asking as expected practice. Link this to office-hours and email work.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give the comment 'This is too descriptive' with the paragraph it refers to, and ask what the tutor wants.",
+        "strongResponse": "Recognises that the paragraph reports without interpreting or evaluating, proposes adding analysis, significance or comparison, and notes the option of confirming with the tutor.",
+        "partialResponse": "Suggests adding more sources or detail, which would increase description.",
+        "gapResponse": "Treats the comment as a language error or cannot interpret it."
+      },
+      "contextNotes": "At foundation and pre-sessional level, focus on decoding task and feedback language. In-sessional UG work is most effective when co-designed with subject staff. PGT students meet new disciplinary norms quickly and benefit from exemplar analysis in the first weeks. For PGR, tacit expectations concern supervision, thesis conventions and the viva, and can vary between supervisors and examiners.",
+      "citations": [
+        "leastreet1998",
+        "lillis2001",
+        "wingate2015",
+        "bond2020"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "acu.discourse-communities",
+      "summary": "Swales (1990) characterised a discourse community by shared public goals, mechanisms of intercommunication, participatory use of those mechanisms, owned genres, specific lexis and a threshold of expert members, and Hyland (2004) shows how disciplinary communities are realised in members' textual choices. Teach the concept through learners' own fields and present membership as developing through participation (Duff, 2010). Johns (1997) stresses that students move between several communities with different demands, so the concept works best as a heuristic rather than a fixed taxonomy.",
+      "activities": [
+        {
+          "title": "Profile your community",
+          "learnerActions": [
+            "Use Swales's criteria as prompts to profile their target discipline",
+            "Find a concrete example for each criterion (a genre, a channel, a specialist term, a gatekeeper)",
+            "Present the profile to peers from other fields",
+            "Identify similarities and differences across the profiles"
+          ],
+          "intendedInsight": "Academic conventions serve particular communities and vary between them.",
+          "rationale": "Applying Swales's (1990) criteria to a familiar field turns an abstract concept into a reusable analytic tool.",
+          "citations": [
+            "swales1990"
+          ]
+        },
+        {
+          "title": "Membership trajectories",
+          "learnerActions": [
+            "Interview, or read an account by, a more advanced student or academic in their field about how they learned its practices",
+            "Identify turning points in that person's participation",
+            "Map their own current position and plausible next steps",
+            "Reflect on what helps or hinders newcomers' participation"
+          ],
+          "intendedInsight": "Membership is achieved through participation over time, not conferred by enrolment.",
+          "rationale": "Language socialisation research shows newcomers learning academic discourse through interaction with more expert members (Duff, 2010).",
+          "citations": [
+            "duff2010"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Academic English is one set of rules for everyone.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Advice from one field (for example about first-person use or passive voice) applied universally.",
+          "response": "Contrast short texts from different fields to show disciplinary variation in textual features (Hyland, 2004), and ask learners to collect evidence from their own field.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Seeing the community as a closed club that one either belongs to or not.",
+          "kind": "conceptual",
+          "revealedBy": "Learners describe themselves as outsiders without a legitimate voice and hold back contributions.",
+          "response": "Present peripheral participation as legitimate and emphasise internal variation and debate within communities. Avoid implying that newcomers must wait for full membership before contributing.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to name two genres in their field and explain what each does for the community.",
+        "strongResponse": "Names field-specific genres (for example a case report or a design brief) and links each to a community purpose.",
+        "partialResponse": "Names generic genres (essay, article) with vague purposes.",
+        "gapResponse": "Cannot name genres beyond the essay or relate any genre to a purpose."
+      },
+      "contextNotes": "Pre-sessional courses can introduce the concept through mixed-discipline groups comparing fields. In-sessional UG and PGT work applies it to the learner's own discipline, ideally with subject input. For PGR, the focus is the research community of a specialism (journals, conferences, networks) and the researcher's developing role in it.",
+      "citations": [
+        "swales1990",
+        "hyland2004disciplinary",
+        "johns1997",
+        "duff2010"
+      ],
+      "reviewNotes": [
+        "Later critiques and revisions of the discourse community concept (including by Swales himself) are not in the bibliography; a reference could be proposed."
+      ]
+    },
+    {
+      "topicId": "acu.disciplinary-knowledge",
+      "summary": "Biglan's (1973) dimensions (hard/soft, pure/applied, life/non-life) and Becher and Trowler's (2001) account of disciplinary 'tribes and territories' give learners a vocabulary for epistemological difference, and Hyland (2004) shows how such differences surface in citation, hedging and self-mention. Use the typologies heuristically and invite critique, since interdisciplinary and professional fields often fit poorly. Threshold concepts (Meyer & Land, 2005) help learners name the troublesome ways of thinking that mark entry to a discipline, and Maton's (2013) semantic waves offer a lens on how disciplinary texts move between abstract theory and concrete cases.",
+      "activities": [
+        {
+          "title": "Same topic, two disciplines",
+          "learnerActions": [
+            "Read two short extracts on one topic (for example obesity) from contrasting disciplines",
+            "Identify what evidence each uses and how claims are justified",
+            "Locate textual features that signal certainty, attribution and author presence",
+            "Explain the differences with reference to each field's knowledge-making"
+          ],
+          "intendedInsight": "Textual conventions follow from how fields build and warrant knowledge.",
+          "rationale": "Hyland (2004) links disciplinary differences in textual features to underlying epistemological and social practices.",
+          "citations": [
+            "hyland2004disciplinary"
+          ]
+        },
+        {
+          "title": "Placing your field",
+          "learnerActions": [
+            "Place their field on Biglan's dimensions and discuss the placement with peers",
+            "Identify where the typology fits poorly, such as interdisciplinary or practice-based fields",
+            "Name a concept in their field that was difficult and changed how they saw the subject",
+            "Discuss what that concept implies for how they should read and write in the field"
+          ],
+          "intendedInsight": "Typologies are useful starting points but must be tested against one's own field.",
+          "rationale": "Biglan (1973) and Becher and Trowler (2001) offer comparative frames, and the threshold concepts framework (Meyer & Land, 2005) gives learners language for disciplinary ways of thinking.",
+          "citations": [
+            "biglan1973",
+            "becher2001",
+            "meyerland2005"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Science is objective; the humanities are just opinion.'",
+          "kind": "conceptual",
+          "revealedBy": "Dismissal of interpretive argument; treating numbers as proof in themselves.",
+          "response": "Show that every field has standards of warrant, illustrate interpretive rigour with examples, and show uncertainty and argument in scientific writing.",
+          "reteachPrerequisiteId": "crt.evidence-types"
+        },
+        {
+          "pattern": "Forcing an interdisciplinary or professional programme into a single typology category.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Learners cannot classify their field or produce strained classifications.",
+          "response": "Treat typologies as heuristics and ask learners to analyse actual texts and assessments from their programme instead.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Carrying the conventions of a first-degree discipline unchanged into a new field at master's level.",
+          "kind": "prior-schooling",
+          "revealedBy": "PGT students changing field reproduce genres and argument styles from their previous discipline.",
+          "response": "Compare old and new fields' expectations explicitly in the first weeks, using assessed genres from the new programme.",
+          "reteachPrerequisiteId": "acu.discourse-communities"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'In your field, how would you convince a sceptical colleague that a claim is true?'",
+        "strongResponse": "Names the field's typical evidence and reasoning (for example replication, archival interpretation, case analysis) and acknowledges their limits.",
+        "partialResponse": "Gives a general answer ('use evidence', 'cite sources') without field specificity.",
+        "gapResponse": "Cannot describe how claims are justified, or appeals only to authority."
+      },
+      "contextNotes": "In pre-sessional courses for postgraduates, comparison across mixed-discipline groups works well. In-sessional UG support should tie this to the learner's modules. PGT students changing field need explicit comparison of the old and new disciplines. For PGR, it connects to methodology, theoretical frameworks and positioning within debates.",
+      "citations": [
+        "becher2001",
+        "biglan1973",
+        "hyland2004disciplinary",
+        "meyerland2005",
+        "maton2013"
+      ],
+      "reviewNotes": [
+        "Biglan's typology derives from 1970s US academics' judgements of subject similarity; present it as a heuristic for contemporary and interdisciplinary fields."
+      ]
+    },
+    {
+      "topicId": "acu.academic-literacies",
+      "summary": "Lea and Street (1998) distinguished study skills, academic socialisation and academic literacies models of student writing, the last treating literacy as social practice involving identity, power and institutional epistemologies. Ivanič (1998) and Lillis (2001) show how writers' identities and desires are at stake in academic writing, and Lillis and Scott (2007) characterise the approach as transformative rather than normative. In teaching, the perspective supports dialogue about meaning-making; Wingate (2012) argues that it can be combined with genre-based instruction so that critique does not leave students without access to valued forms.",
+      "activities": [
+        {
+          "title": "Three lenses on one difficulty",
+          "learnerActions": [
+            "Read a short case of a student repeatedly told their work 'lacks argument'",
+            "Explain the difficulty through a study skills lens, a socialisation lens and an academic literacies lens",
+            "Discuss what support each lens would recommend and who is expected to change",
+            "Decide what combination would help the student most"
+          ],
+          "intendedInsight": "How a difficulty is explained shapes what support is offered and where responsibility is placed.",
+          "rationale": "Lea and Street's (1998) three models give a clear frame for comparing explanations of student writing difficulties.",
+          "citations": [
+            "leastreet1998"
+          ]
+        },
+        {
+          "title": "Writing and identity talkback",
+          "learnerActions": [
+            "Choose a passage of their own writing where the voice felt constrained or not their own",
+            "Describe the identity they wanted to project and the conventions that pulled against it",
+            "Discuss with a peer or tutor how the tension might be negotiated",
+            "Revise the passage and reflect on the outcome"
+          ],
+          "intendedInsight": "Writers make identity choices within conventions, and those choices can be discussed and negotiated.",
+          "rationale": "Ivanič (1998) shows that academic writing constructs writer identity, and Lillis (2001) argues for dialogic 'talkback' about meaning-making rather than one-way feedback.",
+          "citations": [
+            "ivanic1998",
+            "lillis2001"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'This means I don't have to follow the conventions.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Feedback dismissed as mere institutional power; conventions ignored without a considered rationale.",
+          "response": "Distinguish understanding conventions as contingent from ignoring them, discuss consequences, and pair the perspective with explicit teaching of valued genres (Wingate, 2012).",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "The perspective is felt to be abstract theory irrelevant to getting good marks.",
+          "kind": "conceptual",
+          "revealedBy": "Disengagement; requests to 'just tell us what to do'.",
+          "response": "Ground the perspective in learners' own feedback and texts and show practical gains such as sharper questions to tutors. Do not teach it as a lecture on theory to learners who have not yet experienced the mismatches it explains.",
+          "reteachPrerequisiteId": "acu.hidden-curriculum"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner why two students might interpret 'be critical' differently and what the institution, not only the students, could do about it.",
+        "strongResponse": "Refers to different prior practices and identities and to tutors' unstated assumptions, and proposes dialogue, modelling or clearer criteria as institutional responses.",
+        "partialResponse": "Identifies the different interpretations but places all responsibility on the student to adapt.",
+        "gapResponse": "Treats the difference purely as a matter of English level."
+      },
+      "contextNotes": "For UG in-sessional learners, the perspective is best introduced implicitly through dialogue about their own feedback. PGT students in education, social sciences and humanities may engage with it explicitly as theory. For PGR, particularly those researching language or education, it informs reflexive understanding of their own writing and of publication practices.",
+      "citations": [
+        "leastreet1998",
+        "lillisscott2007",
+        "lillis2001",
+        "ivanic1998",
+        "wingate2012literacy"
+      ],
+      "reviewNotes": [
+        "The academic literacies perspective is primarily a framework for teachers and institutions; its learner-facing scope here is deliberately limited to interpreting one's own experience."
+      ]
+    },
+    {
+      "topicId": "acu.transition",
+      "summary": "Zhou et al. (2008) reviewed models of international student adaptation and found weak empirical support for the popular U-curve of culture shock, favouring approaches that combine culture learning, stress and coping, and social identification. Teaching should therefore avoid predicting a fixed sequence of emotional stages and instead help learners learn specific practices, build networks and draw on existing resources. Morita (2004) and Leki (2007) show adjustment to be negotiated, individual and shaped by how institutions and peers position newcomers, so transition work also implies institutional responsibilities.",
+      "activities": [
+        {
+          "title": "Practice-learning log",
+          "learnerActions": [
+            "Record each week one academic or social practice that felt unfamiliar",
+            "Note what they did to understand it (observing, asking, reading guidance)",
+            "Note what from previous experience helped",
+            "Review the log with a peer or tutor after four weeks to identify patterns and next steps"
+          ],
+          "intendedInsight": "Adjustment proceeds through learning specific practices, many of which build on existing knowledge.",
+          "rationale": "A culture-learning orientation, one of the main approaches reviewed by Zhou et al. (2008), suggests focusing on learnable practices rather than generalised stages.",
+          "citations": [
+            "zhou2008"
+          ]
+        },
+        {
+          "title": "Mapping support and participation",
+          "learnerActions": [
+            "Draw a map of the people and services they interact with academically and socially",
+            "Identify gaps (for example no contact with students outside their language group, or no use of the writing centre)",
+            "Choose one gap and plan a concrete action",
+            "Report back on what happened and what they would do next"
+          ],
+          "intendedInsight": "Academic and social networks are resources that can be deliberately built.",
+          "rationale": "Morita (2004) shows that participation in academic communities is negotiated and shaped by positioning, so building relationships is part of adjustment rather than separate from it.",
+          "citations": [
+            "morita2004"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Everyone has a honeymoon and then culture shock; I'm in the shock stage now.'",
+          "kind": "conceptual",
+          "revealedBy": "Learners narrate their experience through popular stage models and expect difficulties to pass on schedule.",
+          "response": "Present adjustment as variable and validate feelings without predicting trajectories. Do not teach the U-curve as established fact (Zhou et al., 2008).",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Limited participation in seminars is interpreted, by the learner or by staff, as lack of ability or as a fixed cultural trait.",
+          "kind": "affective",
+          "revealedBy": "Withdrawal from discussion; staff references to 'quiet international students'.",
+          "response": "Explore situational reasons such as unfamiliar norms, how the learner is positioned by others, confidence and processing time, as Morita (2004) documents, and provide structured participation opportunities. Challenge essentialising explanations wherever they arise.",
+          "reteachPrerequisiteId": "idn.intercultural-communication"
+        },
+        {
+          "pattern": "Waiting until problems are severe before seeking help.",
+          "kind": "affective",
+          "revealedBy": "First contact with tutors or services comes after a failed assessment or crisis.",
+          "response": "Introduce services early and arrange a low-stakes first contact, such as a writing centre visit set as a class task.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What is one thing about studying here that is different from your previous study, and what have you done about it?'",
+        "strongResponse": "Identifies a specific practice, describes an action taken and reflects on resources used, including prior experience.",
+        "partialResponse": "Identifies a difference but describes no action, or describes feelings only.",
+        "gapResponse": "Cannot identify a difference, or attributes all difficulty to personal inadequacy."
+      },
+      "contextNotes": "Foundation and pre-sessional courses are themselves transition spaces in which practice-learning and networks can be built. UG transition spans the first year. PGT students have little time, so early support matters most. PGR transition involves risks of isolation, the supervisory relationship and research culture, and can recur at milestones such as progression reviews.",
+      "citations": [
+        "zhou2008",
+        "morita2004",
+        "leki2007"
+      ],
+      "reviewNotes": [
+        "Transition also affects home and mature students and depends on institutional practices; the topic should not be framed as specific to international students."
+      ]
+    },
+    {
+      "topicId": "acu.roles-address",
+      "summary": "Forms of address encode relationships of power and distance (Brown & Levinson, 1987), and norms vary across institutions, countries, disciplines and individuals: first-name address between students and staff is common in some settings and unusual in others. Economidou-Kogetsidis (2011) found that lecturers' perceptions of student emails were affected by openings and forms of address as well as by request strategies. Teach an evidence-based procedure (check the person's signature, profile and self-introduction; default to title plus family name when unsure; adjust when invited) rather than a single rule.",
+      "activities": [
+        {
+          "title": "Signature detective",
+          "learnerActions": [
+            "Examine a set of real or realistic staff email signatures and profile pages",
+            "Decide how to address each person and justify the decision from the evidence",
+            "Compare decisions with peers and identify genuinely uncertain cases",
+            "Agree a default strategy for uncertain cases"
+          ],
+          "intendedInsight": "Address choices can be based on evidence available in context, with a safe default when evidence is lacking.",
+          "rationale": "Treating pragmatic choices as context-dependent decisions rather than fixed rules is consistent with research on instructed pragmatic development (Kasper & Rose, 2002).",
+          "citations": [
+            "kasperrose2002"
+          ]
+        },
+        {
+          "title": "Local norms survey",
+          "learnerActions": [
+            "Compile several email openings that vary in title, name and greeting",
+            "Ask a few staff members or experienced students at their institution to rate each for appropriateness",
+            "Analyse where raters agree and disagree",
+            "Draw conclusions about local norms and about how much they vary between people"
+          ],
+          "intendedInsight": "Perceptions of address vary among staff, so checking local practice matters and a safe default reduces risk.",
+          "rationale": "Economidou-Kogetsidis (2011) examined lecturers' perceptions of student emails; an informal local replication makes local norms and their variability visible.",
+          "citations": [
+            "economidou2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Using a role noun as a form of address ('Dear Teacher', 'Hello Lecturer').",
+          "kind": "L1-transfer",
+          "revealedBy": "Emails and spoken address that use an occupational term in place of a name.",
+          "response": "Explain that in many languages an occupational title is a standard respectful address term, whereas in many English-medium academic settings it sounds unusual; offer title plus family name, or first name where invited. Make clear the choice is not rude in intent.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Combining a title with a first name ('Dr Sarah') in a setting where this is unusual.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Hybrid forms in emails, often from learners trying to combine respect and friendliness.",
+          "response": "Explain that in many English-speaking institutions titles combine with family names, while noting that title plus first name is normal in some regions and institutions; ask learners to check local usage.",
+          "reteachPrerequisiteId": "acu.university-structures"
+        },
+        {
+          "pattern": "Discomfort with first-name address even after being invited, leading to persistent formal address.",
+          "kind": "affective",
+          "revealedBy": "Continued use of titles after staff sign or introduce themselves with first names.",
+          "response": "Discuss that following a person's stated preference is itself respectful, while leaving the final choice to the learner; do not pressure learners to adopt informality.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Show an email from a lecturer signed 'Best wishes, Mike' above a full signature block reading 'Dr Michael Owusu, Lecturer in Economics', and ask how the learner would open a reply.",
+        "strongResponse": "Chooses 'Dear Mike' or 'Dear Dr Owusu' and justifies the choice from the sign-off and signature block.",
+        "partialResponse": "Chooses an acceptable form but cannot justify it.",
+        "gapResponse": "Uses a role noun, an unexplained hybrid form, or no greeting."
+      },
+      "contextNotes": "Foundation and pre-sessional learners need explicit teaching and safe defaults. In-sessional UG and PGT learners adjust to departmental norms. PGR researchers manage address with supervisors, external academics, editors and examiners, where norms may be more international and variable.",
+      "citations": [
+        "economidou2011",
+        "brownlevinson1987",
+        "kasperrose2002"
+      ],
+      "reviewNotes": [
+        "The claim that Economidou-Kogetsidis (2011) analysed forms of address and openings alongside request strategies should be verified against the article.",
+        "Statements about where first-name address is common are practice-based generalisations; teachers should check local norms."
+      ]
+    },
+    {
+      "topicId": "acu.critical-eap",
+      "summary": "Benesch (2001) argued that EAP should not only accommodate students to existing demands but also examine and, where appropriate, challenge them, proposing 'rights analysis' alongside needs analysis. Canagarajah (2002) analyses how the geopolitics of academic publishing advantages scholars at the centre over those at the periphery, and Jenkins (2014) critiques language policies in international universities that privilege native-speaker norms. Teaching should balance critique with access: learners need command of dominant conventions and an understanding of where these can be questioned, negotiated or resisted, and at what cost (Ding & Bruce, 2017).",
+      "activities": [
+        {
+          "title": "Needs and rights",
+          "learnerActions": [
+            "List the demands their course places on them (a needs analysis)",
+            "For each, ask who set it, why, and whether it could be negotiated (a rights analysis)",
+            "Identify one demand they might legitimately query and how they would do so",
+            "Discuss the possible benefits and risks of raising it"
+          ],
+          "intendedInsight": "Some academic demands are fixed and others negotiable; recognising the difference supports informed agency.",
+          "rationale": "Benesch (2001) proposed rights analysis as a complement to needs analysis in EAP.",
+          "citations": [
+            "benesch2001"
+          ]
+        },
+        {
+          "title": "Whose English?",
+          "learnerActions": [
+            "Read a short extract on the dominance of English in publishing or in university language policy",
+            "Discuss how this affects scholars and students in different positions",
+            "Relate the discussion to their own field or experience",
+            "Write a short reflection on how they will position themselves"
+          ],
+          "intendedInsight": "The status of English in academia results from history, economics and policy rather than linguistic merit.",
+          "rationale": "Canagarajah (2002) and Jenkins (2014) analyse inequalities in English-medium academia that learners can relate to their own situation.",
+          "citations": [
+            "canagarajah2002",
+            "jenkins2014"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Questioning requirements is disrespectful and will be penalised.'",
+          "kind": "affective",
+          "revealedBy": "Silence in discussion of norms; reluctance to evaluate any institutional requirement.",
+          "response": "Distinguish legitimate channels (queries to tutors, student representation, module evaluation) from refusing to comply, and show that institutions often seek reasoned feedback. Respect a learner's decision not to challenge.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Critique is used to argue that dominant conventions need not be learned.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Learners dismiss conventions as arbitrary without weighing the consequences.",
+          "response": "Stress that critique and access go together; a precise understanding of a convention is what makes it possible to negotiate it effectively.",
+          "reteachPrerequisiteId": "acu.academic-literacies"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'Why do most international journals publish in English, and who benefits?'",
+        "strongResponse": "Identifies historical and economic factors, advantages for some scholars and costs for others, and possible individual or collective responses.",
+        "partialResponse": "Recognises inequality but cannot elaborate or relate it to their own position.",
+        "gapResponse": "Treats the dominance of English as natural or self-evidently justified, or does not engage."
+      },
+      "contextNotes": "On pre-sessional courses, critical work is best grounded in concrete course demands through rights analysis. UG and PGT learners can examine assessment and language policies in their programmes. PGR researchers engage directly with the politics of publication and multilingual scholarship.",
+      "citations": [
+        "benesch2001",
+        "canagarajah2002",
+        "jenkins2014",
+        "dingbruce2017"
+      ],
+      "reviewNotes": [
+        "Pennycook's critique of pragmatism in EAP is not in the bibliography and could be proposed.",
+        "Much critical EAP literature addresses teachers; activities here are adapted for learners and their effects have not been tested."
+      ]
+    },
+    {
+      "topicId": "acu.emi-tne",
+      "summary": "Dafouz and Smit's (2016) ROAD-MAPPING framework analyses English-medium education through six dimensions (roles of English, academic disciplines, language management, agents, practices and processes, internationalisation and glocalisation), offering a tool for learners and teachers to describe their own context. Macaro et al.'s (2018) systematic review found EMI expanding rapidly but evidence on its benefits for language and content learning to be limited, and reported that many content lecturers do not regard language as their responsibility. EAP in EMI and TNE settings should therefore be designed around the local language ecology and actual disciplinary demands rather than imported anglophone-campus models (Jenkins, 2014).",
+      "activities": [
+        {
+          "title": "Mapping our language ecology",
+          "learnerActions": [
+            "Use simplified ROAD-MAPPING prompts to describe language use on their programme",
+            "Compare official language policy with observed practice",
+            "Identify where English is essential and where other languages support learning",
+            "Discuss what this implies for their English learning priorities"
+          ],
+          "intendedInsight": "EMI contexts have their own language ecologies, which determine what academic English is needed.",
+          "rationale": "ROAD-MAPPING (Dafouz & Smit, 2016) was designed to analyse English-medium education multidimensionally.",
+          "citations": [
+            "dafouzsmit2016"
+          ]
+        },
+        {
+          "title": "Lecturer expectations interview",
+          "learnerActions": [
+            "Prepare questions about language expectations for a content lecturer",
+            "Interview the lecturer, or analyse a supplied interview",
+            "Summarise what the lecturer expects regarding accuracy, terminology and participation",
+            "Compare these expectations with the assumptions of their EAP course"
+          ],
+          "intendedInsight": "Content lecturers' language expectations may differ from those of EAP courses and are often implicit.",
+          "rationale": "Macaro et al. (2018) report that EMI lecturers often do not see language support as part of their role, so learners benefit from discovering expectations directly.",
+          "citations": [
+            "macaro2018emi"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I must sound like a native speaker to succeed in EMI.'",
+          "kind": "conceptual",
+          "revealedBy": "Anxiety about accent and minor errors; reluctance to speak in class.",
+          "response": "Focus on intelligibility and disciplinary precision, and show that interaction among multilingual users of English is the norm in many EMI settings.",
+          "reteachPrerequisiteId": "idn.elf"
+        },
+        {
+          "pattern": "Assuming that practices from anglophone campuses apply automatically in an EMI or branch-campus programme, or the reverse.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Mismatched expectations about participation, assessment formats or staff roles.",
+          "response": "Investigate local practice through documents, observation and conversations with staff and senior students before generalising.",
+          "reteachPrerequisiteId": "acu.academic-expectations"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to describe how languages are used on an EMI programme they know.",
+        "strongResponse": "Describes specific practices (for example lectures in English, discussion in mixed languages, assessment in English) and draws implications for language learning priorities.",
+        "partialResponse": "Describes official policy only.",
+        "gapResponse": "Assumes English-only use without evidence."
+      },
+      "contextNotes": "Foundation programmes in EMI and TNE settings can address this directly. Pre-sessional courses preparing students for EMI should avoid anglophone-campus assumptions. UG and PGT EMI students need discipline-specific support that reflects local practice and the expectations of content lecturers.",
+      "citations": [
+        "dafouzsmit2016",
+        "macaro2018emi",
+        "jenkins2014"
+      ],
+      "reviewNotes": [
+        "TNE covers diverse models (branch campuses, franchise, validation, joint and dual awards); no TNE-specific source is in the bibliography, so TNE claims are kept general."
+      ]
+    },
+    {
+      "topicId": "prg.politeness",
+      "summary": "Brown and Levinson's (1987) model, in which the weight of a face-threatening act depends on social distance, relative power and the ranking of the imposition, gives learners a practical heuristic for calibrating mitigation, although its claims to universality and its individualist notion of face have been widely contested. Kasper and Rose (2002) review evidence that pragmatic development often lags behind grammatical development and that instruction combining awareness-raising with practice is beneficial. Economidou-Kogetsidis (2011) shows that staff perceptions of student emails depend on pragmatic choices as well as accuracy, so politeness deserves dedicated attention.",
+      "activities": [
+        {
+          "title": "Power, distance, imposition ratings",
+          "learnerActions": [
+            "Rate a set of academic scenarios for power, distance and imposition",
+            "Predict how much mitigation each needs",
+            "Compare predictions with authentic or teacher-written messages for the same scenarios",
+            "Revise predictions and note where local norms surprised them"
+          ],
+          "intendedInsight": "Mitigation is calibrated to the situation rather than applied uniformly.",
+          "rationale": "Brown and Levinson's (1987) variables provide a usable heuristic for calibrating politeness, provided they are treated as context-sensitive rather than universal.",
+          "citations": [
+            "brownlevinson1987"
+          ]
+        },
+        {
+          "title": "Noticing mitigation",
+          "learnerActions": [
+            "Read several student-to-staff messages that staff have rated for appropriateness",
+            "Highlight mitigation devices, and places where mitigation is absent or excessive",
+            "Discuss why some messages were rated as abrupt and others as overly deferential",
+            "Rewrite one message at a more appropriate level"
+          ],
+          "intendedInsight": "Specific linguistic devices make messages more or less polite, and over-mitigation also has costs.",
+          "rationale": "Awareness-raising followed by production practice is supported by instructed pragmatics research (Kasper & Rose, 2002); staff ratings follow the perception-based approach of Economidou-Kogetsidis (2011).",
+          "citations": [
+            "kasperrose2002",
+            "economidou2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Direct forms ('I want…', imperatives) used where English academic settings usually expect mitigation.",
+          "kind": "L1-transfer",
+          "revealedBy": "Bare imperatives or want-statements in emails and requests to staff.",
+          "response": "Explain that many languages mark politeness mainly through honorifics, particles or verb morphology, so a structurally direct English sentence may be a faithful translation of something polite in the L1; then teach English syntactic and lexical mitigation. Do not read directness as rudeness of intent.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Elaborate deference: long compliments, repeated apologies for writing, the purpose buried at the end.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Long, highly deferential messages in which the request is hard to find.",
+          "response": "Show that excessive deference can come across as distancing or as obscuring the point; aim for clarity plus proportionate mitigation.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "'Adding please makes anything polite.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "'Please' attached to imperatives or demands ('Please send me the answers today').",
+          "response": "Show that 'please' marks a request but does not reduce the imposition by itself; teach modal, conditional and lexical downgraders and the use of reasons.",
+          "reteachPrerequisiteId": "reg.register-awareness"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to evaluate and rewrite: 'I need the slides from last week. Please send them today.'",
+        "strongResponse": "Identifies the absence of mitigation and the imposed deadline, and rewrites with a reason, a modal or conditional request form and no unexplained deadline.",
+        "partialResponse": "Adds politeness markers but keeps the demand and deadline.",
+        "gapResponse": "Sees no problem with the original."
+      },
+      "contextNotes": "Foundation and pre-sessional: the three variables and core mitigation devices. In-sessional UG and PGT: applying these to real correspondence and meetings. PGR: managing politeness with supervisors, peers, editors and reviewers, where disagreement must often be expressed while maintaining the relationship.",
+      "citations": [
+        "brownlevinson1987",
+        "kasperrose2002",
+        "economidou2011"
+      ],
+      "reviewNotes": [
+        "Critiques of Brown and Levinson's universality claims are not represented in the bibliography; a source could be proposed."
+      ]
+    },
+    {
+      "topicId": "prg.requests",
+      "summary": "Requests to staff are among students' most frequent and consequential academic speech acts. Biesenbach-Lucas (2007) found differences between native and non-native speaker students' email requests to faculty in directness and in the use of mitigating modification, and Economidou-Kogetsidis (2011) found that lecturers perceived unmitigated or imposing requests negatively even when they were grammatically accurate. Teach request structure (head act, internal and external modification) using categories from cross-cultural request research (Blum-Kulka et al., 1989), always calibrated to the imposition and to any procedure that governs the request.",
+      "activities": [
+        {
+          "title": "Imposition ladder",
+          "learnerActions": [
+            "Rank a set of academic requests by imposition, from asking for a link to asking for a reference at short notice",
+            "Write requests at three points on the ladder",
+            "Compare modification choices with peers and with models",
+            "Identify which requests are governed by formal procedures"
+          ],
+          "intendedInsight": "Mitigation should increase with imposition, and some requests belong in formal processes rather than personal appeals.",
+          "rationale": "Request research describes how modification varies with situational factors and how learners may under- or over-modify (Blum-Kulka et al., 1989; Biesenbach-Lucas, 2007).",
+          "citations": [
+            "blumkulka1989",
+            "biesenbach2007"
+          ]
+        },
+        {
+          "title": "Request anatomy",
+          "learnerActions": [
+            "Analyse student requests into opening, reason, head act, modification and closing",
+            "Identify missing or excessive elements",
+            "Rewrite one request twice, as an email and as a spoken request in person",
+            "Get peer feedback on clarity and tone"
+          ],
+          "intendedInsight": "Requests have identifiable parts, each with a function that can be adjusted.",
+          "rationale": "Analysing request components follows the coding categories widely used in request research (Blum-Kulka et al., 1989) and makes pragmatic choices teachable (Kasper & Rose, 2002).",
+          "citations": [
+            "blumkulka1989",
+            "kasperrose2002"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Requests framed as needs or obligations ('I need an extension', 'You should send me').",
+          "kind": "developmental",
+          "revealedBy": "Want and need statements used as the head act in requests to staff.",
+          "response": "Teach preparatory forms ('Could you…', 'Would it be possible to…') and conditional mitigation. Do not simply ban 'I need'; a need statement with a clear reason can be appropriate. Expect these forms to develop gradually rather than all at once.",
+          "reteachPrerequisiteId": "grm.conditionals"
+        },
+        {
+          "pattern": "Imposing time pressure ('Please reply as soon as possible').",
+          "kind": "overgeneralisation",
+          "revealedBy": "Urgency markers without explanation, often carried over from service or business email templates.",
+          "response": "Show how unexplained time demands increase the imposition, and teach how to signal genuine urgency with a reason.",
+          "reteachPrerequisiteId": "prg.politeness"
+        },
+        {
+          "pattern": "'It is more polite to give all the background before I ask.'",
+          "kind": "conceptual",
+          "revealedBy": "The request appears only in the final lines or is merely implied.",
+          "response": "Teach an early purpose statement followed by context, and show how busy recipients read emails. Acknowledge that context-first ordering is valued in many settings and is not wrong in principle.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to write a request for a three-day extension because of illness.",
+        "strongResponse": "Refers to the formal procedure, states the request clearly, gives the reason, mitigates proportionately and offers evidence.",
+        "partialResponse": "States a clear request with a reason but ignores the procedure, or is clearly under- or over-mitigated.",
+        "gapResponse": "Makes a demand without a reason or any reference to procedure."
+      },
+      "contextNotes": "Foundation and pre-sessional: core request forms and the idea of imposition. In-sessional UG and PGT: real requests for meetings, feedback, extensions and references. PGR: high-imposition requests to supervisors, external researchers, data gatekeepers and editors, often across institutions.",
+      "citations": [
+        "biesenbach2007",
+        "economidou2011",
+        "kasperrose2002",
+        "blumkulka1989"
+      ],
+      "reviewNotes": [
+        "The summary of Biesenbach-Lucas (2007) is given at a general level (differences in directness and modification); verify detailed claims against the article before adding specifics."
+      ]
+    },
+    {
+      "topicId": "prg.emails-to-staff",
+      "summary": "Email to staff is a hybrid genre between letter and conversation, and student emails are judged on content, structure and politeness together. Biesenbach-Lucas (2007) and Economidou-Kogetsidis (2011) document variation in how students open, frame and close emails and mitigate requests, and Economidou-Kogetsidis shows how such features shape lecturers' perceptions. Teach email as a genre with recognisable moves (subject, greeting, identification, purpose, context, request, closing, signature) whose realisation varies with recipient and local norms, using analysis of authentic examples and rewriting.",
+      "activities": [
+        {
+          "title": "Inbox triage",
+          "learnerActions": [
+            "Read a set of anonymised or invented student emails as if they were a busy lecturer",
+            "Decide which could be answered immediately and why",
+            "Identify what made the others hard to answer (missing information, unclear purpose, tone)",
+            "Rewrite one so that it could be answered in a single reply"
+          ],
+          "intendedInsight": "An email succeeds when it makes the recipient's task easy.",
+          "rationale": "Taking the recipient's perspective helps learners see how structure and politeness affect perception (Economidou-Kogetsidis, 2011).",
+          "citations": [
+            "economidou2011"
+          ]
+        },
+        {
+          "title": "Move analysis and rewriting",
+          "learnerActions": [
+            "Identify the moves in several model emails",
+            "Compare openings and closings across emails to different recipients",
+            "Write an email for a given scenario",
+            "Peer-review it with a move checklist and revise"
+          ],
+          "intendedInsight": "Emails have a predictable structure that varies with recipient and purpose.",
+          "rationale": "Move analysis makes the genre's structure explicit, and Biesenbach-Lucas (2007) shows variation in how students realise its elements.",
+          "citations": [
+            "biesenbach2007"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Blank or uninformative subject lines ('Hello', 'Question').",
+          "kind": "performance",
+          "revealedBy": "Emails without a subject or with a generic one, which staff may overlook or deprioritise.",
+          "response": "Practise subject lines that include the module code and purpose, and have learners sort an inbox by subject line alone to see the effect.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Writing as in instant messaging: no greeting, lower case, abbreviations.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Messages such as 'hi can u send the slides'.",
+          "response": "Contrast channels and audiences and show how such messages may be perceived by staff. Frame this as audience adaptation, not a moral failing.",
+          "reteachPrerequisiteId": "reg.formality-features"
+        },
+        {
+          "pattern": "No identifying details (full name, module, student number).",
+          "kind": "performance",
+          "revealedBy": "Staff cannot tell who the sender is or which module the query concerns.",
+          "response": "Provide a signature template and a pre-send checklist.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a scenario and ten minutes to write the email.",
+        "strongResponse": "All moves present; informative subject line; clear early purpose; proportionate mitigation; identifying details.",
+        "partialResponse": "Clear purpose but a weak subject line, missing identification or uneven tone.",
+        "gapResponse": "Unclear purpose, inappropriate address or an unmitigated demand."
+      },
+      "contextNotes": "Foundation and pre-sessional: the core genre and its moves. In-sessional UG and PGT: emails to different roles (administrators, tutors, dissertation supervisors). PGR: emails to prospective supervisors, external academics, conference organisers and editors; correspondence with editors overlaps with pub.cover-letters.",
+      "citations": [
+        "biesenbach2007",
+        "economidou2011"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "prg.office-hours",
+      "summary": "Office hours and tutorials are an institutional genre with recurring phases (opening, stating purpose, discussion, closing) and a status asymmetry that students must manage. Bardovi-Harlig and Hartford (1990) found differences between native and non-native speaker students in academic advising sessions in how suggestions and rejections were made and in the use of status-preserving mitigation, and Biber (2006) describes office hours as a distinct interactive university register. Preparing specific questions and rehearsing openings, clarification requests and closings builds the confidence to use an often under-used resource.",
+      "activities": [
+        {
+          "title": "Office hour rehearsal",
+          "learnerActions": [
+            "Prepare for a real or simulated meeting: purpose, two or three questions, materials",
+            "Role-play with a peer or teacher playing a tutor who gives brief or vague advice",
+            "Practise clarification requests and a closing summary of actions",
+            "Debrief on what worked and what to change"
+          ],
+          "intendedInsight": "Preparation and specific questions make short meetings productive.",
+          "rationale": "Rehearsing interactional sequences with feedback supports pragmatic development (Kasper & Rose, 2002).",
+          "citations": [
+            "kasperrose2002"
+          ]
+        },
+        {
+          "title": "Analysing meeting talk",
+          "learnerActions": [
+            "Listen to a recording or read a transcript of an office hour or tutorial",
+            "Identify the phases and who initiates each",
+            "Note the language used to frame purpose, ask for clarification and close",
+            "Compile a short personal phrase bank"
+          ],
+          "intendedInsight": "Meetings follow patterns that can be anticipated and prepared for.",
+          "rationale": "Biber (2006) documents office hours as a distinctive university register; examining it makes its patterns available to learners.",
+          "citations": [
+            "biber2006"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I shouldn't take up the professor's time unless I have a serious problem.'",
+          "kind": "prior-schooling",
+          "revealedBy": "No attendance at office hours; questions saved until after assessment.",
+          "response": "Explain what office hours are for at this institution and give concrete reasons to attend (checking a plan, discussing feedback). Arrange a first visit as a class task where possible.",
+          "reteachPrerequisiteId": "acu.teaching-formats"
+        },
+        {
+          "pattern": "Arriving without specific questions or materials.",
+          "kind": "performance",
+          "revealedBy": "Meetings end without clear outcomes; learners report that the meeting 'did not help'.",
+          "response": "Use a short preparation sheet (purpose, questions, materials, desired outcome) before each meeting.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Accepting vague advice without asking what it means.",
+          "kind": "affective",
+          "revealedBy": "The learner agrees during the meeting but cannot act on the advice afterwards.",
+          "response": "Practise clarification and summarising moves and present them as expected, not as challenges to the tutor.",
+          "reteachPrerequisiteId": "sem.questions-clarification"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'You have ten minutes with your tutor about your essay feedback. How will you use the time?'",
+        "strongResponse": "Names specific questions about particular comments, brings the draft and feedback, and plans to summarise agreed actions.",
+        "partialResponse": "States a general intention to 'discuss the feedback'.",
+        "gapResponse": "Would not go, or would not know what to ask."
+      },
+      "contextNotes": "Foundation: what office hours are and why to use them. Pre-sessional: rehearsal using the destination institution's arrangements. In-sessional UG and PGT: real feedback tutorials, personal tutor meetings and dissertation meetings. PGR supervision meetings are covered by res.supervision.",
+      "citations": [
+        "biber2006",
+        "kasperrose2002",
+        "bardoviharlig1990"
+      ],
+      "reviewNotes": [
+        "Bardovi-Harlig and Hartford (1990) is a proposed reference; if it is not verified, the summary should rely on biber2006 and kasperrose2002."
+      ]
+    },
+    {
+      "topicId": "prg.formal-statements",
+      "summary": "Extenuating circumstances statements, appeals and complaints are institutional genres judged against regulations, and their success depends on procedural fit, relevant evidence and a measured tone more than on persuasion. Bhatia's (1993) analysis of professional and legal genres shows how such texts are shaped by institutional purposes and constraints, and move analysis (Swales, 1990) can help learners identify what their own institution's forms and guidance expect. Because procedures, terminology and grounds differ between institutions, teaching should always work from local regulations and signpost student advice services.",
+      "activities": [
+        {
+          "title": "Procedure first",
+          "learnerActions": [
+            "Read their institution's extenuating circumstances or appeals policy",
+            "Identify the permitted grounds, deadlines, evidence required and possible outcomes",
+            "Turn these into a checklist",
+            "Apply the checklist to a sample case"
+          ],
+          "intendedInsight": "The regulation defines what a statement must do.",
+          "rationale": "Analysing the institutional constraints on a genre reflects Bhatia's (1993) approach to professional genres.",
+          "citations": [
+            "bhatia1993"
+          ]
+        },
+        {
+          "title": "From narrative to statement",
+          "learnerActions": [
+            "Read an emotional, unordered account of events",
+            "Select the relevant facts and put them in chronological order with dates",
+            "Link each circumstance to its effect on assessment",
+            "Rewrite in a measured register and compare versions with peers"
+          ],
+          "intendedInsight": "Selecting and ordering facts, rather than intensifying emotion, makes a statement effective.",
+          "rationale": "Transforming a narrative into an institutional genre makes its moves and register explicit (Swales, 1990). This is a practice-based proposal.",
+          "citations": [
+            "swales1990"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Appealing to effort or deserving ('I worked very hard on this module') rather than to permitted grounds.",
+          "kind": "conceptual",
+          "revealedBy": "Statements that emphasise effort, past grades or personal need.",
+          "response": "Show the grounds listed in the regulations and explain that effort or need alone is not usually a ground.",
+          "reteachPrerequisiteId": "prg.requests"
+        },
+        {
+          "pattern": "An accusatory or emotional tone toward staff.",
+          "kind": "affective",
+          "revealedBy": "Statements that blame named tutors or use emotive language.",
+          "response": "Separate facts from evaluation; suggest drafting, waiting and revising, and using student advice services for support.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Disclosing far more personal or medical detail than the process requires.",
+          "kind": "conceptual",
+          "revealedBy": "Lengthy personal narratives, sometimes with sensitive details unrelated to the claim.",
+          "response": "Explain that evidence and confidentiality procedures exist; disclose what is needed to establish the circumstance and its effect.",
+          "reteachPrerequisiteId": "prg.apologising-explaining"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a disordered case and ask which details belong in an extenuating circumstances statement and in what order.",
+        "strongResponse": "Selects relevant, dated, evidenced facts, orders them chronologically, links them to assessment impact and excludes irrelevant detail.",
+        "partialResponse": "Selects relevant facts but omits the link to impact or the outcome requested.",
+        "gapResponse": "Includes everything, or focuses on effort and sympathy."
+      },
+      "contextNotes": "Foundation and pre-sessional: awareness of the procedures and when to use them, since circumstances can arise during these courses too. In-sessional UG and PGT: drafting when needed, alongside student advice services. Teachers should not advise on live cases beyond language and should refer students to advice services.",
+      "citations": [
+        "bhatia1993",
+        "swales1990"
+      ],
+      "reviewNotes": [
+        "No research on student extenuating circumstances or appeal statements was found in the bibliography; guidance is practice-based.",
+        "Terminology (extenuating versus mitigating circumstances) and permitted grounds vary by institution and country."
+      ]
+    },
+    {
+      "topicId": "prg.apologising-explaining",
+      "summary": "Apologies redress a threat to the hearer's face while threatening the speaker's own (Brown & Levinson, 1987). Cross-cultural research identifies recurring apology strategies (an explicit apology expression, an account, acknowledgement of responsibility, an offer of repair and a promise of forbearance) whose selection varies with situation and language (Blum-Kulka et al., 1989), and Kasper and Rose (2002) show these develop with exposure and instruction. In academic contexts an effective apology is usually brief, offers repair and connects to any formal process, such as absence reporting.",
+      "activities": [
+        {
+          "title": "Apology components",
+          "learnerActions": [
+            "Analyse several apologies to staff for their components",
+            "Rate each for appropriateness and explain the ratings",
+            "Rewrite weaker examples to add repair and remove over-disclosure",
+            "Discuss which situations also need a formal procedure"
+          ],
+          "intendedInsight": "Effective apologies include repair, not only regret.",
+          "rationale": "Component analysis follows the categories of cross-cultural apology research (Blum-Kulka et al., 1989).",
+          "citations": [
+            "blumkulka1989"
+          ]
+        },
+        {
+          "title": "Spoken apology role-play",
+          "learnerActions": [
+            "Role-play arriving late to a seminar, missing a meeting and missing a group deadline",
+            "Practise a brief spoken apology with an account and repair",
+            "Give and receive peer feedback",
+            "Repeat with a different relationship (peer versus tutor)"
+          ],
+          "intendedInsight": "Spoken apologies should be brief and proportionate, and vary with the relationship.",
+          "rationale": "Practice across varied power and distance conditions builds sociopragmatic flexibility (Kasper & Rose, 2002).",
+          "citations": [
+            "kasperrose2002"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'The more detail I give, the more sincere I seem.'",
+          "kind": "conceptual",
+          "revealedBy": "Long accounts with personal detail and little repair.",
+          "response": "Show that brief accounts are the norm in this context and that detailed evidence belongs in formal processes, not personal apologies.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Giving an explanation but no explicit apology expression.",
+          "kind": "developmental",
+          "revealedBy": "Messages that explain the absence but never say sorry or acknowledge the inconvenience.",
+          "response": "Teach explicit apology expressions alongside accounts and show how their absence may be read. Do not assume the learner intended no apology.",
+          "reteachPrerequisiteId": "prg.politeness"
+        },
+        {
+          "pattern": "Excessive self-criticism and repeated apologies.",
+          "kind": "affective",
+          "revealedBy": "Multiple apologies in one message; self-deprecating language.",
+          "response": "Model proportionate apologies and reassure learners that a single, sincere apology with repair is sufficient.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to apologise, in writing or speech, to a tutor for missing a scheduled meeting.",
+        "strongResponse": "Explicit apology, brief relevant account and concrete repair such as rescheduling.",
+        "partialResponse": "Apology without repair, or with excessive detail.",
+        "gapResponse": "No apology, or an account that blames the tutor or institution."
+      },
+      "contextNotes": "Foundation and pre-sessional: core apology forms in speech and writing. In-sessional UG and PGT: real situations, with explicit links to absence reporting, extensions and extenuating circumstances processes.",
+      "citations": [
+        "brownlevinson1987",
+        "kasperrose2002",
+        "blumkulka1989"
+      ],
+      "reviewNotes": [
+        "Blum-Kulka et al. (1989) is a proposed reference."
+      ]
+    },
+    {
+      "topicId": "prg.forum-posts",
+      "summary": "Asynchronous forums blend features of speech and writing; effective posts combine a clear point, support from readings and explicit engagement with peers. Hyland's (2005) model of stance and engagement provides resources for positioning oneself and addressing readers, and Coffin, Painter and Hewings (2005) analysed patterns of argument in tertiary asynchronous conferencing, indicating that sustained debate does not emerge automatically. Teaching should model replies that build on and challenge others and clarify local expectations for assessed posts.",
+      "activities": [
+        {
+          "title": "Reply moves",
+          "learnerActions": [
+            "Analyse a forum thread for reply types (agree, extend, question, challenge, synthesise)",
+            "Identify which moves advanced the discussion",
+            "Write two replies using different moves",
+            "Peer-evaluate the replies for engagement and support"
+          ],
+          "intendedInsight": "Replies that extend, question or challenge advance discussion more than agreement alone.",
+          "rationale": "Engagement resources (Hyland, 2005) help writers position themselves in relation to readers and other voices.",
+          "citations": [
+            "hyland2005stance"
+          ]
+        },
+        {
+          "title": "Post makeover",
+          "learnerActions": [
+            "Read a weak post (off-topic, unsupported or written in text-speak)",
+            "Revise it for point, support, engagement and register",
+            "Compare revisions in groups",
+            "Agree a checklist for future posts"
+          ],
+          "intendedInsight": "Forum register sits between conversation and formal academic prose and still rewards support and focus.",
+          "rationale": "Explicit criteria help learners meet assessed forum expectations; Coffin et al. (2005) suggest that the quality of argument in forums varies and benefits from attention.",
+          "citations": [
+            "coffin2005"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Replies that only agree ('Great post, I totally agree').",
+          "kind": "affective",
+          "revealedBy": "Threads made up of agreement with no development.",
+          "response": "Teach mitigated disagreement and extension moves and show that collegial challenge is expected.",
+          "reteachPrerequisiteId": "sem.agreeing-disagreeing"
+        },
+        {
+          "pattern": "Posting a self-contained mini-essay that ignores other contributions.",
+          "kind": "conceptual",
+          "revealedBy": "Long posts that never mention peers' points.",
+          "response": "Model dialogic engagement by naming and responding to specific peer points.",
+          "reteachPrerequisiteId": "sem.building-on-others"
+        },
+        {
+          "pattern": "Register that is too informal or too formal for the forum.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Text-speak at one extreme, essay-style impersonality at the other.",
+          "response": "Show model posts from the learner's own course and discuss what the forum's purpose requires.",
+          "reteachPrerequisiteId": "reg.register-awareness"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a short thread and ask for a reply of about 150 words.",
+        "strongResponse": "Engages a specific peer point, adds supported content and handles agreement or disagreement collegially.",
+        "partialResponse": "Engages peers but without support, or adds support without engaging peers.",
+        "gapResponse": "Generic agreement or an off-topic post."
+      },
+      "contextNotes": "Foundation and pre-sessional: practice on the course VLE as part of blended provision. In-sessional UG and PGT: assessed forums, particularly in online and distance programmes, where posts may carry significant marks.",
+      "citations": [
+        "hyland2005stance",
+        "coffin2005"
+      ],
+      "reviewNotes": [
+        "Coffin et al. (2005) is a proposed reference; if it is not verified, rely on hyland2005stance alone."
+      ]
+    },
+    {
+      "topicId": "prg.messaging-channels",
+      "summary": "Students now communicate through several channels (email, VLE messaging and forums, enquiry systems, group chats and collaboration platforms), each with different norms of formality, privacy and response time. Biesenbach-Lucas (2007) treats student–faculty email as a medium whose politeness conventions are less settled than those of traditional letters, and Economidou-Kogetsidis (2011) illustrates how demands for urgent replies can affect lecturers' perceptions. Teach channel choice as a decision about purpose, audience, privacy and urgency, grounded in each department's stated policy.",
+      "activities": [
+        {
+          "title": "Channel sort",
+          "learnerActions": [
+            "Sort a set of scenarios into the channels available at their institution",
+            "Justify each choice with reference to institutional or module guidance",
+            "Compare choices with peers and resolve disagreements",
+            "Make a personal reference card for future use"
+          ],
+          "intendedInsight": "Channel choice is part of the message and is governed by local norms.",
+          "rationale": "Making channel norms explicit addresses an area where conventions are often unstated and still changing (Biesenbach-Lucas, 2007).",
+          "citations": [
+            "biesenbach2007"
+          ]
+        },
+        {
+          "title": "Waiting and following up",
+          "learnerActions": [
+            "Find staff response-time statements in module handbooks or staff pages",
+            "Discuss what to do while waiting for a reply",
+            "Draft a polite follow-up to be sent after a reasonable interval",
+            "Compare follow-ups and identify what makes them appropriate"
+          ],
+          "intendedInsight": "Response times have limits, and follow-ups need sensible spacing and mitigation.",
+          "rationale": "Economidou-Kogetsidis (2011) discusses time-pressure demands as a source of negative perceptions in student emails.",
+          "citations": [
+            "economidou2011"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Contacting staff through personal social media or messaging apps.",
+          "kind": "prior-schooling",
+          "revealedBy": "Messages to staff on personal accounts, sometimes outside working hours.",
+          "response": "Explain institutional boundaries and the reasons for them, while acknowledging that some staff and institutions do use such channels; check local norms.",
+          "reteachPrerequisiteId": "dig.vle"
+        },
+        {
+          "pattern": "Sending several follow-ups within hours.",
+          "kind": "affective",
+          "revealedBy": "Chains of messages on the same query, often driven by anxiety about deadlines.",
+          "response": "Discuss reasonable response times and alternative sources of help while waiting; draft a single follow-up together.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Sharing private information in group or public channels.",
+          "kind": "conceptual",
+          "revealedBy": "Personal circumstances, marks or health details posted in forums or group chats.",
+          "response": "Distinguish public from private channels explicitly and practise deciding what belongs where.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give six short scenarios and ask which channel the learner would use and when they would expect a reply.",
+        "strongResponse": "Chooses channels in line with stated norms, protects privacy, and sets realistic expectations about replies and follow-ups.",
+        "partialResponse": "Most choices appropriate, but privacy or response-time expectations misjudged.",
+        "gapResponse": "Uses one channel for everything or chooses personal channels for staff contact."
+      },
+      "contextNotes": "Foundation and pre-sessional: introducing institutional channels and their purposes. In-sessional UG and PGT: managing group-work channels alongside staff communication. PGR: professional multichannel communication with supervisors, labs, collaborators and external partners.",
+      "citations": [
+        "biesenbach2007",
+        "economidou2011"
+      ],
+      "reviewNotes": [
+        "Channel norms are changing quickly, and no source in the bibliography addresses multichannel student–staff communication directly."
+      ]
+    },
+    {
+      "topicId": "prg.acknowledgements",
+      "summary": "Hyland's (2004) analysis of dissertation acknowledgements identified a three-tier structure (reflecting, thanking and announcing moves) and showed the genre's role in self-presentation and academic networking. Article acknowledgements serve additional functions: disclosing funding and recognising contributors who do not meet authorship criteria (ICMJE, 2025; Brand et al., 2015). Teaching should combine move analysis with institutional and journal requirements and attention to confidentiality.",
+      "activities": [
+        {
+          "title": "Move analysis of acknowledgements",
+          "learnerActions": [
+            "Analyse several thesis or dissertation acknowledgements from their field",
+            "Identify the moves and their order",
+            "Note variation in register and length",
+            "Draft their own acknowledgement"
+          ],
+          "intendedInsight": "Acknowledgements follow recognisable conventions while allowing personal expression.",
+          "rationale": "Hyland (2004) identifies the moves of dissertation acknowledgements, providing a basis for analysis.",
+          "citations": [
+            "hyland2004graduates"
+          ]
+        },
+        {
+          "title": "Who goes where?",
+          "learnerActions": [
+            "Sort a list of contributors into authors, acknowledged contributors and those not acknowledged",
+            "Justify decisions using ICMJE criteria or CRediT roles",
+            "Draft a funding statement",
+            "Compare decisions with peers"
+          ],
+          "intendedInsight": "Acknowledgement and authorship are distinct, with ethical implications.",
+          "rationale": "Authorship criteria (ICMJE, 2025) and contributor role taxonomies (Brand et al., 2015) define who is acknowledged rather than listed as an author.",
+          "citations": [
+            "icmje2025",
+            "brand2015credit"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Naming participants or organisations that were promised anonymity.",
+          "kind": "conceptual",
+          "revealedBy": "Acknowledgements that identify research sites or participants by name.",
+          "response": "Check consent and ethics documentation before naming anyone; thank participants collectively where anonymity was promised.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Register that is either extremely effusive or perfunctory.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Very long, emotional acknowledgements or a single generic line.",
+          "response": "Show a range of models from the learner's field and institution and discuss audience.",
+          "reteachPrerequisiteId": "reg.register-awareness"
+        },
+        {
+          "pattern": "Offering authorship as a form of thanks, or acknowledging someone whose contribution merits authorship.",
+          "kind": "conceptual",
+          "revealedBy": "Proposed author lists that include people who only provided resources, or acknowledgements of substantial intellectual contributors.",
+          "response": "Revisit authorship criteria and discuss with supervisors.",
+          "reteachPrerequisiteId": "pub.authorship"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a list of contributors and ask the learner to decide who is acknowledged, who might be an author and how anonymous participants are thanked.",
+        "strongResponse": "Correctly distinguishes authors and acknowledged contributors, includes funding details and protects anonymity.",
+        "partialResponse": "Mostly correct but omits funding or names an anonymous participant.",
+        "gapResponse": "Confuses authorship and acknowledgement or omits required elements."
+      },
+      "contextNotes": "UG and PGT dissertation acknowledgements are usually short and optional. PGR thesis acknowledgements are longer and more personal. Article acknowledgements are formulaic and often include required funding and conflict-of-interest statements.",
+      "citations": [
+        "hyland2004graduates",
+        "icmje2025",
+        "brand2015credit"
+      ],
+      "reviewNotes": [
+        "Hyland (2004) is a proposed reference; verify before publication."
+      ]
+    }
+  ],
+  "proposedReferences": [
+    {
+      "key": "blumkulka1989",
+      "kind": "book",
+      "apa": "Blum-Kulka, S., House, J., & Kasper, G. (Eds.). (1989). *Cross-cultural pragmatics: Requests and apologies*. Ablex.",
+      "note": "High confidence: the standard edited volume reporting the Cross-Cultural Speech Act Realization Project (CCSARP). No DOI. Supports the request and apology strategy categories used in prg.requests and prg.apologising-explaining."
+    },
+    {
+      "key": "hyland2004graduates",
+      "kind": "article",
+      "apa": "Hyland, K. (2004). Graduates' gratitude: The generic structure of dissertation acknowledgements. *English for Specific Purposes, 23*(3), 303–324.",
+      "note": "High confidence in author, year, title and journal. Volume, issue and page range are believed correct but should be checked; DOI omitted because I am not certain of it. Supports the move structure (reflecting, thanking, announcing) cited in prg.acknowledgements."
+    },
+    {
+      "key": "bardoviharlig1990",
+      "kind": "article",
+      "apa": "Bardovi-Harlig, K., & Hartford, B. S. (1990). Congruence in native and nonnative conversations: Status balance in the academic advising session. *Language Learning, 40*(4), 467–501.",
+      "note": "High confidence in authors, year, title and journal; issue and pages should be verified. DOI omitted. Used for differences in suggestions, rejections and status-preserving strategies in advising sessions (prg.office-hours)."
+    },
+    {
+      "key": "coffin2005",
+      "kind": "article",
+      "apa": "Coffin, C., Painter, C., & Hewings, A. (2005). Patterns of debate in tertiary level asynchronous electronic conferencing. *International Journal of Educational Research, 43*(7–8), 464–480.",
+      "note": "Moderate confidence: I believe the authors, title, journal and year are correct, but volume, issue and pages need checking. DOI omitted. Used only for the general claim that argument in tertiary asynchronous forums varies and needs attention (prg.forum-posts). If it is unverifiable, remove it; hyland2005stance remains as that topic's citation."
+    }
+  ],
+  "authorNotes": [
+    "Cross-group cycle risk: acu.disciplinary-knowledge <- crt.evidence-types, acu.transition <- idn.intercultural-communication, acu.critical-eap <- idn.standards-legitimacy and acu.emi-tne <- idn.elf. The CRT and IDN authors should not make those topics depend on ACU topics.",
+    "voc.university-terminology and acu.university-structures / acu.teaching-formats develop together. I left ACU topics without VOC prerequisites so that VOC can safely add voc.university-terminology <- acu.university-structures (soft) if it wants to.",
+    "Overlap: ges.genre-concept ('Genre and discourse community') duplicates the discourse-community half of acu.discourse-communities. Suggest narrowing ges.genre-concept to genre and adding ges.genre-concept <- acu.discourse-communities.",
+    "Overlap: acu.academic-expectations overlaps lrn.independent-study, lrn.autonomy and crt.concept. Suggest those take acu.academic-expectations as a soft prerequisite rather than the reverse.",
+    "Overlap: acu.hidden-curriculum overlaps fbk.marking-criteria and fbk.feedback-literacy, which concern tacit criteria too. Suggest the FBK topics take acu.hidden-curriculum as a soft prerequisite.",
+    "Scope: acu.academic-literacies and acu.critical-eap are mainly teacher and curriculum perspectives. Their learner-facing scope is narrowed to PGT/PGR or to interpreting one's own experience. Consider flagging them as 'practitioner knowledge' in the build.",
+    "Gap: no topic covers student voice and representation (module evaluation, course reps, student-staff committees), which is how learners can legitimately act on acu.critical-eap. Consider adding one.",
+    "Overlap: fbk.seeking-feedback (SOCIOPRAGMATIC) overlaps prg.requests and prg.office-hours. Suggest fbk.seeking-feedback take prg.requests as a prerequisite and not the reverse. I made no PRG topic depend on FBK.",
+    "Overlap: prg.messaging-channels overlaps dig.digital-etiquette. Suggest dig.digital-etiquette focus on online presence and privacy, with a soft edge to prg.messaging-channels or no edge. PRG does not depend on it, to avoid a cycle.",
+    "Overlap: prg.formal-statements and int.policy-processes both cover appeals. I did not link them, to avoid a cross-group cycle. Suggest int.policy-processes <- prg.formal-statements (soft) if INT wants a link.",
+    "prg.office-hours excludes PGR because res.supervision covers supervision meetings. Suggest res.supervision <- prg.office-hours (soft).",
+    "Cross-group cycle risk: prg.forum-posts depends on sem.building-on-others and sem.agreeing-disagreeing; prg.office-hours on sem.questions-clarification; prg.acknowledgements on pub.authorship and grp.dissertation-overview; prg.messaging-channels on dig.vle; prg.requests on voc.university-terminology and grm.conditionals. Those topics should not depend on PRG topics. sem.online-discussion in particular should not take prg.forum-posts as a prerequisite unless the SEM edges above are checked.",
+    "Mis-scoping: prg.acknowledgements is a research/thesis front-matter genre and might sit better in RES or PUB. It is kept here because its core is thanking, which is pragmatic.",
+    "Gaps: (1) spoken service encounters with professional services (library, student hub, IT desk); (2) telephone and video calls with staff; (3) academic networking and small talk at conferences and departmental events for PGR; (4) giving and receiving thanks and compliments in everyday academic interaction."
+  ]
+}

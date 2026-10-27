@@ -4293,7 +4293,7 @@
           "kind": "performance",
           "revealedBy": "Mid-phrase pauses in spontaneous speech.",
           "response": "Encourage planning in phrases rather than words, and link to formulaic chunks and fluency work.",
-          "reteachPrerequisiteId": "prn.intelligibility"
+          "reteachPrerequisiteId": null
         },
         {
           "pattern": "Learners break long academic noun phrases into single-word groups.",
@@ -4757,7 +4757,7 @@
           "kind": "affective",
           "revealedBy": "Fluency much better in pairs than in front of a group.",
           "response": "Build up gradually from pairs to groups; use repetition to increase confidence.",
-          "reteachPrerequisiteId": "prn.repair"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {

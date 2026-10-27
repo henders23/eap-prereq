@@ -5,15 +5,15 @@
       "code": "DAT",
       "strand": "Data, Numeracy & Multimodality",
       "name": "Data Commentary & Visuals",
-      "summary": "Data commentary is where numerical and visual evidence becomes argument: learners must read visuals accurately, select what matters, and write or speak about it with claims calibrated to the evidence rather than exhaustive description. The domain runs from visual literacy (visual types, reading graphs and tables, recognising misleading displays) through the lexicogrammar of trends, proportions and diagrams, to the genre of data commentary and the conventions for labelling, referring to and creating visuals. IELTS Writing Task 1 is treated as a contrast case: it rewards selective description of key features, whereas university data commentary also interprets, explains, compares and qualifies.",
-      "learnerSummary": "You will learn to read graphs, tables and diagrams accurately, describe what they show in precise language, and use them as evidence in your own writing, including creating clear and honest visuals of your own.",
+      "summary": "Data commentary is where numerical and visual evidence becomes argument: learners must read visuals accurately, select what matters, and write or speak about it with claims calibrated to the evidence rather than exhaustive description. The domain runs from visual literacy (visual types, reading graphs and tables, recognising misleading displays) through the lexicogrammar of trends, proportions and diagrams, to the genre of data commentary and the conventions for labelling, referring to and creating visuals. Test description tasks, such as IELTS Academic Writing Task 1, are treated as a contrast case: it rewards selective description of key features, whereas university data commentary also interprets, explains, compares and qualifies.",
+      "learnerSummary": "You will learn to read graphs, tables and diagrams accurately and describe them precisely. You will also use visuals as evidence in your writing and create clear, honest visuals of your own.",
       "stageEmphasis": {
-        "foundation": "Reading common graph and table types and describing trends, proportions and processes precisely, using visuals from subject modules such as business, science and engineering.",
-        "in-sessional-ug": "Discipline-specific visual conventions in lab, project and business reports, including captions, in-text references and creating charts from learners’ own data.",
+        "foundation": "Reading common graphs and tables and describing trends, proportions and processes precisely, using visuals from subject modules such as business, science and engineering.",
+        "pre-sessional-ug": "Accurate graph reading and trend and proportion language, moving towards short commentaries that select and interpret rather than describe every value.",
+        "pre-sessional-pg": "Data commentary that locates, highlights, interprets and qualifies findings, typically assessed in an extended project report, with secure in-text reference to visuals.",
+        "in-sessional-ug": "Data commentary, captions and in-text references in lab, project and business reports, and creating charts from learners’ own data.",
         "in-sessional-pgt": "Commenting on results in dissertations with appropriately hedged interpretation, and critically evaluating visuals in sources.",
-        "pgr": "Data commentary in results and discussion chapters and articles, figures designed to journal requirements, and visual argument in research presentations.",
-        "pre-sessional-ug": "Moving from test-style description to data commentary that locates, highlights, interprets and qualifies, typically in an extended project or report.",
-        "pre-sessional-pg": "Moving from test-style description to data commentary that locates, highlights, interprets and qualifies, typically in an extended project or report."
+        "pgr": "Data commentary in results and discussion chapters and articles, figures designed to journal requirements, and visual argument in research presentations."
       },
       "keyReferences": [
         "swalesfeak2012",
@@ -26,15 +26,15 @@
       "code": "DIG",
       "strand": "Digital Literacy & AI",
       "name": "Digital Scholarship Tools",
-      "summary": "Academic work is mediated by digital tools (learning platforms, word processors, reference managers, shared documents, machine translation and automated writing evaluation) whose effective and ethical use is rarely taught explicitly. This domain treats these tools as part of academic literacy practices rather than as separate technical skills (Lea & Jones, 2011), emphasising critical and transparent use: tools support but do not replace learners’ judgement, their outputs must be checked, and their permitted use is set by institutional policy. Because products change quickly, topics are framed around transferable functions and decisions rather than named applications.",
-      "learnerSummary": "You will learn to use the digital tools of university study, including learning platforms, word processing, reference managers, shared documents, translation and feedback tools, efficiently, critically and within your institution’s rules.",
+      "summary": "Academic work is mediated by digital tools (learning platforms, word processors, reference managers, shared documents, translation tools, editing and automated feedback tools, and assistive technologies) whose effective and ethical use is rarely taught explicitly. This domain treats these tools as part of academic literacy practices rather than as separate technical skills (Lea & Jones, 2011), emphasising critical and transparent use: tools support but do not replace learners’ judgement, their outputs must be checked, and their permitted use is set by institutional rules. Assistive technologies and study adjustments are treated as legitimate academic practice, and because products change quickly, topics are framed around transferable functions and decisions rather than named applications.",
+      "learnerSummary": "You will learn to use the digital tools of university study, including translation, editing and assistive tools, efficiently, critically and within your institution’s rules.",
       "stageEmphasis": {
-        "foundation": "Orientation to the learning platform, file management and word processing, with transparent and critical use of machine translation.",
-        "in-sessional-ug": "Efficient assignment workflows: styles, reference managers, shared documents and critical use of feedback tools.",
+        "foundation": "Orientation to the learning platform, files and word processing, built-in assistive features introduced to everyone, and transparent, critical use of translation tools.",
+        "pre-sessional-ug": "Institutional systems, the rules on translation, editing and AI tools in progression assessments, versioned drafts for portfolios, and shared documents in group projects.",
+        "pre-sessional-pg": "Rules on translation, editing and AI tools in progression assessments, an introduction to reference managers, and versioned drafts for an extended project.",
+        "in-sessional-ug": "Efficient assignment workflows: styles, reference managers, shared documents, module-specific tool rules and critical use of feedback tools.",
         "in-sessional-pgt": "Managing dissertation-scale work: versioning, reference libraries, collaboration and supervisor feedback in shared documents.",
-        "pgr": "Thesis-scale document management, research data and file organisation, and a professional online presence.",
-        "pre-sessional-ug": "Institutional systems and policies, reference managers, machine translation and automated feedback as supports, and digital collaboration in project work.",
-        "pre-sessional-pg": "Institutional systems and policies, reference managers, machine translation and automated feedback as supports, and digital collaboration in project work."
+        "pgr": "Thesis-scale documents and reference libraries, confidentiality when using online tools, adjustments for thesis submission and the viva, and a professional online presence."
       },
       "keyReferences": [
         "lea2011digital",
@@ -47,19 +47,19 @@
       "code": "MMD",
       "strand": "Data, Numeracy & Multimodality",
       "name": "Multimodal Composition",
-      "summary": "Academic communication increasingly combines writing with images, layout, colour, sound and movement, and university assessment now includes posters, infographics, podcasts, video essays and e-portfolios. This domain treats multimodal composition as meaning-making with distinct semiotic resources (Kress & van Leeuwen, 2006), addresses the design of key academic multimodal genres (MacIntosh-Murray, 2007), and treats accessibility as a design requirement from the outset rather than an afterthought (World Wide Web Consortium, 2023). Academic expectations of argument, evidence and attribution carry over into these genres, even though the means of realising them change.",
-      "learnerSummary": "You will learn how images, layout and text work together, and how to design posters, infographics and digital assignments that are clear, persuasive and accessible to all your readers.",
+      "summary": "Academic communication increasingly combines writing with images, layout, colour, sound and movement, and university assessment now includes infographics, podcasts, video essays and e-portfolios. This domain treats multimodal composition as meaning-making with distinct semiotic resources (Kress & van Leeuwen, 2006), addresses the design of digital and visual-summary genres (Hafner, 2014), and treats accessibility as a design requirement from the outset rather than an afterthought (World Wide Web Consortium, 2023). Academic expectations of argument, evidence and attribution carry over into these genres even though the means of realising them change. Poster design is treated together with presenting posters in the presentations strand (prs.posters).",
+      "learnerSummary": "You will learn how images, layout and text work together, and how to make infographics and digital assignments that are clear, persuasive and accessible to all your readers.",
       "stageEmphasis": {
-        "foundation": "Awareness of how layout and images make meaning, developed through simple posters and short digital tasks.",
-        "in-sessional-ug": "Discipline-specific multimodal assessments (posters, video essays, e-portfolios) and accessible document design.",
-        "in-sessional-pgt": "Research posters, infographics for professional audiences and accessible dissertation formatting.",
-        "pgr": "Conference posters, visual abstracts and public-engagement graphics, and accessibility in theses and publications.",
-        "pre-sessional-ug": "Posters and short recorded or digital presentations as assessed work, with attention to text economy and reading paths.",
-        "pre-sessional-pg": "Posters and short recorded or digital presentations as assessed work, with attention to text economy and reading paths."
+        "foundation": "Awareness of how layout and images make meaning, developed through short digital tasks and simple visual summaries.",
+        "pre-sessional-ug": "Analysing layout and image–text relations, and short recorded or digital presentations as assessed work.",
+        "pre-sessional-pg": "Recorded or digital presentations as assessed work, with accessible document structure, alternative text and captions in submitted work.",
+        "in-sessional-ug": "Discipline-specific multimodal assessments (video essays, e-portfolios, infographics) and accessible document design.",
+        "in-sessional-pgt": "Infographics for professional audiences, digital portfolios and accessible dissertation formatting.",
+        "pgr": "Visual abstracts and public-engagement graphics, and accessibility in theses, publications and teaching materials."
       },
       "keyReferences": [
         "kressvanleeuwen2006",
-        "macintosh2007",
+        "hafner2014",
         "rowleyjolivet2002",
         "w3c2023wcag"
       ]
@@ -69,14 +69,14 @@
       "strand": "Data, Numeracy & Multimodality",
       "name": "Academic Numeracy Language",
       "summary": "Academic numeracy language is the lexicogrammar and conceptual precision needed to talk and write about quantities, measurements, statistics and mathematical relations in English. Errors here are rarely ‘just language’: confusing per cent with percentage points, using ‘significant’ loosely or misplacing a unit changes the claim. The domain runs from accurate number expressions and approximation, through units and mathematical expression, to statistical vocabulary and consumer-level interpretation of statistical claims, drawing on research into statistical literacy (Gal, 2002) and risk communication (Gigerenzer et al., 2007). EAP teachers without statistical training may wish to co-teach the later topics with subject or mathematics-support colleagues.",
-      "learnerSummary": "You will learn to talk and write about numbers, measurements and statistics precisely, and to understand what the statistical claims in your reading do and do not show.",
+      "learnerSummary": "You will learn to talk and write about numbers, measurements and statistics precisely, and to understand what statistical claims in your reading do and do not show.",
       "stageEmphasis": {
-        "foundation": "Number expressions, units and basic statistical terms in subject modules such as mathematics, science and business, in both speech and writing.",
+        "foundation": "Accurate number expressions and number style, units and basic statistical terms in subject modules such as mathematics, science and business, in speech and writing.",
+        "pre-sessional-ug": "Precise and appropriately approximate figures in short data descriptions, and the everyday versus statistical senses of key terms.",
+        "pre-sessional-pg": "Precision and approximation in data commentary, relative versus absolute change in sources, and statistical vocabulary met in research reading.",
         "in-sessional-ug": "Discipline-specific notation and units, statistical vocabulary in methods and results, and reading statistical claims in sources.",
         "in-sessional-pgt": "Consumer-level interpretation of p-values, confidence intervals and effect sizes in research reading and dissertations.",
-        "pgr": "Accurate statistical and mathematical expression in theses and articles, following field and journal conventions.",
-        "pre-sessional-ug": "Precision and approximation in data commentary, relative versus absolute change, and the everyday versus statistical senses of key terms.",
-        "pre-sessional-pg": "Precision and approximation in data commentary, relative versus absolute change, and the everyday versus statistical senses of key terms."
+        "pgr": "Accurate statistical and mathematical expression in theses and articles, following field and journal conventions."
       },
       "keyReferences": [
         "gal2002",
@@ -127,8 +127,8 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -180,11 +180,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -236,10 +236,10 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "revisit",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -285,12 +285,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -340,10 +340,10 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -355,7 +355,7 @@
       "strand": "Data, Numeracy & Multimodality",
       "domain": "Data Commentary & Visuals",
       "name": "Data commentary",
-      "description": "Write commentary that uses data as evidence: locate the visual and summarise what it shows, highlight the findings that matter for the writer’s purpose, and interpret them by explaining, comparing with expectations or previous studies, acknowledging limitations and drawing implications whose strength matches the evidence. Data commentary is the core of results and discussion writing across disciplines and differs from description-only tasks such as IELTS Writing Task 1.",
+      "description": "Write commentary that uses data as evidence: locate the visual and summarise what it shows, highlight the findings that matter for the writer’s purpose, and interpret them by explaining, comparing with expectations or previous studies, acknowledging limitations and drawing implications whose strength matches the evidence. Data commentary is the core of results and discussion writing across disciplines and differs from description-only test tasks such as IELTS Academic Writing Task 1.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -394,14 +394,22 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "social-sciences",
+        "psychology",
+        "health-medicine",
+        "economics",
+        "business-management"
+      ]
     },
     {
       "id": "dat.describing-diagrams",
@@ -448,7 +456,10 @@
       },
       "coreBand": "B1+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "sciences",
+        "engineering"
+      ]
     },
     {
       "id": "dat.captions-labelling",
@@ -489,11 +500,11 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -639,12 +650,12 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -655,7 +666,7 @@
       "domain": "Digital Scholarship Tools",
       "name": "Virtual learning environments",
       "description": "Navigate the institution’s virtual learning environment and related systems to find module information, assessment briefs, readings, recordings, announcements and feedback; submit work correctly through submission portals; and keep track of deadlines and notifications. Missed instructions, unread feedback and failed submissions are avoidable sources of difficulty, especially in a first term.",
-      "cefrStart": "B1",
+      "cefrStart": "A2+",
       "cefrEnd": "B2",
       "specificity": "EGAP",
       "masteryEvidence": [
@@ -692,8 +703,8 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -738,7 +749,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -770,10 +781,10 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -783,18 +794,18 @@
       "strand": "Digital Literacy & AI",
       "domain": "Digital Scholarship Tools",
       "name": "Translation tools in reading and drafting",
-      "description": "Use machine translation (MT) strategically and transparently: to support comprehension of difficult texts, to check understanding, to explore wording and, where permitted, to support drafting, while recognising MT’s characteristic errors (terminology, register, lost hedging, ambiguity), verifying its output and complying with assessment rules. MT is a legitimate plurilingual resource, but undeclared or wholesale use in assessed writing can breach integrity policies and bypass language development.",
-      "cefrStart": "B1",
+      "description": "Use translation tools strategically and transparently in reading and drafting, whether dedicated machine translation (MT) or general-purpose AI chat tools: to support comprehension of difficult texts, to check understanding, to explore wording and, where permitted, to draft or revise, while recognising characteristic errors (terminology, register, lost or added hedging, fluent but inaccurate output), verifying output and complying with assessment rules. Translation tools are one legitimate resource within a plurilingual repertoire; undeclared or wholesale use in assessed writing can breach integrity rules, and how far other languages should shape drafting is a task-dependent and contested choice.",
+      "cefrStart": "A2+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Distinguishes permitted from prohibited uses of MT in a given assessment according to institutional and module policy",
-        "Uses MT to support comprehension while checking key terms against discipline glossaries or dictionaries",
-        "Identifies typical MT errors in academic text (mistranslated technical terms, lost or added hedging, register shifts, fluent but inaccurate output)",
-        "Post-edits MT output critically and explains the changes made",
-        "Declares MT use where required and keeps a record of how it was used"
+        "Distinguishes permitted from prohibited uses of translation tools in a given assessment according to institutional and module rules, whichever tool provides the translation",
+        "Uses translation to support comprehension while checking key terms against discipline glossaries or dictionaries",
+        "Identifies typical translation-tool errors in academic text (mistranslated technical terms, lost or added hedging, register shifts, fluent but inaccurate output)",
+        "Post-edits translated output critically and explains the changes made",
+        "Declares translation-tool use where required and keeps a simple record of how it was used"
       ],
-      "assessmentPrompt": "Give an academic paragraph machine-translated into English from a language the learner reads, containing three seeded errors (a mistranslated technical term, a lost hedge and a register shift). Ask the learner to identify and correct the problems and to say whether this use would be permitted under a given module policy. Check error detection, especially of the lost hedge, and accurate interpretation of the policy.",
+      "assessmentPrompt": "Give an academic paragraph translated into English by a translation tool from a language the learner reads, containing three seeded errors (a mistranslated technical term, a lost hedge and a register shift). Ask the learner to identify and correct the problems and to say whether this use would be permitted under a given module rule. Check error detection, especially of the lost hedge, and accurate interpretation of the rule.",
       "citations": [
         "lee2020mt",
         "groves2015mt"
@@ -924,7 +935,9 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "in-sessional-ug": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
@@ -944,7 +957,7 @@
       "specificity": "EGAP",
       "masteryEvidence": [
         "Adapts formality, length and tone to the channel and relationship (course forum, group chat, professional network)",
-        "Follows participation norms in video calls (camera, microphone, chat, turn-taking)",
+        "Chooses a mode of participation in video calls (voice, chat, camera on or off) that suits the task and their needs, and follows the agreed norms for that mode",
         "Creates and maintains an accurate, professional academic profile appropriate to their stage, such as an institutional profile or researcher identifier",
         "Makes informed decisions about privacy and about what personal or research information to share publicly",
         "Recognises online conflict or inappropriate content and responds through appropriate channels"
@@ -986,7 +999,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -995,22 +1008,24 @@
       "type": "STRATEGIC",
       "strand": "Digital Literacy & AI",
       "domain": "Digital Scholarship Tools",
-      "name": "Automated writing evaluation tools",
-      "description": "Use automated writing evaluation (AWE) tools, including grammar and style checkers, automated feedback platforms and AI-based feedback features, as one input among others: interpret their suggestions critically, accept or reject them on principled grounds, recognise what they cannot judge (argument, content, disciplinary appropriateness) and comply with rules on permitted use. Uncritical acceptance can introduce errors, flatten voice and, where rewriting features are used, breach assessment rules.",
-      "cefrStart": "B1+",
+      "name": "Editing and automated feedback tools",
+      "description": "Use spelling and grammar checkers, readability measures, automated writing evaluation (AWE) platforms and AI-based feedback and rewriting features critically, as one input among others: know what each detects well and poorly, accept or reject suggestions on principled grounds checked against reference sources, recognise what tools cannot judge (argument, content, disciplinary appropriateness) and use them within institutional rules on permitted assistance. Uncritical use can introduce errors, change meaning and flatten the writer’s voice, and rewriting features can breach assessment rules.",
+      "cefrStart": "B1",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Explains which kinds of issue AWE tools detect reliably and which they miss or misjudge",
-        "Accepts or rejects suggestions with reasons based on grammatical knowledge or disciplinary convention",
-        "Identifies false alarms (e.g., flagged technical terms or necessary passives) and missed problems",
-        "Combines AWE feedback with teacher and peer feedback in a revision plan",
-        "Checks whether a tool’s features, especially rewriting or paraphrasing functions, are permitted for a given assessment"
+        "Explains which kinds of issue spelling, grammar and AWE tools detect reliably and which they miss, misjudge or introduce, such as correctly spelt wrong words or flagged technical terms",
+        "Accepts or rejects tool suggestions with reasons, checking uncertain ones in a learner dictionary, grammar reference or corpus",
+        "Identifies suggestions that change meaning, remove a necessary hedge or passive, or replace a discipline-specific term",
+        "Explains why readability scores and error counts are not measures of academic quality",
+        "Combines tool output with teacher and peer feedback in a revision plan that addresses content and structure as well as surface accuracy",
+        "States which tool features, especially AI rewriting and paraphrasing, are permitted for a given assessment, and keeps a record of use where disclosure is required"
       ],
-      "assessmentPrompt": "Run one of the learner’s paragraphs through an AWE tool and ask them to work through ten suggestions, accepting or rejecting each with a reason. Check the accuracy of their decisions, especially rejection of inappropriate suggestions (such as replacing a technical term or removing a necessary passive), and whether they notice problems the tool missed.",
+      "assessmentPrompt": "Give a paragraph from the learner’s discipline with ten suggestions produced by a grammar checker or AWE tool: some correct, some wrong, one that replaces a technical term and one that removes a hedge or changes the meaning. Ask the learner to accept or reject each with a reason, then to say whether the tool’s rewrite feature would be permitted under a given module rule. Check the accuracy and justification of the decisions, detection of the meaning-changing suggestion, and accurate reading of the rule.",
       "citations": [
         "stevenson2016",
-        "stevensonphakiti2014"
+        "stevensonphakiti2014",
+        "perkins2024aias"
       ],
       "frameworks": [
         {
@@ -1044,11 +1059,61 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "develop"
       },
       "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
+    },
+    {
+      "id": "dig.assistive-technology",
+      "type": "STRATEGIC",
+      "strand": "Digital Literacy & AI",
+      "domain": "Digital Scholarship Tools",
+      "name": "Assistive technology and study adjustments",
+      "description": "Use assistive and accessibility technologies (read-aloud and text-to-speech, dictation, screen readers and magnification, spelling and word-prediction support, live captions and transcription, and mind-mapping, reading-support and planning tools) and institutional adjustments (such as extra time, rest breaks, alternative formats and alternative modes of participation or assessment) as legitimate parts of academic practice. This includes knowing how adjustments are requested in the target context and how a tool’s functions, especially the generative-AI features now built into many of them, sit within the rules for each assessment.",
+      "cefrStart": "A2+",
+      "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "both",
+      "masteryEvidence": [
+        "Locates the accessibility and assistive features on their own devices and in institutional software, and demonstrates how one supports a current study task, such as listening to a set reading while annotating it",
+        "Selects tools to fit a task and explains what each does and does not do, for example that dictated text still needs revising and read-aloud may mispronounce technical terms",
+        "Explains how adjustments are requested in their institution, including whom to contact, what evidence is usually asked for and the deadlines before examinations, and states that disclosure is their own choice",
+        "Distinguishes assistive functions (read-aloud, dictation, spell-checking) from generative ones (rewriting, summarising, drafting) in a given tool and checks which are permitted for a given assessment",
+        "Raises a problem with how an agreed adjustment is applied, such as extra time missing from an online test, through the appropriate channel in a clear, polite message"
+      ],
+      "assessmentPrompt": "Use scenarios rather than asking learners about their own needs. Give three short cases: a student who finds long readings slow and tiring; a student who dictates first drafts and wants to use a writing assistant’s rewrite button; a student whose agreed extra time has not been applied to an online timed test. Ask the learner to suggest tools or actions for each, say whom they would contact and identify which tool functions need checking against the assessment rules. Check that suggestions fit the need, that assistive and generative functions are distinguished, and that the third case is treated as an institutional responsibility raised through the right channel.",
+      "citations": [
+        "w3c2023wcag",
+        "perkins2024aias",
+        "lea2011digital"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "vitae-rdf:B2",
+          "contribution": "related"
+        }
+      ]
     },
     {
       "id": "mmd.multimodal-literacy",
@@ -1087,9 +1152,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1143,7 +1208,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1195,7 +1260,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1235,7 +1300,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1244,23 +1309,25 @@
       "type": "LINGUISTIC",
       "strand": "Data, Numeracy & Multimodality",
       "domain": "Academic Numeracy Language",
-      "name": "Expressing quantities accurately",
-      "description": "Express numbers, fractions, decimals, percentages, ratios and rates accurately in prose, together with the grammar around them: articles and of-phrases (a third of, two-thirds of the sample), agreement (a quarter of respondents were), per cent versus percentage, number of versus amount of, rates (per capita, per 1,000) and multiplicative forms. Accurate quantity expressions are the basis of every claim made from data.",
-      "cefrStart": "B1",
-      "cefrEnd": "B2",
+      "name": "Expressing and presenting quantities accurately",
+      "description": "Express numbers, fractions, decimals, percentages, ratios and rates accurately in speech and prose, with the grammar around them (partitives such as a third of, agreement, per cent versus percentage, number of versus amount of, rates and multiplicative forms), and present them in running text according to the required style guide: numerals or words, no sentence-initial numerals, consistent decimal and digit-grouping marks, ranges, and % or per cent. Accurate, consistently presented quantities are the basis of every claim made from data, and number style is checked by markers and editors.",
+      "cefrStart": "A2+",
+      "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Reads aloud and writes fractions, decimals, percentages, ratios and large numbers correctly in words and figures",
-        "Uses partitive and quantity structures with accurate articles, prepositions and agreement",
-        "Distinguishes per cent (with a number) from percentage (a proportion), and number of from amount of",
-        "Expresses rates and ratios unambiguously (per 1,000 population; a ratio of 3:2; one in five)",
-        "Converts between equivalent forms (0.25, 25%, a quarter, one in four) to suit the reader"
+        "Reads aloud and writes fractions, decimals, percentages, ratios and large numbers correctly in words and figures, using the decimal and digit-grouping marks the target style requires",
+        "Uses partitive and quantity structures with accurate articles, prepositions and agreement (a third of respondents were; the number of cases was)",
+        "Distinguishes per cent from percentage and number of from amount of, and expresses rates and ratios unambiguously (per 1,000 population; one in five)",
+        "Chooses numerals or words according to the specified style guide and applies the choice consistently, including ranges (10–15 per cent or from 10 to 15 per cent) and % or per cent",
+        "Rewrites sentences that would otherwise begin with a numeral",
+        "Identifies and corrects number-style inconsistencies in a draft against the stated guide rather than a single universal rule"
       ],
-      "assessmentPrompt": "Present ten quantities in mixed forms (0.05, 3/8, 1:4, 12.5%, 2.3 million, 4 per 1,000) and ask the learner to use each in a full sentence about a sample. Check partitive structures and agreement, the per cent/percentage distinction, and the expression of decimals and large numbers.",
+      "assessmentPrompt": "Give a 120-word results paragraph containing quantity errors and number-style inconsistencies (an agreement error after a fraction, per cent used for a percentage-point change, a sentence-initial numeral, a mixed range, a decimal comma, numerals and words mixed against the guide) and name the target style guide. Ask the learner to correct it and to read two of the figures aloud. Check grammar and meaning first (agreement, per cent versus percentage), then consistency with the named guide rather than with a single universal rule.",
       "citations": [
         "biber1999lgswe",
         "celcemurcia1999",
-        "apa2020"
+        "apa2020",
+        "chicago2024"
       ],
       "frameworks": [
         {
@@ -1288,10 +1355,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -1343,9 +1411,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1396,9 +1464,16 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "mathematics-statistics",
+        "sciences",
+        "social-sciences",
+        "psychology",
+        "health-medicine",
+        "economics"
+      ]
     },
     {
       "id": "num.interpreting-statistics",
@@ -1451,7 +1526,14 @@
       },
       "coreBand": "B2+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "mathematics-statistics",
+        "psychology",
+        "health-medicine",
+        "social-sciences",
+        "economics",
+        "sciences"
+      ]
     },
     {
       "id": "num.relative-absolute",
@@ -1501,7 +1583,12 @@
       },
       "coreBand": "B2",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "health-medicine",
+        "economics",
+        "social-sciences",
+        "mathematics-statistics"
+      ]
     },
     {
       "id": "num.units-measurement",
@@ -1548,10 +1635,12 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "sciences",
+        "engineering",
+        "health-medicine"
       ]
     },
     {
@@ -1600,10 +1689,14 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "mathematics-statistics",
+        "sciences",
+        "engineering",
+        "economics",
+        "computing"
       ]
     }
   ],
@@ -2009,6 +2102,24 @@
       "prerequisiteId": "sen.punctuation-mechanics",
       "strength": "soft",
       "reason": "Ranges use en dashes and numerical compound modifiers use hyphens (a 10-year study), so these marks are taught first"
+    },
+    {
+      "topicId": "dig.assistive-technology",
+      "prerequisiteId": "lrn.support-services",
+      "strength": "soft",
+      "reason": "Adjustments are requested and arranged through disability and learning-support services, so knowing what those services do and how to contact them comes first"
+    },
+    {
+      "topicId": "dig.assistive-technology",
+      "prerequisiteId": "gai.policies",
+      "strength": "soft",
+      "reason": "Judging which functions of an assistive tool are permitted in an assessment applies the skill of reading module and institutional rules on AI use"
+    },
+    {
+      "topicId": "mmd.accessibility",
+      "prerequisiteId": "dig.assistive-technology",
+      "strength": "soft",
+      "reason": "Knowing how screen readers, read-aloud and captioning tools process documents shows why structure, alternative text and captions are needed"
     }
   ],
   "guidance": [
@@ -2067,7 +2178,7 @@
         "partialResponse": "Names the types correctly but describes content only as individual values or labels.",
         "gapResponse": "Mislabels types (e.g., calls the scatterplot a line graph) or cannot say what relationship is displayed."
       },
-      "contextNotes": "At foundation, concentrate on the five or six most common types in subject textbooks, linked to subject content. On pre-sessional courses, connect types to the language each requires (trends, proportions, processes). In UG in-sessional work, move to discipline-specific forms (box plots, forest plots, Gantt charts, schematics) using learners’ own module materials.",
+      "contextNotes": "At foundation, concentrate on the five or six most common types in subject textbooks, linked to subject content. On pre-sessional UG courses, connect types to the language each requires (trends, proportions, processes); pre-sessional PG learners usually need only a brief review before moving to the forms in their field. In UG in-sessional work, revisit through discipline-specific forms (box plots, forest plots, Gantt charts, schematics) using learners’ own module materials.",
       "citations": [
         "shahhoeffner2002",
         "rowleyjolivet2002",
@@ -2138,7 +2249,7 @@
         "partialResponse": "Reads accurate values and identifies a pattern but omits the frame, or presents an explanation as fact.",
         "gapResponse": "Lists values without a pattern, or misreads the scale or legend."
       },
-      "contextNotes": "Foundation learners may need explicit work on scales and units alongside subject mathematics. Pre-sessional courses can integrate graph reading with reading research texts. In UG and PGT in-sessional settings, focus on discipline-specific forms (error bars, box plots, forest plots) and on reading beyond the data cautiously.",
+      "contextNotes": "Foundation and pre-sessional UG: core, with explicit work on scales and units alongside subject mathematics. Pre-sessional PG: developed through graphs in research texts. In UG and PGT in-sessional settings, revisit through discipline-specific forms (error bars, box plots, forest plots) and cautious reading beyond the data. For learners who use screen readers or have colour-vision differences, provide the underlying data table or a text description and assess their reading of the data, not the visual mode.",
       "citations": [
         "friel2001",
         "shahhoeffner2002",
@@ -2201,7 +2312,7 @@
         "partialResponse": "Gives accurate values but no clear main comparison, or overlooks the notes.",
         "gapResponse": "Cannot explain what the rows and columns represent, or misreads values."
       },
-      "contextNotes": "Foundation: simple frequency and percentage tables from subject textbooks. Pre-sessional: tables in short research articles and in learners’ own project data. UG and PGT in-sessional: complex results tables with statistical notation, where table reading connects with interpreting statistics.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): navigating tables in subject textbooks and short reports. UG in-sessional: revisited where tables carry module data. PGT: results tables in research articles read for literature reviews and dissertations, including notes, abbreviations and significance markers. Screen-reader users need tables built with header rows; supply accessible versions rather than images of tables.",
       "citations": [
         "friel2001",
         "tufte2001",
@@ -2273,7 +2384,7 @@
         "partialResponse": "Corrects grammatical errors but accepts disproportionate modifiers.",
         "gapResponse": "Does not detect by/to confusion or tense errors."
       },
-      "contextNotes": "Foundation and pre-sessional learners benefit from explicit contrast with IELTS Task 1 habits, and those still preparing for a test can be shown which features transfer. In UG in-sessional work, embed trend description in lab reports, economics and geography assignments, where it is a brief step towards explanation.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): core, with explicit contrast with test-preparation habits; learners still preparing for a test can be shown which features transfer. UG in-sessional: revisited and embedded in lab reports and economics and geography assignments, where trend description is a brief step towards explanation.",
       "citations": [
         "swalesfeak2012",
         "biber1999lgswe",
@@ -2343,7 +2454,7 @@
         "partialResponse": "Grammar is mostly accurate but the multiple or difference is miscalculated or ambiguous.",
         "gapResponse": "Comparative structure and agreement are faulty and the comparison is unclear."
       },
-      "contextNotes": "Foundation: survey and market data in business and social science modules. Pre-sessional: comparisons within short data commentaries and project reports. UG in-sessional: discipline-specific comparisons (shares, ratios, odds) where precision is assessed.",
+      "contextNotes": "Foundation and pre-sessional UG: core, using survey and market data from business and social science modules. Pre-sessional PG: developed within short data commentaries and project reports. UG in-sessional: revisited for discipline-specific comparisons (shares, ratios, odds) where precision is assessed.",
       "citations": [
         "biber1999lgswe",
         "celcemurcia1999",
@@ -2413,7 +2524,7 @@
         "partialResponse": "Notices that it is mainly description but suggests only general improvements.",
         "gapResponse": "Evaluates it only for grammatical or lexical accuracy."
       },
-      "contextNotes": "Pre-sessional: short commentaries on project data, contrasted explicitly with IELTS Task 1. UG in-sessional: lab and project reports where commentary is brief and shaped by discipline. PGT: dissertation results and discussion chapters that compare findings with the literature. PGR: results and discussion chapters and articles, where commentary carries the contribution and field norms of claim strength are critical.",
+      "contextNotes": "Pre-sessional UG: developed through short commentaries on project data, contrasted explicitly with test-style description. Pre-sessional PG: core, typically assessed in an extended project report. UG in-sessional: core in lab and project reports, where commentary is brief and shaped by the discipline. PGT: core in dissertation results and discussion chapters that compare findings with the literature. PGR: developed within results and discussion chapters and articles, where field norms of claim strength are critical, alongside the research-writing genres. Commentary on qualitative and mixed-methods displays (coding frames, thematic maps, joint displays) is less well described and needs discipline-specific models.",
       "citations": [
         "swalesfeak2012",
         "yangallison2003",
@@ -2542,7 +2653,7 @@
         "partialResponse": "Notices formatting differences but not problems with notes or attribution.",
         "gapResponse": "Ranks by length or appearance."
       },
-      "contextNotes": "Foundation and pre-sessional: basic numbering, titles and attribution in reports. UG and PGT in-sessional: compliance with the required style in lab reports and dissertations. PGR: journal-specific figure requirements and, for theses and articles, permission to reproduce published figures.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): basic numbering, titles and attribution in reports. UG in-sessional: core, because lab and project reports assess compliance with the required style. PGT: developed for dissertations. PGR: revisited for journal-specific figure requirements and, for theses and articles, permission to reproduce published figures.",
       "citations": [
         "apa2020",
         "tufte2001"
@@ -2749,14 +2860,14 @@
         "partialResponse": "Produces a correct reference without guidance, or guidance with an as-clause error.",
         "gapResponse": "Gives no numbered reference or an ungrammatical structure."
       },
-      "contextNotes": "Foundation: simple numbered references in reports. Pre-sessional and UG in-sessional: integrating visuals in project and lab reports. PGT and PGR: managing many visuals across chapters, cross-referencing and journal conventions.",
+      "contextNotes": "Foundation and pre-sessional UG: simple numbered references in short reports. Pre-sessional PG and UG in-sessional: core, integrated with data commentary in project and lab reports. PGT and PGR: revisited for managing many visuals across chapters and following journal conventions.",
       "citations": [
         "swalesfeak2012",
         "yangallison2003",
         "trimble1985"
       ],
       "reviewNotes": [
-        "Trimble (1985) is cited for the general principle of visual–verbal relationships in scientific and technical English; chapter location should be checked."
+        "Trimble (1985) is cited for the general principle of visual–verbal relationships in scientific and technical English, not for a specific finding."
       ]
     },
     {
@@ -2806,6 +2917,13 @@
           "revealedBy": "Feedback files and inline comments left unopened.",
           "response": "Build feedback retrieval into class tasks so that opening and summarising feedback becomes routine.",
           "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Key information is hard to find: briefs stored in different places on each module, scanned files that cannot be read aloud, or announcements sent only through the platform’s messaging.",
+          "kind": "institutional",
+          "revealedBy": "Many learners in a cohort missing the same deadline or instruction; learners who use screen readers or read-aloud tools unable to open set files.",
+          "response": "Raise consistent module layouts and accessible, text-based files with module teams; meanwhile teach learners where to look and whom to ask. Do not treat cohort-wide confusion as individual carelessness.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -2814,7 +2932,7 @@
         "partialResponse": "Finds one of them, or needs prompting.",
         "gapResponse": "Cannot locate either."
       },
-      "contextNotes": "Foundation and pre-sessional: orientation in the first week using real tasks. UG and PGT in-sessional: brief refreshers at induction, focusing on feedback retrieval and submission checks.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): orientation in the first week using real tasks; foundation learners at A2+–B1 benefit from guided tours that pre-teach the platform’s institutional vocabulary. UG and PGT in-sessional: brief refreshers at induction, focusing on feedback retrieval and submission checks.",
       "citations": [
         "lea2011digital",
         "carlessboud2018"
@@ -2878,15 +2996,13 @@
         "partialResponse": "Finds formatting errors but not wrong item types.",
         "gapResponse": "Accepts the list as correct."
       },
-      "contextNotes": "Pre-sessional: introduce once citation basics are secure. UG and PGT in-sessional: dissertation-scale libraries. PGR: large and shared libraries, and switching styles for different journals.",
+      "contextNotes": "Pre-sessional (UG and PG): introduce once citation basics are secure; PG learners preparing for source-heavy programmes benefit most. UG and PGT in-sessional: dissertation-scale libraries. PGR: large and shared libraries and switching styles for different journals.",
       "citations": [
         "apa2020",
         "emanuel2013",
         "walters2023"
       ],
-      "reviewNotes": [
-        "Emanuel (2013) is a proposed reference; if it is not accepted, the claim about user support needs should be removed."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "dig.word-processing",
@@ -2941,18 +3057,19 @@
         "partialResponse": "Uses styles inconsistently.",
         "gapResponse": "Formats headings manually only."
       },
-      "contextNotes": "Foundation: styles and page numbering. UG in-sessional: reports with captions and contents pages. PGT and PGR: dissertation and thesis templates, section breaks and cross-referencing at scale.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): styles, page numbering and templates for first reports and portfolios; styles also make documents navigable for screen-reader and read-aloud users. UG in-sessional: reports with captions and contents pages. PGT: revisited for the dissertation template. PGR: revisited because thesis-scale documents are materially different (templates, section breaks, cross-referencing across chapters and, in some fields, LaTeX or other markup); often best co-delivered with library or IT services.",
       "citations": [
         "apa2020",
         "paltridgestarfield2020"
       ],
       "reviewNotes": [
-        "Tool-specific instruction is often best delivered with library or IT services; this topic has limited language content."
+        "Tool-specific instruction is often best delivered with library or IT services; this topic has limited language content.",
+        "Review response: R1-06 recommends removing pgr. It is kept only as revisit, because thesis-scale document management (templates, section breaks, cross-referencing across chapters, markup systems in some fields) is materially different from undergraduate use; the topic is not core for PGR."
       ]
     },
     {
       "topicId": "dig.machine-translation",
-      "summary": "Research suggests that MT used as a revision aid after learners have composed their own text can help reduce lexicogrammatical errors and support noticing (Lee, 2020), while EAP practitioners have raised concerns about its use to produce assessed work and its implications for language development and integrity (Groves & Mundt, 2015). Translanguaging perspectives (García & Li Wei, 2014) support treating learners’ languages as resources rather than interference. Institutional policies vary and are changing quickly as MT and generative AI converge, so teaching should normalise MT as part of a plurilingual repertoire while building critical post-editing and transparent declaration.",
+      "summary": "Research suggests that MT used as a revision aid after learners have composed their own text can help reduce lexicogrammatical errors and support noticing (Lee, 2020), while EAP practitioners have raised concerns about its use to produce assessed work and its implications for language development and integrity (Groves & Mundt, 2015). Translation is now also offered by general-purpose AI tools, so teaching should focus on the function (translating, rewording) rather than on a particular product. Translanguaging perspectives (García & Li Wei, 2014) support treating learners’ languages as resources rather than interference. Rules vary between institutions and are changing quickly, so teaching should normalise translation tools as part of a plurilingual repertoire while building critical post-editing and transparent declaration.",
       "activities": [
         {
           "title": "Compose, translate, compare",
@@ -2999,11 +3116,11 @@
           "reteachPrerequisiteId": "idn.plurilingual-repertoire"
         },
         {
-          "pattern": "Composing whole texts in another language and translating them.",
-          "kind": "developmental",
-          "revealedBy": "The learner's own account of their process; terminology or hedging that shifts in ways typical of MT output. Differences between in-class and submitted writing are expected and are not evidence on their own.",
-          "response": "Discuss when planning in another language helps and when whole-text translation undermines development and may breach policy. Do not prohibit use of other languages in planning.",
-          "reteachPrerequisiteId": null
+          "pattern": "Translating whole drafts without checking whether this is permitted for the task or reviewing the result.",
+          "kind": "conceptual",
+          "revealedBy": "The learner’s own account of their process; terminology or hedging that shifts in ways typical of unedited translation output. Differences between in-class and submitted writing are expected and are not evidence on their own.",
+          "response": "Discuss when composing in another language and translating may help (for example, to develop complex content) and when it may limit language practice or breach a task’s rules. Present this as a task-dependent pedagogical choice on which views differ, not as a settled rule, and do not prohibit the use of other languages in planning.",
+          "reteachPrerequisiteId": "int.plagiarism"
         }
       ],
       "diagnostic": {
@@ -3012,15 +3129,16 @@
         "partialResponse": "Describes appropriate use for reading but is unclear about the boundary for writing.",
         "gapResponse": "Would translate a summary from another language without checking the policy."
       },
-      "contextNotes": "Foundation and pre-sessional: explicit discussion of policy and critical use for reading. UG and PGT in-sessional: terminology checking and declaration practices. PGR: translation of non-English sources and the ethics of MT in writing for publication.",
+      "contextNotes": "Foundation: learners at A2+–B1 often rely heavily on translation tools, so start with critical use for reading and an explicit discussion of the rules. Pre-sessional (UG and PG): the rules for progression assessments, which may be stricter than in degree modules, and post-editing practice; PG learners also translate sources in their field. In-sessional UG and PGT: terminology checking and declaration practices that vary by module. PGR: materially different uses, namely translating non-English sources for literature reviews and the ethics of translation tools in writing for publication.",
       "citations": [
         "lee2020mt",
         "groves2015mt",
         "garciawei2014"
       ],
       "reviewNotes": [
-        "Policies on MT and on generative AI are converging and change rapidly; guidance avoids naming specific tools.",
-        "Groves and Mundt (2015) is a proposed reference."
+        "Policies on translation tools and generative AI are converging and change rapidly; guidance avoids naming specific tools.",
+        "Review response: R5-02 recommends reversing the edge so that dig.machine-translation depends on rdp.plurilingual-reading. The current edge rdp.plurilingual-reading <- dig.machine-translation is owned by the 04-reading group, and adding the reverse here would create a cycle. If that edge is removed, add dig.machine-translation <- rdp.plurilingual-reading (soft).",
+        "Review response: R5-06 suggests adding Kobayashi and Rinnert (1992). It is not in the closed bibliography and is not added here, so the guidance presents translation-based drafting as a contested, task-dependent choice without citing comparative findings."
       ]
     },
     {
@@ -3076,7 +3194,7 @@
         "partialResponse": "Accepts the change without engaging, or replies bluntly.",
         "gapResponse": "Ignores or deletes the comment."
       },
-      "contextNotes": "Foundation and pre-sessional: group projects in shared documents. UG and PGT in-sessional: group assessments and supervisor feedback on dissertations in shared files.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): group projects in shared documents. UG and PGT in-sessional: group assessments and supervisor feedback on dissertations in shared files. Comments and suggestions can be dictated or read aloud, and threaded written comments can be a more accessible mode than live editing meetings for some learners.",
       "citations": [
         "storch2011",
         "hylandhyland2019",
@@ -3137,14 +3255,13 @@
         "partialResponse": "Has some structure but an untested or single backup.",
         "gapResponse": "Has no system and a single copy."
       },
-      "contextNotes": "Foundation and UG in-sessional: naming conventions and backups. PGT: dissertation files and project data. PGR: data management plans and ethics requirements for storing research data.",
+      "contextNotes": "Foundation: naming conventions and backups. Pre-sessional (UG and PG): versioned drafts for portfolio assessment and as an ordinary record of the writing process, kept as a good habit rather than as a defence learners are obliged to provide. In-sessional UG: revisited at the first major project. PGT: dissertation files and project data. PGR: data management plans and ethics requirements for storing research data.",
       "citations": [
         "wilkinson2016",
         "vitae2010"
       ],
       "reviewNotes": [
-        "Low language content; included for workflow and research-integrity reasons. A separate PGR topic on research data management may be warranted.",
-        "Wilkinson et al. (2016) is a proposed reference."
+        "Low language content; included for workflow and research-integrity reasons. A separate PGR topic on research data management may be warranted."
       ]
     },
     {
@@ -3200,7 +3317,7 @@
         "partialResponse": "Is polite but vague, or clear but blunt.",
         "gapResponse": "Uses an inappropriate tone or does not address the point."
       },
-      "contextNotes": "Foundation and pre-sessional: channel norms, forums and video calls. UG and PGT in-sessional: group chats and professional networking. PGR: researcher profiles, identifiers and public engagement online.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): channel norms, forums and video calls. UG and PGT in-sessional: group chats and professional networking. PGR: materially different needs, namely researcher profiles, identifiers and public engagement online. Accept chat-only participation and cameras off as legitimate where they are the accessible mode, for example for deaf or hard-of-hearing students, students who stammer or neurodivergent students.",
       "citations": [
         "biesenbach2007",
         "economidou2011",
@@ -3212,18 +3329,18 @@
     },
     {
       "topicId": "dig.automated-feedback-tools",
-      "summary": "Stevenson’s (2016) critical interpretive synthesis of AWE in classrooms finds that the tools focus mainly on surface features, that their value depends heavily on how teachers integrate them, and that they work best as one source of feedback among several. Stevenson and Phakiti’s (2014) review found little evidence that gains from computer-generated feedback transfer to writing quality more generally. As generative AI is embedded in many editing tools, the boundary between feedback and rewriting is blurred, so awareness of what is permitted is part of this topic.",
+      "summary": "Stevenson’s (2016) critical interpretive synthesis of AWE in classrooms finds that the tools focus mainly on surface features, that their value depends on how teachers integrate them, and that they are best used as one source of feedback among several. Stevenson and Phakiti’s (2014) review found little evidence that gains from computer-generated feedback transfer to writing quality more generally. Spelling and grammar checkers, readability measures and AI rewriting features now sit inside the same tools, so teaching should cover the whole range: evaluating each suggestion against reference sources, separating surface checks from global revision, and connecting tool use to rules that permit different levels of assistance for different tasks (Perkins et al., 2024).",
       "activities": [
         {
           "title": "Accept or reject, with reasons",
           "learnerActions": [
-            "Run their own paragraph through an AWE tool",
-            "Work through ten suggestions, accepting or rejecting each",
-            "Write a one-line reason for every decision",
-            "Compare decisions with a partner and resolve disagreements by checking a grammar reference or a corpus"
+            "Run their own paragraph through a grammar checker or AWE tool",
+            "Classify ten suggestions as correct, wrong or meaning-changing",
+            "Write a one-line reason for every decision, checking uncertain cases in a learner dictionary, grammar reference or corpus",
+            "Compare decisions with a partner and resolve disagreements"
           ],
-          "intendedInsight": "Tools suggest; writers decide.",
-          "rationale": "Positions AWE as one input mediated by learner judgement, as Stevenson (2016) recommends.",
+          "intendedInsight": "Tools suggest; writers decide, using their own knowledge and reference sources.",
+          "rationale": "Positions the tool as one input mediated by learner judgement, as Stevenson (2016) recommends.",
           "citations": [
             "stevenson2016"
           ]
@@ -3231,57 +3348,143 @@
         {
           "title": "What the tool cannot see",
           "learnerActions": [
-            "Submit a paragraph that is grammatically clean but weakly argued to an AWE tool",
+            "Submit a paragraph that is grammatically clean but weakly argued to an AWE tool and note its readability score",
             "Note how few issues are flagged",
             "Peer-review the same paragraph for argument and evidence",
-            "Compare the two kinds of feedback"
+            "Compare the two kinds of feedback and decide what a revision plan needs"
           ],
-          "intendedInsight": "Surface correctness is not the same as quality.",
+          "intendedInsight": "Surface correctness and readability scores are not the same as academic quality.",
           "rationale": "Illustrates the surface focus documented by Stevenson (2016) and the limited transfer reported by Stevenson and Phakiti (2014).",
           "citations": [
             "stevenson2016",
             "stevensonphakiti2014"
           ]
+        },
+        {
+          "title": "Policy check",
+          "learnerActions": [
+            "Read the module or institutional rules on editing and AI tools for one assessment",
+            "Classify five tool uses (spell-check, a grammar suggestion, a readability check, an “improve fluency” button, “rewrite this paragraph”) as permitted, permitted with disclosure, or not permitted",
+            "Identify any use the rules do not clearly cover and draft a short question to the module leader"
+          ],
+          "intendedInsight": "Permissions attach to what a function does and vary between assessments, so they must be checked each time.",
+          "rationale": "Scale-based AI policies set different permitted levels of assistance for different tasks (Perkins et al., 2024); classifying functions against a real rule makes the boundary explicit.",
+          "citations": [
+            "perkins2024aias"
+          ]
         }
       ],
       "difficulties": [
         {
-          "pattern": "Accepting every suggestion.",
+          "pattern": "Accepting every suggestion the tool makes.",
           "kind": "overgeneralisation",
-          "revealedBy": "Technical terms replaced, unidiomatic rephrasings, a flattened voice.",
-          "response": "Require a reason for every accepted change. Do not ban the tools; teach principled use.",
-          "reteachPrerequisiteId": "grm.error-monitoring"
+          "revealedBy": "New errors introduced at the final stage: technical terms replaced, hedges removed, unidiomatic rephrasings, a flattened voice.",
+          "response": "Require a reason for every accepted change and a reference check for uncertain ones. Do not ban the tools; teach principled use.",
+          "reteachPrerequisiteId": "edt.grammar-editing"
         },
         {
           "pattern": "“If the checker finds no errors, the writing is good.”",
           "kind": "conceptual",
-          "revealedBy": "Content and structure left unrevised once surface errors are cleared.",
-          "response": "Separate global revision from surface editing in the drafting process and in feedback.",
+          "revealedBy": "Content and structure left unrevised once surface errors are cleared; readability scores offered as evidence of quality.",
+          "response": "Separate global revision from surface editing in the drafting process and in feedback, and explain what readability formulas measure.",
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Using rewriting or paraphrasing features that breach policy.",
+          "pattern": "Using AI rewriting features to “improve” whole paragraphs.",
           "kind": "conceptual",
-          "revealedBy": "Integrity concerns; submitted text that no longer reflects the learner’s own wording.",
-          "response": "Discuss institutional policy and distinguish feedback (diagnosis) from rewriting (production).",
-          "reteachPrerequisiteId": null
+          "revealedBy": "In a tutorial about the draft, wording or claims the learner did not intend or cannot explain; the learner’s own account of how a passage was produced. A change in style is not evidence of misuse on its own.",
+          "response": "Discuss rules, authorship and voice, show how meaning drifts in rewritten text, and distinguish feedback (diagnosis) from rewriting (production). Where misuse is suspected, follow the institution’s procedure; the burden of proof lies with the institution, not the learner.",
+          "reteachPrerequisiteId": "gai.how-genai-works"
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to explain why they rejected a particular suggestion from a checker.",
-        "strongResponse": "Gives a grounded reason (technical term, disciplinary convention, change of meaning).",
-        "partialResponse": "Gives a vague reason (‘it sounded wrong’).",
-        "gapResponse": "Has no basis for the decision, or accepts all suggestions."
+        "task": "Give a paragraph with ten tool suggestions and ask the learner to decide on each within five minutes and explain one rejection.",
+        "strongResponse": "Makes correct decisions on most suggestions, identifies the meaning-changing suggestion and gives a grounded reason (technical term, disciplinary convention, change of meaning).",
+        "partialResponse": "Makes mostly correct decisions but accepts the meaning-changing suggestion, or gives vague reasons (‘it sounded wrong’).",
+        "gapResponse": "Accepts or rejects all suggestions without reasons."
       },
-      "contextNotes": "Foundation and pre-sessional: critical use and policy awareness. UG and PGT in-sessional: integrating AWE output with feedback literacy, and awareness of generative-AI features in editing tools.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): what spell-checkers, grammar checkers and AWE can and cannot do, and the local rules for progression assessments, which are often stricter than in degree modules. In-sessional UG: module-by-module rules and integrating tool output with feedback literacy. PGT: tools are assumed; revisit the rules for the dissertation. PGR: materially different concerns, namely confidentiality when uploading unpublished work or participant data to online tools (see gai.privacy-ip) and journal policies on AI-assisted editing. For learners with dyslexia or another specific learning difference, spelling and grammar tools may be agreed assistive tools; treat their use as legitimate (see dig.assistive-technology) and do not penalise reliance on them where they are permitted.",
       "citations": [
         "stevenson2016",
         "stevensonphakiti2014",
-        "hylandhyland2019"
+        "hylandhyland2019",
+        "perkins2024aias"
       ],
       "reviewNotes": [
-        "AWE and generative-AI feedback are converging; evidence on newer AI-based feedback tools is still emerging.",
-        "Stevenson and Phakiti (2014) is a proposed reference."
+        "AWE and generative-AI feedback are converging and evidence on newer AI-based feedback tools is still emerging; because tool capabilities and rules change rapidly, guidance is framed around functions rather than named products.",
+        "Review response: R1-17 — edt.editing-tools is merged here. The absorbed record cited Lee (2020) for using MT output as a revision reference; that use is covered under dig.machine-translation."
+      ]
+    },
+    {
+      "topicId": "dig.assistive-technology",
+      "summary": "Assistive technologies are often treated as individual support arranged outside the curriculum, yet many of their functions (read-aloud, dictation, captions, spell-checking) are now built into everyday software and can help any learner, including users of English as an additional language who benefit from hearing a text while reading it. Accessibility standards such as WCAG (World Wide Web Consortium, 2023) explain why well-structured documents work with screen readers and read-aloud tools, which links this topic to designing accessible documents. Because institutions increasingly regulate AI by the level of assistance permitted in each task (Perkins et al., 2024), learners need to know where assistive functions end and generative ones begin in the tools they use. Teaching should normalise these tools for the whole class, make the adjustment process explicit, and never require learners to disclose a disability.",
+      "activities": [
+        {
+          "title": "Accessibility features tour",
+          "learnerActions": [
+            "Explore the read-aloud, dictation, captioning and magnification settings on their own device or a lab computer",
+            "Listen to a set reading with read-aloud while following the text and annotating key points",
+            "Dictate a short summary of the reading and revise the transcript",
+            "Note one feature they would keep using and one limitation they found, such as mispronounced technical terms or missing punctuation in dictated text"
+          ],
+          "intendedInsight": "Assistive features are ordinary study tools available to everyone, and each one changes rather than removes the work of reading or writing.",
+          "rationale": "Treating tools as part of everyday academic literacy practices rather than as remedial add-ons follows the digital-literacies perspective of Lea and Jones (2011); trying them as a whole class avoids singling out learners who use them.",
+          "citations": [
+            "lea2011digital"
+          ]
+        },
+        {
+          "title": "Where does assistance end?",
+          "learnerActions": [
+            "Sort a list of tool functions (read-aloud, dictation, spell-check, word prediction, grammar suggestion, “rewrite this paragraph”, “summarise this article”, mind-map generation) into assistive, editing and generative functions",
+            "Map each function onto the AI-use rules for one real assessment",
+            "Identify any function the rules do not clearly cover and draft a short query to the module leader",
+            "Find the institutional page on requesting adjustments and note the contact, evidence and deadline information"
+          ],
+          "intendedInsight": "One app can contain permitted assistive functions and prohibited generative ones, so learners judge functions, not brands.",
+          "rationale": "Scale-based AI policies regulate what a tool does in a particular assessment (Perkins et al., 2024); mapping functions to the rules makes the boundary explicit before it matters.",
+          "citations": [
+            "perkins2024aias"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "“Using read-aloud or dictation is a kind of cheating, or a sign that I am not good enough.”",
+          "kind": "affective",
+          "revealedBy": "Learners who find the reading load or handwriting difficult but avoid available tools, or use them only in secret.",
+          "response": "Present assistive features to the whole class as ordinary study tools, and explain that agreed adjustments give equal access rather than an advantage. Do not ask individuals to explain or justify their use in front of peers.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Adjustments are agreed but not applied: an online test without the extra time, a seminar grade based only on spoken turns, or set readings supplied as scanned images that a screen reader cannot read.",
+          "kind": "institutional",
+          "revealedBy": "Learners reporting that agreed arrangements were missing; inaccessible files on the learning platform; participation grades that ignore chat or written contributions.",
+          "response": "Treat this as the institution’s responsibility: check arrangements before each assessment, provide accessible text-based files and accept more than one mode of participation. Teach learners how to raise the problem promptly and politely, but do not make them responsible for fixing it.",
+          "reteachPrerequisiteId": "lrn.support-services"
+        },
+        {
+          "pattern": "Assuming that every function in an approved assistive tool is allowed in every assessment.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Built-in rewriting, summarising or paraphrasing features used in assessments where only assistive functions were agreed.",
+          "response": "Distinguish assistive from generative functions and check each assessment’s rules; where the rules are unclear, the learner should ask and the institution should clarify in writing. Do not respond by banning assistive tools wholesale, which would remove agreed adjustments.",
+          "reteachPrerequisiteId": "gai.policies"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give the learner a list of eight tool functions and the AI-use rules for one assessment. Ask which functions they could use, which they would need to ask about, and whom they would contact if an agreed adjustment were missing on the day.",
+        "strongResponse": "Classifies functions by what they do rather than by tool name, flags generative features for checking, and names the correct contact and channel.",
+        "partialResponse": "Classifies most functions correctly but treats a whole tool as permitted or prohibited, or is unsure whom to contact.",
+        "gapResponse": "Cannot distinguish assistive from generative functions, or assumes nothing can be done about a missing adjustment."
+      },
+      "contextNotes": "Foundation: introduce built-in accessibility features to the whole cohort early, alongside orientation to support services, since learners may be new to how adjustments work in the target system. Pre-sessional (UG and PG): link tools to heavy reading loads and to the AI and integrity rules of progression assessments, and check that agreed arrangements apply to pre-sessional assessments, which sometimes run outside the main examination system. In-sessional UG and PGT: module-by-module rules on AI features and arrangements for timed, online and group assessments. PGR: arrangements are materially different, covering thesis submission and extensions, viva format and breaks, and assistive tools used with confidential research data (see gai.privacy-ip). Terminology and legal frameworks differ between countries (reasonable adjustments, accommodations), so refer learners to the procedure in their target context.",
+      "citations": [
+        "w3c2023wcag",
+        "perkins2024aias",
+        "lea2011digital"
+      ],
+      "reviewNotes": [
+        "The closed bibliography has no source specifically on assistive technology or disabled students in higher education; the citations support only the accessibility-standard, digital-literacies and AI-policy framing. A source on universal design for learning or on students’ use of assistive technology should be considered in a future bibliography round."
       ]
     },
     {
@@ -3339,7 +3542,7 @@
         "partialResponse": "Recognises that position matters but cannot explain the mechanism.",
         "gapResponse": "Judges by aesthetic preference only."
       },
-      "contextNotes": "Foundation: basic awareness through posters and textbooks. Pre-sessional: analysis in preparation for poster and presentation assessments. UG and PGT in-sessional: discipline genres and professional visual communication.",
+      "contextNotes": "Foundation: basic awareness through textbooks and simple visual summaries. Pre-sessional (UG and PG): analysis in preparation for poster, slide and recorded presentation assessments. UG in-sessional: discipline genres and professional visual communication. PGT: revisited when visual genres are assessed. For learners with visual impairments, analyse how meaning is redistributed across modes through descriptions and accessible versions rather than excluding them from the task.",
       "citations": [
         "kressvanleeuwen2006",
         "rowleyjolivet2002",
@@ -3475,15 +3678,13 @@
         "partialResponse": "Mentions the source orally but plans no formal reference.",
         "gapResponse": "Plans no attribution."
       },
-      "contextNotes": "Foundation and pre-sessional: short podcasts or recorded presentations, sometimes used in progression assessment. UG in-sessional: video essays and e-portfolios across many disciplines. PGT: professional portfolios and digital outputs.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): short podcasts or recorded presentations, sometimes used in progression assessment. UG in-sessional: video essays and e-portfolios across many disciplines. PGT: professional portfolios and digital outputs. Where a format creates a barrier unrelated to the learning outcome, offer an alternative mode, such as narrated slides or a captioned screencast instead of on-camera delivery for a student who stammers, provided the outcomes assessed stay the same.",
       "citations": [
         "newlondon1996",
         "hafner2014",
         "kressvanleeuwen2006"
       ],
-      "reviewNotes": [
-        "Two of the three key references for this topic (New London Group, 1996; Hafner, 2014) are proposed additions; if they are not accepted, Kress and van Leeuwen (2006) remains as support."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "mmd.accessibility",
@@ -3538,7 +3739,7 @@
         "partialResponse": "Describes the type but not the message.",
         "gapResponse": "Gives generic alternative text or none."
       },
-      "contextNotes": "Pre-sessional: basic structure and alternative text in submitted work. UG and PGT in-sessional: slides, posters and dissertations. PGR: theses deposited in repositories, publications and teaching materials.",
+      "contextNotes": "Pre-sessional (UG and PG): basic structure, alternative text and captions in submitted work. UG and PGT in-sessional: slides, posters and dissertations. PGR: theses deposited in repositories, publications and teaching materials. Learners who use assistive technologies themselves may be expert informants; invite, but never require, them to share their experience.",
       "citations": [
         "w3c2023wcag",
         "apa2020"
@@ -3549,7 +3750,7 @@
     },
     {
       "topicId": "num.number-expressions",
-      "summary": "Quantity expressions draw on grammatical systems (quantifiers, partitives, number agreement and determiners) that corpus grammars describe in detail (Biber et al., 1999) and that pedagogical grammars identify as persistently difficult (Celce-Murcia & Larsen-Freeman, 1999). Learners usually control the mathematics; errors tend to lie in the English packaging. Teaching should focus on high-frequency academic patterns and on style-guide conventions for numerals (American Psychological Association, 2020), with oral practice to link spoken and written forms.",
+      "summary": "Quantity expressions draw on grammatical systems (quantifiers, partitives, number agreement and determiners) that corpus grammars describe in detail (Biber et al., 1999) and that pedagogical grammars identify as persistently difficult (Celce-Murcia & Larsen-Freeman, 1999). Learners usually control the mathematics; errors tend to lie in the English packaging and in presentation conventions. Those conventions differ between style guides: APA generally uses numerals for 10 and above and words below 10, with many exceptions, while Chicago in non-technical contexts spells out whole numbers up to one hundred (American Psychological Association, 2020; University of Chicago Press, 2024). Teach high-frequency academic patterns with oral practice, then consistent application of whichever style is required, ending with a number-style check.",
       "activities": [
         {
           "title": "Same quantity, four ways",
@@ -3563,6 +3764,20 @@
           "rationale": "Links form choice to audience, anticipating the argument that natural-frequency formats are often clearer for lay readers (Gigerenzer et al., 2007).",
           "citations": [
             "gigerenzer2007"
+          ]
+        },
+        {
+          "title": "Number-style check",
+          "learnerActions": [
+            "Highlight every number, percentage and range in a results paragraph of their own writing",
+            "Check each against the required style guide (numerals or words, sentence-initial numbers, ranges, % or per cent)",
+            "Correct inconsistencies and record the main rules on a one-page style sheet for future assignments"
+          ],
+          "intendedInsight": "Number conventions are specific to a style and must be applied consistently, not memorised as universal rules.",
+          "rationale": "Style guides specify number conventions that differ from one another (American Psychological Association, 2020; University of Chicago Press, 2024), so a personal style sheet for the required guide transfers better than a single rule list.",
+          "citations": [
+            "apa2020",
+            "chicago2024"
           ]
         },
         {
@@ -3594,6 +3809,13 @@
           "reteachPrerequisiteId": "grm.subject-verb-agreement"
         },
         {
+          "pattern": "“45% of participants agreed.” at the start of a sentence.",
+          "kind": "developmental",
+          "revealedBy": "Sentences opening with a numeral or symbol, or the same number written as a word in one place and a numeral in another.",
+          "response": "Teach rephrasing (Of the participants, 45% agreed) or spelling out where the style guide requires, and a final number-style check. Do not present one guide’s rules as universal, since guides differ on the details.",
+          "reteachPrerequisiteId": null
+        },
+        {
           "pattern": "Decimal and digit-grouping marks.",
           "kind": "L1-transfer",
           "revealedBy": "Writing 3,5 for three and a half or 1.000 for one thousand, leading to ambiguous figures.",
@@ -3602,19 +3824,22 @@
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to correct five sentences containing quantity errors and explain each correction.",
-        "strongResponse": "Corrects all five and states the rule involved (agreement with the of-complement, per cent versus percentage, decimal point).",
-        "partialResponse": "Corrects most errors but cannot explain them.",
-        "gapResponse": "Misses agreement and per cent/percentage errors."
+        "task": "Give a 120-word results paragraph containing five quantity errors and five number-style inconsistencies, name the target style guide, and ask the learner to correct it and explain three of the corrections.",
+        "strongResponse": "Corrects the grammar and meaning errors (agreement, per cent versus percentage) and the style inconsistencies in line with the named guide, and states the rule involved.",
+        "partialResponse": "Corrects most grammar errors but misses one category of style inconsistency, or corrects without being able to explain.",
+        "gapResponse": "Misses agreement and per cent/percentage errors, or introduces new inconsistencies."
       },
-      "contextNotes": "Foundation: high priority, ideally coordinated with subject mathematics and science teaching. Pre-sessional: within data commentary and project writing. UG in-sessional: as a targeted focus where errors persist in reports.",
+      "contextNotes": "Foundation: core, ideally coordinated with subject mathematics and science teaching, with spoken and written forms practised together. Pre-sessional (UG and PG): consolidated within data commentary and project writing, adding the conventions of the style guide used by the receiving department. In-sessional UG and PGT: revisited as a targeted focus where errors persist in reports and dissertations, especially consistency across chapters. Persistent difficulty with numbers in every language a learner uses may reflect dyscalculia or another specific learning difference rather than a language gap; refer sensitively to learning-support services and allow agreed tools without treating it as carelessness.",
       "citations": [
         "biber1999lgswe",
         "celcemurcia1999",
         "apa2020",
+        "chicago2024",
         "bipm2019"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R1-19 — sen.numbers-units-style is merged here. Unit symbols and number–unit spacing stay in num.units-measurement, which depends on this topic; this topic keeps the grammar and in-text presentation of numbers."
+      ]
     },
     {
       "topicId": "num.approximation",
@@ -3671,7 +3896,7 @@
         "partialResponse": "Figures are correct but the approximator is mismatched, or the percentage is over-precise (39.13%).",
         "gapResponse": "The approximation is inaccurate or no figure is given."
       },
-      "contextNotes": "Foundation: core approximators alongside number expressions. Pre-sessional: approximation in data commentary and presentations. UG and PGT in-sessional: conventions for reporting precision, and adapting figures for lay summaries and public engagement.",
+      "contextNotes": "Foundation: core approximators alongside number expressions. Pre-sessional (UG and PG): approximation in data commentary and presentations. UG in-sessional: conventions for reporting precision in reports. PGT: revisited when adapting figures for lay summaries and public engagement.",
       "citations": [
         "salagermeyer1994",
         "hyland1998hedging",
@@ -3733,7 +3958,7 @@
         "partialResponse": "Defines both terms correctly but does not give the reason.",
         "gapResponse": "Cannot distinguish the two terms."
       },
-      "contextNotes": "Foundation: descriptive terms in business, science and social science modules. Pre-sessional: terms met in data commentary and source reading. UG and PGT in-sessional: terms in the methods and results of projects and dissertations, ideally coordinated with research methods teaching.",
+      "contextNotes": "Foundation: descriptive terms in business, science and social science modules. Pre-sessional UG: terms met in data description; pre-sessional PG: terms met in research reading in quantitative fields. UG and PGT in-sessional: terms in the methods and results of projects and dissertations, ideally coordinated with research methods teaching. Most relevant in quantitative disciplines; learners in the humanities may need only the everyday versus statistical contrast.",
       "citations": [
         "gal2002",
         "creswell2018",
@@ -3931,7 +4156,7 @@
         "partialResponse": "Minor spacing or case errors.",
         "gapResponse": "Pluralised or wrongly capitalised symbols, or missing units."
       },
-      "contextNotes": "Foundation: science and engineering foundation programmes. Pre-sessional: discipline-specific streams for STEM-bound learners. UG in-sessional: lab reports, where unit errors are frequently penalised.",
+      "contextNotes": "Foundation: science, engineering and health foundation programmes. Pre-sessional (UG and PG): discipline-specific streams for STEM- and health-bound learners. UG in-sessional: lab reports, where unit errors are frequently penalised. Unit symbols and number–unit spacing extend the number-style conventions taught under num.number-expressions.",
       "citations": [
         "bipm2019",
         "apa2020"
@@ -4006,29 +4231,27 @@
   ],
   "authorNotes": [
     "dat.describing-diagrams overlaps fun.describing-process and fun.describing-structure. I scoped it as verbalising visual representations (flowcharts, cycles, structural diagrams, maps and plans) and made it depend on both FUN topics; FUN topics should not link back to it.",
-    "prs.explaining-visuals is the spoken counterpart of dat.data-commentary. Recommend that prs.explaining-visuals take dat.describing-trends and dat.referring-to-visuals (and optionally dat.data-commentary) as prerequisites, not the reverse.",
     "rds.visuals-in-text overlaps dat.reading-graphs and dat.reading-tables. I linked dat.referring-to-visuals <- rds.visuals-in-text (soft). Recommend rds.visuals-in-text take dat.reading-graphs and dat.reading-tables as soft prerequisites and not depend on any DAT writing topic, to avoid cycles.",
     "res.results, res.quantitative-reporting, grp.lab-report and grp.empirical-project-report should take dat.data-commentary as a prerequisite. tst.test-vs-university is the natural place to cross-reference the IELTS Task 1 versus data commentary contrast.",
     "Gap: no topic covers commentary on qualitative or mixed-methods displays (coding frames, thematic maps, joint displays). The data commentary literature is quantitatively biased; consider a scope note on dat.data-commentary or a link from res.qualitative-reporting.",
     "Gap: the tool skill of producing charts in spreadsheet or statistics software is assumed by dat.creating-visuals but not modelled anywhere.",
-    "edt.editing-tools and dig.automated-feedback-tools overlap heavily (and both touch gai.language-support). Suggest EDT keeps spelling and grammar checking as one step in editing, while DIG covers AWE systems and AI feedback features, including policy; or merge the two topics.",
-    "dig.machine-translation versus rdp.plurilingual-reading, wpr.l1-in-composing and src.multilingual-sources: I left these unlinked to avoid cross-group cycles. Recommend that all three take dig.machine-translation as a soft prerequisite (MT literacy, including error awareness and policy, before applying MT to reading, composing and translating sources).",
     "dig.digital-etiquette overlaps prg.messaging-channels; suggest prg.messaging-channels <- dig.digital-etiquette (soft) or a merge.",
-    "dig.word-processing overlaps wpr.formatting. I linked only dig.word-processing <- grp.report-conventions (soft); wpr.formatting could take dig.word-processing as a soft prerequisite.",
     "dig.vle has little language content and is institution-specific; consider moving it to ACU or LRN, or reframing it as reading assessment information on the VLE.",
     "Gap: no PGR topic covers research data management (data management plans, FAIR principles, secure storage of participant data); dig.file-management is stretched to cover it. Suggest a new topic or a link from int.research-integrity.",
     "cit.accuracy-consistency could take dig.reference-managers as a soft prerequisite, and gai.verifying-output overlaps the reference-verification activity under dig.reference-managers.",
     "dig.file-management is left as a deliberate entry point with no prerequisites.",
-    "prs.posters (presenting and discussing a poster) and mmd.poster-design (designing it) are complementary; recommend prs.posters <- mmd.poster-design.",
     "prs.recorded-online overlaps mmd.digital-assessments. I linked mmd.digital-assessments <- prs.recorded-online (soft); PRS should not link back.",
     "prs.slide-design could take mmd.multimodal-literacy and mmd.accessibility as soft prerequisites.",
     "mmd.accessibility is scoped in the skeleton as documents; I extended it to slides and audio-visual media (captions, transcripts). Suggest renaming it to Accessible academic documents and media.",
     "Visual or graphical abstracts sit between mmd.infographics and res.abstracts; I have covered them under mmd.infographics.",
-    "sen.numbers-units-style overlaps num.number-expressions and num.units-measurement. Suggest SEN keeps style-guide mechanics (numerals versus words, ranges, en dashes) and NUM keeps grammar, meaning and SI conventions. Recommended direction: sen.numbers-units-style <- num.number-expressions (soft). I did not link the two, to avoid a cross-group cycle.",
     "prn.numbers-aloud should take num.number-expressions (and, for STEM learners, num.mathematical-expression) as a prerequisite rather than the reverse.",
     "num.approximation versus sta.hedging: approximators are one category of hedge. I deliberately did not make num.approximation depend on sta.hedging, so that sta.hedging can take num.approximation as a soft prerequisite if the STA authors wish.",
     "crt.correlation-causation is a soft prerequisite of both num.interpreting-statistics and dat.data-commentary. CRT should not make it depend on either; num.statistical-vocabulary would be a safe soft prerequisite for it.",
     "dse.mathematical-writing should depend on num.mathematical-expression, and res.quantitative-reporting on num.interpreting-statistics.",
-    "num.statistical-vocabulary and voc.subtechnical-polysemy share the problem of significant; I linked num.statistical-vocabulary <- voc.subtechnical-polysemy (soft)."
+    "num.statistical-vocabulary and voc.subtechnical-polysemy share the problem of significant; I linked num.statistical-vocabulary <- voc.subtechnical-polysemy (soft).",
+    "Revision round: edt.editing-tools merged into dig.automated-feedback-tools (R1-17); sen.numbers-units-style merged into num.number-expressions (R1-19); mmd.poster-design absorbed into prs.posters (R1-30), so MMD now leaves poster design to PRS.",
+    "dig.assistive-technology (new, R5-07) depends softly on lrn.support-services and gai.policies, and mmd.accessibility now depends softly on it. Other groups could take it as a soft prerequisite of exam-arrangement and participation topics (exm.timed-writing, exm.open-book, sem.online-discussion) and of rdp.reading-fluency-rate.",
+    "R5-02: rdp.plurilingual-reading <- dig.machine-translation (owned by 04-reading) should be reversed; once removed there, add dig.machine-translation <- rdp.plurilingual-reading (soft) here.",
+    "wpr.formatting <- dig.word-processing (soft) is in 07-writing; dig.word-processing is now an entry point after R3-05 removed its edge from grp.report-conventions."
   ]
 }

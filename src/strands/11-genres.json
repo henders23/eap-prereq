@@ -5,15 +5,15 @@
       "code": "GES",
       "strand": "Academic Genres",
       "name": "Essay & Examination Genres",
-      "summary": "This domain covers the essay, examination, review and source-based genres most often assessed in foundation, pre-sessional and taught programmes, together with the genre concepts and analytic strategies learners need to handle genres they have not been explicitly taught. Each genre topic integrates component skills from the writing, sources, argument, discourse and reading strands, and describes typical purposes, stages and language; because conventions vary by discipline, department and assignment brief, every topic stresses analysis of local exemplars, briefs and marking criteria rather than a single template. The domain draws on all three genre traditions (ESP, Sydney School and New Rhetoric) and on corpus evidence about genre families in UK student writing.",
-      "learnerSummary": "You will learn what different kinds of academic writing are for, how they are usually organised and what language they use, and how to analyse examples and assignment briefs so that you can write new types of text that nobody has taught you.",
+      "summary": "This domain covers the essay, examination, review and source-based genres most often assessed in foundation, pre-sessional and taught programmes, including the extended source-based project that caps many pre-sessional and foundation courses, together with the genre concepts and analytic strategies learners need to handle genres they have not been explicitly taught. Comparison, explanation and problem–solution essays are treated as rhetorical patterns within the essay family rather than as separate genres, and each genre topic integrates component skills from the writing, sources, argument, discourse and reading strands. Because conventions vary by discipline, department and assignment brief, every topic stresses analysis of local exemplars, briefs and marking criteria rather than a single template; the domain draws on the ESP, Sydney School and New Rhetoric genre traditions and on corpus evidence about genre families in UK student writing.",
+      "learnerSummary": "You will learn what different kinds of university writing are for, how they are organised and what language they use, and how to study examples so you can handle new tasks.",
       "stageEmphasis": {
-        "foundation": "Explanation, discussion, compare-and-contrast, problem–solution, short-answer and summary–response genres with strong scaffolding, plus the idea that texts are shaped by purpose and reader.",
-        "in-sessional-ug": "Discipline-specific essays, exam essays, short answers, critiques and reflective writing, worked through real module briefs, criteria and feedback.",
-        "in-sessional-pgt": "Rapid adaptation to critiques, literature reviews, reflective and exam genres within a compressed year, with emphasis on criticality and independent genre analysis.",
-        "pgr": "Genre analysis as an independent research skill and book reviews as early publications; most doctoral genres are covered in the Research Communication strand.",
-        "pre-sessional-ug": "The shift from test-style opinion essays to source-based argumentative essays, critiques, annotated bibliographies and short literature reviews, with guided analysis of target-department exemplars.",
-        "pre-sessional-pg": "The shift from test-style opinion essays to source-based argumentative essays, critiques, annotated bibliographies and short literature reviews, with guided analysis of target-department exemplars."
+        "foundation": "Discussion and expository essays, summary–response and short answers with strong scaffolding, building towards a guided extended source-based project and the idea that texts are shaped by purpose and reader.",
+        "pre-sessional-ug": "The move from test-style opinion essays to source-based argumentative essays and annotated bibliographies, culminating in the extended project, with a map of the genre families met in the first year of a degree.",
+        "pre-sessional-pg": "Source-based argument, article critiques and annotated bibliographies feeding an extended project with a short review of literature, plus independent analysis of exemplars from the target master's programme.",
+        "in-sessional-ug": "Discipline-specific essays, exam essays, critiques and reflective writing worked through real module briefs, criteria and feedback, with coursework literature reviews in later years.",
+        "in-sessional-pgt": "Rapid adaptation to coursework literature reviews, critiques, reflective and exam genres within a compressed year, with independent genre analysis as the transferable skill.",
+        "pgr": "Genre analysis as an independent research skill and book reviews as early publications; doctoral genres themselves sit in the Research Communication strand."
       },
       "keyReferences": [
         "swales1990",
@@ -29,14 +29,14 @@
       "strand": "Academic Genres",
       "name": "Report & Practice-Based Genres",
       "summary": "This domain covers report-based, practice-based and professional genres in which students document investigations, analyse cases, justify designs, propose projects, summarise for decision-makers, reflect on practice and write for non-academic readers. Most are discipline-specific in their sections, terminology and evidence, so each topic sets out common purposes, stages and language while stressing that lab manuals, templates, handbooks and assignment briefs override any generic model. The domain draws on genre-family research on UK student writing, analyses of particular student genres such as the lab report and the business case report, and research on reflective writing.",
-      "learnerSummary": "You will learn how reports, case studies, proposals, portfolios, dissertations and public-facing texts work, who reads them and what those readers need, and how to adapt to your own department's templates and expectations.",
+      "learnerSummary": "You will learn how reports, case studies, proposals, portfolios and dissertations work and what their readers need, and how to follow your own department's templates and expectations.",
       "stageEmphasis": {
         "foundation": "Report conventions, guided lab reports and introductory case studies and business reports in subject pathways.",
+        "pre-sessional-ug": "Report conventions and, in subject-specific strands, short lab, case or business reports; the extended project may itself take report form.",
+        "pre-sessional-pg": "Report formats for the target discipline, such as business, case or small empirical project reports, and in some programmes a short taught-programme project proposal.",
         "in-sessional-ug": "Discipline-embedded lab, design, business and case reports, placement portfolios and the final-year dissertation or project.",
-        "in-sessional-pgt": "Professional reports, case analyses, policy briefs, portfolios and the master's dissertation, often within a compressed timeline.",
-        "pgr": "Policy briefs and public-facing writing for engagement and impact; doctoral research genres themselves sit in the Research Communication strand.",
-        "pre-sessional-ug": "Extended project reports, proposals and abstracts as progression assessments, with an introduction to report formats in the learners' target disciplines.",
-        "pre-sessional-pg": "Extended project reports, proposals and abstracts as progression assessments, with an introduction to report formats in the learners' target disciplines."
+        "in-sessional-pgt": "The dissertation proposal and the master's dissertation, alongside professional reports, case analyses, policy briefs and portfolios, often within a compressed timeline.",
+        "pgr": "Policy briefs and public-facing writing for engagement and impact; doctoral proposals and theses sit in the Research Communication strand."
       },
       "keyReferences": [
         "nesigardner2012",
@@ -95,11 +95,11 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -148,12 +148,12 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -162,23 +162,25 @@
       "type": "CONCEPTUAL",
       "strand": "Academic Genres",
       "domain": "Essay & Examination Genres",
-      "name": "Genre families in university assessment",
-      "description": "Know the range of genres in which students are assessed (essays, critiques, explanations, exercises, case studies, literature surveys, methodology recounts such as lab reports, research reports, proposals, design specifications, problem questions, narrative or reflective recounts, and empathy writing for non-specialist or professional readers) and the broad social purposes they serve, from demonstrating knowledge to preparing for professional practice. This map helps learners recognise what an assignment is asking for and see that the essay is not the only, or even the dominant, genre in many disciplines.",
+      "name": "Genre families and essay types in university assessment",
+      "description": "Know the range of genre families in which students are assessed (essays, critiques, explanations, exercises, case studies, literature surveys, methodology recounts such as lab reports, research reports, proposals, design specifications, problem questions, narrative or reflective recounts, and empathy writing for non-specialist or professional readers) and, within the essay family, the main essay types (exposition or argument, discussion, factorial and consequential explanation, comparison, problem–solution and challenge or commentary essays), together with how each purpose shapes the thesis, organisation and conclusion. This map helps learners recognise what an assignment is asking for, see that the essay is not the dominant genre in many disciplines, and plan for questions that blend types; labels vary across departments, courses and textbooks, so the brief and criteria outrank any label.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Classifies a set of real assignment briefs by genre family and states the social purpose each serves",
-        "Explains why the same command word (for example 'discuss') can appear in briefs for different genres",
+        "Identifies the essay type or types a question implies and explains how that purpose shapes the thesis and structure, rather than mapping command words mechanically to templates",
+        "Distinguishes a discussion essay that weighs perspectives towards a judgement from an argumentative essay that defends a position from the outset, and recognises the continuum between them",
+        "Recognises when a question combines types (for example explaining and then evaluating) and plans a structure that serves both",
         "Identifies which genre families predominate in their own discipline and level of study",
         "Recognises when an assignment label names one genre but the brief and criteria require features of another, and seeks clarification"
       ],
-      "assessmentPrompt": "Give the learner six anonymised assignment briefs from different disciplines. Ask them to sort the briefs into genre families and say, for each, what the marker most wants to see. Check whether sorting is based on purpose and expected structure rather than on subject or title alone.",
+      "assessmentPrompt": "Give the learner six anonymised briefs from different disciplines and four essay questions on one topic with different focuses. Ask them to sort the briefs into genre families and to sketch, in three lines each, the structure each essay question implies. Check that sorting rests on purpose and expected structure rather than subject or title, that the essay outlines differ for principled reasons, and that a blended question is recognised.",
       "citations": [
         "gardnernesi2013",
         "nesigardner2012",
-        "horowitz1986",
-        "mooremorton2005"
+        "mooremorton2005",
+        "horowitz1986"
       ],
       "frameworks": [
         {
@@ -187,12 +189,12 @@
             "B1+",
             "B2"
           ],
-          "contribution": "related"
+          "contribution": "component"
         }
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
@@ -250,12 +252,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -297,10 +299,10 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -311,23 +313,25 @@
       "type": "GENRE",
       "strand": "Academic Genres",
       "domain": "Essay & Examination Genres",
-      "name": "Explanation and cause–effect essay",
-      "description": "Produce an essay that explains how or why a phenomenon occurs: its causes (factorial explanation), its consequences (consequential explanation) or the mechanism or sequence by which it happens, evaluating the relative importance and certainty of the factors. Typical stages are identification of the phenomenon, an explanation sequence organised by factor, consequence or step, and a conclusion that weighs the factors; characteristic language includes causal verbs and nouns (lead to, result in, a consequence of), nominalised causal chains, hedged causal claims and sequencing.",
+      "name": "Expository essays organised by rhetorical pattern",
+      "description": "Produce essays, or essay sections, whose organisation is driven mainly by one rhetorical pattern: explanation of causes, consequences or a mechanism; comparison of theories, cases, methods or policies against explicit criteria; or problem–response–evaluation leading to a justified recommendation. These are treated as patterns used within the essay family (and inside explanations, case studies and reports) rather than as separate genres, because departments rarely name them and real questions often combine them; each pattern still needs a controlling claim that says what the explanation, comparison or evaluation shows. The topic builds on the corresponding rhetorical functions (cause and effect, comparing and contrasting, problem–solution and evaluating), adding whole-text staging, source support and calibrated claims.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Identifies whether a question calls for causes, consequences or a mechanism and organises the essay accordingly",
-        "Groups causal factors into categories and sequences them by importance or chronology with explicit justification",
-        "Explains the mechanism by which a factor produces an effect rather than only naming the factor",
-        "Uses causal verbs, nouns and prepositions accurately, including nominalised causal chains",
-        "Hedges causal claims that rest on correlational evidence and concludes by weighing factors rather than restating them"
+        "Identifies whether a question calls mainly for explanation (causes, consequences or mechanism), comparison or problem–solution, or a combination, and plans the structure accordingly",
+        "States a controlling claim that says what the explanation, comparison or evaluation shows rather than announcing the topic",
+        "Organises the body consistently by factor, by criterion (point by point, or in blocks with explicit cross-reference) or by problem–response–evaluation, and justifies the order",
+        "Explains mechanisms, the significance of differences or the trade-offs between responses rather than listing causes, features or solutions",
+        "Uses the pattern's signalling language accurately, including causal verbs and nouns, comparative structures and contrastive connectors, problem and evaluation nouns, and conditional and recommending forms",
+        "Supports points with cited source evidence and hedges causal and predictive claims to suit the evidence"
       ],
-      "assessmentPrompt": "Ask the learner to write the introduction and one body paragraph for 'Explain the main causes of X' using a short source pack. Check whether the introduction maps the factors, whether the paragraph explains a mechanism rather than just naming a cause, and whether causal claims are hedged to suit the evidence.",
+      "assessmentPrompt": "Give the learner three questions on one topic that call for different patterns (for example 'Explain why…', 'Compare… as approaches to…', 'Evaluate responses to…') and a short source pack. Ask for a thesis and paragraph plan for each and one full body paragraph for one of them. Check that the plans differ in organisation for principled reasons, that each thesis states an outcome rather than a topic, and that the paragraph explains a mechanism, the significance of a difference or a criterion-based evaluation, with cited evidence and calibrated claims.",
       "citations": [
         "martinrose2008",
+        "hoey2001",
         "gardnernesi2013",
-        "hallidaymartin1993"
+        "carrell1985"
       ],
       "frameworks": [
         {
@@ -347,9 +351,9 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "revisit",
         "in-sessional-ug": "develop"
       },
       "coreBand": "B1+",
@@ -400,10 +404,10 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -445,7 +449,10 @@
       },
       "coreBand": "B1+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "sciences",
+        "health-medicine"
+      ]
     },
     {
       "id": "ges.critique",
@@ -494,13 +501,18 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop"
       },
       "coreBand": "B2",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "psychology",
+        "health-medicine",
+        "education",
+        "social-sciences"
+      ]
     },
     {
       "id": "ges.book-review",
@@ -543,9 +555,12 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "humanities",
+        "social-sciences"
+      ]
     },
     {
       "id": "ges.reflective-writing",
@@ -594,12 +609,16 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "education",
+        "health-medicine",
+        "business-management"
+      ]
     },
     {
       "id": "ges.annotated-bibliography",
@@ -643,12 +662,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -658,7 +677,7 @@
       "strand": "Academic Genres",
       "domain": "Essay & Examination Genres",
       "name": "Literature review assignment",
-      "description": "Write a coursework literature review, stand-alone or as a section of a larger assignment, that maps and synthesises the literature on a defined question thematically, evaluates the strength and limits of the evidence, identifies agreements, tensions and gaps, and positions a question or argument in relation to them. Typical stages are scope and rationale, thematic sections in which sources are placed in dialogue, and a conclusion summarising the state of knowledge and its gaps; characteristic language includes varied integral and non-integral citation, evaluative reporting verbs, comparison, and the present perfect for the state of a field.",
+      "description": "Write a coursework literature review, stand-alone or as a section of a larger assignment, that maps and synthesises the literature on a defined question thematically, evaluates the strength and limits of the evidence, identifies agreements, tensions and gaps, and positions a question or argument in relation to them. Typical stages are scope and rationale, thematic sections in which sources are placed in dialogue, and a conclusion summarising the state of knowledge and its gaps; characteristic language includes varied integral and non-integral citation, evaluative reporting verbs, comparison, and the present perfect for the state of a field. This topic covers coursework reviews set on taught programmes (pre-sessional PG, undergraduate and taught master's modules); the review that positions the writer's own study in a thesis, article or dissertation chapter is res.literature-review, which normally builds on this one.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -698,12 +717,11 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -749,14 +767,68 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "revisit",
         "in-sessional-ug": "develop"
       },
       "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
+    },
+    {
+      "id": "ges.extended-source-based-project",
+      "type": "GENRE",
+      "strand": "Academic Genres",
+      "domain": "Essay & Examination Genres",
+      "name": "Extended source-based project",
+      "description": "Plan, research and write an extended essay or report (typically 2,000–4,000 words in UK pre-sessional and foundation programmes) on a self-chosen, focused question in or near the learner's target field, using sources the learner has found and evaluated, and develop it through staged submissions such as a topic plan, annotated sources, drafts discussed in tutorials and, often, a reflective commentary on the process. Unlike a short source-based essay, the genre assesses sustained management of a question, a body of sources and a drafting cycle, and it is the capstone and frequently the main progression evidence of many pre-sessional and foundation EAP courses. It is normally source-based rather than empirical (projects with primary data draw on grp.empirical-project-report), and length, format and weighting vary by institution and context.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
+      "masteryEvidence": [
+        "Narrows a self-chosen topic into a focused, answerable question that can be addressed within the word limit and with the sources available",
+        "Locates, selects and evaluates sources independently and keeps accurate records of searches and bibliographic details",
+        "Synthesises sources around the writer's own line of argument or analysis across several sections, keeping the writer's voice and the sources' voices distinguishable throughout",
+        "Cites and references consistently across the extended text, with every in-text citation matched by a reference-list entry",
+        "Revises the draft substantively in response to tutorial and peer feedback and explains what changed and why",
+        "Writes a reflective commentary, where required, that evaluates specific decisions in the research and writing process rather than narrating it"
+      ],
+      "assessmentPrompt": "At second-draft stage, ask the learner for their question, a one-page outline and the feedback they received on the previous draft, then ask them to explain in five minutes what they changed and why, pointing to two sections. Check that the question is focused and answerable, that sections advance a line of argument rather than reporting sources one by one, and that the revisions respond to the substance of the feedback rather than only to surface corrections.",
+      "citations": [
+        "mooremorton2005",
+        "lekicarson1997",
+        "carlessboud2018"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "acrl:inquiry",
+          "contribution": "component"
+        }
+      ]
     },
     {
       "id": "grp.report-conventions",
@@ -792,11 +864,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -845,13 +917,17 @@
       ],
       "stageRoles": {
         "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "sciences",
+        "engineering",
+        "health-medicine"
       ]
     },
     {
@@ -860,7 +936,7 @@
       "strand": "Academic Genres",
       "domain": "Report & Practice-Based Genres",
       "name": "Empirical project report",
-      "description": "Write a report of a small-scale empirical study that the student has designed and conducted (for example a survey, interview study, observation or small experiment), presenting the rationale and research questions, a focused review of literature, methods with justification and ethical considerations, findings, a discussion relating findings to the literature, limitations and conclusions. Common on pre-sessional extended projects and in undergraduate and master's research modules, the genre apprentices learners into research reporting; its sections, length and quantitative or qualitative conventions vary by discipline and brief.",
+      "description": "Write a report of a small-scale empirical study that the student has designed and conducted (for example a survey, interview study, observation or small experiment), presenting the rationale and research questions, a focused review of literature, methods with justification and ethical considerations, findings, a discussion relating findings to the literature, limitations and conclusions. Common in undergraduate and master's research modules and in some postgraduate pre-sessional projects, the genre apprentices learners into research reporting; most pre-sessional projects are source-based rather than empirical (see ges.extended-source-based-project), and sections, length and quantitative or qualitative conventions vary by discipline and brief.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -900,12 +976,11 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -944,13 +1019,19 @@
       ],
       "stageRoles": {
         "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "business-management",
+        "health-medicine",
+        "education",
+        "law",
+        "social-sciences"
       ]
     },
     {
@@ -974,6 +1055,7 @@
       "citations": [
         "nathan2013",
         "bhatia1993",
+        "zhu2004",
         "gardnernesi2013"
       ],
       "frameworks": [
@@ -1001,10 +1083,12 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "business-management",
+        "finance-accounting",
+        "economics"
       ]
     },
     {
@@ -1052,10 +1136,12 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "engineering",
+        "computing",
+        "arts-design"
       ]
     },
     {
@@ -1064,7 +1150,7 @@
       "strand": "Academic Genres",
       "domain": "Report & Practice-Based Genres",
       "name": "Project proposal (student)",
-      "description": "Write a proposal for a student project or dissertation that defines the topic and research questions or aims, justifies them in relation to the literature and a gap or practical need, outlines methods and data sources, addresses ethics and feasibility, and presents a realistic timeline. The proposal persuades a supervisor or module team that the project is worthwhile, answerable and achievable; characteristic language includes future and conditional forms, purpose and justification expressions, and hedged statements about expected outcomes.",
+      "description": "Write a proposal for a taught-programme project or dissertation (final-year undergraduate or taught master's) that defines the topic and research questions or aims, justifies them in relation to the literature and a gap or practical need, outlines methods and data sources, addresses ethics and feasibility, and presents a realistic timeline. The proposal persuades a supervisor or module team that the project is worthwhile, answerable and achievable within a fixed taught timetable; characteristic language includes future and conditional forms, purpose and justification expressions, and hedged statements about expected outcomes. Doctoral, MPhil and funding proposals, which must argue for an original contribution to a review panel, are covered by res.research-proposal; the short topic plan agreed at the start of a pre-sessional project belongs to ges.extended-source-based-project.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1096,12 +1182,11 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1149,9 +1234,13 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "business-management",
+        "engineering",
+        "social-sciences"
+      ]
     },
     {
       "id": "grp.policy-brief",
@@ -1202,10 +1291,13 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "social-sciences",
+        "economics",
+        "health-medicine",
+        "education"
       ]
     },
     {
@@ -1245,10 +1337,14 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "health-medicine",
+        "education",
+        "social-sciences",
+        "engineering",
+        "business-management"
       ]
     },
     {
@@ -1297,7 +1393,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1307,7 +1403,7 @@
       "strand": "Academic Genres",
       "domain": "Report & Practice-Based Genres",
       "name": "Undergraduate and master's dissertation",
-      "description": "Understand and plan the undergraduate or taught master's dissertation as a genre: an extended, largely independent piece of research or scholarship whose typical macrostructures include empirical IMRaD-like chapters, topic-based or theoretical structures and practice-based variants, with expectations of scope, length and originality that are lower than for doctoral theses. Learners need to see how proposal, literature review, methodology, findings, discussion and conclusion form one argument across chapters, and how supervision and assessment work; because expectations vary across disciplines and institutions, the handbook, marking criteria and past dissertations are the key sources.",
+      "description": "Understand and plan the undergraduate or taught master's dissertation as a genre: an extended, largely independent piece of research or scholarship whose typical macrostructures include empirical IMRaD-like chapters, topic-based or theoretical structures and practice-based variants, with expectations of scope, length and originality that are lower than for doctoral theses. Learners need to see how proposal, literature review, methodology, findings, discussion and conclusion form one argument across chapters, and how supervision and assessment work; because expectations vary across disciplines and institutions, the handbook, marking criteria and past dissertations are the key sources. Doctoral thesis structures are covered by res.thesis-macrostructure.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1339,8 +1435,8 @@
         }
       ],
       "stageRoles": {
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core"
       },
       "coreBand": "B2+",
       "audience": "learner",
@@ -1418,25 +1514,25 @@
       "topicId": "ges.expository-essays",
       "prerequisiteId": "fun.comparing-contrasting",
       "strength": "hard",
-      "reason": "The genre is built from the language of similarity and difference and from point-by-point and block organisation."
+      "reason": "Comparison-led essays are built from the language of similarity and difference and from point-by-point and block organisation."
     },
     {
       "topicId": "ges.expository-essays",
       "prerequisiteId": "ess.thesis-statement",
       "strength": "soft",
-      "reason": "A comparison essay needs a thesis stating what the comparison shows, so that it does not become a list of features."
+      "reason": "Each pattern needs a thesis that states what the explanation, comparison or evaluation shows, so that the essay does not become a list."
     },
     {
       "topicId": "ges.expository-essays",
       "prerequisiteId": "fun.evaluating",
       "strength": "hard",
-      "reason": "Judging the significance of similarities and differences for the question draws on criteria-based evaluation."
+      "reason": "Every pattern ends in judgement: weighing causal factors, the significance of differences or the merits of responses against explicit criteria."
     },
     {
       "topicId": "ges.expository-essays",
       "prerequisiteId": "fun.cause-effect",
       "strength": "hard",
-      "reason": "Factorial and consequential explanations are realised through cause–effect language and judgements of causal strength."
+      "reason": "Explanation-led essays realise factorial and consequential explanation through cause–effect language and judgements of causal strength."
     },
     {
       "topicId": "ges.expository-essays",
@@ -1448,25 +1544,19 @@
       "topicId": "ges.expository-essays",
       "prerequisiteId": "crt.correlation-causation",
       "strength": "soft",
-      "reason": "Calibrating causal claims in an explanation depends on understanding what kinds of evidence support causal rather than correlational conclusions."
+      "reason": "Calibrating causal and predictive claims depends on understanding what kinds of evidence support causal rather than correlational conclusions."
     },
     {
       "topicId": "ges.expository-essays",
       "prerequisiteId": "ess.body-organisation",
       "strength": "soft",
-      "reason": "Organising factors by category, importance or chronology applies general principles of sequencing body paragraphs."
+      "reason": "Ordering factors, criteria or responses by importance, chronology or logic applies general principles of sequencing body paragraphs."
     },
     {
       "topicId": "ges.expository-essays",
       "prerequisiteId": "fun.problem-solution",
       "strength": "hard",
-      "reason": "The genre is an extended realisation of the situation–problem–response–evaluation pattern and its signalling language."
-    },
-    {
-      "topicId": "ges.expository-essays",
-      "prerequisiteId": "fun.recommending",
-      "strength": "soft",
-      "reason": "The genre usually closes with a justified recommendation, drawing on recommending language and priority and feasibility expressions."
+      "reason": "Problem–solution essays extend the situation–problem–response–evaluation pattern and its signalling language to a whole text."
     },
     {
       "topicId": "ges.exam-essay",
@@ -1928,7 +2018,7 @@
       "topicId": "ges.expository-essays",
       "prerequisiteId": "par.integrating-evidence",
       "strength": "soft",
-      "reason": "Points of comparison in university essays are usually supported with cited source evidence integrated within paragraphs"
+      "reason": "University expository essays support explanations, comparisons and evaluations with cited source evidence introduced and commented on within paragraphs."
     },
     {
       "topicId": "ges.reflective-writing",
@@ -1939,20 +2029,86 @@
     {
       "topicId": "ges.genre-families",
       "prerequisiteId": "ess.essay-structure",
-      "strength": "hard",
-      "reason": "Essay types are variations on the basic thesis-led structure, so the general structure must be understood first"
+      "strength": "soft",
+      "reason": "Essay types are variations on the thesis-led essay structure, so that structure is usually taught first; the non-essay families do not depend on it, hence a soft link."
     },
     {
       "topicId": "ges.genre-families",
       "prerequisiteId": "voc.command-words",
       "strength": "soft",
-      "reason": "Recognising the essay type a question implies relies partly on interpreting its command words"
+      "reason": "Recognising the essay type or genre family a brief implies relies partly on interpreting its command words, although purpose and criteria outrank them."
     },
     {
       "topicId": "ges.genre-families",
       "prerequisiteId": "coh.text-patterns",
       "strength": "soft",
-      "reason": "Essay types are realised through characteristic text patterns such as cause–effect and problem–solution"
+      "reason": "Essay types are distinguished partly by their dominant text patterns, such as cause–effect, comparison and problem–solution."
+    },
+    {
+      "topicId": "ges.genre-concept",
+      "prerequisiteId": "acu.discourse-communities",
+      "strength": "soft",
+      "reason": "Genres are defined by the purposes and expectations of the communities that use them, so the discourse-community concept, where it has been taught, gives the genre concept its social grounding; at foundation level genre is introduced through purpose and reader alone."
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "prerequisiteId": "res.instrument-wording",
+      "strength": "soft",
+      "reason": "Survey and interview projects depend on clear, neutral, piloted questions; poorly worded instruments limit what the findings can support, although experimental and observational projects draw on this less."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "inf.search-strategies",
+      "strength": "hard",
+      "reason": "The project is independently researched: the learner must find relevant sources for a self-chosen question rather than work from a provided source pack."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "syn.synthesis-concept",
+      "strength": "hard",
+      "reason": "An extended project integrates many sources around the writer's own line of argument; without synthesis it becomes a sequence of source summaries."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "src.voice-boundaries",
+      "strength": "hard",
+      "reason": "Across several thousand words the reader must be able to tell at every point which ideas come from sources and which are the writer's own, which is also the main integrity safeguard in a long text."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "hard",
+      "reason": "Each section is built from paragraphs that introduce, cite and comment on source evidence while keeping the writer's point in control."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "cit.accuracy-consistency",
+      "strength": "hard",
+      "reason": "With dozens of citations across staged drafts, keeping every in-text citation matched to an accurate reference-list entry is a distinct demand of the genre and a common assessment criterion."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "edt.global-revision",
+      "strength": "hard",
+      "reason": "The genre is defined by a drafting cycle in which argument, structure and use of evidence are revised between submissions, not only proofread."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "wpr.managing-long-projects",
+      "strength": "soft",
+      "reason": "Staged deadlines for plan, annotated sources, drafts and final submission require milestones and word-count planning; at foundation level tutors usually supply the schedule, hence a soft link."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "fbk.acting-on-feedback",
+      "strength": "soft",
+      "reason": "Tutorials between drafts are a defining stage, and the project rewards learners who turn feedback into specific revisions."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "ges.annotated-bibliography",
+      "strength": "soft",
+      "reason": "Many projects include an annotated-sources stage that develops summary, evaluation and relevance judgements before the sources are synthesised."
     }
   ],
   "guidance": [
@@ -1976,15 +2132,15 @@
           ]
         },
         {
-          "title": "Mapping my discourse communities",
+          "title": "Genre inventory for my programme",
           "learnerActions": [
-            "List the communities you write for now or soon will (module, discipline, profession, online forum)",
-            "For one of them, list its typical genres, readers and what counts as a good text",
-            "Compare with a partner from a different discipline and identify one convention that differs",
-            "Note where you could find authentic evidence: exemplars, briefs, marking criteria, a tutor"
+            "List the genres you expect to read and write in your target programme (for example lecture handouts, lab reports, case analyses, emails to tutors)",
+            "For two of them, note who reads them, what the reader does with them and what counts as a good text",
+            "Compare with a partner from a different discipline and identify one genre whose conventions differ between your fields",
+            "Note where you could find authentic evidence for each genre: exemplars, briefs, marking criteria or a tutor"
           ],
-          "intendedInsight": "Expectations belong to communities, and learners can investigate them rather than wait to be told.",
-          "rationale": "Positions learners as investigators of genre in their own contexts, a central principle of Johns's (1997) socioliterate approach; Swales's (1990) characterisation of discourse communities gives the analysis a structure.",
+          "intendedInsight": "Each genre answers to particular readers and purposes, and learners can investigate those expectations rather than wait to be told.",
+          "rationale": "Positions learners as investigators of the genres in their own contexts, a central principle of Johns's (1997) socioliterate approach; the questions follow Swales's (1990) definition of genre by communicative purpose. The discourse-community analysis itself is left to acu.discourse-communities.",
           "citations": [
             "johns1997",
             "swales1990"
@@ -2020,7 +2176,7 @@
         "partialResponse": "Names the genre and lists features but cannot explain why they exist, or treats the features as universal.",
         "gapResponse": "Describes only the topic, or assumes the task is 'an essay' without considering purpose or reader."
       },
-      "contextNotes": "At foundation level keep the concept practical (purpose, reader, stages) and use familiar contrasts. On pre-sessionals it frames the move from test writing to university genres. In-sessional undergraduate and taught postgraduate learners apply it to their own modules' assignment types. For doctoral researchers, connect it to research genres and discourse community membership through publishing and reviewing, where Swales's framework applies most directly.",
+      "contextNotes": "At foundation level keep the concept practical (purpose, reader, stages) and use familiar contrasts. On pre-sessional courses, both undergraduate and postgraduate, it frames the move from test writing to university genres. In-sessional undergraduate and taught postgraduate learners usually need only a brief revisit applied to their own modules' assignment types. For doctoral researchers, revisit it in relation to research genres and publishing, where it supports independent genre analysis.",
       "citations": [
         "swales1990",
         "hyon1996",
@@ -2028,7 +2184,7 @@
         "johns1997"
       ],
       "reviewNotes": [
-        "Overlaps with acu.discourse-communities; it is not linked as a prerequisite to avoid a possible cycle if the socialisation strand links the reverse direction. Curriculum designers may wish to teach the two together."
+        "Review response (R1-28): discourse community is now left to acu.discourse-communities. The recommended hard edge is added as soft, because acu.discourse-communities starts at B2 and is not taught at foundation, where this topic is introduced; a hard edge would block foundation pathways."
       ]
     },
     {
@@ -2083,9 +2239,9 @@
         },
         {
           "pattern": "Treating the EAP class model as more authoritative than departmental practice.",
-          "kind": "prior-schooling",
-          "revealedBy": "A learner insists on an EAP-taught structure that conflicts with the module brief or exemplars.",
-          "response": "Make the brief and local criteria the first source in every analysis, and frame EAP models as starting hypotheses to test against local evidence.",
+          "kind": "institutional",
+          "revealedBy": "A learner insists on an EAP-taught structure that conflicts with the module brief or exemplars, often because EAP materials presented the model as the correct form.",
+          "response": "EAP teachers and course designers should present models as starting hypotheses to test against local evidence, and make the brief and local criteria the first source in every analysis; where possible, agree with subject staff which exemplars learners may analyse.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -2095,7 +2251,7 @@
         "partialResponse": "A mix of functional and topical labels; language features noticed but not linked to moves.",
         "gapResponse": "A paragraph-by-paragraph summary of the content."
       },
-      "contextNotes": "Foundation: highly guided analysis of short texts with given move labels. Pre-sessional: analysis of the genres in the progression assessment and of target-department exemplars where available. In-sessional undergraduate and taught postgraduate: analysis of real module briefs and exemplars, ideally with subject staff. PGR: independent analysis of research articles, theses and reviews in the field, extending to corpus-assisted analysis.",
+      "contextNotes": "Foundation: highly guided analysis of short texts with given move labels. Pre-sessional UG: analysis of the genres in the progression assessment. Pre-sessional PG: independent analysis of exemplars from the target master's programme and of research articles in the learner's field, a core transferable skill. In-sessional undergraduate and taught postgraduate: analysis of real module briefs and exemplars, ideally with subject staff. PGR: independent analysis of research articles, theses and reviews in the field, extending to corpus-assisted analysis.",
       "citations": [
         "swales1990",
         "johns1997",
@@ -2109,7 +2265,7 @@
     },
     {
       "topicId": "ges.genre-families",
-      "summary": "Use Gardner and Nesi's (2013) classification, derived from the BAWE corpus of highly rated undergraduate and master's assignments, to show learners thirteen genre families grouped by five social purposes. Nesi and Gardner (2012) show that the essay predominates in arts, humanities and social sciences but much less so in the sciences and engineering, where methodology recounts, explanations, exercises and design specifications are common. Horowitz's (1986) earlier survey of the writing tasks university teachers actually set makes a similar point about diversity. Contrast these with proficiency-test tasks, which Moore and Morton (2005) found differ from university assignments in their reliance on personal knowledge and opinion. The aim is a usable mental map and the habit of asking what genre a brief requires, not memorisation of a taxonomy.",
+      "summary": "Use Gardner and Nesi's (2013) classification, derived from the BAWE corpus of highly rated undergraduate and master's assignments, to show learners thirteen genre families grouped by five social purposes, and the essay subtypes within the essay family (such as exposition, discussion, factorial and challenge essays). Nesi and Gardner (2012) show that the essay predominates in arts, humanities and social sciences but much less so in the sciences and engineering, where methodology recounts, explanations, exercises and design specifications are common; Horowitz's (1986) earlier survey of the tasks university teachers set makes a similar point about diversity. Moore and Morton (2005) found that proficiency-test essays differ from university assignments, notably in drawing on personal knowledge and opinion rather than sources. Teach essay types as purposes rather than formulas, stress that textbook and handbook labels vary, and aim for a usable mental map and the habit of asking what a brief requires, not memorisation of a taxonomy.",
       "activities": [
         {
           "title": "Sort the briefs",
@@ -2124,6 +2280,20 @@
           "citations": [
             "gardnernesi2013",
             "nesigardner2012"
+          ]
+        },
+        {
+          "title": "Same topic, different essay type",
+          "learnerActions": [
+            "Read four essay questions on one topic that ask for different things (explain, compare, evaluate responses, argue a position)",
+            "Identify the type and purpose each implies",
+            "Write a thesis for each and compare how they differ",
+            "Find one question that blends types and sketch a plan that serves both purposes"
+          ],
+          "intendedInsight": "The essay type determines what the thesis has to do, and real questions often blend types.",
+          "rationale": "Holding the topic constant isolates the effect of purpose, using the essay subtypes identified by Gardner and Nesi (2013).",
+          "citations": [
+            "gardnernesi2013"
           ]
         },
         {
@@ -2142,11 +2312,18 @@
       ],
       "difficulties": [
         {
-          "pattern": "'All university writing is an essay.'",
+          "pattern": "'All university writing is an essay, and an essay is the five-paragraph opinion essay I practised for the test.'",
           "kind": "prior-schooling",
-          "revealedBy": "Essay-style responses to report, case-study or lab tasks; missing headings, findings or recommendations where the brief requires them.",
-          "response": "Show high-graded examples from non-essay families in the learner's discipline and have learners compare the briefs and criteria that produced them.",
+          "revealedBy": "Essay-style responses to report, case-study or lab tasks; opinion essays with no sources; a pattern reinforced by school-leaving and proficiency-test preparation that practises one essay format.",
+          "response": "Show high-graded examples from non-essay families in the learner's discipline, compare the briefs and criteria that produced them, and compare test and university essays explicitly. Acknowledge that the test format served its purpose; the aim is to add genres, not to discredit prior learning.",
           "reteachPrerequisiteId": "ges.genre-concept"
+        },
+        {
+          "pattern": "Mapping command words mechanically to templates ('discuss means both sides with no view'; 'compare means describe A, then B').",
+          "kind": "overgeneralisation",
+          "revealedBy": "Near-identical outlines for differently focused questions; discussion essays that end without a judgement.",
+          "response": "Treat command words as one clue among several, alongside the focus of the question and the criteria, and show high-graded essays in which the same command word leads to different structures.",
+          "reteachPrerequisiteId": "voc.command-words"
         },
         {
           "pattern": "Taking the assignment label at face value.",
@@ -2157,19 +2334,21 @@
         }
       ],
       "diagnostic": {
-        "task": "Ask: name three kinds of writing, other than essays, that students in your subject are likely to be assessed on, and say what each is for.",
-        "strongResponse": "Names plausible genres for the discipline with accurate purposes (for example: lab report, to show understanding of an experimental procedure and interpret its results).",
-        "partialResponse": "Names genres but cannot state their purposes, or confuses families.",
-        "gapResponse": "Cannot name genres beyond the essay and the exam."
+        "task": "Give three essay questions on one topic and ask the learner to name the type each implies and outline its structure in three lines; then ask them to name two kinds of writing, other than essays, that students in their subject are assessed on, and what each is for.",
+        "strongResponse": "Types identified with reference to purpose, outlines that differ appropriately, any blended question recognised, and plausible non-essay genres for the discipline with accurate purposes.",
+        "partialResponse": "Types identified from command words with near-identical outlines, or non-essay genres named without their purposes.",
+        "gapResponse": "The same five-paragraph outline for all three questions, and no genres beyond the essay and the exam."
       },
-      "contextNotes": "Foundation and pre-sessional: build the map and link it to the learners' likely target departments, noting that pre-sessional assessments cover only a few families. In-sessional undergraduate: revisit with real module briefs, especially at entry to year 1 and before dissertations. Taught postgraduate: many learners meet unfamiliar families (reflective, professional, design) for the first time within a compressed year.",
+      "contextNotes": "Foundation: build the map with the main essay types and the report, linked to the learners' subject pathways. Pre-sessional UG: a core element that addresses test-essay habits and previews the genre families of year one. Pre-sessional PG: the same map with attention to the professional and research-oriented families of the target master's programme. In-sessional undergraduate: revisit with real module briefs and disciplinary essay types such as legal essays (dlw.legal-essays) and interpretive essays (dhu.interpretive-argument). Taught postgraduate: many learners meet unfamiliar families (reflective, professional, design) for the first time within a compressed year.",
       "citations": [
         "gardnernesi2013",
         "nesigardner2012",
         "horowitz1986",
         "mooremorton2005"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R1-16): the former essay-types topic is absorbed here, so the topic now covers both the genre families and the essay types within the essay family; production of individual essay types is covered by the GES genre topics."
+      ]
     },
     {
       "topicId": "ges.argumentative-essay",
@@ -2209,14 +2388,14 @@
         {
           "pattern": "'Argument means listing advantages and disadvantages and giving my opinion at the end.'",
           "kind": "prior-schooling",
-          "revealedBy": "The position appears only in the conclusion; body paragraphs are balanced but uncommitted; 'In my opinion' arrives late.",
+          "revealedBy": "The position appears only in the conclusion; body paragraphs are balanced but uncommitted; 'In my opinion' arrives late. The pattern is rewarded by some test-preparation templates for advantages-and-disadvantages essays.",
           "response": "Show that the position should be visible from the introduction and shape every paragraph; have learners draft the thesis first and test each paragraph against it. Do not ban balanced treatment: the issue is that the evaluation must lead somewhere.",
           "reteachPrerequisiteId": "ess.thesis-statement"
         },
         {
           "pattern": "Claims supported by personal experience or general knowledge rather than sources.",
           "kind": "prior-schooling",
-          "revealedBy": "Few or no citations; support such as 'everyone knows' or a personal anecdote; test-style responses to source-based tasks.",
+          "revealedBy": "Few or no citations; support such as 'everyone knows' or a personal anecdote; test-style responses to source-based tasks, reflecting proficiency-test essays that are written without sources.",
           "response": "Contrast a test response with a source-based university paragraph and require each body paragraph to introduce, cite and comment on at least one source.",
           "reteachPrerequisiteId": "par.integrating-evidence"
         },
@@ -2234,7 +2413,7 @@
         "partialResponse": "Finds the thesis but treats topical paragraphs as reasons, or overlooks the absence of counter-views.",
         "gapResponse": "Cannot identify a position, or equates an opinion in the conclusion with the thesis."
       },
-      "contextNotes": "Foundation: one-sided expositions with a clear thesis and two or three reasons, introducing source support. Pre-sessional: the transition from test-style opinion essays to source-based argument with counter-argument. In-sessional undergraduate: disciplinary argument (interpretive in the humanities, evidential in the social sciences) linked to marking criteria. Taught postgraduate: argument integrated with critical evaluation of literature and theory, often requiring recalibration from more descriptive prior writing.",
+      "contextNotes": "Foundation: one-sided expositions with a clear thesis and two or three reasons, introducing source support. Pre-sessional UG and PG: a core progression genre marking the transition from test-style opinion essays to source-based argument with counter-argument; postgraduate cohorts are usually expected to argue from a wider and more evaluated source base. In-sessional undergraduate: disciplinary argument (interpretive in the humanities, evidential in the social sciences) linked to marking criteria. Taught postgraduate: argument integrated with critical evaluation of literature and theory, usually revisited briefly rather than retaught.",
       "citations": [
         "wingate2012argument",
         "andrews2010",
@@ -2300,7 +2479,7 @@
         "partialResponse": "Reaches a judgement that is unrelated to the body or unsupported.",
         "gapResponse": "Summarises both sides without any judgement."
       },
-      "contextNotes": "Foundation: a common entry genre; keep to two perspectives with a short source pack. Pre-sessional: frequently a progression task; emphasise source-based perspectives and early signalling of position. In-sessional undergraduate: link to 'discuss' and 'to what extent' questions in modules and to departmental expectations, which differ in how explicitly a position must be stated.",
+      "contextNotes": "Foundation: a core entry genre; keep to two perspectives with a short source pack. Pre-sessional UG and PG: often folded into source-based argument, with emphasis on source-based perspectives and early signalling of position. In-sessional undergraduate: revisit through 'discuss' and 'to what extent' questions in modules and departmental expectations, which differ in how explicitly a position must be stated.",
       "citations": [
         "martinrose2008",
         "wingate2012argument",
@@ -2312,76 +2491,104 @@
     },
     {
       "topicId": "ges.expository-essays",
-      "summary": "Martin and Rose (2008) distinguish sequential, factorial and consequential explanations, giving learners a principled choice of structure depending on whether a question asks how something happens, why it happens or what it leads to. Gardner and Nesi (2013) identify Explanation as a distinct genre family in university assessment whose purpose is demonstrating knowledge and understanding. Halliday and Martin (1993) show how scientific explanation packages causal reasoning into nominal groups and verbs such as lead to, which is both a resource and a source of difficulty. The central teaching challenge is moving from naming causes to explaining mechanisms and calibrating certainty.",
+      "summary": "Treat explanation, comparison and problem–solution as patterns that organise essays and essay sections rather than as separate genres: Gardner and Nesi (2013) place factorial and consequential essays within the essay family and show that such patterns also run through explanations, case studies and reports. Martin and Rose (2008) distinguish sequential, factorial and consequential explanations, giving learners a principled choice of structure depending on whether a question asks how something happens, why it happens or what it leads to. Hoey's (2001) situation–problem–response–evaluation pattern shows that a response is complete only once it is evaluated, and Carrell (1985) found that explicit teaching of top-level text structures, comparison among them, helped L2 readers, an awareness that can be carried into writing through exemplar analysis. The common teaching challenge across all three patterns is moving from listing (causes, features, solutions) to explaining, judging significance and calibrating certainty, and avoiding coursebook templates that departments do not recognise.",
       "activities": [
         {
-          "title": "Cause, consequence or mechanism?",
+          "title": "One topic, three patterns",
           "learnerActions": [
-            "Sort six essay and exam questions by whether they ask for causes, consequences or a sequence",
-            "Choose an organising pattern for each (factorial, consequential, sequential)",
-            "Plan one essay, ranking factors by importance and giving a reason for the ranking"
+            "Sort six essay and exam questions on one topic by whether they ask mainly for explanation, comparison or problem–solution, or a mix",
+            "Choose an organising pattern for each (by factor, consequence, sequence, criterion or problem–response–evaluation)",
+            "Write a thesis for two of the questions that states what the essay will show",
+            "Plan one essay in full, justifying the order of the body sections"
           ],
-          "intendedInsight": "The question determines the type of explanation and therefore the essay's structure.",
-          "rationale": "Applies Martin and Rose's (2008) explanation types as planning choices.",
+          "intendedInsight": "The question's purpose determines the pattern, and each pattern still needs a claim that says what it shows.",
+          "rationale": "Applies Martin and Rose's (2008) explanation types and Hoey's (2001) problem–solution pattern as planning choices rather than fixed templates.",
           "citations": [
-            "martinrose2008"
+            "martinrose2008",
+            "hoey2001"
           ]
         },
         {
-          "title": "From naming to explaining",
+          "title": "From list to analysis",
           "learnerActions": [
-            "Read a paragraph that lists three causes in one sentence each",
-            "For one cause, add the mechanism (how it produces the effect) and supporting evidence",
-            "Adjust the strength of the causal verb and add hedging where the evidence is correlational",
-            "Compare your paragraph with a model"
+            "Read three short paragraphs: one lists causes, one describes item A then item B, one names solutions",
+            "For the first, add the mechanism by which one cause produces the effect, with source evidence",
+            "For the second, rewrite it point by point around one criterion and add a sentence on what the difference means",
+            "For the third, evaluate one solution against two explicit criteria and acknowledge a trade-off"
           ],
-          "intendedInsight": "Explanation requires a mechanism and calibrated certainty, not a list of factors.",
-          "rationale": "Targets the step from listing to explaining; Halliday and Martin (1993) show how causal relations are realised in scientific explanation, giving learners language to model.",
+          "intendedInsight": "Each pattern becomes analytical at the same point: when the writer explains why, why it matters or how well it works.",
+          "rationale": "Targets the listing tendency common to all three patterns and makes the evaluative element of the problem–solution pattern explicit (Hoey, 2001); comparison as a text structure follows Carrell (1985).",
           "citations": [
-            "hallidaymartin1993"
+            "hoey2001",
+            "carrell1985"
+          ]
+        },
+        {
+          "title": "Criteria before judgement",
+          "learnerActions": [
+            "From a source pack, list the items, causes or responses relevant to a question",
+            "Agree three or four criteria that matter to the question (for example strength of evidence, cost, feasibility, fairness)",
+            "Rate each item against the criteria in a grid, citing the evidence",
+            "Write a concluding paragraph whose judgement follows from the grid"
+          ],
+          "intendedInsight": "Comparisons, explanations and recommendations persuade when the criteria for judgement are explicit.",
+          "rationale": "Makes criterion-based evaluation, shared by all three patterns, into a reusable procedure that transfers to case-study and report genres (Gardner & Nesi, 2013).",
+          "citations": [
+            "gardnernesi2013"
           ]
         }
       ],
       "difficulties": [
         {
-          "pattern": "Listing causes without explaining how they operate.",
+          "pattern": "Listing causes without explaining how they operate ('Another reason is …').",
           "kind": "developmental",
-          "revealedBy": "Paragraphs of one claim plus one example; repeated 'Another reason is ...'.",
-          "response": "Prompt with 'How exactly does this lead to ...?' and model mechanism sentences. Do not respond by supplying more connectors: the gap is explanatory content, not linking.",
+          "revealedBy": "Paragraphs of one claim plus one example; repeated additive connectors.",
+          "response": "Prompt with 'How exactly does this lead to …?' and model mechanism sentences. Do not respond by supplying more connectors: the gap is explanatory content, not linking.",
           "reteachPrerequisiteId": "fun.cause-effect"
+        },
+        {
+          "pattern": "'Compare means describe A, then describe B.'",
+          "kind": "developmental",
+          "revealedBy": "Two descriptive halves with comparison appearing only in the conclusion, and no statement of what the comparison shows.",
+          "response": "Require a cross-referencing sentence in each paragraph and teach point-by-point organisation first. Do not forbid block organisation: it is acceptable when each block makes the comparison explicit.",
+          "reteachPrerequisiteId": "fun.comparing-contrasting"
+        },
+        {
+          "pattern": "Describing the problem at length and listing solutions, or recommending them as unconditional commands ('The government must ban …'), without evaluation.",
+          "kind": "developmental",
+          "revealedBy": "Most of the word count on background; responses named but not evaluated; strong modals with no criteria, feasibility or trade-offs.",
+          "response": "Set word budgets for each stage, require an evaluation for every response proposed, and contrast hortatory statements with justified, hedged recommendations.",
+          "reteachPrerequisiteId": "fun.problem-solution"
         },
         {
           "pattern": "Overstating causation ('X causes Y') on the basis of correlational evidence.",
           "kind": "conceptual",
           "revealedBy": "Unhedged causal verbs attached to survey or correlational findings.",
-          "response": "Review correlation and causation using examples from the learners' own sources, then practise rewording with 'is associated with' or 'may contribute to'.",
+          "response": "Review correlation and causation using examples from the learners' own sources, then practise rewording with calibrated causal language ('is associated with', 'may contribute to').",
           "reteachPrerequisiteId": "crt.correlation-causation"
-        },
-        {
-          "pattern": "Causal connectors used interchangeably regardless of the structure that follows (for example 'due to the population increased').",
-          "kind": "L1-transfer",
-          "revealedBy": "Prepositional causal expressions followed by clauses, or conjunctions followed by noun phrases.",
-          "response": "Where a learner's other languages use one causal connective before both clauses and noun phrases, contrast prepositional patterns (because of, due to + noun phrase) with conjunctive ones (because, since + clause), and practise nominalising the cause.",
-          "reteachPrerequisiteId": "fun.cause-effect"
         }
       ],
       "diagnostic": {
-        "task": "Give learners a simple causal diagram and ask for a three-sentence explanation of it.",
-        "strongResponse": "Explains the mechanism with accurate causal language and appropriate hedging.",
-        "partialResponse": "Uses accurate causal language but gives no mechanism.",
-        "gapResponse": "Lists the elements linked by 'and' or 'also'."
+        "task": "Give three questions on one topic that call for different patterns and ask the learner to name the pattern each needs, write a one-sentence thesis for each and outline one in three lines.",
+        "strongResponse": "Patterns identified from the purpose of each question, theses that state an outcome, and an outline organised by factor, criterion or problem–response–evaluation.",
+        "partialResponse": "Patterns identified correctly but theses that announce topics, or outlines that list without an evaluative stage.",
+        "gapResponse": "The same descriptive outline offered for all three questions."
       },
-      "contextNotes": "Foundation: explanations of familiar processes and causes, often linked to subject-content modules, form a strong bridge into science and social science. Pre-sessional: source-based explanation with hedged causal claims. In-sessional undergraduate: explanation essays and exam answers in the sciences, social sciences and humanities (for example historical causation), where disciplinary norms for causal argument differ.",
+      "contextNotes": "Foundation: a core genre set; use familiar phenomena, items and problems with short source packs, closely linked to subject-content modules. Pre-sessional UG: source-based explanation, comparison of models or policies, and problem–solution essays as preparation for argumentative and report writing. Pre-sessional PG: usually revisited within source-based argument rather than taught separately. In-sessional undergraduate: these patterns appear inside discipline-specific essays, exam answers and reports (historical causation, comparing theoretical approaches, problem–solution in engineering, environmental and health subjects), where the criteria and norms for causal argument come from the module.",
       "citations": [
         "martinrose2008",
-        "gardnernesi2013",
-        "hallidaymartin1993"
+        "hoey2001",
+        "carrell1985",
+        "gardnernesi2013"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R1-16): the former compare-and-contrast and problem–solution essay topics are absorbed here, and the former explanation-essay topic is renamed; the topic now treats the three as rhetorical patterns within the essay family.",
+        "There is little genre-analytic research on compare-and-contrast or problem–solution essays as distinct student genres; this guidance draws on research on explanation genres, text patterns and text structure."
+      ]
     },
     {
       "topicId": "ges.exam-essay",
-      "summary": "Exam essays are a high-stakes genre that is largely absent from corpora of assessed coursework, so teaching should be built on local past papers, examiners' comments and departmental guidance. Horowitz's (1986) analysis of essay examination prompts (proposed reference) suggests that exam questions typically ask writers to select and organise known content in response to specific demands, which makes question analysis and selective use of revised material central. Weigle (2002) discusses how timed, impromptu writing constrains planning and revision; practice should therefore build fast planning routines, not only language. Make clear that university exam essays differ from proficiency-test essays: they are judged mainly on disciplinary content and its use, not on language display.",
+      "summary": "Exam essays are a high-stakes genre that is largely absent from corpora of assessed coursework, so teaching should be built on local past papers, examiners' comments and departmental guidance. Horowitz's (1986) analysis of essay examination prompts suggests that exam questions typically ask writers to select and organise known content in response to specific demands, which makes question analysis and selective use of revised material central. Weigle (2002) discusses how timed, impromptu writing constrains planning and revision; practice should therefore build fast planning routines, not only language. Make clear that university exam essays differ from proficiency-test essays: they are judged mainly on disciplinary content and its use, not on language display.",
       "activities": [
         {
           "title": "Five-minute plans",
@@ -2406,7 +2613,7 @@
             "Write one paragraph for one question using only relevant notes"
           ],
           "intendedInsight": "Selecting and reorganising content for the question is the core exam-essay skill; reproducing everything learned is not.",
-          "rationale": "Responds to the content-selection demands identified in analyses of essay examination prompts (Horowitz, 1986, proposed).",
+          "rationale": "Responds to the content-selection demands identified in Horowitz's (1986) analysis of essay examination prompts.",
           "citations": [
             "horowitz1986exam"
           ]
@@ -2416,7 +2623,7 @@
         {
           "pattern": "'I will write down everything I memorised about the topic.'",
           "kind": "prior-schooling",
-          "revealedBy": "Long descriptive answers loosely related to the question; a prepared essay adapted awkwardly to a different question.",
+          "revealedBy": "Long descriptive answers loosely related to the question; a prepared essay adapted awkwardly to a different question, a strategy that assessment systems rewarding reproduction of memorised content can encourage.",
           "response": "Practise answering differently worded questions on the same topic, spending the first minutes on question analysis and a plan, and mark for relevance first. Avoid encouraging memorised model essays as the main revision strategy.",
           "reteachPrerequisiteId": "exm.timed-writing"
         },
@@ -2441,13 +2648,12 @@
         "partialResponse": "The plan is relevant but the introduction is generic or defers the answer.",
         "gapResponse": "A topic-focused plan that does not address the question's demand."
       },
-      "contextNotes": "Foundation: many foundation programmes assess subject content through exams, so focus on question analysis and timed planning. Pre-sessional: timed writing appears in some progression assessments but differs from disciplinary exams; make the distinction explicit. In-sessional undergraduate: subject-specific practice with past papers, ideally with subject staff. Taught postgraduate: exams are less frequent but often require application to cases, and some programmes use seen or open-book formats.",
+      "contextNotes": "Foundation: many foundation programmes assess subject content through exams, so focus on question analysis and timed planning. Pre-sessional UG and PG: timed writing appears in some progression assessments but differs from disciplinary exams; make the distinction explicit. In-sessional undergraduate: a core focus, with subject-specific practice on past papers, ideally with subject staff. Taught postgraduate: exams are less frequent but often require application to cases, and some programmes use seen or open-book formats. Learners with approved exam adjustments (extra time, rest breaks, assistive technology) should practise under those conditions.",
       "citations": [
         "weigle2002",
         "horowitz1986exam"
       ],
       "reviewNotes": [
-        "Part of the summary rests on a proposed reference (Horowitz, 1986, on essay examination prompts); if it cannot be verified, remove that sentence and the related activity rationale.",
         "Corpora of proficient student writing such as BAWE consist mainly of coursework, so genre-analytic evidence on exam essays is thin."
       ]
     },
@@ -2557,11 +2763,11 @@
           "reteachPrerequisiteId": "sta.evaluating-others-language"
         },
         {
-          "pattern": "Reluctance to criticise published experts.",
-          "kind": "prior-schooling",
-          "revealedBy": "Summary-only reviews, or evaluation limited to praise.",
-          "response": "Frame critique as a disciplinary expectation and a form of respectful engagement, and model criterion-based, mitigated criticism. Avoid attributing the reluctance to a national 'culture'; it usually reflects prior assessment expectations.",
-          "reteachPrerequisiteId": null
+          "pattern": "Criticism that could apply to any study ('the sample is small'; 'more research is needed') rather than to this text's design and claims.",
+          "kind": "developmental",
+          "revealedBy": "Generic limitations that recur across different critiques, with no account of how the limitation affects the authors' conclusions.",
+          "response": "After each evaluative point ask 'so what does this mean for the authors' claim?', and have learners link each limitation to a specific claim and say whether it weakens, qualifies or leaves it intact. Do not supply a checklist of stock limitations: that reinforces the pattern.",
+          "reteachPrerequisiteId": "rdc.methods-critique"
         },
         {
           "pattern": "Summary takes up most of the word count.",
@@ -2577,14 +2783,16 @@
         "partialResponse": "Identifies the judgement but not the criterion or evidence.",
         "gapResponse": "Treats the paragraph as a summary."
       },
-      "contextNotes": "Pre-sessional: often the first source-evaluation genre; use accessible articles and shared criteria. In-sessional undergraduate: article critiques are common in psychology, health, education and the social sciences, and criteria are disciplinary (for example validity in psychology). Taught postgraduate: critiques of empirical studies prepare for literature reviews and dissertation methodology, and expectations of methodological critique rise.",
+      "contextNotes": "Pre-sessional UG: an introduction to evaluating a single text, using accessible articles and shared criteria. Pre-sessional PG: a core genre, often the first assessed evaluation of an empirical article in the learner's field. In-sessional undergraduate: article critiques are common in psychology, health, education and the social sciences, and criteria are disciplinary (for example validity in psychology). Taught postgraduate: critiques of empirical studies prepare for literature reviews and dissertation methodology, and expectations of methodological critique rise.",
       "citations": [
         "swalesfeak2012",
         "gardnernesi2013",
         "wallacewray2016",
         "hyland2004disciplinary"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R5-01): the reluctance-to-criticise pattern has been replaced with a difficulty specific to this genre; the deference pattern is kept only in a few anchor topics elsewhere."
+      ]
     },
     {
       "topicId": "ges.book-review",
@@ -2693,7 +2901,7 @@
         {
           "pattern": "Discomfort with the first person and with personal disclosure in assessed writing.",
           "kind": "prior-schooling",
-          "revealedBy": "Impersonal reflections that avoid 'I', or, conversely, disclosure beyond what the task needs.",
+          "revealedBy": "Impersonal reflections that avoid 'I', often reflecting earlier instruction that treated 'never use I' as a rule, or, conversely, disclosure beyond what the task needs.",
           "response": "Explain that the first person is expected here and that 'never use I' is not a rule of academic writing; discuss what to disclose, and how to protect privacy and confidentiality.",
           "reteachPrerequisiteId": "sta.self-mention"
         },
@@ -2711,7 +2919,7 @@
         "partialResponse": "Some analysis but no link to theory, or a vague action ('I will work harder').",
         "gapResponse": "Narrative and feelings only."
       },
-      "contextNotes": "Foundation and pre-sessional: reflective learning logs and reflections on progress build the genre's language. In-sessional undergraduate: reflective assignments in education, nursing, business and engineering placements, where models and criteria differ. Taught postgraduate: reflective components of professional master's programmes usually require explicit links to theory; see also the professional practice portfolio.",
+      "contextNotes": "Foundation and pre-sessional (UG and PG): reflective learning logs and reflective commentaries on the extended project build the genre's language. In-sessional undergraduate: a core genre in education, nursing, business and engineering placements, where models and criteria differ. Taught postgraduate: reflective components of professional master's programmes usually require explicit links to theory; see also the professional practice portfolio. Accept alternative modes (audio or video reflection, structured templates) where the brief allows, as they can suit learners with dyslexia or other learning differences.",
       "citations": [
         "gibbs1988",
         "moon2004",
@@ -2776,7 +2984,7 @@
         "partialResponse": "Identifies the summary but confuses evaluation with relevance.",
         "gapResponse": "Cannot distinguish summary from evaluation."
       },
-      "contextNotes": "Foundation and pre-sessional: annotated bibliographies scaffold extended projects. In-sessional undergraduate: often a preparatory assessment before a dissertation or major essay. Taught postgraduate: used as a staged assessment before literature reviews, with higher expectations of evaluation.",
+      "contextNotes": "Foundation: annotated bibliographies scaffold the extended project, often with tutor-approved sources. Pre-sessional UG and PG: a core staged assessment within the extended project, with PG cohorts expected to evaluate empirical sources more closely. In-sessional undergraduate: often a preparatory assessment before a dissertation or major essay. Taught postgraduate: usually assumed, and revisited where it precedes a literature review.",
       "citations": [
         "horowitz1986",
         "gardnernesi2013",
@@ -2845,13 +3053,15 @@
         "partialResponse": "Prefers the synthesised paragraph but cannot say why.",
         "gapResponse": "Prefers the serial version as clearer."
       },
-      "contextNotes": "Pre-sessional: short literature reviews within extended projects, often with provided sources. In-sessional undergraduate: reviews in second and final years, frequently preparing for dissertations. Taught postgraduate: stand-alone reviews and dissertation review chapters, with rising expectations of critical evaluation and justified scope.",
+      "contextNotes": "Pre-sessional PG: a short review section within the extended project, often with provided or tutor-approved sources. In-sessional undergraduate: reviews in second and final years, frequently preparing for dissertations. Taught postgraduate: a core genre, set as stand-alone reviews and as preparation for the dissertation, with rising expectations of critical evaluation and justified scope. The stage boundary with res.literature-review is functional: once the review must justify the writer's own study in a dissertation, thesis or article, teach it through that topic.",
       "citations": [
         "feakswales2009litrev",
         "wallacewray2016",
         "gardnernesi2013"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R1-15): the stage boundary with res.literature-review is now stated in the description; this topic has no pgr role and no undergraduate pre-sessional role."
+      ]
     },
     {
       "topicId": "ges.summary-response",
@@ -2907,7 +3117,7 @@
         "partialResponse": "An accurate summary followed by a generic response.",
         "gapResponse": "Copies the source, or gives an opinion without a summary."
       },
-      "contextNotes": "Foundation: a key entry genre into source-based writing. Pre-sessional: frequent in early weeks and closely related to integrated reading-into-writing tasks. In-sessional undergraduate: appears as reading responses and seminar papers, particularly in the humanities and social sciences.",
+      "contextNotes": "Foundation: a core entry genre into source-based writing. Pre-sessional UG: frequent in early weeks and closely related to integrated reading-into-writing tasks. Pre-sessional PG: usually assumed and revisited quickly before critique. In-sessional undergraduate: appears as reading responses and seminar papers, particularly in the humanities and social sciences and in North American-style curricula.",
       "citations": [
         "hirvela2004",
         "horowitz1986",
@@ -2916,6 +3126,99 @@
       ],
       "reviewNotes": [
         "The summary–response paper is mainly a North American composition genre; in UK contexts it is more often an EAP or foundation teaching genre than a departmental assessment."
+      ]
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "summary": "The extended project answers Moore and Morton's (2005) finding that proficiency-test writing differs from university tasks, and Leki and Carson's (1997) contrast between EAP writing that draws on personal knowledge and content-course writing that holds students responsible for source texts: it is the pre-degree task closest to that text-responsible coursework. Because it is staged, it assesses process as well as product; Carless and Boud (2018) argue that students need help to appreciate feedback, make judgements, manage the feelings it provokes and take action, so tutorials should be built around the learner's own questions and followed by visible revision. Teach topic narrowing, source management and global revision explicitly, use exemplars from earlier cohorts with permission, and keep the scope modest so that the project rewards control of sources and argument rather than coverage.",
+      "activities": [
+        {
+          "title": "From topic to question",
+          "learnerActions": [
+            "List three topics related to your intended degree",
+            "For one, write three increasingly narrow questions (by context, population, period or aspect)",
+            "Run a quick library search for each question and note whether you find too many, too few or a manageable set of relevant sources",
+            "Agree a final question with your tutor and record why it is answerable within the word limit"
+          ],
+          "intendedInsight": "A good project question is narrow enough to answer with the sources and words available, and testing it with a search shows this early.",
+          "rationale": "Makes feasibility concrete before learners invest in reading, and turns the topic plan into a reasoned decision rather than an expression of interest; it applies the search skills the project depends on.",
+          "citations": []
+        },
+        {
+          "title": "Source map before drafting",
+          "learnerActions": [
+            "Enter 8–12 sources in a grid against the sub-questions of your project",
+            "Mark where sources agree, disagree or add a qualification",
+            "Use the grid to decide the order of your sections and the point each will make",
+            "Write one topic sentence per section in your own voice before drafting"
+          ],
+          "intendedInsight": "Sections are organised around the writer's points, with sources in dialogue, rather than around individual sources.",
+          "rationale": "Supports the text-responsible use of sources that Leki and Carson (1997) found content courses demand, and guards against source-by-source reporting across a long text.",
+          "citations": [
+            "lekicarson1997"
+          ]
+        },
+        {
+          "title": "Tutorial preparation and feedback log",
+          "learnerActions": [
+            "Before each tutorial, write two specific questions about your draft",
+            "After the tutorial, log each feedback point, your decision (act, clarify or not act, with a reason) and the change you made",
+            "Before submission, check that every logged decision has been carried out",
+            "Use the log as evidence in your reflective commentary"
+          ],
+          "intendedInsight": "Feedback becomes useful when the writer judges it, decides what to do and can show the result.",
+          "rationale": "Operationalises the appreciating, judging, managing affect and taking action elements of feedback literacy described by Carless and Boud (2018); the log also documents the learner's process.",
+          "citations": [
+            "carlessboud2018"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Choosing a topic that is too broad or too far from accessible sources ('The impact of technology on education').",
+          "kind": "developmental",
+          "revealedBy": "Unfocused plans, drafts that survey a whole field, and reliance on general web sources because scholarly sources on the topic as stated are unmanageable.",
+          "response": "Narrow by context, population, period or aspect, and test the question with a short search before approving it. Do not simply assign a topic: the narrowing decision is part of what the project develops.",
+          "reteachPrerequisiteId": "inf.search-strategies"
+        },
+        {
+          "pattern": "Source-by-source reporting across the whole project, with the writer's own line of argument appearing only in the conclusion.",
+          "kind": "developmental",
+          "revealedBy": "Sections or paragraphs that begin with author names; a reverse outline that lists sources rather than points.",
+          "response": "Have learners reverse-outline the draft by points, rebuild sections around the source map, and write section topic sentences in their own voice. Do not ban integral citation; teach when author prominence is useful.",
+          "reteachPrerequisiteId": "syn.synthesis-concept"
+        },
+        {
+          "pattern": "Revising only surface errors between drafts, or treating tutorial comments as corrections to accept or ignore without judgement.",
+          "kind": "prior-schooling",
+          "revealedBy": "Second drafts with corrected grammar but unchanged structure and argument; feedback points neither acted on nor discussed. The pattern is common where earlier writing was assessed as single, unrevised products such as timed test essays.",
+          "response": "Model a substantive revision of a sample draft, use the feedback log, and ask learners to explain one structural change at each tutorial.",
+          "reteachPrerequisiteId": "edt.global-revision"
+        },
+        {
+          "pattern": "Marked improvement between drafts, or a detector score, is treated as a sign that the learner did not write the project.",
+          "kind": "institutional",
+          "revealedBy": "Integrity queries based on a change in style or an AI-detection or similarity score, without other evidence.",
+          "response": "Institutions should not treat detector scores or a change in style as evidence of misconduct: the burden of proof lies with the institution, and multilingual writers are disproportionately misclassified by detectors. Course teams should set clear rules on AI and proofreading in the brief, and staged drafts, notes, search records and version histories give learners a natural record of their process without requiring them to prove their innocence.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "At topic-plan stage, ask the learner to state their question, name three sources they intend to use and say how each will help to answer the question.",
+        "strongResponse": "A focused, answerable question and sources of suitable types, each with a distinct role such as background, evidence or a counter-view.",
+        "partialResponse": "A reasonably focused question, but sources that are only topically related or whose roles are unclear.",
+        "gapResponse": "A topic rather than a question, with no identified or suitable sources."
+      },
+      "contextNotes": "Foundation: a shorter, more scaffolded project with tutor-approved topics and sometimes provided source packs, often linked to the learner's subject pathway. Pre-sessional UG: a source-based essay or report related to the intended degree, usually assessed for progression alongside other components; the topic plan is a short agreement with a tutor, not a research proposal. Pre-sessional PG: topics close to the learner's master's field, with a short review of literature and higher expectations of source evaluation; some programmes include small-scale primary data (grp.empirical-project-report). Lengths, the number of drafts and whether a reflective commentary is required vary with course length and institution, and in EMI and transnational programmes the project may be assessed jointly with subject staff. Offer tutorials and feedback in more than one mode (written, recorded or face to face) and plan deadlines with reasonable adjustments in mind.",
+      "citations": [
+        "mooremorton2005",
+        "lekicarson1997",
+        "carlessboud2018",
+        "liang2023"
+      ],
+      "reviewNotes": [
+        "Review response (R1-20): added as the pre-sessional and foundation capstone genre and linked to INF, SYN, SRC, CIT, WPR and EDT prerequisites. The 2,000–4,000-word range reflects typical UK provision and varies elsewhere.",
+        "There is little published genre analysis of the pre-sessional extended project itself; this guidance draws on research on source-based writing, task differences between tests and university study, and feedback literacy."
       ]
     },
     {
@@ -2979,7 +3282,7 @@
         "partialResponse": "Mentions headings only.",
         "gapResponse": "Cannot name a difference."
       },
-      "contextNotes": "Foundation: introduce through simple reports in subject modules. Pre-sessional: often the format of the progression project. In-sessional undergraduate: reports in science, engineering, business and social science differ substantially, so work from departmental templates. Taught postgraduate: professional report formats and dissertation-style reports.",
+      "contextNotes": "Foundation: a core topic, introduced through simple reports in subject modules. Pre-sessional UG and PG: needed where the progression project takes report form, and in subject-specific strands. In-sessional undergraduate: reports in science, engineering, business and social science differ substantially, so work from departmental templates. Taught postgraduate: usually assumed, and revisited for professional report formats.",
       "citations": [
         "nesigardner2012",
         "gardnernesi2013",
@@ -3048,14 +3351,14 @@
         "partialResponse": "Cites values but mixes interpretation into the results.",
         "gapResponse": "Restates the whole table without selecting what matters."
       },
-      "contextNotes": "Foundation: science foundation students write lab reports early, usually with structured templates. In-sessional undergraduate: discipline-specific support, ideally embedded with lab staff, since conventions differ between chemistry, physics, biology and engineering. Taught postgraduate: lab-based MSc students may need support in moving towards research-article conventions for project reports.",
+      "contextNotes": "Foundation: science foundation students write lab reports early, usually with structured templates. Pre-sessional UG and PG: taught in science, engineering and health subject strands, where a short practical report may be assessed. In-sessional undergraduate: discipline-specific support, ideally embedded with lab staff, since conventions differ between chemistry, physics, biology and engineering. Taught postgraduate: lab-based MSc students may need support in moving towards research-article conventions for project reports.",
       "citations": [
         "parkinson2017",
         "gardnernesi2013",
         "swalesfeak2012"
       ],
       "reviewNotes": [
-        "Claims about Parkinson (2017) are stated at a general level; reviewers should check the article's specific move findings before adding detail."
+        "Review response (R1-35): pre-sessional roles added as develop for subject-strand pre-sessionals. Claims about Parkinson (2017) are stated at a general level; specific move findings should be checked in the article before adding detail."
       ]
     },
     {
@@ -3107,7 +3410,7 @@
           "pattern": "Research questions too broad to answer with the data available.",
           "kind": "conceptual",
           "revealedBy": "Questions such as 'What is the impact of social media on society?'",
-          "response": "Narrow by population, context and variable or phenomenon, and check feasibility before data collection.",
+          "response": "Narrow by population, context and variable or phenomenon, check feasibility before data collection, and pilot survey or interview questions with a few people like the intended participants.",
           "reteachPrerequisiteId": "res.research-questions"
         }
       ],
@@ -3117,13 +3420,15 @@
         "partialResponse": "Proposes feasible data but overclaims.",
         "gapResponse": "Proposes unfeasible or misaligned data."
       },
-      "contextNotes": "Pre-sessional: extended projects of modest scope, often using secondary data or small primary datasets, where process and alignment matter more than results. In-sessional undergraduate: research methods modules and final-year projects, with disciplinary conventions for quantitative and qualitative reporting. Taught postgraduate: projects that prepare for or form part of the dissertation.",
+      "contextNotes": "Pre-sessional PG: some programmes include a small empirical project, often with secondary data or a short survey, where process and alignment matter more than results; most pre-sessional projects are source-based instead (ges.extended-source-based-project). In-sessional undergraduate: research methods modules and final-year projects, with disciplinary conventions for quantitative and qualitative reporting. Taught postgraduate: projects that prepare for or form part of the dissertation.",
       "citations": [
         "nesigardner2012",
         "swalesfeak2012",
         "creswell2018"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R1-20, R1-26): the undergraduate pre-sessional role is removed because most pre-sessional projects are source-based, and a soft link to res.instrument-wording now covers question design for survey and interview projects."
+      ]
     },
     {
       "topicId": "grp.case-study",
@@ -3168,7 +3473,7 @@
         {
           "pattern": "Describing a framework or theory at length without applying it.",
           "kind": "prior-schooling",
-          "revealedBy": "Paragraphs that define a model or list its components with little reference to the case.",
+          "revealedBy": "Paragraphs that define a model or list its components with little reference to the case, a habit encouraged where earlier assessment rewarded accurate reproduction of models.",
           "response": "Require every analytical paragraph to contain case evidence and an implication for the issue.",
           "reteachPrerequisiteId": "crt.applying-theory"
         },
@@ -3186,17 +3491,19 @@
         "partialResponse": "Names an issue without justification.",
         "gapResponse": "Retells the case."
       },
-      "contextNotes": "Foundation: business and other pathways introduce short cases with guided frameworks. In-sessional undergraduate: discipline-specific case studies in business, health, law, education and engineering, ideally co-taught with subject staff. Taught postgraduate: professional master's programmes rely heavily on case analysis, often with complex cases and group work.",
+      "contextNotes": "Foundation: business and other pathways introduce short cases with guided frameworks. Pre-sessional UG and PG: taught in business, health and law subject strands, often as a short case analysis. In-sessional undergraduate: discipline-specific case studies in business, health, law, education and engineering, ideally co-taught with subject staff. Taught postgraduate: professional master's programmes rely heavily on case analysis, often with complex cases and group work.",
       "citations": [
         "gardnernesi2013",
         "nathan2013",
         "horowitz1986"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R1-35): pre-sessional roles added as develop for subject-strand pre-sessionals."
+      ]
     },
     {
       "topicId": "grp.business-report",
-      "summary": "Nathan (2013) shows that business school case report writing is problem-oriented and recommendation-driven and argues for making its structure and expectations explicit to students. Bhatia (1993) offers a framework for analysing professional genres through the communicative purposes of their users, which suits reports written for simulated clients and managers, and Gardner and Nesi (2013) note the professional-practice purpose of such genres. Teach the findings–conclusions–recommendations chain, the role of the executive summary and analytical use of frameworks, and check local templates because business schools differ.",
+      "summary": "Nathan (2013) shows that business school case report writing is problem-oriented and recommendation-driven and argues for making its structure and expectations explicit to students. Zhu's (2004) analysis of writing assignments in business courses found case-based and professional genres such as case analyses and business reports rather than essays alone, which is why business pre-sessional and in-sessional provision teaches the report early. Bhatia (1993) offers a framework for analysing professional genres through the communicative purposes of their users, which suits reports written for simulated clients and managers. Teach the findings–conclusions–recommendations chain, the role of the executive summary and analytical use of frameworks, and check local templates because business schools differ.",
       "activities": [
         {
           "title": "Findings, conclusions, recommendations",
@@ -3237,7 +3544,7 @@
         {
           "pattern": "Management frameworks used as checklists.",
           "kind": "prior-schooling",
-          "revealedBy": "Bulleted framework lists with no prioritisation or implications.",
+          "revealedBy": "Bulleted framework lists with no prioritisation or implications, a habit encouraged where earlier courses assessed recall of framework components.",
           "response": "Require learners to prioritise framework items and state the implication of each for the problem.",
           "reteachPrerequisiteId": "crt.problem-solving"
         },
@@ -3255,10 +3562,11 @@
         "partialResponse": "Gives a vague or partly correct distinction.",
         "gapResponse": "Treats them as the same."
       },
-      "contextNotes": "Foundation: simple reports in business pathways. Pre-sessional: business-specific pre-sessionals may use report assessments. In-sessional undergraduate: business, management and accounting reports. Taught postgraduate: MBA and management master's reports, often for simulated clients and with group authorship.",
+      "contextNotes": "Foundation: simple reports in business pathways. Pre-sessional UG and PG: business-specific pre-sessionals often use report assessments, with PG cohorts writing for simulated clients. In-sessional undergraduate: business, management and accounting reports. Taught postgraduate: MBA and management master's reports, often for simulated clients and with group authorship.",
       "citations": [
         "nathan2013",
         "bhatia1993",
+        "zhu2004",
         "gardnernesi2013"
       ],
       "reviewNotes": []
@@ -3386,14 +3694,16 @@
         "partialResponse": "A focused aim but a misaligned or unfeasible data source.",
         "gapResponse": "A topic rather than an aim or question."
       },
-      "contextNotes": "Pre-sessional: short proposals for extended projects, closely supervised. In-sessional undergraduate: final-year project and dissertation proposals. Taught postgraduate: dissertation proposals are frequently assessed and are followed by ethics applications, often within weeks.",
+      "contextNotes": "Pre-sessional PG: some programmes assess a short dissertation-style proposal for a project in the learner's field; on undergraduate pre-sessionals the topic plan belongs to the extended project instead. In-sessional undergraduate: final-year project and dissertation proposals. Taught postgraduate: a core genre, since dissertation proposals are frequently assessed and are followed by ethics applications, often within weeks. The stage boundary with res.research-proposal is functional: proposals that must argue for an original contribution to a doctoral panel or funder belong there.",
       "citations": [
         "creswell2018",
         "gardnernesi2013",
         "paltridgestarfield2020",
         "connormauranen1999"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R1-15): the stage boundary with res.research-proposal is now stated in the description; this topic has no pgr role, and research-writing proposals belong to pre-sessional PG, not UG."
+      ]
     },
     {
       "topicId": "grp.executive-summary",
@@ -3528,7 +3838,7 @@
         "gigerenzer2007"
       ],
       "reviewNotes": [
-        "The closed bibliography contains no genre analysis of policy briefs; adding a verified source on policy-brief writing would strengthen this topic. Overlaps with dss.policy-analysis."
+        "The bibliography contains no genre analysis of policy briefs; a source on policy-brief writing would strengthen this topic. Overlaps with dss.policy-analysis."
       ]
     },
     {
@@ -3606,7 +3916,7 @@
     },
     {
       "topicId": "grp.public-writing",
-      "summary": "Public-facing writing intensifies the engagement resources Hyland (2005) describes for academic discourse, and Hyland (2010, proposed reference) compares how popular and professional science texts construct proximity to their readers differently, which gives learners a principled basis for adapting their writing. Mewburn and Thomson (2013, proposed reference) analysed academic blogs and found a range of audiences and purposes, so 'blog' is not a single genre. Teach learners to adapt their own academic texts for a named public, to keep fidelity to the evidence, and to consider their public academic identity.",
+      "summary": "Public-facing writing intensifies the engagement resources Hyland (2005) describes for academic discourse, and Hyland (2010) compares how popular and professional science texts construct proximity to their readers, which gives learners a principled basis for adapting their writing. Mewburn and Thomson (2013) analysed academic blogs and found a range of audiences and purposes, so 'blog' is not a single genre. Teach learners to adapt their own academic texts for a named public, to keep fidelity to the evidence, and to consider their public academic identity.",
       "activities": [
         {
           "title": "Same finding, two readers",
@@ -3617,7 +3927,7 @@
             "Rewrite one paragraph of your own assignment for a public reader"
           ],
           "intendedInsight": "Adapting for the public changes structure and voice but should not change what the evidence shows.",
-          "rationale": "Draws on Hyland's (2010, proposed) comparison of popular and professional science and on Hyland's (2005) account of engagement resources.",
+          "rationale": "Draws on Hyland's (2010) comparison of popular and professional science and on Hyland's (2005) account of engagement resources.",
           "citations": [
             "hyland2010proximity",
             "hyland2005stance"
@@ -3631,7 +3941,7 @@
             "Plan a post for one purpose and audience relevant to your field"
           ],
           "intendedInsight": "Academic blogs serve varied purposes and audiences, and these shape their style.",
-          "rationale": "Reflects Mewburn and Thomson's (2013, proposed) finding that academic blogs vary in audience and purpose.",
+          "rationale": "Reflects Mewburn and Thomson's (2013) finding that academic blogs vary in audience and purpose.",
           "citations": [
             "mewburnthomson2013"
           ]
@@ -3673,7 +3983,7 @@
         "mewburnthomson2013"
       ],
       "reviewNotes": [
-        "Two of the three citations are proposed references; if they cannot be verified, remove the related claims and rely on hyland2005stance and the reg.non-specialist-audiences prerequisite. Overlaps with pub.research-engagement."
+        "Overlaps with pub.research-engagement, which covers engagement strategy and channels; this topic covers the writing of specific public genres."
       ]
     },
     {
@@ -3737,7 +4047,7 @@
         "partialResponse": "Accurate chapter names with topical rather than functional descriptions.",
         "gapResponse": "Cannot outline a structure or lists generic headings."
       },
-      "contextNotes": "In-sessional undergraduate: final-year dissertations and projects, whose length, format and empirical expectations vary greatly between disciplines. Taught postgraduate: the dissertation is often written over a compressed summer period, carries heavy credit weighting and may be the learner's first extended research text, so early planning support is especially valuable.",
+      "contextNotes": "In-sessional undergraduate: a core focus for final-year dissertations and projects, whose length, format and empirical expectations vary greatly between disciplines. Taught postgraduate: a core focus, since the dissertation is often written over a compressed summer period, carries heavy credit weighting and may be the learner's first extended research text, so early planning support is especially valuable. Doctoral thesis structures are taught through res.thesis-macrostructure.",
       "citations": [
         "paltridge2002",
         "paltridgestarfield2020",
@@ -3748,23 +4058,15 @@
     }
   ],
   "authorNotes": [
-    "ess.essay-types (Essay Construction) overlaps substantially with the GES essay genres (argumentative, discussion, compare-and-contrast, explanation, problem–solution). Suggest scoping ess.essay-types as a brief conceptual overview that these genre topics may take as a soft prerequisite, or retiring it in favour of ges.genre-families.",
-    "ges.genre-concept overlaps with acu.discourse-communities. I have not linked them to avoid a potential cross-strand cycle; whichever strand links them should choose one direction (suggested: acu.discourse-communities as a soft prerequisite of ges.genre-concept).",
-    "ges.exam-essay overlaps with exm.timed-writing; the latter should remain the generic procedure and the former the genre, which is how they are linked here.",
-    "ges.literature-review-assignment and res.literature-review are appropriately split (coursework versus research writing); the research strand already links res.literature-review to this topic, which is the right direction.",
-    "ges.reflective-writing overlaps with dhl.reflective-practice and lrn.reflective-logs; dhl.reflective-practice already takes it as a prerequisite. lrn.reflective-logs is not linked to reflective writing to avoid presuming the learning strand's direction.",
-    "ges.summary-response is largely a North American composition genre; in UK contexts it is mainly an EAP or foundation teaching genre. Consider noting this in the skeleton scope.",
-    "The compare-and-contrast, explanation and problem–solution essays are partly 'cognitive genres' (in Bruce's sense) rather than distinct social genres; they are valid EAP teaching genres but departments rarely name them. A future revision could fold them into one topic on essay rhetorical patterns.",
-    "grp.case-study overlaps with dbe.business-case-analysis and dhl.case-reports-care-plans. The disciplinary strand already takes grp.case-study as a prerequisite of both, which is the right direction; this topic covers the cross-disciplinary genre.",
-    "grp.business-report overlaps with dbe.professional-genres, which already takes it as a prerequisite.",
-    "grp.technical-design-report overlaps with dad.design-rationale, dse.protocols-specifications and dse.software-documentation; suggest those topics take it as a soft prerequisite where appropriate.",
-    "grp.project-proposal overlaps with res.research-proposal (doctoral and grant proposals); suggest res.research-proposal take grp.project-proposal as a soft prerequisite.",
-    "grp.policy-brief overlaps with dss.policy-analysis; one should be scoped as the short advocacy genre (this topic) and the other as the analytical process, and linked dss.policy-analysis -> grp.policy-brief or left unlinked.",
-    "grp.public-writing overlaps heavily with pub.research-engagement and reg.non-specialist-audiences. Suggest pub.research-engagement be scoped as strategy and channels (impact, social media planning) and this topic as the writing of specific public genres, with pub.research-engagement taking it as a soft prerequisite.",
-    "grp.student-abstract overlaps with res.abstracts and grp.executive-summary; suggest res.abstracts take grp.student-abstract as a soft prerequisite.",
-    "grp.dissertation-overview overlaps with res.thesis-macrostructure (doctoral); suggest that topic take this one as a soft prerequisite.",
-    "grp.professional-portfolio overlaps with dhl.reflective-practice and mmd.digital-assessments (e-portfolios). It is not linked to either, to avoid presuming those strands' directions.",
-    "grp.dissertation-overview is typed GENRE in the skeleton but its scope note ('structure, scope and expectations') is partly conceptual; it is written here as a genre with planning-oriented mastery evidence.",
-    "Gap: the Empathy Writing family identified by Gardner and Nesi (2013) (writing in role for a lay or professional reader, such as a client letter, patient leaflet or information sheet) has no dedicated topic; grp.public-writing, grp.policy-brief and res.ethics-documentation cover it only partially."
+    "R1-16 merges applied: the former essay-types topic is absorbed into ges.genre-families, and the former compare-and-contrast, explanation and problem–solution essay topics into ges.expository-essays, which depends on the FUN functions.",
+    "R1-20: ges.extended-source-based-project added as the pre-sessional and foundation capstone, linked to INF, SYN, SRC, CIT, WPR and EDT prerequisites. tst.presessional-progression could take it as a soft prerequisite if the assessment strand wishes; it is not linked from here to avoid presuming that strand's direction.",
+    "R1-15 stage boundaries: ges.literature-review-assignment and grp.project-proposal are taught-programme genres with no pgr role; res.literature-review and res.research-proposal cover research and doctoral versions and already take these as soft prerequisites.",
+    "ges.exam-essay overlaps with exm.timed-writing; the latter remains the generic procedure and the former the genre.",
+    "grp.case-study overlaps with dbe.business-case-analysis and dhl.case-reports-care-plans, which take it as a prerequisite; grp.business-report is a prerequisite of dbe.professional-genres.",
+    "grp.technical-design-report overlaps with dad.design-rationale, dse.protocols-specifications and dse.software-documentation; those topics could take it as a soft prerequisite.",
+    "grp.policy-brief overlaps with dss.policy-analysis; this topic is the short advocacy genre and that one the analytical process.",
+    "grp.public-writing overlaps with pub.research-engagement and reg.non-specialist-audiences; pub.research-engagement could take it as a soft prerequisite.",
+    "The former student-abstract topic has been merged into res.abstracts (R1-15); student abstracts for projects and dissertations are now covered there.",
+    "Gap: the Empathy Writing family identified by Gardner and Nesi (2013), writing in role for a lay or professional reader such as a client letter or patient leaflet, has no dedicated topic; grp.public-writing, grp.policy-brief and res.ethics-documentation cover it only partially."
   ]
 }

@@ -5,15 +5,15 @@
       "code": "COH",
       "strand": "Academic Discourse",
       "name": "Cohesion & Coherence",
-      "summary": "This domain covers the resources that make a text hang together for its reader: cohesive ties (reference, conjunction, lexical cohesion) and the information-structuring choices (given–new order, thematic progression, encapsulation, text patterns) that make a sequence of sentences read as a purposeful whole. It treats cohesion as a means to coherence rather than a proxy for it, countering the connector-heavy, checklist approach that learner-corpus findings and test preparation tend to reinforce. Topics move from sentence-to-sentence linking towards text-level signalling and the reader-oriented expectations of English-medium academic writing, including spoken signposting in lectures and presentations.",
-      "learnerSummary": "You will learn how writers and speakers help their audience follow their thinking — by linking sentences, keeping key terms consistent, putting familiar information first and signalling where a text is going — and why adding more linking words does not by itself make writing clear.",
+      "summary": "This domain covers the resources that make a text hang together for its reader: cohesive ties (reference, conjunction, lexical cohesion) and the information-structuring choices (given–new order, thematic progression, encapsulation, text patterns) that make a sequence of sentences read as a purposeful whole. It treats cohesion as a means to coherence rather than a proxy for it, countering the connector-heavy, checklist approach that test preparation and some readings of learner-corpus findings tend to reinforce. Topics move from sentence-to-sentence linking towards text-level signalling and the reader-oriented explicitness that many English-medium academic readers expect; spoken signposting is covered in the presentation and listening domains.",
+      "learnerSummary": "You will learn how writers help readers follow their thinking: linking sentences, keeping key terms consistent and signalling where the text is going. More linking words alone do not make writing clear.",
       "stageEmphasis": {
-        "foundation": "Foundation programmes concentrate on basic connectors, pronoun and noun reference, paragraph-level patterns and signposting in lectures, using short model texts and subject textbooks.",
+        "foundation": "Foundation programmes concentrate on basic connectors, pronoun and noun reference and paragraph-level patterns, using short model texts and subject textbooks.",
+        "pre-sessional-ug": "Undergraduate pre-sessional courses move learners from connector lists to selective, accurate linking and clear reference in essays and short reports, using the cohesion–coherence distinction to make sense of marking criteria.",
+        "pre-sessional-pg": "Postgraduate pre-sessional courses add information flow, encapsulation with signalling nouns and reverse outlining, so that extended source-based projects read as one argument rather than a sequence of summaries.",
         "in-sessional-ug": "Undergraduate in-sessional work diagnoses coherence problems in students' own assignments, especially reliance on connectors, unclear reference and weak transitions between paragraphs.",
         "in-sessional-pgt": "Taught postgraduate support focuses on dissertation-length coherence, terminological consistency and transitions between sections, and on using text patterns to read efficiently.",
-        "pgr": "Doctoral writers refine flow in dense prose (thematic progression, encapsulation) and manage metatext and terminology across a thesis or article.",
-        "pre-sessional-ug": "Pre-sessional courses move learners from connector lists to information flow, encapsulation and reverse outlining for coherence in extended source-based writing.",
-        "pre-sessional-pg": "Pre-sessional courses move learners from connector lists to information flow, encapsulation and reverse outlining for coherence in extended source-based writing."
+        "pgr": "Doctoral writers refine flow in dense prose (thematic progression, encapsulation) and manage metatext and terminology across a thesis or article."
       },
       "keyReferences": [
         "hallidayhasan1976",
@@ -29,14 +29,14 @@
       "strand": "Academic Discourse",
       "name": "Rhetorical Functions",
       "summary": "This domain covers recurrent rhetorical functions — defining, classifying, describing processes and structures, comparing, expressing cause and effect, exemplifying, explaining, hypothesising, recommending, summarising, narrating and evaluating — that cut across genres and disciplines. It follows the discourse approach to English for science and technology (Trimble), Mohan's knowledge framework and functional genre work (Martin and Rose; Nesi and Gardner's genre families), treating each function as a pairing of a communicative purpose with characteristic lexicogrammar and organisation. Functions are building blocks for paragraphs, sections and whole genres; teaching them through authentic disciplinary exemplars rather than decontextualised phrase lists keeps the focus on what each function achieves.",
-      "learnerSummary": "You will learn the common jobs that academic texts do — such as defining a term, comparing two approaches, explaining why something happens or recommending action — and the language and organisation that each job typically needs.",
+      "learnerSummary": "You will learn the common jobs that academic texts do — such as defining a term, comparing two approaches, explaining why something happens or recommending action — and the language and organisation each job needs.",
       "stageEmphasis": {
         "foundation": "Foundation programmes teach the core functions (defining, classifying, describing processes, comparing, cause and effect, exemplifying) through subject content, often in science, engineering and business contexts.",
+        "pre-sessional-ug": "Undergraduate pre-sessional courses consolidate comparing, cause and effect and explaining, and combine them with problem–solution and evaluation in expository and argument essays and short reports.",
+        "pre-sessional-pg": "Postgraduate pre-sessional courses emphasise criterion-based evaluation, defining contested or operational terms and hypothesising, in preparation for critical reviews, research proposals and dissertation-style projects.",
         "in-sessional-ug": "Undergraduate in-sessional support targets the functions demanded by specific assignments and genre families, such as explanation, critique and case study.",
         "in-sessional-pgt": "Taught postgraduate support emphasises contested and operational definitions, criterion-based evaluation, explanation of results and recommendations in dissertations and reports.",
-        "pgr": "Doctoral writers mainly revisit hypothesising, defining contested constructs and explaining results within research genres.",
-        "pre-sessional-ug": "Pre-sessional courses combine functions within extended assignments, focusing on explaining, evaluating, problem–solution and recommending in source-based writing.",
-        "pre-sessional-pg": "Pre-sessional courses combine functions within extended assignments, focusing on explaining, evaluating, problem–solution and recommending in source-based writing."
+        "pgr": "Doctoral writers mainly revisit hypothesising, defining contested constructs and explaining results within research genres."
       },
       "keyReferences": [
         "trimble1985",
@@ -52,14 +52,14 @@
       "strand": "Academic Discourse",
       "name": "Stance, Metadiscourse & Evaluation",
       "summary": "This domain covers the interpersonal dimension of academic discourse: how writers and speakers signal certainty and commitment, evaluate ideas and sources, represent themselves, engage readers, and keep their own claims distinct from those they attribute to others. It draws on Hyland's models of metadiscourse and of stance and engagement and on Martin and White's appraisal framework, especially engagement, treating them as complementary lenses rather than a single taxonomy. Stance is approached as calibration and positioning grounded in evidence, not as lists of hedges to insert, and disciplinary variation is made explicit throughout.",
-      "learnerSummary": "You will learn how to show how sure you are about a claim and how to evaluate other people's work fairly. You will also learn when and how to make your own voice heard, and how to show the reader which ideas are yours and which come from your sources.",
+      "learnerSummary": "You will learn to show how certain a claim is and to evaluate others' work fairly. You will also learn to show which ideas are yours and which come from sources.",
       "stageEmphasis": {
-        "foundation": "Foundation programmes introduce basic hedging and boosting, qualified generalisations and simple opinion language in speech and writing, linked to avoiding sweeping claims.",
+        "foundation": "Foundation programmes introduce basic hedging and boosting and bounded rather than sweeping generalisations, with simple opinion language in speech and writing.",
+        "pre-sessional-ug": "Undergraduate pre-sessional courses focus on hedging and bounding generalisations, concession in argument essays, and keeping the writer's own claims distinct from source content.",
+        "pre-sessional-pg": "Postgraduate pre-sessional courses add calibration of claims to evidence, evaluative language for critiquing studies and informed choices about self-mention, in preparation for literature-based assignments and research proposals.",
         "in-sessional-ug": "Undergraduate in-sessional support helps students build an authorial voice in assignments, evaluate sources rather than describe them, and match stance conventions to their discipline.",
         "in-sessional-pgt": "Taught postgraduate support focuses on critical evaluation of literature, dialogic positioning in literature reviews and calibrated claims in dissertations.",
-        "pgr": "Doctoral writers refine stance for publication: claiming contribution without over-claiming, positioning against the literature, managing self-mention and engaging expert readers.",
-        "pre-sessional-ug": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention.",
-        "pre-sessional-pg": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention."
+        "pgr": "Doctoral writers refine stance for publication: claiming contribution without over-claiming, positioning against the literature, managing self-mention and engaging expert readers."
       },
       "keyReferences": [
         "hyland2005metadiscourse",
@@ -112,11 +112,11 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -161,9 +161,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -172,23 +172,24 @@
       "type": "LINGUISTIC",
       "strand": "Academic Discourse",
       "domain": "Cohesion & Coherence",
-      "name": "Linking adverbials and connectors",
-      "description": "Use additive, adversative, causal, sequential and summative linking adverbials (in addition, however, therefore, first, overall) to make relations between sentences explicit where the reader needs them, with expert-like frequency, placement and punctuation. Learner corpora show, varying by learner group, overuse of some connectors, underuse of others, a preference for sentence-initial position and mismatches between connector and relation, so the aim is selective rather than maximal use.",
+      "name": "Linking adverbials and connector precision",
+      "description": "Use linking adverbials and other connectors (in addition, however, whereas, although, nevertheless, on the contrary, therefore, thus, overall) to make relations between sentences explicit where the reader needs them, choosing each by the exact relation it signals (contrast, concession or correction; inference or consequence) and by the clause structure, placement and punctuation it requires. Learner-corpus comparisons with reference corpora report, varying by learner group, overuse of some connectors, underuse of others, sentence-initial stacking and mismatches between connector and relation, so the aim is precise, selective use modelled on expert writing rather than maximal use.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Classifies common linking adverbials by the relation they signal (addition, contrast/concession, result, sequence, summation, apposition)",
-        "Uses a linking adverbial only where the relation would otherwise be unclear, rather than at the start of most sentences",
-        "Places linking adverbials in initial and medial positions and punctuates them correctly between independent clauses",
-        "Distinguishes linking adverbials from coordinators and subordinators when combining clauses",
+        "Classifies common connectors by the relation they signal (addition, contrast, concession, correction, result or inference, sequence, summation)",
+        "Distinguishes contrast (whereas, in contrast), concession (although, nevertheless) and correction (on the contrary) and uses each for the relation intended",
+        "Chooses among therefore, thus, hence and consequently according to whether the relation is inference or real-world consequence, and according to register",
+        "Distinguishes linking adverbials from coordinators and subordinators, and places and punctuates each correctly when combining clauses",
+        "Uses a connector only where the relation would otherwise be unclear, and removes connectors that assert a relation the content does not support",
         "Replaces speech-like connectors (Also, So, Besides) with register-appropriate choices in formal writing"
       ],
-      "assessmentPrompt": "Ask the learner to write a 150-word paragraph explaining a cause and its consequences from a short set of notes. Count linking adverbials per sentence, check each one against the actual relation, and note any comma splices with 'however'. A secure learner uses two or three well-chosen connectors in varied positions; an insecure one opens nearly every sentence with a connector or mismatches connector and relation.",
+      "assessmentPrompt": "Give five sentence pairs with the connector gapped, including one where 'on the contrary' and 'in contrast' compete and one where 'although' requires combining the pair into one sentence; then ask for a 150-word paragraph, written from notes, on a cause and its consequences. Check that each gap choice is justified by naming the relation rather than 'it sounds right', that subordinators are integrated grammatically, and that the paragraph uses a few well-chosen connectors in varied positions rather than one before most sentences.",
       "citations": [
         "biber1999lgswe",
+        "celcemurcia1999",
         "granger1998",
-        "hinkel2002",
         "grangertyson1996"
       ],
       "frameworks": [
@@ -215,12 +216,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -269,9 +271,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -316,13 +318,12 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -365,10 +366,6 @@
             "C1"
           ],
           "contribution": "related"
-        },
-        {
-          "key": "ielts:wr.coherence-cohesion",
-          "contribution": "component"
         }
       ],
       "stageRoles": {
@@ -376,7 +373,7 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -437,9 +434,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -540,17 +537,13 @@
             "C1"
           ],
           "contribution": "component"
-        },
-        {
-          "key": "ielts:wr.coherence-cohesion",
-          "contribution": "component"
         }
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -609,10 +602,10 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -622,21 +615,23 @@
       "strand": "Academic Discourse",
       "domain": "Cohesion & Coherence",
       "name": "Making reasoning explicit for the reader",
-      "description": "Understand the expectation, common in English-medium academic writing, that the writer rather than the reader is responsible for making purpose, structure and logical connections explicit, and recognise this as a convention that varies across disciplines, genres and writing traditions rather than a universal standard of good writing. The concept helps learners interpret feedback such as 'unclear' or 'make the link explicit' and decide how much to spell out for a given reader.",
+      "description": "Make purpose, structure and logical connections explicit to the degree a given reader needs, by stating the main point where the reader expects it, saying how evidence supports a claim and signalling how parts relate, and interpret feedback such as 'unclear' or 'make the link explicit' as a request for this. Many English-medium academic readers expect key links to be stated, but how much to spell out varies with discipline, genre, context and reader, and expert prose leaves many relations implicit.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Explains the reader/writer responsibility distinction and what it implies for explicit thesis statements, topic sentences and links",
-        "Identifies points in their own draft where a reader would have to infer an unstated connection, and states it",
-        "Adjusts explicitness for different readers (expert examiner, non-specialist, peer)",
-        "Discusses the concept critically, recognising variation within English and the risk of stereotyping other writing traditions"
+        "Identifies points in a draft where a reader would have to infer an unstated connection between evidence and claim, or between sections, and states the connection",
+        "States the main point of a text and of each section where the intended reader expects it, rather than leaving it to be inferred from the conclusion",
+        "Adjusts explicitness for different readers (expert examiner, non-specialist, peer), cutting statements an expert would take for granted",
+        "Explains what a feedback comment such as 'unclear' or 'make the link explicit' asks for, with reference to a specific passage",
+        "Recognises that expectations of explicitness vary across disciplines, genres and contexts, and that a less explicit text is not therefore illogical"
       ],
       "assessmentPrompt": "Give a paragraph whose main claim appears only implicitly in its last sentence and whose evidence-to-claim links are unstated. Ask how a marker in the learner's target programme might respond and what the learner would change, then ask whether the original could work well in another context. A strong answer revises for explicitness while recognising that the original is not illogical.",
       "citations": [
-        "hinds1987",
-        "connor2004",
-        "kubotalehner2004"
+        "leastreet1998",
+        "hyland2005metadiscourse",
+        "bibergray2010",
+        "connor2004"
       ],
       "frameworks": [
         {
@@ -645,7 +640,7 @@
             "B1+",
             "B2"
           ],
-          "contribution": "related"
+          "contribution": "component"
         },
         {
           "key": "cefr-cv:plu.pluricultural-repertoire",
@@ -660,8 +655,8 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -709,13 +704,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -761,10 +756,10 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -815,14 +810,17 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop"
       },
       "coreBand": "B1",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "sciences",
+        "engineering"
+      ]
     },
     {
       "id": "fun.describing-structure",
@@ -868,12 +866,16 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "revisit",
         "in-sessional-ug": "develop"
       },
       "coreBand": "B1",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "engineering",
+        "sciences",
+        "health-medicine"
+      ]
     },
     {
       "id": "fun.comparing-contrasting",
@@ -922,13 +924,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -974,8 +976,8 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
@@ -1030,7 +1032,7 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -1081,7 +1083,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1137,12 +1139,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1193,9 +1195,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1244,7 +1246,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1293,7 +1295,7 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "revisit",
         "in-sessional-pgt": "develop"
       },
       "coreBand": "B1+",
@@ -1344,12 +1346,16 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "revisit",
         "in-sessional-ug": "develop"
       },
       "coreBand": "B1",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "humanities",
+        "law",
+        "health-medicine"
+      ]
     },
     {
       "id": "fun.evaluating",
@@ -1400,11 +1406,11 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1449,13 +1455,12 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1464,24 +1469,25 @@
       "type": "LINGUISTIC",
       "strand": "Academic Discourse",
       "domain": "Stance, Metadiscourse & Evaluation",
-      "name": "Hedging devices",
-      "description": "Use hedging devices — modal verbs (may, might, could), lexical verbs (suggest, appear, indicate), adverbs and adjectives (possibly, likely), approximators (approximately, to some extent) and impersonal frames (it seems that, it is possible that) — to present claims with appropriate tentativeness, mark the writer's precision about evidence and show deference to readers and the field. Hedging is central to how academic claims are negotiated and accepted.",
+      "name": "Hedging and qualifying generalisations",
+      "description": "Use hedging devices (modal verbs such as may and might; lexical verbs such as suggest and appear; adverbs, adjectives and approximators such as likely and to some extent; impersonal frames such as it seems that) together with quantifiers, frequency and tendency expressions (most, a minority of, often, tend to) and scope limiters (in most cases, in this context) to present claims with the certainty and scope the evidence supports, while leaving room for the reader's judgement. Bounding a claim often means stating who, how many, how often or where rather than adding a modal, and hedging is central to how academic claims are negotiated and accepted.",
       "cefrStart": "B1+",
       "cefrEnd": "C2",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies hedges in an academic text and distinguishes those qualifying the accuracy of a claim from those softening the writer's commitment towards readers",
-        "Uses a range of hedging devices beyond 'may', including lexical verbs, adverbs, approximators and impersonal frames",
-        "Places the hedge on the part of the claim that is uncertain (cause, scope or degree)",
-        "Avoids stacking several hedges on one claim where one suffices",
-        "Varies hedging density across a text, hedging interpretations more than descriptions of method"
+        "Rewrites sweeping generalisations (everyone, always, all societies) as bounded claims by stating the population, frequency, quantity or context to which they apply",
+        "Uses a range of devices beyond 'may' with accurate grammar, including lexical verbs, approximators, impersonal frames, tend + to-infinitive and quantifiers (most students; most of the students)",
+        "Places the hedge or limiter on the part of the claim that is uncertain (cause, scope or degree)",
+        "Distinguishes a claim about a category from a claim about every member, and leaves definitions and established facts unqualified",
+        "Avoids stacking several hedges on one claim, and hedges interpretations more than descriptions of method"
       ],
-      "assessmentPrompt": "Give three unhedged claims based on a short results summary (for example a correlation found in one small sample). Ask the learner to rewrite each so that it is defensible. Check the variety of devices, whether each hedge targets the actual source of uncertainty, and whether any claim has become so hedged that it says nothing.",
+      "assessmentPrompt": "Give two sweeping statements typical of essay openings (for example 'Nowadays everyone uses social media') and two unhedged claims based on a short results summary (for example a correlation found in one small sample). Ask the learner to rewrite each as a defensible claim. Check the range and grammatical accuracy of the devices, whether each hedge or limiter targets the actual source of uncertainty, whether scope is specified rather than 'may' simply added, and whether any claim has become so hedged that it says nothing.",
       "citations": [
         "hyland1998hedging",
         "salagermeyer1994",
-        "hyland2005stance",
-        "hylandmilton1997"
+        "hylandmilton1997",
+        "hinkel2004"
       ],
       "frameworks": [
         {
@@ -1507,14 +1513,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1565,9 +1571,9 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1611,12 +1617,12 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1674,9 +1680,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1727,9 +1733,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1739,7 +1745,7 @@
       "strand": "Academic Discourse",
       "domain": "Stance, Metadiscourse & Evaluation",
       "name": "Reader engagement",
-      "description": "Use reader-engagement resources — inclusive 'we' and other reader references, directives (note that, consider, see Table 2), questions, appeals to shared knowledge (as is well known) and personal asides — to bring readers into the argument, guide their interpretation and build solidarity, at a level suited to discipline and genre.",
+      "description": "Use reader-engagement resources — inclusive 'we' and other reader references, directives (note that, consider, see Table 2), questions, appeals to shared knowledge (as is well known) and personal asides — to bring readers into the argument, guide their interpretation and build solidarity, at a level suited to discipline and genre. This is Hyland's sense of 'engagement', features that address the reader, not the dialogic positioning towards other voices that appraisal theory also calls engagement (see sta.dialogic-positioning).",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1778,7 +1784,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1819,11 +1825,11 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -1875,10 +1881,10 @@
         }
       ],
       "stageRoles": {
-        "pre-sessional-ug": "develop",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B2",
       "audience": "learner",
@@ -1890,7 +1896,7 @@
       "strand": "Academic Discourse",
       "domain": "Stance, Metadiscourse & Evaluation",
       "name": "Opening and closing space for other voices",
-      "description": "Position a text in relation to other voices by expanding the dialogue (entertaining possibilities, attributing views to others) or contracting it (denying, countering, concurring, pronouncing, endorsing), as described in the engagement system of appraisal theory. Control of these options lets writers acknowledge alternatives while steering readers towards their own position, a pattern associated with highly rated academic argument.",
+      "description": "Position a text in relation to other voices by expanding the dialogue (entertaining possibilities, attributing views to others) or contracting it (denying, countering, concurring, pronouncing, endorsing), as described in the engagement system of appraisal theory. Control of these options lets writers acknowledge alternatives while steering readers towards their own position, a pattern associated with highly rated academic argument. This 'engagement' (Martin and White) concerns how a text positions itself towards other voices and is distinct from Hyland's reader-engagement markers (sta.engagement-markers), which address the reader directly.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
       "specificity": "EGAP",
@@ -1926,11 +1932,12 @@
         }
       ],
       "stageRoles": {
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "core",
+        "pgr": "core"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1974,12 +1981,12 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -2030,11 +2037,11 @@
       "stageRoles": {
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -2084,7 +2091,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -2144,7 +2151,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     }
@@ -2274,7 +2281,7 @@
       "topicId": "coh.writer-responsibility",
       "prerequisiteId": "coh.cohesion-vs-coherence",
       "strength": "hard",
-      "reason": "Writer responsibility concerns who makes coherence relations explicit, so the notion of coherence relations must already be in place"
+      "reason": "Deciding which relations to state for a reader presupposes the notion of coherence relations that the reader must otherwise recover by inference"
     },
     {
       "topicId": "coh.writer-responsibility",
@@ -2286,7 +2293,7 @@
       "topicId": "coh.frame-markers",
       "prerequisiteId": "coh.writer-responsibility",
       "strength": "soft",
-      "reason": "Frame markers are a principal means by which writers take responsibility for making a text's organisation explicit to the reader"
+      "reason": "Frame markers are a principal means by which writers make a text's organisation explicit for the reader"
     },
     {
       "topicId": "fun.defining",
@@ -2549,8 +2556,8 @@
     {
       "topicId": "sta.hedging",
       "prerequisiteId": "grm.determiners-quantifiers",
-      "strength": "hard",
-      "reason": "Bounding a generalisation relies on accurate quantifiers (most, a minority of, few) and their grammar"
+      "strength": "soft",
+      "reason": "Bounding generalisations uses quantifiers (most, a minority of, few) whose grammar learners need, although modal and lexical hedging can be taught before or alongside them"
     },
     {
       "topicId": "sta.boosters",
@@ -2658,7 +2665,7 @@
       "topicId": "sta.spoken-stance",
       "prerequisiteId": "reg.spoken-vs-written",
       "strength": "soft",
-      "reason": "Spoken stance uses different resources (opinion frames, vague language, prosody) from writing, so awareness of spoken–written differences prevents transfer of written hedges into talk"
+      "reason": "Spoken stance uses different resources (opinion frames, vague language, prosody) from writing, so awareness of spoken–written differences can reduce transfer of written hedges into talk"
     }
   ],
   "guidance": [
@@ -2797,7 +2804,7 @@
     },
     {
       "topicId": "coh.linking-adverbials",
-      "summary": "Biber et al. describe the semantic categories of linking adverbials and show that a relatively small set accounts for most uses in academic prose. Learner-corpus studies, including Altenberg and Tapper's chapter in Granger's collection and Granger and Tyson's comparison of native and non-native student essays, report overuse of some connectors, underuse of others and sentence-initial stacking relative to first-language student essays (comparisons that measure difference from a reference corpus rather than error, so expert disciplinary writing is the better model); Hinkel similarly documents L2 writers' reliance on sentence-level transitions. Teach connectors by relation and with evidence of expert frequency, aiming for fewer, better-chosen links rather than long lists of supposed equivalents.",
+      "summary": "Biber et al. describe the semantic categories of linking adverbials and show that a relatively small set accounts for most uses in academic prose, and Celce-Murcia and Larsen-Freeman treat connectors by both semantic relation and grammatical type, the combination learners need to choose precisely. Learner-corpus studies measure difference from a reference corpus rather than error: Granger and Tyson compared French-speaking learners' essays with essays by English-L1 students (the study's 'native' category) and found overuse of some connectors and underuse of others rather than overall overuse, Altenberg and Tapper's chapter in Granger's collection reports overall underuse by Swedish learners, and Hinkel documents reliance on sentence-level transitions across several L1 groups. Because these comparisons use student reference corpora, expert disciplinary writing is the better model for teaching. Teach connectors by relation, with evidence of expert frequency and position and with minimal pairs that make the change in claim visible, aiming for fewer, better-chosen links rather than long lists of supposed equivalents.",
       "activities": [
         {
           "title": "Frequency reality check",
@@ -2807,7 +2814,7 @@
             "Delete connectors from your paragraph wherever the relation is already clear, and reread"
           ],
           "intendedInsight": "Expert prose uses fewer connectors, places some medially and relies on content to carry many relations.",
-          "rationale": "Self-comparison with expert texts targets the overuse and sentence-initial stacking documented in learner corpora.",
+          "rationale": "Comparison with expert texts in the learner's own field targets the sentence-initial stacking reported in some learner-corpus studies, while taking expert writing rather than other students' essays as the model.",
           "citations": [
             "biber1999lgswe",
             "granger1998"
@@ -2825,6 +2832,19 @@
           "citations": [
             "hallidayhasan1976"
           ]
+        },
+        {
+          "title": "Minimal pairs",
+          "learnerActions": [
+            "Read two versions of a sentence pair that differ only in the connector (however versus on the contrary; whereas versus although; therefore versus thus)",
+            "Paraphrase the claim each version makes",
+            "Decide which version the writer most plausibly intended, given the surrounding text, and justify the choice by naming the relation"
+          ],
+          "intendedInsight": "Connectors change propositions, not just style.",
+          "rationale": "Contrasting forms in controlled pairs is intended to focus attention on meaning differences that are easily blurred in lists of 'linking words'; Celce-Murcia and Larsen-Freeman's treatment by relation and grammatical type supplies the contrasts.",
+          "citations": [
+            "celcemurcia1999"
+          ]
         }
       ],
       "difficulties": [
@@ -2836,10 +2856,10 @@
           "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
         },
         {
-          "pattern": "Treating connectors from a list as interchangeable, for example 'On the other hand' to add a point.",
+          "pattern": "Treating connectors from a list as interchangeable: 'X is expensive. On the contrary, Y is cheap', or 'On the other hand' used to add a point.",
           "kind": "overgeneralisation",
-          "revealedBy": "'On the other hand' with no preceding contrast; 'Besides' as a neutral additive in formal writing.",
-          "response": "Teach connectors grouped by relation and register with authentic examples, and return to mismatches in the learner's own text.",
+          "revealedBy": "'On the contrary' for simple contrast between two items; 'On the other hand' with no preceding contrast; 'Besides' as a neutral additive in formal writing.",
+          "response": "Teach connectors grouped by relation and register with authentic examples: 'on the contrary' rejects a preceding (often negated) proposition, whereas 'in contrast' compares two items. Return to mismatches in the learner's own text rather than issuing longer lists.",
           "reteachPrerequisiteId": null
         },
         {
@@ -2848,24 +2868,33 @@
           "revealedBy": "Comma splices of the form '…, however, …' between independent clauses.",
           "response": "Contrast 'but' (coordinator), 'although' (subordinator) and 'however' (adverbial) with the same content, and show the punctuation each requires.",
           "reteachPrerequisiteId": "sen.sentence-types"
+        },
+        {
+          "pattern": "'Therefore' introducing a conclusion that the preceding sentences do not support.",
+          "kind": "conceptual",
+          "revealedBy": "A list of facts followed by 'Therefore,…' with no step connecting them to the claim.",
+          "response": "Ask 'why does this follow?' and have the learner write the missing step; treat each connector as a promise that the content must keep.",
+          "reteachPrerequisiteId": "coh.cohesion-vs-coherence"
         }
       ],
       "diagnostic": {
-        "task": "The learner rewrites a 100-word paragraph in which five of six sentences begin with a connector, keeping only the links a reader needs.",
-        "strongResponse": "Keeps two or three connectors that mark genuine contrast or result, removes additive stacking, moves at least one connector medially and punctuates correctly.",
-        "partialResponse": "Removes some connectors but keeps mismatched ones or retains sentence-initial positioning throughout.",
-        "gapResponse": "Replaces connectors with different connectors, keeping the density unchanged."
+        "task": "The learner rewrites a 100-word paragraph in which five of six sentences begin with a connector, keeping only the links a reader needs, and then explains the difference between 'Sales fell. However, profits rose.' and 'Sales did not fall. On the contrary, they rose.'",
+        "strongResponse": "Keeps two or three connectors that mark genuine contrast or result, removes additive stacking, moves at least one connector medially and punctuates correctly; explains that the second pair corrects a negated claim rather than contrasting two facts.",
+        "partialResponse": "Removes some connectors but keeps mismatched ones or sentence-initial positioning throughout, or senses that the two pairs differ without naming the relation.",
+        "gapResponse": "Replaces connectors with other connectors at the same density, and treats however and on the contrary as interchangeable."
       },
-      "contextNotes": "Foundation learners need the core semantic categories and punctuation. Pre-sessional courses should explicitly address test-preparation habits of connector stacking. Undergraduate in-sessional support works best on students' own assignments, where connector overuse often masks problems of argument structure.",
+      "contextNotes": "Foundation learners need the core semantic categories, punctuation and the distinction between coordinators, subordinators and adverbials. Undergraduate pre-sessional courses should explicitly address test-preparation habits of connector stacking; postgraduate pre-sessional courses can add precision among concessive and inferential connectors in argument and source-based writing. In-sessional support is most productive on students' own assignments, where connector overuse often masks problems of argument structure, and can tie precision to disciplinary reasoning, such as inference in quantitative fields or concession in humanities argument.",
       "citations": [
         "biber1999lgswe",
+        "celcemurcia1999",
         "granger1998",
+        "grangertyson1996",
         "hinkel2002",
-        "grangertyson1996"
+        "hallidayhasan1976"
       ],
       "reviewNotes": [
-        "Hinkel (2002) reports frequencies across specific L1 groups and essay prompts; verify feature labels before quoting figures to teachers.",
-        "grangertyson1996 is a proposed reference; the supporting claim is also attributed to the Granger (1998) collection."
+        "Hinkel (2002) reports frequencies for specific L1 groups and essay prompts; teachers quoting figures should state those groups and prompts.",
+        "Review response (R1-15): coh.connector-precision has been merged into this topic. Its relation distinctions (contrast, concession, correction; inference and consequence), minimal-pair activity and 'unsupported therefore' difficulty are now part of this record. The range stays B1–C1 with B1+ as the core band (R1-09); precision among near-equivalent connectors is the C1 end of the range. The absorbed topic's 'although… but' double-marking difficulty is handled in sta.concession-language, which depends on this topic."
       ]
     },
     {
@@ -2894,7 +2923,7 @@
             "Rewrite any sentence that opens with brand-new information"
           ],
           "intendedInsight": "Many 'choppy' paragraphs open sentences with new information.",
-          "rationale": "Applying the principle to one's own text builds a self-editing routine rather than abstract knowledge.",
+          "rationale": "Applying the principle to one's own text is intended to build a self-editing routine rather than abstract knowledge.",
           "citations": [
             "thompson2014"
           ]
@@ -3071,9 +3100,7 @@
         "swalesfeak2012",
         "graycortes2011"
       ],
-      "reviewNotes": [
-        "graycortes2011 is a proposed reference; if it cannot be verified, the statement that bare 'this' occurs in published prose should be supported from another corpus source or softened."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "coh.text-patterns",
@@ -3087,7 +3114,7 @@
             "Find any point where a negative evaluation triggers a further problem and response"
           ],
           "intendedInsight": "Patterns are signalled lexically and can repeat within one text.",
-          "rationale": "Hoey shows that readers rely on lexical signals to recognise pattern elements; making signals explicit builds this recognition.",
+          "rationale": "Hoey shows that readers rely on lexical signals to recognise pattern elements; making signals explicit is intended to build this recognition.",
           "citations": [
             "hoey1983",
             "hoey2001"
@@ -3355,7 +3382,7 @@
     },
     {
       "topicId": "coh.writer-responsibility",
-      "summary": "Hinds proposed reader versus writer responsibility as a dimension of variation between writing traditions; later intercultural rhetoric (Connor) and critical contrastive rhetoric (Kubota and Lehner) caution against treating such typologies as fixed national or cultural traits. Teach the concept as an explicit statement of a tacit expectation among many anglophone markers, framed as a convention to manage rather than a deficit to correct. Biber and Gray's evidence that academic prose leaves many relations implicit within compressed noun phrases is a useful counterweight: explicitness is selective even in English.",
+      "summary": "Making reasoning explicit is a reader-oriented decision: writers judge which connections their intended reader needs stated and which can be left to inference. Hyland's account of interactive metadiscourse describes the resources writers use to guide readers through a text, and Lea and Street show that tutors' comments such as 'unclear' or 'argument' often rest on tacit expectations that students are not told, so teaching should make those expectations explicit rather than present them as common sense. Biber and Gray's evidence that academic prose leaves many relations implicit within compressed noun phrases is a useful counterweight: explicitness is selective even in English. Cross-cultural typologies of reader and writer responsibility are discussed critically in idn.intercultural-rhetoric and are not needed to teach this skill.",
       "activities": [
         {
           "title": "Where would a reader stop?",
@@ -3364,33 +3391,45 @@
             "The writer notes each pause and decides whether to state the connection",
             "Discuss which inferences an expert reader in the field could reasonably be expected to make"
           ],
-          "intendedInsight": "How much to make explicit depends on the reader, but many markers expect key links to be stated.",
-          "rationale": "Turns Hinds's abstract typology into a concrete, reader-based judgement about a specific text.",
+          "intendedInsight": "How much to make explicit depends on the reader, but many markers expect the links that carry the argument to be stated.",
+          "rationale": "Turns the reader's need for explicit links into a concrete judgement about a specific text and reader, using the interactive resources Hyland describes.",
           "citations": [
-            "hinds1987"
+            "hyland2005metadiscourse"
           ]
         },
         {
-          "title": "Comparing traditions without stereotypes",
+          "title": "Same content, different readers",
           "learnerActions": [
-            "Bring a short academic text from another language you know or from a different discipline",
-            "Identify where its main point and key links are made explicit (title, opening, headings, conclusion)",
-            "Discuss the variation you find within each language as well as between them"
+            "Take a paragraph you have written for your tutor",
+            "Rewrite it for a non-specialist reader, adding the links and definitions that reader needs",
+            "Then cut any statement an expert examiner would take for granted, and compare the three versions"
+          ],
+          "intendedInsight": "Explicitness is about the links that matter to a particular reader, not about stating everything.",
+          "rationale": "Biber and Gray show that expert academic prose leaves many relations implicit, so learners need to judge explicitness by reader rather than maximise it.",
+          "citations": [
+            "bibergray2010"
+          ]
+        },
+        {
+          "title": "Comparing explicitness across disciplines and genres",
+          "learnerActions": [
+            "Bring two short academic texts from different disciplines or genres, or one from another language you know",
+            "Identify where each makes its main point and key links explicit (title, opening, headings, topic sentences, conclusion)",
+            "Discuss the variation you find within each language and discipline as well as between them"
           ],
           "intendedInsight": "Explicitness conventions vary by genre and discipline as well as by language, and no tradition is uniform.",
-          "rationale": "Draws on learners' plurilingual resources while reflecting intercultural and critical critiques of contrastive generalisations.",
+          "rationale": "Draws on learners' plurilingual resources while reflecting the intercultural-rhetoric view that conventions vary within as well as across languages and contexts.",
           "citations": [
-            "connor2004",
-            "kubotalehner2004"
+            "connor2004"
           ]
         }
       ],
       "difficulties": [
         {
           "pattern": "'I build up to my main point so that the conclusion has more impact.'",
-          "kind": "prior-schooling",
+          "kind": "conceptual",
           "revealedBy": "Main claims withheld until the conclusion or left implicit; feedback such as 'what is your argument?'.",
-          "response": "Writers whose previous schooling rewarded delayed or implied conclusions can be shown the genre expectation and asked to compare effects for the target reader, without implying their earlier practice was wrong.",
+          "response": "This is a rationale many novice writers hold in any language, and some school and examination genres reward it. Show the expectation of the target genre and ask the learner to compare the effect of an early and a delayed statement on the intended reader, without implying that the earlier practice was wrong.",
           "reteachPrerequisiteId": null
         },
         {
@@ -3406,23 +3445,30 @@
           "revealedBy": "Heavy metatext and explanations of points an expert reader would take for granted.",
           "response": "Return to the intended reader: explicitness is about the links that matter to the argument, not about everything.",
           "reteachPrerequisiteId": "wpr.audience-purpose"
+        },
+        {
+          "pattern": "Feedback such as 'unclear', 'flow' or 'make it explicit' with no indication of which link is missing.",
+          "kind": "institutional",
+          "revealedBy": "Learners who revise vocabulary or grammar in response to comments about clarity, or who ask what the comment means.",
+          "response": "Teachers and markers can point to the specific passage and name the missing link or reader question; programmes can share annotated exemplars that make the expectation visible. Learners can be taught to ask 'which connection was missing here?' in tutorials.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "The learner explains in their own words why a UK tutor might write 'make your argument explicit' on an essay whose main point appears only in the conclusion.",
-        "strongResponse": "Explains the expectation that the writer states the position and links early and clearly, and notes that this is a convention of the context rather than a universal rule.",
-        "partialResponse": "Explains the expectation but presents it as the only logical way to write.",
+        "task": "The learner explains in their own words why a tutor in their target programme might write 'make your argument explicit' on an essay whose main point appears only in the conclusion, and says what they would change.",
+        "strongResponse": "Explains the expectation that the writer states the position and key links early and clearly for this reader, proposes a specific change, and notes that this is a convention of the context and genre rather than a universal rule.",
+        "partialResponse": "Explains the expectation but presents it as the only logical way to write, or cannot say what to change.",
         "gapResponse": "Cannot connect the comment to explicitness, or interprets it as a grammar issue."
       },
-      "contextNotes": "At foundation and pre-sessional level the concept is useful for interpreting feedback and for introductions and topic sentences. Undergraduate and taught postgraduate in-sessional support can address it in tutorials when students are puzzled by comments on clarity. Handle it with care in multilingual groups to avoid stereotyping.",
+      "contextNotes": "At foundation and undergraduate pre-sessional level the skill supports introductions, topic sentences and the interpretation of feedback. Postgraduate pre-sessional courses extend it to linking evidence to claims in longer source-based projects and to writing for readers outside the writer's specialism. Undergraduate and taught postgraduate in-sessional support revisits it in tutorials when students are puzzled by comments on clarity. Expectations of explicitness can differ across disciplines and in EMI and transnational programmes, so take the intended reader in the learner's target context, not a national norm, as the reference point.",
       "citations": [
-        "hinds1987",
-        "connor2004",
-        "kubotalehner2004",
-        "bibergray2010"
+        "leastreet1998",
+        "hyland2005metadiscourse",
+        "bibergray2010",
+        "connor2004"
       ],
       "reviewNotes": [
-        "Hinds's typology is contested; the topic name is retained from the skeleton, but teachers should present it as a heuristic about reader expectations rather than as a description of national writing styles."
+        "Review response (R5-21): the topic is named and framed around the skill of making reasoning explicit for a given reader. The discussion of Hinds's reader/writer responsibility typology and its critiques (Connor; Kubota and Lehner) has been removed from this record and belongs in idn.intercultural-rhetoric, which already cites Hinds; the ID is kept as fixed by the skeleton. The R5-11 difficulty is re-voiced as a rationale held by novice writers in any language and recoded as conceptual."
       ]
     },
     {
@@ -3536,7 +3582,7 @@
           "pattern": "'The system is consisted of three parts' or 'comprises of three parts'.",
           "kind": "overgeneralisation",
           "revealedBy": "Passive forms of consist of; comprise followed by of.",
-          "response": "Contrast consist of (active only), comprise (no 'of') and be composed of (passive), with corpus examples.",
+          "response": "Contrast consist of (active only), comprise (without 'of') and be composed of (passive), with corpus examples. Note that 'is comprised of' is common but contested and avoided by some style guides, so 'consists of' or 'comprises' is the safer choice.",
           "reteachPrerequisiteId": "grm.passive-voice"
         },
         {
@@ -3757,7 +3803,7 @@
         "partialResponse": "Compares accurately but without criteria or a conclusion.",
         "gapResponse": "Describes each method separately with no comparison."
       },
-      "contextNotes": "Foundation programmes use comparison with data and subject content. Pre-sessional courses link it to compare-and-contrast essays and data commentary. Undergraduate and taught postgraduate in-sessional work applies it to comparing theories, methods and findings.",
+      "contextNotes": "Foundation programmes use comparison with data and subject content. Pre-sessional courses link it to expository essays organised by comparison and data commentary. Undergraduate and taught postgraduate in-sessional work applies it to comparing theories, methods and findings.",
       "citations": [
         "trimble1985",
         "carrell1985",
@@ -3825,13 +3871,13 @@
         "partialResponse": "Produces one accurate alternative with an error in the other.",
         "gapResponse": "Cannot move beyond because and so."
       },
-      "contextNotes": "Foundation programmes teach cause and effect with subject content and data. Pre-sessional courses connect it to explanation essays and data commentary. Undergraduate and taught postgraduate in-sessional work focuses on calibrating causal claims in discussions of evidence.",
+      "contextNotes": "Foundation programmes teach cause and effect with subject content and data. Pre-sessional courses connect it to expository essays organised by cause and effect and data commentary. Undergraduate and taught postgraduate in-sessional work focuses on calibrating causal claims in discussions of evidence.",
       "citations": [
         "hallidaymartin1993",
         "schleppegrell2004"
       ],
       "reviewNotes": [
-        "No source in the bibliography directly addresses learner difficulties with causal claim strength; the guidance draws on general research-literacy principles and could be supported by a proposed reference in a later revision."
+        "No source in the bibliography directly addresses learner difficulties with causal claim strength; the guidance draws on general research-literacy principles and on the treatment of correlation and causation in crt.correlation-causation."
       ]
     },
     {
@@ -3900,9 +3946,7 @@
         "hyland2005metadiscourse",
         "hyland2007gloss"
       ],
-      "reviewNotes": [
-        "hyland2007gloss is a proposed reference; the claims are also supported by hyland2005metadiscourse."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "fun.problem-solution",
@@ -3965,7 +4009,7 @@
         "partialResponse": "Includes the elements but evaluates only vaguely (this is a good solution).",
         "gapResponse": "Describes the problem only, or lists solutions without structure."
       },
-      "contextNotes": "Foundation programmes teach the pattern in short essays and business or engineering content. Pre-sessional courses apply it to problem–solution essays and case studies. Undergraduate and taught postgraduate in-sessional support connects it to case analyses, reports and research introductions.",
+      "contextNotes": "Foundation programmes teach the pattern in short essays and business or engineering content. Pre-sessional courses apply it to expository essays organised by problem and solution and case studies. Undergraduate and taught postgraduate in-sessional support connects it to case analyses, reports and research introductions.",
       "citations": [
         "hoey1983",
         "hoey2001",
@@ -4033,7 +4077,7 @@
         "partialResponse": "Offers a single plausible explanation without weighing alternatives.",
         "gapResponse": "Restates the low response rate without explaining it."
       },
-      "contextNotes": "Foundation programmes teach explanation through science and social science content. Pre-sessional courses link it to explanation essays and data commentary. Undergraduate and taught postgraduate in-sessional work focuses on explanation genres and on explaining results.",
+      "contextNotes": "Foundation programmes teach explanation through science and social science content. Pre-sessional courses link it to expository essays and data commentary. Undergraduate and taught postgraduate in-sessional work focuses on explanation genres and on explaining results.",
       "citations": [
         "rosemartin2012",
         "nesigardner2012",
@@ -4169,7 +4213,7 @@
         "partialResponse": "Writes relevant recommendations that are vague or contain a mandative error.",
         "gapResponse": "Writes general opinions unrelated to the finding."
       },
-      "contextNotes": "Foundation programmes teach recommendation language in business and engineering contexts. Pre-sessional courses focus on reports and problem–solution essays. Undergraduate and taught postgraduate in-sessional support addresses case studies, business reports and dissertation conclusions.",
+      "contextNotes": "Foundation programmes teach recommendation language in business and engineering contexts. Pre-sessional courses focus on reports and expository essays organised by problem and solution. Undergraduate and taught postgraduate in-sessional support addresses case studies, business reports and dissertation conclusions.",
       "citations": [
         "nesigardner2012",
         "yangallison2003",
@@ -4361,9 +4405,9 @@
         },
         {
           "pattern": "'Evaluating means finding what is wrong' or 'it is just my opinion'.",
-          "kind": "prior-schooling",
+          "kind": "conceptual",
           "revealedBy": "One-sided criticism, or evaluation presented as personal preference.",
-          "response": "Present evaluation as balanced, criterion-based judgement that recognises strengths as well as weaknesses.",
+          "response": "Present evaluation as balanced, criterion-based judgement that recognises strengths as well as weaknesses, and show how stating the criterion turns a preference into a supported judgement.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -4446,7 +4490,7 @@
     },
     {
       "topicId": "sta.hedging",
-      "summary": "Hyland's study of hedging in science research articles distinguishes hedges that concern the accuracy of claims from those that concern the writer's relationship with readers, and Salager-Meyer's taxonomy (shields, approximators, expressions of doubt, compound hedges) gives a practical classification. Hyland and Milton found that L2 student writers in their study used a narrower range of devices and expressed certainty more strongly than L1 peers, which suggests prioritising range and placement over introducing 'may'. Teach hedges together with the evidence they respond to, not as politeness formulae.",
+      "summary": "Hyland's study of hedging in science research articles distinguishes hedges that concern the accuracy of claims from those that concern the writer's relationship with readers, and Salager-Meyer's taxonomy (shields, approximators, expressions of doubt, compound hedges) gives a practical classification that includes the approximators of quantity, frequency and degree used to bound generalisations. Hyland and Milton compared examination scripts by Cantonese-speaking Hong Kong school leavers with those of British school leavers and found a narrower range of devices and stronger certainty in the first group; as a difference from one comparison corpus, this suggests prioritising range and placement, with expert writing in the learner's field as the model. Hinkel provides form-focused exercises on hedges, quantifiers and tendency expressions. Teach hedges and limiters together with the evidence they respond to, not as politeness formulae, and treat precise scope as often a better remedy for overgeneralisation than an added modal.",
       "activities": [
         {
           "title": "Hedge the claim to the evidence",
@@ -4459,6 +4503,19 @@
           "rationale": "Hyland's account links hedging in research writing to the epistemic status of claims; tying each hedge to evidence reflects that function.",
           "citations": [
             "hyland1998hedging"
+          ]
+        },
+        {
+          "title": "Sweeping to bounded",
+          "learnerActions": [
+            "Rewrite sweeping statements from typical essay openings as bounded claims",
+            "Label what you changed: quantity, frequency, degree, context or certainty",
+            "Check which rewrites need a source to support them"
+          ],
+          "intendedInsight": "Bounding a claim usually means specifying who, how many, how often or where, not just adding 'may'.",
+          "rationale": "Hinkel's techniques for teaching hedging and qualification in L2 writing support explicit, form-focused practice; the labelling step is intended to show that scope and certainty are separate choices.",
+          "citations": [
+            "hinkel2004"
           ]
         },
         {
@@ -4479,15 +4536,15 @@
         {
           "pattern": "'Hedging makes me sound unsure; strong statements show confidence.'",
           "kind": "prior-schooling",
-          "revealedBy": "Unhedged generalisations and interpretations presented as facts; resistance to feedback asking for qualification.",
-          "response": "Show expert texts in the learner's field in which hedging accompanies authoritative claims, and frame hedging as precision and as an expected part of academic argument.",
+          "revealedBy": "Unhedged interpretations and sweeping openings ('Since the dawn of time, humans have always…'), often modelled on test-preparation essay formats that reward forceful, unqualified positions; resistance to feedback asking for qualification.",
+          "response": "Show expert texts in the learner's field in which hedging accompanies authoritative claims, and frame hedging and bounded scope as precision. Explain that markers in the target context often read unsupported sweep as weak use of evidence, while acknowledging that the earlier format had its own purpose.",
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'It may possibly be suggested that this could perhaps indicate…'",
+          "pattern": "'It may possibly be suggested that this could perhaps indicate…', or qualifying established facts ('In most cases, water tends to boil at 100°C at sea level').",
           "kind": "overgeneralisation",
-          "revealedBy": "Multiple hedges stacked on single claims after instruction; feedback that the argument is unclear.",
-          "response": "Teach one hedge per source of uncertainty and ask the learner to state what exactly is uncertain. Do not react by discouraging hedging altogether.",
+          "revealedBy": "Several hedges stacked on single claims after instruction; definitions and well-established facts qualified; feedback that the argument is unclear.",
+          "response": "Teach one hedge per source of uncertainty and ask the learner to state what exactly is uncertain; qualify empirical generalisations, not definitions or established facts. Do not react by discouraging hedging altogether.",
           "reteachPrerequisiteId": null
         },
         {
@@ -4496,6 +4553,13 @@
           "revealedBy": "'Can' used for epistemic possibility where 'could' or 'may' is expected.",
           "response": "Writers whose other languages use one modal for both ability and possibility need to see that 'can' expresses general possibility (This can be problematic) but not, in positive statements, an inference about a specific case, where 'may', 'might' or 'could' is used (This could be the reason).",
           "reteachPrerequisiteId": "grm.epistemic-modality"
+        },
+        {
+          "pattern": "'Most of people tend to using…'",
+          "kind": "developmental",
+          "revealedBy": "Errors with quantifier + of, tend + to-infinitive and agreement after 'the majority of'.",
+          "response": "Give focused form practice on the grammar of quantifiers and tendency expressions using the learner's own sentences. Do not let these form errors displace feedback on whether the scope of the claim fits the evidence.",
+          "reteachPrerequisiteId": "grm.determiners-quantifiers"
         }
       ],
       "diagnostic": {
@@ -4504,20 +4568,22 @@
         "partialResponse": "Adds a modal ('may cause') but leaves the causal claim and the scope unchanged.",
         "gapResponse": "Leaves the claim unchanged or adds an intensifier."
       },
-      "contextNotes": "Foundation learners need a core set of devices beyond modals and the habit of qualifying generalisations. Pre-sessional and in-sessional courses should connect hedging to evidence and to discipline. Doctoral writers work on reader-oriented hedging and on balancing tentativeness with the need to claim contribution.",
+      "contextNotes": "Foundation learners need a core set of devices beyond modals and the habit of bounding generalisations in essay openings and topic sentences. Undergraduate pre-sessional courses link hedging and scope to evidence and sources in argument essays; postgraduate pre-sessional courses add the hedging of interpretations of data and studies, leading into claim calibration. Undergraduate in-sessional support connects hedging to disciplinary conventions in students' own assignments, while taught postgraduate and doctoral writers mainly revisit it within claim calibration, reader-oriented hedging and the need to claim contribution.",
       "citations": [
         "hyland1998hedging",
         "salagermeyer1994",
         "hyland2005stance",
-        "hylandmilton1997"
+        "hylandmilton1997",
+        "hinkel2004"
       ],
       "reviewNotes": [
-        "hylandmilton1997 is a proposed reference; the claim about L2 students' narrower range is attributed to it alone and should be removed or re-sourced if the reference is not verified."
+        "Review response (R1-15, R1-09): sta.generalisation-qualification has been merged into this topic, which now covers quantifiers, frequency and tendency expressions and scope limiters alongside hedging devices; its 'sweeping to bounded' activity and quantifier-grammar difficulty are included here. The range stays B1+–C2 with B2 as the core band: bounding generalisations is taught from B1+, and reader-oriented hedging in research writing continues to C2.",
+        "Hyland and Milton (1997) compared school leavers' examination scripts, not university writing; use it to motivate attention to range and placement, not as a description of any group's academic writing."
       ]
     },
     {
       "topicId": "sta.boosters",
-      "summary": "Hyland treats boosters as the counterpart of hedges in projecting commitment and solidarity. Learner-corpus research collected in Granger (1998), including work on adjective intensification, together with Hyland and Milton's comparison of L1 and L2 student writing, points to overstatement and speech-like intensification as common learner patterns, while Aull and Lancaster report differences in stance markers between first-year and more advanced writers. Teach boosters with hedges as a single certainty continuum, and treat intensifiers as a register issue.",
+      "summary": "Hyland treats boosters as the counterpart of hedges in projecting commitment and solidarity. Lorenz's chapter in Granger's learner-corpus collection on adjective intensification in advanced learners' essays, and Hyland and Milton's comparison of Hong Kong and British school leavers' examination scripts, report more overstatement and speech-like intensification in the learner corpora than in the comparison corpora, while Aull and Lancaster report differences in stance markers between first-year and more advanced writers. Because these are differences from particular reference corpora, expert writing in the learner's field is the better model. Teach boosters with hedges as a single certainty continuum, and treat intensifiers as a register issue.",
       "activities": [
         {
           "title": "Certainty cline",
@@ -4583,7 +4649,7 @@
         "hylandmilton1997"
       ],
       "reviewNotes": [
-        "The attribution of adjective-intensification findings to the Granger (1998) collection refers to a chapter on overstatement in advanced learner writing; the chapter author should be named if the collection is cited in teacher materials."
+        "The adjective-intensification findings come from Lorenz's chapter in the Granger (1998) collection; name the chapter author when the collection is cited in teacher materials."
       ]
     },
     {
@@ -4771,10 +4837,10 @@
           "reteachPrerequisiteId": "sta.metadiscourse"
         },
         {
-          "pattern": "'As a student, I have no right to say I argue.'",
-          "kind": "affective",
-          "revealedBy": "Avoidance of the originator role even when the writer is making an original argument; hedged and depersonalised contributions.",
-          "response": "Discuss authorial roles as part of developing academic identity; legitimate the student's right to argue while keeping claims calibrated.",
+          "pattern": "'The researcher believes that…', or 'we' for a single author, used to avoid 'I'.",
+          "kind": "conceptual",
+          "revealedBy": "Third-person self-reference or exclusive 'we' in single-authored assignments, sometimes switching between forms within one text.",
+          "response": "Discuss the options and their effect on the reader, and check discipline and module guidance: exclusive 'we' for one author is conventional in some fields, such as mathematics, but reads oddly in others. Ask the learner to choose one form deliberately and use it consistently.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -4791,7 +4857,9 @@
         "hyland2002authority",
         "hylandjiang2017"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R5-01): a student-status ('I have no right to argue') difficulty was replaced with a self-mention-specific pattern so that the deference figure does not recur across topics."
+      ]
     },
     {
       "topicId": "sta.engagement-markers",
@@ -4860,9 +4928,7 @@
         "hyland2001reader",
         "changswales1999"
       ],
-      "reviewNotes": [
-        "hyland2001reader is a proposed reference; the engagement account is also supported by hyland2005stance."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "sta.averral-attribution",
@@ -4904,10 +4970,10 @@
           "reteachPrerequisiteId": "cit.why-cite"
         },
         {
-          "pattern": "Presenting source content as general fact because the source is an authority.",
+          "pattern": "'Motivation is the most important factor in language learning', where this is one source's claim written as established fact.",
           "kind": "prior-schooling",
-          "revealedBy": "Claims from a single study stated as facts without attribution; textbook-style prose in literature reviews.",
-          "response": "Distinguish established knowledge from claims made by particular studies; ask 'who says so, and on what basis?'.",
+          "revealedBy": "Claims from a single study stated without attribution, especially where the learner's earlier study relied on textbooks that present knowledge as settled and unattributed; textbook-style prose in literature reviews.",
+          "response": "Distinguish established knowledge from claims made by particular studies; ask 'who says so, and on what basis?', and compare how a textbook and a research article attribute the same idea.",
           "reteachPrerequisiteId": null
         },
         {
@@ -4973,9 +5039,9 @@
         },
         {
           "pattern": "'If I mention the other side, my argument will look weak.'",
-          "kind": "prior-schooling",
+          "kind": "conceptual",
           "revealedBy": "One-sided essays with no acknowledgement of counter-arguments; feedback asking for consideration of alternative views.",
-          "response": "Show high-rated exemplars that concede and counter, and discuss how acknowledging objections builds credibility.",
+          "response": "This is a common rationale among novice writers of any background. Show high-rated exemplars that concede and counter, and discuss how acknowledging objections can strengthen credibility with an academic reader.",
           "reteachPrerequisiteId": null
         },
         {
@@ -5002,7 +5068,7 @@
     },
     {
       "topicId": "sta.dialogic-positioning",
-      "summary": "Martin and White's engagement system models how texts acknowledge or suppress alternative voices. Chang and Schleppegrell made these resources explicit for L2 social-science writers and argue that explicit metalanguage helps advanced learners take effective stances; Lancaster found that higher-graded upper-level student papers more often combined acknowledging and countering alternative views. Introduce a reduced metalanguage ('opening up' and 'closing down' the discussion) before the full system, and analyse disciplinary exemplars rather than invented sentences.",
+      "summary": "Martin and White's engagement system models how texts acknowledge or suppress alternative voices. Chang and Schleppegrell made these resources explicit for L2 social-science writers and argue that explicit metalanguage helps advanced learners take effective stances; Lancaster found that higher-graded upper-level student papers more often combined acknowledging and countering alternative views. Introduce a reduced metalanguage ('opening up' and 'closing down' the discussion) before the full system, and analyse disciplinary exemplars rather than invented sentences. Note that 'engagement' in appraisal theory differs from Hyland's 'engagement' (reader pronouns, directives, questions; see sta.engagement-markers), and this topic's name avoids the term to prevent confusion.",
       "activities": [
         {
           "title": "Open or close?",
@@ -5098,10 +5164,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "'Who am I to criticise a published professor?'",
-          "kind": "affective",
-          "revealedBy": "Literature reviews that summarise without evaluation; feedback asking for critical engagement.",
-          "response": "Show that critique is an expected scholarly practice and model respectful evaluative language; start with evaluating the fit of a study to the learner's own question. This hesitation is common among novice writers of every background, including first-language English undergraduates, so do not treat it as a marker of particular educational systems.",
+          "pattern": "'This study is perhaps maybe slightly limited in some ways.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Criticism so heavily mitigated and so vague that the reader cannot tell what the problem is or whether it matters, often after instruction on politeness and hedging.",
+          "response": "Teach mitigation as one device per criticism, attached to a specific target and its consequence (The small sample limits how far these findings generalise). Contrast it with the unmitigated version in the next difficulty, so that directness is seen as a scale rather than a choice between rude and polite.",
           "reteachPrerequisiteId": null
         },
         {
@@ -5132,7 +5198,9 @@
         "petric2007",
         "feakswales2009litrev"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response (R5-01): the earlier 'Who am I to criticise…?' difficulty has been replaced with a topic-specific pattern. Hesitancy to critique published work is kept in the anchor topics crt.concept, ess.criticality and res.literature-review, where it is framed as common among novice writers of all backgrounds."
+      ]
     },
     {
       "topicId": "sta.authorial-voice",
@@ -5268,9 +5336,7 @@
         "hyland2005metadiscourse",
         "hyland2007gloss"
       ],
-      "reviewNotes": [
-        "hyland2007gloss is a proposed reference; the core claims are also supported by hyland2005metadiscourse."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "sta.spoken-stance",
@@ -5305,10 +5371,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "Avoiding disagreement in seminars, or using only 'I think'.",
-          "kind": "affective",
-          "revealedBy": "Silence or agreement in discussion despite reservations; a narrow range of opinion frames.",
-          "response": "Provide low-stakes rehearsal of mitigated disagreement and discuss seminar expectations; do not treat reticence as a lack of ideas.",
+          "pattern": "'I think…' as the only way of signalling a view, or agreeing aloud despite reservations.",
+          "kind": "developmental",
+          "revealedBy": "A narrow range of opinion frames; silence or agreement in discussion followed by reservations expressed later in writing or private conversation.",
+          "response": "Build a repertoire of mitigated agreement and disagreement frames and rehearse them in low-stakes discussion. Do not treat reticence as a lack of ideas, and where the assessment allows, accept prepared points or written and online contributions as alternative modes of participation.",
           "reteachPrerequisiteId": null
         },
         {
@@ -5322,7 +5388,7 @@
           "pattern": "Missing a lecturer's sceptical or ironic stance.",
           "kind": "developmental",
           "revealedBy": "Notes that record a view the lecturer was signalling doubt about; confusion when the lecturer later rejects it.",
-          "response": "Recognising irony and scepticism from the voice is demanding for most L2 listeners and depends on cultural familiarity; focused listening to prosodic stance cues helps, particularly for listeners whose other languages carry such meanings mainly through particles or word choice.",
+          "response": "Recognising irony and scepticism from the voice is demanding for most L2 listeners and depends on cultural familiarity; focused listening to prosodic stance cues may help, particularly for listeners whose other languages carry such meanings mainly through particles or word choice.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -5342,12 +5408,12 @@
   ],
   "authorNotes": [
     "coh.signalling-nouns overlaps voc.abstract-shell-nouns and grm.reference-pronouns (both mention 'this + summarising noun'). I treat voc.abstract-shell-nouns as the lexical prerequisite and grm.reference-pronouns as the grammatical prerequisite; VOC and GRM authors should not make either depend on coh.signalling-nouns, or a cycle will form.",
-    "coh.connector-precision and coh.linking-adverbials overlap grm.linking-adverbial-placement and phr.bundles-text-oriented. I deliberately did not use grm.linking-adverbial-placement as a prerequisite, because placement presupposes knowing the connectors; I suggest grm.linking-adverbial-placement depend on coh.linking-adverbials.",
+    "coh.linking-adverbials now absorbs coh.connector-precision (R1-15). It overlaps grm.linking-adverbial-placement and phr.bundles-text-oriented; grm.linking-adverbial-placement depends on it, and it does not depend on grm.linking-adverbial-placement.",
     "coh.given-new depends softly on grm.passive-voice. If the GRM author makes grm.passive-voice depend on coh.given-new (function of the passive), one direction must be dropped at integration; I suggest keeping form before function as here.",
     "Gap: Hyland's interactive categories of endophoric markers ('see Section 3', 'as noted above') and evidentials have no topic. They are partly covered by coh.frame-markers and dat.referring-to-visuals; consider broadening coh.frame-markers' scope or adding a topic.",
     "coh.text-patterns and fun.problem-solution overlap (situation–problem–response–evaluation appears in both scope notes). I scope coh.text-patterns as recognising and using the family of patterns as reader expectations, and fun.problem-solution as the problem–solution function and its language; the edge fun.problem-solution ← coh.text-patterns encodes this.",
-    "coh.spoken-signposting overlaps lis.lecture-discourse-markers and prs.signposting. I authored it as the shared linguistic resource; I suggest lis.lecture-discourse-markers and prs.signposting take it as a prerequisite rather than the reverse.",
-    "coh.writer-responsibility: Hinds's typology is contested. Consider renaming the topic 'Explicitness and reader expectations' so the taxonomy does not appear to endorse a national typology. I suggest idn.intercultural-rhetoric depend on this topic rather than the reverse.",
+    "coh.spoken-signposting was merged into prs.signposting (R1-18). Spoken signposting is no longer in this group's scope; the COH domain summary points to the presentation and listening domains.",
+    "coh.writer-responsibility has been reframed around making reasoning explicit for a given reader (R5-21); the Hinds typology and its critiques belong to idn.intercultural-rhetoric. If the two are linked, idn.intercultural-rhetoric should depend on this topic rather than the reverse.",
     "Cycle-risk edges to check at integration: coh.paragraph-transitions ← par.topic-sentences and coh.writer-responsibility ← wpr.audience-purpose assume the PAR/WPR topics are more foundational. I removed earlier edges from par.paragraph-unit and ess.essay-structure because, in other groups' current parts, those topics sit downstream of coh.linking-adverbials and sta.hedging (par.paragraph-unit ← rds.main-ideas ← rds.paragraph-structure-reading ← coh.linking-adverbials). Making the concept of a paragraph depend on reading topics and connectors looks inverted and may be worth reviewing.",
     "fun.describing-process overlaps dat.describing-diagrams; fun.hypothesising overlaps dse.hypothesis-language. The DSE and DAT authors appear to have made their topics depend on the FUN topics, which matches my intended direction.",
     "Several FUN topics start at B1 while some grammar and vocabulary prerequisites authored by other groups start at B1+ or B2 (for example voc.evaluative-lexis B2, grm.non-finite-clauses B2, grm.nominalisation B2). I dropped those edges instead of raising the functions' entry levels, since foundation learners meet these functions early; the more advanced realisations (nominalised causation, precise evaluative lexis) remain in the mastery statements.",
@@ -5357,7 +5423,7 @@
     "fun.evaluating depends softly on crt.description-analysis-evaluation; the CRT author should not make that topic depend on fun.evaluating.",
     "crt.description-analysis-evaluation currently depends on fun.explaining (CRT part), and fun.evaluating depends on it; this is acyclic, but the CRT author should not add an edge from fun.evaluating or fun.problem-solution.",
     "sta.metadiscourse is modelled as a synthesising concept learnt after learners have met frame markers and hedging, so it is not a prerequisite of sta.hedging or sta.boosters. If other strands treat it as an entry-point concept, the direction of these edges should be reconsidered.",
-    "sta.generalisation-qualification overlaps reg.vague-overgeneralised, num.approximation and the approximator subtype of sta.hedging. I did not link it to reg.vague-overgeneralised because either direction is plausible; I suggest reg.vague-overgeneralised (register awareness) be the prerequisite and this topic the linguistic resource.",
+    "sta.hedging now absorbs sta.generalisation-qualification (R1-15) and overlaps reg.vague-overgeneralised and num.approximation. I have not linked it to reg.vague-overgeneralised because either direction is plausible; I suggest reg.vague-overgeneralised (register awareness) be the prerequisite and sta.hedging the linguistic resource.",
     "sta.self-mention overlaps reg.impersonality-presence heavily. I suggest reg.impersonality-presence depend on sta.self-mention, or that the two be merged; I have not linked them to avoid a cycle.",
     "Six of my edges are formally implied by longer chains that run through other groups' topics, but each encodes a distinct direct dependency and is kept deliberately: sta.claim-calibration ← sta.hedging, sta.self-mention ← grm.passive-voice, sta.evaluating-others-language ← sta.concession-language, fun.problem-solution ← fun.cause-effect, fun.hypothesising ← grm.epistemic-modality and fun.recommending ← grm.complement-clauses (mandative clauses).",
     "sta.concession-language overlaps arg.rebuttal-concession. I suggest arg.rebuttal-concession depend on sta.concession-language (language resource before argumentative procedure), not the reverse.",

@@ -4917,7 +4917,7 @@
           "pattern": "Translating clause by clause carries over L1 information order and clause chaining, producing very long or topic–comment sentences that are hard to parse in English.",
           "kind": "L1-transfer",
           "revealedBy": "Sentences that are grammatical in parts but difficult to follow; unusual sentence boundaries.",
-          "response": "Draft in English from notes, then edit sentence boundaries and information order. Explain the mechanism in linguistic terms rather than attributing it to a ‘culture’.",
+          "response": "Try drafting from notes rather than translating clause by clause, then edit sentence boundaries and information order. Explain the mechanism in linguistic terms rather than attributing it to a ‘culture’.",
           "reteachPrerequisiteId": null
         }
       ],

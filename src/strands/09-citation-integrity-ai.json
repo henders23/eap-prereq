@@ -3839,48 +3839,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "shi2011",
-      "apa": "Shi, L. (2011). Common knowledge, learning, and citation practices in university writing. *Research in the Teaching of English, 45*(3), 308–334.",
-      "note": "High confidence that this article exists with these details (interview-based study of students' and professors' judgements about citing common knowledge). No DOI given; verify page range."
-    },
-    {
-      "key": "perkins2024aias",
-      "apa": "Perkins, M., Furze, L., Roe, J., & MacVaugh, J. (2024). The Artificial Intelligence Assessment Scale (AIAS): A framework for ethical integration of generative AI in educational assessment. *Journal of University Teaching and Learning Practice, 21*(6).",
-      "note": "Fairly confident about existence, authors, title, journal and year; verify volume and issue. DOI deliberately omitted."
-    },
-    {
-      "key": "mcadoo2023",
-      "apa": "McAdoo, T. (2023, April 7). *How to cite ChatGPT*. APA Style Blog. https://apastyle.apa.org/blog/how-to-cite-chatgpt",
-      "note": "Fairly confident that this APA Style blog post exists with this author and title; verify the date and URL. Guidance may have been updated since."
-    },
-    {
-      "key": "weberwulff2023",
-      "apa": "Weber-Wulff, D., Anohina-Naumeca, A., Bjelobaba, S., Foltýnek, T., Guerrero-Dib, J., Popoola, O., Šigut, P., & Waddington, L. (2023). Testing of detection tools for AI-generated text. *International Journal for Educational Integrity, 19*, Article 26.",
-      "note": "High confidence in existence and main details; verify author list and article number. DOI deliberately omitted. Cited for the general finding that the tools tested were neither accurate nor reliable."
-    },
-    {
-      "key": "bretagmahmud2009",
-      "apa": "Bretag, T., & Mahmud, S. (2009). Self-plagiarism or appropriate textual re-use? *Journal of Academic Ethics, 7*(3), 193–205.",
-      "note": "Fairly confident about existence, authors, title, journal and year; volume, issue and pages should be verified. DOI deliberately omitted."
-    },
-    {
-      "key": "bretag2019",
-      "apa": "Bretag, T., Harper, R., Burton, M., Ellis, C., Newton, P., Rozenberg, P., Saddiqui, S., & van Haeringen, K. (2019). Contract cheating: A survey of Australian university students. *Studies in Higher Education, 44*(11), 1837–1856.",
-      "note": "High confidence in existence and main details (large survey of students at Australian universities). Verify page range; DOI deliberately omitted. Summary of findings (association with perceived opportunity and dissatisfaction with the teaching and learning environment) should be checked against the article."
-    },
-    {
-      "key": "newton2018",
-      "apa": "Newton, P. M. (2018). How common is commercial contract cheating in higher education and is it increasing? A systematic review. *Frontiers in Education, 3*, Article 67.",
-      "note": "Fairly confident in existence and details; verify article number. Cited only for the general finding that self-reported rates appear to have increased over time."
-    },
-    {
-      "key": "allea2023",
-      "apa": "ALLEA – All European Academies. (2023). *The European code of conduct for research integrity* (Revised ed.). ALLEA.",
-      "note": "Confident that a revised edition was published in 2023 (previous edition 2017). Verify exact title formatting."
-    }
-  ],
   "authorNotes": [
     "cit.why-cite overlaps heavily with src.source-functions, and src.source-functions overlaps with cit.citation-functions. I scoped cit.why-cite as the rationale for citing (B1 entry point), src.source-functions as a prerequisite of cit.citation-functions, and cit.citation-functions as the advanced analytic typology (Petrić-style). Consider merging cit.why-cite and src.source-functions, or rescoping src.source-functions explicitly as 'what sources do in my paragraph'.",
     "Assumed edge directions that other groups must not reverse (to avoid global cycles): src.quoting -> cit.locators; src.source-functions, src.citation-forms and src.reporting-verbs -> cit.citation-functions; dig.reference-managers and edt.proofreading -> cit.accuracy-consistency; voc.abbreviations-latin -> cit.author-date-in-text; sen.capitalisation and inf.source-types -> cit.reference-list; inf.scholarly-communication -> cit.diverse-sources.",

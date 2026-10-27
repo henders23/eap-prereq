@@ -4352,47 +4352,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "fahnestocksecor1982",
-      "kind": "book",
-      "apa": "Fahnestock, J., & Secor, M. (1982). *A rhetoric of argument*. Random House.",
-      "note": "Confident that this composition textbook organises argument around stasis-based claim types (fact/categorical, cause, evaluation, proposal); less certain of the first-edition publisher (later editions were published by McGraw-Hill). No DOI. Supports arg.claim-types; andrews2010 or walton2006 could substitute if unverifiable."
-    },
-    {
-      "key": "kuhncheney2000",
-      "kind": "article",
-      "apa": "Kuhn, D., Cheney, R., & Weinstock, M. (2000). The development of epistemological understanding. *Cognitive Development, 15*(3), 309–328.",
-      "doi": "10.1016/S0885-2014(00)00030-7",
-      "note": "High confidence in the reference and its absolutist–multiplist–evaluativist framework; DOI believed correct but should be verified."
-    },
-    {
-      "key": "finlay2002",
-      "kind": "article",
-      "apa": "Finlay, L. (2002). \"Outing\" the researcher: The provenance, process, and practice of reflexivity. *Qualitative Health Research, 12*(4), 531–545.",
-      "doi": "10.1177/104973202129120052",
-      "note": "High confidence in authors, title, journal and pages; DOI believed correct but should be verified. Cited for the typology of reflexive variants and the caution against self-indulgent reflexivity."
-    },
-    {
-      "key": "johnsonblair2006",
-      "kind": "book",
-      "apa": "Johnson, R. H., & Blair, J. A. (2006). *Logical self-defense*. International Debate Education Association. (Original work published 1977)",
-      "note": "High confidence that this text introduced the relevance–sufficiency–acceptability criteria for good arguments and teaches fallacies in relation to them; verify the IDEA reprint year and publisher details. No DOI."
-    },
-    {
-      "key": "mauranen2012",
-      "kind": "book",
-      "apa": "Mauranen, A. (2012). *Exploring ELF: Academic English shaped by non-native speakers*. Cambridge University Press.",
-      "note": "High confidence in author, year, title and publisher; book based on the ELFA corpus of spoken academic English as a lingua franca. DOI not given."
-    },
-    {
-      "key": "holliday1999",
-      "kind": "article",
-      "apa": "Holliday, A. (1999). Small cultures. *Applied Linguistics, 20*(2), 237–264.",
-      "doi": "10.1093/applin/20.2.237",
-      "note": "High confidence in the reference; DOI believed correct but should be verified. Cited for the small-cultures alternative to large-culture national stereotypes."
-    }
-  ],
   "authorNotes": [
     "arg.position overlaps ess.thesis-statement; I recommend ess.thesis-statement take arg.position (and arg.claim-types) as prerequisites, and that ess.* topics generally depend on ARG rather than the reverse. I have not linked any ARG topic to ess.* or ges.* topics.",
     "arg.extended-argument overlaps ess.body-organisation; recommend ess.body-organisation take arg.extended-argument as a soft prerequisite.",

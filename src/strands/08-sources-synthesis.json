@@ -4087,36 +4087,6 @@
       "reviewNotes": []
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "grudniewicz2019",
-      "kind": "article",
-      "apa": "Grudniewicz, A., Moher, D., Cobey, K. D., Bryson, G. L., Cukier, S., Allen, K., … Lalu, M. M. (2019). Predatory journals: No definition, no defence. *Nature, 576*(7786), 210–212.",
-      "doi": "10.1038/d41586-019-03759-y",
-      "note": "High confidence in title, journal, year, volume, pages, first three authors and DOI. The full author list (a large consensus group) must be completed from the publisher record; I have not reproduced names I am unsure of. Supports the claim that definitions of predatory publishing are contested and the consensus-definition effort."
-    },
-    {
-      "key": "page2021prisma",
-      "kind": "article",
-      "apa": "Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., … Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ, 372*, n71.",
-      "doi": "10.1136/bmj.n71",
-      "note": "High confidence in title, journal, year, article number, first authors, last author and DOI. Full author list to be completed from the publisher record. Cited only for the existence and purpose of the reporting guideline."
-    },
-    {
-      "key": "arksey2005",
-      "kind": "article",
-      "apa": "Arksey, H., & O'Malley, L. (2005). Scoping studies: Towards a methodological framework. *International Journal of Social Research Methodology, 8*(1), 19–32.",
-      "doi": "10.1080/1364557032000119616",
-      "note": "High confidence in all details. Cited for the methodological framework for scoping studies, including transparent searching and study selection."
-    },
-    {
-      "key": "shi2012",
-      "kind": "article",
-      "apa": "Shi, L. (2012). Rewriting and paraphrasing source texts in second language writing. *Journal of Second Language Writing, 21*(2), 134–148.",
-      "doi": "10.1016/j.jslw.2012.03.003",
-      "note": "Moderately high confidence in all details; verify pages and DOI. Cited for the finding that instructors and students disagreed about whether given paraphrases were acceptable, which supports presenting acceptable paraphrase as partly a matter of local expectation."
-    }
-  ],
   "authorNotes": [
     "inf.source-types and inf.scholarly-communication overlap on output types (journals, monographs, grey literature). I scoped source-types as classification by function and readership and scholarly-communication as the production process (peer review, versions, preprints), with source-types as a soft prerequisite of scholarly-communication. inf.source-types is the domain's only entry point.",
     "inf.research-question (focusing a topic for searching) overlaps with res.research-questions. I recommend res.research-questions depend on inf.research-question, not the reverse.",

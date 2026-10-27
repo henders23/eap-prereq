@@ -4730,67 +4730,6 @@
       "reviewNotes": []
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "alderson1984",
-      "kind": "chapter",
-      "apa": "Alderson, J. C. (1984). Reading in a foreign language: A reading problem or a language problem? In J. C. Alderson & A. H. Urquhart (Eds.), *Reading in a foreign language*. Longman.",
-      "note": "High confidence in authors, title, editors, year and publisher. Page range omitted because I cannot confirm it; to be added on verification. Cited for the language-threshold argument."
-    },
-    {
-      "key": "jeonyamashita2014",
-      "kind": "article",
-      "apa": "Jeon, E. H., & Yamashita, J. (2014). L2 reading comprehension and its correlates: A meta-analysis. *Language Learning, 64*(1), 160–212.",
-      "doi": "10.1111/lang.12034",
-      "note": "High confidence in reference and DOI. Cited for the finding that L2 vocabulary and grammar knowledge are among the strongest correlates of L2 reading comprehension."
-    },
-    {
-      "key": "brysbaert2019",
-      "kind": "article",
-      "apa": "Brysbaert, M. (2019). How many words do we read per minute? A review and meta-analysis of reading rate. *Journal of Memory and Language, 109*, 104047.",
-      "doi": "10.1016/j.jml.2019.104047",
-      "note": "High confidence. Cited for adult L1 English silent reading rates (roughly 240 words per minute for non-fiction) as orientation for realistic targets."
-    },
-    {
-      "key": "delgado2018",
-      "kind": "article",
-      "apa": "Delgado, P., Vargas, C., Ackerman, R., & Salmerón, L. (2018). Don't throw away your printed books: A meta-analysis on the effects of reading media on reading comprehension. *Educational Research Review, 25*, 23–38.",
-      "doi": "10.1016/j.edurev.2018.09.003",
-      "note": "High confidence in reference; DOI believed correct but should be verified. Cited for a paper advantage in comprehension of expository texts, particularly under time constraints."
-    },
-    {
-      "key": "perfetti1999documents",
-      "kind": "chapter",
-      "apa": "Perfetti, C. A., Rouet, J.-F., & Britt, M. A. (1999). Toward a theory of documents representation. In H. van Oostendorp & S. R. Goldman (Eds.), *The construction of mental representations during reading*. Lawrence Erlbaum.",
-      "note": "High confidence in authors, title, editors, year and publisher; page range omitted pending verification. Cited for the documents model of multiple-text comprehension (intertext and situation models)."
-    },
-    {
-      "key": "carrelleisterhold1983",
-      "kind": "article",
-      "apa": "Carrell, P. L., & Eisterhold, J. C. (1983). Schema theory and ESL reading pedagogy. *TESOL Quarterly, 17*(4), 553–573.",
-      "doi": "10.2307/3586613",
-      "note": "High confidence. Cited for content and formal schemata in L2 reading and pre-reading knowledge-building."
-    },
-    {
-      "key": "kintsch1998",
-      "kind": "book",
-      "apa": "Kintsch, W. (1998). *Comprehension: A paradigm for cognition*. Cambridge University Press.",
-      "note": "High confidence. Cited for the construction–integration model, the situation model and the role of knowledge-based inference."
-    },
-    {
-      "key": "perfetti2007",
-      "kind": "article",
-      "apa": "Perfetti, C. (2007). Reading ability: Lexical quality to comprehension. *Scientific Studies of Reading, 11*(4), 357–383.",
-      "doi": "10.1080/10888430701530730",
-      "note": "High confidence in reference; DOI believed correct but should be verified. Cited for the lexical quality hypothesis linking quality of word knowledge to recognition efficiency and comprehension."
-    },
-    {
-      "key": "plonsky2011",
-      "kind": "article",
-      "apa": "Plonsky, L. (2011). The effectiveness of second language strategy instruction: A meta-analysis. *Language Learning, 61*(4), 993–1038.",
-      "note": "Moderately high confidence in volume, issue and pages; DOI omitted as I cannot confirm it. Cited for the overall positive but variable effects of L2 strategy instruction, moderated by context and learner variables."
-    }
-  ],
   "authorNotes": [
     "rds.skimming and rds.scanning as two separate topics risk reinforcing the test-driven over-emphasis on speeded strategies relative to careful reading; consider merging them into one 'selective reading' topic or reducing scanning's stage range further (I limited scanning to foundation and pre-sessional).",
     "rds.fact-opinion-claim: the skeleton name preserves the school-level fact/opinion binary that the topic argues against. Suggest renaming to 'Distinguishing claims, evidence and their epistemic status' (I kept the skeleton name and reframed the description).",

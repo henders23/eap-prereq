@@ -2521,32 +2521,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "blumkulka1989",
-      "kind": "book",
-      "apa": "Blum-Kulka, S., House, J., & Kasper, G. (Eds.). (1989). *Cross-cultural pragmatics: Requests and apologies*. Ablex.",
-      "note": "High confidence: the standard edited volume reporting the Cross-Cultural Speech Act Realization Project (CCSARP). No DOI. Supports the request and apology strategy categories used in prg.requests and prg.apologising-explaining."
-    },
-    {
-      "key": "hyland2004graduates",
-      "kind": "article",
-      "apa": "Hyland, K. (2004). Graduates' gratitude: The generic structure of dissertation acknowledgements. *English for Specific Purposes, 23*(3), 303–324.",
-      "note": "High confidence in author, year, title and journal. Volume, issue and page range are believed correct but should be checked; DOI omitted because I am not certain of it. Supports the move structure (reflecting, thanking, announcing) cited in prg.acknowledgements."
-    },
-    {
-      "key": "bardoviharlig1990",
-      "kind": "article",
-      "apa": "Bardovi-Harlig, K., & Hartford, B. S. (1990). Congruence in native and nonnative conversations: Status balance in the academic advising session. *Language Learning, 40*(4), 467–501.",
-      "note": "High confidence in authors, year, title and journal; issue and pages should be verified. DOI omitted. Used for differences in suggestions, rejections and status-preserving strategies in advising sessions (prg.office-hours)."
-    },
-    {
-      "key": "coffin2005",
-      "kind": "article",
-      "apa": "Coffin, C., Painter, C., & Hewings, A. (2005). Patterns of debate in tertiary level asynchronous electronic conferencing. *International Journal of Educational Research, 43*(7–8), 464–480.",
-      "note": "Moderate confidence: I believe the authors, title, journal and year are correct, but volume, issue and pages need checking. DOI omitted. Used only for the general claim that argument in tertiary asynchronous forums varies and needs attention (prg.forum-posts). If it is unverifiable, remove it; hyland2005stance remains as that topic's citation."
-    }
-  ],
   "authorNotes": [
     "Cross-group cycle risk: acu.disciplinary-knowledge <- crt.evidence-types, acu.transition <- idn.intercultural-communication, acu.critical-eap <- idn.standards-legitimacy and acu.emi-tne <- idn.elf. The CRT and IDN authors should not make those topics depend on ACU topics.",
     "voc.university-terminology and acu.university-structures / acu.teaching-formats develop together. I left ACU topics without VOC prerequisites so that VOC can safely add voc.university-terminology <- acu.university-structures (soft) if it wants to.",

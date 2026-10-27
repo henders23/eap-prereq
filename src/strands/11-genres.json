@@ -3933,23 +3933,6 @@
       "reviewNotes": []
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "horowitz1986exam",
-      "apa": "Horowitz, D. (1986). Essay examination prompts and the teaching of academic writing. *English for Specific Purposes, 5*(2), 107–120.",
-      "note": "High confidence in author, year, title and journal; moderate confidence in volume, issue and page range, which should be checked. No DOI given because I am not certain of it. Cited for the general claim that exam essay prompts ask students to select and organise known content in response to specific demands."
-    },
-    {
-      "key": "mewburnthomson2013",
-      "apa": "Mewburn, I., & Thomson, P. (2013). Why do academics blog? An analysis of audiences, purposes and challenges. *Studies in Higher Education, 38*(8), 1105–1119.",
-      "note": "High confidence in authors, year, title and journal; moderate confidence in volume, issue and pages, which should be checked. DOI omitted because I am not certain of it. Cited for the general finding that academic blogs serve varied audiences and purposes."
-    },
-    {
-      "key": "hyland2010proximity",
-      "apa": "Hyland, K. (2010). Constructing proximity: Relating to readers in popular and professional science. *Journal of English for Academic Purposes, 9*(2), 116–127.",
-      "note": "High confidence in author, year, title and journal; moderate confidence in issue and page range. DOI omitted. Cited for the general claim that popular and professional science texts construct relationships with readers differently."
-    }
-  ],
   "authorNotes": [
     "ess.essay-types (Essay Construction) overlaps substantially with the GES essay genres (argumentative, discussion, compare-and-contrast, explanation, problem–solution). Suggest scoping ess.essay-types as a brief conceptual overview that these genre topics may take as a soft prerequisite, or retiring it in favour of ges.genre-families.",
     "ges.genre-concept overlaps with acu.discourse-communities. I have not linked them to avoid a potential cross-strand cycle; whichever strand links them should choose one direction (suggested: acu.discourse-communities as a soft prerequisite of ges.genre-concept).",

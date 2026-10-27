@@ -5175,56 +5175,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "min2006",
-      "kind": "article",
-      "apa": "Min, H.-T. (2006). The effects of trained peer review on EFL students' revision types and writing quality. *Journal of Second Language Writing, 15*(2), 118–141.",
-      "note": "High confidence in author, year, title and journal; volume, issue and pages believed correct but should be verified. Cited for the general finding that training peer reviewers increased the use of peer comments in revision and improved revision quality. DOI not given because it is not certain."
-    },
-    {
-      "key": "harwood2009",
-      "kind": "article",
-      "apa": "Harwood, N., Austin, L., & Macaulay, R. (2009). Proofreading in a UK university: Proofreaders' beliefs, practices, and experiences. *Journal of Second Language Writing, 18*(3), 166–190.",
-      "note": "High confidence in authors, year, title and journal; volume, issue and pages believed correct but should be verified. Cited for the finding that proofreaders' interventions varied widely, from surface correction to content changes. DOI not given because it is not certain."
-    },
-    {
-      "key": "braddock1974",
-      "kind": "article",
-      "apa": "Braddock, R. (1974). The frequency and placement of topic sentences in expository prose. *Research in the Teaching of English, 8*(3), 287–302.",
-      "note": "High confidence in author, year, title and journal; issue and page range believed correct but should be verified. Cited only for the general finding that many paragraphs in professional expository prose lack an explicit opening topic sentence; no specific percentages are claimed. No DOI given."
-    },
-    {
-      "key": "caplanjohns2019",
-      "kind": "book",
-      "apa": "Caplan, N. A., & Johns, A. M. (Eds.). (2019). *Changing practices for the L2 writing classroom: Moving beyond the five-paragraph essay*. University of Michigan Press.",
-      "note": "High confidence that this edited volume exists with these editors, year and publisher; exact subtitle wording should be verified. Cited for its critique of the five-paragraph essay as a model for university writing. No DOI (book)."
-    },
-    {
-      "key": "elbow1973",
-      "kind": "book",
-      "apa": "Elbow, P. (1973). *Writing without teachers*. Oxford University Press.",
-      "note": "High confidence in the bibliographic details; the book is the standard source for freewriting as a generative technique. No DOI (book)."
-    },
-    {
-      "key": "rose1980",
-      "kind": "article",
-      "apa": "Rose, M. (1980). Rigid rules, inflexible plans, and the stifling of language: A cognitivist analysis of writer's block. *College Composition and Communication, 31*(4), 389–401.",
-      "note": "High confidence in author, year, title and journal issue (the same issue as Sommers, 1980); page range believed correct but should be verified. DOI not given because it is not certain."
-    },
-    {
-      "key": "wangwen2002",
-      "kind": "article",
-      "apa": "Wang, W., & Wen, Q. (2002). L1 use in the L2 composing process: An exploratory study of 16 Chinese EFL writers. *Journal of Second Language Writing, 11*(3), 225–246.",
-      "note": "Moderately high confidence in all details; volume, issue and pages should be verified. Cited only for the general finding that L1 use varies by composing activity and decreases with L2 proficiency. DOI not given because it is not certain."
-    },
-    {
-      "key": "cumming1989",
-      "kind": "article",
-      "apa": "Cumming, A. (1989). Writing expertise and second-language proficiency. *Language Learning, 39*(1), 81–141.",
-      "note": "Moderately high confidence in all details; pages should be verified. Cited for the finding that writing expertise and L2 proficiency contribute separately to L2 writing performance. DOI not given because it is not certain."
-    }
-  ],
   "authorNotes": [
     "edt.editing-tools overlaps substantially with dig.automated-feedback-tools and gai.language-support. I linked edt.editing-tools to gai.how-genai-works only, so the DIG and GAI authors can make their topics depend on edt.editing-tools or edt.grammar-editing without creating cycles.",
     "edt.grammar-editing overlaps with grm.error-monitoring and fbk.corrective-feedback. I treat grm.error-monitoring as a hard prerequisite and deliberately did not link to fbk.corrective-feedback, to leave the FBK author free to choose the direction.",

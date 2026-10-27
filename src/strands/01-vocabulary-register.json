@@ -5247,68 +5247,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "durrantschmitt2009",
-      "kind": "article",
-      "apa": "Durrant, P., & Schmitt, N. (2009). To what extent do native and non-native writers make use of collocations? *International Review of Applied Linguistics in Language Teaching, 47*(2), 157–177.",
-      "note": "High confidence in authors, year, title and journal; volume, issue and pages believed correct but should be verified. DOI omitted. Cited for the finding that non-native writers rely on frequent collocations and underuse strongly associated, lower-frequency ones."
-    },
-    {
-      "key": "morleyphrasebank",
-      "kind": "web",
-      "apa": "Morley, J. (n.d.). *Academic phrasebank*. The University of Manchester. https://www.phrasebank.manchester.ac.uk/",
-      "note": "The resource and its author are certain; it is continuously updated, so a retrieval date or edition year should be added at verification. Cited only as an example of a function-organised phrase resource."
-    },
-    {
-      "key": "hyland2010proximity",
-      "kind": "article",
-      "apa": "Hyland, K. (2010). Constructing proximity: Relating to readers in popular and professional science. *Journal of English for Academic Purposes, 9*(2), 116–127.",
-      "note": "High confidence in authors, title, journal, volume and issue; page range believed correct but should be verified. DOI deliberately omitted (not certain). Supports reg.non-specialist-audiences."
-    },
-    {
-      "key": "fahnestock1986",
-      "kind": "article",
-      "apa": "Fahnestock, J. (1986). Accommodating science: The rhetorical life of scientific facts. *Written Communication, 3*(3), 275–296.",
-      "note": "High confidence in author, title, journal, year and volume; issue and pages believed correct but should be verified. DOI omitted. Classic study showing that popularisation increases certainty and shifts genre; supports reg.non-specialist-audiences."
-    },
-    {
-      "key": "schmid2000",
-      "kind": "book",
-      "apa": "Schmid, H.-J. (2000). *English abstract nouns as conceptual shells: From corpus to cognition*. Mouton de Gruyter.",
-      "note": "High confidence in author, year, title and publisher. DOI omitted (not certain). Foundational corpus study of shell nouns; supports voc.abstract-shell-nouns."
-    },
-    {
-      "key": "chungnation2003",
-      "kind": "article",
-      "apa": "Chung, T. M., & Nation, P. (2003). Technical vocabulary in specialised texts. *Reading in a Foreign Language, 15*(2), 103–116.",
-      "note": "High confidence in authors, year, title and journal; volume, issue and pages believed correct but should be verified. No DOI (journal is open access without DOIs for this period, to my knowledge). Supports voc.technical-terminology."
-    },
-    {
-      "key": "woodwardkron2008",
-      "kind": "article",
-      "apa": "Woodward-Kron, R. (2008). More than just jargon – the nature and role of specialist language in learning disciplinary knowledge. *Journal of English for Academic Purposes, 7*(4), 234–249.",
-      "note": "Good confidence in author, year, title and journal; volume, issue and pages should be verified. DOI omitted. Supports voc.technical-terminology."
-    },
-    {
-      "key": "gardnerdavies2007",
-      "kind": "article",
-      "apa": "Gardner, D., & Davies, M. (2007). Pointing out frequent phrasal verbs: A corpus-based analysis. *TESOL Quarterly, 41*(2), 339–359.",
-      "note": "High confidence in authors, year, title and journal; volume, issue and pages believed correct but should be verified. DOI omitted. Supports voc.multiword-verbs-register."
-    },
-    {
-      "key": "hunstonfrancis2000",
-      "kind": "book",
-      "apa": "Hunston, S., & Francis, G. (2000). *Pattern grammar: A corpus-driven approach to the lexical grammar of English*. John Benjamins.",
-      "note": "High confidence. Foundational work on lexically specific patterns; supports voc.word-grammar-patterns. DOI omitted."
-    },
-    {
-      "key": "paquot2010",
-      "kind": "book",
-      "apa": "Paquot, M. (2010). *Academic vocabulary in learner writing: From extraction to analysis*. Continuum.",
-      "note": "High confidence in author, year, title and publisher. Learner-corpus study of academic vocabulary for rhetorical functions in learner writing; supports voc.receptive-to-productive."
-    }
-  ],
   "authorNotes": [
     "phr.bundles-text-oriented overlaps with coh.linking-adverbials and coh.connector-precision. I made phr.bundles-text-oriented depend on coh.linking-adverbials; COH authors should not make coh.linking-adverbials depend on PHR topics.",
     "phr.bundles-stance overlaps with sta.hedging, sta.boosters and grm.anticipatory-it. I linked it only to grm.anticipatory-it (hard) and phr.collocation-awareness (hard). A soft link to sta.metadiscourse was removed because, in the current STA draft, sta.metadiscourse sits after sta.hedging, which already depends on grm.anticipatory-it. STA authors may make sta.hedging or sta.boosters depend on phr.bundles-stance without creating a cycle.",

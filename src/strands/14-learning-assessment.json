@@ -4187,63 +4187,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "bjork2013",
-      "apa": "Bjork, R. A., Dunlosky, J., & Kornell, N. (2013). Self-regulated learning: Beliefs, techniques, and illusions. *Annual Review of Psychology, 64*, 417–444.",
-      "doi": "10.1146/annurev-psych-113011-143823",
-      "note": "High confidence in authors, title, venue, volume and pages; DOI believed correct. Used for the claim that learners' judgements of learning are biased by fluency and familiarity and that learners often prefer less effective techniques."
-    },
-    {
-      "key": "gollwitzer1999",
-      "apa": "Gollwitzer, P. M. (1999). Implementation intentions: Strong effects of simple plans. *American Psychologist, 54*(7), 493–503.",
-      "doi": "10.1037/0003-066X.54.7.493",
-      "note": "High confidence. Used only for the general claim that if–then plans support goal attainment; evidence is from social and health psychology."
-    },
-    {
-      "key": "steel2007",
-      "apa": "Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. *Psychological Bulletin, 133*(1), 65–94.",
-      "doi": "10.1037/0033-2909.133.1.65",
-      "note": "High confidence. Used for the claim that procrastination is common and associated with task aversiveness, impulsiveness and the timing of rewards."
-    },
-    {
-      "key": "plonsky2011",
-      "apa": "Plonsky, L. (2011). The effectiveness of second language strategy instruction: A meta-analysis. *Language Learning, 61*(4), 993–1038.",
-      "note": "Fairly high confidence in authors, title, journal, volume, issue and pages; DOI omitted because not certain. Used for the claim that strategy instruction has an overall positive effect that varies by context and strategy type."
-    },
-    {
-      "key": "winstone2017",
-      "apa": "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting learners' agentic engagement with feedback: A systematic review and a taxonomy of recipience processes. *Educational Psychologist, 52*(1), 17–37.",
-      "note": "Fairly high confidence in all details; DOI omitted because not certain. Used for the claim that engagement with feedback depends on learners' recipience processes (self-appraisal, assessment literacy, goal setting and self-regulation, engagement and motivation)."
-    },
-    {
-      "key": "odonovan2004",
-      "apa": "O'Donovan, B., Price, M., & Rust, C. (2004). Know what I mean? Enhancing student understanding of assessment standards and criteria. *Teaching in Higher Education, 9*(3), 325–335.",
-      "note": "Fairly high confidence in authors, title, journal and year; volume, issue and pages believed correct but should be checked; DOI omitted. Used for the claim that explicit criteria alone do not convey tacit standards and need to be combined with exemplars and dialogue."
-    },
-    {
-      "key": "ramirez2011",
-      "apa": "Ramirez, G., & Beilock, S. L. (2011). Writing about testing worries boosts exam performance in the classroom. *Science, 331*(6014), 211–213.",
-      "doi": "10.1126/science.1199427",
-      "note": "High confidence. Used for the claim that brief expressive writing about test worries before an exam improved the performance of highly anxious students in laboratory and classroom studies; later replication results should be checked before strong claims are made."
-    },
-    {
-      "key": "alderson1993washback",
-      "apa": "Alderson, J. C., & Wall, D. (1993). Does washback exist? *Applied Linguistics, 14*(2), 115–129.",
-      "doi": "10.1093/applin/14.2.115",
-      "note": "High confidence. Used for the claim that the influence of tests on teaching and learning (washback) is complex and cannot be assumed to be simple or uniformly positive or negative."
-    },
-    {
-      "key": "joughin1998",
-      "apa": "Joughin, G. (1998). Dimensions of oral assessment. *Assessment & Evaluation in Higher Education, 23*(4), 367–378.",
-      "note": "Moderate confidence in volume, issue and pages; author, year, title and journal believed correct; DOI omitted. Used for the claim that oral assessments in higher education vary along several dimensions (for example, what is assessed, interaction, authenticity, structure)."
-    },
-    {
-      "key": "haladyna2002",
-      "apa": "Haladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. *Applied Measurement in Education, 15*(3), 309–333.",
-      "note": "Fairly high confidence in authors, title, journal and year; volume, issue and pages believed correct but should be checked; DOI omitted. Used for the claim that item-writing guidance advises against negatively worded stems and absolute terms such as 'always' and 'never'."
-    }
-  ],
   "authorNotes": [
     "ges.exam-essay and ges.short-answer should take exm.timed-writing (hard) and exm.question-analysis as prerequisites; I did not link exm.timed-writing to ges.exam-essay to avoid a cycle.",
     "exm.oral-exams vs pub.viva: suggest pub.viva <- exm.oral-exams (soft). exm.test-anxiety overlaps with sem.speaking-anxiety (both build on Horwitz et al., 1986); suggest a soft link sem.speaking-anxiety -> exm.test-anxiety or a cross-reference, not both directions.",

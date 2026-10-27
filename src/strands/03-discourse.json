@@ -5562,38 +5562,6 @@
       "reviewNotes": []
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "grangertyson1996",
-      "kind": "article",
-      "apa": "Granger, S., & Tyson, S. (1996). Connector usage in the English essay writing of native and non-native EFL speakers of English. *World Englishes, 15*(1), 17–27.",
-      "note": "High confidence in authors, title, journal, year, volume and page range. DOI omitted because I am not certain of it."
-    },
-    {
-      "key": "graycortes2011",
-      "kind": "article",
-      "apa": "Gray, B., & Cortes, V. (2011). Perception vs. evidence: An analysis of *this* and *these* in academic prose. *English for Specific Purposes, 30*(1), 31–43.",
-      "note": "Confident in authors, title, journal and year; moderately confident in volume, issue and pages, which should be checked. DOI omitted."
-    },
-    {
-      "key": "hylandmilton1997",
-      "kind": "article",
-      "apa": "Hyland, K., & Milton, J. (1997). Qualification and certainty in L1 and L2 students' writing. *Journal of Second Language Writing, 6*(2), 183–205.",
-      "note": "High confidence in all bibliographic details; DOI omitted because not certain. Cited for L2 student writers' narrower range of hedges and stronger certainty compared with L1 peers."
-    },
-    {
-      "key": "hyland2001reader",
-      "kind": "article",
-      "apa": "Hyland, K. (2001). Bringing in the reader: Addressee features in academic articles. *Written Communication, 18*(4), 549–574.",
-      "note": "High confidence in authors, title, journal, year and volume; pages should be checked. DOI omitted."
-    },
-    {
-      "key": "hyland2007gloss",
-      "kind": "article",
-      "apa": "Hyland, K. (2007). Applying a gloss: Exemplifying and reformulating in academic discourse. *Applied Linguistics, 28*(2), 266–285.",
-      "note": "Confident in author, title, journal and year; volume, issue and pages should be checked. DOI omitted."
-    }
-  ],
   "authorNotes": [
     "coh.signalling-nouns overlaps voc.abstract-shell-nouns and grm.reference-pronouns (both mention 'this + summarising noun'). I treat voc.abstract-shell-nouns as the lexical prerequisite and grm.reference-pronouns as the grammatical prerequisite; VOC and GRM authors should not make either depend on coh.signalling-nouns, or a cycle will form.",
     "coh.connector-precision and coh.linking-adverbials overlap grm.linking-adverbial-placement and phr.bundles-text-oriented. I deliberately did not use grm.linking-adverbial-placement as a prerequisite, because placement presupposes knowing the connectors; I suggest grm.linking-adverbial-placement depend on coh.linking-adverbials.",

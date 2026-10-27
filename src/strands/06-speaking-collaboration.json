@@ -4645,20 +4645,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "storch2005",
-      "kind": "article",
-      "apa": "Storch, N. (2005). Collaborative writing: Product, process, and students' reflections. *Journal of Second Language Writing, 14*(3), 153–173.",
-      "note": "High confidence in authors, year, title and journal; volume, issue and pages believed correct but should be verified. DOI omitted because I am not certain of it. The study compares pairs and individuals writing in an ESL classroom; it is cited only for the general claim that joint writing prompts collaborative attention to ideas and language, not for extended group projects."
-    },
-    {
-      "key": "hampel2012",
-      "kind": "article",
-      "apa": "Hampel, R., & Stickler, U. (2012). The use of videoconferencing to support multimodal interaction in an online language classroom. *ReCALL, 24*(2), 116–137.",
-      "note": "High confidence in authors, year, title and journal; volume, issue and pages believed correct but should be verified. DOI omitted because I am not certain of it. Cited only alongside coe2020 for the claim that videoconferencing combines audio, video and text-chat channels that participants must coordinate."
-    }
-  ],
   "authorNotes": [
     "grw.inclusive-collaboration overlaps with idn.intercultural-communication, idn.elf and sem.facilitating; it is scoped here as practical group behaviour, with the IDN topics as conceptual prerequisites.",
     "grw.collaborative-writing overlaps with dig.digital-collaboration (tools) and int.collusion (boundaries). I made int.collusion a soft prerequisite; the INT author should not make int.collusion depend on grw.collaborative-writing.",

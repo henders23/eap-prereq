@@ -5125,20 +5125,6 @@
       ]
     }
   ],
-  "proposedReferences": [
-    {
-      "key": "hewings2002",
-      "kind": "article",
-      "apa": "Hewings, M., & Hewings, A. (2002). \"It is interesting to note that…\": A comparative study of anticipatory 'it' in student and published writing. *English for Specific Purposes, 21*(4), 367–383.",
-      "note": "High confidence in authors, title, journal, year and volume; moderate confidence in issue and page range; DOI omitted because I cannot confirm it. Cited only for the general point that student and published writers differ in the frequency and functions of anticipatory-it frames."
-    },
-    {
-      "key": "grangertyson1996",
-      "kind": "article",
-      "apa": "Granger, S., & Tyson, S. (1996). Connector usage in the English essay writing of native and non-native EFL speakers of English. *World Englishes, 15*(1), 17–27.",
-      "note": "High confidence in authors, title, journal and year; moderate confidence in issue and pages; DOI omitted. Cited only for the general finding of mismatches between learner and native-speaker connector use, including overuse of some connectors and sentence-initial placement."
-    }
-  ],
   "authorNotes": [
     "Overlap: grm.error-monitoring and edt.grammar-editing both cover targeted checking of recurrent errors. Suggest scoping grm.error-monitoring as the strategic, longitudinal routine (logging and prioritising personal error patterns) and edt.grammar-editing as the in-draft editing procedure, with edt.grammar-editing taking grm.error-monitoring as a prerequisite.",
     "Overlap: grm.passive-voice and grm.non-finite-clauses both list dangling modifiers in their skeleton scope. I treat dangling participles mainly in grm.non-finite-clauses and mention them in grm.passive-voice only where a passive main clause creates the dangle; consider removing them from the passive scope note.",

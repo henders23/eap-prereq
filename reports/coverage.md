@@ -318,7 +318,8 @@ Links are mapping judgements (core / component / related), not coverage certific
 
 | Verification status | References |
 |---|---:|
-| unverified | 467 |
+| web-verified | 286 |
+| unverified | 181 |
 
 ### Most-cited works (by topics)
 

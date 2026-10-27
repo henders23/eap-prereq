@@ -2,6 +2,47 @@
   "group": "14-learning-assessment",
   "domains": [
     {
+      "code": "EXM",
+      "strand": "Learning & Autonomy",
+      "name": "Exams & Timed Performance",
+      "summary": "This domain covers university examinations and timed performance: understanding exam formats, analysing exam questions, planning revision, writing under time pressure, approaching objective-format questions, open-book and take-home exams, oral examinations and managing test anxiety. It draws on cognitive research on retrieval and spacing (Dunlosky et al., 2013; Roediger & Karpicke, 2006), research on planning under time pressure (Ellis & Yuan, 2004), writing assessment (Weigle, 2002) and test anxiety (Putwain, 2008; Horwitz et al., 1986). Emphasis is on matching preparation and in-exam behaviour to the demands of each format rather than on generic exam tips.",
+      "learnerSummary": "You will learn how different university exams work, how to read exam questions precisely, how to revise so that you remember, how to write and speak well under time pressure, and how to manage exam nerves.",
+      "stageEmphasis": {
+        "foundation": "First experience of university-style exams in subject modules: formats, question analysis, revision planning and timed writing, often alongside content learning in English.",
+        "pre-sessional": "Timed writing and oral assessment as part of progression, with attention to question analysis and managing anxiety in high-stakes conditions.",
+        "in-sessional-ug": "Support before exam seasons: revision planning, exam essays and short answers, objective-format papers and open-book or take-home exams.",
+        "in-sessional-pgt": "Rapid preparation for unfamiliar formats (seen papers, take-home exams, case-based exams) within a compressed year."
+      },
+      "keyReferences": [
+        "dunlosky2013",
+        "roediger2006",
+        "weigle2002",
+        "ellisyuan2004",
+        "putwain2008"
+      ]
+    },
+    {
+      "code": "FBK",
+      "strand": "Learning & Autonomy",
+      "name": "Feedback & Assessment Literacy",
+      "summary": "This domain covers how learners come to understand university assessment and use feedback: assessment purposes and rules, grading systems, marking criteria, feedback literacy, acting on feedback, using written corrective feedback, seeking feedback and self- and peer-assessment. It draws on Sadler's (1989) argument that learners must come to share the assessor's concept of quality, on feedback as a support for self-regulation (Nicol & Macfarlane-Dick, 2006; Hattie & Timperley, 2007) and on student feedback literacy (Carless & Boud, 2018). On written corrective feedback, the contested evidence (Truscott, 1996; Ferris, 1999; Bitchener & Ferris, 2012; Kang & Han, 2015) should be presented honestly.",
+      "learnerSummary": "You will learn how university assessment works, what marking criteria and grades really mean, and how to ask for, understand and act on feedback so that each assignment improves the next.",
+      "stageEmphasis": {
+        "foundation": "Explicit introduction to formative and summative assessment, local grading conventions and rubrics, often the learner's first encounter with criterion-referenced coursework.",
+        "pre-sessional": "Intensive use of criteria, exemplars, correction codes and draft-feedback cycles leading to the progression assessment.",
+        "in-sessional-ug": "Interpreting disciplinary criteria and feedback on early assignments, and building feed-forward habits across modules.",
+        "in-sessional-pgt": "Rapid calibration to master's-level standards, where marks are often lower than learners expect and feedback windows are short.",
+        "pgr": "Seeking and negotiating feedback from supervisors, peers and reviewers, and developing the evaluative judgement needed to review one's own and others' research writing."
+      },
+      "keyReferences": [
+        "sadler1989",
+        "nicol2006",
+        "carlessboud2018",
+        "hattietimperley2007",
+        "bitchenerferris2012"
+      ]
+    },
+    {
       "code": "LRN",
       "strand": "Learning & Autonomy",
       "name": "Self-Regulated Learning",
@@ -22,9 +63,605 @@
         "oxford1990",
         "dornyei2009"
       ]
+    },
+    {
+      "code": "TST",
+      "strand": "Learning & Autonomy",
+      "name": "Proficiency Tests & Progression",
+      "summary": "This domain helps learners understand the language assessments that control access to and progression through university study: the purposes of different assessments, CEFR levels and entry requirements, the formats and constructs of academic proficiency tests, the differences between test tasks and university tasks, strategies for integrated test tasks, and pre-sessional progression assessment. It draws on language assessment theory (Bachman & Palmer, 2010; Weigle, 2002), the CEFR (Council of Europe, 2001, 2020; North, 2014) and research on test washback and on the gap between test and university writing (Green, 2007; Moore & Morton, 2005). Test formats, score requirements and visa rules change, so content is framed at the level of task types and constructs, and learners are directed to current official sources.",
+      "learnerSummary": "You will learn what language tests and progression assessments are for, what their scores do and do not tell you, how test tasks differ from university work, and how to prepare without letting the test narrow your learning.",
+      "stageEmphasis": {
+        "foundation": "Understanding entry and progression requirements and test formats, while building the broader academic literacy that tests only partly measure.",
+        "pre-sessional": "Central: understanding the progression assessment, how it relates to entry requirements and proficiency tests, and moving from test-oriented habits to university-oriented ones.",
+        "in-sessional-ug": "Addressing the transition from test preparation to disciplinary writing, especially where first-year students carry test templates into coursework.",
+        "in-sessional-pgt": "Rapid recalibration for master's students who entered directly with a test score and must adjust from test tasks to source-based disciplinary writing."
+      },
+      "keyReferences": [
+        "bachmanpalmer2010",
+        "weigle2002",
+        "coe2020",
+        "north2014",
+        "mooremorton2005",
+        "green2007"
+      ]
     }
   ],
   "topics": [
+    {
+      "id": "exm.exam-formats",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "University exam formats",
+      "description": "Understand the main formats of university examination (unseen and seen written papers, open-book and take-home exams, multiple-choice and short-answer tests, problem-based papers, oral and practical examinations such as OSCEs in health programmes, and computer-based or online variants) and what kind of knowledge and performance each rewards, so that preparation and in-exam behaviour match the format.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies the format of each exam on their programme using handbooks and past papers",
+        "Explains how preparation differs for seen, unseen, open-book and objective-format exams",
+        "Identifies what each format typically rewards (recall, application, synthesis or performance)",
+        "Locates and uses past papers, exam regulations and information on permitted materials"
+      ],
+      "assessmentPrompt": "Give three brief exam descriptions (a seen-question paper, a 24-hour open-book paper, a multiple-choice test across the whole syllabus) and ask how preparation should differ for each. Look for format-specific preparation (planning answers to seen questions, organising and indexing materials for open-book, retrieval practice across the syllabus for multiple choice) rather than 'revise everything'.",
+      "citations": [
+        "horowitz1986",
+        "bachmanpalmer2010"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "exm.question-analysis",
+      "type": "PROCEDURAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "Analysing exam questions",
+      "description": "Analyse an exam question quickly and accurately, identifying the command word or words, topic, focus and limiting words, implicit sub-questions and the expected answer type, and allocate time across questions in proportion to marks.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Marks the command, topic, focus and limiting words in a question and paraphrases what it requires",
+        "Identifies multi-part questions and implicit sub-questions, such as the judgement of degree required by 'to what extent'",
+        "Distinguishes questions inviting description from those requiring evaluation or argument",
+        "Allocates time per question in proportion to marks, including time for planning and checking",
+        "Recognises when a question that superficially matches a revised topic actually asks for something different"
+      ],
+      "assessmentPrompt": "Give three exam questions on the same topic with different command words and limiting phrases (for example, 'Outline…', 'Critically evaluate… with reference to…', 'To what extent… since 2010?'). Ask the learner what a good answer to each would do. Look for distinctions in the shape of the answer and attention to limiting words; treating all three as 'write about the topic' indicates a gap.",
+      "citations": [
+        "horowitz1986",
+        "bereiter1987"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.read.instructions",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "exm.revision-planning",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "Planning revision",
+      "description": "Plan revision as a spaced, active schedule that begins weeks before the exam period: mapping the syllabus and past-paper demands, distributing sessions across topics, building sessions around retrieval and timed practice, and adjusting the plan according to self-test results.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Produces a revision timetable that starts several weeks before exams and revisits each topic more than once",
+        "Builds sessions around retrieval (self-testing, past questions, blank-page recall) rather than rereading",
+        "Uses self-test results to move time towards weaker topics",
+        "Includes timed practice under exam-like conditions for written papers"
+      ],
+      "assessmentPrompt": "Ask the learner to show their revision plan for an upcoming exam. Check the start date, spacing and revisiting of topics, the types of activity and the use of past papers; a plan that consists of reading notes once per topic in the final week indicates a gap.",
+      "citations": [
+        "dunlosky2013",
+        "cepeda2006",
+        "roediger2006"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "exm.timed-writing",
+      "type": "PROCEDURAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "Timed writing",
+      "description": "Produce coherent, relevant written answers under time pressure: planning rapidly (a brief outline and a position), allocating time between planning, writing and checking, writing fluently without sources to hand, and checking for one's own most frequent errors. Applies to exam essays, short-answer papers and timed tasks in language tests and progression assessments.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Spends a small, planned share of the available time on a brief outline with a position before writing",
+        "Produces an answer whose opening addresses the question directly and whose paragraphs each advance the answer",
+        "Completes all required answers within the time, prioritising by marks",
+        "Reserves time to check for their own known high-frequency errors",
+        "Adapts memorised content to the specific question rather than reproducing it wholesale"
+      ],
+      "assessmentPrompt": "Set an unseen question with a fixed time limit and observe the first few minutes. Then examine the script: is there a visible plan, does the introduction answer the question, does each paragraph advance a point, and was the final section completed? Compare the plan with the script to see whether planning was used or abandoned.",
+      "citations": [
+        "weigle2002",
+        "ellisyuan2004",
+        "bereiter1987"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.strat.planning",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "ielts:wr2.task-response",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "exm.objective-questions",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "Objective question strategies",
+      "description": "Approach multiple-choice, true/false, matching and short-item questions strategically: reading stems precisely (including negatives and qualifiers), predicting an answer before reading the options, eliminating distractors for stated reasons, managing time and flagged items, and applying the paper's rules on guessing and negative marking.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies negatives, absolutes and qualifiers in a stem or option and explains how they change the answer",
+        "Generates an answer from knowledge before viewing the options when the stem allows",
+        "Eliminates options for specific reasons and returns to flagged items",
+        "Applies the stated scoring rules, such as negative marking, when deciding whether to answer uncertain items",
+        "Distinguishes items testing recall from those testing application and adjusts reading time accordingly"
+      ],
+      "assessmentPrompt": "Give five multiple-choice items from the learner's subject (or based on a general academic text), including one 'NOT' item, one with an absolute qualifier and one application item. Ask the learner to think aloud while answering. Look for close reading of qualifiers, reasoned elimination and correct handling of the negative; choosing options because their wording looks familiar indicates surface processing.",
+      "citations": [
+        "dunlosky2013",
+        "haladyna2002"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "exm.open-book",
+      "type": "PROCEDURAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "Open-book and take-home exams",
+      "description": "Prepare for and complete open-book and take-home exams, recognising that they assess application, analysis and synthesis rather than recall: organising and indexing permitted materials in advance, managing extended time windows, and observing paper-specific rules on collaboration, sources, citation and AI use.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Prepares an organised, indexed set of notes and sources that can be navigated quickly",
+        "Answers by applying and synthesising material rather than reproducing notes or lecture slides",
+        "Cites sources in take-home answers to the standard the paper requires",
+        "States the rules on collaboration, permitted resources and AI use for a given paper and plans to work within them",
+        "Plans time across a take-home window, including breaks and a final check"
+      ],
+      "assessmentPrompt": "Give a take-home question and the learner's own notes on the topic. Ask them to sketch an answer plan in a short, fixed time and to state what they may and may not do (consult peers, use AI tools, reuse lecture slides). Look for application rather than reproduction of notes, an accurate statement of the rules and planned citation.",
+      "citations": [
+        "bretag2016",
+        "pecorari2013"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "exm.oral-exams",
+      "type": "PROCEDURAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "Oral examinations",
+      "description": "Prepare for and perform in oral assessments such as questioning on submitted work, individual oral examinations, interactive orals and the speaking components of language assessments: anticipating question types, structuring spoken answers, asking for clarification or repetition, gaining thinking time appropriately and recovering from breakdowns.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Anticipates likely questions from the assessment's purpose and prepares flexible answer outlines rather than memorised scripts",
+        "Gives a direct answer first, then a justification and an example, at an appropriate length",
+        "Asks for clarification or repetition of a question rather than guessing its meaning",
+        "Uses holding phrases to gain thinking time without long silences",
+        "Recovers from a word-finding gap or an error by reformulating rather than abandoning the answer"
+      ],
+      "assessmentPrompt": "Run a short mock oral on a piece of the learner's own work, including one deliberately ambiguous question and one challenging follow-up. Look for a direct-answer structure, a clarification request in response to the ambiguous question, and reformulation rather than breakdown under the follow-up.",
+      "citations": [
+        "joughin1998",
+        "horwitz1986"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.oral.interviewing",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:int.strat.asking-clarification",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.strat.compensating",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "exm.test-anxiety",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Exams & Timed Performance",
+      "name": "Managing test anxiety",
+      "description": "Recognise how anxiety in evaluative situations (written exams, timed tests, oral assessments and high-stakes proficiency tests) can interfere with performance, particularly through worry that takes up attention, and use preparation, reappraisal and in-exam techniques to reduce its impact, while knowing when anxiety calls for professional support or reasonable adjustments.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Distinguishes the worry (cognitive) and physical or emotional components of their own exam anxiety",
+        "Uses at least one technique before the exam (for example, brief writing about worries, or reinterpreting arousal as readiness) and one during it (for example, starting with a question they are confident about, or a planned breathing pause)",
+        "Explains how realistic timed practice reduces uncertainty about the exam",
+        "Identifies the institutional route to support and adjustments when anxiety is severe"
+      ],
+      "assessmentPrompt": "Ask the learner to describe what happens to them in the first ten minutes of a high-stakes exam and what they currently do about it. Look for a distinction between thoughts and physical symptoms and at least one specific, plausible technique. Do not attempt to diagnose; the aim is to see whether the learner has a usable repertoire and knows where to get help.",
+      "citations": [
+        "putwain2008",
+        "horwitz1986",
+        "ramirez2011"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "fbk.assessment-literacy",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "University assessment literacy",
+      "description": "Understand how university assessment works: the difference between formative and summative assessment; how learning outcomes, assessment briefs and marking criteria relate; the range of assessment types; and the rules on weighting, deadlines, word limits, extensions, mitigating circumstances and resits. This knowledge lets learners focus effort where it counts and recognise formative opportunities that carry no marks.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Distinguishes the formative from the summative tasks in a module and explains how to use each",
+        "Traces a stated learning outcome to the assessment task and criteria that measure it",
+        "Extracts weighting, deadline, word-limit and submission rules accurately from a module handbook or brief",
+        "Explains in general terms the procedures for extensions, mitigating circumstances and resits, and identifies where to check the specific rules"
+      ],
+      "assessmentPrompt": "Give the learner an authentic module handbook extract and ask which tasks count towards the final mark and by how much, which learning outcome each task assesses, and what happens if a deadline is missed. Check for accurate extraction and an explanation of why the formative task matters even though it carries no marks.",
+      "citations": [
+        "sadler1989",
+        "nicol2006"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "fbk.grading-systems",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "Grading systems",
+      "description": "Understand how marks are expressed and interpreted in the learner's institution (for example, UK percentage bands and undergraduate degree classifications, master's pass, merit and distinction thresholds, or GPA-style systems) and what grade bands signal about the quality of work, so that marks are neither over- nor under-interpreted against expectations carried over from other systems.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Converts a mark into its band or classification under the local scheme and explains what the band indicates about quality",
+        "Explains why, in many UK disciplines, marks above about 80% are uncommon and a mark in the 60s can represent good work, contrasting this with systems they know",
+        "Identifies the pass mark and the progression or classification rules for their programme",
+        "Interprets a mark alongside the written feedback and criteria rather than on its own"
+      ],
+      "assessmentPrompt": "Tell the learner they have received 62% for an undergraduate essay at a UK university and ask what this means, how it compares with their previous system, and what information they would need to improve it. Look for correct interpretation (typically the upper second-class band) and recognition that the criteria and feedback, not the number alone, show how to improve.",
+      "citations": [
+        "sadler1989"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "fbk.marking-criteria",
+      "type": "PROCEDURAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "Interpreting marking criteria",
+      "description": "Unpack the marking criteria, rubrics and grade descriptors for a specific task: identify what each criterion values, how adjacent bands differ, and what evaluative language such as 'critical', 'well-structured' or 'appropriate use of sources' means in observable textual terms, using exemplars to make tacit standards concrete.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Rewrites each criterion in a rubric as a concrete question that can be asked of a draft",
+        "Identifies the words that distinguish adjacent bands (for example 'some', 'consistent', 'sophisticated') and explains what each would look like in a text",
+        "Points to features of an exemplar that justify its band on a given criterion",
+        "Ranks two or three exemplars on one criterion and justifies the ranking with textual evidence",
+        "Notes which criteria carry most weight and allocates effort accordingly"
+      ],
+      "assessmentPrompt": "Give the learner two adjacent bands from a rubric criterion (for example, use of sources) and two short exemplar paragraphs. Ask which band each paragraph fits and why. Look for justifications that cite specific textual features linked to the criterion wording rather than general impressions such as 'it sounds more academic'.",
+      "citations": [
+        "sadler1989",
+        "odonovan2004",
+        "leastreet1998"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "fbk.feedback-literacy",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "Feedback literacy",
+      "description": "Understand feedback as information that learners must actively make sense of and use, not something simply delivered to them. This involves appreciating its purpose, developing the capacity to make evaluative judgements, managing emotional responses and taking action (Carless and Boud's four features). Feedback is recognised in many forms: written comments, rubric marks, peer comments, discussion in class, tutorials and automated tools.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Identifies several sources of feedback in a module, including informal and peer feedback, beyond comments on marked work",
+        "Explains what a given comment asks them to do differently",
+        "Describes their own emotional response to critical feedback and a strategy for engaging with it constructively",
+        "Distinguishes comments directed at the task, the process, self-regulation and the person, and explains which are most useful for future work",
+        "Gives an example of feedback they acted on and what resulted"
+      ],
+      "assessmentPrompt": "Present five feedback comments of different types (praise of the person, a task-level correction, process advice, a question prompting self-monitoring, a vague comment). Ask the learner to rank them by usefulness and explain. Look for recognition that process-level and self-regulation-level comments carry over to future work, and that praise of the person gives little direction.",
+      "citations": [
+        "carlessboud2018",
+        "hattietimperley2007",
+        "nicol2006"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "fbk.acting-on-feedback",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "Acting on feedback",
+      "description": "Turn feedback into a feed-forward action plan: categorise comments, identify issues that recur across assignments, decide which apply to the next (often different) task, act on them and check whether the change worked.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Groups comments from several pieces of work into recurring themes",
+        "Distinguishes task-specific comments from those that apply to future assignments",
+        "Writes an action plan with specific, checkable actions for each priority comment",
+        "Shows in a later draft or task where and how each action was implemented",
+        "Uses a short feedback-response note ('In this draft I have tried to…') to direct the marker's attention"
+      ],
+      "assessmentPrompt": "Give the learner feedback from two previous assignments and the brief for a new, different task. Ask which comments apply and what they will do differently. Look for transfer of process-level comments (for example, on paragraph focus or source integration) and specific actions, rather than a restatement of the comments.",
+      "citations": [
+        "sadler1989",
+        "nicol2006",
+        "winstone2017"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "fbk.corrective-feedback",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "Using written corrective feedback",
+      "description": "Use written corrective feedback on language (direct corrections, correction codes, underlining or margin indications) to understand the nature of errors, self-correct where feedback is indirect, and track recurring error patterns, recognising that one-off corrections rarely carry over to new writing without follow-up.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Interprets a course's correction code and states the rule or pattern behind each coded error",
+        "Self-corrects indirectly marked errors and explains the corrections",
+        "Distinguishes rule-governed errors (for example subject–verb agreement, articles with countable nouns) from less rule-governed ones (word choice, collocation) and uses different resources for each",
+        "Keeps an error log that tallies recurring categories across texts",
+        "Edits a new text by checking specifically for their most frequent error categories"
+      ],
+      "assessmentPrompt": "Return a paragraph in which five errors are indicated by code but not corrected. Ask the learner to correct each and explain why. Check the accuracy of the corrections and the explanations, and ask whether any of these errors also recur in their other writing.",
+      "citations": [
+        "bitchenerferris2012",
+        "kanghan2015",
+        "truscott1996",
+        "ferris1999"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:ling.grammatical-accuracy",
+          "levels": [
+            "B1",
+            "B2",
+            "B2+"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:prod.strat.monitoring-repair",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "fbk.seeking-feedback",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "Seeking feedback",
+      "description": "Request feedback that is specific, timely and usable (on a draft, plan or idea) from tutors, supervisors and peers, framing the request politely and within institutional norms, such as what tutors may comment on before submission, and following up to clarify comments.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Writes a feedback request that names the specific aspect to be commented on and why",
+        "Checks module or programme rules on pre-submission feedback before asking",
+        "Uses suitable mitigation and timing in requests to staff, for example giving sufficient notice and acknowledging workload",
+        "Asks follow-up questions that clarify a comment's meaning or request an example of what improvement would look like",
+        "Seeks feedback from peers and support services as well as from the assessor"
+      ],
+      "assessmentPrompt": "Ask the learner to write a short email to a module tutor requesting feedback on an essay plan. Check that it names specific questions, shows the work done, respects norms and timing, and is appropriately mitigated. 'Please check my essay' with an attachment sent the day before the deadline indicates a gap.",
+      "citations": [
+        "nicol2006",
+        "economidou2011",
+        "biesenbach2007"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:int.strat.asking-clarification",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "fbk.self-peer-assessment",
+      "type": "STRATEGIC",
+      "strand": "Learning & Autonomy",
+      "domain": "Feedback & Assessment Literacy",
+      "name": "Self- and peer-assessment",
+      "description": "Judge the quality of one's own and peers' work against criteria and exemplars, give feedback that is specific and criterion-referenced, and calibrate these judgements over time by comparing them with tutors' judgements. The aim is evaluative judgement, not self-grading.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Rates a draft against criteria and cites textual evidence for each rating",
+        "Gives peer comments that identify a specific issue, explain its effect on the reader and suggest a direction, rather than offering generic praise or proofreading",
+        "Compares their own judgements with tutor judgements and identifies where and why they diverge",
+        "Uses insights from reviewing others' texts to revise their own"
+      ],
+      "assessmentPrompt": "Ask the learner to self-assess a recent draft against two criteria before seeing the tutor's assessment, then compare the two. Look for ratings backed by evidence and, after comparison, an explanation of any divergence (for example, 'I counted my citations; the tutor was looking at how I evaluated them'). Large gaps that the learner cannot explain indicate weak calibration.",
+      "citations": [
+        "andrade2009",
+        "lundstrombaker2009",
+        "sadler1989",
+        "liuhansen2002"
+      ],
+      "frameworks": []
+    },
     {
       "id": "lrn.metacognitive-knowledge",
       "type": "CONCEPTUAL",
@@ -460,9 +1097,452 @@
           "contribution": "related"
         }
       ]
+    },
+    {
+      "id": "tst.assessment-purposes",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Proficiency Tests & Progression",
+      "name": "Proficiency, achievement and progression assessment",
+      "description": "Distinguish the purposes of different language assessments (proficiency, placement, diagnostic, achievement, and progression or gatekeeping decisions) and understand that a score is evidence supporting a particular interpretation and decision, not a fixed property of the learner. This helps learners interpret their results realistically and use each assessment for its intended purpose.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Classifies assessments they have taken or will take by purpose (an entry test, a placement test, a weekly quiz, a post-entry diagnostic task, a progression assessment)",
+        "Explains what decision each assessment informs and who uses the result",
+        "Explains why a proficiency test score cannot show what was learned on a particular course, and why a course test cannot certify general proficiency",
+        "Recognises that small score differences may fall within measurement error and may not reflect a real difference in ability"
+      ],
+      "assessmentPrompt": "Present four assessments (a university's post-entry diagnostic writing task, an international proficiency test, an end-of-unit grammar quiz and a pre-sessional final project). Ask what each is for, who uses the result and for what decision. Look for reasoning about purpose and decision, and for recognition that a diagnostic result is used to guide support, not to decide admission.",
+      "citations": [
+        "bachmanpalmer2010",
+        "coe2001",
+        "murray2016standards"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "tst.cefr-entry",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Proficiency Tests & Progression",
+      "name": "CEFR levels and entry requirements",
+      "description": "Understand what CEFR levels describe (communicative ability in can-do terms across activities, including 'plus' levels and uneven profiles across skills), how university and visa entry requirements are expressed through test scores and levels, and why the relationship between a test score and a CEFR level rests on test owners' published alignment claims, which are approximate and debated. Requirements are set by institutions and government bodies and change over time.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Explains what a CEFR level describes and why a learner's profile can differ across skills",
+        "Reads a programme's entry requirement (overall and minimum component scores) and determines whether a given score profile meets it",
+        "Explains that alignments between tests and the CEFR are published by test owners, are approximate, and do not make scores from different tests interchangeable",
+        "Distinguishes institutional entry requirements from immigration requirements, using the UK Student route as an example, and identifies the official source for checking current rules",
+        "Explains why meeting the entry threshold does not guarantee readiness for all the language demands of a programme"
+      ],
+      "assessmentPrompt": "Give a programme's entry requirement (an overall score plus minimum component scores) and three score profiles from the same test, one of which meets the overall requirement but misses a component minimum. Ask which profiles meet the requirement and why, and where the learner would check whether it also satisfies current visa rules. Look for attention to component minimums and to current official sources rather than agents or forums.",
+      "citations": [
+        "coe2020",
+        "north2014",
+        "ukvi2025student",
+        "arkoudis2012"
+      ],
+      "frameworks": []
+    },
+    {
+      "id": "tst.test-formats",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Proficiency Tests & Progression",
+      "name": "Academic proficiency test formats",
+      "description": "Understand the task types and constructs of the major academic English proficiency tests used for university entry (for example, reading with selected-response items, lecture-style listening, independent and integrated writing, and interview-based or computer-delivered speaking), including differences in delivery mode and in human, automated or hybrid scoring, so that preparation targets what each test actually measures.",
+      "cefrStart": "B1",
+      "cefrEnd": "B2",
+      "stages": [
+        "foundation",
+        "pre-sessional"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Describes the task types in the test they will take and the skills or constructs each targets",
+        "Identifies differences in delivery (paper, computer, remote) and scoring (human, automated) that affect preparation",
+        "Locates the test's official public assessment criteria for productive tasks and explains each criterion in their own words",
+        "Uses official sample materials to work out what tasks require rather than relying on unofficial 'tricks'"
+      ],
+      "assessmentPrompt": "Ask the learner to describe the writing and speaking tasks of the test they intend to take and the criteria used to score them. Look for accurate task descriptions, criterion names explained in their own words, and awareness of delivery and scoring mode; inaccurate or trick-based descriptions indicate reliance on unofficial sources.",
+      "citations": [
+        "bachmanpalmer2010",
+        "green2007",
+        "alderson1993washback"
+      ],
+      "frameworks": [
+        {
+          "key": "ielts:wr2.task-response",
+          "contribution": "related"
+        },
+        {
+          "key": "ielts:rd.academic",
+          "contribution": "related"
+        },
+        {
+          "key": "ielts:ls.listening",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "tst.test-vs-university",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Proficiency Tests & Progression",
+      "name": "Test tasks versus university tasks",
+      "description": "Recognise how proficiency-test tasks differ from university tasks. Test writing is typically short, timed, drawn from personal knowledge or brief inputs, on general topics and scored against generic criteria; university writing is typically extended, source-based, discipline-specific, varied in genre and judged against disciplinary expectations. Learners use this understanding to avoid carrying test templates into university work.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Compares a test writing task with a university assignment brief in terms of length, sources, audience, genre, time and criteria",
+        "Identifies test-preparation habits (memorised openings, opinion without sources, formulaic linking) that would weaken a university text",
+        "Explains why a high test score does not demonstrate control of source-based disciplinary writing",
+        "Rewrites a test-style paragraph as a source-based academic paragraph for a specified discipline"
+      ],
+      "assessmentPrompt": "Place a test-style opinion essay prompt next to a first-year assignment brief on a similar topic. Ask the learner to list five differences in what each requires and to say which of their test-preparation habits they would need to drop. Look for the difference in source use, differences of genre and audience, and named habits rather than 'university is harder'.",
+      "citations": [
+        "mooremorton2005",
+        "green2007",
+        "horowitz1986"
+      ],
+      "frameworks": [
+        {
+          "key": "ielts:wr2.task-response",
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "tst.integrated-test-tasks",
+      "type": "PROCEDURAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Proficiency Tests & Progression",
+      "name": "Integrated test tasks",
+      "description": "Handle integrated test tasks that require reading and/or listening before writing or speaking: noting key points from the input efficiently, identifying the relationship between sources (for example, a talk that challenges a reading), selecting and transforming content in one's own words, and organising the response around the task's specific demand within the time limit.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Takes notes on the input that capture the main points and the relationships between sources",
+        "Selects the source content the task requires rather than summarising everything",
+        "Reports source content in their own words with clear attribution to the reading or speaker",
+        "Organises the response around the relationship the task specifies, such as how a talk challenges a reading",
+        "Completes the response within the time, dividing it between processing the input and producing the response"
+      ],
+      "assessmentPrompt": "Use a short reading and a brief talk that challenges it, then ask for a short written response explaining how the talk relates to the reading. Look for the key points from both, an explicit relationship, attribution and transformed wording; copying strings from the reading or omitting the talk indicates a gap.",
+      "citations": [
+        "plakans2008",
+        "plakansgebril2012"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.text.processing-text",
+          "levels": [
+            "B2",
+            "B2+"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.text.note-taking",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "tst.presessional-progression",
+      "type": "CONCEPTUAL",
+      "strand": "Learning & Autonomy",
+      "domain": "Proficiency Tests & Progression",
+      "name": "Pre-sessional progression assessment",
+      "description": "Understand how pre-sessional and similar pathway programmes assess progression, typically through coursework such as an extended source-based essay or report, a small research project, presentations or seminars, portfolios and sometimes timed tasks, and how criteria, weightings, integrity rules and progression thresholds work, so that learners can plan effort across components and use formative stages.",
+      "cefrStart": "B1+",
+      "cefrEnd": "B2+",
+      "stages": [
+        "foundation",
+        "pre-sessional"
+      ],
+      "specificity": "EGAP",
+      "masteryEvidence": [
+        "Describes each assessed component of their programme, its weighting and the criteria applied",
+        "Explains how component results combine into a progression decision, including any minimum per skill",
+        "Uses formative stages (outline, draft, tutorial) to improve the summative submission",
+        "Explains integrity expectations specific to coursework-based progression, such as rules on drafts, sources, AI tools and proofreading",
+        "Contrasts progression assessment with the proficiency test they might otherwise have taken"
+      ],
+      "assessmentPrompt": "Ask the learner to explain, using their programme handbook, how their progression decision will be made and what they would do if draft feedback identified a weakness in source use. Look for an accurate account of components, weightings and thresholds, and a plan that uses formative feedback and support rather than waiting for the final mark.",
+      "citations": [
+        "weigle2002",
+        "bachmanpalmer2010"
+      ],
+      "frameworks": []
     }
   ],
   "dependencies": [
+    {
+      "topicId": "exm.exam-formats",
+      "prerequisiteId": "fbk.assessment-literacy",
+      "strength": "soft",
+      "reason": "Exams are one category of summative assessment; understanding assessment types and rules frames the differences between exam formats"
+    },
+    {
+      "topicId": "exm.question-analysis",
+      "prerequisiteId": "voc.command-words",
+      "strength": "hard",
+      "reason": "Analysing an exam question depends on knowing what each command word demands"
+    },
+    {
+      "topicId": "exm.question-analysis",
+      "prerequisiteId": "wpr.task-analysis",
+      "strength": "soft",
+      "reason": "Unpacking coursework briefs is usually taught first; exam question analysis applies the same procedure at speed"
+    },
+    {
+      "topicId": "exm.question-analysis",
+      "prerequisiteId": "exm.exam-formats",
+      "strength": "soft",
+      "reason": "Time allocation and expected answer types depend on the paper's format and mark scheme"
+    },
+    {
+      "topicId": "exm.revision-planning",
+      "prerequisiteId": "lrn.study-techniques",
+      "strength": "hard",
+      "reason": "A revision plan is only effective if its sessions use retrieval and spacing rather than rereading"
+    },
+    {
+      "topicId": "exm.revision-planning",
+      "prerequisiteId": "lrn.time-management",
+      "strength": "soft",
+      "reason": "Spacing revision across weeks and modules requires backward planning from the exam timetable"
+    },
+    {
+      "topicId": "exm.revision-planning",
+      "prerequisiteId": "exm.exam-formats",
+      "strength": "soft",
+      "reason": "What to revise and how depends on whether the exam is seen, unseen, objective or open-book"
+    },
+    {
+      "topicId": "exm.revision-planning",
+      "prerequisiteId": "ntk.reviewing-notes",
+      "strength": "soft",
+      "reason": "Revision draws on notes that have been reworked into material suitable for self-testing"
+    },
+    {
+      "topicId": "exm.timed-writing",
+      "prerequisiteId": "exm.question-analysis",
+      "strength": "hard",
+      "reason": "Writing under time pressure is only effective if the question has first been correctly interpreted and time allocated"
+    },
+    {
+      "topicId": "exm.timed-writing",
+      "prerequisiteId": "wpr.planning-outlining",
+      "strength": "hard",
+      "reason": "Timed writing compresses outlining into a few minutes, which presupposes the ability to plan a structure from a position"
+    },
+    {
+      "topicId": "exm.timed-writing",
+      "prerequisiteId": "wpr.drafting",
+      "strength": "soft",
+      "reason": "Producing text fluently without stopping to edit is a drafting habit that timed conditions demand"
+    },
+    {
+      "topicId": "exm.objective-questions",
+      "prerequisiteId": "exm.exam-formats",
+      "strength": "soft",
+      "reason": "Strategy depends on the paper's item types and scoring rules, such as negative marking"
+    },
+    {
+      "topicId": "exm.objective-questions",
+      "prerequisiteId": "rdp.parsing-complex-sentences",
+      "strength": "soft",
+      "reason": "Stems often contain dense noun phrases, negatives and embedded clauses that must be parsed accurately"
+    },
+    {
+      "topicId": "exm.objective-questions",
+      "prerequisiteId": "sta.generalisation-qualification",
+      "strength": "soft",
+      "reason": "Distinguishing correct from incorrect options often depends on qualifiers and absolutes (tend to, in most cases, always)"
+    },
+    {
+      "topicId": "exm.open-book",
+      "prerequisiteId": "exm.exam-formats",
+      "strength": "hard",
+      "reason": "Open-book preparation depends on knowing what the format permits and what it rewards"
+    },
+    {
+      "topicId": "exm.open-book",
+      "prerequisiteId": "ntk.notes-from-reading",
+      "strength": "soft",
+      "reason": "Usable open-book materials are notes that record sources and separate quotation, paraphrase and own comment"
+    },
+    {
+      "topicId": "exm.open-book",
+      "prerequisiteId": "int.collusion",
+      "strength": "soft",
+      "reason": "Take-home exams require a clear understanding of the boundary between permitted collaboration and collusion"
+    },
+    {
+      "topicId": "exm.oral-exams",
+      "prerequisiteId": "prs.handling-questions",
+      "strength": "hard",
+      "reason": "Oral examination is largely sustained question handling: clarifying, answering, and responding to challenge"
+    },
+    {
+      "topicId": "exm.oral-exams",
+      "prerequisiteId": "exm.exam-formats",
+      "strength": "soft",
+      "reason": "Preparation depends on the type of oral assessment and what it is designed to test"
+    },
+    {
+      "topicId": "exm.oral-exams",
+      "prerequisiteId": "prn.repair",
+      "strength": "soft",
+      "reason": "Recovering from breakdowns under examination pressure relies on self-repair and reformulation"
+    },
+    {
+      "topicId": "exm.test-anxiety",
+      "prerequisiteId": "lrn.wellbeing",
+      "strength": "soft",
+      "reason": "Managing exam anxiety builds on general routines for stress, sleep and help-seeking"
+    },
+    {
+      "topicId": "exm.test-anxiety",
+      "prerequisiteId": "exm.exam-formats",
+      "strength": "soft",
+      "reason": "Familiarity with the format reduces uncertainty, one source of anticipatory worry"
+    },
+    {
+      "topicId": "fbk.assessment-literacy",
+      "prerequisiteId": "voc.university-terminology",
+      "strength": "soft",
+      "reason": "Handbooks and briefs use terms such as module, credit, learning outcome, extension and extenuating circumstances that must be understood first"
+    },
+    {
+      "topicId": "fbk.assessment-literacy",
+      "prerequisiteId": "acu.academic-expectations",
+      "strength": "soft",
+      "reason": "Knowing that university study expects independence and criticality explains why assessment rewards these qualities"
+    },
+    {
+      "topicId": "fbk.grading-systems",
+      "prerequisiteId": "voc.university-terminology",
+      "strength": "soft",
+      "reason": "Grade conventions are expressed through institutional vocabulary (classification, pass mark, resit, merit) that learners need first"
+    },
+    {
+      "topicId": "fbk.marking-criteria",
+      "prerequisiteId": "fbk.assessment-literacy",
+      "strength": "hard",
+      "reason": "Criteria only make sense in relation to the learning outcomes and assessment tasks they operationalise"
+    },
+    {
+      "topicId": "fbk.marking-criteria",
+      "prerequisiteId": "fbk.grading-systems",
+      "strength": "soft",
+      "reason": "Rubrics are organised by grade bands, so learners need to know what each band signifies"
+    },
+    {
+      "topicId": "fbk.marking-criteria",
+      "prerequisiteId": "voc.command-words",
+      "strength": "soft",
+      "reason": "Criteria use the same evaluative verbs and nouns as assignment questions (analyse, evaluate, critical), whose demands must be known"
+    },
+    {
+      "topicId": "fbk.feedback-literacy",
+      "prerequisiteId": "fbk.assessment-literacy",
+      "strength": "soft",
+      "reason": "Appreciating feedback presupposes understanding the formative purpose of assessment"
+    },
+    {
+      "topicId": "fbk.feedback-literacy",
+      "prerequisiteId": "lrn.self-regulation",
+      "strength": "soft",
+      "reason": "Feedback is useful as information within the self-regulation cycle; learners need that frame to see feedback as something to act on"
+    },
+    {
+      "topicId": "fbk.acting-on-feedback",
+      "prerequisiteId": "fbk.feedback-literacy",
+      "strength": "hard",
+      "reason": "Planning action on feedback requires first understanding comments as information to use and managing the emotional response to them"
+    },
+    {
+      "topicId": "fbk.acting-on-feedback",
+      "prerequisiteId": "fbk.marking-criteria",
+      "strength": "soft",
+      "reason": "Mapping comments to criteria shows which comments carry most weight and how they apply to other tasks"
+    },
+    {
+      "topicId": "fbk.acting-on-feedback",
+      "prerequisiteId": "lrn.goal-setting",
+      "strength": "soft",
+      "reason": "A feed-forward plan is a set of specific, checkable goals derived from evidence"
+    },
+    {
+      "topicId": "fbk.corrective-feedback",
+      "prerequisiteId": "fbk.feedback-literacy",
+      "strength": "soft",
+      "reason": "Engaging with language corrections rather than copying them depends on viewing feedback as information to act on"
+    },
+    {
+      "topicId": "fbk.corrective-feedback",
+      "prerequisiteId": "grm.clause-elements",
+      "strength": "soft",
+      "reason": "Correction codes rely on grammatical metalanguage (subject, verb, clause) that learners need in order to interpret and apply them"
+    },
+    {
+      "topicId": "fbk.seeking-feedback",
+      "prerequisiteId": "fbk.feedback-literacy",
+      "strength": "hard",
+      "reason": "Asking for targeted feedback requires knowing what kinds of feedback are useful and how they will be used"
+    },
+    {
+      "topicId": "fbk.seeking-feedback",
+      "prerequisiteId": "prg.requests",
+      "strength": "soft",
+      "reason": "Feedback requests to staff are requests with high imposition and need appropriate mitigation and framing"
+    },
+    {
+      "topicId": "fbk.self-peer-assessment",
+      "prerequisiteId": "fbk.marking-criteria",
+      "strength": "hard",
+      "reason": "Judging quality against criteria requires first being able to interpret what the criteria and bands mean"
+    },
+    {
+      "topicId": "fbk.self-peer-assessment",
+      "prerequisiteId": "fbk.feedback-literacy",
+      "strength": "soft",
+      "reason": "Making evaluative judgements is one of the components of feedback literacy, and peer review also involves giving feedback in usable form"
+    },
     {
       "topicId": "lrn.self-regulation",
       "prerequisiteId": "lrn.metacognitive-knowledge",
@@ -516,12 +1596,6 @@
       "prerequisiteId": "lrn.study-techniques",
       "strength": "soft",
       "reason": "Independent study hours are only productive if filled with effective techniques such as self-testing rather than rereading"
-    },
-    {
-      "topicId": "lrn.independent-study",
-      "prerequisiteId": "acu.academic-expectations",
-      "strength": "soft",
-      "reason": "Learners need to understand the institutional expectation of self-direction before they can plan to meet it"
     },
     {
       "topicId": "lrn.study-techniques",
@@ -600,9 +1674,1204 @@
       "prerequisiteId": "lrn.language-learning-strategies",
       "strength": "soft",
       "reason": "Managing the double load relies on deliberate strategies for noticing, recording and using disciplinary language"
+    },
+    {
+      "topicId": "tst.cefr-entry",
+      "prerequisiteId": "tst.assessment-purposes",
+      "strength": "hard",
+      "reason": "Entry requirements are a gatekeeping use of proficiency scores; interpreting them requires understanding assessment purposes and score interpretation"
+    },
+    {
+      "topicId": "tst.test-formats",
+      "prerequisiteId": "tst.assessment-purposes",
+      "strength": "soft",
+      "reason": "Test formats are designed for the proficiency purpose; knowing that purpose explains why tasks are general rather than course-based"
+    },
+    {
+      "topicId": "tst.test-vs-university",
+      "prerequisiteId": "tst.test-formats",
+      "strength": "hard",
+      "reason": "Comparing test tasks with university tasks requires accurate knowledge of what the test tasks are"
+    },
+    {
+      "topicId": "tst.test-vs-university",
+      "prerequisiteId": "ges.genre-families",
+      "strength": "soft",
+      "reason": "The comparison depends on knowing the range of genres students are assessed on at university"
+    },
+    {
+      "topicId": "tst.test-vs-university",
+      "prerequisiteId": "src.source-functions",
+      "strength": "soft",
+      "reason": "The central difference is the role of sources in university writing, which learners need to understand to see what test writing lacks"
+    },
+    {
+      "topicId": "tst.integrated-test-tasks",
+      "prerequisiteId": "tst.test-formats",
+      "strength": "hard",
+      "reason": "Strategies for integrated tasks depend on knowing the specific task structure and constraints of the test"
+    },
+    {
+      "topicId": "tst.integrated-test-tasks",
+      "prerequisiteId": "syn.integrated-tasks",
+      "strength": "hard",
+      "reason": "Integrated test tasks apply the general reading/listening-to-writing skills of selecting and transforming source content under test conditions"
+    },
+    {
+      "topicId": "tst.integrated-test-tasks",
+      "prerequisiteId": "exm.timed-writing",
+      "strength": "soft",
+      "reason": "Integrated test responses are produced under strict time limits and draw on rapid planning and time allocation"
+    },
+    {
+      "topicId": "tst.presessional-progression",
+      "prerequisiteId": "fbk.marking-criteria",
+      "strength": "hard",
+      "reason": "Progression decisions are made against published criteria, which learners must interpret to plan and self-assess"
+    },
+    {
+      "topicId": "tst.presessional-progression",
+      "prerequisiteId": "tst.cefr-entry",
+      "strength": "soft",
+      "reason": "Progression outcomes are usually expressed as equivalents to entry requirements, so learners need to understand how those are framed"
+    },
+    {
+      "topicId": "tst.presessional-progression",
+      "prerequisiteId": "tst.test-vs-university",
+      "strength": "soft",
+      "reason": "Coursework-based progression is designed to be closer to university tasks than tests are; understanding the difference explains its design"
     }
   ],
   "guidance": [
+    {
+      "topicId": "exm.exam-formats",
+      "summary": "Bachman and Palmer (2010) show that the characteristics of an assessment task shape what it measures, and this applies to university exam formats as much as to language tests: a seen essay paper, an open-book problem paper and a multiple-choice test reward different preparation. Horowitz (1986), analysing writing tasks and exam questions set by university staff, found that they mostly required students to select and reorganise material for a specified purpose rather than to express personal opinion. Teach formats through the learner's own past papers and regulations, and draw out what each format rewards.",
+      "activities": [
+        {
+          "title": "Past paper anatomy",
+          "learnerActions": [
+            "Find a past paper for one of your modules",
+            "Note the format, number of questions, choice, marks per question and permitted materials",
+            "Identify what each question type asks you to do (recall, explain, apply, evaluate)",
+            "Write a one-paragraph preparation brief for this paper"
+          ],
+          "intendedInsight": "Each exam has a design that tells you what kind of preparation will pay off.",
+          "rationale": "Task characteristics determine what an assessment measures (Bachman & Palmer, 2010); reading a paper's design is the first step in preparing for it.",
+          "citations": [
+            "bachmanpalmer2010"
+          ]
+        },
+        {
+          "title": "Format-to-preparation matching",
+          "learnerActions": [
+            "Match six exam formats to the preparation each needs",
+            "Discuss formats you have not met before",
+            "Identify which of your own exams use which format"
+          ],
+          "intendedInsight": "Preparation that works for one format may be wasted effort for another.",
+          "rationale": "Making differences between formats explicit helps learners from systems dominated by a single exam type.",
+          "citations": [
+            "horowitz1986"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Assuming all exams test memory of lecture content.",
+          "kind": "prior-schooling",
+          "revealedBy": "Revision that consists only of memorising notes, even for application or open-book papers.",
+          "response": "Show past questions that require application or evaluation and discuss what memorised content alone would produce.",
+          "reteachPrerequisiteId": "fbk.assessment-literacy"
+        },
+        {
+          "pattern": "'Open-book means easy.'",
+          "kind": "conceptual",
+          "revealedBy": "Little preparation for open-book papers; time spent searching notes during the exam.",
+          "response": "Show the higher-order demands of open-book questions and the time cost of unorganised materials.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Unfamiliarity with negative marking, online invigilation or computer-based exam rules.",
+          "kind": "developmental",
+          "revealedBy": "Questions about rules on the day; procedural errors.",
+          "response": "Point learners to the exam regulations and, where possible, provide a practice session in the actual system.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What format is your next exam, and how will that change the way you prepare?'",
+        "strongResponse": "Identifies the format accurately and names preparation specific to it.",
+        "partialResponse": "Knows the format but describes generic preparation.",
+        "gapResponse": "Does not know the format."
+      },
+      "contextNotes": "Foundation learners often meet several unfamiliar formats in their first year of subject modules. Pre-sessional learners meet mainly timed writing and oral assessment. In-sessional UG and PGT learners need this before each exam season, particularly where formats (such as take-home or case-based exams) are new to them.",
+      "citations": [
+        "horowitz1986",
+        "bachmanpalmer2010"
+      ],
+      "reviewNotes": [
+        "Exam formats, especially online and take-home variants, change frequently and vary across institutions."
+      ]
+    },
+    {
+      "topicId": "exm.question-analysis",
+      "summary": "Under time pressure, writers may fall back on what Bereiter and Scardamalia (1987) call knowledge telling, retrieving content on the topic without transforming it to address the rhetorical problem. In an exam this produces answers that 'write all I know' instead of answering the question. Horowitz (1986) found that university tasks typically ask students to select and organise material for a specific purpose. Teach a fast, routine analysis of command, topic, focus and limiting words, and practise distinguishing questions on the same topic that require different answers.",
+      "activities": [
+        {
+          "title": "Same topic, different question",
+          "learnerActions": [
+            "Read three questions on the same topic with different command and limiting words",
+            "For each, mark the command, topic, focus and limiting words",
+            "Write a one-sentence description of what a good answer would do",
+            "Compare with a partner and discuss how the three answers would differ"
+          ],
+          "intendedInsight": "The same topic can require very different answers, and the question's wording decides which.",
+          "rationale": "Contrasting questions makes visible the transformation demand that knowledge telling misses (Bereiter & Scardamalia, 1987).",
+          "citations": [
+            "bereiter1987"
+          ]
+        },
+        {
+          "title": "Marks-to-minutes calculation",
+          "learnerActions": [
+            "Take a past paper and calculate the time available per mark",
+            "Allocate minutes to each question, including planning and checking time",
+            "Compare your allocation with how you actually spent your time in a previous exam"
+          ],
+          "intendedInsight": "Time should follow marks, and planning time is part of the allocation.",
+          "rationale": "Proportional time allocation prevents over-investment in early questions, a common performance problem in timed exams.",
+          "citations": [
+            "horowitz1986"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Recognising a revised topic in the question and writing a prepared answer that does not address the specific question.",
+          "kind": "prior-schooling",
+          "revealedBy": "Answers that are relevant to the topic but not to the question; feedback such as 'does not answer the question'.",
+          "response": "Practise with questions that deliberately twist familiar topics. Where learners come from assessment systems that rewarded reproducing model answers, make the different expectation explicit rather than criticising the habit.",
+          "reteachPrerequisiteId": "voc.command-words"
+        },
+        {
+          "pattern": "Misreading limiting words (dates, contexts, 'with reference to') under pressure.",
+          "kind": "performance",
+          "revealedBy": "Answers that go outside the specified scope.",
+          "response": "Build a habit of marking limiting words before planning. Do not respond by adding more content to revise; the problem is reading, not knowledge.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Spending too long on the first question and running out of time.",
+          "kind": "performance",
+          "revealedBy": "Unfinished final answers; very long first answers.",
+          "response": "Practise timed papers with fixed time checkpoints.",
+          "reteachPrerequisiteId": "exm.exam-formats"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give one exam question and ask the learner to explain, in one sentence, what a good answer must do.",
+        "strongResponse": "Identifies the command, focus and limits and describes the required answer shape, including any judgement required.",
+        "partialResponse": "Identifies the topic and command word but misses limiting words or implicit sub-questions.",
+        "gapResponse": "Restates the topic only."
+      },
+      "contextNotes": "Foundation and in-sessional UG learners need this for subject exams. Pre-sessional learners apply it to timed tasks in progression assessment. PGT learners face questions that often require critical evaluation within tightly specified contexts.",
+      "citations": [
+        "horowitz1986",
+        "bereiter1987"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "exm.revision-planning",
+      "summary": "Dunlosky et al. (2013) rated practice testing and distributed practice as the most useful learning techniques, and Cepeda et al. (2006) found that the best spacing between study sessions grows with the delay before the test. Roediger and Karpicke (2006) found that retrieval practice beat restudy on delayed tests. Revision planning applies these findings: start early, revisit topics several times, build sessions around retrieval and past questions, and adjust the plan using self-test results.",
+      "activities": [
+        {
+          "title": "Topic-by-week spaced grid",
+          "learnerActions": [
+            "List all topics for the exam",
+            "Build a grid of weeks before the exam and schedule each topic at least three times, with growing gaps",
+            "Assign a retrieval activity to each session (blank-page recall, past question, self-test)",
+            "Update the grid weekly according to your self-test results"
+          ],
+          "intendedInsight": "Revisiting topics several times with retrieval works better than covering each topic once.",
+          "rationale": "The grid operationalises distributed practice and practice testing (Dunlosky et al., 2013; Cepeda et al., 2006).",
+          "citations": [
+            "dunlosky2013",
+            "cepeda2006"
+          ]
+        },
+        {
+          "title": "Blank-page recall plus past question",
+          "learnerActions": [
+            "Write everything you can remember about a topic on a blank page without notes",
+            "Check against your notes and mark gaps in a different colour",
+            "Attempt a past question on the topic under time pressure",
+            "Record the gaps for your next session on this topic"
+          ],
+          "intendedInsight": "Gaps you discover through recall are what to study next.",
+          "rationale": "Retrieval both strengthens memory and reveals what is not yet known (Roediger & Karpicke, 2006).",
+          "citations": [
+            "roediger2006"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Cramming in the final days.",
+          "kind": "performance",
+          "revealedBy": "Revision plans that start a few days before the exam; late nights.",
+          "response": "Help learners plan backwards from exam dates early in the term. Do not simply warn against cramming; show the delayed-test evidence and give a concrete plan.",
+          "reteachPrerequisiteId": "lrn.study-techniques"
+        },
+        {
+          "pattern": "Revising favourite topics repeatedly and avoiding difficult ones.",
+          "kind": "performance",
+          "revealedBy": "Uneven self-test results that do not change the plan.",
+          "response": "Require a weekly reallocation based on self-test results.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Revision means making beautiful summary notes.",
+          "kind": "prior-schooling",
+          "revealedBy": "Large amounts of time spent rewriting notes; little self-testing.",
+          "response": "Turn summary-making into a retrieval activity: summarise from memory, then check.",
+          "reteachPrerequisiteId": "ntk.reviewing-notes"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'When will you start revising for your next exam, and what will a typical session look like?'",
+        "strongResponse": "Starts weeks ahead, revisits topics, uses retrieval and past papers, and adjusts according to results.",
+        "partialResponse": "Starts early but plans to reread, or uses retrieval but only in the final days.",
+        "gapResponse": "Plans to start in the final week by reading notes."
+      },
+      "contextNotes": "Foundation learners preparing for their first subject exams need explicit planning support. In-sessional UG and PGT learners benefit from short sessions before exam seasons, ideally with subject past papers. Pre-sessional courses rarely include content exams, so the topic is not listed there.",
+      "citations": [
+        "dunlosky2013",
+        "cepeda2006",
+        "roediger2006"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "exm.timed-writing",
+      "summary": "Ellis and Yuan (2004) found that pre-task planning increased the fluency and syntactic complexity of L2 writing, while unpressured on-line planning favoured accuracy, which suggests a trade-off that timed conditions make acute. Weigle (2002) discusses timed impromptu writing as an assessment format, including its limitations as a measure of academic writing. Under time pressure writers may revert to knowledge telling (Bereiter & Scardamalia, 1987). Teach a short, routine planning phase, disciplined time allocation and targeted final checking, and present timed writing as a distinct performance rather than a compressed version of coursework writing.",
+      "activities": [
+        {
+          "title": "Short plan drill",
+          "learnerActions": [
+            "Read an unseen question and give yourself a few minutes only to write a position and three to four points",
+            "Write the answer within the remaining time",
+            "Compare your plan with the finished script: did you follow it?",
+            "Repeat weekly with new questions and track whether your plans become quicker and more usable"
+          ],
+          "intendedInsight": "A brief plan keeps a timed answer focused and does not waste time.",
+          "rationale": "Ellis and Yuan (2004) found benefits of pre-task planning for fluency and complexity; the drill makes short planning automatic.",
+          "citations": [
+            "ellisyuan2004"
+          ]
+        },
+        {
+          "title": "Graduated time compression",
+          "learnerActions": [
+            "Write an answer with generous time",
+            "Write an answer to a similar question with less time, then with exam-length time",
+            "Compare the three scripts and note what was lost (accuracy, development, conclusion)",
+            "Decide what to protect under pressure and plan your checking routine accordingly"
+          ],
+          "intendedInsight": "Knowing what slips under time pressure lets you decide in advance what to protect.",
+          "rationale": "Weigle (2002) notes that timed writing captures a particular kind of performance; experiencing the effect of time limits helps learners manage it deliberately.",
+          "citations": [
+            "weigle2002"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'There's no time to plan.'",
+          "kind": "performance",
+          "revealedBy": "Scripts that wander, change position midway or stop without a conclusion.",
+          "response": "Show planned and unplanned scripts side by side. Do not demand elaborate plans: a position and a few points are enough.",
+          "reteachPrerequisiteId": "wpr.planning-outlining"
+        },
+        {
+          "pattern": "Reproducing a memorised essay that does not fit the question.",
+          "kind": "prior-schooling",
+          "revealedBy": "Fluent, accurate scripts that are off-question; identical openings across scripts.",
+          "response": "Use questions that require adapting known content, and give feedback specifically on relevance.",
+          "reteachPrerequisiteId": "exm.question-analysis"
+        },
+        {
+          "pattern": "Accuracy declines sharply under time pressure.",
+          "kind": "performance",
+          "revealedBy": "More errors in timed scripts than in coursework from the same learner.",
+          "response": "Teach a short final check for the learner's most frequent error types. Do not expect error-free timed writing or penalise it as though it were edited coursework.",
+          "reteachPrerequisiteId": "wpr.drafting"
+        }
+      ],
+      "diagnostic": {
+        "task": "Set a short timed question and look at the plan and script together.",
+        "strongResponse": "A brief plan with a position, followed by a script that answers the question directly, develops the planned points and finishes.",
+        "partialResponse": "A plan exists but is abandoned, or the script is relevant but unfinished.",
+        "gapResponse": "No plan; a script that drifts or does not address the question."
+      },
+      "contextNotes": "Foundation and in-sessional UG learners use this for subject exam essays and short answers. Pre-sessional learners use it in timed progression tasks and test preparation. PGT learners meet timed writing less often, but it matters where modules use exams.",
+      "citations": [
+        "weigle2002",
+        "ellisyuan2004",
+        "bereiter1987"
+      ],
+      "reviewNotes": [
+        "Ellis and Yuan's study used narrative writing with planning-time manipulations; extending its findings to argumentative exam essays is an inference."
+      ]
+    },
+    {
+      "topicId": "exm.objective-questions",
+      "summary": "Practice testing, including with objective formats, is itself a high-utility learning technique (Dunlosky et al., 2013), so preparation and test performance reinforce each other. Item-writing guidance advises against negatively worded stems and absolute terms (Haladyna et al., 2002), which suggests that well-constructed university items may be less vulnerable to cue-based 'test-wise' strategies than learners believe. For L2 readers the main difficulties are often linguistic (negatives, qualifiers, dense stems), so emphasise precise reading and knowledge over tricks.",
+      "activities": [
+        {
+          "title": "Qualifier spotting",
+          "learnerActions": [
+            "Read a set of stems and options and underline every negative, absolute and qualifier",
+            "Rephrase each stem in plain English",
+            "Explain how each underlined word changes which option is correct"
+          ],
+          "intendedInsight": "Small words such as 'not', 'always' and 'usually' can decide the answer.",
+          "rationale": "Qualifiers and negatives are a known source of misreading, and item-writing guidance treats them as potential problems (Haladyna et al., 2002).",
+          "citations": [
+            "haladyna2002"
+          ]
+        },
+        {
+          "title": "Cover the options",
+          "learnerActions": [
+            "Cover the options and answer the stem from knowledge",
+            "Uncover the options and look for your answer",
+            "If it is not there, eliminate options with stated reasons",
+            "Review which items you could answer before seeing options"
+          ],
+          "intendedInsight": "Answering from knowledge first reduces the pull of plausible-looking distractors.",
+          "rationale": "Generating an answer before reading options is a form of retrieval practice (Dunlosky et al., 2013) and reduces reliance on recognising familiar wording.",
+          "citations": [
+            "dunlosky2013"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Missing 'NOT' or 'EXCEPT' in a stem.",
+          "kind": "performance",
+          "revealedBy": "Choosing a true statement when asked for the false one.",
+          "response": "Train a habit of marking negatives before reading options.",
+          "reteachPrerequisiteId": "rdp.parsing-complex-sentences"
+        },
+        {
+          "pattern": "Choosing the option whose wording is most familiar from lectures.",
+          "kind": "performance",
+          "revealedBy": "Errors on application items where a distractor reuses lecture phrasing.",
+          "response": "Practise items where the correct answer is paraphrased and the distractor uses familiar wording.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Relying on cue-based tricks such as 'choose the longest answer'.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Learners report rules of thumb in place of reasoning.",
+          "response": "Show that well-written items avoid such cues and redirect effort to knowledge and precise reading.",
+          "reteachPrerequisiteId": "sta.generalisation-qualification"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to answer one 'NOT' item and one qualifier item aloud.",
+        "strongResponse": "Notices the negative and qualifier, reasons about each option and selects correctly.",
+        "partialResponse": "Selects correctly but cannot explain, or notices the negative only when prompted.",
+        "gapResponse": "Misses the negative or qualifier."
+      },
+      "contextNotes": "Foundation learners often meet objective tests in science, business and health modules. In-sessional UG and PGT learners meet them in quantitative and professional programmes. Pre-sessional courses rarely use subject objective tests, although proficiency tests use selected-response formats.",
+      "citations": [
+        "dunlosky2013",
+        "haladyna2002"
+      ],
+      "reviewNotes": [
+        "No bibliography source directly addresses L2 learners' performance on content multiple-choice items; haladyna2002 is proposed and concerns item writing rather than test taking."
+      ]
+    },
+    {
+      "topicId": "exm.open-book",
+      "summary": "Open-book and take-home exams shift the demand from recall to application, analysis and synthesis, and increase the importance of organised materials and integrity awareness. The Handbook of Academic Integrity (Bretag, 2016) covers the forms of misconduct, including collusion and contract cheating, that unsupervised formats can make more tempting. Pecorari (2013) emphasises teaching good source use rather than only policing it. Teach learners to prepare indexed materials, to write answers that apply rather than transcribe, and to check paper-specific rules, especially on collaboration and AI use, which vary and change.",
+      "activities": [
+        {
+          "title": "Index your resources",
+          "learnerActions": [
+            "Organise your notes for one module into a structure with tabs or a contents page",
+            "Create a one-page index of key concepts, cases or formulae with locations",
+            "Test it by finding five items against a timer",
+            "Revise the index where retrieval was slow"
+          ],
+          "intendedInsight": "In open-book exams, the speed of finding information depends on preparation done beforehand.",
+          "rationale": "Time spent searching unorganised materials reduces time for analysis, which is what these formats reward.",
+          "citations": [
+            "pecorari2013"
+          ]
+        },
+        {
+          "title": "Reproduction versus application",
+          "learnerActions": [
+            "Compare two answers to a take-home question: one assembled from notes and one that applies concepts to the question",
+            "Identify which parts of each answer the question actually asked for",
+            "Rewrite a paragraph of the first answer so that it applies rather than reproduces"
+          ],
+          "intendedInsight": "Having access to notes does not mean copying them; the marks are for using them.",
+          "rationale": "Pecorari (2013) argues for teaching purposeful source use; open-book answers are a case in which source material must be transformed to serve a new purpose.",
+          "citations": [
+            "pecorari2013"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Open-book is easier, so I'll revise less.'",
+          "kind": "conceptual",
+          "revealedBy": "Little preparation; answers that reproduce notes.",
+          "response": "Show the higher-order demands of open-book questions and the time cost of searching.",
+          "reteachPrerequisiteId": "exm.exam-formats"
+        },
+        {
+          "pattern": "Copying from notes, slides or sources without attribution under time pressure.",
+          "kind": "performance",
+          "revealedBy": "Unattributed strings matching lecture slides or readings in submitted answers.",
+          "response": "Teach learners to prepare notes that already separate quotation, paraphrase and own words, and clarify the paper's citation expectations.",
+          "reteachPrerequisiteId": "ntk.notes-from-reading"
+        },
+        {
+          "pattern": "Treating a take-home exam like group coursework and discussing answers with peers.",
+          "kind": "conceptual",
+          "revealedBy": "Similar answers from students who studied together.",
+          "response": "Make the paper's collaboration rules explicit and discuss why the boundary is drawn where it is.",
+          "reteachPrerequisiteId": "int.collusion"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'In your next take-home exam, what are you allowed to use and do, and how will you prepare your materials?'",
+        "strongResponse": "States the rules accurately (sources, collaboration, AI), describes organised and indexed materials, and plans to apply rather than reproduce.",
+        "partialResponse": "Knows some rules but has no preparation plan, or prepares but is unsure of the rules.",
+        "gapResponse": "Does not know the rules and plans minimal preparation."
+      },
+      "contextNotes": "Foundation programmes increasingly use open-book or take-home formats for subject modules. In-sessional UG and PGT learners meet them across disciplines, with PGT take-home exams often resembling short essays. Rules on AI use in such exams vary widely.",
+      "citations": [
+        "bretag2016",
+        "pecorari2013"
+      ],
+      "reviewNotes": [
+        "Rules on take-home exams, especially on generative AI, vary widely and are changing rapidly; teach learners to check paper-specific rules rather than presenting general rules.",
+        "No bibliography source specifically evaluates open-book exam preparation; guidance here is practitioner-based."
+      ]
+    },
+    {
+      "topicId": "exm.oral-exams",
+      "summary": "Oral assessments in higher education vary along several dimensions, including what is assessed, how interactive the event is and how structured it is (Joughin, 1998), so preparation must start from the specific format. Horwitz et al. (1986) identified fear of negative evaluation and communication apprehension as components of foreign language anxiety, which oral exams can intensify. Teach learners to anticipate question types, use a direct-answer structure, ask for clarification and recover from breakdowns, and rehearse with realistic follow-up questions rather than memorised scripts.",
+      "activities": [
+        {
+          "title": "Mock oral with question types",
+          "learnerActions": [
+            "List likely question types for your oral assessment (clarification, justification, challenge, extension)",
+            "Prepare flexible bullet-point answers, not scripts",
+            "Take part in a mock oral in which a peer or tutor asks one question of each type",
+            "Review a recording and identify one strength and one change"
+          ],
+          "intendedInsight": "Preparing for types of question is more robust than preparing scripted answers to predicted questions.",
+          "rationale": "Oral formats vary in structure and interaction (Joughin, 1998), so rehearsal should include unscripted follow-up.",
+          "citations": [
+            "joughin1998"
+          ]
+        },
+        {
+          "title": "Clarify and hold",
+          "learnerActions": [
+            "Collect your own phrases for asking for repetition, checking meaning and gaining a few seconds of thinking time",
+            "Practise them in rapid question rounds with a partner",
+            "Discuss when each phrase is appropriate and when it might sound evasive"
+          ],
+          "intendedInsight": "Asking for clarification and taking thinking time are legitimate moves, not signs of weakness.",
+          "rationale": "Having routines for these moves reduces the risk that fear of negative evaluation (Horwitz et al., 1986) leads to silence or guessing.",
+          "citations": [
+            "horwitz1986"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Memorised scripts break down when the question is unexpected.",
+          "kind": "performance",
+          "revealedBy": "Fluent openings followed by long pauses or irrelevant answers to follow-ups.",
+          "response": "Rehearse with unpredictable follow-ups and flexible outlines. Do not ban preparation; change its form.",
+          "reteachPrerequisiteId": "prs.handling-questions"
+        },
+        {
+          "pattern": "Freezing or long silence under questioning.",
+          "kind": "affective",
+          "revealedBy": "Silence, very short answers, visible distress in mock orals.",
+          "response": "Normalise the experience, rehearse holding and clarification phrases, and use graded practice from low to higher stakes.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Not asking for clarification because it seems to signal weakness or disrespect.",
+          "kind": "prior-schooling",
+          "revealedBy": "Answers that address a misinterpreted question.",
+          "response": "Make explicit that examiners generally expect and accept clarification requests, and model them.",
+          "reteachPrerequisiteId": "prn.repair"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask one ambiguous question about the learner's own work and one follow-up challenge.",
+        "strongResponse": "Asks for clarification of the ambiguous question, answers directly with justification, and handles the challenge by acknowledging and responding.",
+        "partialResponse": "Answers the ambiguous question without clarifying, or handles the challenge with long hesitation.",
+        "gapResponse": "Cannot respond to the challenge or answers a different question."
+      },
+      "contextNotes": "Foundation and pre-sessional learners meet oral assessment in presentations with questions and in speaking assessments. In-sessional UG and PGT learners meet orals in language, professional and some science programmes. The doctoral viva is treated separately (pub.viva).",
+      "citations": [
+        "joughin1998",
+        "horwitz1986"
+      ],
+      "reviewNotes": [
+        "joughin1998 is a proposed reference pending verification."
+      ]
+    },
+    {
+      "topicId": "exm.test-anxiety",
+      "summary": "Putwain (2008) conceptualises test anxiety as multidimensional, involving worry and physical and emotional components that arise when evaluative situations are appraised as threatening. Horwitz et al. (1986) identified test anxiety as one component of foreign language anxiety, alongside communication apprehension and fear of negative evaluation, so L2 learners in high-stakes language or content exams may face compounded pressure. Ramirez and Beilock (2011) found that brief expressive writing about test worries before an exam improved anxious students' performance. Present anxiety management as a normal skill, combine it with preparation, and refer severe cases to appropriate services.",
+      "activities": [
+        {
+          "title": "Worry writing before a mock test",
+          "learnerActions": [
+            "Before a mock test, spend a few minutes writing freely about any worries you have about it",
+            "Take the mock test",
+            "Afterwards, note whether the writing changed how you felt or performed",
+            "Decide whether to use the technique before a real exam"
+          ],
+          "intendedInsight": "Putting worries on paper may free attention for the task.",
+          "rationale": "Ramirez and Beilock (2011) reported benefits of expressive writing for anxious test takers; this classroom version is a proposal to try, not a guaranteed intervention.",
+          "citations": [
+            "ramirez2011"
+          ]
+        },
+        {
+          "title": "Realistic rehearsal",
+          "learnerActions": [
+            "Take at least one full practice paper under exam conditions (timing, room, no notes)",
+            "Note moments of rising anxiety and what triggered them",
+            "Plan a response for each trigger, such as starting with a question you are confident about"
+          ],
+          "intendedInsight": "Familiarity with exam conditions reduces uncertainty, and planned responses make anxious moments manageable.",
+          "rationale": "Putwain (2008) links test anxiety to the appraisal of evaluative situations; rehearsal and planned responses address both uncertainty and the sense of being unprepared.",
+          "citations": [
+            "putwain2008"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Feeling anxious means I'm not ready or not capable.'",
+          "kind": "affective",
+          "revealedBy": "Catastrophic statements before exams; avoidance of mock tests.",
+          "response": "Normalise anxiety, separate the feeling from evidence of preparation, and discuss reinterpreting arousal as readiness.",
+          "reteachPrerequisiteId": "lrn.wellbeing"
+        },
+        {
+          "pattern": "Avoiding mock exams to escape the feeling.",
+          "kind": "affective",
+          "revealedBy": "Absence from practice tests; no timed practice in revision plans.",
+          "response": "Offer graded exposure, starting with short, low-stakes timed tasks.",
+          "reteachPrerequisiteId": "exm.exam-formats"
+        },
+        {
+          "pattern": "Going blank on first reading the paper.",
+          "kind": "performance",
+          "revealedBy": "Reports of losing the first minutes; slow starts.",
+          "response": "Teach a first-minutes routine: breathe, read all questions, start with the one you are most confident about. Do not simply advise learners to 'relax', which gives no actionable step.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What do you do when you feel anxious during an exam?'",
+        "strongResponse": "Describes specific techniques used before and during exams and knows where to seek support if needed.",
+        "partialResponse": "Describes a general approach ('try to calm down') without specific steps.",
+        "gapResponse": "Has no strategy or describes only avoidance."
+      },
+      "contextNotes": "Pre-sessional learners face high-stakes progression decisions and often recent proficiency tests. Foundation learners face their first university exams. In-sessional UG and PGT learners benefit from short sessions before exam seasons, linked to wellbeing services and to reasonable adjustment processes.",
+      "citations": [
+        "putwain2008",
+        "horwitz1986",
+        "ramirez2011"
+      ],
+      "reviewNotes": [
+        "ramirez2011 is a proposed reference pending verification; later replications of expressive-writing effects should be checked before strong claims are made.",
+        "Severe anxiety is a matter for wellbeing or disability services; this topic is not clinical guidance."
+      ]
+    },
+    {
+      "topicId": "fbk.assessment-literacy",
+      "summary": "Sadler (1989) distinguishes formative assessment, which aims to improve learning, from summative assessment, which reports achievement. Nicol and Macfarlane-Dick (2006) argue that formative assessment supports self-regulation only if learners understand the goals and criteria. Learners whose previous assessment was dominated by end-of-year examinations may skip unmarked formative tasks or misjudge weightings. Teach assessment literacy with the learner's actual handbook and briefs rather than generic descriptions, because rules vary by institution and module.",
+      "activities": [
+        {
+          "title": "Handbook audit",
+          "learnerActions": [
+            "Using a real module handbook, list every assessment task, its type, weighting and deadline",
+            "Mark each task as formative or summative",
+            "Find the rules on late submission, extensions and resits",
+            "Compare your findings with a partner's and resolve any differences by checking the source"
+          ],
+          "intendedInsight": "The rules and structure of assessment are written down, but they have to be actively found and interpreted.",
+          "rationale": "Learners can only use formative opportunities and plan effort if they know the assessment design; Nicol and Macfarlane-Dick's first principle concerns clarifying what good performance is.",
+          "citations": [
+            "nicol2006"
+          ]
+        },
+        {
+          "title": "Outcome–task–criteria trace",
+          "learnerActions": [
+            "Choose one learning outcome from a module",
+            "Find the assessment task that assesses it",
+            "Find the criterion or criteria in the rubric that relate to it",
+            "Write one sentence explaining what you must show to meet the outcome"
+          ],
+          "intendedInsight": "Outcomes, tasks and criteria are designed to align, so reading them together shows what markers are looking for.",
+          "rationale": "Sadler argues that learners need to understand the standard being aimed at; tracing alignment makes that standard more visible.",
+          "citations": [
+            "sadler1989"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'If it doesn't count, I won't do it.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Low completion of formative tasks; surprise at summative feedback that formative work would have anticipated.",
+          "response": "Show explicitly how formative tasks feed into summative ones, for example by making formative feedback a required input to the final submission. Avoid threats; show the link.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Confusion between terms such as resit, resubmission, deferral and mitigating circumstances.",
+          "kind": "developmental",
+          "revealedBy": "Questions that mix the terms; wrong procedures followed.",
+          "response": "Provide a glossary from the institution's own regulations and use the terms in scenarios.",
+          "reteachPrerequisiteId": "voc.university-terminology"
+        },
+        {
+          "pattern": "Assuming assessment rules are the same across all modules.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Word-limit or referencing rules from one module applied to another.",
+          "response": "Have learners compare two modules' rules and note the differences.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'In one of your modules, which piece of work counts most towards your final mark, and what is the first formative opportunity to get feedback before it?'",
+        "strongResponse": "Names the task, its weighting and a specific formative opportunity, and explains how it will be used.",
+        "partialResponse": "Knows the main task and weighting but not the formative opportunities.",
+        "gapResponse": "Does not know the weighting or the assessment structure."
+      },
+      "contextNotes": "On foundation programmes this is often the learner's first contact with criterion-referenced coursework. On pre-sessional courses, use the programme's own assessment as the model. In in-sessional UG and PGT contexts, work with real module handbooks; PGT learners need this in the first weeks because the first assessments come quickly.",
+      "citations": [
+        "sadler1989",
+        "nicol2006"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "fbk.grading-systems",
+      "summary": "Grade meanings are local conventions. In many UK disciplines percentage marks rarely reach the top of the scale, and the bands for classifications (and for master's merit and distinction) differ from systems in which high percentages are routine. Sadler (1989) notes that grades compress complex qualitative judgements; learners therefore need to understand the standards behind a mark, not only its number. Always present the scheme as typical and send learners to their own programme regulations, which vary.",
+      "activities": [
+        {
+          "title": "Grade translation discussion",
+          "learnerActions": [
+            "Describe what a 'good' mark looked like in your previous system",
+            "Locate the same level of performance on your institution's scale",
+            "Discuss in groups why direct numerical conversion can mislead"
+          ],
+          "intendedInsight": "The same number can mean very different things in different systems.",
+          "rationale": "Making differences between systems explicit prevents misreading marks, which can distort motivation and decisions.",
+          "citations": [
+            "sadler1989"
+          ]
+        },
+        {
+          "title": "Band ladder with exemplars",
+          "learnerActions": [
+            "Read three anonymised exemplars awarded marks in different bands",
+            "Rank them before seeing the marks",
+            "Compare your ranking with the actual bands and identify the differences in quality"
+          ],
+          "intendedInsight": "Grade bands correspond to recognisable differences in quality that can be seen in texts.",
+          "rationale": "Sadler argues that standards are best conveyed through exemplars alongside verbal descriptions.",
+          "citations": [
+            "sadler1989"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'60% means I nearly failed.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Distress at marks that are good by local standards; requests to resubmit passed work.",
+          "response": "Explain local bands with reference to the regulations and show exemplars at each band.",
+          "reteachPrerequisiteId": "voc.university-terminology"
+        },
+        {
+          "pattern": "Attending only to the number and ignoring the feedback.",
+          "kind": "conceptual",
+          "revealedBy": "Learners can report their mark but not the main comment.",
+          "response": "Ask learners to summarise the main comment before discussing the mark.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'You got 58% on a master's assignment. What does that mean?'",
+        "strongResponse": "Recognises a pass in many UK master's schemes, notes that it falls below the usual merit threshold, and says the programme regulations and feedback should be checked.",
+        "partialResponse": "Recognises a pass but cannot place it relative to other bands, or interprets it only as 'low'.",
+        "gapResponse": "Interprets it through another system's conventions (for example, as a near fail) without checking."
+      },
+      "contextNotes": "Foundation and pre-sessional learners need this before their first marked work. In-sessional UG learners benefit at their first marks; PGT learners often need it in week one, as master's marking can be a shock. In transnational settings, learners may meet two systems at once.",
+      "citations": [
+        "sadler1989"
+      ],
+      "reviewNotes": [
+        "No bibliography source specifically documents UK marking distributions; claims about mark ranges are framed as typical and should be checked against institutional regulations.",
+        "UK classification bands and master's thresholds are common conventions but vary by institution."
+      ]
+    },
+    {
+      "topicId": "fbk.marking-criteria",
+      "summary": "Sadler (1989) argued that learners need a concept of quality similar to the assessor's, much of which is tacit and best conveyed through exemplars and guided evaluation. O'Donovan et al. (2004) suggest that explicit criteria on their own do not convey standards, and that exemplars and dialogue are needed. Lea and Street (1998) found that terms such as 'argument' and 'structure' carry discipline-specific and often implicit meanings. Teach criteria through exemplar analysis and discussion rather than by reading the rubric aloud.",
+      "activities": [
+        {
+          "title": "From criterion to question",
+          "learnerActions": [
+            "Take each criterion in the rubric for your next assignment",
+            "Rewrite it as a question you could ask of your own draft (for example, 'Does each paragraph evaluate the sources it cites, or only report them?')",
+            "Compare your questions with a partner's and agree a shared list",
+            "Check the list with the tutor"
+          ],
+          "intendedInsight": "Abstract criteria become usable when turned into concrete questions about a text.",
+          "rationale": "Sadler argues that learners must be able to apply the standard to their own work; questions make criteria applicable.",
+          "citations": [
+            "sadler1989"
+          ]
+        },
+        {
+          "title": "Exemplar ranking with justification",
+          "learnerActions": [
+            "Rank three short exemplar extracts on one criterion",
+            "Justify each ranking with a specific feature of the text",
+            "Compare your ranking with the tutor's and discuss any disagreement"
+          ],
+          "intendedInsight": "Differences between bands correspond to visible features of texts, which can be learned.",
+          "rationale": "O'Donovan et al. suggest that combining criteria with exemplars and dialogue conveys standards better than criteria alone; Carless and Boud (2018) also identify exemplar analysis as a feedback-literacy activity.",
+          "citations": [
+            "odonovan2004",
+            "carlessboud2018"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Being critical means criticising the authors.'",
+          "kind": "conceptual",
+          "revealedBy": "Texts that list weaknesses of sources with no balanced evaluation.",
+          "response": "Show exemplars in which criticality appears as evaluation, comparison and positioning, and contrast them with fault-finding.",
+          "reteachPrerequisiteId": "voc.command-words"
+        },
+        {
+          "pattern": "Treating the rubric as a checklist of features to include ('add a counter-argument'), producing formulaic texts.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Features present but not doing their job, such as a counter-argument mentioned and then ignored.",
+          "response": "Ask what each feature is for in this text, and use exemplars in which the same feature works well and badly.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Assuming criteria terms mean the same in every discipline.",
+          "kind": "conceptual",
+          "revealedBy": "Applying, for example, humanities expectations of 'argument' to a lab report.",
+          "response": "Compare how two departments describe the same criterion and discuss with subject staff where possible.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to explain what one criterion in their next assignment's rubric means and what it would look like in their text.",
+        "strongResponse": "Explains the criterion with concrete textual features and distinguishes it from the adjacent band.",
+        "partialResponse": "Paraphrases the criterion accurately but cannot say what it looks like in a text.",
+        "gapResponse": "Repeats the criterion wording or gives a general impression."
+      },
+      "contextNotes": "Foundation and pre-sessional courses can teach this intensively with their own rubrics. In-sessional UG and PGT learners need it applied to disciplinary rubrics, ideally with subject exemplars; PGT learners may find master's-level expectations of criticality very different from their previous experience.",
+      "citations": [
+        "sadler1989",
+        "odonovan2004",
+        "leastreet1998"
+      ],
+      "reviewNotes": [
+        "odonovan2004 is a proposed reference pending verification."
+      ]
+    },
+    {
+      "topicId": "fbk.feedback-literacy",
+      "summary": "Carless and Boud (2018) define student feedback literacy in terms of appreciating feedback, making judgements, managing affect and taking action, and identify enabling activities such as peer feedback and analysing exemplars. Hattie and Timperley (2007) distinguish feedback at the task, process, self-regulation and self (person) levels, and argue that feedback directed at the person is least useful for learning. Nicol and Macfarlane-Dick (2006) frame feedback as support for self-regulation. Teach feedback as a process learners take part in, not a product they receive.",
+      "activities": [
+        {
+          "title": "Feedback type sort",
+          "learnerActions": [
+            "Collect feedback comments from your recent work (or use a set provided)",
+            "Sort them into task, process, self-regulation and personal comments",
+            "Discuss which types could help with your next, different assignment",
+            "Rewrite one vague comment as a question you could ask your tutor"
+          ],
+          "intendedInsight": "Comments about process and self-regulation carry over to other tasks, while praise of the person gives little direction.",
+          "rationale": "Hattie and Timperley's levels give learners a way of seeing which feedback is most useful beyond the immediate task.",
+          "citations": [
+            "hattietimperley2007"
+          ]
+        },
+        {
+          "title": "Feelings first, then actions",
+          "learnerActions": [
+            "Read a piece of critical feedback and write down your immediate reaction honestly",
+            "Leave it for a day",
+            "Reread it and write three things it asks you to do",
+            "Discuss with a partner how your view of the feedback changed"
+          ],
+          "intendedInsight": "An emotional response to feedback is normal, and creating some distance helps you use it.",
+          "rationale": "Managing affect is one of Carless and Boud's four features of feedback literacy; the activity makes that process explicit.",
+          "citations": [
+            "carlessboud2018"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Feedback is the teacher correcting my mistakes.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Learners look only for corrections and disregard comments, questions or peer input.",
+          "response": "Show the range of feedback sources and types, and make clear that most useful university feedback is not correction.",
+          "reteachPrerequisiteId": "fbk.assessment-literacy"
+        },
+        {
+          "pattern": "Defensive or deflated reactions to critical comments.",
+          "kind": "affective",
+          "revealedBy": "Dismissing feedback ('the marker didn't understand') or withdrawal after a low mark.",
+          "response": "Normalise the reaction, build in delay before responding, and separate comments about the work from the person. Do not soften feedback into vagueness, which removes the information learners need.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Reading only the mark.",
+          "kind": "performance",
+          "revealedBy": "VLE data showing feedback unopened; inability to recall comments.",
+          "response": "Release marks after learners have responded to the feedback, where possible, or require a short response to feedback in class.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What was the most useful piece of feedback you've had this term, and what did you do with it?'",
+        "strongResponse": "Names specific feedback (not necessarily from a tutor), explains why it was useful, and describes an action and its result.",
+        "partialResponse": "Recalls feedback but has not acted on it, or acted without understanding why.",
+        "gapResponse": "Cannot recall feedback, or refers only to the mark."
+      },
+      "contextNotes": "Foundation and pre-sessional learners need explicit work on what feedback is and how to use it. In-sessional UG and PGT learners need it embedded in module cycles. PGR researchers deal with supervisory and peer-review feedback where affect and negotiation matter more and the boundary between feedback and disagreement is less clear.",
+      "citations": [
+        "carlessboud2018",
+        "hattietimperley2007",
+        "nicol2006"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "fbk.acting-on-feedback",
+      "summary": "Sadler (1989) argued that feedback only improves learning when the learner acts to close the gap between current and desired performance. Nicol and Macfarlane-Dick (2006) list providing opportunities to close the gap among their principles, and Winstone et al. (2017) identify learner recipience processes (self-appraisal, assessment literacy, goal setting and self-regulation, engagement and motivation) that affect whether feedback is used. Help learners to group comments, identify recurring themes and transfer process-level advice to different tasks; one-off responses to single comments rarely change practice.",
+      "activities": [
+        {
+          "title": "Feedback portfolio and theme coding",
+          "learnerActions": [
+            "Gather feedback from your last three pieces of work into one document",
+            "Code each comment by theme (for example structure, source use, argument, accuracy)",
+            "Identify the two most frequent themes",
+            "Write one action for each theme to apply in your next assignment"
+          ],
+          "intendedInsight": "Recurring comments across assignments show what to prioritise.",
+          "rationale": "Collating feedback across tasks supports the self-appraisal and goal-setting processes that Winstone et al. associate with using feedback.",
+          "citations": [
+            "winstone2017"
+          ]
+        },
+        {
+          "title": "Feedback response cover note",
+          "learnerActions": [
+            "Before submitting your next draft, write three sentences explaining which previous comments you have addressed and how",
+            "Attach the note to the draft",
+            "After receiving feedback, check whether the marker noticed the change"
+          ],
+          "intendedInsight": "Making your actions on feedback visible helps both you and the marker see whether they worked.",
+          "rationale": "A cover note creates the opportunity to close the gap that Nicol and Macfarlane-Dick recommend, and opens a feedback dialogue.",
+          "citations": [
+            "nicol2006"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'That comment was about that essay; the next assignment is different.'",
+          "kind": "conceptual",
+          "revealedBy": "The same process-level comments recurring across different task types.",
+          "response": "Show how process comments generalise by placing comments from different tasks side by side.",
+          "reteachPrerequisiteId": "fbk.feedback-literacy"
+        },
+        {
+          "pattern": "Acting on surface comments (typos, formatting) and ignoring global ones (argument, structure).",
+          "kind": "developmental",
+          "revealedBy": "Revised drafts with corrected errors but unchanged structure.",
+          "response": "Ask learners to prioritise comments by their likely effect on the mark using the criteria. Do not respond by marking only global issues, which leaves learners without information about accuracy.",
+          "reteachPrerequisiteId": "fbk.marking-criteria"
+        },
+        {
+          "pattern": "Vague comments such as 'needs more depth' feel impossible to act on.",
+          "kind": "conceptual",
+          "revealedBy": "Action plans that repeat the comment ('add more depth').",
+          "response": "Teach learners to translate vague comments using the criteria and to ask for clarification or an example.",
+          "reteachPrerequisiteId": "fbk.marking-criteria"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to show where in their latest draft they acted on a previous comment.",
+        "strongResponse": "Points to a specific change, explains the comment it responds to and judges whether it worked.",
+        "partialResponse": "Points to a change but cannot link it clearly to the comment, or made only surface changes.",
+        "gapResponse": "Cannot identify any change made in response to feedback."
+      },
+      "contextNotes": "Pre-sessional courses with draft–feedback cycles provide ideal practice. Foundation and in-sessional UG learners need to learn to carry feedback across modules. PGT learners often receive feedback after the next assignment is due, so carrying advice forward to a different task is essential. PGR researchers act on supervisory feedback across chapter drafts.",
+      "citations": [
+        "sadler1989",
+        "nicol2006",
+        "winstone2017"
+      ],
+      "reviewNotes": [
+        "winstone2017 is a proposed reference pending verification."
+      ]
+    },
+    {
+      "topicId": "fbk.corrective-feedback",
+      "summary": "Whether written corrective feedback helps was famously contested: Truscott (1996) argued that grammar correction is ineffective and potentially harmful, and Ferris (1999) replied that this conclusion was premature and depended on the quality of correction. Later research reviewed by Bitchener and Ferris (2012) and the meta-analysis by Kang and Han (2015) suggest that WCF can improve accuracy, with effects varying across learner and context factors. Learners' engagement (noticing, understanding and applying corrections) appears central. Teach the course's codes, require a response to them, prioritise recurring categories and connect the work to self-editing.",
+      "activities": [
+        {
+          "title": "Code, correct and explain",
+          "learnerActions": [
+            "Receive a draft with errors marked by code",
+            "Correct each error and write a one-line explanation of the rule or pattern",
+            "Check uncertain corrections with a grammar reference or the tutor",
+            "Submit the corrected version with your explanations"
+          ],
+          "intendedInsight": "Working out why something is wrong is more useful than copying a correction.",
+          "rationale": "Indirect feedback requires learners to process the error, which links to the role of noticing in acquisition (Schmidt, 1990); whether indirect feedback outperforms direct feedback is not settled (Bitchener & Ferris, 2012).",
+          "citations": [
+            "bitchenerferris2012",
+            "schmidt1990"
+          ]
+        },
+        {
+          "title": "Error log and focused editing pass",
+          "learnerActions": [
+            "Tally coded errors from your last three texts by category",
+            "Identify your top two categories",
+            "In your next draft, do one editing pass for each of those categories only",
+            "Compare the number of errors in those categories with your previous texts"
+          ],
+          "intendedInsight": "Your errors are patterned, and targeted checking reduces them more than general rereading.",
+          "rationale": "Focusing on a limited set of recurring categories reflects arguments for focused feedback and supports the shift from teacher correction to self-monitoring (Bitchener & Ferris, 2012).",
+          "citations": [
+            "bitchenerferris2012"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'I copied the corrections into my final version, so I've fixed it.'",
+          "kind": "conceptual",
+          "revealedBy": "Corrected drafts followed by the same errors in new texts.",
+          "response": "Require application in new writing and track error categories across texts, not only within one draft.",
+          "reteachPrerequisiteId": "fbk.feedback-literacy"
+        },
+        {
+          "pattern": "Being unable to interpret codes because the grammatical terms are unfamiliar.",
+          "kind": "developmental",
+          "revealedBy": "Wrong corrections of coded errors; questions such as 'What is a clause?'",
+          "response": "Teach the metalanguage behind the code with examples from the learner's own writing. Do not abandon codes in favour of direct correction for all errors simply because the terms are new.",
+          "reteachPrerequisiteId": "grm.clause-elements"
+        },
+        {
+          "pattern": "Feeling overwhelmed when every error is marked.",
+          "kind": "affective",
+          "revealedBy": "Drafts covered in marks; learners say they do not know where to start.",
+          "response": "Use focused feedback on priority categories and say which have been marked. Avoid comprehensive marking with no prioritisation.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give three coded errors from the learner's own text and ask them to correct and explain each.",
+        "strongResponse": "Corrects all three and explains the rule or pattern, noting whether each recurs in their writing.",
+        "partialResponse": "Corrects them but cannot explain why, or explains them but corrects inaccurately.",
+        "gapResponse": "Cannot interpret the codes or makes incorrect changes."
+      },
+      "contextNotes": "Foundation and pre-sessional courses use correction codes intensively; establish them early and link them to error logs. In in-sessional UG and PGT contexts, language feedback from subject markers is often sparse or inconsistent, so learners need self-monitoring routines rather than reliance on correction.",
+      "citations": [
+        "bitchenerferris2012",
+        "kanghan2015",
+        "truscott1996",
+        "ferris1999"
+      ],
+      "reviewNotes": [
+        "The WCF debate is not fully settled; claims about the relative efficacy of direct versus indirect and focused versus unfocused feedback vary across studies and should not be presented as definitive.",
+        "Most WCF studies target a small number of rule-governed structures, so generalising to all error types requires caution."
+      ]
+    },
+    {
+      "topicId": "fbk.seeking-feedback",
+      "summary": "Nicol and Macfarlane-Dick (2006) emphasise dialogue around feedback, which depends partly on students initiating it. Requests to staff carry a high imposition, and research on student emails to faculty has found that direct, unmitigated requests can be perceived as impolite (Economidou-Kogetsidis, 2011; Biesenbach-Lucas, 2007). Teach learners to make requests specific (what feedback, on what, why) and pragmatically appropriate, and to check what is permitted before submission.",
+      "activities": [
+        {
+          "title": "From vague to targeted request",
+          "learnerActions": [
+            "Read a vague request ('Can you check my essay?')",
+            "Rewrite it to name the specific aspect, what you have already done, and a question",
+            "Add appropriate opening, mitigation and closing",
+            "Compare versions in groups and discuss what makes a tutor more likely to respond usefully"
+          ],
+          "intendedInsight": "Specific, well-framed requests produce more useful feedback and are easier for staff to answer.",
+          "rationale": "Research on student emails shows that the framing of requests affects how they are perceived; specificity also makes feedback more actionable.",
+          "citations": [
+            "economidou2011",
+            "biesenbach2007"
+          ]
+        },
+        {
+          "title": "Clarification conversation role-play",
+          "learnerActions": [
+            "Choose a comment on your work that you do not fully understand",
+            "Prepare two clarifying questions, for example asking for an example of what improvement would look like",
+            "Role-play an office-hours conversation with a partner playing the tutor",
+            "Swap roles and give feedback on clarity and politeness"
+          ],
+          "intendedInsight": "Asking a tutor to clarify feedback is legitimate and can be done respectfully.",
+          "rationale": "Dialogue about feedback is one of Nicol and Macfarlane-Dick's principles; rehearsal reduces the social barrier to starting it.",
+          "citations": [
+            "nicol2006"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Reluctance to approach staff because it seems to challenge authority or waste their time.",
+          "kind": "prior-schooling",
+          "revealedBy": "Unclear comments never followed up; office hours unused.",
+          "response": "Make the expectation explicit (in many UK institutions, students are expected to use office hours) and model requests.",
+          "reteachPrerequisiteId": "fbk.feedback-literacy"
+        },
+        {
+          "pattern": "Requests that are too direct (imperatives, demands for quick replies) or so indirect that the request is unclear.",
+          "kind": "L1-transfer",
+          "revealedBy": "Emails such as 'Please check my essay and reply soon' or long apologies without a clear request.",
+          "response": "Where learners' L1 conventions signal politeness through markers such as 'please' attached to direct forms, or through extended deference, show how English academic emails typically mitigate requests with conditionals, modal verbs and acknowledgement of imposition. Present this as a convention for this context, not as more polite in absolute terms.",
+          "reteachPrerequisiteId": "prg.requests"
+        },
+        {
+          "pattern": "Asking 'Is this good?' rather than a specific question.",
+          "kind": "conceptual",
+          "revealedBy": "General requests that receive general answers.",
+          "response": "Link requests to criteria and ask learners to frame questions around one criterion.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to draft a two-sentence request for feedback on their current assignment plan.",
+        "strongResponse": "Names the specific aspect, shows prior work, includes appropriate mitigation, and respects timing.",
+        "partialResponse": "Is polite but general, or specific but too direct.",
+        "gapResponse": "Is a general request for checking, or would not ask."
+      },
+      "contextNotes": "Foundation and pre-sessional learners practise in a low-stakes setting with EAP tutors. In-sessional UG and PGT learners must navigate subject staff and varying pre-submission rules. For PGR researchers, seeking and negotiating feedback is central to supervision and links to working with supervisors and responding to reviewers.",
+      "citations": [
+        "nicol2006",
+        "economidou2011",
+        "biesenbach2007"
+      ],
+      "reviewNotes": [
+        "Rules on pre-submission feedback vary widely between institutions and modules."
+      ]
+    },
+    {
+      "topicId": "fbk.self-peer-assessment",
+      "summary": "Andrade and Valtcheva (2009) describe self-assessment as a formative process in which students reflect on the quality of their work against explicit criteria and revise accordingly, distinct from self-grading. Lundstrom and Baker (2009) found that L2 writers who gave peer feedback improved their own writing more than those who only received it. Sadler (1989) argues that evaluative expertise develops through guided experience of judging work. Structure peer review around criteria, and use calibration (comparing learner and tutor judgements) to build evaluative judgement over time.",
+      "activities": [
+        {
+          "title": "Calibration rounds",
+          "learnerActions": [
+            "Rate your draft on two criteria before submitting, giving evidence for each rating",
+            "Compare your ratings with the tutor's after marking",
+            "Explain any gap: what did you notice or miss?",
+            "Track your gap over several assignments"
+          ],
+          "intendedInsight": "Your judgement of quality can become more accurate with practice and comparison.",
+          "rationale": "Sadler argues that learners need to develop evaluative expertise; comparing self-ratings with expert ratings provides the information needed to calibrate.",
+          "citations": [
+            "sadler1989",
+            "andrade2009"
+          ]
+        },
+        {
+          "title": "Give-to-get peer review",
+          "learnerActions": [
+            "Review a peer's draft using two criterion-based questions",
+            "For each issue, say what it is, its effect on the reader and a suggested direction",
+            "Note one thing from reviewing their draft that you will apply to your own",
+            "Revise your own draft before reading the feedback you received"
+          ],
+          "intendedInsight": "Reviewing others' work improves your own writing, not only theirs.",
+          "rationale": "Lundstrom and Baker (2009) found that giving feedback benefited reviewers' writing; criterion-based prompts help focus comments beyond surface correction.",
+          "citations": [
+            "lundstrombaker2009",
+            "liuhansen2002"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Peers aren't experts, so their feedback is useless.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Peer comments ignored; reluctance to review.",
+          "response": "Emphasise the benefit to the reviewer and structure the review so that comments are useful. Do not make peer review a substitute for tutor feedback.",
+          "reteachPrerequisiteId": "fbk.feedback-literacy"
+        },
+        {
+          "pattern": "Peer comments limited to praise and grammar corrections.",
+          "kind": "developmental",
+          "revealedBy": "Comments such as 'Good essay' and lists of typos.",
+          "response": "Provide criterion-based question prompts and model higher-level comments.",
+          "reteachPrerequisiteId": "fbk.marking-criteria"
+        },
+        {
+          "pattern": "Self-ratings consistently far above or below tutor ratings.",
+          "kind": "developmental",
+          "revealedBy": "Large calibration gaps that persist across assignments.",
+          "response": "Make the gap the focus of discussion: which features did the learner overlook or overvalue? Do not use self-assessment scores towards grades, which encourages inflation.",
+          "reteachPrerequisiteId": "fbk.marking-criteria"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to give one piece of feedback on a peer's paragraph using a given criterion.",
+        "strongResponse": "Identifies a specific issue linked to the criterion, explains its effect on the reader and suggests a direction.",
+        "partialResponse": "Identifies an issue but gives no explanation or direction, or comments only on surface features.",
+        "gapResponse": "Gives only general praise or general criticism."
+      },
+      "contextNotes": "Foundation and pre-sessional courses can run regular peer review with scaffolds. In-sessional UG and PGT learners apply the skill to their own drafts, often without tutor support. PGR researchers use it in writing groups and later in reviewing for journals, where evaluative judgement is a core academic skill.",
+      "citations": [
+        "andrade2009",
+        "lundstrombaker2009",
+        "sadler1989",
+        "liuhansen2002"
+      ],
+      "reviewNotes": []
+    },
     {
       "topicId": "lrn.metacognitive-knowledge",
       "summary": "Flavell (1979) distinguishes metacognitive knowledge (about persons, tasks and strategies) from metacognitive experiences, and EAP listening pedagogy has shown the person–task–strategy distinction to be a practical teaching frame (Vandergrift & Goh, 2012). Make the three variables explicit, then repeatedly set learners' predictions against evidence, because judgements of learning tend to be driven by fluency and familiarity rather than by how well material can later be retrieved (Bjork et al., 2013). Metacognitive knowledge is built through reflection on real tasks, not delivered in a single lecture.",
@@ -1500,6 +3769,428 @@
         "dafouzsmit2016"
       ],
       "reviewNotes": []
+    },
+    {
+      "topicId": "tst.assessment-purposes",
+      "summary": "Bachman and Palmer (2010) frame assessment as a chain from performance to interpretation to decision, which shows learners that a score matters because of the decision it supports. The CEFR (Council of Europe, 2001) distinguishes types of assessment, including achievement and proficiency assessment, and Murray (2016) discusses post-entry language assessment as a separate purpose from entry testing. Teach purposes through the assessments learners actually face, and address common misconceptions, such as treating a diagnostic task as a test to be gamed.",
+      "activities": [
+        {
+          "title": "Purpose–decision map",
+          "learnerActions": [
+            "List every language assessment you have taken or will take this year",
+            "For each, note its purpose, who uses the result and what decision it affects",
+            "Compare maps in groups and identify any assessment whose purpose was unclear"
+          ],
+          "intendedInsight": "Each assessment exists to support a particular decision, which affects how you should approach it.",
+          "rationale": "Bachman and Palmer's assessment use argument links scores to decisions; mapping makes that link concrete for learners.",
+          "citations": [
+            "bachmanpalmer2010"
+          ]
+        },
+        {
+          "title": "Same score, different decisions",
+          "learnerActions": [
+            "Consider a borderline score and discuss what decisions different users (a university, a placement coordinator, a teacher) might make with it",
+            "Discuss why a small score difference may not reflect a real difference in ability",
+            "Agree what other evidence could inform each decision"
+          ],
+          "intendedInsight": "Scores are evidence with limits, and decisions should take those limits into account.",
+          "rationale": "Measurement error and the uses made of scores are central concerns in Bachman and Palmer's framework.",
+          "citations": [
+            "bachmanpalmer2010"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'My score is my level, permanently.'",
+          "kind": "conceptual",
+          "revealedBy": "Learners describe themselves by a score; discouragement or complacency based on a single result.",
+          "response": "Discuss scores as a snapshot with error, and point to development since the test.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Treating a post-entry diagnostic task as high-stakes and preparing to 'pass' it.",
+          "kind": "prior-schooling",
+          "revealedBy": "Memorised essays in diagnostic writing; anxiety about results that only guide support.",
+          "response": "Explain the purpose and use of diagnostic results and stress that accurate results lead to more useful support.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Expecting the course achievement mark to equal a proficiency score.",
+          "kind": "conceptual",
+          "revealedBy": "Questions such as 'What IELTS score is this mark?'",
+          "response": "Explain the difference between what was taught and assessed on a course and general proficiency, and refer to how the institution expresses equivalence where it does.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What is the difference between the test you took to apply and the assessments on this course?'",
+        "strongResponse": "Distinguishes the purposes (general proficiency for admission versus achievement and progression on a course) and the decisions each supports.",
+        "partialResponse": "Notes differences in format but not in purpose.",
+        "gapResponse": "Sees no difference, or describes both simply as 'English tests'."
+      },
+      "contextNotes": "Foundation and pre-sessional learners face several assessments with different purposes in a short period. In-sessional UG and PGT learners may meet post-entry diagnostic assessment and need to understand its supportive purpose.",
+      "citations": [
+        "bachmanpalmer2010",
+        "coe2001",
+        "murray2016standards"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "tst.cefr-entry",
+      "summary": "The CEFR (Council of Europe, 2001, 2020) is a descriptive framework of communicative ability, not a test; the Companion Volume refines and extends the illustrative scales, including plus levels and mediation. North (2014) explains that relating an examination to the CEFR requires specific procedures and expert judgement, so test-to-CEFR alignments are claims made by test owners, not exact conversions. As a UK example, the Student route requires English at CEFR B2 for degree-level study, shown through an approved test or, in some cases, the sponsoring provider's own assessment (UK Visas and Immigration, 2025); these rules change and must be checked at source. Arkoudis et al. (2012) argue that meeting entry standards is the start of language development, not its end.",
+      "activities": [
+        {
+          "title": "Read the requirement",
+          "learnerActions": [
+            "Find the English language requirement for your intended programme",
+            "Identify the overall score and any minimum per skill",
+            "Check three sample score profiles against it",
+            "Note where the institution says its requirement comes from and when it was last updated"
+          ],
+          "intendedInsight": "Requirements have several parts, and missing one component minimum can matter as much as the overall score.",
+          "rationale": "Accurate reading of requirements prevents costly misunderstandings; component minimums reflect the CEFR's recognition that profiles differ across skills.",
+          "citations": [
+            "coe2020"
+          ]
+        },
+        {
+          "title": "Where is the official rule?",
+          "learnerActions": [
+            "Find the official government guidance on the English requirement for your visa route",
+            "Compare it with what an agent website or forum says",
+            "Note differences and the date of each source"
+          ],
+          "intendedInsight": "Official current sources are the only reliable basis for decisions about requirements.",
+          "rationale": "Visa requirements change; learning to check the official source is more durable than learning a specific rule.",
+          "citations": [
+            "ukvi2025student"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Treating a test score as an exact CEFR level ('6.5 is C1') or assuming scores convert directly between tests.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Learners quoting conversion tables as exact; surprise when institutions accept different scores from different tests.",
+          "response": "Explain that alignments are approximate claims by test owners and that institutions set their own requirements. Do not supply a single conversion table as authoritative.",
+          "reteachPrerequisiteId": "tst.assessment-purposes"
+        },
+        {
+          "pattern": "'If I meet the entry requirement, my English is good enough for my degree.'",
+          "kind": "conceptual",
+          "revealedBy": "Reluctance to engage with in-sessional support after admission.",
+          "response": "Show the language demands of the degree that entry tests do not measure directly, such as extended source-based writing.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Relying on outdated or unofficial information about requirements.",
+          "kind": "performance",
+          "revealedBy": "Learners citing rules that have changed, or advice from agents and social media.",
+          "response": "Teach learners to check dates and official sources, and model doing so.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What English level do you need for your programme, and how do you know?'",
+        "strongResponse": "States the requirement including component minimums, names the official source and acknowledges that rules can change.",
+        "partialResponse": "States the overall requirement but not the component minimums, or cites an unofficial source.",
+        "gapResponse": "Is unsure of the requirement or confuses institutional and visa rules."
+      },
+      "contextNotes": "Foundation and pre-sessional learners are often under direct pressure from entry and visa requirements, so accuracy and up-to-date sources are essential. Teachers should avoid giving visa advice and refer learners to official guidance and institutional advisers.",
+      "citations": [
+        "coe2020",
+        "north2014",
+        "ukvi2025student",
+        "arkoudis2012"
+      ],
+      "reviewNotes": [
+        "Visa rules and accepted tests change; the UKVI reference is dated 2025 and content must be reviewed at each release.",
+        "No test-to-CEFR concordance is stated, by design."
+      ]
+    },
+    {
+      "topicId": "tst.test-formats",
+      "summary": "Bachman and Palmer (2010) describe how task characteristics shape what an assessment measures, which is why preparation should target the constructs behind task types rather than surface tricks. Washback, the influence of tests on teaching and learning, is real but complex (Alderson & Wall, 1993), and Green's (2007) study of IELTS preparation documents how test-focused preparation can narrow attention to test task types. Teach formats at the level of task types and constructs, using official current sample materials and public criteria, and do not reproduce test content. Formats and timings change, so learners should check the test owner's current information.",
+      "activities": [
+        {
+          "title": "Construct mapping",
+          "learnerActions": [
+            "Using official sample tasks, list each task type in your test",
+            "For each, write what skill or ability you think it is trying to measure",
+            "Discuss which university activities draw on the same ability"
+          ],
+          "intendedInsight": "Each task measures something, and preparing for that ability is more useful than preparing for the task's surface.",
+          "rationale": "Focusing on constructs rather than task tricks reflects Bachman and Palmer's account of task characteristics and may reduce the narrowing effects of washback that Green (2007) describes.",
+          "citations": [
+            "bachmanpalmer2010",
+            "green2007"
+          ]
+        },
+        {
+          "title": "Criterion paraphrase",
+          "learnerActions": [
+            "Find the public names of the scoring criteria for the writing or speaking tasks",
+            "Explain each criterion in your own words",
+            "Identify which criterion your recent practice responses meet least well"
+          ],
+          "intendedInsight": "Scores for productive tasks rest on several criteria, so preparation should address all of them.",
+          "rationale": "Knowing the criteria directs preparation towards what is assessed; criterion names are public, but descriptor text should not be reproduced in class materials.",
+          "citations": [
+            "bachmanpalmer2010"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Relying on unofficial templates and 'tricks' learned from preparation materials.",
+          "kind": "prior-schooling",
+          "revealedBy": "Memorised phrases and structures; claims about secret rules for scoring.",
+          "response": "Compare the tricks with official criteria and samples, and show their limits. Do not ridicule the learner's preparation; it often reflects the market they had access to.",
+          "reteachPrerequisiteId": "tst.assessment-purposes"
+        },
+        {
+          "pattern": "Assuming all academic tests have the same format.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Preparing for one test with another's materials.",
+          "response": "Compare task types across two tests at the level of constructs.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Using outdated information about formats.",
+          "kind": "performance",
+          "revealedBy": "Preparing for tasks or timings that no longer apply.",
+          "response": "Direct learners to the test owner's current official information.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to describe the speaking section of the test they will take and what it scores.",
+        "strongResponse": "Describes task types accurately, names the scoring criteria and explains them.",
+        "partialResponse": "Describes tasks accurately but not the criteria, or vice versa.",
+        "gapResponse": "Gives an inaccurate or trick-based description."
+      },
+      "contextNotes": "Foundation and pre-sessional learners may be preparing for, or have recently taken, a test. Emphasise constructs and official sources, and connect test preparation to broader academic literacy development rather than replacing it.",
+      "citations": [
+        "bachmanpalmer2010",
+        "green2007",
+        "alderson1993washback"
+      ],
+      "reviewNotes": [
+        "Test formats, timings and delivery modes change; this topic deliberately avoids specific timings and item counts.",
+        "alderson1993washback is a proposed reference pending verification."
+      ]
+    },
+    {
+      "topicId": "tst.test-vs-university",
+      "summary": "Moore and Morton (2005) compared IELTS Task 2 prompts with university writing assignments and found that university writing typically draws on sources and spans varied genres, whereas the test task relies on prior knowledge and opinion and more closely resembles certain public, non-academic genres. Horowitz (1986) found that university tasks mostly require selecting and reorganising material from sources. Green (2007) documents how test-focused preparation can narrow attention to test task types. Make the differences explicit so that learners can set aside test habits that do not serve them, without dismissing the test skills that transfer.",
+      "activities": [
+        {
+          "title": "Two-task comparison grid",
+          "learnerActions": [
+            "Place a test writing prompt and a university assignment brief side by side",
+            "Compare them on length, sources, audience, genre, time and criteria",
+            "Identify which test skills transfer (for example, paragraph organisation) and which do not (for example, unsupported opinion)"
+          ],
+          "intendedInsight": "Some test skills transfer, but university writing makes different demands, above all for using sources.",
+          "rationale": "The grid operationalises the dimensions of difference identified by Moore and Morton (2005).",
+          "citations": [
+            "mooremorton2005"
+          ]
+        },
+        {
+          "title": "Template audit",
+          "learnerActions": [
+            "Highlight memorised phrases and structures from test preparation in one of your recent texts",
+            "Decide for each whether it suits an academic text in your field",
+            "Replace those that do not with alternatives found in disciplinary texts"
+          ],
+          "intendedInsight": "Phrases that score well in a test can sound formulaic or out of place in university writing.",
+          "rationale": "Green (2007) shows how test preparation shapes learners' language and attention; auditing makes these effects visible and revisable.",
+          "citations": [
+            "green2007"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Using memorised test templates (for example, a fixed introduction formula) in university assignments.",
+          "kind": "prior-schooling",
+          "revealedBy": "Identical openings across assignments; formulaic linking.",
+          "response": "Compare templated and disciplinary introductions and discuss their effect on readers. Do not ban formulaic language, which has legitimate uses; ask whether each phrase does its job.",
+          "reteachPrerequisiteId": "tst.test-formats"
+        },
+        {
+          "pattern": "Writing opinion without sources ('In my opinion…') in assignments that require evidence.",
+          "kind": "prior-schooling",
+          "revealedBy": "Unsupported claims; feedback asking for evidence.",
+          "response": "Show the function of sources in university writing and practise supporting claims with them.",
+          "reteachPrerequisiteId": "src.source-functions"
+        },
+        {
+          "pattern": "Expecting university criteria to resemble generic test criteria.",
+          "kind": "conceptual",
+          "revealedBy": "Learners look for criteria such as 'lexical resource' in university rubrics.",
+          "response": "Compare a test criterion list with a disciplinary rubric, and link to genre families.",
+          "reteachPrerequisiteId": "ges.genre-families"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'What did you do in your test essay that you should not do in a university essay, and why?'",
+        "strongResponse": "Names specific habits (opinion without sources, templates, general topics) and explains the difference in task demands.",
+        "partialResponse": "Names one difference in general terms.",
+        "gapResponse": "Sees no difference or says only that university writing is longer."
+      },
+      "contextNotes": "Foundation and pre-sessional courses are the main sites for this topic. In-sessional UG and PGT learners who entered directly with a test score may need it in their first weeks, especially PGT learners with only a year to adjust.",
+      "citations": [
+        "mooremorton2005",
+        "green2007",
+        "horowitz1986"
+      ],
+      "reviewNotes": [
+        "Moore and Morton's study concerns IELTS; other tests include integrated, source-based tasks, so the contrast is less sharp for them."
+      ]
+    },
+    {
+      "topicId": "tst.integrated-test-tasks",
+      "summary": "Plakans (2008) found that reading-to-write test tasks elicited more interactive composing processes than writing-only tasks, and Plakans and Gebril (2012) showed that writers use sources in integrated tasks for ideas, support and organisation, with the selection of important source ideas and the handling of source language among the differences between performances. Teach integrated tasks as a test-specific application of source-based writing: efficient notes, attention to the relationship between sources, selective use of content, attribution and transformation of wording, all within strict time limits.",
+      "activities": [
+        {
+          "title": "Relationship notes",
+          "learnerActions": [
+            "Divide a page into two columns for the reading and the talk",
+            "Note the main points of each in the matching rows",
+            "Draw arrows to show how each point in the talk relates to the reading (challenges, supports, extends)",
+            "Write your response from the arrows rather than from the source text"
+          ],
+          "intendedInsight": "The task is usually about the relationship between sources, not about each source separately.",
+          "rationale": "Organising notes by relationship supports the selection of important ideas, which Plakans and Gebril (2012) link to differences in performance.",
+          "citations": [
+            "plakansgebril2012"
+          ]
+        },
+        {
+          "title": "Borrowing check",
+          "learnerActions": [
+            "Compare your response with the reading and highlight any strings of three or more words copied directly",
+            "Decide for each whether it is a technical term to keep or wording to transform",
+            "Rewrite the transformable strings"
+          ],
+          "intendedInsight": "Using your own wording shows understanding and avoids patchwriting.",
+          "rationale": "Plakans (2008) and Plakans and Gebril (2012) document how writers draw on source language in integrated tasks; making borrowing visible supports transformation.",
+          "citations": [
+            "plakans2008",
+            "plakansgebril2012"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Copying chunks of the reading into the response.",
+          "kind": "developmental",
+          "revealedBy": "Strings matching the reading; little transformation.",
+          "response": "Treat this as a stage in learning to use sources and teach transformation explicitly. Do not treat it as misconduct in a practice context.",
+          "reteachPrerequisiteId": "syn.integrated-tasks"
+        },
+        {
+          "pattern": "Ignoring or under-using the listening input.",
+          "kind": "performance",
+          "revealedBy": "Responses based mainly on the reading.",
+          "response": "Practise note-taking on short talks and require each point to be linked to the reading.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Summarising each source separately without stating the relationship.",
+          "kind": "developmental",
+          "revealedBy": "Two-part responses ('The reading says… The lecture says…').",
+          "response": "Model responses organised around the relationship and use the relationship-notes format.",
+          "reteachPrerequisiteId": "syn.integrated-tasks"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a short reading and talk and ask for a two-to-three-sentence summary of how they relate.",
+        "strongResponse": "States the relationship accurately, includes key points from both and uses own wording with attribution.",
+        "partialResponse": "Summarises both but does not state the relationship, or states it with copied wording.",
+        "gapResponse": "Summarises only one source or misrepresents the relationship."
+      },
+      "contextNotes": "Foundation and pre-sessional learners preparing for tests with integrated tasks need this directly; it also prepares them for the source-based tasks of pre-sessional progression and university study.",
+      "citations": [
+        "plakans2008",
+        "plakansgebril2012"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "tst.presessional-progression",
+      "summary": "Weigle (2002) discusses alternatives to timed impromptu writing, including portfolio and process-based assessment, which allow writing to be judged under conditions closer to academic practice; many pre-sessional programmes assess progression in this way through extended writing, projects and presentations. Bachman and Palmer (2010) highlight the consequences of assessment decisions for test takers, which are particularly significant in progression. Make components, weightings, criteria, thresholds and integrity rules explicit early, and build the course around formative stages.",
+      "activities": [
+        {
+          "title": "Progression map",
+          "learnerActions": [
+            "Using your programme handbook, list each assessed component, its weighting and its criteria",
+            "Identify how results combine into the progression decision, including any minimum per skill",
+            "Mark the formative stages before each summative submission",
+            "Compare maps with a partner and check any uncertainty with your tutor"
+          ],
+          "intendedInsight": "Progression depends on several components and thresholds, and formative stages are the opportunities to improve.",
+          "rationale": "Making the assessment design visible lets learners plan effort and use formative feedback, which is how portfolio and process-based assessment is intended to work (Weigle, 2002).",
+          "citations": [
+            "weigle2002"
+          ]
+        },
+        {
+          "title": "Draft-to-final tracker",
+          "learnerActions": [
+            "Record the feedback you receive at each formative stage",
+            "Note the action you took on each comment",
+            "Before final submission, check that every priority comment has been addressed"
+          ],
+          "intendedInsight": "Final performance in coursework-based progression depends heavily on how formative feedback is used.",
+          "rationale": "Process-based assessment rewards revision; tracking actions links progression assessment to feedback literacy.",
+          "citations": [
+            "weigle2002"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Treating the pre-sessional as test preparation and waiting for a final exam.",
+          "kind": "prior-schooling",
+          "revealedBy": "Low engagement with drafts; questions about when 'the test' is.",
+          "response": "Explain the coursework-based design early and show how formative stages count towards the outcome.",
+          "reteachPrerequisiteId": "tst.test-vs-university"
+        },
+        {
+          "pattern": "Over-investing in one component and neglecting others with minimum thresholds.",
+          "kind": "performance",
+          "revealedBy": "Strong essay, weak presentation or speaking result.",
+          "response": "Review the progression map at mid-course and rebalance effort.",
+          "reteachPrerequisiteId": "fbk.marking-criteria"
+        },
+        {
+          "pattern": "Uncertainty about what help is permitted with drafts (peers, proofreaders, AI tools).",
+          "kind": "conceptual",
+          "revealedBy": "Questions about using translation or AI tools; drafts that change voice between versions.",
+          "response": "Make the programme's integrity rules explicit with examples of permitted and non-permitted help.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'How will your progression decision be made, and what is your weakest component?'",
+        "strongResponse": "Describes components, weightings and thresholds accurately and has a plan for the weakest component.",
+        "partialResponse": "Knows the components but not the thresholds, or names a weak component with no plan.",
+        "gapResponse": "Does not know how progression is decided."
+      },
+      "contextNotes": "This is central on pre-sessional programmes and relevant to foundation and pathway programmes with similar progression arrangements. Arrangements vary considerably between institutions.",
+      "citations": [
+        "weigle2002",
+        "bachmanpalmer2010"
+      ],
+      "reviewNotes": [
+        "Progression arrangements vary widely; institutions that accept their own pre-sessional outcomes in place of a test for immigration purposes do so under specific regulatory conditions that change."
+      ]
     }
   ],
   "proposedReferences": [
@@ -1560,9 +4251,20 @@
     }
   ],
   "authorNotes": [
+    "ges.exam-essay and ges.short-answer should take exm.timed-writing (hard) and exm.question-analysis as prerequisites; I did not link exm.timed-writing to ges.exam-essay to avoid a cycle.",
+    "exm.oral-exams vs pub.viva: suggest pub.viva <- exm.oral-exams (soft). exm.test-anxiety overlaps with sem.speaking-anxiety (both build on Horwitz et al., 1986); suggest a soft link sem.speaking-anxiety -> exm.test-anxiety or a cross-reference, not both directions.",
+    "There is no topic for learning from returned exam scripts or exam feedback; currently this falls between fbk.acting-on-feedback and exm.revision-planning.",
+    "fbk.self-peer-assessment overlaps with edt.criteria-self-assessment and edt.peer-review. Suggested direction: edt.criteria-self-assessment <- fbk.marking-criteria (hard) and fbk.self-peer-assessment (soft); edt.peer-review <- fbk.self-peer-assessment (soft). I did not add the reverse edges.",
+    "fbk.corrective-feedback should be a prerequisite of grm.error-monitoring and edt.grammar-editing (error logs grow out of corrective feedback); I did not link fbk.corrective-feedback to grm.error-monitoring to avoid a cycle.",
+    "dig.automated-feedback-tools and gai.language-support provide automated corrective feedback; suggest both take fbk.corrective-feedback or fbk.feedback-literacy as a soft prerequisite.",
+    "fbk.grading-systems is UK-centric in its skeleton scope; suggest wording such as 'Grading systems and mark scales' with explicit coverage of TNE and non-UK systems.",
+    "res.supervision should take fbk.seeking-feedback as a prerequisite; pub.responding-reviewers could take fbk.acting-on-feedback.",
     "lrn.metacognitive-knowledge and lrn.motivation are treated as entry points within the strand; lrn.self-regulation depends on metacognitive knowledge rather than the reverse.",
     "Direction assumptions made to keep the global graph acyclic: other strands should point TO lrn.study-techniques (e.g., voc.deliberate-learning-systems, ntk.reviewing-notes), lrn.time-management (e.g., wpr.managing-long-projects, res.writing-productivity) and lrn.goal-setting, not the reverse. I did not link lrn.wellbeing to acu.transition to avoid a likely cycle; editors should decide one direction (suggest acu.transition <- lrn.wellbeing as soft).",
     "lrn.reflective-logs (a learning tool) is distinct from ges.reflective-writing and dhl.reflective-practice (assessed genres); suggest those genre topics take lrn.reflective-logs as a soft prerequisite.",
-    "lrn.content-through-english overlaps with acu.emi-tne; I avoided linking them in either direction. Suggest acu.emi-tne (context) be a soft prerequisite of lrn.content-through-english, or that the scope notes be sharpened so one describes contexts and the other the learning strategy."
+    "lrn.content-through-english overlaps with acu.emi-tne; I avoided linking them in either direction. Suggest acu.emi-tne (context) be a soft prerequisite of lrn.content-through-english, or that the scope notes be sharpened so one describes contexts and the other the learning strategy.",
+    "tst.integrated-test-tasks overlaps with syn.integrated-tasks; I made syn.integrated-tasks a hard prerequisite and scoped the TST topic to test-specific constraints (task structure, time limits, scoring). Suggest syn.integrated-tasks scope note exclude test strategies explicitly.",
+    "tst.cefr-entry combines conceptual CEFR knowledge with regulatory content (visa rules) that dates quickly; suggest a maintenance flag or review date on this topic.",
+    "tst.assessment-purposes is an entry point by design. Post-entry language assessment (PELA) is not covered by a separate topic; it is folded into tst.assessment-purposes, which is why that topic lists in-sessional stages."
   ]
 }

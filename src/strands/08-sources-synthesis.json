@@ -1959,6 +1959,12 @@
       "prerequisiteId": "exm.timed-writing",
       "strength": "soft",
       "reason": "Integrated test responses are produced under strict time limits and draw on rapid planning and time allocation"
+    },
+    {
+      "topicId": "src.multilingual-sources",
+      "prerequisiteId": "idn.translingual-writing",
+      "strength": "soft",
+      "reason": "Using sources in other languages connects to translingual approaches to academic text"
     }
   ],
   "guidance": [

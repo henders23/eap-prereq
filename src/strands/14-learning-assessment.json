@@ -87,7 +87,9 @@
         "coe2020",
         "north2014",
         "mooremorton2005",
-        "green2007"
+        "green2007",
+        "ielts2023writing",
+        "ielts2023speaking"
       ]
     }
   ],
@@ -1749,6 +1751,30 @@
       "prerequisiteId": "tst.test-formats",
       "strength": "soft",
       "reason": "Interpreting component scores and comparing tests depends on knowing what each test component measures and how it is delivered"
+    },
+    {
+      "topicId": "lrn.content-through-english",
+      "prerequisiteId": "acu.emi-tne",
+      "strength": "soft",
+      "reason": "Learning content through English is shaped by the EMI or transnational context in which it happens"
+    },
+    {
+      "topicId": "fbk.marking-criteria",
+      "prerequisiteId": "acu.hidden-curriculum",
+      "strength": "soft",
+      "reason": "Marking criteria encode tacit expectations that are easier to interpret once they are made explicit"
+    },
+    {
+      "topicId": "fbk.feedback-literacy",
+      "prerequisiteId": "acu.hidden-curriculum",
+      "strength": "soft",
+      "reason": "Feedback often presupposes tacit expectations that learners need to recognise"
+    },
+    {
+      "topicId": "tst.presessional-progression",
+      "prerequisiteId": "ges.extended-source-based-project",
+      "strength": "soft",
+      "reason": "The extended source-based project is a common progression assessment"
     }
   ],
   "guidance": [

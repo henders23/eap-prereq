@@ -8,7 +8,7 @@
       "summary": "This domain treats argument as the organising purpose of most assessed academic writing and much academic talk: taking a position, supporting claims with evidence and explicit reasoning, anticipating and answering objections, and sequencing sub-claims into a cumulative case. Hirvela (2017) argues that L2 writing pedagogy has given argumentation less attention than its centrality warrants, and Wingate (2012) found that students often receive feedback on 'argument' without being shown what it consists of. Toulmin's model, argumentation schemes and argument mapping are offered as analytical tools rather than templates, and disciplinary variation in what counts as a good argument (Andrews, 2010) is made explicit.",
       "learnerSummary": "You will learn what an academic argument is, how to build one from claims, evidence and reasoning, and how to answer other views fairly in writing and discussion.",
       "stageEmphasis": {
-        "foundation": "Build the concept of argument as a supported position, with simple claim–evidence–explanation links in short essays and talks, and awareness of how texts persuade.",
+        "foundation": "Build the concept of argument as a supported position, with simple claim\u2013evidence\u2013explanation links in short essays and talks, and awareness of how texts persuade.",
         "pre-sessional-ug": "Develop a clear, qualified position in the source-based essays used for progression, with counter-argument and concession, and carry these moves into seminar discussion.",
         "pre-sessional-pg": "Prepare for postgraduate study by sustaining a position across longer source-based assignments, conceding and rebutting with evidence, and evaluating the arguments of research articles.",
         "in-sessional-ug": "Adapt argument to disciplinary genres, make reasoning explicit for subject readers, and evaluate others' arguments in readings, critiques and dissertations.",
@@ -28,7 +28,7 @@
       "code": "CRT",
       "strand": "Argument & Critical Thinking",
       "name": "Critical Thinking",
-      "summary": "This domain treats critical thinking as a contested, partly discipline-specific set of practices and dispositions — questioning, weighing evidence, recognising inference patterns and their limits, considering perspectives fairly and reflecting on one's own position — that can be made explicit and taught. It rejects the deficit framing that some groups of learners 'cannot think critically': hesitancy to critique published work is common among novice writers of all backgrounds and is treated as a matter of assessment genres, novice status and licence to question, not as a cognitive or cultural deficit. The domain supplies the reasoning that the Academic Argumentation domain turns into written and spoken argument.",
+      "summary": "This domain treats critical thinking as a contested, partly discipline-specific set of practices and dispositions \u2014 questioning, weighing evidence, recognising inference patterns and their limits, considering perspectives fairly and reflecting on one's own position \u2014 that can be made explicit and taught. It rejects the deficit framing that some groups of learners 'cannot think critically': hesitancy to critique published work is common among novice writers of all backgrounds and is treated as a matter of assessment genres, novice status and licence to question, not as a cognitive or cultural deficit. The domain supplies the reasoning that the Academic Argumentation domain turns into written and spoken argument.",
       "learnerSummary": "You will learn what tutors mean by 'be critical', how to question and weigh evidence and reasoning, and how to notice common errors in thinking, including your own.",
       "stageEmphasis": {
         "foundation": "Make criticality concrete with familiar topics: description versus analysis, simple questions about evidence, and fair representation of different views.",
@@ -77,7 +77,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "What counts as an academic argument",
-      "description": "Understand an academic argument as a reasoned position on a question, developed through claims supported by evidence and explicit reasoning and responsive to other views — not a quarrel, a one-sided opinion or a well-organised collection of facts. Grasping this reframes most assessed writing as argument and explains feedback such as 'What is your argument?'",
+      "description": "Understand an academic argument as a reasoned position on a question, developed through claims supported by evidence and explicit reasoning and responsive to other views \u2014 not a quarrel, a one-sided opinion or a well-organised collection of facts. Grasping this reframes most assessed writing as argument and explains feedback such as 'What is your argument?'",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
@@ -87,7 +87,7 @@
         "Identifies the position, the main supporting reasons and any response to other views in a short argumentative text",
         "Explains why an essay with accurate information and clear organisation may still be judged to lack an argument"
       ],
-      "assessmentPrompt": "Give the learner two 150-word paragraphs on the same topic — one an accurate informative summary of research, one taking and supporting a position. Ask which contains an argument and to state that argument in one sentence. Look for recognition that argument requires a contestable position plus support, not just accurate content.",
+      "assessmentPrompt": "Give the learner two 150-word paragraphs on the same topic \u2014 one an accurate informative summary of research, one taking and supporting a position. Ask which contains an argument and to state that argument in one sentence. Look for recognition that argument requires a contestable position plus support, not just accurate content.",
       "citations": [
         "wingate2012argument",
         "andrews2010",
@@ -162,7 +162,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "Toulmin model of argument",
-      "description": "Use Toulmin's model — claim, data or grounds, warrant, backing, qualifier and rebuttal — to analyse how a single argument works and where it is vulnerable. Its value in EAP lies in making visible the usually implicit link (warrant) between evidence and claim and the role of qualification and exceptions, not in providing an essay template.",
+      "description": "Use Toulmin's model \u2014 claim, data or grounds, warrant, backing, qualifier and rebuttal \u2014 to analyse how a single argument works and where it is vulnerable. Its value in EAP lies in making visible the usually implicit link (warrant) between evidence and claim and the role of qualification and exceptions, not in providing an essay template.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -205,7 +205,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "Supporting claims",
-      "description": "Link each claim to evidence and reasoning that are relevant, sufficient and appropriate to the claim's type and strength — drawing on sources, data, examples and explanation — and make clear how each piece of support bears on the claim. This is the basic unit of argumentative writing and speaking, from foundation paragraphs to thesis chapters.",
+      "description": "Link each claim to evidence and reasoning that are relevant, sufficient and appropriate to the claim's type and strength \u2014 drawing on sources, data, examples and explanation \u2014 and make clear how each piece of support bears on the claim. This is the basic unit of argumentative writing and speaking, from foundation paragraphs to thesis chapters.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -254,7 +254,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "Making reasoning explicit",
-      "description": "State, where readers need it, the reasoning that connects evidence to claim — the principle, mechanism, assumption or criterion that makes the evidence relevant — and support that reasoning when it may be contested. Explicit warrants distinguish analysis from the juxtaposition of facts and claims, especially for readers who do not share the writer's assumptions.",
+      "description": "State, where readers need it, the reasoning that connects evidence to claim \u2014 the principle, mechanism, assumption or criterion that makes the evidence relevant \u2014 and support that reasoning when it may be contested. Explicit warrants distinguish analysis from the juxtaposition of facts and claims, especially for readers who do not share the writer's assumptions.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -265,7 +265,7 @@
         "Uses the language of reasoning accurately (given that, on the assumption that, this suggests that, because)",
         "Detects places in their own drafts where the evidence could equally support a different claim"
       ],
-      "assessmentPrompt": "Give a claim–evidence pair with a debatable warrant (e.g. 'Students rated the new module highly, so it improved their learning'). Ask the learner to write the missing warrant and say whether a sceptical reader would accept it. Look for a warrant that names the assumption (ratings reflect learning) and recognition that it needs backing.",
+      "assessmentPrompt": "Give a claim\u2013evidence pair with a debatable warrant (e.g. 'Students rated the new module highly, so it improved their learning'). Ask the learner to write the missing warrant and say whether a sceptical reader would accept it. Look for a warrant that names the assumption (ratings reflect learning) and recognition that it needs backing.",
       "citations": [
         "toulmin2003",
         "walton2006"
@@ -353,7 +353,7 @@
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Writes concession–counter sequences (e.g. 'Although X…, Y…') that keep the writer's position dominant",
+        "Writes concession\u2013counter sequences (e.g. 'Although X\u2026, Y\u2026') that keep the writer's position dominant",
         "Rebuts an objection with evidence or reasoning rather than simple denial",
         "Qualifies the original claim where a concession warrants it rather than ignoring the concession's implications",
         "Chooses between refutation, partial concession and accommodation according to the strength of the objection",
@@ -514,7 +514,7 @@
         "Distinguishes appropriate value appeals in academic writing (stating significance or ethical stakes) from emotive language that would undermine credibility",
         "Adjusts the balance of appeals when adapting an academic argument for a non-specialist audience"
       ],
-      "assessmentPrompt": "Give the learner two introductions to the same argument — one from an academic article, one from a campaigning website. Ask how each builds credibility and engages the reader, and which features would be inappropriate in the other context. Look for specific linguistic evidence (citations, hedges, emotive adjectives, direct address) rather than general impressions.",
+      "assessmentPrompt": "Give the learner two introductions to the same argument \u2014 one from an academic article, one from a campaigning website. Ask how each builds credibility and engages the reader, and which features would be inappropriate in the other context. Look for specific linguistic evidence (citations, hedges, emotive adjectives, direct address) rather than general impressions.",
       "citations": [
         "hyland2005metadiscourse",
         "hyland2005stance"
@@ -586,7 +586,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "Arguing orally",
-      "description": "Construct, support and defend arguments in real-time academic talk — seminars, tutorials, Q&A sessions and supervision — by stating positions concisely, supporting them with reasons and sources, responding to challenges, and conceding or refining positions as discussion develops. Oral argument differs from written argument in its pace, its co-construction across speakers and its reliance on mitigation to maintain collegiality.",
+      "description": "Construct, support and defend arguments in real-time academic talk \u2014 seminars, tutorials, Q&A sessions and supervision \u2014 by stating positions concisely, supporting them with reasons and sources, responding to challenges, and conceding or refining positions as discussion develops. Oral argument differs from written argument in its pace, its co-construction across speakers and its reliance on mitigation to maintain collegiality.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -642,7 +642,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "Exploratory and adversarial argument",
-      "description": "Distinguish argument as collaborative, open-ended inquiry — exploring a question, testing ideas and reaching provisional conclusions — from argument as persuasive advocacy for a settled position, and recognise which orientation a genre, task or interaction calls for. Many academic genres and events (discussion essays, literature reviews, seminars) are largely exploratory, whereas others (debates, proposals, policy briefs) are more adversarial.",
+      "description": "Distinguish argument as collaborative, open-ended inquiry \u2014 exploring a question, testing ideas and reaching provisional conclusions \u2014 from argument as persuasive advocacy for a settled position, and recognise which orientation a genre, task or interaction calls for. Many academic genres and events (discussion essays, literature reviews, seminars) are largely exploratory, whereas others (debates, proposals, policy briefs) are more adversarial.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -652,7 +652,7 @@
         "Adapts a persuasive paragraph into an exploratory one, and vice versa, by changing framing, hedging and treatment of alternatives",
         "Contributes to a seminar in exploratory mode, offering tentative ideas and building on others' contributions"
       ],
-      "assessmentPrompt": "Show the learner two short texts on the same question — a debate speech and a literature review paragraph. Ask how their purposes and their treatment of opposing views differ. Look for recognition that the review weighs views to map a field and reach a provisional judgement, whereas the speech advocates and minimises opposition.",
+      "assessmentPrompt": "Show the learner two short texts on the same question \u2014 a debate speech and a literature review paragraph. Ask how their purposes and their treatment of opposing views differ. Look for recognition that the review weighs views to map a field and reach a provisional judgement, whereas the speech advocates and minimises opposition.",
       "citations": [
         "walton2006",
         "andrews2010"
@@ -684,7 +684,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Academic Argumentation",
       "name": "Evaluating arguments",
-      "description": "Judge the quality of an argument by assessing whether its premises are acceptable, relevant to the conclusion and jointly sufficient to support it, whether its warrants hold, and how well it deals with objections — and express that judgement in measured academic language. This is the core analytical move in critical reviews, literature reviews and peer review.",
+      "description": "Judge the quality of an argument by assessing whether its premises are acceptable, relevant to the conclusion and jointly sufficient to support it, whether its warrants hold, and how well it deals with objections \u2014 and express that judgement in measured academic language. This is the core analytical move in critical reviews, literature reviews and peer review.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
       "specificity": "EGAP",
@@ -731,7 +731,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Critical thinking in academic contexts",
-      "description": "Understand critical thinking in university study as a contested cluster of practices and dispositions — questioning claims, weighing evidence, judging reasoning and acknowledging uncertainty — whose concrete form varies by discipline and task. Treating it as explicit, learnable academic practice rather than a personal or cultural trait lets learners see what markers actually reward.",
+      "description": "Understand critical thinking in university study as a contested cluster of practices and dispositions \u2014 questioning claims, weighing evidence, judging reasoning and acknowledging uncertainty \u2014 whose concrete form varies by discipline and task. Treating it as explicit, learnable academic practice rather than a personal or cultural trait lets learners see what markers actually reward.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -741,7 +741,7 @@
         "Identifies at least two ways in which expectations of criticality differ between two disciplines or two assessment types",
         "Describes critical thinking as a set of practices that can be learned and made explicit, not a fixed trait of individuals or groups"
       ],
-      "assessmentPrompt": "Show the learner two short student paragraphs on the same source — one summarising it accurately, one summarising it and then questioning the generalisability of its sample — together with the tutor comment 'needs more critical engagement'. Ask which paragraph responds to the comment and why. Look for reference to questioning evidence, scope or reasoning rather than to tone, length or 'adding my opinion'.",
+      "assessmentPrompt": "Show the learner two short student paragraphs on the same source \u2014 one summarising it accurately, one summarising it and then questioning the generalisability of its sample \u2014 together with the tutor comment 'needs more critical engagement'. Ask which paragraph responds to the comment and why. Look for reference to questioning evidence, scope or reasoning rather than to tone, length or 'adding my opinion'.",
       "citations": [
         "moore2013",
         "atkinson1997",
@@ -771,7 +771,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Description, analysis and evaluation",
-      "description": "Distinguish three kinds of academic move — describing what something is or says, analysing how or why it works (its parts, causes, relationships and implications) and evaluating its value, validity or significance against stated criteria — and recognise which moves a task and its markers expect. Most 'too descriptive' feedback signals an imbalance among these moves rather than a lack of knowledge.",
+      "description": "Distinguish three kinds of academic move \u2014 describing what something is or says, analysing how or why it works (its parts, causes, relationships and implications) and evaluating its value, validity or significance against stated criteria \u2014 and recognise which moves a task and its markers expect. Most 'too descriptive' feedback signals an imbalance among these moves rather than a lack of knowledge.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
@@ -826,7 +826,7 @@
         "Applies the same questions to their own draft claims, not only to other people's texts",
         "Turns a productive question into a next step, such as a targeted search, a seminar contribution, a comparison or the plan of a critique"
       ],
-      "assessmentPrompt": "Give the learner a 100–150-word source extract containing a headline-style claim and a statistic, and a stated purpose (for example, deciding whether to cite it in an essay). Ask for five questions they would want answered, then answers to the two most important, with reference to the text. Look for questions about source, sample, comparison, causation, assumptions and scope rather than comprehension, answers grounded in the text, and a justified choice of which questions matter most for the purpose.",
+      "assessmentPrompt": "Give the learner a 100\u2013150-word source extract containing a headline-style claim and a statistic, and a stated purpose (for example, deciding whether to cite it in an essay). Ask for five questions they would want answered, then answers to the two most important, with reference to the text. Look for questions about source, sample, comparison, causation, assumptions and scope rather than comprehension, answers grounded in the text, and a justified choice of which questions matter most for the purpose.",
       "citations": [
         "facione1990",
         "wallacewray2016",
@@ -869,7 +869,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Types and strength of evidence",
-      "description": "Recognise the main kinds of evidence used in academic argument — experimental and statistical data, qualitative accounts, documentary and textual evidence, expert testimony and anecdote — and judge what each can and cannot establish for a particular claim. Evidence hierarchies, such as those used in evidence-based medicine, are useful but field-bound tools, not universal rankings.",
+      "description": "Recognise the main kinds of evidence used in academic argument \u2014 experimental and statistical data, qualitative accounts, documentary and textual evidence, expert testimony and anecdote \u2014 and judge what each can and cannot establish for a particular claim. Evidence hierarchies, such as those used in evidence-based medicine, are useful but field-bound tools, not universal rankings.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -998,7 +998,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Recognising fallacies",
-      "description": "Recognise common informal fallacies — straw man, ad hominem, false dilemma, hasty generalisation, slippery slope, appeal to popularity and post hoc reasoning — as misuses of otherwise legitimate argument patterns, and explain what makes a particular instance fallacious in its context. The aim is diagnostic precision when evaluating and constructing arguments, not label-spotting.",
+      "description": "Recognise common informal fallacies \u2014 straw man, ad hominem, false dilemma, hasty generalisation, slippery slope, appeal to popularity and post hoc reasoning \u2014 as misuses of otherwise legitimate argument patterns, and explain what makes a particular instance fallacious in its context. The aim is diagnostic precision when evaluating and constructing arguments, not label-spotting.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1039,7 +1039,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Cognitive biases",
-      "description": "Understand how systematic tendencies in human judgement — especially confirmation bias and motivated reasoning, but also availability and anchoring — shape what we search for, notice, believe and report, and adopt procedural safeguards in reading and research, such as seeking disconfirming evidence, setting criteria in advance and inviting others' scrutiny. Awareness alone rarely removes bias; routines help.",
+      "description": "Understand how systematic tendencies in human judgement \u2014 especially confirmation bias and motivated reasoning, but also availability and anchoring \u2014 shape what we search for, notice, believe and report, and adopt procedural safeguards in reading and research, such as seeking disconfirming evidence, setting criteria in advance and inviting others' scrutiny. Awareness alone rarely removes bias; routines help.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1077,7 +1077,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Considering multiple perspectives",
-      "description": "Identify the range of defensible positions on an issue and represent each fairly — including those one rejects — in terms its proponents would recognise, before weighing them against explicit criteria. Fair representation is a precondition for credible counter-argument, synthesis and discussion writing, and protects against straw-man reasoning.",
+      "description": "Identify the range of defensible positions on an issue and represent each fairly \u2014 including those one rejects \u2014 in terms its proponents would recognise, before weighing them against explicit criteria. Fair representation is a precondition for credible counter-argument, synthesis and discussion writing, and protects against straw-man reasoning.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1130,7 +1130,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Beliefs about knowledge",
-      "description": "Reflect on and develop one's beliefs about the nature of knowledge — its certainty, simplicity, source and justification — drawing on models, developed largely with US undergraduates, that describe a broad tendency rather than fixed stages: from treating knowledge as fixed facts transmitted by authorities, through treating all views as equally valid, towards evaluating claims as better or worse supported. These beliefs shape how learners read conflicting sources, respond to open questions and feedback, and build arguments.",
+      "description": "Reflect on and develop one's beliefs about the nature of knowledge \u2014 its certainty, simplicity, source and justification \u2014 drawing on models, developed largely with US undergraduates, that describe a broad tendency rather than fixed stages: from treating knowledge as fixed facts transmitted by authorities, through treating all views as equally valid, towards evaluating claims as better or worse supported. These beliefs shape how learners read conflicting sources, respond to open questions and feedback, and build arguments.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1141,7 +1141,7 @@
         "Describes how what counts as knowledge differs between at least two disciplines",
         "Uses provisional language appropriately where knowledge in a field is contested"
       ],
-      "assessmentPrompt": "Give two short abstracts that reach conflicting conclusions on the same question and ask: 'Which should we believe, and how would you decide?' Note which criteria the learner proposes — authority, recency, design, sample, context — and whether they compare the support behind each claim. Use the answer to plan teaching, not to place the learner at a developmental stage.",
+      "assessmentPrompt": "Give two short abstracts that reach conflicting conclusions on the same question and ask: 'Which should we believe, and how would you decide?' Note which criteria the learner proposes \u2014 authority, recency, design, sample, context \u2014 and whether they compare the support behind each claim. Use the answer to plan teaching, not to place the learner at a developmental stage.",
       "citations": [
         "hoferpintrich1997",
         "perry1970",
@@ -1262,7 +1262,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Analytical problem-solving",
-      "description": "Define a problem precisely (its symptoms, causes, stakeholders and constraints), generate a range of possible responses, evaluate them against explicit criteria such as effectiveness, feasibility, cost and ethics, and justify a recommendation with its trade-offs acknowledged. This process underlies problem–solution essays, case analyses, design reports and policy writing.",
+      "description": "Define a problem precisely (its symptoms, causes, stakeholders and constraints), generate a range of possible responses, evaluate them against explicit criteria such as effectiveness, feasibility, cost and ethics, and justify a recommendation with its trade-offs acknowledged. This process underlies problem\u2013solution essays, case analyses, design reports and policy writing.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1271,7 +1271,7 @@
         "Generates more than one plausible response before evaluating any of them",
         "Evaluates options against explicit, defined criteria and records trade-offs",
         "Justifies a recommendation with reference to the criteria and acknowledges its risks or limitations",
-        "Organises a written or spoken analysis using a situation–problem–response–evaluation structure"
+        "Organises a written or spoken analysis using a situation\u2013problem\u2013response\u2013evaluation structure"
       ],
       "assessmentPrompt": "Give a short scenario (e.g. low uptake of a university writing centre). Ask the learner for a two-sentence problem definition and three options, each with one criterion-based reason for and against. Look for a cause-focused definition, genuinely different options and explicit criteria, rather than an immediate single solution.",
       "citations": [
@@ -1300,7 +1300,7 @@
       "strand": "Argument & Critical Thinking",
       "domain": "Critical Thinking",
       "name": "Reflexivity and positionality",
-      "description": "Recognise how one's own position — background, experiences, values, languages, disciplinary training and relationship to participants — shapes the questions asked, the evidence noticed and the interpretations made, and account for this transparently. Reflexivity is expected in qualitative and practice-based research and increasingly in reflective and critical genres across disciplines.",
+      "description": "Recognise how one's own position \u2014 background, experiences, values, languages, disciplinary training and relationship to participants \u2014 shapes the questions asked, the evidence noticed and the interpretations made, and account for this transparently. Reflexivity is expected in qualitative and practice-based research and increasingly in reflective and critical genres across disciplines.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
       "specificity": "EGAP",
@@ -1345,7 +1345,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Academic and writer identity",
-      "description": "Understand that academic writing and speaking construct an identity — through choices of stance, self-mention, citation, register and topic — and that entering a discipline involves negotiating new identities alongside existing ones. Seeing identity as discoursally constructed helps learners make deliberate choices about how they present themselves, and makes tensions between existing selves and academic conventions discussable rather than private.",
+      "description": "Understand that academic writing and speaking construct an identity \u2014 through choices of stance, self-mention, citation, register and topic \u2014 and that entering a discipline involves negotiating new identities alongside existing ones. Seeing identity as discoursally constructed helps learners make deliberate choices about how they present themselves, and makes tensions between existing selves and academic conventions discussable rather than private.",
       "cefrStart": "B2",
       "cefrEnd": "C2",
       "specificity": "EGAP",
@@ -1353,9 +1353,9 @@
         "Identifies linguistic choices in a text that construct the writer as, for example, a cautious researcher, an authoritative expert or a student reporting others' work",
         "Describes how they want to present themselves in a specific assignment and the linguistic choices that would achieve this",
         "Explains the distinction between autobiographical self, discoursal self and self as author with examples from their own writing",
-        "Articulates a tension between existing identities and disciplinary expectations — in their own writing or, if they prefer, in a published or case account of another writer — and identifies options for negotiating it"
+        "Articulates a tension between existing identities and disciplinary expectations \u2014 in their own writing or, if they prefer, in a published or case account of another writer \u2014 and identifies options for negotiating it"
       ],
-      "assessmentPrompt": "Give the learner two short paragraphs reporting the same finding — one using 'I argue', calibrated hedges and evaluative citation, the other using impersonal constructions and heavy reliance on sources. Ask what kind of writer each constructs, which they would choose for a named assignment, and why. Look for links between specific linguistic features and identity effects, and a choice justified by genre and discipline.",
+      "assessmentPrompt": "Give the learner two short paragraphs reporting the same finding \u2014 one using 'I argue', calibrated hedges and evaluative citation, the other using impersonal constructions and heavy reliance on sources. Ask what kind of writer each constructs, which they would choose for a named assignment, and why. Look for links between specific linguistic features and identity effects, and a choice justified by genre and discipline.",
       "citations": [
         "ivanic1998",
         "tangjohn1999",
@@ -1379,7 +1379,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Drawing on a plurilingual repertoire",
-      "description": "Use all one's languages strategically for academic learning — reading and note-making across languages, discussing ideas in shared languages, planning in the first language and checking terminology bilingually — while meeting the language rules of each assessment. Whether assessed texts may themselves be translingual (for example quoting and glossing sources in other languages, or mixing languages in reflective genres) is contested and varies by task (see Translingual writing), and learners can ask. Treating the repertoire as an integrated starting resource, rather than as interference, supports comprehension, conceptual depth and confidence from the first stage of study.",
+      "description": "Use all one's languages strategically for academic learning \u2014 reading and note-making across languages, discussing ideas in shared languages, planning in the first language and checking terminology bilingually \u2014 while meeting the language rules of each assessment. Whether assessed texts may themselves be translingual (for example quoting and glossing sources in other languages, or mixing languages in reflective genres) is contested and varies by task (see Translingual writing), and learners can ask. Treating the repertoire as an integrated starting resource, rather than as interference, supports comprehension, conceptual depth and confidence from the first stage of study.",
       "cefrStart": "A2+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1492,7 +1492,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Intercultural communication",
-      "description": "Manage differences in expectations, communication styles and assumptions in academic interaction with peers, tutors and supervisors by noticing when misunderstanding may stem from differing norms, suspending quick judgements, checking interpretations and negotiating shared ways of working. Intercultural competence here treats culture as dynamic and multiple — institutional, disciplinary and group-level as well as national — rather than as fixed national traits.",
+      "description": "Manage differences in expectations, communication styles and assumptions in academic interaction with peers, tutors and supervisors by noticing when misunderstanding may stem from differing norms, suspending quick judgements, checking interpretations and negotiating shared ways of working. Intercultural competence here treats culture as dynamic and multiple \u2014 institutional, disciplinary and group-level as well as national \u2014 rather than as fixed national traits.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1554,7 +1554,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Intercultural rhetoric",
-      "description": "Understand how views of rhetorical variation across languages and cultures have developed — from Kaplan's contrastive rhetoric, through Connor's intercultural rhetoric, to critical contrastive rhetoric — and use this to analyse why writing conventions differ and change, without assuming that any culture's rhetoric is deficient or that an individual's writing is determined by their first language. The practical outcome is treating conventions as learnable, situated choices.",
+      "description": "Understand how views of rhetorical variation across languages and cultures have developed \u2014 from Kaplan's contrastive rhetoric, through Connor's intercultural rhetoric, to critical contrastive rhetoric \u2014 and use this to analyse why writing conventions differ and change, without assuming that any culture's rhetoric is deficient or that an individual's writing is determined by their first language. The practical outcome is treating conventions as learnable, situated choices.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1598,7 +1598,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Linguistic diversity as resource",
-      "description": "Recognise and respond to deficit framings that present multilingual students — or first-generation, mature and other non-traditional home students — as lacking language, critical thinking or autonomy, and identify the linguistic, educational and intercultural resources in one's own and peers' backgrounds that can contribute to learning, collaboration and knowledge-making. As a curriculum principle for teachers and programmes, it means making academic expectations explicit for all students rather than remediating some.",
+      "description": "Recognise and respond to deficit framings that present multilingual students \u2014 or first-generation, mature and other non-traditional home students \u2014 as lacking language, critical thinking or autonomy, and identify the linguistic, educational and intercultural resources in one's own and peers' backgrounds that can contribute to learning, collaboration and knowledge-making. As a curriculum principle for teachers and programmes, it means making academic expectations explicit for all students rather than remediating some.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -1643,7 +1643,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Standards, native-speakerism and legitimacy",
-      "description": "Examine critically the assumption that native-speaker English is the benchmark for academic English, distinguishing the conventions of academic genres (which all writers must learn) from nativeness, recognising established World Englishes as legitimate varieties, and understanding how native-speakerism, gatekeeping and language ideologies — including the tendency to judge the same English differently depending on a speaker's perceived race, nationality or accent — affect assessment, publication and participation. This enables learners to claim legitimacy as multilingual academic users while making informed choices about conventions.",
+      "description": "Examine critically the assumption that native-speaker English is the benchmark for academic English, distinguishing the conventions of academic genres (which all writers must learn) from nativeness, recognising established World Englishes as legitimate varieties, and understanding how native-speakerism, gatekeeping and language ideologies \u2014 including the tendency to judge the same English differently depending on a speaker's perceived race, nationality or accent \u2014 affect assessment, publication and participation. This enables learners to claim legitimacy as multilingual academic users while making informed choices about conventions.",
       "cefrStart": "B1+",
       "cefrEnd": "C2",
       "specificity": "EGAP",
@@ -1655,7 +1655,7 @@
         "Describes how multilingual scholars navigate English-medium publishing, including the role of literacy brokers and the inequities involved",
         "Makes and justifies informed choices about when to conform to and when to question conventions in their own writing"
       ],
-      "assessmentPrompt": "Give the learner two tutor comments on a draft sentence: 'Awkward — not how a native speaker would say it' and 'Unclear: who carried out this process?' Ask which is more useful feedback and why. Look for recognition that the second targets communicative clarity, whereas the first invokes nativeness without identifying the problem.",
+      "assessmentPrompt": "Give the learner two tutor comments on a draft sentence: 'Awkward \u2014 not how a native speaker would say it' and 'Unclear: who carried out this process?' Ask which is more useful feedback and why. Look for recognition that the second targets communicative clarity, whereas the first invokes nativeness without identifying the problem.",
       "citations": [
         "holliday2006",
         "jenkins2014",
@@ -1681,7 +1681,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Identity, Plurilingualism & Intercultural Competence",
       "name": "Translingual writing and code-meshing",
-      "description": "Understand translingual approaches in which writers deliberately bring other languages or Englishes into academic texts — glossing a term from another language, quoting a source in the original with a translation, writing in an established local variety of English, meshing languages in reflective or creative genres, or submitting work in more than one language where a programme allows it — and judge where such choices are accepted, contested or prohibited. Treating language separation in assessed texts as a convention that varies by task, genre and institution, rather than as a universal rule, lets writers make informed choices and negotiate them with tutors and readers.",
+      "description": "Understand translingual approaches in which writers deliberately bring other languages or Englishes into academic texts \u2014 glossing a term from another language, quoting a source in the original with a translation, writing in an established local variety of English, meshing languages in reflective or creative genres, or submitting work in more than one language where a programme allows it \u2014 and judge where such choices are accepted, contested or prohibited. Treating language separation in assessed texts as a convention that varies by task, genre and institution, rather than as a universal rule, lets writers make informed choices and negotiate them with tutors and readers.",
       "cefrStart": "B1+",
       "cefrEnd": "C2",
       "coreBand": "B2+",
@@ -1819,7 +1819,7 @@
       "topicId": "arg.rebuttal-concession",
       "prerequisiteId": "sta.concession-language",
       "strength": "hard",
-      "reason": "Concession–rebuttal sequences are realised through concessive and adversative language"
+      "reason": "Concession\u2013rebuttal sequences are realised through concessive and adversative language"
     },
     {
       "topicId": "arg.rebuttal-concession",
@@ -1861,7 +1861,7 @@
       "topicId": "arg.extended-argument",
       "prerequisiteId": "coh.text-patterns",
       "strength": "soft",
-      "reason": "Claim–counterclaim and problem–solution patterns provide text-level structures for sequencing an argument"
+      "reason": "Claim\u2013counterclaim and problem\u2013solution patterns provide text-level structures for sequencing an argument"
     },
     {
       "topicId": "arg.extended-argument",
@@ -2119,7 +2119,7 @@
       "topicId": "crt.problem-solving",
       "prerequisiteId": "fun.problem-solution",
       "strength": "soft",
-      "reason": "The situation–problem–response–evaluation language gives learners a frame for expressing each stage of the process"
+      "reason": "The situation\u2013problem\u2013response\u2013evaluation language gives learners a frame for expressing each stage of the process"
     },
     {
       "topicId": "crt.problem-solving",
@@ -2252,6 +2252,18 @@
       "prerequisiteId": "idn.plurilingual-repertoire",
       "strength": "soft",
       "reason": "Reflecting on writer identity draws on awareness of how one already uses different languages and literacies, which repertoire mapping makes explicit"
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "acu.critical-eap",
+      "strength": "soft",
+      "reason": "Negotiating translingual choices draws on the skill of justifying choices about conventions"
+    },
+    {
+      "topicId": "idn.standards-legitimacy",
+      "prerequisiteId": "acu.critical-eap",
+      "strength": "soft",
+      "reason": "Questioning native-speaker standards extends critical examination of academic conventions"
     }
   ],
   "guidance": [
@@ -2289,7 +2301,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "'An argument is a fight — it would be rude to argue in an essay.'",
+          "pattern": "'An argument is a fight \u2014 it would be rude to argue in an essay.'",
           "kind": "conceptual",
           "revealedBy": "Avoidance of any stance; essays that report sources accurately but never commit to an answer.",
           "response": "Contrast everyday and academic senses of 'argument'; show measured, hedged arguments in exemplars.",
@@ -2313,7 +2325,7 @@
       "diagnostic": {
         "task": "Ask the learner to state the argument of their most recent essay in one sentence.",
         "strongResponse": "A specific, contestable position that answers the question.",
-        "partialResponse": "A topic statement such as 'This essay discusses the advantages and disadvantages of…'.",
+        "partialResponse": "A topic statement such as 'This essay discusses the advantages and disadvantages of\u2026'.",
         "gapResponse": "Cannot answer, or restates the essay title."
       },
       "contextNotes": "Foundation and UG pre-sessional courses, where the topic is core, should establish the concept early and return to it in every writing task; PG pre-sessional courses can move quickly from the concept to its realisation in longer source-based assignments. In undergraduate in-sessional settings, revisit the concept by showing what argument looks like in each discipline's genres, including reports and lab write-ups. PGT learners usually control the concept and need only brief recalibration for dissertations; PGR provision assumes it.",
@@ -2364,7 +2376,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'According to the Oxford Dictionary, X means…' used to settle a contested concept.",
+          "pattern": "'According to the Oxford Dictionary, X means\u2026' used to settle a contested concept.",
           "kind": "prior-schooling",
           "revealedBy": "Dictionary definitions opening essays on contested disciplinary concepts, a move often taught as a standard essay opening at school.",
           "response": "Show competing scholarly definitions and treat choosing a definition as a claim that needs justification.",
@@ -2422,11 +2434,11 @@
           "pattern": "Labelling the evidence itself as the warrant.",
           "kind": "conceptual",
           "revealedBy": "Statistics or quotations identified as warrants in analysis tasks.",
-          "response": "Present the warrant as a general 'since…' or 'if…then…' principle connecting any such data to such a claim.",
+          "response": "Present the warrant as a general 'since\u2026' or 'if\u2026then\u2026' principle connecting any such data to such a claim.",
           "reteachPrerequisiteId": "arg.argument-concept"
         },
         {
-          "pattern": "'My claim is… My data is… My warrant is…' — using the model as a paragraph template.",
+          "pattern": "'My claim is\u2026 My data is\u2026 My warrant is\u2026' \u2014 using the model as a paragraph template.",
           "kind": "overgeneralisation",
           "revealedBy": "Formulaic paragraphs that name the elements explicitly.",
           "response": "Stress that the model is analytical; show how expert texts realise elements implicitly and in varied orders.",
@@ -2458,7 +2470,7 @@
     },
     {
       "topicId": "arg.supporting-claims",
-      "summary": "Kuhn found that many people offered 'pseudoevidence' — plausible scenarios illustrating how something might happen — in place of evidence bearing on whether it is true; making this distinction explicit is central to teaching support. Wingate's account of argument places the development of a position through analysis of knowledge and sources at the centre of essay writing. At lower levels, paragraph scaffolds such as point–evidence–explanation can help, provided learners see that the explanation step does the argumentative work.",
+      "summary": "Kuhn found that many people offered 'pseudoevidence' \u2014 plausible scenarios illustrating how something might happen \u2014 in place of evidence bearing on whether it is true; making this distinction explicit is central to teaching support. Wingate's account of argument places the development of a position through analysis of knowledge and sources at the centre of essay writing. At lower levels, paragraph scaffolds such as point\u2013evidence\u2013explanation can help, provided learners see that the explanation step does the argumentative work.",
       "activities": [
         {
           "title": "Evidence or scenario?",
@@ -2496,7 +2508,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "'In my experience…' or 'Everyone knows…' used as the main support.",
+          "pattern": "'In my experience\u2026' or 'Everyone knows\u2026' used as the main support.",
           "kind": "prior-schooling",
           "revealedBy": "Personal experience and general knowledge used where research evidence is expected, often carried over from timed test essays that invite examples from the writer's own knowledge or experience.",
           "response": "Show where personal experience is acceptable (e.g. reflective genres) and where research evidence is expected; practise locating sources for claims first supported by experience.",
@@ -2516,7 +2528,7 @@
         "partialResponse": "Gives an example or general statement without explaining the link.",
         "gapResponse": "Restates the claim in different words."
       },
-      "contextNotes": "Foundation and UG pre-sessional learners, for whom the topic is core, benefit from point–evidence–explanation scaffolds and source-based practice. PG pre-sessional learners extend this to research evidence. Undergraduate in-sessional and PGT learners revisit it as evidence density and disciplinary norms increase; PGR learners revisit it when supporting original claims with their own data.",
+      "contextNotes": "Foundation and UG pre-sessional learners, for whom the topic is core, benefit from point\u2013evidence\u2013explanation scaffolds and source-based practice. PG pre-sessional learners extend this to research evidence. Undergraduate in-sessional and PGT learners revisit it as evidence density and disciplinary norms increase; PGR learners revisit it when supporting original claims with their own data.",
       "citations": [
         "kuhn1991",
         "wingate2012argument"
@@ -2576,7 +2588,7 @@
         "partialResponse": "Locates the gap but cannot articulate the warrant.",
         "gapResponse": "Sees no gap."
       },
-      "contextNotes": "Pre-sessional learners can begin with simple 'this shows that… because…' frames. Undergraduates learn discipline-specific warrants. PGT learners writing for expert readers need to judge which warrants to state; PGR learners must defend conceptual and methodological warrants to examiners and reviewers.",
+      "contextNotes": "Pre-sessional learners can begin with simple 'this shows that\u2026 because\u2026' frames. Undergraduates learn discipline-specific warrants. PGT learners writing for expert readers need to judge which warrants to state; PGR learners must defend conceptual and methodological warrants to examiners and reviewers.",
       "citations": [
         "toulmin2003",
         "walton2006"
@@ -2585,7 +2597,7 @@
     },
     {
       "topicId": "arg.counterarguments",
-      "summary": "Kuhn's interviews showed that generating counter-arguments and alternative theories was among the weakest argument skills across age groups, which suggests it requires explicit teaching. Qin and Karabacak found counter-argument and rebuttal elements uncommon in their sample of EFL university essays but associated with higher quality, supporting deliberate attention. Effective practice separates generating strong objections — often by searching sources — from responding to them, which is taught next.",
+      "summary": "Kuhn's interviews showed that generating counter-arguments and alternative theories was among the weakest argument skills across age groups, which suggests it requires explicit teaching. Qin and Karabacak found counter-argument and rebuttal elements uncommon in their sample of EFL university essays but associated with higher quality, supporting deliberate attention. Effective practice separates generating strong objections \u2014 often by searching sources \u2014 from responding to them, which is taught next.",
       "activities": [
         {
           "title": "Devil's advocate pairs",
@@ -2623,14 +2635,14 @@
           "reteachPrerequisiteId": "crt.multiple-perspectives"
         },
         {
-          "pattern": "'Some people may say it is expensive, but this is not true.' — token objections.",
+          "pattern": "'Some people may say it is expensive, but this is not true.' \u2014 token objections.",
           "kind": "developmental",
           "revealedBy": "Weak, unsourced objections dismissed in a sentence.",
           "response": "Require at least one sourced objection and ask peers to rate how damaging it is.",
           "reteachPrerequisiteId": "arg.supporting-claims"
         },
         {
-          "pattern": "A fixed 'Some people believe… However, I believe…' paragraph before the conclusion.",
+          "pattern": "A fixed 'Some people believe\u2026 However, I believe\u2026' paragraph before the conclusion.",
           "kind": "prior-schooling",
           "revealedBy": "Formulaic counter-argument paragraphs learned from test-preparation templates.",
           "response": "Show how expert writers raise objections at the point where they are most relevant.",
@@ -2657,7 +2669,7 @@
         {
           "title": "Concession sequences in expert texts",
           "learnerActions": [
-            "Find concede–counter patterns in a disciplinary article",
+            "Find concede\u2013counter patterns in a disciplinary article",
             "Classify them (concede then counter, deny, qualify the claim)",
             "Write two sentences of their own imitating the most useful pattern"
           ],
@@ -2848,7 +2860,7 @@
         "partialResponse": "Explains it chronologically or by importance without logical links.",
         "gapResponse": "Gives no rationale."
       },
-      "contextNotes": "UG and PG pre-sessional extended essays and projects (2,000–4,000 words) are often learners' first experience of extended argument. The topic is core where long assessed texts dominate: undergraduate long essays and dissertations, PGT dissertations and PGR theses, where an argument must be sustained across chapters.",
+      "contextNotes": "UG and PG pre-sessional extended essays and projects (2,000\u20134,000 words) are often learners' first experience of extended argument. The topic is core where long assessed texts dominate: undergraduate long essays and dissertations, PGT dissertations and PGR theses, where an argument must be sustained across chapters.",
       "citations": [
         "andrews2010",
         "wingate2012argument"
@@ -2969,7 +2981,7 @@
         "partialResponse": "Correct structure but the implicit premise is missing.",
         "gapResponse": "A linear chain that follows sentence order."
       },
-      "contextNotes": "Foundation learners can use simple claim–reason maps. Pre-sessional learners use mapping to plan reading-into-writing tasks. Undergraduates use it for critiques; PGT learners for literature reviews; PGR learners for planning chapters and the overall thesis argument.",
+      "contextNotes": "Foundation learners can use simple claim\u2013reason maps. Pre-sessional learners use mapping to plan reading-into-writing tasks. Undergraduates use it for critiques; PGT learners for literature reviews; PGR learners for planning chapters and the overall thesis argument.",
       "citations": [
         "vangelder2005",
         "walton2006"
@@ -3033,7 +3045,7 @@
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to state a view on a reading, then respond with 'But what about…?' and a counter-example.",
+        "task": "Ask the learner to state a view on a reading, then respond with 'But what about\u2026?' and a counter-example.",
         "strongResponse": "Acknowledges the point, gives a reason or evidence, and maintains or refines the position.",
         "partialResponse": "Repeats the original point without engaging the counter-example.",
         "gapResponse": "Abandons the position or cannot respond."
@@ -3048,7 +3060,7 @@
     },
     {
       "topicId": "arg.exploratory-adversarial",
-      "summary": "Walton distinguishes types of dialogue — including persuasion, inquiry and deliberation — each with different goals and norms, which explains why the same move can be appropriate in one context and inappropriate in another. Andrews highlights the place of exploratory, dialogic argument in higher education alongside more adversarial forms. Learners often arrive with one dominant model, frequently the debate or the timed test essay, so explicit contrast helps them read task expectations.",
+      "summary": "Walton distinguishes types of dialogue \u2014 including persuasion, inquiry and deliberation \u2014 each with different goals and norms, which explains why the same move can be appropriate in one context and inappropriate in another. Andrews highlights the place of exploratory, dialogic argument in higher education alongside more adversarial forms. Learners often arrive with one dominant model, frequently the debate or the timed test essay, so explicit contrast helps them read task expectations.",
       "activities": [
         {
           "title": "Sorting tasks by orientation",
@@ -3159,7 +3171,7 @@
           "pattern": "Evaluative language pitched at the wrong strength: either sweeping dismissal ('This study is useless') or praise and hedging so heavy that no judgement is visible.",
           "kind": "developmental",
           "revealedBy": "Critiques whose conclusions do not match the weaknesses identified, or that identify weaknesses without ever stating how much they matter; common among novice writers of all language backgrounds.",
-          "response": "Teach evaluative patterns that pair acknowledgement with critique ('While X offers…, it does not…') and have learners match the strength of each evaluative phrase to the seriousness of the weakness they have identified.",
+          "response": "Teach evaluative patterns that pair acknowledgement with critique ('While X offers\u2026, it does not\u2026') and have learners match the strength of each evaluative phrase to the seriousness of the weakness they have identified.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -3179,7 +3191,7 @@
     },
     {
       "topicId": "crt.concept",
-      "summary": "Present critical thinking as a contested construct. Facione's Delphi consensus describes it as purposeful, self-regulatory judgement combining cognitive skills (interpretation, analysis, evaluation, inference, explanation, self-regulation) with dispositions such as inquisitiveness and fair-mindedness, whereas Moore's interviews with academics in history, philosophy and cultural studies found several partly incompatible understandings, from judgement and scepticism to self-reflexivity and ethical stance. Atkinson's critique — that critical thinking is a tacit social practice that is hard to teach as a generic skill — is a useful caution against decontextualised checklists, though his account of learners' cultural backgrounds has itself been challenged as over-generalising. The practical implication is to make each discipline's and task's version of criticality explicit through exemplars, never to treat it as a trait some groups lack.",
+      "summary": "Present critical thinking as a contested construct. Facione's Delphi consensus describes it as purposeful, self-regulatory judgement combining cognitive skills (interpretation, analysis, evaluation, inference, explanation, self-regulation) with dispositions such as inquisitiveness and fair-mindedness, whereas Moore's interviews with academics in history, philosophy and cultural studies found several partly incompatible understandings, from judgement and scepticism to self-reflexivity and ethical stance. Atkinson's critique \u2014 that critical thinking is a tacit social practice that is hard to teach as a generic skill \u2014 is a useful caution against decontextualised checklists, though his account of learners' cultural backgrounds has itself been challenged as over-generalising. The practical implication is to make each discipline's and task's version of criticality explicit through exemplars, never to treat it as a trait some groups lack.",
       "activities": [
         {
           "title": "Decoding 'be more critical'",
@@ -3317,7 +3329,7 @@
       ],
       "reviewNotes": [
         "The proportion of description that is acceptable varies strongly by genre and discipline; no single ratio should be taught.",
-        "Review response: R6-13 lists the 'Reports and essays' link as decorative. It is kept, downgraded to 'related', because that scale's B2–C1 range concerns evaluating ideas and giving reasons, which is this topic's central distinction; no more specific CEFR scale covers analytical and evaluative moves in writing."
+        "Review response: R6-13 lists the 'Reports and essays' link as decorative. It is kept, downgraded to 'related', because that scale's B2\u2013C1 range concerns evaluating ideas and giving reasons, which is this topic's central distinction; no more specific CEFR scale covers analytical and evaluative moves in writing."
       ]
     },
     {
@@ -3359,7 +3371,7 @@
             "Revise the claim and note which question prompted each change"
           ],
           "intendedInsight": "Turning critical questions on one's own claims anticipates readers' objections and improves calibration.",
-          "rationale": "Facione's consensus identifies self-regulation — applying critical skills to one's own reasoning — as a core component of critical thinking.",
+          "rationale": "Facione's consensus identifies self-regulation \u2014 applying critical skills to one's own reasoning \u2014 as a core component of critical thinking.",
           "citations": [
             "facione1990"
           ]
@@ -3367,7 +3379,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "'I don't have any questions — I understood the text.'",
+          "pattern": "'I don't have any questions \u2014 I understood the text.'",
           "kind": "conceptual",
           "revealedBy": "Silence when invited to question a reading; reading logs and question lists containing only comprehension questions that can be answered by locating information in the text.",
           "response": "Reframe questions as contributions rather than admissions of confusion. Contrast comprehension and evaluative questions on the same text, model a tutor questioning a text they fully understand, and provide question stems.",
@@ -3377,7 +3389,7 @@
           "pattern": "Questions that sound like accusations ('Why is your sample so small?') or are buried in a long preamble, so that the question is not heard.",
           "kind": "developmental",
           "revealedBy": "Defensive responses from peers or tutors, questions that go unanswered, and learners who decide to keep their questions to themselves.",
-          "response": "Teach a small set of question frames ('It is not clear how…', 'I wondered whether…', 'How would the findings change if…?') and practise them first in writing, for example in a shared document or chat, before seminars. Accept written questions as legitimate participation, which also suits learners for whom real-time oral turns are difficult (for example some autistic learners, people who stammer and anxious speakers). Do not treat spontaneous oral questioning as the only evidence of the skill.",
+          "response": "Teach a small set of question frames ('It is not clear how\u2026', 'I wondered whether\u2026', 'How would the findings change if\u2026?') and practise them first in writing, for example in a shared document or chat, before seminars. Accept written questions as legitimate participation, which also suits learners for whom real-time oral turns are difficult (for example some autistic learners, people who stammer and anxious speakers). Do not treat spontaneous oral questioning as the only evidence of the skill.",
           "reteachPrerequisiteId": null
         },
         {
@@ -3452,7 +3464,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Reporting a source's conclusion as if it were the evidence ('Smith (2019) proves that…').",
+          "pattern": "Reporting a source's conclusion as if it were the evidence ('Smith (2019) proves that\u2026').",
           "kind": "conceptual",
           "revealedBy": "Citations used as bare assertions, with no indication of what data the source reported.",
           "response": "Have learners trace one cited claim back to the data reported in the source and rewrite the sentence to show the evidence.",
@@ -3477,7 +3489,7 @@
     },
     {
       "topicId": "crt.reasoning-types",
-      "summary": "Introduce inference types through disciplinary examples — a legal syllogism, a generalisation from a survey, a diagnostic or historical explanation — rather than formal notation. Walton's account of presumptive, defeasible reasoning shows that most everyday and academic arguments are not deductively valid yet can still be reasonable, and Toulmin's critique of the formal-logic ideal makes the same point from a different direction. The practical pay-off in EAP is calibration: the type of inference determines how strongly a conclusion can be worded.",
+      "summary": "Introduce inference types through disciplinary examples \u2014 a legal syllogism, a generalisation from a survey, a diagnostic or historical explanation \u2014 rather than formal notation. Walton's account of presumptive, defeasible reasoning shows that most everyday and academic arguments are not deductively valid yet can still be reasonable, and Toulmin's critique of the formal-logic ideal makes the same point from a different direction. The practical pay-off in EAP is calibration: the type of inference determines how strongly a conclusion can be worded.",
       "activities": [
         {
           "title": "Same scenario, three inferences",
@@ -3515,7 +3527,7 @@
           "reteachPrerequisiteId": "arg.argument-concept"
         },
         {
-          "pattern": "Using 'prove' or 'deduce' for any inference ('This proves that…').",
+          "pattern": "Using 'prove' or 'deduce' for any inference ('This proves that\u2026').",
           "kind": "overgeneralisation",
           "revealedBy": "Overclaiming verbs in reports of empirical findings.",
           "response": "Teach a graded set of inference verbs (suggest, indicate, support, demonstrate) and when each fits; note that 'prove' is appropriate in mathematics and formal logic.",
@@ -3580,7 +3592,7 @@
           "pattern": "'Correlation tells us nothing about causes.'",
           "kind": "overgeneralisation",
           "revealedBy": "Dismissing all observational evidence after instruction on confounding.",
-          "response": "Discuss how converging observational evidence, dose–response patterns and natural experiments can support causal conclusions even without randomised trials.",
+          "response": "Discuss how converging observational evidence, dose\u2013response patterns and natural experiments can support causal conclusions even without randomised trials.",
           "reteachPrerequisiteId": "crt.evidence-types"
         },
         {
@@ -3639,7 +3651,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "'That's ad hominem!' — applied to any comment about a person.",
+          "pattern": "'That's ad hominem!' \u2014 applied to any comment about a person.",
           "kind": "overgeneralisation",
           "revealedBy": "Mislabelling relevant credibility concerns as fallacies; labels given without explanation.",
           "response": "Require an explanation of why the move is irrelevant to the claim; use paired legitimate and fallacious examples.",
@@ -3670,7 +3682,7 @@
     },
     {
       "topicId": "crt.cognitive-biases",
-      "summary": "Nickerson's review shows confirmation bias operating across many contexts — in how people seek, interpret and remember evidence — and Kahneman's dual-process account explains why fast, intuitive judgement produces predictable errors. Kahneman himself notes that knowing about biases offers limited protection against them, so teaching should centre on procedures embedded in reading and research tasks rather than on memorising lists of named biases. Link the topic to searching and synthesis, where confirmation bias does its most consequential damage in student work.",
+      "summary": "Nickerson's review shows confirmation bias operating across many contexts \u2014 in how people seek, interpret and remember evidence \u2014 and Kahneman's dual-process account explains why fast, intuitive judgement produces predictable errors. Kahneman himself notes that knowing about biases offers limited protection against them, so teaching should centre on procedures embedded in reading and research tasks rather than on memorising lists of named biases. Link the topic to searching and synthesis, where confirmation bias does its most consequential damage in student work.",
       "activities": [
         {
           "title": "Search for the opposite",
@@ -3802,7 +3814,7 @@
     },
     {
       "topicId": "crt.epistemic-beliefs",
-      "summary": "Perry's scheme, derived from interviews with Harvard undergraduates, and Kuhn's absolutist–multiplist–evaluativist sequence describe a broad movement from seeing knowledge as certain and authority-given, through seeing it as mere opinion, to seeing it as constructed yet open to reasoned evaluation; Hofer and Pintrich's review recasts this as several dimensions (certainty, simplicity, source and justification of knowledge) that may develop unevenly. These models describe tendencies, not fixed stages, and were developed largely in particular educational systems, so they should be used to make expectations discussable rather than to classify learners. The multiplist 'it's all opinion' position is often a productive transitional step that teaching should build on, not punish.",
+      "summary": "Perry's scheme, derived from interviews with Harvard undergraduates, and Kuhn's absolutist\u2013multiplist\u2013evaluativist sequence describe a broad movement from seeing knowledge as certain and authority-given, through seeing it as mere opinion, to seeing it as constructed yet open to reasoned evaluation; Hofer and Pintrich's review recasts this as several dimensions (certainty, simplicity, source and justification of knowledge) that may develop unevenly. These models describe tendencies, not fixed stages, and were developed largely in particular educational systems, so they should be used to make expectations discussable rather than to classify learners. The multiplist 'it's all opinion' position is often a productive transitional step that teaching should build on, not punish.",
       "activities": [
         {
           "title": "When sources disagree",
@@ -3834,7 +3846,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "'What answer is the tutor actually looking for?' — treating an open question as if it had a hidden correct answer.",
+          "pattern": "'What answer is the tutor actually looking for?' \u2014 treating an open question as if it had a hidden correct answer.",
           "kind": "prior-schooling",
           "revealedBy": "Requests for model answers, frustration with open questions and reproduction of lecture content as the answer, typically after assessment regimes with fixed mark schemes that reward a single correct answer.",
           "response": "Acknowledge that exam systems in many countries, including the UK's school-leaving examinations, reward correct answers, and that first-year students from all backgrounds meet this shift. Show explicitly, with marked exemplars, how university tasks reward reasoned evaluation. Do not attribute the expectation to national culture or treat it as a lower developmental stage.",
@@ -3861,12 +3873,12 @@
         "kuhn1991"
       ],
       "reviewNotes": [
-        "Perry's original sample (largely male Harvard undergraduates in the 1950s–60s) limits generalisation; later research suggests that epistemic beliefs are partly domain-specific."
+        "Perry's original sample (largely male Harvard undergraduates in the 1950s\u201360s) limits generalisation; later research suggests that epistemic beliefs are partly domain-specific."
       ]
     },
     {
       "topicId": "crt.evaluating-theories",
-      "summary": "Kuhn's research on argument skill shows how often reasoners fail to keep theory and evidence distinct — treating the plausibility of an explanation as if it were evidence for it — which is precisely the distinction needed to evaluate theories. Criteria for evaluation are partly disciplinary: Becher and Trowler's account of hard/soft and pure/applied knowledge cultures suggests why predictive accuracy dominates in some fields and interpretive richness or critical purchase in others. Wallace and Wray's guidance for postgraduates on scrutinising theoretical literature offers practical question frames.",
+      "summary": "Kuhn's research on argument skill shows how often reasoners fail to keep theory and evidence distinct \u2014 treating the plausibility of an explanation as if it were evidence for it \u2014 which is precisely the distinction needed to evaluate theories. Criteria for evaluation are partly disciplinary: Becher and Trowler's account of hard/soft and pure/applied knowledge cultures suggests why predictive accuracy dominates in some fields and interpretive richness or critical purchase in others. Wallace and Wray's guidance for postgraduates on scrutinising theoretical literature offers practical question frames.",
       "activities": [
         {
           "title": "Criteria matrix",
@@ -3906,7 +3918,7 @@
         {
           "pattern": "Reporting a widely cited theory as established fact beyond evaluation.",
           "kind": "conceptual",
-          "revealedBy": "Theories presented with boosters ('X proved that…') and no limitations, often reflecting textbook or lecture presentations of theories as settled.",
+          "revealedBy": "Theories presented with boosters ('X proved that\u2026') and no limitations, often reflecting textbook or lecture presentations of theories as settled.",
           "response": "Show published critiques and model mitigated evaluative language; reinforce that frameworks are provisional tools.",
           "reteachPrerequisiteId": "crt.epistemic-beliefs"
         }
@@ -3929,7 +3941,7 @@
     },
     {
       "topicId": "crt.applying-theory",
-      "summary": "Gardner and Nesi's classification of university assignment genres shows how many assessed tasks — case studies, explanations, problem questions, design specifications — require applying disciplinary concepts to particulars. Maton's notion of semantic waves offers a useful lens: successful analytical writing moves repeatedly between abstract, condensed concepts and concrete, context-dependent detail, whereas weaker writing stays at one level (theory summary or case retelling). Teaching should therefore model the 'wave' at paragraph level, not only at text level.",
+      "summary": "Gardner and Nesi's classification of university assignment genres shows how many assessed tasks \u2014 case studies, explanations, problem questions, design specifications \u2014 require applying disciplinary concepts to particulars. Maton's notion of semantic waves offers a useful lens: successful analytical writing moves repeatedly between abstract, condensed concepts and concrete, context-dependent detail, whereas weaker writing stays at one level (theory summary or case retelling). Teaching should therefore model the 'wave' at paragraph level, not only at text level.",
       "activities": [
         {
           "title": "Tracing semantic waves",
@@ -3983,7 +3995,7 @@
       ],
       "diagnostic": {
         "task": "Ask the learner to explain how one concept from their current module applies to a recent news event.",
-        "strongResponse": "Makes specific concept–evidence links and notes one limitation of fit.",
+        "strongResponse": "Makes specific concept\u2013evidence links and notes one limitation of fit.",
         "partialResponse": "Makes a general link without specific evidence.",
         "gapResponse": "Summarises the event or defines the concept without connecting them."
       },
@@ -3996,7 +4008,7 @@
     },
     {
       "topicId": "crt.problem-solving",
-      "summary": "Hoey's situation–problem–response–evaluation pattern gives a textual model of the reasoning process and links problem-solving to the structure of problem–solution essays, reports and case analyses. Facione's consensus statement presents critical-thinking skills such as analysis, evaluation and inference as the means of reasoned problem-solving and decision-making. Separating option generation from option evaluation, and making evaluation criteria explicit, are, in practitioner experience, the two moves most likely to improve student work; neither cited source tests this.",
+      "summary": "Hoey's situation\u2013problem\u2013response\u2013evaluation pattern gives a textual model of the reasoning process and links problem-solving to the structure of problem\u2013solution essays, reports and case analyses. Facione's consensus statement presents critical-thinking skills such as analysis, evaluation and inference as the means of reasoned problem-solving and decision-making. Separating option generation from option evaluation, and making evaluation criteria explicit, are, in practitioner experience, the two moves most likely to improve student work; neither cited source tests this.",
       "activities": [
         {
           "title": "Symptom or cause?",
@@ -4006,7 +4018,7 @@
             "Check whether the proposed solutions address the cause or only the symptoms"
           ],
           "intendedInsight": "Responses should target causes, and a problem statement that names only symptoms leads to weak solutions.",
-          "rationale": "Hoey's problem–solution pattern separates the problem from the response, which this activity uses to sharpen problem definition.",
+          "rationale": "Hoey's problem\u2013solution pattern separates the problem from the response, which this activity uses to sharpen problem definition.",
           "citations": [
             "hoey1983"
           ]
@@ -4029,7 +4041,7 @@
         {
           "pattern": "Jumping to a single solution as soon as the problem is stated.",
           "kind": "developmental",
-          "revealedBy": "Problem–solution essays with one option and no comparison.",
+          "revealedBy": "Problem\u2013solution essays with one option and no comparison.",
           "response": "Build in a compulsory option-generation stage before evaluation.",
           "reteachPrerequisiteId": "crt.questioning"
         },
@@ -4047,7 +4059,7 @@
         "partialResponse": "Symptom-focused definition or very similar options; preference stated without a criterion.",
         "gapResponse": "A single fix with no definition of the problem or criteria."
       },
-      "contextNotes": "Foundation learners on STEM and business pathways meet problem-solving tasks early. Pre-sessional courses use problem–solution essays and group projects. Undergraduates apply the process in case studies and design work; PGT learners in business, policy and professional reports.",
+      "contextNotes": "Foundation learners on STEM and business pathways meet problem-solving tasks early. Pre-sessional courses use problem\u2013solution essays and group projects. Undergraduates apply the process in case studies and design work; PGT learners in business, policy and professional reports.",
       "citations": [
         "hoey1983",
         "facione1990"
@@ -4058,7 +4070,7 @@
     },
     {
       "topicId": "crt.reflexivity",
-      "summary": "Reflexivity builds on evaluativist beliefs about knowledge: if knowledge is constructed, the knower's position matters. Creswell and Creswell present researcher reflexivity as a standard component of qualitative research, and Finlay's analysis distinguishes several forms of reflexivity while warning against self-indulgent confession that displaces the research itself. For multilingual learners, positionality also includes language — translating participants' words or researching one's own community are reflexive issues in their own right.",
+      "summary": "Reflexivity builds on evaluativist beliefs about knowledge: if knowledge is constructed, the knower's position matters. Creswell and Creswell present researcher reflexivity as a standard component of qualitative research, and Finlay's analysis distinguishes several forms of reflexivity while warning against self-indulgent confession that displaces the research itself. For multilingual learners, positionality also includes language \u2014 translating participants' words or researching one's own community are reflexive issues in their own right.",
       "activities": [
         {
           "title": "Same data, different researchers",
@@ -4099,7 +4111,7 @@
           "pattern": "Positionality statements that list identity categories without linking them to the research.",
           "kind": "developmental",
           "revealedBy": "Generic lists of personal characteristics with no stated effect on design or interpretation.",
-          "response": "Provide a frame such as 'Because I…, I may… ; to address this I…'.",
+          "response": "Provide a frame such as 'Because I\u2026, I may\u2026 ; to address this I\u2026'.",
           "reteachPrerequisiteId": "crt.multiple-perspectives"
         },
         {
@@ -4127,7 +4139,7 @@
     },
     {
       "topicId": "idn.academic-identity",
-      "summary": "Ivanič's study of mature student writers shows how identity is constructed in academic writing through the interplay of the autobiographical self, the discoursal self, the self as author and the possibilities for selfhood available in the institution. Tang and John's typology of roles behind first-person pronouns (from representative and guide to opinion-holder and originator) offers a practical way to examine self-presentation, and Morita's study of graduate students shows that participation and identity are actively negotiated, with silence and peripheral participation shaped by power relations as well as by language. Teaching should open up choices rather than impose a single 'academic voice'.",
+      "summary": "Ivani\u010d's study of mature student writers shows how identity is constructed in academic writing through the interplay of the autobiographical self, the discoursal self, the self as author and the possibilities for selfhood available in the institution. Tang and John's typology of roles behind first-person pronouns (from representative and guide to opinion-holder and originator) offers a practical way to examine self-presentation, and Morita's study of graduate students shows that participation and identity are actively negotiated, with silence and peripheral participation shaped by power relations as well as by language. Teaching should open up choices rather than impose a single 'academic voice'.",
       "activities": [
         {
           "title": "Roles behind 'I'",
@@ -4150,7 +4162,7 @@
             "Share in small groups and identify common tensions and strategies"
           ],
           "intendedInsight": "Writer identity is plural and negotiable, and existing identities are resources rather than obstacles.",
-          "rationale": "Ivanič shows that writers bring autobiographical selves to academic writing and negotiate new possibilities for selfhood.",
+          "rationale": "Ivani\u010d shows that writers bring autobiographical selves to academic writing and negotiate new possibilities for selfhood.",
           "citations": [
             "ivanic1998"
           ]
@@ -4175,7 +4187,7 @@
           "pattern": "'If identity matters, I should write about my personal background in my essay.'",
           "kind": "conceptual",
           "revealedBy": "Autobiographical digressions in argumentative or report genres, or personal disclosures that the task did not ask for.",
-          "response": "Distinguish the autobiographical self from the discoursal self and the self as author (Ivanič, 1998): in most genres identity is constructed through stance, citation and self-mention choices rather than personal narrative. Show where personal experience is a genre expectation, as in reflective writing, and make clear that learners decide what, if anything, to disclose.",
+          "response": "Distinguish the autobiographical self from the discoursal self and the self as author (Ivani\u010d, 1998): in most genres identity is constructed through stance, citation and self-mention choices rather than personal narrative. Show where personal experience is a genre expectation, as in reflective writing, and make clear that learners decide what, if anything, to disclose.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -4197,7 +4209,7 @@
     },
     {
       "topicId": "idn.plurilingual-repertoire",
-      "summary": "García and Li Wei's account of translanguaging treats bilinguals' languages as an integrated repertoire and argues for pedagogies that leverage it rather than enforce strict separation; Canagarajah's translingual practice similarly emphasises the negotiation strategies through which multilingual users make meaning. The CEFR Companion Volume's plurilingual and pluricultural scales give institutional recognition to such competence. Whether finished assessed texts must be monolingual is a contested pedagogical and institutional choice rather than a settled finding, and research comparing translation with direct composition is mixed: Kobayashi and Rinnert found that lower-proficiency writers' translated essays were rated higher on content and organisation than their directly composed ones. In EAP, help learners make these practices deliberate and transparent, and check each assessment's rules.",
+      "summary": "Garc\u00eda and Li Wei's account of translanguaging treats bilinguals' languages as an integrated repertoire and argues for pedagogies that leverage it rather than enforce strict separation; Canagarajah's translingual practice similarly emphasises the negotiation strategies through which multilingual users make meaning. The CEFR Companion Volume's plurilingual and pluricultural scales give institutional recognition to such competence. Whether finished assessed texts must be monolingual is a contested pedagogical and institutional choice rather than a settled finding, and research comparing translation with direct composition is mixed: Kobayashi and Rinnert found that lower-proficiency writers' translated essays were rated higher on content and organisation than their directly composed ones. In EAP, help learners make these practices deliberate and transparent, and check each assessment's rules.",
       "activities": [
         {
           "title": "Language-use audit",
@@ -4207,7 +4219,7 @@
             "Share effective strategies with peers and choose one to try"
           ],
           "intendedInsight": "Plurilingual practices are more effective when they are deliberate choices for specific purposes.",
-          "rationale": "García and Li Wei argue that learners' full repertoires can be mobilised for learning rather than suppressed.",
+          "rationale": "Garc\u00eda and Li Wei argue that learners' full repertoires can be mobilised for learning rather than suppressed.",
           "citations": [
             "garciawei2014"
           ]
@@ -4236,7 +4248,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Using one composing route for every task — always translating a full first-language draft, or never using the first language at all — without checking what works for the task, the rules and their current proficiency.",
+          "pattern": "Using one composing route for every task \u2014 always translating a full first-language draft, or never using the first language at all \u2014 without checking what works for the task, the rules and their current proficiency.",
           "kind": "overgeneralisation",
           "revealedBy": "Drafts with calqued syntax or register mismatches where a full translation was not needed, or long stalls where planning in the first language would have helped; occasionally machine-translated text where module rules prohibit it.",
           "response": "Present the evidence on translation versus direct composition as mixed and dependent on proficiency and task, and have learners trial both routes on short tasks and compare the results. Check module rules on translation tools. Do not ban first-language drafting outright.",
@@ -4271,7 +4283,7 @@
     },
     {
       "topicId": "idn.elf",
-      "summary": "Jenkins's research on the international university shows that, although students and staff communicate in English as a lingua franca, institutional language policies continue to assume native English norms. Mauranen's analysis of spoken academic English as a lingua franca documents how multilingual academics achieve understanding through explicitness, rephrasing and co-operative strategies. For EAP, this means teaching accommodation and negotiation strategies to all students — including first-language English users — while being honest about where normative expectations still apply in assessment.",
+      "summary": "Jenkins's research on the international university shows that, although students and staff communicate in English as a lingua franca, institutional language policies continue to assume native English norms. Mauranen's analysis of spoken academic English as a lingua franca documents how multilingual academics achieve understanding through explicitness, rephrasing and co-operative strategies. For EAP, this means teaching accommodation and negotiation strategies to all students \u2014 including first-language English users \u2014 while being honest about where normative expectations still apply in assessment.",
       "activities": [
         {
           "title": "Breakdown or not?",
@@ -4398,7 +4410,7 @@
         "partialResponse": "Considers only one explanation.",
         "gapResponse": "Relies on a stereotype or moves straight to blame or complaint."
       },
-      "contextNotes": "Foundation and pre-sessional learners are often managing adjustment and multilingual groups simultaneously. Undergraduates need these skills in mixed home–international groups; PGT learners in intensive, highly international cohorts; PGR learners in supervision relationships and international research teams.",
+      "contextNotes": "Foundation and pre-sessional learners are often managing adjustment and multilingual groups simultaneously. Undergraduates need these skills in mixed home\u2013international groups; PGT learners in intensive, highly international cohorts; PGR learners in supervision relationships and international research teams.",
       "citations": [
         "holliday1999",
         "zhou2008"
@@ -4470,14 +4482,14 @@
       ],
       "reviewNotes": [
         "Evidence for systematic cross-linguistic rhetorical differences exists for some genres and features, but findings vary with genre and corpus design; single studies should not be generalised to whole languages.",
-        "Review response: R5-02 notes that foundation learners have no access to this topic. The Kaplan–Connor–Kubota debate is kept at B2 and above because it is conceptually and linguistically demanding; its foundation-appropriate core — that conventions are learnable and differ by context, not markers of deficit — is carried at foundation by idn.standards-legitimacy, idn.diversity-as-resource and idn.translingual-writing. The topic is no longer a leaf: idn.translingual-writing now takes it as a soft prerequisite.",
+        "Review response: R5-02 notes that foundation learners have no access to this topic. The Kaplan\u2013Connor\u2013Kubota debate is kept at B2 and above because it is conceptually and linguistically demanding; its foundation-appropriate core \u2014 that conventions are learnable and differ by context, not markers of deficit \u2014 is carried at foundation by idn.standards-legitimacy, idn.diversity-as-resource and idn.translingual-writing. The topic is no longer a leaf: idn.translingual-writing now takes it as a soft prerequisite.",
         "Graph note: the soft edge from reg.disciplinary-style (in-sessional only, B2+) was removed because it placed this pre-sessional B2 topic, and the translingual writing topic that builds on it, behind an in-sessional chain; disciplinary variation within English is now handled in the difficulty response and context notes.",
         "Review response: R5-21 asks for the Hinds/Connor/Kubota discussion to be moved here from coh.writer-responsibility; the summary already covers Hinds's typology. A coh.writer-responsibility <- idn.intercultural-rhetoric edge is not recommended because it would create a cycle in the current graph."
       ]
     },
     {
       "topicId": "idn.diversity-as-resource",
-      "summary": "Wingate argues for inclusive academic literacy instruction for all students rather than remedial provision targeted at international or 'non-traditional' students, since academic conventions are new to everyone entering a discipline. Leki's study of multilingual undergraduates in group projects showed how they could be positioned by peers as less competent, and Holliday's analysis of native-speakerism shows how such framings attribute deficits — in autonomy or critical thinking — to 'non-native' learners. Teaching should help learners recognise and resist deficit positioning while still acquiring the conventions they need.",
+      "summary": "Wingate argues for inclusive academic literacy instruction for all students rather than remedial provision targeted at international or 'non-traditional' students, since academic conventions are new to everyone entering a discipline. Leki's study of multilingual undergraduates in group projects showed how they could be positioned by peers as less competent, and Holliday's analysis of native-speakerism shows how such framings attribute deficits \u2014 in autonomy or critical thinking \u2014 to 'non-native' learners. Teaching should help learners recognise and resist deficit positioning while still acquiring the conventions they need.",
       "activities": [
         {
           "title": "Reframing statements",
@@ -4529,7 +4541,7 @@
         "partialResponse": "Gives a generic answer ('different perspectives').",
         "gapResponse": "Names only difficulties."
       },
-      "contextNotes": "At foundation and on UG and PG pre-sessional courses, emphasise confidence and assets during transition. Undergraduate in-sessional work should include home students — among them first-generation, mature and part-time students — and address group positioning. PGT learners benefit from using comparative perspectives in assignments; PGR learners from drawing on multilingual literatures and contexts. For teachers, the topic is primarily a principle for course design: explicit teaching of conventions for everyone rather than targeted remediation.",
+      "contextNotes": "At foundation and on UG and PG pre-sessional courses, emphasise confidence and assets during transition. Undergraduate in-sessional work should include home students \u2014 among them first-generation, mature and part-time students \u2014 and address group positioning. PGT learners benefit from using comparative perspectives in assignments; PGR learners from drawing on multilingual literatures and contexts. For teachers, the topic is primarily a principle for course design: explicit teaching of conventions for everyone rather than targeted remediation.",
       "citations": [
         "wingate2015",
         "leki2001",
@@ -4616,7 +4628,7 @@
     },
     {
       "topicId": "idn.translingual-writing",
-      "summary": "Horner and colleagues argue for a translingual approach to writing that treats difference in language as a resource for making meaning rather than as error to be removed, and Canagarajah's account of translingual practice, together with his analysis of a multilingual student's code-meshed writing, presents meshing as a deliberate, rhetorical choice that writers can learn to make and must negotiate with readers. García and Li Wei extend translanguaging from the learning process to the texts learners produce, while Flores and Rosa warn that 'appropriateness' framings — keep your other languages for their proper place — can still position racialised writers as deficient whatever language they use. How far translingual texts are accepted remains contested and varies by genre, assessor and institution, so teach learners to read the rules, weigh the rhetorical effect and negotiate, rather than either banning other languages or promising that anything goes.",
+      "summary": "Horner and colleagues argue for a translingual approach to writing that treats difference in language as a resource for making meaning rather than as error to be removed, and Canagarajah's account of translingual practice, together with his analysis of a multilingual student's code-meshed writing, presents meshing as a deliberate, rhetorical choice that writers can learn to make and must negotiate with readers. Garc\u00eda and Li Wei extend translanguaging from the learning process to the texts learners produce, while Flores and Rosa warn that 'appropriateness' framings \u2014 keep your other languages for their proper place \u2014 can still position racialised writers as deficient whatever language they use. How far translingual texts are accepted remains contested and varies by genre, assessor and institution, so teach learners to read the rules, weigh the rhetorical effect and negotiate, rather than either banning other languages or promising that anything goes.",
       "activities": [
         {
           "title": "Translingual choices in published texts",
@@ -4704,42 +4716,5 @@
     "idn.plurilingual-repertoire is now an early node (A2+ start, foundation core) with only lrn.language-learning-strategies as a prerequisite; idn.diversity-as-resource, idn.academic-identity and idn.translingual-writing build on it. rdp.plurilingual-reading, wpr.l1-in-composing, src.multilingual-sources and dig.machine-translation should take it as a soft prerequisite (R5-02).",
     "IDN moved to the strand \"Academic Socialisation, Identity & Communication\" (R1-11). Topics with audience \"both\" (idn.diversity-as-resource, idn.standards-legitimacy, idn.intercultural-rhetoric, idn.translingual-writing) pair a learner skill with a curriculum principle for teachers.",
     "Cross-group recommendations recorded in guidance reviewNotes: acu.academic-literacies <- idn.academic-identity and sta.authorial-voice <- idn.academic-identity (soft); cit.citation-politics <- idn.standards-legitimacy (soft); src.multilingual-sources, ges.reflective-writing, sta.authorial-voice, pub.multilingual-scholars and acu.critical-eap <- idn.translingual-writing (soft). coh.writer-responsibility <- idn.intercultural-rhetoric is not recommended because it would create a cycle."
-  ],
-  "proposedReferences": [
-    {
-      "key": "floresrosa2015",
-      "kind": "article",
-      "apa": "Flores, N., & Rosa, J. (2015). Undoing appropriateness: Raciolinguistic ideologies and language diversity in education. *Harvard Educational Review, 85*(2), 149–171.",
-      "doi": "10.17763/0017-8055.85.2.149",
-      "note": "High confidence in the reference (also recommended by review R5-14); DOI recalled from memory and should be confirmed. Supports the claim that judgements of appropriateness are shaped by raciolinguistic ideologies (idn.standards-legitimacy, idn.translingual-writing)."
-    },
-    {
-      "key": "kobayashirinnert1992",
-      "kind": "article",
-      "apa": "Kobayashi, H., & Rinnert, C. (1992). Effects of first language on second language writing: Translation versus direct composition. *Language Learning, 42*(2), 183–215.",
-      "doi": "10.1111/j.1467-1770.1992.tb00707.x",
-      "note": "High confidence in the reference (recommended by review R5-06); DOI should be confirmed. Used only for the finding that lower-proficiency writers' translated essays were rated higher on content and organisation than directly composed ones (idn.plurilingual-repertoire)."
-    },
-    {
-      "key": "hornerluroyster2011",
-      "kind": "article",
-      "apa": "Horner, B., Lu, M.-Z., Royster, J. J., & Trimbur, J. (2011). Language difference in writing: Toward a translingual approach. *College English, 73*(3), 303–321.",
-      "doi": "",
-      "note": "High confidence in authors, title, journal, volume and pages; no DOI recalled. Cited for the translingual approach that treats language difference as a resource and shares responsibility with readers (idn.translingual-writing)."
-    },
-    {
-      "key": "canagarajah2011codemeshing",
-      "kind": "article",
-      "apa": "Canagarajah, S. (2011). Codemeshing in academic writing: Identifying teachable strategies of translanguaging. *The Modern Language Journal, 95*(3), 401–417.",
-      "doi": "10.1111/j.1540-4781.2011.01207.x",
-      "note": "High confidence in the reference; moderate confidence in the DOI, which should be confirmed. Cited for its analysis of a multilingual student's code-meshed writing and the strategies that make meshing work for readers (idn.translingual-writing)."
-    },
-    {
-      "key": "kachru1985",
-      "kind": "chapter",
-      "apa": "Kachru, B. B. (1985). Standards, codification and sociolinguistic realism: The English language in the outer circle. In R. Quirk & H. G. Widdowson (Eds.), *English in the world: Teaching and learning the language and literatures* (pp. 11–30). Cambridge University Press.",
-      "doi": "",
-      "note": "High confidence in the reference and page range; no DOI. Cited for the recognition of outer-circle varieties of English as norm-developing rather than deficient (idn.standards-legitimacy, R5-10)."
-    }
   ]
 }

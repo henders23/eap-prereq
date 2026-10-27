@@ -1846,6 +1846,18 @@
       "prerequisiteId": "cit.citation-politics",
       "strength": "soft",
       "reason": "AI discovery tools draw on existing indexes and citation counts, so judging what they surface and omit builds on knowing how indexing shapes whose work is visible"
+    },
+    {
+      "topicId": "int.policy-processes",
+      "prerequisiteId": "prg.formal-statements",
+      "strength": "soft",
+      "reason": "Responding within integrity processes uses the conventions of formal statements and appeals"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "idn.standards-legitimacy",
+      "strength": "soft",
+      "reason": "Whose knowledge is cited connects to questions of whose English counts as legitimate"
     }
   ],
   "guidance": [

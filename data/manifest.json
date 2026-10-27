@@ -3,78 +3,135 @@
   "taxonomyVersion": "v1",
   "releaseDate": "2026-10-27",
   "counts": {
-    "strands": 15,
+    "strands": 16,
     "domains": 51,
-    "topics": 557,
+    "topics": 569,
     "topicsByStrand": {
       "Academic Language": 83,
-      "Academic Discourse": 42,
-      "Academic Reading": 37,
-      "Academic Listening": 27,
-      "Academic Speaking": 47,
-      "Academic Writing": 42,
-      "Sources & Academic Integrity": 54,
-      "Argument & Critical Thinking": 35,
-      "Academic Genres": 29,
-      "Research Communication": 33,
-      "Data, Numeracy & Multimodality": 23,
-      "Learning & Autonomy": 35,
-      "Academic Socialisation & Communication": 20,
+      "Academic Discourse": 39,
+      "Academic Reading": 35,
+      "Academic Listening & Note-making": 27,
+      "Academic Speaking": 49,
+      "Academic Writing": 39,
+      "Sources & Academic Integrity": 53,
+      "Argument & Critical Thinking": 28,
+      "Academic Genres": 27,
+      "Research Communication": 45,
+      "Data, Numeracy & Multimodality": 22,
+      "Learning & Autonomy": 12,
+      "Assessment & Progression": 21,
+      "Academic Socialisation, Identity & Communication": 29,
       "Digital Literacy & AI": 18,
-      "Disciplinary Literacies": 32
+      "Disciplinary Literacies": 42
     },
     "topicsByType": {
-      "LINGUISTIC": 110,
+      "LINGUISTIC": 106,
       "CONCEPTUAL": 114,
-      "STRATEGIC": 56,
-      "SOCIOPRAGMATIC": 17,
-      "PROCEDURAL": 194,
-      "GENRE": 66
+      "STRATEGIC": 54,
+      "SOCIOPRAGMATIC": 20,
+      "PROCEDURAL": 195,
+      "GENRE": 80
     },
     "topicsByStage": {
-      "foundation": 373,
-      "pre-sessional": 478,
-      "in-sessional-ug": 524,
-      "in-sessional-pgt": 467,
-      "pgr": 261
+      "foundation": {
+        "core": 106,
+        "develop": 256,
+        "revisit": 0
+      },
+      "pre-sessional-ug": {
+        "core": 106,
+        "develop": 350,
+        "revisit": 4
+      },
+      "pre-sessional-pg": {
+        "core": 92,
+        "develop": 357,
+        "revisit": 40
+      },
+      "in-sessional-ug": {
+        "core": 59,
+        "develop": 348,
+        "revisit": 116
+      },
+      "in-sessional-pgt": {
+        "core": 62,
+        "develop": 269,
+        "revisit": 146
+      },
+      "pgr": {
+        "core": 46,
+        "develop": 139,
+        "revisit": 88
+      }
     },
     "topicsBySpecificity": {
-      "EGAP": 502,
-      "ESAP": 55
+      "EGAP": 505,
+      "ESAP": 64
     },
-    "dependencies": 1346,
-    "hardDependencies": 493,
-    "crossStrandDependencies": 658,
-    "guidanceRecords": 557,
-    "references": 467,
-    "referencesCited": 448,
+    "topicsByAudience": {
+      "learner": 547,
+      "both": 21,
+      "teacher": 1
+    },
+    "topicsByDiscipline": {
+      "sciences": 34,
+      "engineering": 31,
+      "health-medicine": 50,
+      "law": 20,
+      "mathematics-statistics": 7,
+      "social-sciences": 40,
+      "humanities": 18,
+      "psychology": 23,
+      "business-management": 30,
+      "economics": 13,
+      "education": 29,
+      "computing": 10,
+      "finance-accounting": 4,
+      "arts-design": 7,
+      "media-communication": 1
+    },
+    "retiredTopics": 24,
+    "dependencies": 1473,
+    "hardDependencies": 520,
+    "crossStrandDependencies": 745,
+    "guidanceRecords": 569,
+    "references": 480,
+    "referencesCited": 480,
     "frameworkItems": 109,
-    "topicFrameworkLinks": 1015
+    "topicFrameworkLinks": 1073
   },
   "files": {
     "topics.json": {
-      "bytes": 1299881,
-      "sha256": "506c41e478b3a7e4c8d112b602d8564e2dfb1d9ff6227ea042d275e918ac13dd"
+      "bytes": 1555073,
+      "sha256": "354b00243fb174a6bc3040030a98df9efcc76341d718633db8e1662014692ab2"
     },
     "dependencies.json": {
-      "bytes": 347512,
-      "sha256": "afa95b919c6d81235b8ffeed9d685234376ea6b13df4f006c3a5911f47a24e92"
+      "bytes": 382543,
+      "sha256": "ab5ba69e86a6fce3f868b537448eff6b002a3da47c39e5217a50df4fa15d8d04"
     },
     "domains.json": {
-      "bytes": 110337,
-      "sha256": "cbea67c3d44eda238554bf2d9dd98830e75a18e5c74825d994680d4e1a7f69c1"
+      "bytes": 129345,
+      "sha256": "86f74a3aa79ecb664358ae56136aa78b9cd62095ebb0c79467d62ee61f3b9f1d"
     },
     "teaching-guidance.json": {
-      "bytes": 2455770,
-      "sha256": "b1fdeeaf1ebedf1bffed0fce13cc579d7a0b832bbc57e4dfe22c898f106f2995"
+      "bytes": 2737234,
+      "sha256": "052186f39bfffcf0e3e225989296c35418e2fb3d6bda381191a079c043b59321"
     },
     "references.json": {
-      "bytes": 248185,
-      "sha256": "b0319b1e0180bcce36c42ff4adf3f9c2879708067106a2adb71bbe145420495d"
+      "bytes": 259609,
+      "sha256": "109a1f5da9622dea9f6a05ebcfbaa73d2e39378ed8640ce7dc0639b781a8efc4"
     },
     "frameworks.json": {
       "bytes": 25760,
       "sha256": "68b42503c13f6e2c7756a005f8f640e3b6eadb152eceec9b5ca9f1fa4a6dab52"
+    },
+    "retired-topics.json": {
+      "bytes": 4229,
+      "sha256": "0e4a777ed665f346d7b9c425af2b7b2716b50b000327877746b0cbadfcb8a921"
+    },
+    "pathways.json": {
+      "bytes": 291,
+      "sha256": "06f4e47f3fdfaf6c23868e4dfbf31d9f7200cc2fb6cb69b23f31a0b41c3135c0"
     }
   }
 }

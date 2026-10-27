@@ -24,7 +24,14 @@
         "benesch2001",
         "dafouzsmit2016",
         "macaro2018emi",
-        "wingate2015"
+        "wingate2015",
+        "hyland2006eap",
+        "hylandhamplyons2002",
+        "charlespecorari2016",
+        "bruce2011theory",
+        "flowerdewpeacock2001",
+        "baleap2008teap",
+        "murraynallaya2016"
       ]
     },
     {
@@ -650,7 +657,7 @@
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Emails to academic staff",
       "description": "Write emails to lecturers, supervisors and professional services staff with an informative subject line, an appropriate greeting and form of address, an early statement of purpose, sufficient context, a clear request or question, and a suitable closing and signature with identifying details. Email is often the first and most frequent written contact with staff, and its form shapes perceptions of the writer.",
-      "cefrStart": "A2",
+      "cefrStart": "B1",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [

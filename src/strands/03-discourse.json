@@ -2666,6 +2666,24 @@
       "prerequisiteId": "reg.spoken-vs-written",
       "strength": "soft",
       "reason": "Spoken stance uses different resources (opinion frames, vague language, prosody) from writing, so awareness of spoken–written differences can reduce transfer of written hedges into talk"
+    },
+    {
+      "topicId": "fun.describing-process",
+      "prerequisiteId": "grm.unaccusative-verbs",
+      "strength": "soft",
+      "reason": "Describing processes often uses unaccusative verbs (occur, emerge) that do not take the passive"
+    },
+    {
+      "topicId": "sta.authorial-voice",
+      "prerequisiteId": "idn.translingual-writing",
+      "strength": "soft",
+      "reason": "Translingual choices are one resource for constructing an authorial voice"
+    },
+    {
+      "topicId": "sta.authorial-voice",
+      "prerequisiteId": "idn.academic-identity",
+      "strength": "soft",
+      "reason": "Authorial voice is the textual construction of an academic identity"
     }
   ],
   "guidance": [

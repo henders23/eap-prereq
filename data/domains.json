@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "strandCount": 15,
+  "strandCount": 16,
   "strands": [
     {
       "name": "Academic Language",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": "Academic Listening",
+      "name": "Academic Listening & Note-making",
       "domains": [
         "LIS",
         "NTK"
@@ -67,8 +67,7 @@
       "name": "Argument & Critical Thinking",
       "domains": [
         "CRT",
-        "ARG",
-        "IDN"
+        "ARG"
       ]
     },
     {
@@ -96,17 +95,23 @@
     {
       "name": "Learning & Autonomy",
       "domains": [
-        "LRN",
+        "LRN"
+      ]
+    },
+    {
+      "name": "Assessment & Progression",
+      "domains": [
         "FBK",
         "EXM",
         "TST"
       ]
     },
     {
-      "name": "Academic Socialisation & Communication",
+      "name": "Academic Socialisation, Identity & Communication",
       "domains": [
         "ACU",
-        "PRG"
+        "PRG",
+        "IDN"
       ]
     },
     {
@@ -136,13 +141,14 @@
       "strand": "Academic Language",
       "name": "Academic Vocabulary",
       "summary": "Academic Vocabulary covers the lexical platform for university study: the vocabulary size and text coverage needed to read and listen independently; the general academic, sub-technical and technical layers of university lexis; the word-level knowledge (morphology, word grammar, countability, spelling) needed for accurate production; and the strategies learners use to keep expanding vocabulary beyond the classroom. Academic word lists (AWL, AVL) are treated as useful but contested starting points, because the 'academic' status, meaning and frequency of items vary by discipline, and coverage thresholds are treated as approximate planning guides rather than cut-offs.",
-      "learnerSummary": "You will learn which words are most worth your time for university study, how to learn and remember them efficiently, and how to use them accurately and precisely in your own writing and speaking.",
+      "learnerSummary": "You will learn which words are most worth your time for university study and how to learn and remember them. You will also practise using them accurately and precisely in writing and speech.",
       "stageEmphasis": {
         "foundation": "Secure the high-frequency base, word families and the vocabulary of university study and assignments, and establish independent learning routines with dictionaries and word cards.",
-        "pre-sessional": "Build general academic vocabulary with its word grammar and collocations, set realistic size goals from coverage research, and practise inferring and checking meaning from context.",
         "in-sessional-ug": "Move academic and sub-technical vocabulary into accurate productive use within the student's discipline, including process verbs, evaluative lexis and discipline-specific senses.",
         "in-sessional-pgt": "Prioritise disciplinary terminology, lexical precision and evaluation for source-based writing on compressed one-year programmes.",
-        "pgr": "Refine precision, shell nouns and evaluative lexis for research writing, using evidence from the target field's literature."
+        "pgr": "Refine precision, shell nouns and evaluative lexis for research writing, using evidence from the target field's literature.",
+        "pre-sessional-ug": "Check and secure the high-frequency base, then build general academic vocabulary, word families and command words for essay and exam tasks, with routines for inferring and recording new words.",
+        "pre-sessional-pg": "Test rather than reteach the high-frequency base, and focus on academic and sub-technical vocabulary in the target discipline, evaluative lexis for critical reading and writing, and independent learning systems."
       },
       "keyReferences": [
         "nation2013",
@@ -157,14 +163,15 @@
       "code": "PHR",
       "strand": "Academic Language",
       "name": "Phraseology & Formulaic Language",
-      "summary": "Phraseology & Formulaic Language treats multi-word units — collocations, lexical bundles, spoken formulas and fixed expressions — as core carriers of academic meaning rather than decorative extras. Corpus research shows that expert academic writing and speech rely heavily on recurrent combinations whose functions differ (research-, text- and stance-oriented) and vary by discipline, and that L2 and novice writers tend to underuse, misuse or overuse them. The domain also develops strategies (corpus consultation, critical use of phrase resources) so that learners can verify phraseology independently, while guarding against formulaic, template-driven text.",
-      "learnerSummary": "You will learn to notice and use the word combinations that academic writers and lecturers rely on, and to check combinations yourself with corpus tools (searchable collections of real academic texts) and phrase resources without filling your writing with stock phrases.",
+      "summary": "Phraseology & Formulaic Language treats multi-word units — collocations, lexical bundles, spoken formulas and fixed expressions — as core carriers of academic meaning rather than decorative extras. Corpus research shows that expert academic writing and speech rely heavily on recurrent combinations whose functions differ (research-, text- and stance-oriented) and vary by discipline, and that student writers' use often differs from expert use in range and frequency (reported as underuse or overuse relative to a named reference corpus, not as error in itself). The domain also develops strategies (corpus consultation, critical use of phrase resources) so that learners can verify phraseology independently, while guarding against formulaic, template-driven text.",
+      "learnerSummary": "You will learn to notice and use the word combinations that academic writers and speakers rely on. You will also learn to check combinations yourself in dictionaries, collections of real texts and phrase lists.",
       "stageEmphasis": {
         "foundation": "Build the habit of noticing and recording combinations, with frequent academic collocations and text-organising bundles from course materials.",
-        "pre-sessional": "Extend collocational range, introduce research- and stance-oriented bundles linked to calibration, and train learners in collocation dictionaries, simple corpus searches and critical phrasebank use.",
         "in-sessional-ug": "Work on learners' own drafts: repair persistent miscollocations, reduce overused connectors and stance frames, and compare bundles with those in disciplinary texts.",
         "in-sessional-pgt": "Prioritise discipline-relevant collocations and bundles for source-based writing, checked against field texts in a compressed timeframe.",
-        "pgr": "Profile the phraseology of target journals with self-built corpora and refine stance formulas for research writing and publication."
+        "pgr": "Profile the phraseology of target journals with self-built corpora and refine stance formulas for research writing and publication.",
+        "pre-sessional-ug": "Build range in frequent academic collocations and text-organising bundles for essays and presentations, and introduce collocation dictionaries, error logs and guided phrasebank use.",
+        "pre-sessional-pg": "Extend collocations into the research- and stance-oriented bundles met in research articles and needed for a source-based project, and introduce simple corpus searches to check usage in the target field."
       },
       "keyReferences": [
         "nesselhauf2003",
@@ -180,13 +187,14 @@
       "strand": "Academic Language",
       "name": "Register & Academic Style",
       "summary": "Register & Academic Style develops learners' ability to read a communicative situation and choose language accordingly: register as a configuration of field, tenor and mode; the systematic differences in how speech and writing package meaning; and the features conventionally associated with formal academic prose. The domain deliberately treats style 'rules' as probabilistic tendencies to be tested against evidence of disciplinary and historical variation, frames impersonality as a choice about agency rather than a route to objectivity, and extends to inclusive language and to writing for non-specialist readers.",
-      "learnerSummary": "You will learn why academic writing and speech sound the way they do, how to adjust your style for different readers, purposes and disciplines, and how to tell real conventions from over-simplified 'rules'.",
+      "learnerSummary": "You will learn why academic writing and speech sound as they do, and how to adjust your style for different readers. You will also learn to tell real conventions from over-simple 'rules'.",
       "stageEmphasis": {
         "foundation": "Build register awareness through concrete contrasts (email, forum post, assignment) and an explicit, reasoned checklist of formality features, including precise rather than vague reference.",
-        "pre-sessional": "Make spoken–written differences and formality choices explicit tools for reading-into-writing and presentations, and begin testing prescriptive style rules against exemplars.",
         "in-sessional-ug": "Reconcile conflicting module advice by examining disciplinary style, authorial presence and density in the student's own field and genres.",
         "in-sessional-pgt": "Calibrate density, impersonality and inclusive description for compressed source-based and professional writing, often in an unfamiliar discipline.",
-        "pgr": "Align style with target journals and examiners' fields, claim contribution with appropriate presence, and write lay summaries and engagement texts for non-specialists."
+        "pgr": "Align style with target journals and examiners' fields, claim contribution with appropriate presence, and write lay summaries and engagement texts for non-specialists.",
+        "pre-sessional-ug": "Make formality features, precise reference and spoken–written differences explicit for essays and presentations, treating style advice as tendencies rather than absolute rules.",
+        "pre-sessional-pg": "Move quickly from formality checklists to choices about authorial presence, information density and disciplinary style in source-based projects, testing prescriptive rules against texts from the target field."
       },
       "keyReferences": [
         "biberconrad2019",
@@ -201,13 +209,14 @@
       "code": "GRM",
       "strand": "Academic Language",
       "name": "Academic Grammar",
-      "summary": "This domain covers the grammatical resources that carry meaning in academic registers, prioritised by what corpus research shows academic writing actually does rather than by a general-English syllabus order. Its centre of gravity is the noun phrase: academic prose compresses information into premodified and postmodified noun phrases and nominalisations far more than conversation does, so learners need both to unpack such phrases when reading and to build them when writing. Clause-level resources (tense, voice, modality, subordination, complement and reporting clauses) are treated in terms of the rhetorical choices they serve, such as currency in citation, agency in methods and degrees of commitment in claims. Accuracy topics are framed as monitoring and editing problems as much as knowledge problems.",
-      "learnerSummary": "You will learn the grammar that academic texts rely on most, especially how long noun phrases pack information, and how choices of tense, voice and sentence structure change what your writing claims. You will also build routines for finding and fixing your own most frequent errors.",
+      "summary": "This domain covers the grammatical resources that carry meaning in academic registers, prioritised by what corpus research shows academic writing actually does rather than by a general-English syllabus order. Its centre of gravity is the noun phrase: academic prose compresses information into premodified and postmodified noun phrases and nominalisations far more than conversation does, so learners need both to unpack such phrases when reading and to build them when writing. Clause-level resources (tense, voice, modality, subordination, complement and reporting clauses) are treated in terms of the rhetorical choices they serve, such as currency in citation, agency in methods and degrees of commitment in claims. Accuracy topics are framed as monitoring and editing problems as much as knowledge problems, and the grammar of spoken academic interaction is treated on its own terms rather than measured against writing.",
+      "learnerSummary": "You will learn the grammar academic texts use most, such as long noun phrases, tense and voice, and how it shapes your claims. You will also learn to find and fix your frequent errors.",
       "stageEmphasis": {
-        "foundation": "Secure clause analysis, agreement, articles, tense and basic subordination with textbook-level texts, and introduce noun-phrase expansion through description and definition tasks.",
-        "pre-sessional": "Shift attention from clause-combining to phrasal complexity, tense and voice in source-based writing, reporting structures and personal error monitoring tied to the progression assignment.",
-        "in-sessional-ug": "Address grammar through students' disciplinary reading and assessed drafts, focusing on noun phrases, reporting, passive versus active choices and recurrent errors flagged in feedback.",
-        "in-sessional-pgt": "Concentrate on nominalisation, tense in literature reviews, stance-bearing structures and editing efficiency under the time pressure of a one-year programme.",
+        "foundation": "Secure clause analysis, agreement, tense, the passive for process description, relative clauses and basic subordination with textbook-level texts, and introduce noun-phrase expansion and the grammar of discussion through description, definition and seminar tasks.",
+        "pre-sessional-ug": "Consolidate tense, voice, articles and noun-phrase postmodification for essays and reports, introduce reporting structures for source-based writing, and build personal error monitoring tied to the progression assignment.",
+        "pre-sessional-pg": "Assume most clause-level grammar and move quickly to phrasal complexity, nominalisation, reporting structures and tense in literature-based writing, with error monitoring geared to the extended project of the target programme.",
+        "in-sessional-ug": "Address grammar through students' disciplinary reading and assessed drafts, focusing on nominalisation, noun phrases, passive versus active choices and recurrent errors flagged in feedback.",
+        "in-sessional-pgt": "Concentrate on tense in literature reviews, nominalisation, stance-bearing structures and editing efficiency under the time pressure of a short taught programme.",
         "pgr": "Refine information packaging (clefts, fronting, end-weight), voice and tense choices in research genres and independent self-editing for publication."
       },
       "keyReferences": [
@@ -215,20 +224,23 @@
         "bibergray2016",
         "biber2011complexity",
         "celcemurcia1999",
-        "hinkel2004"
+        "hinkel2004",
+        "spadatomita2010",
+        "ellis2005principles"
       ]
     },
     {
       "code": "SEN",
       "strand": "Academic Language",
       "name": "Sentence Construction & Punctuation",
-      "summary": "This domain covers how clauses are combined into well-formed sentences, how punctuation marks grammatical structure and meaning, and how sentence-level choices (length, concision, end-weight) affect readability. Punctuation is treated as a consequence of clause and phrase analysis rather than as a list of rules, and conventions that vary by style guide (serial commas, quotation marks, capitalisation, numbers) are taught as choices to be applied consistently. Sentence-level style is grounded in what corpus research shows about academic prose, in particular that its difficulty comes mainly from dense noun phrases rather than from long chains of clauses.",
-      "learnerSummary": "You will learn to build clear, correctly punctuated sentences and to apply the conventions your department or style guide expects. You will also learn to edit sentences so that readers can follow dense academic ideas easily.",
+      "summary": "This domain covers how clauses are combined into well-formed sentences, how punctuation marks grammatical structure and meaning, and how sentence-level choices (length, concision, end-weight) affect readability. Punctuation is treated as a consequence of clause and phrase analysis rather than as a list of rules, and conventions that vary by style guide (serial commas, quotation marks, capitalisation, title case) are taught as choices to be applied consistently. Sentence-level style is grounded in what corpus research shows about academic prose, in particular that its difficulty comes mainly from dense noun phrases rather than from long chains of clauses. The style of numbers and units in running text is covered with the language of quantity in num.number-expressions.",
+      "learnerSummary": "You will learn to build clear, correctly punctuated sentences and apply the conventions your department or style guide expects. You will also learn to edit sentences so readers can follow dense ideas.",
       "stageEmphasis": {
-        "foundation": "Establish sentence types, boundaries, core comma and capitalisation conventions, and basic number and list formatting in short assignments.",
-        "pre-sessional": "Consolidate boundary and punctuation accuracy under time pressure, introduce semicolons, colons, quotation punctuation and concision for word-limited progression tasks.",
-        "in-sessional-ug": "Address style-guide conventions required by departments and sentence-level clarity in assessed reports and essays.",
-        "in-sessional-pgt": "Focus on concision, end-weight and consistent application of a style guide in dissertations and data-heavy writing.",
+        "foundation": "Establish sentence types and boundaries, core comma use, apostrophes, capitals and basic quotation punctuation in short assignments, and introduce list formatting.",
+        "pre-sessional-ug": "Consolidate boundary and punctuation accuracy under time pressure, including quotation punctuation for source-based essays, and introduce semicolons, colons and control of sentence length.",
+        "pre-sessional-pg": "Assume basic boundary control and focus on concision for word-limited extended projects, semicolons and colons in dense prose, quotation conventions in literature-based writing and early work on end-weight.",
+        "in-sessional-ug": "Address the style-guide conventions departments require and sentence-level clarity in assessed reports and essays, with low-level mechanics handled through self-access.",
+        "in-sessional-pgt": "Focus on concision and end-weight in dissertations and data-heavy writing; mechanics are handled through proofreading checklists rather than taught sessions.",
         "pgr": "Refine sentence-level clarity, end-weight and house-style conventions for theses and journal submission."
       },
       "keyReferences": [
@@ -243,11 +255,12 @@
       "code": "COH",
       "strand": "Academic Discourse",
       "name": "Cohesion & Coherence",
-      "summary": "This domain covers the resources that make a text hang together for its reader: cohesive ties (reference, conjunction, lexical cohesion) and the information-structuring choices (given–new order, thematic progression, encapsulation, text patterns) that make a sequence of sentences read as a purposeful whole. It treats cohesion as a means to coherence rather than a proxy for it, countering the connector-heavy, checklist approach that learner-corpus findings and test preparation tend to reinforce. Topics move from sentence-to-sentence linking towards text-level signalling and the reader-oriented expectations of English-medium academic writing, including spoken signposting in lectures and presentations.",
-      "learnerSummary": "You will learn how writers and speakers help their audience follow their thinking — by linking sentences, keeping key terms consistent, putting familiar information first and signalling where a text is going — and why adding more linking words does not by itself make writing clear.",
+      "summary": "This domain covers the resources that make a text hang together for its reader: cohesive ties (reference, conjunction, lexical cohesion) and the information-structuring choices (given–new order, thematic progression, encapsulation, text patterns) that make a sequence of sentences read as a purposeful whole. It treats cohesion as a means to coherence rather than a proxy for it, countering the connector-heavy, checklist approach that test preparation and some readings of learner-corpus findings tend to reinforce. Topics move from sentence-to-sentence linking towards text-level signalling and the reader-oriented explicitness that many English-medium academic readers expect; spoken signposting is covered in the presentation and listening domains.",
+      "learnerSummary": "You will learn how writers help readers follow their thinking: linking sentences, keeping key terms consistent and signalling where the text is going. More linking words alone do not make writing clear.",
       "stageEmphasis": {
-        "foundation": "Foundation programmes concentrate on basic connectors, pronoun and noun reference, paragraph-level patterns and signposting in lectures, using short model texts and subject textbooks.",
-        "pre-sessional": "Pre-sessional courses move learners from connector lists to information flow, encapsulation and reverse outlining for coherence in extended source-based writing.",
+        "foundation": "Foundation programmes concentrate on basic connectors, pronoun and noun reference and paragraph-level patterns, using short model texts and subject textbooks.",
+        "pre-sessional-ug": "Undergraduate pre-sessional courses move learners from connector lists to selective, accurate linking and clear reference in essays and short reports, using the cohesion–coherence distinction to make sense of marking criteria.",
+        "pre-sessional-pg": "Postgraduate pre-sessional courses add information flow, encapsulation with signalling nouns and reverse outlining, so that extended source-based projects read as one argument rather than a sequence of summaries.",
         "in-sessional-ug": "Undergraduate in-sessional work diagnoses coherence problems in students' own assignments, especially reliance on connectors, unclear reference and weak transitions between paragraphs.",
         "in-sessional-pgt": "Taught postgraduate support focuses on dissertation-length coherence, terminological consistency and transitions between sections, and on using text patterns to read efficiently.",
         "pgr": "Doctoral writers refine flow in dense prose (thematic progression, encapsulation) and manage metatext and terminology across a thesis or article."
@@ -266,10 +279,11 @@
       "strand": "Academic Discourse",
       "name": "Stance, Metadiscourse & Evaluation",
       "summary": "This domain covers the interpersonal dimension of academic discourse: how writers and speakers signal certainty and commitment, evaluate ideas and sources, represent themselves, engage readers, and keep their own claims distinct from those they attribute to others. It draws on Hyland's models of metadiscourse and of stance and engagement and on Martin and White's appraisal framework, especially engagement, treating them as complementary lenses rather than a single taxonomy. Stance is approached as calibration and positioning grounded in evidence, not as lists of hedges to insert, and disciplinary variation is made explicit throughout.",
-      "learnerSummary": "You will learn how to show how sure you are about a claim and how to evaluate other people's work fairly. You will also learn when and how to make your own voice heard, and how to show the reader which ideas are yours and which come from your sources.",
+      "learnerSummary": "You will learn to show how certain a claim is and to evaluate others' work fairly. You will also learn to show which ideas are yours and which come from sources.",
       "stageEmphasis": {
-        "foundation": "Foundation programmes introduce basic hedging and boosting, qualified generalisations and simple opinion language in speech and writing, linked to avoiding sweeping claims.",
-        "pre-sessional": "Pre-sessional courses develop calibration of claims to evidence, the averral–attribution distinction in source-based writing, concession, and informed choices about self-mention.",
+        "foundation": "Foundation programmes introduce basic hedging and boosting and bounded rather than sweeping generalisations, with simple opinion language in speech and writing.",
+        "pre-sessional-ug": "Undergraduate pre-sessional courses focus on hedging and bounding generalisations, concession in argument essays, and keeping the writer's own claims distinct from source content.",
+        "pre-sessional-pg": "Postgraduate pre-sessional courses add calibration of claims to evidence, evaluative language for critiquing studies and informed choices about self-mention, in preparation for literature-based assignments and research proposals.",
         "in-sessional-ug": "Undergraduate in-sessional support helps students build an authorial voice in assignments, evaluate sources rather than describe them, and match stance conventions to their discipline.",
         "in-sessional-pgt": "Taught postgraduate support focuses on critical evaluation of literature, dialogic positioning in literature reviews and calibrated claims in dissertations.",
         "pgr": "Doctoral writers refine stance for publication: claiming contribution without over-claiming, positioning against the literature, managing self-mention and engaging expert readers."
@@ -288,10 +302,11 @@
       "strand": "Academic Discourse",
       "name": "Rhetorical Functions",
       "summary": "This domain covers recurrent rhetorical functions — defining, classifying, describing processes and structures, comparing, expressing cause and effect, exemplifying, explaining, hypothesising, recommending, summarising, narrating and evaluating — that cut across genres and disciplines. It follows the discourse approach to English for science and technology (Trimble), Mohan's knowledge framework and functional genre work (Martin and Rose; Nesi and Gardner's genre families), treating each function as a pairing of a communicative purpose with characteristic lexicogrammar and organisation. Functions are building blocks for paragraphs, sections and whole genres; teaching them through authentic disciplinary exemplars rather than decontextualised phrase lists keeps the focus on what each function achieves.",
-      "learnerSummary": "You will learn the common jobs that academic texts do — such as defining a term, comparing two approaches, explaining why something happens or recommending action — and the language and organisation that each job typically needs.",
+      "learnerSummary": "You will learn the common jobs that academic texts do — such as defining a term, comparing two approaches, explaining why something happens or recommending action — and the language and organisation each job needs.",
       "stageEmphasis": {
         "foundation": "Foundation programmes teach the core functions (defining, classifying, describing processes, comparing, cause and effect, exemplifying) through subject content, often in science, engineering and business contexts.",
-        "pre-sessional": "Pre-sessional courses combine functions within extended assignments, focusing on explaining, evaluating, problem–solution and recommending in source-based writing.",
+        "pre-sessional-ug": "Undergraduate pre-sessional courses consolidate comparing, cause and effect and explaining, and combine them with problem–solution and evaluation in expository and argument essays and short reports.",
+        "pre-sessional-pg": "Postgraduate pre-sessional courses emphasise criterion-based evaluation, defining contested or operational terms and hypothesising, in preparation for critical reviews, research proposals and dissertation-style projects.",
         "in-sessional-ug": "Undergraduate in-sessional support targets the functions demanded by specific assignments and genre families, such as explanation, critique and case study.",
         "in-sessional-pgt": "Taught postgraduate support emphasises contested and operational definitions, criterion-based evaluation, explanation of results and recommendations in dissertations and reports.",
         "pgr": "Doctoral writers mainly revisit hypothesising, defining contested constructs and explaining results within research genres."
@@ -309,12 +324,13 @@
       "code": "RDP",
       "strand": "Academic Reading",
       "name": "Reading Processes & Fluency",
-      "summary": "This domain covers the cognitive and linguistic foundations of academic reading: automatic word recognition, parsing of compressed academic sentences, reading fluency and volume, and the way these lower-level processes interact with background knowledge, purpose and reading load. L2 reading research finds that L2 vocabulary and grammatical knowledge are the strongest correlates of L2 reading comprehension, so the domain prioritises building the linguistic base and reading volume on which strategies depend rather than treating strategies as a substitute for them. It also addresses the practical conditions of university reading: on-screen texts, long reading lists and the legitimate, checked use of a reader's other languages.",
-      "learnerSummary": "You will learn how reading works, why knowing more words and reading more makes everything else easier, and how to read more fluently, cope with long reading lists, read well on screen and use your other languages wisely.",
+      "summary": "This domain covers the cognitive and linguistic foundations of academic reading: automatic word recognition, parsing of compressed academic sentences, reading fluency and volume, and the way these lower-level processes interact with background knowledge, purpose and reading load. L2 reading research finds that L2 vocabulary and grammatical knowledge are the strongest correlates of L2 reading comprehension, so the domain prioritises building the linguistic base and reading volume on which strategies depend rather than treating strategies as a substitute for them. It also addresses the practical conditions of university reading: on-screen texts, long reading lists and the legitimate, checked use of a reader's other languages, and accessible formats such as text-to-speech.",
+      "learnerSummary": "You will learn how reading works and why more words and more reading make everything easier. You will practise reading fluently, coping with long reading lists, reading on screen and using your other languages.",
       "stageEmphasis": {
-        "foundation": "Build automaticity and reading volume through extensive reading of graded and accessible texts, alongside explicit work on parsing long sentences, background knowledge and reading purpose.",
-        "pre-sessional": "Diagnose each learner's vocabulary size and reading rate early, set realistic fluency targets, and introduce reading-load management and on-screen reading of authentic disciplinary texts.",
-        "in-sessional-ug": "Focus on coping with module reading lists, dense textbook and article prose, and strategic, transparent use of L1 resources and machine translation.",
+        "foundation": "Build automaticity and reading volume through extensive reading of graded and accessible texts, alongside explicit work on reading purpose, background knowledge and short complex sentences.",
+        "pre-sessional-ug": "Diagnose each learner's vocabulary size and reading rate early, set realistic fluency targets with easy texts, and teach purpose-setting and sentence parsing with textbook and general academic prose.",
+        "pre-sessional-pg": "Focus on parsing dense disciplinary prose, building background knowledge for learners changing field, and planning realistic loads of authentic articles read largely on screen.",
+        "in-sessional-ug": "Focus on coping with module reading lists, dense textbook and article prose, and strategic, transparent use of other languages and translation tools.",
         "in-sessional-pgt": "Emphasise triage of large reading loads on compressed timelines, deliberate background-knowledge building for students changing discipline, and efficient on-screen reading.",
         "pgr": "Address sustainable reading of large literatures, realistic rate expectations for specialist and theoretical texts, and the place of plurilingual reading in research."
       },
@@ -332,10 +348,11 @@
       "strand": "Academic Reading",
       "name": "Reading Strategies & Comprehension",
       "summary": "This domain covers the strategies and comprehension skills that turn decoded text into usable understanding: previewing, selective reading, identifying main ideas and text organisation, tracking reference and stance, inferring, monitoring and repairing comprehension, annotating, and integrating prose with visuals. Strategy instruction has positive but variable average effects, and its benefits depend on learners having enough language knowledge to apply strategies to the text at hand. Skimming and scanning are often over-represented in materials shaped by test formats relative to the careful reading for learning and argument that dominates university study, so the domain gives priority to main ideas, structure, reference and stance, and treats speeded strategies as tools for specific purposes.",
-      "learnerSummary": "You will learn how to get an overview of a text, find and follow its main ideas and structure, work out what is implied and whose view is being expressed, notice when you have lost understanding and fix it, and read graphs and tables together with the text.",
+      "learnerSummary": "You will learn to get an overview of a text, follow its main ideas, structure and references, and work out whose view is expressed. You will also learn to notice and fix gaps in understanding.",
       "stageEmphasis": {
-        "foundation": "Prioritise paragraph and text structure, main ideas, reference tracking and textbook reading, with strategies modelled on accessible texts.",
-        "pre-sessional": "Integrate strategies with careful reading of authentic academic texts used in source-based assignments, and avoid test-driven over-emphasis on skimming and scanning.",
+        "foundation": "Prioritise previewing, paragraph structure, main ideas, reference tracking and textbook reading, with skimming and scanning practised as purposeful tools on accessible texts.",
+        "pre-sessional-ug": "Make main ideas, text organisation and the status of claims the assessed core, using textbook chapters and accessible academic articles, and avoid test-driven over-emphasis on skimming and scanning.",
+        "pre-sessional-pg": "Make research-article navigation and the reading of writer stance the assessed core, using articles from learners' target fields, and treat skimming and scanning as revision.",
         "in-sessional-ug": "Apply strategies to disciplinary textbooks and early encounters with research articles, with emphasis on stance, inference and visuals.",
         "in-sessional-pgt": "Focus on research-article navigation, stance and efficient previewing of large numbers of sources.",
         "pgr": "Address fine-grained stance reading, comprehension monitoring with specialist texts and efficient navigation of research literature."
@@ -353,12 +370,13 @@
       "code": "RDC",
       "strand": "Academic Reading",
       "name": "Critical & Multiple-Text Reading",
-      "summary": "This domain addresses reading as evaluation and integration: reconstructing arguments, evaluating evidence and methods, surfacing assumptions and perspective, reading theoretical texts, reading across multiple sources and mapping literatures, and moving from comprehension to a reasoned response that serves writing. Critical reading is presented as questioning and evaluating rather than fault-finding, and as partly discipline-specific; the notion of critical thinking is itself contested in EAP. Research on multiple-document reading shows that attending to sources and integrating across texts are distinct skills that do not develop automatically from single-text comprehension.",
-      "learnerSummary": "You will learn to identify and judge the arguments and evidence in what you read, notice assumptions and perspectives, compare and connect several sources, map a body of research, and form your own reasoned response for discussion and writing.",
+      "summary": "This domain addresses reading as evaluation and integration: reconstructing arguments, evaluating evidence and methods, surfacing assumptions and perspective, reading theoretical texts, reading across multiple sources and mapping literatures, and moving from comprehension to a reasoned response; reading for a specific writing task is covered by the reading-to-write topic in the Writing strand, and the general habit of critical questioning by the Critical Thinking domain. Critical reading is presented as questioning and evaluating rather than fault-finding, and as partly discipline-specific; the notion of critical thinking is itself contested in EAP. Research on multiple-document reading shows that attending to sources and integrating across texts are distinct skills that do not develop automatically from single-text comprehension.",
+      "learnerSummary": "You will learn to judge the arguments and evidence in what you read, notice assumptions and perspectives, and compare sources. You will then form your own reasoned response.",
       "stageEmphasis": {
-        "foundation": "Introduce critical reading through accessible argumentative texts, focusing on argument identification, critical questions and short reasoned responses.",
-        "pre-sessional": "Link critical reading to source-based writing: identifying arguments, evaluating evidence, reading for an assignment and responding critically to sources.",
-        "in-sessional-ug": "Apply critical reading to disciplinary sources, including multiple texts and empirical studies, with attention to assumptions and perspective.",
+        "foundation": "Introduce critical reading through accessible argumentative texts, focusing on finding the argument, asking critical questions and writing short reasoned responses.",
+        "pre-sessional-ug": "Make argument identification and the summary–response the assessed core, using short argumentative and textbook-style sources on general academic topics.",
+        "pre-sessional-pg": "Make evidence evaluation, stance and integration across several sources the assessed core of an extended source-based project, with an introduction to reading empirical studies and mapping a small literature.",
+        "in-sessional-ug": "Apply critical reading to disciplinary sources, including multiple texts and empirical studies, with attention to evidence, assumptions and perspective.",
         "in-sessional-pgt": "Emphasise methods critique, multiple-text integration and literature mapping for assignments and the dissertation.",
         "pgr": "Focus on mapping and positioning within a literature, reading theoretical texts and critiquing methods at a specialist level."
       },
@@ -373,13 +391,14 @@
     },
     {
       "code": "LIS",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "name": "Lecture & Academic Listening",
-      "summary": "Academic listening is modelled here as two interacting sets of processes: decoding, which turns the acoustic signal into words and clauses in real time, and meaning-building, which relates what has been decoded to context, discourse structure, speaker purpose and prior knowledge. The domain moves from perceptual topics (connected speech, segmentation, speech rate, accent) through lecture discourse (phases, organisational and relevance markers, main points, stance) to the settings in which students listen (live and recorded lectures, seminars, briefings, academic media), with metacognitive strategy running throughout. Listening is treated as something to be taught, not only tested, and accent variation is treated as normal in international universities rather than as deviation from a single native-speaker norm.",
-      "learnerSummary": "You will learn how listening to lectures and discussions works, why fast natural speech is hard to catch, and practical ways to follow the structure, key points and viewpoints of lectures, seminars and recorded talks in English.",
+      "summary": "Academic listening is modelled here as two interacting sets of processes: decoding, which turns the acoustic signal into words and clauses in real time, and meaning-building, which relates what has been decoded to context, discourse structure, speaker purpose and prior knowledge. The domain moves from perceptual topics (connected speech, segmentation, speech rate, accent) through lecture discourse (phases, organisational and relevance markers, main points, stance) to the settings in which students listen (live and recorded lectures, seminars, briefings, academic media), with metacognitive strategy running throughout. Listening is treated as something to be taught, not only tested, and accent variation is treated as normal in international universities rather than as deviation from a single native-speaker norm. Deaf and hard-of-hearing students, and others who rely on captions, transcripts or note-taking support, may show these skills through other modes, and tasks should allow for this.",
+      "learnerSummary": "You will learn why natural speech can be hard to catch and practical ways to follow the structure, key points and viewpoints of lectures, seminars and recorded talks.",
       "stageEmphasis": {
         "foundation": "Build decoding of connected speech and confidence with short, clearly signposted lecture extracts on accessible content, together with simple preparation routines.",
-        "pre-sessional": "Extend to full-length authentic lectures by varied speakers, with explicit work on lecture phases, relevance markers and main-point selection, linked to note-taking and integrated listening-to-writing tasks.",
+        "pre-sessional-ug": "Move from short decoding work to full-length authentic lectures on first-year content, with explicit work on discourse and relevance markers and main-point selection, assessed through lecture notes and listening-into-writing tasks.",
+        "pre-sessional-pg": "Assume basic lecture decoding and work with dense, discipline-related lectures and recorded seminars, focusing on relevance marking, speaker stance on contested material and following peer discussion.",
         "in-sessional-ug": "Use students' own module lectures and recordings to diagnose specific decoding or discourse problems and build independent review strategies.",
         "in-sessional-pgt": "Focus on dense, fast-paced specialist lectures, seminar discussion among peers from many language backgrounds, and inferring lecturer stance on contested material.",
         "pgr": "Address research seminars, conference talks, podcasts and multi-party discussion, where speakers are specialists with varied accents who signpost less explicitly."
@@ -395,13 +414,14 @@
     },
     {
       "code": "NTK",
-      "strand": "Academic Listening",
+      "strand": "Academic Listening & Note-making",
       "name": "Note-taking & Note-making",
       "summary": "The domain treats note-taking (recording from lectures in real time) and note-making (building notes from reading and from later review) as distinct but connected practices. Following Kiewra (1985), notes serve both an encoding function, through the processing involved in taking them, and an external-storage function for later review, and the review function often matters more; the domain therefore covers selection, shorthand and format, lecture and reading notes, review, digital tools and collaboration. Claims about particular formats, or about longhand versus laptop notes, are presented with their evidential limits.",
-      "learnerSummary": "You will learn to take notes that capture the structure and key ideas of lectures and readings, keep a clear record of where every idea came from, and use your notes to learn, revise and write.",
+      "learnerSummary": "You will learn to take notes that capture the key ideas of lectures and readings, record where each idea came from, and use your notes to revise and write.",
       "stageEmphasis": {
         "foundation": "Establish selection, abbreviation and simple formats with short, well-structured inputs, and link notes from reading to avoiding unintentional plagiarism.",
-        "pre-sessional": "Develop real-time lecture notes from authentic lectures and source-tracked notes from multiple readings that feed directly into integrated writing tasks.",
+        "pre-sessional-ug": "Develop real-time lecture notes with explicit selection criteria and formats, and source-tracked reading notes, feeding integrated listening- and reading-into-writing assessments.",
+        "pre-sessional-pg": "Concentrate on source-tracked notes from longer, multiple readings that separate quotation, paraphrase and comment and are organised by theme to feed synthesis and the extended project.",
         "in-sessional-ug": "Work with students' own lecture and reading notes, focusing on review through self-testing and on informed choices of tools.",
         "in-sessional-pgt": "Manage heavy reading loads with source-tracked, thematically organised notes that support synthesis and the dissertation.",
         "pgr": "Note-making shifts towards literature management and research records; reading notes that keep source and own words strictly apart remain central."
@@ -419,11 +439,12 @@
       "code": "SEM",
       "strand": "Academic Speaking",
       "name": "Seminars & Discussion",
-      "summary": "Seminars, tutorials and discussion groups are where students are expected to co-construct understanding of readings and ideas in real time, and where participation is often assessed formally or informally. This domain treats discussion as negotiated, multi-turn interaction rather than a list of functional phrases: learners need to prepare substantively, find and hold turns, state and justify positions, mitigate disagreement, build on and summarise others' contributions and, at higher levels, facilitate. Participation is also shaped by anxiety, positioning and the way tutors and peers distribute the floor, so the domain addresses willingness to communicate and the conditions for participation, not only individual skill.",
-      "learnerSummary": "You will learn how university discussions work and how to prepare for them, get into the conversation, make and support your points, respond to others politely but critically, and help a discussion move forward, face to face or online.",
+      "summary": "Seminars, tutorials and discussion groups are where students are expected to co-construct understanding of readings and ideas in real time, and where participation is often assessed formally or informally. This domain treats discussion as negotiated, multi-turn interaction rather than a list of functional phrases: learners need to prepare substantively, find and hold turns, state and justify positions, explain concepts and readings to peers, mitigate disagreement, build on and summarise others' contributions and, at higher levels, facilitate. Participation is also shaped by anxiety, positioning, disability and the way tutors and peers distribute the floor, so the domain addresses the conditions for participation as well as individual skill, and accepts more than one mode of contribution, including written and chat contributions.",
+      "learnerSummary": "You will learn how university discussions work, how to prepare and join in, and how to make, support and explain your points. You will also learn to respond to others and help discussions move forward.",
       "stageEmphasis": {
         "foundation": "Make seminar purposes and participation expectations explicit, and build reliable resources for giving views, asking questions and checking understanding through short, well-prepared, low-stakes discussions on accessible content.",
-        "pre-sessional": "Move from rehearsed phrases to extended negotiation of ideas from set readings, with explicit work on turn-taking, mitigated disagreement and referring to sources, often in an assessed seminar that informs progression.",
+        "pre-sessional-ug": "Move from rehearsed phrases to extended discussion of set readings, with explicit work on preparation, giving and justifying views, turn-taking and mitigated disagreement, often in an assessed seminar that informs progression.",
+        "pre-sessional-pg": "Prepare for postgraduate seminars in which contribution may be assessed from the first weeks, emphasising critical engagement with readings, citing sources in speech, explaining concepts to mixed-discipline peers and taking the floor in fast discussion.",
         "in-sessional-ug": "Embed practice in learners' own modules, focusing on subject-specific expectations, entering fast discussions with peers who share local references, and building on others' points.",
         "in-sessional-pgt": "Emphasise critical engagement with readings, citing in speech, facilitating and summarising in intensive one-year programmes where seminar contribution may be assessed from the first weeks.",
         "pgr": "Focus on research group meetings, reading groups and peer seminars on work in progress, where researchers question, critique and are questioned as emerging members of a discipline."
@@ -440,14 +461,15 @@
       "code": "PRS",
       "strand": "Academic Speaking",
       "name": "Presentations",
-      "summary": "Academic presentations range from short assessed talks on foundation and pre-sessional programmes to conference papers, posters and research seminars at doctoral level. This domain treats the presentation as a spoken, multimodal genre designed for listeners who process information once, in real time: it needs explicit structure and signposting, visuals that support rather than duplicate speech, intelligible prosody and a delivery mode between reading a script and improvising. It gives particular attention to the interactive phases — openings and question-and-answer sessions — which research on conference presentations shows are central to how presenters engage audiences and establish credibility.",
-      "learnerSummary": "You will learn how to plan, design and deliver academic presentations that listeners can follow, how to talk an audience through visuals and data, and how to handle questions, from short class talks to posters and research presentations.",
+      "summary": "Academic presentations range from short assessed talks on foundation and pre-sessional programmes to conference papers, posters, research seminars and short-format pitches at doctoral level. This domain treats the presentation as a spoken, multimodal genre designed for listeners who process information once, in real time: it needs explicit structure and signposting, visuals that support rather than duplicate speech, intelligible prosody and a delivery mode between reading a script and improvising. It gives particular attention to the interactive phases — openings, question-and-answer sessions and poster conversations — which research on conference presentations shows are central to how presenters engage audiences and establish credibility, and it treats poster design as part of the poster genre.",
+      "learnerSummary": "You will learn to plan, design and deliver presentations that listeners can follow, explain visuals and data, and handle questions. Tasks range from short class talks to posters, research talks and pitches.",
       "stageEmphasis": {
         "foundation": "Build clear structure, signposting, delivery from notes and basic slide design through short, rehearsed presentations, often in groups, on accessible topics.",
-        "pre-sessional": "Develop individual presentations on a researched topic that use sources and data and include timed questions, often as part of progression assessment.",
+        "pre-sessional-ug": "Develop clear, well-structured individual presentations on a researched topic, with audible signposting, intelligible delivery and short questions, often as part of progression assessment.",
+        "pre-sessional-pg": "Develop presentations that use sources and data for mixed-discipline audiences, with emphasis on explaining visuals, adapting to the audience and handling challenging questions, and, for research-degree entrants, presenting a proposal.",
         "in-sessional-ug": "Support module-specific presentation tasks, including group presentations and recorded assessments, with attention to disciplinary expectations and audience.",
         "in-sessional-pgt": "Focus on presenting projects and dissertation plans, explaining data, handling challenging questions and working in recorded or online formats.",
-        "pgr": "Address research seminars, conference papers, posters and upgrade or progression presentations within strict time limits, framing contribution for specialist audiences and engaging productively in discussion sessions."
+        "pgr": "Address research seminars, conference papers, posters, progression presentations and short-format pitches within strict time limits, framing contribution for specialist and mixed audiences and engaging productively in discussion sessions."
       },
       "keyReferences": [
         "rowleyjolivet2005",
@@ -462,11 +484,12 @@
       "code": "PRN",
       "strand": "Academic Speaking",
       "name": "Pronunciation & Fluency",
-      "summary": "The domain adopts the intelligibility principle (Levis, 2005): the goal is speech that listeners can understand with reasonable effort, not a native-like accent. Building on Munro and Derwing's (1995) distinction between accentedness, comprehensibility and intelligibility, priority goes to the features most likely to affect understanding in academic speaking — word stress in academic vocabulary, thought groups and prominence, intonation for discourse functions, high-functional-load segmentals — together with fluency and repair. Pronunciation is linked to listening, since perception supports production, and to the presentations, seminars and teaching in which students use it; accent is treated as part of speakers' identity rather than as an error to be removed.",
-      "learnerSummary": "You will learn which features of pronunciation most affect whether listeners understand you, and practise them in the speaking you do at university — presentations, seminars and explaining your work — without needing to sound like a native speaker.",
+      "summary": "The domain adopts the intelligibility principle (Levis, 2005): the goal is speech that listeners can understand with reasonable effort, not a native-like accent. Building on Munro and Derwing's (1995) distinction between accentedness, comprehensibility and intelligibility, priority goes to the features most likely to affect understanding in academic speaking — word stress in academic vocabulary, thought groups and prominence, intonation for discourse functions, high-functional-load segmentals — together with fluency and repair. Pronunciation is linked to listening, since perception supports production, and to the presentations, seminars and teaching in which students use it; accent is treated as part of speakers' identity rather than as an error to be removed. Listeners share responsibility for understanding, so assessment should judge intelligibility rather than accentedness, and speakers who stammer or have other speech differences should not be assessed against fluency norms they cannot meet.",
+      "learnerSummary": "You will learn which features of pronunciation most affect whether listeners understand you, and practise them in presentations and seminars. Your goal is to be understood, not to change your accent.",
       "stageEmphasis": {
         "foundation": "Establish intelligibility as the goal, with focused work on word stress, thought groups and each learner's own highest-priority sounds.",
-        "pre-sessional": "Integrate prosody (thought groups, prominence, intonation) with presentation and seminar speaking, using recordings for self-analysis and listener feedback.",
+        "pre-sessional-ug": "Integrate word stress, thought groups and prominence with presentation and seminar speaking, using recordings, listener transcription and peer feedback to set individual goals.",
+        "pre-sessional-pg": "Apply prominence, intonation and technical-term pronunciation to explaining specialist content and data in presentations and seminars, preparing for postgraduate presenting and, for some, teaching.",
         "in-sessional-ug": "Provide short, targeted support for assessed presentations and technical vocabulary, usually through individual feedback.",
         "in-sessional-pgt": "Focus on specialist terms, numbers and data in speech, and on fluent delivery of dense content within strict time limits.",
         "pgr": "Support conference presentations, vivas and teaching (for example as graduate teaching assistants), where prosody affects how clearly explanations come across to audiences."
@@ -477,7 +500,9 @@
         "levis2005",
         "field2005",
         "hahn2004",
-        "jenkins2000"
+        "jenkins2000",
+        "housenkuiken2009",
+        "lysterranta1997"
       ]
     },
     {
@@ -485,10 +510,11 @@
       "strand": "Academic Speaking",
       "name": "Group Work & Collaboration",
       "summary": "Group projects, assessed group presentations and collaborative reports are common across disciplines, yet students often receive little guidance on how to collaborate, and multilingual students can be positioned as less competent and allocated marginal roles. This domain covers why universities assess collaboration and how groups plan and allocate work, run meetings, negotiate disagreement, write together, and document and evaluate contributions. It treats equitable participation as a shared responsibility of all group members and of course design, not as a deficit of particular students.",
-      "learnerSummary": "You will learn how to plan and organise group projects, run useful meetings, deal with disagreement, write together and show what you and others contributed, while making sure everyone in a multilingual group can take a full part.",
+      "learnerSummary": "You will learn to plan group projects, run meetings, handle disagreement and write together. You will also learn to show what each member contributed and to make sure everyone can take part.",
       "stageEmphasis": {
         "foundation": "Introduce the purposes of group work, simple role allocation and meeting routines through scaffolded projects with explicit ground rules and teacher monitoring.",
-        "pre-sessional": "Use short group projects to practise planning, meeting language and inclusive participation among students from varied backgrounds, in preparation for assessed group work on degree programmes.",
+        "pre-sessional-ug": "Use short group projects and group presentations to practise planning, meeting language and inclusive participation, in preparation for the assessed group work common in first-year undergraduate modules.",
+        "pre-sessional-pg": "Prepare for intensive, highly multilingual taught-postgraduate group assignments by practising fast role negotiation, meeting management and documenting contributions for peer-moderated marks, often within one short project.",
         "in-sessional-ug": "Support assessed group projects with meeting management, conflict handling, collaborative writing workflows and peer evaluation of contributions.",
         "in-sessional-pgt": "Address intensive, often highly multilingual group assignments in which students must quickly establish roles, resolve disagreements and document contributions for peer-moderated marks.",
         "pgr": "Focus on research-team meetings, co-authoring and documenting contributions, linking collaboration to authorship norms and professional conduct."
@@ -504,11 +530,12 @@
       "code": "WPR",
       "strand": "Academic Writing",
       "name": "Writing Process",
-      "summary": "Covers how academic texts are produced rather than what they look like: representing the task, generating and organising content, drafting, writing from sources, and managing time, language choice and affect across extended projects. It draws on cognitive process models (Flower & Hayes, 1981; Bereiter & Scardamalia, 1987) and L2 composing research (Zamel, 1983), which show that skilled writers plan, draft and review recursively and use writing to develop ideas. Hyland (2003) argues that process pedagogy needs to be complemented by explicit attention to genre and reader expectations, so these topics should be taught alongside PAR, ESS and the genre strands rather than as a free-standing ‘process approach’.",
-      "learnerSummary": "You will learn how to turn an assignment brief into a plan and a draft, how to use your reading and your other languages while you write, and how to manage longer projects and the times when writing feels stuck.",
+      "summary": "Covers how academic texts are produced rather than what they look like: representing coursework and exam tasks, generating and organising content, drafting, writing from sources, and managing time, language choice and affect across extended projects. It draws on cognitive process models (Flower & Hayes, 1981; Bereiter & Scardamalia, 1987) and L2 composing research (Zamel, 1983), which show that skilled writers plan, draft and review recursively and use writing to develop ideas. Hyland (2003) argues that process pedagogy needs to be complemented by explicit attention to genre and reader expectations, so these topics should be taught alongside PAR, ESS and the genre strands rather than as a free-standing ‘process approach’.",
+      "learnerSummary": "You will learn to turn a brief or exam question into a plan and draft, write from your reading, use all your languages, and manage long projects.",
       "stageEmphasis": {
         "foundation": "Make the process visible: task analysis, idea generation and outlining for short assignments, with plans and drafts submitted and discussed before the final text.",
-        "pre-sessional": "Use the extended source-based project to rehearse the full cycle under realistic deadlines, including reading-to-write, word budgeting and drafting from notes.",
+        "pre-sessional-ug": "Rehearse the full cycle on an extended essay: analysing the brief, reading to write from a small set of sources, drafting from notes and working to a word budget.",
+        "pre-sessional-pg": "Use a larger source-based project, often modelled on a literature-based assignment or dissertation proposal, to practise question-driven reading, scoping, milestone planning and drafting from extensive notes.",
         "in-sessional-ug": "Apply process strategies to learners' own module assignments, with emphasis on interpreting briefs, juggling deadlines and integrating disciplinary reading.",
         "in-sessional-pgt": "Compress the cycle for dense, short-turnaround master's assignments and plan ahead for the dissertation.",
         "pgr": "Treat writing as a way of thinking and as sustained practice: routines, milestones, writing blocks and plurilingual composing across a multi-year project."
@@ -525,11 +552,12 @@
       "code": "PAR",
       "strand": "Academic Writing",
       "name": "Paragraph Development",
-      "summary": "Covers the paragraph as the main unit through which academic writers develop and support a point: controlling ideas, support and analysis, internal coherence, closure, division, paragraph functions and the integration of sources. Paragraph scaffolds such as topic-sentence models and PEEL are useful entry points for foundation and pre-sessional writers, but expert paragraphs vary considerably (Braddock, 1974), so teaching should move learners from templates towards functional judgements about what a paragraph needs to do in its context. Coherence is better taught through information flow and logical relations than through connector lists (Crossley & McNamara, 2012).",
-      "learnerSummary": "You will learn how to build paragraphs that make one clear point, support it with explanation and evidence, flow logically from sentence to sentence, use sources while keeping your own voice, and connect to the rest of your text.",
+      "summary": "Covers the paragraph as the main unit through which academic writers develop and support a point: controlling ideas, support and analysis, internal coherence, closure, division, paragraph functions and the integration of sources. Paragraph scaffolds such as topic-sentence models and PEEL are useful entry points for foundation and undergraduate-entry pre-sessional writers, but expert paragraphs vary considerably (Braddock, 1974), so teaching should move learners from templates towards functional judgements about what a paragraph needs to do in its context. Coherence is better taught through information flow and logical relations than through connector lists (Crossley & McNamara, 2012).",
+      "learnerSummary": "You will learn to build paragraphs that make one clear point, support it with explanation and evidence, and use sources while keeping your own voice.",
       "stageEmphasis": {
         "foundation": "Build secure control of the controlling idea, support and closure, using scaffolds such as PEEL explicitly as temporary supports.",
-        "pre-sessional": "Shift to source-based paragraphs in which the writer's own point leads and evidence is integrated and commented on.",
+        "pre-sessional-ug": "Teach paragraph scaffolds (PEEL, topic and concluding sentences) explicitly, then withdraw them as learners move to source-based paragraphs in which their own point leads.",
+        "pre-sessional-pg": "Revisit scaffolds only where diagnosis shows a need; focus on multi-source paragraphs in which the writer's point leads, evidence is evaluated and paragraphing follows function rather than formula.",
         "in-sessional-ug": "Diagnose paragraph-level problems in disciplinary assignments, especially description without analysis and breaks in internal coherence.",
         "in-sessional-pgt": "Focus on dense, multi-source paragraphs and on flexible paragraphing that serves the argument rather than a formula."
       },
@@ -545,11 +573,12 @@
       "code": "ESS",
       "strand": "Academic Writing",
       "name": "Essay Construction",
-      "summary": "Covers how an essay is built around a central argument: structure, thesis, introductions, body organisation, conclusions, relevance to the question, essay types, depth of focus, criticality, headings and titles. The essay is a major assessed genre in many humanities and social science programmes but is only one of many genre families in university writing (Nesi & Gardner, 2012), and the five-paragraph essay taught in many schools and test-preparation courses is a scaffold that does not match university essays in length, structure or source use (Caplan & Johns, 2019; Moore & Morton, 2005). Teaching should centre on argument (Wingate, 2012) and treat structural templates as means to that end.",
-      "learnerSummary": "You will learn how to plan and build an essay that answers the question with a clear, well-supported and critical argument, from the thesis and introduction through the body to the conclusion and title.",
+      "summary": "Covers how an essay is built around a central argument: structure, thesis, introductions, body organisation, conclusions, depth of focus, criticality, headings and titles; essay types are treated under ges.genre-families and answering the question set under wpr.task-analysis. The essay is a major assessed genre in many humanities and social science programmes but is only one of many genre families in university writing (Nesi & Gardner, 2012), and the five-paragraph essay taught in many schools and test-preparation courses is a scaffold that does not match university essays in length, structure or source use (Caplan & Johns, 2019; Moore & Morton, 2005). Teaching should centre on argument (Wingate, 2012) and treat structural templates as means to that end.",
+      "learnerSummary": "You will learn to plan and build an essay around a clear, well-supported position that answers the question, from thesis and introduction to body, conclusion and title.",
       "stageEmphasis": {
         "foundation": "Introduce thesis-led essay structure with scaffolds, moving from short opinion-based essays to short source-based ones.",
-        "pre-sessional": "Develop extended source-based essays with a clear thesis, organised body and evaluative conclusion, and unlearn test-driven templates.",
+        "pre-sessional-ug": "Move from short essays to extended source-based essays with an explicit thesis, thematic body and evaluative conclusion, using structural scaffolds first and then unlearning test-driven templates.",
+        "pre-sessional-pg": "Assume basic essay structure; concentrate on scope, criticality and thematic organisation of a larger reading base, and on how essay expectations vary across target departments and countries.",
         "in-sessional-ug": "Work with disciplinary essay types, answering the specific question, choosing depth over breadth and demonstrating criticality.",
         "in-sessional-pgt": "Focus on criticality, scope and argument in short, dense essays and on discipline-specific conventions such as headings.",
         "pgr": "Carry argument structure and title-writing skills into articles and thesis chapters; essays themselves are less central."
@@ -566,11 +595,12 @@
       "code": "EDT",
       "strand": "Academic Writing",
       "name": "Revising, Editing & Proofreading",
-      "summary": "Covers how writers improve drafts: distinguishing revision of argument and structure from sentence-level editing and surface proofreading, and the techniques, feedback sources, tools and ethical limits involved. Sommers (1980) found that inexperienced writers tend to treat revision as rewording, so teaching should put global revision and criteria-based self-assessment before editing. The value of written corrective feedback has been contested (Truscott, 1996; Ferris, 1999), but meta-analytic evidence suggests it can improve accuracy (Kang & Han, 2015); learners therefore need routines for targeted self-editing, trained peer review (Lundstrom & Baker, 2009) and critical use of tools and permitted third-party help.",
-      "learnerSummary": "You will learn how to improve your drafts in stages—first the argument and structure, then the sentences, then surface errors—and how to use marking criteria, classmates' feedback, digital tools and proofreaders appropriately.",
+      "summary": "Covers how writers improve drafts: distinguishing revision of argument and structure from sentence-level editing and surface proofreading, and the techniques, feedback sources, tools and ethical limits involved. Sommers (1980) found that inexperienced writers tend to treat revision as rewording, so teaching should put global revision and criteria-based self-assessment before editing. The value of written corrective feedback has been contested (Truscott, 1996; Ferris, 1999), but meta-analytic evidence suggests it can improve accuracy (Kang & Han, 2015); learners therefore need routines for targeted self-editing, trained peer review (Lundstrom & Baker, 2009) and critical use of automated tools (see dig.automated-feedback-tools) and of the third-party help their institution permits, which varies between countries and institutions.",
+      "learnerSummary": "You will learn to improve drafts in stages: argument and structure first, then sentences, then surface errors. You will also learn to use criteria, peer feedback, tools and proofreaders within the rules.",
       "stageEmphasis": {
         "foundation": "Establish the difference between revising and correcting, basic self-editing routines and structured, supported peer review.",
-        "pre-sessional": "Build multi-draft cycles with criteria-based self-assessment, peer review and targeted editing of personal error patterns.",
+        "pre-sessional-ug": "Build multi-draft cycles in which global revision comes before editing, with structured peer review and personal error logs for the accuracy that progression assessment usually rewards.",
+        "pre-sessional-pg": "Compress the cycle for writers who may already draft fluently: prioritise global revision and criteria-based self-assessment of a source-based project, and agree what proofreading and AI help the programme permits.",
         "in-sessional-ug": "Apply revision strategies to module assignments and use tools and proofreading support within institutional rules.",
         "in-sessional-pgt": "Focus on efficient global revision under time pressure and on critical use of editing and AI tools.",
         "pgr": "Revise long texts with reverse outlining and supervisor and peer feedback, edit for style at publication level, and understand the rules on editorial help with theses and articles."
@@ -588,13 +618,14 @@
       "strand": "Sources & Academic Integrity",
       "name": "Information Literacy & Source Evaluation",
       "summary": "Covers how scholarly knowledge is produced and published, how learners turn an assignment topic into a searchable question, how they search catalogues and databases, and how they judge whether a source is trustworthy and fit for a specific purpose. Evaluation is treated as contextual judgement, in line with the ACRL frame 'Authority Is Constructed and Contextual', rather than as checklist compliance, and lateral reading is included as an empirically grounded alternative to judging a site on its own terms. The language demands are real: generating search terms draws on vocabulary depth and disciplinary terminology, and judging a source depends on reading its genre signals and paratext.",
-      "learnerSummary": "You will learn how academic knowledge is published, how to find relevant sources efficiently with library tools, and how to decide whether a source is reliable enough for the job you want it to do in your work.",
+      "learnerSummary": "You will learn how academic work is published, how to find sources with library tools, and how to judge whether a source is reliable enough for your purpose.",
       "stageEmphasis": {
         "foundation": "Distinguishing scholarly from popular sources, simple catalogue and discovery-tool searches, and basic credibility checks, including lateral reading of web sources.",
-        "pre-sessional": "Focusing a topic for a project, building keyword searches with synonyms and Boolean operators, evaluating sources for an extended essay, and keeping records that make accurate citation possible.",
         "in-sessional-ug": "Subject databases, citation chaining from key readings, and module-specific judgements about what counts as an acceptable source.",
         "in-sessional-pgt": "Efficient, documented searching for dissertations, checking venues and retractions, and legitimate access to paywalled work.",
-        "pgr": "Systematic or scoping searching, comprehensive citation chaining and reproducible search records maintained across a multi-year project."
+        "pgr": "Systematic or scoping searching, comprehensive citation chaining, verification of venues and article status, and reproducible search records maintained across a multi-year project.",
+        "pre-sessional-ug": "Telling source types apart, focusing a set essay title into a searchable question, and judging which sources tutors will accept in an extended essay.",
+        "pre-sessional-pg": "Database searching with concept tables and Boolean strings for a project in the destination discipline, evaluating empirical studies for fitness of purpose, and keeping search records."
       },
       "keyReferences": [
         "acrl2016",
@@ -607,13 +638,14 @@
       "strand": "Sources & Academic Integrity",
       "name": "Summarising, Paraphrasing & Quoting",
       "summary": "Covers the core textual practices by which writers bring others' words and ideas into their own texts: quoting, paraphrasing and summarising, the reporting language that attributes and evaluates source content, and the signalling that keeps the writer's voice distinct from the sources'. The domain follows research suggesting that source-use problems in L2 writing are often developmental, linked to comprehension, vocabulary and an incomplete sense of why sources are used, rather than to intent to deceive (Howard; Pecorari; Shi; Keck). Instruction therefore pairs language work with purpose: learners transform sources in order to serve their own argument, and close dependence on source wording is treated as something to be taught through, not only policed.",
-      "learnerSummary": "You will learn how to quote, paraphrase and summarise sources accurately, how to make clear which ideas come from a source and which are your own, and how to choose language that reports other writers' ideas precisely.",
+      "learnerSummary": "You will learn to quote, paraphrase and summarise sources accurately, to report what other writers say precisely, and to make clear which ideas are yours and which come from sources.",
       "stageEmphasis": {
-        "foundation": "Accurate quotation, basic signal phrases, summarising paragraphs and early paraphrasing, with close dependence on source wording treated as a normal stage to work through.",
-        "pre-sessional": "Paraphrase and summary in assessed writing, reporting verbs, voice boundaries and integration of sources in extended essays.",
+        "foundation": "Accurate quotation, basic signal phrases and neutral reporting verbs, summarising paragraphs and early paraphrasing, with close dependence on source wording treated as a normal stage to work through.",
         "in-sessional-ug": "Disciplinary norms for quotation and citation form, summarising whole texts, and source use that serves analysis rather than display.",
         "in-sessional-pgt": "Rapid, accurate summarising of research articles, evaluative reporting, and clear voice boundaries in dense, multi-source writing.",
-        "pgr": "Fine control of reporting verbs, citation form and attribution in research writing, and transparent use of sources in other languages."
+        "pgr": "Fine control of reporting verbs, citation form and attribution in research writing, and transparent use of sources in other languages.",
+        "pre-sessional-ug": "Accurate quotation, passage summary, paraphrase written from understanding, and signal phrases with continued attribution in assessed essays.",
+        "pre-sessional-pg": "Paraphrasing and summarising whole research articles, stance-bearing reporting verbs and clear voice boundaries in source-based assignments for the destination discipline."
       },
       "keyReferences": [
         "pecorari2013",
@@ -628,14 +660,15 @@
       "code": "SYN",
       "strand": "Sources & Academic Integrity",
       "name": "Synthesis",
-      "summary": "Covers discourse synthesis: building a new text that integrates several sources around the writer's own organising ideas rather than summarising them one by one. The domain moves from the concept of synthesis, through tools for organising sources (matrices and thematic grouping), to the language of relating sources, identifying gaps and tensions, and writing synthesis paragraphs, and includes integrated reading- and listening-to-writing tasks. Spivey's account of synthesis as organising, selecting and connecting, together with research on integrated writing (Plakans; Plakans and Gebril; Grabe and Zhang), frames synthesis as a constructive reading–writing process rather than a set of linking phrases.",
-      "learnerSummary": "You will learn how to bring several sources together around your own ideas, show how they agree, differ and leave questions open, and complete tasks that combine reading, listening and writing.",
+      "summary": "Covers discourse synthesis: building a new text that integrates several sources around the writer's own organising ideas rather than summarising them one by one. The domain moves from the concept of synthesis, through tools for organising sources (matrices and thematic grouping), to the language of relating sources, identifying gaps and tensions, and writing synthesis paragraphs, and includes integrated reading- and listening-into-writing tasks in coursework, progression assessment and proficiency tests. Spivey's account of synthesis as organising, selecting and connecting, together with research on integrated writing (Plakans; Plakans and Gebril; Grabe and Zhang), frames synthesis as a constructive reading–writing process rather than a set of linking phrases.",
+      "learnerSummary": "You will learn to bring several sources together around your own ideas, show how they agree or differ, and complete tasks that combine reading, listening and writing.",
       "stageEmphasis": {
         "foundation": "Understanding synthesis versus serial summary, simple matrices built from two or three sources, and short integrated tasks.",
-        "pre-sessional": "Thematic grouping and synthesis paragraphs in extended essays, and integrated reading-into-writing tasks used for progression decisions.",
         "in-sessional-ug": "Synthesising module readings in essays and literature review assignments, with explicit relationships between sources and, in final-year projects, identification of gaps.",
         "in-sessional-pgt": "Literature reviews that group sources by theme, relate them critically and identify gaps that justify a dissertation question.",
-        "pgr": "Synthesising large, contested literatures and articulating tensions and gaps that position an original contribution."
+        "pgr": "Synthesising large, contested literatures and articulating tensions and gaps that position an original contribution.",
+        "pre-sessional-ug": "Understanding synthesis as opposed to serial summary in extended essays, and integrated reading-into-writing tasks used for progression decisions.",
+        "pre-sessional-pg": "Relating sources explicitly and writing synthesis paragraphs for literature-based assignments, with timed integrated tasks and early gap statements for project proposals."
       },
       "keyReferences": [
         "spivey1990",
@@ -648,32 +681,35 @@
       "code": "CIT",
       "strand": "Sources & Academic Integrity",
       "name": "Citation & Referencing",
-      "summary": "Citation is both a technical system and a rhetorical practice. This domain moves from why and when academics cite, through the mechanics of the main referencing systems (author–date, numeric and note-based), locators and reference lists, to the rhetorical functions of citation and how these vary across disciplines. Formatting is treated as learnable and checkable, ideally with reference-management tools, so that teaching time goes to the harder judgements: what needs citing, whether a cited source really supports the claim, how citation positions the writer, and what disciplinary readers expect.",
-      "learnerSummary": "You will learn why and when to cite, how to format citations and reference lists accurately in the system your department or journal uses, and how expert writers use citation to build and position their own arguments.",
+      "summary": "Citation is both a technical system and a rhetorical practice. This domain moves from why and when academics cite, through the mechanics of the main referencing systems (author–date, numeric and note-based), locators and reference lists, to the jobs sources and citations do in an argument, how citation varies across disciplines, and whose knowledge citation and indexing practices make visible. Formatting is treated as learnable and checkable, ideally with reference-management tools, so that teaching time goes to the harder judgements: what needs citing, whether a cited source really supports the claim, how citation positions the writer, what disciplinary readers expect, and which perspectives a reference list leaves out.",
+      "learnerSummary": "You will learn why and when to cite, how to format citations and reference lists in your department's system, how to use sources to build your argument, and how to choose whose work you cite.",
       "stageEmphasis": {
-        "foundation": "Reasons for citing, when citation is needed, and accurate author–date (or departmental) formatting for books, articles and web pages.",
-        "pre-sessional": "Consistent use of one system across an extended source-based assignment, with locators, reference lists and systematic accuracy checks that often feed into progression decisions.",
-        "in-sessional-ug": "Switching to the department's prescribed system, citing a wider range of source types, and beginning to use citation for more than attribution.",
-        "in-sessional-pgt": "Using citation to compare, evaluate and link sources in critical reviews and dissertations, and matching the citation norms of the discipline.",
-        "pgr": "Switching between journal styles, managing large reference libraries accurately, and using citation to position a contribution within a field."
+        "foundation": "Why and when to cite, and accurate author–date (or departmental) citations and reference lists for books, articles and web pages.",
+        "pre-sessional-ug": "Consistent author–date citation, reference lists and locators across an extended source-based essay, with sources used to support and contrast ideas, often assessed for progression.",
+        "pre-sessional-pg": "Checking citations for accuracy and fidelity, using sources to compare, evaluate and link ideas in a literature-based project, and a first look at the citation system and practices of the target discipline.",
+        "in-sessional-ug": "Switching to the department's prescribed system, citing a wider range of source types, and using citation for more than attribution in disciplinary assignments.",
+        "in-sessional-pgt": "Using citation to compare, evaluate and position sources in critical reviews and dissertations, matching disciplinary norms, and considering whose scholarship a literature review draws on.",
+        "pgr": "Switching between journal styles, managing large reference libraries accurately, positioning a contribution within a field, and making deliberate choices about whose work is cited."
       },
       "keyReferences": [
         "hyland1999attribution",
         "swales1986citation",
         "petric2007",
         "thompsontribble2001",
-        "apa2020"
+        "apa2020",
+        "canagarajah2002"
       ]
     },
     {
       "code": "INT",
       "strand": "Sources & Academic Integrity",
       "name": "Academic Integrity",
-      "summary": "Academic integrity is taught here as values and practices rather than a list of offences. The domain moves from shared values and an informed understanding of plagiarism (including the developmental status of patchwriting and the contested role of intention) to collusion, contract cheating, reuse of one's own work and research integrity, and to the procedural knowledge learners need: interpreting similarity reports, navigating policies and processes, and managing pressure without shortcuts. Rules differ between institutions and modules, so teaching centres on locating and reading the rules that apply, and similarity scores are never treated as verdicts.",
-      "learnerSummary": "You will learn what academic integrity means in practice, how to avoid plagiarism, collusion and other misconduct, what similarity reports do and do not show, where to get help when deadlines and pressure build up, and what your rights are if questions are ever raised about your work.",
+      "summary": "Academic integrity is taught here as values and practices rather than a list of offences. The domain moves from shared values and an informed understanding of plagiarism (including the developmental status of patchwriting and the contested role of intention) to collusion, contract cheating, reuse of one's own work and research integrity, and to the procedural knowledge learners need: interpreting similarity reports, navigating policies and processes, knowing their procedural rights, and managing pressure without shortcuts. Rules differ between institutions and modules, so teaching centres on locating and reading the rules that apply. Similarity and AI-detection scores are never treated as verdicts, the burden of establishing misconduct lies with the institution, and institutions share responsibility for the conditions (clear briefs, workable deadlines, accessible support) in which integrity is possible.",
+      "learnerSummary": "You will learn what academic integrity means, how to avoid plagiarism and collusion, and what similarity reports show. You will learn where to find help under pressure, and your rights if your work is questioned.",
       "stageEmphasis": {
         "foundation": "Values, a clear and non-threatening understanding of plagiarism and collusion, and where to get help, introduced early in the course.",
-        "pre-sessional": "Integrity in source-based writing, similarity reports as formative tools, and the policies that will govern the degree programme.",
+        "pre-sessional-ug": "Plagiarism and patchwriting in source-based essays, formative use of similarity reports, collusion in group tasks, and the policies and rights that will apply in undergraduate study.",
+        "pre-sessional-pg": "Plagiarism, citation fidelity and AI use in extended postgraduate writing, how similarity reports and integrity processes work, learners' procedural rights, and a first look at research integrity and reuse of one's own work.",
         "in-sessional-ug": "Department-specific rules on collaboration, reuse of work and lab or project data, and strategies for managing workload pressure.",
         "in-sessional-pgt": "Rapid orientation to regulations, reuse of prior work, group-assessment boundaries, and integrity in dissertation research and data.",
         "pgr": "Research integrity, text recycling in theses and publications, authorship, and the codes of conduct governing research."
@@ -690,11 +726,12 @@
       "code": "CRT",
       "strand": "Argument & Critical Thinking",
       "name": "Critical Thinking",
-      "summary": "This domain treats critical thinking as a contested, partly discipline-specific set of practices and dispositions — questioning, weighing evidence, recognising inference patterns and their limits, considering perspectives fairly and reflecting on one's own position — that can be made explicit and taught. It deliberately rejects the deficit framing that some groups of learners 'cannot think critically': differences in readiness to critique published work are treated as differences in prior schooling, assessment genres and licence to question, not as cognitive or cultural deficits. The domain supplies the reasoning that the Academic Argumentation domain turns into written and spoken argument.",
-      "learnerSummary": "You will learn what university tutors mean when they ask you to be 'critical', how to question and weigh evidence and reasoning, and how to notice common errors in thinking — including your own.",
+      "summary": "This domain treats critical thinking as a contested, partly discipline-specific set of practices and dispositions — questioning, weighing evidence, recognising inference patterns and their limits, considering perspectives fairly and reflecting on one's own position — that can be made explicit and taught. It rejects the deficit framing that some groups of learners 'cannot think critically': hesitancy to critique published work is common among novice writers of all backgrounds and is treated as a matter of assessment genres, novice status and licence to question, not as a cognitive or cultural deficit. The domain supplies the reasoning that the Academic Argumentation domain turns into written and spoken argument.",
+      "learnerSummary": "You will learn what tutors mean by 'be critical', how to question and weigh evidence and reasoning, and how to notice common errors in thinking, including your own.",
       "stageEmphasis": {
         "foundation": "Make criticality concrete with familiar topics: description versus analysis, simple questions about evidence, and fair representation of different views.",
-        "pre-sessional": "Connect critical moves to progression tasks — source-based writing, seminars and extended projects — using the course's own criteria and exemplars.",
+        "pre-sessional-ug": "Connect critical moves to progression tasks: questioning sources, moving from description to analysis, and representing views fairly in source-based essays and seminars.",
+        "pre-sessional-pg": "Recalibrate to postgraduate criticality: decode 'be more critical' feedback, question research evidence and designs, and evaluate sources for literature-based assignments.",
         "in-sessional-ug": "Embed criticality in disciplinary tasks with module exemplars, especially during the first-year transition when 'be more critical' feedback first appears.",
         "in-sessional-pgt": "Accelerate recalibration to master's-level expectations: evaluating research designs, competing theories and contested literatures from the first assignment.",
         "pgr": "Focus on evaluating and positioning theory, reflexivity, and the epistemological commitments of one's own research."
@@ -712,11 +749,12 @@
       "strand": "Argument & Critical Thinking",
       "name": "Academic Argumentation",
       "summary": "This domain treats argument as the organising purpose of most assessed academic writing and much academic talk: taking a position, supporting claims with evidence and explicit reasoning, anticipating and answering objections, and sequencing sub-claims into a cumulative case. Hirvela (2017) argues that L2 writing pedagogy has given argumentation less attention than its centrality warrants, and Wingate (2012) found that students often receive feedback on 'argument' without being shown what it consists of. Toulmin's model, argumentation schemes and argument mapping are offered as analytical tools rather than templates, and disciplinary variation in what counts as a good argument (Andrews, 2010) is made explicit.",
-      "learnerSummary": "You will learn what an academic argument is, how to build one from claims, evidence and reasoning, and how to deal fairly and convincingly with other views in writing and in discussion.",
+      "learnerSummary": "You will learn what an academic argument is, how to build one from claims, evidence and reasoning, and how to answer other views fairly in writing and discussion.",
       "stageEmphasis": {
-        "foundation": "Build the concept of argument as a supported position, with simple claim–evidence–explanation links and awareness of how texts persuade.",
-        "pre-sessional": "Develop a sustained, qualified position in source-based essays, with counter-argument, concession and rebuttal, and transfer these moves to seminar discussion.",
-        "in-sessional-ug": "Adapt argument to disciplinary genres and evaluate others' arguments in readings, critiques and seminars.",
+        "foundation": "Build the concept of argument as a supported position, with simple claim–evidence–explanation links in short essays and talks, and awareness of how texts persuade.",
+        "pre-sessional-ug": "Develop a clear, qualified position in the source-based essays used for progression, with counter-argument and concession, and carry these moves into seminar discussion.",
+        "pre-sessional-pg": "Prepare for postgraduate study by sustaining a position across longer source-based assignments, conceding and rebutting with evidence, and evaluating the arguments of research articles.",
+        "in-sessional-ug": "Adapt argument to disciplinary genres, make reasoning explicit for subject readers, and evaluate others' arguments in readings, critiques and dissertations.",
         "in-sessional-pgt": "Construct extended, evidence-dense arguments in assignments and dissertations, making warrants explicit for expert readers and evaluating research arguments.",
         "pgr": "Sustain a thesis-length argument, position it within scholarly debates and defend it orally in supervision, conferences and the viva."
       },
@@ -725,44 +763,23 @@
         "andrews2010",
         "wingate2012argument",
         "hirvela2017",
-        "qinkarabacak2010",
+        "lancaster2014",
         "walton2006"
-      ]
-    },
-    {
-      "code": "IDN",
-      "strand": "Argument & Critical Thinking",
-      "name": "Identity, Plurilingualism & Intercultural Competence",
-      "summary": "This domain addresses who learners are as academic language users: how writing and speaking construct identity, how plurilingual repertoires can be used strategically, how English functions as a lingua franca in international universities, and how intercultural and rhetorical differences can be understood without stereotyping. It adopts a resource rather than a deficit orientation, treats culture as dynamic, multiple and partly institutional rather than as fixed national traits, and presents contrastive rhetoric and native-speaker norms as historically influential but contested. Several topics are as much curriculum principles for teachers as content for learners, and are written so that they can serve both.",
-      "learnerSummary": "You will explore how academic writing and speech shape the way you present yourself, how to use all your languages as resources, and how to communicate confidently across differences without relying on stereotypes.",
-      "stageEmphasis": {
-        "foundation": "Build confidence in multilingual repertoires and intercultural group work as learners enter English-medium study, often for the first time.",
-        "pre-sessional": "Address transition, academic identity and explicit conventions alongside lingua franca interaction in multilingual cohorts.",
-        "in-sessional-ug": "Support inclusive group work, emerging disciplinary voice and resource-oriented participation for home and international students alike.",
-        "in-sessional-pgt": "Help highly international cohorts negotiate identity, intercultural collaboration and unfamiliar expectations within a short programme.",
-        "pgr": "Focus on researcher identity, publishing as a multilingual scholar and positioning within global scholarly communities."
-      },
-      "keyReferences": [
-        "ivanic1998",
-        "garciawei2014",
-        "canagarajah2013",
-        "jenkins2014",
-        "kubotalehner2004",
-        "holliday2006"
       ]
     },
     {
       "code": "GES",
       "strand": "Academic Genres",
       "name": "Essay & Examination Genres",
-      "summary": "This domain covers the essay, examination, review and source-based genres most often assessed in foundation, pre-sessional and taught programmes, together with the genre concepts and analytic strategies learners need to handle genres they have not been explicitly taught. Each genre topic integrates component skills from the writing, sources, argument, discourse and reading strands, and describes typical purposes, stages and language; because conventions vary by discipline, department and assignment brief, every topic stresses analysis of local exemplars, briefs and marking criteria rather than a single template. The domain draws on all three genre traditions (ESP, Sydney School and New Rhetoric) and on corpus evidence about genre families in UK student writing.",
-      "learnerSummary": "You will learn what different kinds of academic writing are for, how they are usually organised and what language they use, and how to analyse examples and assignment briefs so that you can write new types of text that nobody has taught you.",
+      "summary": "This domain covers the essay, examination, review and source-based genres most often assessed in foundation, pre-sessional and taught programmes, including the extended source-based project that caps many pre-sessional and foundation courses, together with the genre concepts and analytic strategies learners need to handle genres they have not been explicitly taught. Comparison, explanation and problem–solution essays are treated as rhetorical patterns within the essay family rather than as separate genres, and each genre topic integrates component skills from the writing, sources, argument, discourse and reading strands. Because conventions vary by discipline, department and assignment brief, every topic stresses analysis of local exemplars, briefs and marking criteria rather than a single template; the domain draws on the ESP, Sydney School and New Rhetoric genre traditions and on corpus evidence about genre families in UK student writing.",
+      "learnerSummary": "You will learn what different kinds of university writing are for, how they are organised and what language they use, and how to study examples so you can handle new tasks.",
       "stageEmphasis": {
-        "foundation": "Explanation, discussion, compare-and-contrast, problem–solution, short-answer and summary–response genres with strong scaffolding, plus the idea that texts are shaped by purpose and reader.",
-        "pre-sessional": "The shift from test-style opinion essays to source-based argumentative essays, critiques, annotated bibliographies and short literature reviews, with guided analysis of target-department exemplars.",
-        "in-sessional-ug": "Discipline-specific essays, exam essays, short answers, critiques and reflective writing, worked through real module briefs, criteria and feedback.",
-        "in-sessional-pgt": "Rapid adaptation to critiques, literature reviews, reflective and exam genres within a compressed year, with emphasis on criticality and independent genre analysis.",
-        "pgr": "Genre analysis as an independent research skill and book reviews as early publications; most doctoral genres are covered in the Research Communication strand."
+        "foundation": "Discussion and expository essays, summary–response and short answers with strong scaffolding, building towards a guided extended source-based project and the idea that texts are shaped by purpose and reader.",
+        "pre-sessional-ug": "The move from test-style opinion essays to source-based argumentative essays and annotated bibliographies, culminating in the extended project, with a map of the genre families met in the first year of a degree.",
+        "pre-sessional-pg": "Source-based argument, article critiques and annotated bibliographies feeding an extended project with a short review of literature, plus independent analysis of exemplars from the target master's programme.",
+        "in-sessional-ug": "Discipline-specific essays, exam essays, critiques and reflective writing worked through real module briefs, criteria and feedback, with coursework literature reviews in later years.",
+        "in-sessional-pgt": "Rapid adaptation to coursework literature reviews, critiques, reflective and exam genres within a compressed year, with independent genre analysis as the transferable skill.",
+        "pgr": "Genre analysis as an independent research skill and book reviews as early publications; doctoral genres themselves sit in the Research Communication strand."
       },
       "keyReferences": [
         "swales1990",
@@ -778,13 +795,14 @@
       "strand": "Academic Genres",
       "name": "Report & Practice-Based Genres",
       "summary": "This domain covers report-based, practice-based and professional genres in which students document investigations, analyse cases, justify designs, propose projects, summarise for decision-makers, reflect on practice and write for non-academic readers. Most are discipline-specific in their sections, terminology and evidence, so each topic sets out common purposes, stages and language while stressing that lab manuals, templates, handbooks and assignment briefs override any generic model. The domain draws on genre-family research on UK student writing, analyses of particular student genres such as the lab report and the business case report, and research on reflective writing.",
-      "learnerSummary": "You will learn how reports, case studies, proposals, portfolios, dissertations and public-facing texts work, who reads them and what those readers need, and how to adapt to your own department's templates and expectations.",
+      "learnerSummary": "You will learn how reports, case studies, proposals, portfolios and dissertations work and what their readers need, and how to follow your own department's templates and expectations.",
       "stageEmphasis": {
         "foundation": "Report conventions, guided lab reports and introductory case studies and business reports in subject pathways.",
-        "pre-sessional": "Extended project reports, proposals and abstracts as progression assessments, with an introduction to report formats in the learners' target disciplines.",
+        "pre-sessional-ug": "Report conventions and, in subject-specific strands, short lab, case or business reports; the extended project may itself take report form.",
+        "pre-sessional-pg": "Report formats for the target discipline, such as business, case or small empirical project reports, and in some programmes a short taught-programme project proposal.",
         "in-sessional-ug": "Discipline-embedded lab, design, business and case reports, placement portfolios and the final-year dissertation or project.",
-        "in-sessional-pgt": "Professional reports, case analyses, policy briefs, portfolios and the master's dissertation, often within a compressed timeline.",
-        "pgr": "Policy briefs and public-facing writing for engagement and impact; doctoral research genres themselves sit in the Research Communication strand."
+        "in-sessional-pgt": "The dissertation proposal and the master's dissertation, alongside professional reports, case analyses, policy briefs and portfolios, often within a compressed timeline.",
+        "pgr": "Policy briefs and public-facing writing for engagement and impact; doctoral proposals and theses sit in the Research Communication strand."
       },
       "keyReferences": [
         "nesigardner2012",
@@ -799,13 +817,14 @@
       "code": "RES",
       "strand": "Research Communication",
       "name": "Research Writing",
-      "summary": "Research Writing covers the part-genres, macrostructures and practices through which postgraduate and early-career writers report and position their own research: introductions built on CARS-type moves, literature reviews, framework and methods sections, results, discussions, conclusions, abstracts, theses and proposals. Move analyses (Swales 1990, 2004; Kanoksilapatham 2005; Yang & Allison 2003; Kwan 2006) are descriptive models to test against disciplinary exemplars, not templates, and IMRaD is dominant in experimental fields but far from universal. The domain also covers the sociopragmatic and self-regulatory work of extended research writing, such as supervision, sustaining output and writing reflexively, which Kamler and Thomson (2014) treat as both text work and identity work.",
-      "learnerSummary": "You will learn how research texts such as articles, dissertations and theses are organised in your field, and how to write each part so that readers can see what you did, what you found and why it matters.",
+      "summary": "Research Writing covers the part-genres, macrostructures and practices through which postgraduate and early-career writers report and position their own research: introductions built on CARS-type moves, literature reviews, framework and methods sections, results, discussions, conclusions, abstracts, theses (including theses by publication), proposals, systematic and scoping reviews, and research instruments. Move analyses (Swales 1990, 2004; Kanoksilapatham 2005; Yang & Allison 2003; Kwan 2006) are descriptive models to test against disciplinary exemplars, not templates, and IMRaD is dominant in experimental fields but far from universal. The domain also covers the sociopragmatic and self-regulatory work of doctoral candidature, such as supervision, progression reviews, teaching as a graduate teaching assistant, sustaining output and writing reflexively, which Kamler and Thomson (2014) treat as both text work and identity work.",
+      "learnerSummary": "You will learn how dissertations, theses and research articles are organised in your field and how to write each part. You will also prepare for doctoral progress reviews and for teaching.",
       "stageEmphasis": {
-        "pre-sessional": "On postgraduate pre-sessionals, focus on reading research articles section by section, writing a short CARS-structured introduction and drafting the small-scale proposal or project that often forms part of the progression assessment.",
-        "in-sessional-ug": "Support final-year projects and dissertations with methods, results and discussion writing, anchored in departmental exemplars and the module's own reporting conventions.",
-        "in-sessional-pgt": "Treat the master's dissertation as the main site: the literature review as argument, aligning questions with methods, data commentary in results, and calibrated interpretation in the discussion.",
-        "pgr": "Move to thesis macrostructure, framework chapters, claiming contribution, publication-based theses, supervision and the sustained drafting of a long document."
+        "pre-sessional-ug": "Not normally taught as research writing: undergraduate-entry courses build the report, summary and essay skills it later draws on, and any project abstract can use the core abstract moves.",
+        "pre-sessional-pg": "Focus on how research articles are organised (IMRaD and its variants), short introductions that establish a gap, research questions and instrument wording for small projects and, for prospective doctoral students, the research proposal.",
+        "in-sessional-ug": "Support final-year projects and dissertations with methods, results, discussion and abstract writing, anchored in departmental exemplars and the module's own reporting conventions.",
+        "in-sessional-pgt": "Treat the master's dissertation as the main site: research questions and the gap, the literature review as argument, methods and results, calibrated discussion and the abstract, with structured reviews, instruments and ethics documents where the design requires them.",
+        "pgr": "Move to thesis macrostructure and theses by publication, framework chapters, introductions and claims of contribution, progression reviews, supervision, teaching as a graduate teaching assistant and the sustained drafting of a long document."
       },
       "keyReferences": [
         "swales1990",
@@ -819,12 +838,12 @@
       "code": "PUB",
       "strand": "Research Communication",
       "name": "Publication & Dissemination",
-      "summary": "Publication & Dissemination covers the genres, practices and politics through which research reaches readers and is evaluated: the publishing process, journal choice, the occluded genres around submission (cover letters, reviewer reports, responses to reviewers), conference abstracts, the doctoral viva, authorship and contributorship, public engagement and academic self-presentation. Many of these genres are hidden from novices because they are rarely published, so making exemplars and expectations visible is central to teaching. The domain also addresses the opportunities and inequities multilingual scholars meet in English-medium publishing (Flowerdew 1999; Lillis & Curry 2010) and treats them as structural issues, not individual deficits.",
-      "learnerSummary": "You will learn how academic publishing and research examination work, and how to write and speak in the genres that get your research reviewed, published, defended and noticed.",
+      "summary": "Publication & Dissemination covers the genres, practices and politics through which research reaches readers and is examined and funded: the publishing process, journal choice, the occluded genres around submission (cover letters, reviewer reports, responses to reviewers), open-research statements, conference abstracts and conference participation, the doctoral viva and thesis corrections, turning theses into articles, authorship and contributorship, funding applications, public engagement and academic self-presentation, including personal statements for postgraduate study. Many of these genres are hidden from novices because they are rarely published, so making exemplars and expectations visible is central to teaching. The domain also addresses the opportunities and inequities multilingual scholars meet in English-medium publishing (Flowerdew 1999; Lillis & Curry 2010) and treats them as structural issues, not individual deficits.",
+      "learnerSummary": "You will learn how research gets published, examined and funded, and how to write and speak in the texts and events involved, from cover letters to conference questions.",
       "stageEmphasis": {
-        "in-sessional-ug": "Introduce academic self-presentation genres such as CVs and personal statements for postgraduate applications, and the basics of how research is published.",
-        "in-sessional-pgt": "Introduce the publishing process, authorship norms and conference abstracts for master's students considering research careers or publishing from dissertations.",
-        "pgr": "Make this the core: journal selection, submission, peer review in both roles, the viva, authorship negotiations, engagement and impact writing, and the politics of publishing in English."
+        "in-sessional-ug": "Focus on personal statements and short academic CVs for postgraduate applications, with a brief introduction to how research is published for students considering research careers.",
+        "in-sessional-pgt": "Introduce the publishing process, authorship, conference abstracts and open-research requirements, and support doctoral and scholarship applications for students planning research careers.",
+        "pgr": "Make this the core: publishing and peer review in both roles, conference participation, turning thesis chapters into articles, the viva and corrections, funding applications, engagement, and the politics of publishing in English."
       },
       "keyReferences": [
         "lilliscurry2010",
@@ -838,12 +857,13 @@
       "code": "DAT",
       "strand": "Data, Numeracy & Multimodality",
       "name": "Data Commentary & Visuals",
-      "summary": "Data commentary is where numerical and visual evidence becomes argument: learners must read visuals accurately, select what matters, and write or speak about it with claims calibrated to the evidence rather than exhaustive description. The domain runs from visual literacy (visual types, reading graphs and tables, recognising misleading displays) through the lexicogrammar of trends, proportions and diagrams, to the genre of data commentary and the conventions for labelling, referring to and creating visuals. IELTS Writing Task 1 is treated as a contrast case: it rewards selective description of key features, whereas university data commentary also interprets, explains, compares and qualifies.",
-      "learnerSummary": "You will learn to read graphs, tables and diagrams accurately, describe what they show in precise language, and use them as evidence in your own writing, including creating clear and honest visuals of your own.",
+      "summary": "Data commentary is where numerical and visual evidence becomes argument: learners must read visuals accurately, select what matters, and write or speak about it with claims calibrated to the evidence rather than exhaustive description. The domain runs from visual literacy (visual types, reading graphs and tables, recognising misleading displays) through the lexicogrammar of trends, proportions and diagrams, to the genre of data commentary and the conventions for labelling, referring to and creating visuals. Test description tasks, such as IELTS Academic Writing Task 1, are treated as a contrast case: it rewards selective description of key features, whereas university data commentary also interprets, explains, compares and qualifies.",
+      "learnerSummary": "You will learn to read graphs, tables and diagrams accurately and describe them precisely. You will also use visuals as evidence in your writing and create clear, honest visuals of your own.",
       "stageEmphasis": {
-        "foundation": "Reading common graph and table types and describing trends, proportions and processes precisely, using visuals from subject modules such as business, science and engineering.",
-        "pre-sessional": "Moving from test-style description to data commentary that locates, highlights, interprets and qualifies, typically in an extended project or report.",
-        "in-sessional-ug": "Discipline-specific visual conventions in lab, project and business reports, including captions, in-text references and creating charts from learners’ own data.",
+        "foundation": "Reading common graphs and tables and describing trends, proportions and processes precisely, using visuals from subject modules such as business, science and engineering.",
+        "pre-sessional-ug": "Accurate graph reading and trend and proportion language, moving towards short commentaries that select and interpret rather than describe every value.",
+        "pre-sessional-pg": "Data commentary that locates, highlights, interprets and qualifies findings, typically assessed in an extended project report, with secure in-text reference to visuals.",
+        "in-sessional-ug": "Data commentary, captions and in-text references in lab, project and business reports, and creating charts from learners’ own data.",
         "in-sessional-pgt": "Commenting on results in dissertations with appropriately hedged interpretation, and critically evaluating visuals in sources.",
         "pgr": "Data commentary in results and discussion chapters and articles, figures designed to journal requirements, and visual argument in research presentations."
       },
@@ -859,10 +879,11 @@
       "strand": "Data, Numeracy & Multimodality",
       "name": "Academic Numeracy Language",
       "summary": "Academic numeracy language is the lexicogrammar and conceptual precision needed to talk and write about quantities, measurements, statistics and mathematical relations in English. Errors here are rarely ‘just language’: confusing per cent with percentage points, using ‘significant’ loosely or misplacing a unit changes the claim. The domain runs from accurate number expressions and approximation, through units and mathematical expression, to statistical vocabulary and consumer-level interpretation of statistical claims, drawing on research into statistical literacy (Gal, 2002) and risk communication (Gigerenzer et al., 2007). EAP teachers without statistical training may wish to co-teach the later topics with subject or mathematics-support colleagues.",
-      "learnerSummary": "You will learn to talk and write about numbers, measurements and statistics precisely, and to understand what the statistical claims in your reading do and do not show.",
+      "learnerSummary": "You will learn to talk and write about numbers, measurements and statistics precisely, and to understand what statistical claims in your reading do and do not show.",
       "stageEmphasis": {
-        "foundation": "Number expressions, units and basic statistical terms in subject modules such as mathematics, science and business, in both speech and writing.",
-        "pre-sessional": "Precision and approximation in data commentary, relative versus absolute change, and the everyday versus statistical senses of key terms.",
+        "foundation": "Accurate number expressions and number style, units and basic statistical terms in subject modules such as mathematics, science and business, in speech and writing.",
+        "pre-sessional-ug": "Precise and appropriately approximate figures in short data descriptions, and the everyday versus statistical senses of key terms.",
+        "pre-sessional-pg": "Precision and approximation in data commentary, relative versus absolute change in sources, and statistical vocabulary met in research reading.",
         "in-sessional-ug": "Discipline-specific notation and units, statistical vocabulary in methods and results, and reading statistical claims in sources.",
         "in-sessional-pgt": "Consumer-level interpretation of p-values, confidence intervals and effect sizes in research reading and dissertations.",
         "pgr": "Accurate statistical and mathematical expression in theses and articles, following field and journal conventions."
@@ -878,18 +899,19 @@
       "code": "MMD",
       "strand": "Data, Numeracy & Multimodality",
       "name": "Multimodal Composition",
-      "summary": "Academic communication increasingly combines writing with images, layout, colour, sound and movement, and university assessment now includes posters, infographics, podcasts, video essays and e-portfolios. This domain treats multimodal composition as meaning-making with distinct semiotic resources (Kress & van Leeuwen, 2006), addresses the design of key academic multimodal genres (MacIntosh-Murray, 2007), and treats accessibility as a design requirement from the outset rather than an afterthought (World Wide Web Consortium, 2023). Academic expectations of argument, evidence and attribution carry over into these genres, even though the means of realising them change.",
-      "learnerSummary": "You will learn how images, layout and text work together, and how to design posters, infographics and digital assignments that are clear, persuasive and accessible to all your readers.",
+      "summary": "Academic communication increasingly combines writing with images, layout, colour, sound and movement, and university assessment now includes infographics, podcasts, video essays and e-portfolios. This domain treats multimodal composition as meaning-making with distinct semiotic resources (Kress & van Leeuwen, 2006), addresses the design of digital and visual-summary genres (Hafner, 2014), and treats accessibility as a design requirement from the outset rather than an afterthought (World Wide Web Consortium, 2023). Academic expectations of argument, evidence and attribution carry over into these genres even though the means of realising them change. Poster design is treated together with presenting posters in the presentations strand (prs.posters).",
+      "learnerSummary": "You will learn how images, layout and text work together, and how to make infographics and digital assignments that are clear, persuasive and accessible to all your readers.",
       "stageEmphasis": {
-        "foundation": "Awareness of how layout and images make meaning, developed through simple posters and short digital tasks.",
-        "pre-sessional": "Posters and short recorded or digital presentations as assessed work, with attention to text economy and reading paths.",
-        "in-sessional-ug": "Discipline-specific multimodal assessments (posters, video essays, e-portfolios) and accessible document design.",
-        "in-sessional-pgt": "Research posters, infographics for professional audiences and accessible dissertation formatting.",
-        "pgr": "Conference posters, visual abstracts and public-engagement graphics, and accessibility in theses and publications."
+        "foundation": "Awareness of how layout and images make meaning, developed through short digital tasks and simple visual summaries.",
+        "pre-sessional-ug": "Analysing layout and image–text relations, and short recorded or digital presentations as assessed work.",
+        "pre-sessional-pg": "Recorded or digital presentations as assessed work, with accessible document structure, alternative text and captions in submitted work.",
+        "in-sessional-ug": "Discipline-specific multimodal assessments (video essays, e-portfolios, infographics) and accessible document design.",
+        "in-sessional-pgt": "Infographics for professional audiences, digital portfolios and accessible dissertation formatting.",
+        "pgr": "Visual abstracts and public-engagement graphics, and accessibility in theses, publications and teaching materials."
       },
       "keyReferences": [
         "kressvanleeuwen2006",
-        "macintosh2007",
+        "hafner2014",
         "rowleyjolivet2002",
         "w3c2023wcag"
       ]
@@ -898,19 +920,21 @@
       "code": "LRN",
       "strand": "Learning & Autonomy",
       "name": "Self-Regulated Learning",
-      "summary": "This domain covers the knowledge and strategies that let learners direct their own academic and language development: metacognitive knowledge, the self-regulation cycle, autonomy, motivation, goal setting, time management, study techniques, language learning strategies, reflective logs, support services, wellbeing and learning content through English. It is anchored in self-regulated learning research (Zimmerman, 2002; Flavell, 1979), autonomy research (Holec, 1981; Benson, 2011) and cognitive research on durable learning (Dunlosky et al., 2013). These topics are best taught through learners' real tasks and evidence (feedback, self-test results, time logs), not as detached 'study skills'.",
-      "learnerSummary": "You will learn how to plan, monitor and evaluate your own learning, choose study methods that actually work, manage your time and wellbeing, and keep developing your English after your course ends.",
+      "summary": "This domain covers the knowledge and strategies that let learners direct their own academic and language development: metacognitive knowledge, self-regulation and learner autonomy, motivation, goal setting, time management, independent study, study techniques, language learning strategies, reflective logs, support services, wellbeing and learning content through English. It is anchored in self-regulated learning research (Zimmerman, 2002; Flavell, 1979), autonomy research (Holec, 1981; Benson, 2011) and cognitive research on durable learning (Dunlosky et al., 2013). The conceptual topics are taught explicitly mainly at foundation level and revisited later, while the strategic topics are best taught through learners' real tasks and evidence (feedback, self-test results, time logs) rather than as detached 'study skills'.",
+      "learnerSummary": "You will learn to plan, check and evaluate your own learning, choose study methods that work, manage your time and wellbeing, and keep improving your English after your course.",
       "stageEmphasis": {
-        "foundation": "Explicit, scaffolded introduction to independent study, time management and evidence-informed study techniques, linked to the shift from school to university-style learning.",
-        "pre-sessional": "Compressed work on goal setting, reflective logs and study techniques tied to weekly tasks and the progression decision, with an eye to continued development during the degree.",
-        "in-sessional-ug": "Embedded support at transition points (first assessments, first exam season), focusing on time management, study techniques and use of support services.",
-        "in-sessional-pgt": "Rapid orientation to a dense one-year programme: workload planning, independent study expectations and strategies for learning disciplinary content and language together.",
-        "pgr": "Self-regulation across long, loosely structured projects: goal setting, time management, wellbeing and use of researcher development and supervisory support."
+        "foundation": "The main stage for explicit work on self-regulation and autonomy, independent study, evidence-informed study techniques and learning subject content through English, linked to the shift from school to university-style learning.",
+        "pre-sessional-ug": "Compressed work on reflective logs, goal setting and study techniques tied to weekly tasks and the progression decision; the self-regulation model is revisited rather than retaught.",
+        "pre-sessional-pg": "Reflective logs and goal setting linked to progression and to planning continued language development during a short, intensive master's year.",
+        "in-sessional-ug": "Revisited at transition points (first assessments, first exam season), mainly through time management, study techniques and learning disciplinary content in English.",
+        "in-sessional-pgt": "Rapid orientation to a dense one-year programme: workload planning, independent study expectations and learning disciplinary content and language together.",
+        "pgr": "Largely revisited: doctoral self-management is addressed through supervision and thesis-writing topics, with wellbeing over long, isolated projects as the main remaining concern."
       },
       "keyReferences": [
         "zimmerman2002",
         "flavell1979",
         "benson2011",
+        "holec1981",
         "dunlosky2013",
         "oxford1990",
         "dornyei2009"
@@ -918,15 +942,16 @@
     },
     {
       "code": "FBK",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "name": "Feedback & Assessment Literacy",
-      "summary": "This domain covers how learners come to understand university assessment and use feedback: assessment purposes and rules, grading systems, marking criteria, feedback literacy, acting on feedback, using written corrective feedback, seeking feedback and self- and peer-assessment. It draws on Sadler's (1989) argument that learners must come to share the assessor's concept of quality, on feedback as a support for self-regulation (Nicol & Macfarlane-Dick, 2006; Hattie & Timperley, 2007) and on student feedback literacy (Carless & Boud, 2018). On written corrective feedback, the contested evidence (Truscott, 1996; Ferris, 1999; Bitchener & Ferris, 2012; Kang & Han, 2015) should be presented honestly.",
-      "learnerSummary": "You will learn how university assessment works, what marking criteria and grades really mean, and how to ask for, understand and act on feedback so that each assignment improves the next.",
+      "summary": "This domain covers how learners come to understand university assessment and use feedback: assessment purposes and rules, grading systems, marking criteria, feedback literacy, acting on feedback, using written corrective feedback, seeking feedback and self- and peer-assessment. It draws on Sadler's (1989) argument that learners must come to share the assessor's concept of quality, on feedback as a support for self-regulation (Nicol & Macfarlane-Dick, 2006; Hattie & Timperley, 2007), on student feedback literacy (Carless & Boud, 2018) and on the contested evidence on written corrective feedback (Truscott, 1996; Ferris, 1999; Bitchener & Ferris, 2012; Kang & Han, 2015). Grading scales, feedback conventions and rules on pre-submission help differ between institutions and national systems, so topics are framed around the learner's target context rather than a single national model. In EMI and transnational programmes (see acu.emi-tne), learners may meet local and partner-institution conventions at once, such as two grading scales, or feedback practices that differ from those of an anglophone campus.",
+      "learnerSummary": "You will learn how university assessment works and what marking criteria and grades mean. You will also learn to ask for, understand and act on feedback so that each assignment improves the next.",
       "stageEmphasis": {
-        "foundation": "Explicit introduction to formative and summative assessment, local grading conventions and rubrics, often the learner's first encounter with criterion-referenced coursework.",
-        "pre-sessional": "Intensive use of criteria, exemplars, correction codes and draft-feedback cycles leading to the progression assessment.",
+        "foundation": "Explicit introduction to formative and summative assessment, local grading conventions and criterion-referenced coursework, often the learner's first encounter with them.",
+        "pre-sessional-ug": "Intensive use of rubrics, correction codes and draft–feedback cycles leading to the progression assessment, with explicit work on acting on language feedback.",
+        "pre-sessional-pg": "Criteria, exemplars and draft–feedback cycles leading to progression, with emphasis on self- and peer-assessment to build the evaluative judgement that master's study expects.",
         "in-sessional-ug": "Interpreting disciplinary criteria and feedback on early assignments, and building feed-forward habits across modules.",
-        "in-sessional-pgt": "Rapid calibration to master's-level standards, where marks are often lower than learners expect and feedback windows are short.",
+        "in-sessional-pgt": "Rapid calibration to master's-level standards and marking conventions, where marks may look lower than learners expect and feedback often arrives after the next assignment is due.",
         "pgr": "Seeking and negotiating feedback from supervisors, peers and reviewers, and developing the evaluative judgement needed to review one's own and others' research writing."
       },
       "keyReferences": [
@@ -939,15 +964,16 @@
     },
     {
       "code": "EXM",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "name": "Exams & Timed Performance",
-      "summary": "This domain covers university examinations and timed performance: understanding exam formats, analysing exam questions, planning revision, writing under time pressure, approaching objective-format questions, open-book and take-home exams, oral examinations and managing test anxiety. It draws on cognitive research on retrieval and spacing (Dunlosky et al., 2013; Roediger & Karpicke, 2006), research on planning under time pressure (Ellis & Yuan, 2004), writing assessment (Weigle, 2002) and test anxiety (Putwain, 2008; Horwitz et al., 1986). Emphasis is on matching preparation and in-exam behaviour to the demands of each format rather than on generic exam tips.",
-      "learnerSummary": "You will learn how different university exams work, how to read exam questions precisely, how to revise so that you remember, how to write and speak well under time pressure, and how to manage exam nerves.",
+      "summary": "This domain covers university examinations and timed performance: understanding exam formats, planning revision, writing under time pressure, approaching objective-format questions, open-book, take-home and online time-windowed exams, oral examinations and managing test anxiety; analysing exam questions is taught within task analysis (wpr.task-analysis). It draws on cognitive research on retrieval and spacing (Dunlosky et al., 2013; Roediger & Karpicke, 2006), research on planning in L2 writing (Ellis & Yuan, 2004), writing assessment (Weigle, 2002) and test anxiety (Putwain, 2008; Horwitz et al., 1986). Emphasis is on matching preparation and in-exam behaviour to the demands of each format rather than on generic exam tips, and on the adjustments (extra time, rest breaks, assistive technology, alternative arrangements) that make timed formats accessible.",
+      "learnerSummary": "You will learn how university exams work, including open-book and online ones, how to revise so that you remember, how to write and speak well under time pressure, and how to manage exam nerves.",
       "stageEmphasis": {
-        "foundation": "First experience of university-style exams in subject modules: formats, question analysis, revision planning and timed writing, often alongside content learning in English.",
-        "pre-sessional": "Timed writing and oral assessment as part of progression, with attention to question analysis and managing anxiety in high-stakes conditions.",
-        "in-sessional-ug": "Support before exam seasons: revision planning, exam essays and short answers, objective-format papers and open-book or take-home exams.",
-        "in-sessional-pgt": "Rapid preparation for unfamiliar formats (seen papers, take-home exams, case-based exams) within a compressed year."
+        "foundation": "First experience of university-style exams in subject modules: formats, revision planning and timed writing, often alongside content learning in English.",
+        "pre-sessional-ug": "Timed writing as part of progression, often in an integrated reading-into-writing task, with a preview of first-year exam formats and work on managing anxiety in high-stakes conditions.",
+        "pre-sessional-pg": "Timed, online or oral tasks where the progression assessment uses them; exam work is lighter than on UG-route courses because many master's programmes assess mainly through coursework.",
+        "in-sessional-ug": "Support before exam seasons: exam essays and short answers, revision planning, objective-format papers, and open-book, take-home or online time-windowed exams.",
+        "in-sessional-pgt": "Rapid preparation for unfamiliar formats (seen papers, take-home and case-based exams, online time-windowed papers) within a compressed year."
       },
       "keyReferences": [
         "dunlosky2013",
@@ -959,15 +985,16 @@
     },
     {
       "code": "TST",
-      "strand": "Learning & Autonomy",
+      "strand": "Assessment & Progression",
       "name": "Proficiency Tests & Progression",
-      "summary": "This domain helps learners understand the language assessments that control access to and progression through university study: the purposes of different assessments, CEFR levels and entry requirements, the formats and constructs of academic proficiency tests, the differences between test tasks and university tasks, strategies for integrated test tasks, and pre-sessional progression assessment. It draws on language assessment theory (Bachman & Palmer, 2010; Weigle, 2002), the CEFR (Council of Europe, 2001, 2020; North, 2014) and research on test washback and on the gap between test and university writing (Green, 2007; Moore & Morton, 2005). Test formats, score requirements and visa rules change, so content is framed at the level of task types and constructs, and learners are directed to current official sources.",
-      "learnerSummary": "You will learn what language tests and progression assessments are for, what their scores do and do not tell you, how test tasks differ from university work, and how to prepare without letting the test narrow your learning.",
+      "summary": "This domain helps learners understand the language assessments that control access to and progression through university study: the purposes of different assessments, CEFR levels and entry requirements, score reports and test choice, the task types and constructs of academic proficiency tests, the differences between test tasks and university tasks, and pre-sessional progression assessment; integrated reading- and listening-into-writing tasks, including their test versions, are taught in syn.integrated-tasks. It draws on language assessment theory (Bachman & Palmer, 2010; Weigle, 2002), the CEFR (Council of Europe, 2001, 2020; North, 2014) and research on test washback and on the gap between test and university writing (Green, 2007; Moore & Morton, 2005). Test formats, score-use rules and visa requirements change, and major tests have been redesigned in recent years, so content is framed at the level of task types and constructs, and learners are directed to current official sources.",
+      "learnerSummary": "You will learn what language tests and progression assessments are for, how to read a score report, and how test tasks differ from university work.",
       "stageEmphasis": {
-        "foundation": "Understanding entry and progression requirements and test formats, while building the broader academic literacy that tests only partly measure.",
-        "pre-sessional": "Central: understanding the progression assessment, how it relates to entry requirements and proficiency tests, and moving from test-oriented habits to university-oriented ones.",
-        "in-sessional-ug": "Addressing the transition from test preparation to disciplinary writing, especially where first-year students carry test templates into coursework.",
-        "in-sessional-pgt": "Rapid recalibration for master's students who entered directly with a test score and must adjust from test tasks to source-based disciplinary writing."
+        "foundation": "Understanding entry and progression requirements, score reports and test formats, while building the broader academic literacy that tests only partly measure.",
+        "pre-sessional-ug": "Central: understanding the progression assessment and how it relates to entry requirements, and moving from test-oriented habits towards first-year coursework.",
+        "pre-sessional-pg": "Central: understanding the progression assessment, reading score reports and conditional offers, and moving from test tasks to source-based master's writing.",
+        "in-sessional-ug": "Addressing the move from test preparation to disciplinary writing, and the supportive purpose of post-entry diagnostic assessment.",
+        "in-sessional-pgt": "Rapid recalibration for direct entrants who must adjust from test tasks to source-based disciplinary writing within a year."
       },
       "keyReferences": [
         "bachmanpalmer2010",
@@ -975,64 +1002,103 @@
         "coe2020",
         "north2014",
         "mooremorton2005",
-        "green2007"
+        "green2007",
+        "ielts2023writing",
+        "ielts2023speaking"
       ]
     },
     {
       "code": "ACU",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "name": "Academic Culture & Expectations",
-      "summary": "Makes explicit how universities and disciplines are organised, what they expect of learners and how those expectations are communicated, often tacitly. The domain moves from orientation knowledge (structures, teaching formats, roles and address) through discourse-community and disciplinary awareness to perspectives (academic literacies, critical EAP, EMI and transnational education) that treat conventions as situated, variable and open to question rather than as fixed norms to be absorbed. Throughout, difficulty is framed as a mismatch between practices, not as a deficit in the learner.",
-      "learnerSummary": "You will learn how your university and your discipline work, what is expected of you (including things nobody says out loud), and how to adapt to these expectations and, where appropriate, question them.",
+      "summary": "Makes explicit how universities and disciplines are organised, what they expect of learners and how those expectations are communicated, often tacitly. The domain moves from orientation knowledge (structures, teaching formats, roles and address) through discourse-community and disciplinary awareness to making informed choices about conventions, and includes two teacher-facing principles (the academic literacies perspective, and designing for EMI and transnational contexts) that shape how the rest is taught. Difficulty is framed as a mismatch between practices, not a learner deficit, and tacit expectations affect first-generation, mature, part-time and widening-participation home students as well as international students. Structures, roles and expectations differ in EMI programmes and transnational branch campuses, where an awarding institution's regulations may sit alongside local academic culture (see acu.emi-tne).",
+      "learnerSummary": "You will learn how your university and subject work and what is expected of you, including unwritten rules. You will also learn when and how to make your own informed choices.",
       "stageEmphasis": {
-        "foundation": "Orientation to structures, teaching formats, forms of address and independent study, taught through real institutional documents at the point of need rather than in one-off information sessions.",
-        "pre-sessional": "Explicit comparison of prior and target practices, decoding tacit expectations in tasks and feedback, a first look at disciplinary difference, and transition support integrated into language work.",
-        "in-sessional-ug": "Disciplinary expectations, discourse communities and tacit criteria in the student's own modules, ideally embedded or co-taught with subject staff.",
-        "in-sessional-pgt": "Rapid orientation within compressed one-year programmes, disciplinary knowledge-making for students changing field, and academic literacies perspectives that help students interpret feedback.",
-        "pgr": "Doctoral expectations of independence, disciplinary epistemologies, the researcher's place in research communities, and critical perspectives on English-medium scholarship."
+        "foundation": "Orientation to structures, teaching formats, roles and address, and stated expectations is core, taught through real institutional documents at the point of need; in EMI and TNE foundation programmes, learners also map how local and awarding-institution practices combine.",
+        "pre-sessional-ug": "Orientation to the destination institution's structures, formats, address norms and stated expectations is core, with tacit expectations and transition support woven into language work rather than taught as separate sessions.",
+        "pre-sessional-pg": "Orientation focuses on what changes at postgraduate level (seminar-based teaching, independence, compressed timelines), with a first comparison of disciplinary knowledge-making and discourse communities in mixed-discipline groups.",
+        "in-sessional-ug": "Decoding tacit expectations in the student's own modules is core, ideally co-taught with subject staff; provision increasingly serves home, first-generation and mature students, and in EMI and TNE programmes expectations are often set by content lecturers who do not see language as their remit.",
+        "in-sessional-pgt": "Rapid re-orientation within one-year programmes, disciplinary knowledge-making for students changing field, and exemplar-based work on tacit criteria.",
+        "pgr": "No general orientation: the focus is doctoral tacit expectations (supervision, progression reviews, the viva), the researcher's place in disciplinary communities and informed choices about conventions in English-medium publishing."
       },
       "keyReferences": [
         "leastreet1998",
+        "lillis2001",
         "swales1990",
         "becher2001",
         "zhou2008",
         "benesch2001",
         "dafouzsmit2016",
-        "wingate2015"
+        "macaro2018emi",
+        "wingate2015",
+        "hyland2006eap",
+        "hylandhamplyons2002",
+        "charlespecorari2016",
+        "bruce2011theory",
+        "flowerdewpeacock2001",
+        "baleap2008teap",
+        "murraynallaya2016"
       ]
     },
     {
       "code": "PRG",
-      "strand": "Academic Socialisation & Communication",
+      "strand": "Academic Socialisation, Identity & Communication",
       "name": "Academic Pragmatics & Correspondence",
-      "summary": "Covers the sociopragmatic and pragmalinguistic resources learners need to interact with staff and peers outside the core academic genres: politeness and face, requests, apologies and accounts, emails, office hours, formal institutional statements, forum posts, channel choice and acknowledgements. Interlanguage pragmatics research shows that pragmatic competence does not keep pace with grammatical development without attention, and that staff judge messages on perceived politeness and clarity as well as accuracy. Norms are presented as variable across institutions, countries and individuals; the aim is informed, context-sensitive choice, not one correct formula.",
-      "learnerSummary": "You will learn how to write emails, make requests, apologise, take part in meetings and online discussions, and write formal statements in ways that are clear and appropriate for the people you are communicating with.",
+      "summary": "Covers the sociopragmatic and pragmalinguistic resources learners need to interact with staff, peers and employers outside the core academic genres: politeness and face, requests, apologies and accounts, emails, office hours, formal institutional statements, forum posts, channel choice, informal academic talk, and applications and interviews for placements and graduate roles. Interlanguage pragmatics research shows that pragmatic competence does not keep pace with grammatical development without attention, and that staff judge messages on perceived politeness and clarity as well as accuracy. Norms vary across institutions, countries and individuals, and in EMI and TNE settings forms of address, channels (including messaging apps) and procedures may follow local rather than anglophone conventions (see acu.emi-tne); the aim is informed, context-sensitive choice, not one correct formula.",
+      "learnerSummary": "You will learn to write emails, make requests, apologise and talk with staff and other students in ways that suit the situation. You will also practise forum posts, formal statements and job applications.",
       "stageEmphasis": {
-        "foundation": "Core forms of address, request and apology language, and email structure, practised on real tasks such as contacting a tutor or reporting an absence.",
-        "pre-sessional": "Calibrating politeness to power, distance and imposition; email and office-hour rehearsal for the destination institution; forum participation on the course VLE.",
-        "in-sessional-ug": "Applying pragmatic knowledge to real situations as they arise (extensions, feedback tutorials, assessed forums, extenuating circumstances claims), with attention to local norms.",
-        "in-sessional-pgt": "Efficient, well-judged correspondence and meetings within a compressed timeline, including requests for references and dissertation-related contact.",
-        "pgr": "High-imposition requests to supervisors, external researchers and gatekeepers, multichannel professional communication, and acknowledgements in theses and articles."
+        "foundation": "Emails, requests and forms of address are core, practised on real tasks such as contacting a tutor or reporting an absence, with informal talk with peers and staff supported rather than assumed.",
+        "pre-sessional-ug": "Emails and requests to staff are core, calibrated to power, distance and imposition, with forum participation and office-hour rehearsal using the destination institution's channels.",
+        "pre-sessional-pg": "Email to staff and prospective supervisors is core, alongside tutorial rehearsal and informal interaction with peers and department or lab colleagues.",
+        "in-sessional-ug": "Point-of-need application (extensions, feedback tutorials, assessed forums, extenuating circumstances) and, with careers services, placement applications; norms are checked locally, especially in EMI and TNE programmes.",
+        "in-sessional-pgt": "Efficient correspondence and meetings within a compressed timeline, dissertation-related contact, and applications and interviews for graduate roles.",
+        "pgr": "High-imposition requests to supervisors, gatekeepers and external researchers, multichannel professional communication, informal networking in departments, and academic and non-academic job applications."
       },
       "keyReferences": [
         "brownlevinson1987",
         "kasperrose2002",
         "biesenbach2007",
-        "economidou2011"
+        "economidou2011",
+        "biber2006",
+        "bhatia1993"
+      ]
+    },
+    {
+      "code": "IDN",
+      "strand": "Academic Socialisation, Identity & Communication",
+      "name": "Identity, Plurilingualism & Intercultural Competence",
+      "summary": "This domain addresses who learners are as academic language users: how writing and speaking construct identity, how plurilingual repertoires can be used strategically from the start of study, when other languages and Englishes may appear in academic texts, how English functions as a lingua franca and in established World Englishes, and how intercultural and rhetorical differences can be understood without stereotyping. It adopts a resource rather than a deficit orientation, treats culture as dynamic, multiple and partly institutional, names native-speakerism and racialised language judgements, and presents contrastive rhetoric and language separation in assessed texts as contested. Several topics pair a learner skill with a curriculum principle for teachers (audience 'both'), and practice differs in EMI and transnational programmes, where other languages are often part of everyday study.",
+      "learnerSummary": "You will explore how your writing and speech present you and how to use all your languages as resources. You will also practise communicating across differences without stereotypes.",
+      "stageEmphasis": {
+        "foundation": "Start from learners' own languages: map and use plurilingual repertoires, collaborate inclusively in multilingual groups, and discuss in simple terms whose English counts and when other languages may appear in writing.",
+        "pre-sessional-ug": "Address transition and emerging academic identity alongside lingua franca interaction in multilingual cohorts, and clarify when other languages may be used in assessed work.",
+        "pre-sessional-pg": "Prepare for postgraduate study as multilingual scholars: use literatures in several languages, discuss native-speakerism and legitimacy, and begin to articulate a disciplinary identity.",
+        "in-sessional-ug": "Support inclusive group work, emerging disciplinary voice and resource-oriented participation for home and international students alike, including first-generation and mature students.",
+        "in-sessional-pgt": "Help highly international cohorts negotiate identity, intercultural collaboration and unfamiliar expectations within a short programme.",
+        "pgr": "Focus on researcher identity, multilingual and translingual scholarship, publishing as a multilingual scholar and positioning within global scholarly communities."
+      },
+      "keyReferences": [
+        "ivanic1998",
+        "garciawei2014",
+        "canagarajah2013",
+        "jenkins2014",
+        "kubotalehner2004",
+        "holliday2006"
       ]
     },
     {
       "code": "DIG",
       "strand": "Digital Literacy & AI",
       "name": "Digital Scholarship Tools",
-      "summary": "Academic work is mediated by digital tools (learning platforms, word processors, reference managers, shared documents, machine translation and automated writing evaluation) whose effective and ethical use is rarely taught explicitly. This domain treats these tools as part of academic literacy practices rather than as separate technical skills (Lea & Jones, 2011), emphasising critical and transparent use: tools support but do not replace learners’ judgement, their outputs must be checked, and their permitted use is set by institutional policy. Because products change quickly, topics are framed around transferable functions and decisions rather than named applications.",
-      "learnerSummary": "You will learn to use the digital tools of university study, including learning platforms, word processing, reference managers, shared documents, translation and feedback tools, efficiently, critically and within your institution’s rules.",
+      "summary": "Academic work is mediated by digital tools (learning platforms, word processors, reference managers, shared documents, translation tools, editing and automated feedback tools, and assistive technologies) whose effective and ethical use is rarely taught explicitly. This domain treats these tools as part of academic literacy practices rather than as separate technical skills (Lea & Jones, 2011), emphasising critical and transparent use: tools support but do not replace learners’ judgement, their outputs must be checked, and their permitted use is set by institutional rules. Assistive technologies and study adjustments are treated as legitimate academic practice, and because products change quickly, topics are framed around transferable functions and decisions rather than named applications.",
+      "learnerSummary": "You will learn to use the digital tools of university study, including translation, editing and assistive tools, efficiently, critically and within your institution’s rules.",
       "stageEmphasis": {
-        "foundation": "Orientation to the learning platform, file management and word processing, with transparent and critical use of machine translation.",
-        "pre-sessional": "Institutional systems and policies, reference managers, machine translation and automated feedback as supports, and digital collaboration in project work.",
-        "in-sessional-ug": "Efficient assignment workflows: styles, reference managers, shared documents and critical use of feedback tools.",
+        "foundation": "Orientation to the learning platform, files and word processing, built-in assistive features introduced to everyone, and transparent, critical use of translation tools.",
+        "pre-sessional-ug": "Institutional systems, the rules on translation, editing and AI tools in progression assessments, versioned drafts for portfolios, and shared documents in group projects.",
+        "pre-sessional-pg": "Rules on translation, editing and AI tools in progression assessments, an introduction to reference managers, and versioned drafts for an extended project.",
+        "in-sessional-ug": "Efficient assignment workflows: styles, reference managers, shared documents, module-specific tool rules and critical use of feedback tools.",
         "in-sessional-pgt": "Managing dissertation-scale work: versioning, reference libraries, collaboration and supervisor feedback in shared documents.",
-        "pgr": "Thesis-scale document management, research data and file organisation, and a professional online presence."
+        "pgr": "Thesis-scale documents and reference libraries, confidentiality when using online tools, adjustments for thesis submission and the viva, and a professional online presence."
       },
       "keyReferences": [
         "lea2011digital",
@@ -1045,11 +1111,12 @@
       "code": "GAI",
       "strand": "Digital Literacy & AI",
       "name": "Generative AI Literacy",
-      "summary": "Generative AI literacy is treated here as part of academic literacy: understanding how large language models generate text and why they fail; reading and applying AI policies that vary by institution, module and task; acknowledging and verifying AI use; and using AI in ways that build rather than replace learners' own language, reasoning and voice. The domain also covers the limits of AI-text detection, including documented bias against writers using English as an additional language, and privacy and intellectual-property risks. Tools and policies change quickly, so topics are framed around durable principles and verification habits rather than particular products.",
-      "learnerSummary": "You will learn how generative AI tools work and where they fail, and how to find out what AI use is allowed in each task. You will also practise acknowledging and checking AI use, using AI to develop your English while keeping your own voice, and responding if a detector wrongly flags your work.",
+      "summary": "Generative AI literacy is treated here as part of academic literacy: understanding how large language models generate text and why they fail; reading and applying AI policies that vary by institution, module and task; acknowledging and verifying AI use; and using AI as a tutor and practice partner in ways that build rather than replace learners' own language, reasoning and voice. The domain also covers the limits of AI-text detection, including documented bias against writers using English as an additional language and why detector output cannot establish misconduct, the contested question of where AI assistance ends and authorship begins, and privacy and intellectual-property risks. Tools and policies change quickly, so topics are framed around durable principles and verification habits rather than particular products.",
+      "learnerSummary": "You will learn how AI tools work and fail, and what each task allows. You will practise declaring and checking AI use, learning with AI, and responding if a detector wrongly flags your work.",
       "stageEmphasis": {
         "foundation": "How generative AI works and fails, finding the AI rules for each task, and using AI for explanation and practice rather than to produce assessed text.",
-        "pre-sessional": "Transparent, policy-compliant AI use in source-based assignments, verifying outputs and references, and keeping evidence of one's own writing process.",
+        "pre-sessional-ug": "Finding and applying the AI rules for each pre-sessional task, declaring use honestly, and using AI to learn rather than to write assessed text.",
+        "pre-sessional-pg": "AI rules and declarations for postgraduate study, verifying AI-supplied references and summaries, and a first look at the research, privacy and authorship questions that arise in master's and doctoral work.",
         "in-sessional-ug": "Module-specific rules, acknowledging use, and evaluating AI as a language and study resource within the discipline.",
         "in-sessional-pgt": "AI in literature searching and summarising, authorship and voice in extended writing, and data privacy in dissertation research.",
         "pgr": "AI research tools, publisher and funder policies, research data privacy and intellectual property, and authorship norms in publication."
@@ -1067,101 +1134,136 @@
       "code": "DSE",
       "strand": "Disciplinary Literacies",
       "name": "Science, Engineering & Computing",
-      "summary": "This domain covers the discourse of the natural sciences, engineering, mathematics and computing: how technicality, nominalisation and taxonomies build scientific knowledge, and how learners produce explanations, protocols and specifications, experimental language, proofs and software documentation. These fields are typically 'hard' in Becher and Trowler's terms, with cumulative knowledge, high consensus on method and texts in which visuals, notation and code carry much of the meaning. Teaching works best when EAP staff analyse departmental exemplars with subject lecturers, because conventions differ between, for example, a chemistry protocol, a civil engineering specification and a computing README.",
-      "learnerSummary": "You will learn how scientists, engineers, mathematicians and programmers use English to explain, instruct, specify, prove and document, and how to write these texts the way your department expects.",
+      "summary": "This domain covers the discourse of the natural sciences, engineering, mathematics and computing: how technicality, grammatical metaphor and taxonomies build scientific knowledge, and how learners produce explanations, protocols and specifications, experimental language, research records, proofs and software documentation. These fields are typically hard disciplines in Becher and Trowler’s terms, with cumulative knowledge, high consensus on method and texts in which visuals, notation and code carry much of the meaning. Teaching works best when EAP staff analyse departmental exemplars with subject lecturers, because conventions differ between, for example, a chemistry protocol, a civil engineering specification and a computing README.",
+      "learnerSummary": "You will learn how scientists, engineers, mathematicians and programmers use English to explain, specify, prove, document and keep research records, and how to write these texts as your department expects.",
       "stageEmphasis": {
-        "foundation": "Build control of scientific explanation, process description and experimental vocabulary alongside subject content, using textbook and practical-class texts.",
-        "pre-sessional": "On science and engineering pathways, raise awareness of nominalisation, technicality and explanation genres, and practise reading and writing short experimental and procedural texts.",
-        "in-sessional-ug": "Embed work on lab-related language, specifications, proofs and documentation in modules, ideally co-designed with subject staff around real assignments.",
-        "in-sessional-pgt": "Focus on precision in specifications, design documentation and project reports, and on the conventions of the student's specialism.",
-        "pgr": "Support protocol and methods writing, documentation of research software and the conventions of mathematical and technical publication."
+        "foundation": "Build control of scientific explanation and the language of science and experimentation alongside subject content, using textbook and practical-class texts.",
+        "pre-sessional-ug": "On science and engineering pathways for undergraduate entry, raise awareness of technicality and nominalisation and practise scientific explanation and experimental language.",
+        "pre-sessional-pg": "On pathways for science, engineering and computing master’s entrants, focus on reading dense research prose and on precise experimental language.",
+        "in-sessional-ug": "Embed work on experimental language, specifications, proofs and documentation in modules, ideally co-designed with subject staff around real assignments.",
+        "in-sessional-pgt": "Focus on research-project records, precision in specifications and design documentation, and the conventions of the student’s specialism.",
+        "pgr": "Support research records and data management, protocol and methods writing, documentation of research software and the conventions of mathematical and technical publication."
       },
       "keyReferences": [
         "hallidaymartin1993",
         "trimble1985",
         "parkinson2017",
         "hyland2004disciplinary",
-        "becher2001"
+        "becher2001",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
       "code": "DHL",
       "strand": "Disciplinary Literacies",
       "name": "Health & Life Sciences",
-      "summary": "This domain covers the literacies of nursing, medicine, allied health, pharmacy and related life-science programmes, where academic writing is tied to professional practice and patient safety. Its topics are evidence-based practice as an organising concept, reflective practice writing, case presentations and care plans, communication on placement, and critical appraisal. Many of these genres are assessed against professional standards as well as academic criteria, so EAP teachers should work with clinical educators, use anonymised local exemplars and check regulator and programme requirements on confidentiality and record-keeping.",
-      "learnerSummary": "You will learn how health professionals use evidence, reflect on practice, document and present patient care, appraise research and communicate safely with patients and colleagues in English.",
+      "summary": "This domain covers the literacies of nursing, midwifery, medicine, allied health, pharmacy and related life-science programmes, where academic writing is tied to professional practice and patient safety. Its topics are evidence-based practice as an organising concept, writing clinical reasoning, care plans, case presentations, reflective practice writing, communication on placement and critical appraisal of research. Many of these genres are assessed against professional standards as well as academic criteria, so EAP teachers should work with clinical educators, use anonymised local exemplars and check regulator and programme requirements on confidentiality and record-keeping.",
+      "learnerSummary": "You will learn how health professionals use evidence, explain clinical reasoning, write care plans and reflections, present cases, appraise research and communicate safely with patients and colleagues.",
       "stageEmphasis": {
-        "foundation": "Introduce evidence-based practice and the vocabulary of health care in foundation programmes that lead to health degrees.",
-        "pre-sessional": "On health pathways, prepare students for reflective writing and for spoken communication with patients and colleagues.",
-        "in-sessional-ug": "Embed support for reflective assignments, care plans, case studies and placement communication in nursing, midwifery, medicine and allied health programmes.",
-        "in-sessional-pgt": "Emphasise critical appraisal, evidence synthesis and reflective writing for experienced practitioners taking master's degrees.",
-        "pgr": "Support systematic review writing and reporting to recognised reporting guidelines."
+        "pre-sessional-ug": "On health pathways for undergraduate entry, introduce reflective writing, evidence-based practice and the spoken patterns of patient communication before first placements.",
+        "pre-sessional-pg": "On pathways for health master’s entrants, many of them experienced practitioners, focus on evidence-based practice, reflective analysis and making professional reasoning explicit in academic prose.",
+        "in-sessional-ug": "Embed support for clinical reasoning, care plans, reflective assignments and placement communication in nursing, midwifery, medicine and allied-health programmes.",
+        "in-sessional-pgt": "Emphasise critical appraisal, clinical reasoning in complex cases and analytical reflection for practitioners taking master’s degrees.",
+        "pgr": "Doctoral researchers revisit appraisal as risk-of-bias assessment; systematic review writing is covered by the research-writing topics."
       },
       "keyReferences": [
         "sackett1996",
-        "gibbs1988",
-        "schon1983",
         "greenhalgh2019",
-        "nesigardner2012"
+        "levettjones2010",
+        "gibbs1988",
+        "lingard2003",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
       "code": "DBE",
       "strand": "Disciplinary Literacies",
       "name": "Business & Economics",
-      "summary": "This domain covers the literacies of business, management and economics programmes, which together attract large numbers of international students on foundation, UG and PGT courses. Business schools assess many simulated professional genres (case analyses, reports, memos, pitches) that are oriented to decision-makers, while economics builds arguments from models, assumptions and conditional reasoning. Nathan (2013) and Zhu (2004) show that these assignment genres differ from the academic essay in purpose, structure and reader, so EAP teaching should analyse the assignment briefs and exemplars of the specific school with subject staff.",
-      "learnerSummary": "You will learn how to analyse business cases, use management frameworks critically, reason with economic models and write the reports, memos and pitches that business schools assess.",
+      "summary": "This domain covers the literacies of business, management, accounting, finance and economics programmes, which together attract the largest international cohorts on UG and PGT courses. Business schools assess many simulated or live professional genres (case analyses, reports, memos, pitches, consultancy reports) oriented to decision-makers, accounting and finance assess commentary on figures and disclosures, and economics builds arguments from models, assumptions and conditional reasoning. Nathan (2013) and Zhu (2004) show that these assignment genres differ from the academic essay in purpose, structure and reader, so EAP teaching should analyse the school’s own briefs and exemplars with subject staff.",
+      "learnerSummary": "You will learn to analyse business cases, use frameworks critically, reason with economic models, comment on financial results and write the reports your business school assesses.",
       "stageEmphasis": {
-        "foundation": "Introduce management frameworks, case analysis and the language of economic models within business foundation programmes.",
-        "pre-sessional": "On business pathways, contrast the business report and case analysis with the academic essay and practise frameworks applied to short cases.",
-        "in-sessional-ug": "Embed support for case analyses, reports and economic reasoning in modules, using the school's own briefs and exemplars.",
-        "in-sessional-pgt": "Support the high volume of case-based and professional genres on master's programmes such as the MBA and MSc Management, where students often have little time to adjust."
+        "pre-sessional-ug": "On business pathways for undergraduate entry, contrast case analysis and the business report with the essay, and practise applying frameworks to short cases with evidence.",
+        "pre-sessional-pg": "On pathways for business, finance and economics master’s entrants, practise case and framework analysis, financial commentary and decision-oriented reports at the pace of a one-year degree.",
+        "in-sessional-ug": "Embed support for case analyses, reports and economic reasoning in modules, using the school’s own briefs and exemplars.",
+        "in-sessional-pgt": "Support the high volume of case-based, financial and consultancy genres on master’s programmes such as the MBA, MSc Management and MSc Finance, where students have little time to adjust."
       },
       "keyReferences": [
         "nathan2013",
         "zhu2004",
         "bhatia1993",
         "mccloskey1998",
-        "nesigardner2012"
+        "merkldavies2007",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
       "code": "DLW",
       "strand": "Disciplinary Literacies",
       "name": "Law",
-      "summary": "This domain covers the literacies of studying law in English, with a primary focus on common-law systems such as England and Wales: the register and terms of art of legal English, reading and briefing cases, reading legislation, answering problem questions and writing legal essays. Legal knowledge is constructed through authoritative texts (judgments and statutes) whose language is itself the object of analysis, so reading precision and the handling of authority are central (Bhatia, 1993; Twining & Miers, 2010). Many international law students, especially on LLM programmes, have trained in civil-law or mixed systems, which makes making the common-law conventions explicit particularly important.",
-      "learnerSummary": "You will learn how to read cases and legislation, use legal terms precisely, answer problem questions and write legal essays supported by legal authority and the referencing style your law school requires (often OSCOLA in the UK).",
+      "summary": "This domain covers the literacies of studying law in English, with a primary focus on common-law systems such as England and Wales: the register and terms of art of legal English, reading and briefing cases, reading legislation, answering problem questions, writing legal essays, arguing orally in moots and writing law dissertations. Legal knowledge is constructed through authoritative texts (judgments and statutes) whose language is itself the object of analysis, so reading precision and the handling of authority are central (Bhatia, 1993; Twining & Miers, 2010), and doctrinal research has its own method (Hutchinson & Duncan, 2012). Many international law students, especially on LLM programmes, trained in civil-law or mixed systems, which makes it particularly important to make common-law conventions explicit.",
+      "learnerSummary": "You will learn to read cases and legislation, use legal terms precisely, answer problem questions, write legal essays and dissertations, and argue orally in moots.",
       "stageEmphasis": {
-        "foundation": "Introduce legal vocabulary, the structure of cases and the idea of precedent in law foundation programmes.",
-        "pre-sessional": "On law pathways, practise reading short judgments and statutes and contrast problem questions with essays.",
-        "in-sessional-ug": "Embed support for case briefing, problem questions and essays in first-year LLB modules, where the conventions are new to everyone.",
-        "in-sessional-pgt": "Support LLM students, many trained in other legal systems, to read common-law materials efficiently and write analytical legal essays with OSCOLA referencing."
+        "foundation": "Introduce legal vocabulary and the idea of precedent in law foundation programmes.",
+        "pre-sessional-ug": "On law pathways for LLB entry, practise reading short judgments and statutes and contrast problem questions with essays.",
+        "pre-sessional-pg": "On pathways for LLM entrants, many trained in civil-law systems, make reasoning from precedent explicit and introduce legal essays, OSCOLA and dissertation method.",
+        "in-sessional-ug": "Embed support for case briefing and problem questions in first-year LLB modules, where the conventions are new to everyone, and for mooting later.",
+        "in-sessional-pgt": "Support LLM students in reading common-law materials efficiently and writing analytical legal essays and dissertations with OSCOLA referencing.",
+        "pgr": "Support doctoral law researchers in stating their method and sustaining doctrinal or socio-legal argument across a thesis."
       },
       "keyReferences": [
         "bhatia1993",
         "oscola2026",
         "twining2010",
-        "mertz2007"
+        "mertz2007",
+        "hutchinsonduncan2012",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
       "code": "DSS",
       "strand": "Disciplinary Literacies",
       "name": "Social Sciences & Education",
-      "summary": "This domain covers the literacies of sociology, politics, social policy, international relations, psychology's more interpretive traditions, education and related fields. These are 'soft' disciplines in Becher and Trowler's terms, where key concepts are contested, several research paradigms coexist and writers are expected to justify their conceptual and methodological choices explicitly. The topics address working with contested concepts, qualitative research writing, policy analysis and methodology justification, which recur from UG coursework to doctoral theses. Because expectations vary between fields and between supervisors, analysis of local exemplars with subject staff is essential.",
-      "learnerSummary": "You will learn how social scientists and education researchers define contested concepts, justify their methods, write up qualitative research and analyse policy.",
+      "summary": "This domain covers the literacies of sociology, politics, social policy, international relations, psychology, education and related fields. Key concepts are often contested, several research paradigms coexist and writers are expected to justify their conceptual and methodological choices explicitly, while psychology combines this with the tightly conventionalised experimental report and education with practice genres such as lesson-plan rationales and teaching reflections. The topics address working with contested concepts, justifying methodology, the process texts of qualitative research, policy analysis, psychology reports and education practice genres, which recur from UG coursework to doctoral theses. Because expectations vary between fields and between supervisors, analysis of local exemplars with subject staff is essential.",
+      "learnerSummary": "You will learn to define contested concepts, justify your methods, keep qualitative field notes, write psychology reports and teaching documents, and analyse policy.",
       "stageEmphasis": {
-        "pre-sessional": "On social science pathways, introduce contested concepts and the idea that definitions and methods must be justified.",
-        "in-sessional-ug": "Support concept work, policy analysis and the methods and findings chapters of final-year projects.",
-        "in-sessional-pgt": "Focus on methodology chapters, qualitative findings and policy analysis in master's dissertations, where many students are new to the paradigms of the field.",
-        "pgr": "Support doctoral researchers in articulating paradigms, operationalising concepts and writing extended interpretive analysis."
+        "pre-sessional-ug": "On social science pathways for undergraduate entry, introduce contested concepts and the idea that definitions must be justified.",
+        "pre-sessional-pg": "On pathways for social science, psychology and education master’s entrants, introduce contested concepts and the expectation that methods are justified, and practise the rationale and reflective genres of teacher education.",
+        "in-sessional-ug": "Support concept work, psychology reports, policy analysis and the methods of final-year projects.",
+        "in-sessional-pgt": "Focus on methodology chapters, qualitative analysis, policy analysis and TESOL and education practice genres in master’s programmes, where many students are new to the paradigms of the field.",
+        "pgr": "Support doctoral researchers in articulating paradigms, operationalising concepts and accounting for extended qualitative analysis."
       },
       "keyReferences": [
         "creswell2018",
         "braunclarke2006",
         "bacchi2009",
-        "becher2001",
-        "hyland2004disciplinary"
+        "apa2020",
+        "hyland2004disciplinary",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
@@ -1169,11 +1271,12 @@
       "strand": "Disciplinary Literacies",
       "name": "Humanities",
       "summary": "This domain covers the literacies of literary studies, history, philosophy, religious studies, classics and related fields, where knowledge is built through interpretation and argument about texts, sources and ideas rather than through accumulating findings. Becher and Trowler characterise these 'soft-pure' fields as reiterative and interpretive, and Hyland (2004) shows that their writing typically has more explicit authorial presence and evaluative engagement with sources than the sciences. The topics cover close reading, working with primary sources, interpretive argument and philosophical writing, all of which reward detailed engagement with language and a sustained individual voice.",
-      "learnerSummary": "You will learn how to analyse texts closely, work with primary sources, argue for an interpretation with textual evidence and write philosophical arguments with objections and replies.",
+      "learnerSummary": "You will learn to analyse texts closely, work with primary sources, argue for an interpretation with evidence and write philosophical arguments with objections and replies.",
       "stageEmphasis": {
         "foundation": "Introduce close reading and the use of quotation as evidence on humanities foundation programmes.",
-        "pre-sessional": "On humanities pathways, practise close analysis and the shift from summary to interpretation.",
-        "in-sessional-ug": "Support interpretive essays, source analysis and philosophical argument in subject modules, using the department's exemplars.",
+        "pre-sessional-ug": "On humanities pathways for undergraduate entry, practise close analysis of short texts and the shift from summary to interpretation.",
+        "pre-sessional-pg": "On pathways for humanities master’s entrants, practise positioning an interpretation within critical or historiographical debate.",
+        "in-sessional-ug": "Support close reading and interpretive essays in subject modules, using the department’s exemplars.",
         "in-sessional-pgt": "Emphasise original interpretation, engagement with critical debates and archival or primary-source work for dissertations.",
         "pgr": "Support doctoral researchers in sustaining interpretive arguments across chapters and in archival research and citation."
       },
@@ -1182,27 +1285,41 @@
         "hyland2004disciplinary",
         "becher2001",
         "wineburg1991",
-        "short1996"
+        "short1996",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
       "code": "DAD",
       "strand": "Disciplinary Literacies",
       "name": "Creative Arts & Design",
-      "summary": "This domain covers the literacies of fine art, design (graphic, product, fashion, interior), architecture and related practice-based programmes, where much learning takes place in the studio and assessment centres on work produced, presented and explained. Language does specific jobs here: describing and interpreting visual work, presenting and defending work in critiques, and writing statements and rationales that make practice legible to tutors, audiences and juries. Schön's (1983) account of design as a reflective conversation with materials and Kress and van Leeuwen's (2006) visual grammar give EAP teachers ways to describe these practices, but the tacit vocabulary of a studio is local, so close collaboration with studio tutors and observation of crits is recommended.",
-      "learnerSummary": "You will learn how to talk and write about visual work, present and discuss your work in studio critiques, and write statements and rationales that explain your concept, process and decisions.",
+      "summary": "This domain covers the literacies of fine art, design (graphic, product, fashion, interior), architecture, performance and related practice-based programmes, where much learning takes place in the studio and assessment centres on work produced, presented and explained. Language does specific jobs here: describing and interpreting visual work, presenting and defending work in critiques, writing statements and rationales that make practice legible to tutors, audiences and juries, and, at master’s and doctoral level, writing the exegesis that argues the research contribution of a practice. Schön’s (1983) account of design as a reflective conversation with materials and Kress and van Leeuwen’s (2006) visual grammar give EAP teachers ways to describe these practices, but the tacit vocabulary of a studio is local, so close collaboration with studio tutors and observation of crits is recommended.",
+      "learnerSummary": "You will learn to describe and discuss visual work, present in studio crits, and write statements, rationales and research texts that explain your practice.",
       "stageEmphasis": {
-        "foundation": "On art and design foundation courses, build vocabulary for visual analysis and confidence in presenting work in crits.",
-        "pre-sessional": "On art and design pathways, prepare students for crits and for short statements about their work.",
-        "in-sessional-ug": "Support crit participation, design rationales and statements in studio modules, ideally with tutors present.",
-        "in-sessional-pgt": "Focus on articulating a practice in relation to context and theory in statements, rationales and final crits."
+        "foundation": "On art and design foundation courses, build vocabulary for visual analysis, sketchbook annotation and confidence in presenting work in crits.",
+        "pre-sessional-ug": "On art and design pathways for undergraduate entry, practise describing visual work and presenting it in short simulated crits.",
+        "pre-sessional-pg": "On pathways for art and design master’s entrants, practise articulating an existing practice in statements and introduce writing about practice as research.",
+        "in-sessional-ug": "Support crit participation and design rationales in studio modules, ideally with tutors present.",
+        "in-sessional-pgt": "Focus on articulating a practice in relation to context and theory in statements, rationales, final crits and critical reports.",
+        "pgr": "Support practice-based doctoral researchers with the exegesis: method through making, contextualisation and claims of contribution."
       },
       "keyReferences": [
         "kressvanleeuwen2006",
         "schon1983",
         "dannels2005",
         "rose2016",
-        "cross2011"
+        "hamiltonjaaniste2010",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     }
   ]

@@ -20,7 +20,9 @@
         "bibergray2016",
         "biber2011complexity",
         "celcemurcia1999",
-        "hinkel2004"
+        "hinkel2004",
+        "spadatomita2010",
+        "ellis2005principles"
       ]
     },
     {
@@ -5371,18 +5373,6 @@
         "The claim that essays usually discourage bullet lists reflects practitioner consensus and departmental guidance rather than a cited study; local briefs should be checked.",
         "Review response (R1-07): rather than removing the PGT stage, the topic is marked 'revisit' there, meaning self-access and proofreading guidance, so it does not enter the core PGT pathway."
       ]
-    }
-  ],
-  "proposedReferences": [
-    {
-      "key": "ionin2004",
-      "apa": "Ionin, T., Ko, H., & Wexler, K. (2004). Article semantics in L2 acquisition: The role of specificity. *Language Acquisition, 12*(1), 3–69.",
-      "note": "Recommended by review finding R2-09 for the specificity-based article pattern in writers whose first languages lack articles. High confidence in authors, title, journal, volume and pages; DOI not given because it was not checked."
-    },
-    {
-      "key": "oshita2000",
-      "apa": "Oshita, H. (2000). What is happened may not be what appears to be happening: A corpus study of 'passive' unaccusatives in L2 English. *Second Language Research, 16*(4), 293–324.",
-      "note": "Named in review finding R2-12 as evidence that overpassivisation of unaccusative verbs is found across first-language backgrounds. High confidence in author, title, journal and year; moderate confidence in issue and page range; DOI not given because it was not checked."
     }
   ],
   "authorNotes": [

@@ -1,6 +1,6 @@
 {
   "version": "v1",
-  "referenceCount": 467,
+  "referenceCount": 480,
   "verificationStatuses": {
     "web-verified": "Bibliographic details checked against an online record during authoring.",
     "curator-checked": "Checked by the curator against their own knowledge of the work; not independently re-fetched.",
@@ -15,7 +15,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "hyland2004disciplinary",
@@ -27,7 +29,6 @@
         "reg.disciplinary-style",
         "sta.evaluating-others-language",
         "inf.scholarly-communication",
-        "src.reporting-verbs",
         "cit.disciplinary-citation",
         "ges.book-review",
         "res.abstracts",
@@ -36,7 +37,7 @@
         "dhu.interpretive-argument",
         "dhu.philosophical-writing"
       ],
-      "citedInGuidance": 12,
+      "citedInGuidance": 11,
       "citedByDomains": [
         "REG",
         "DSE",
@@ -65,7 +66,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "hyland2002specificity",
@@ -76,7 +79,15 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "DSE",
+        "DHL",
+        "DBE",
+        "DLW",
+        "DSS",
+        "DHU",
+        "DAD"
+      ]
     },
     {
       "key": "jordan1997",
@@ -100,7 +111,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "alexander2019essentials",
@@ -135,7 +148,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "bruce2008genre",
@@ -159,7 +174,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "dingbruce2017",
@@ -167,9 +184,7 @@
       "year": 2017,
       "citation": "Ding, A., & Bruce, I. (2017). *The English for academic purposes practitioner: Operating on the edge of academia*. Palgrave Macmillan. |",
       "verification": "web-verified",
-      "citedByTopics": [
-        "acu.critical-eap"
-      ],
+      "citedByTopics": [],
       "citedInGuidance": 1,
       "citedByDomains": []
     },
@@ -181,7 +196,15 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "DSE",
+        "DHL",
+        "DBE",
+        "DLW",
+        "DSS",
+        "DHU",
+        "DAD"
+      ]
     },
     {
       "key": "dudleyevans1998",
@@ -191,7 +214,15 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "DSE",
+        "DHL",
+        "DBE",
+        "DLW",
+        "DSS",
+        "DHU",
+        "DAD"
+      ]
     },
     {
       "key": "basturkmen2010",
@@ -201,7 +232,15 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "DSE",
+        "DHL",
+        "DBE",
+        "DLW",
+        "DSS",
+        "DHU",
+        "DAD"
+      ]
     },
     {
       "key": "long2005needs",
@@ -211,7 +250,15 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "DSE",
+        "DHL",
+        "DBE",
+        "DLW",
+        "DSS",
+        "DHU",
+        "DAD"
+      ]
     },
     {
       "key": "spack1988",
@@ -222,7 +269,15 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "DSE",
+        "DHL",
+        "DBE",
+        "DLW",
+        "DSS",
+        "DHU",
+        "DAD"
+      ]
     },
     {
       "key": "bond2020",
@@ -257,7 +312,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "arkoudis2012",
@@ -266,9 +323,10 @@
       "citation": "Arkoudis, S., Baik, C., & Richardson, S. (2012). *English language standards in higher education: From entry to exit*. ACER Press. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "tst.cefr-entry"
+        "tst.cefr-entry",
+        "tst.score-reports"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -326,7 +384,6 @@
         "ess.thesis-statement",
         "ess.conclusions",
         "ess.body-organisation",
-        "ess.answering-question",
         "ess.depth-focus",
         "ess.criticality",
         "syn.synthesis-paragraphs",
@@ -353,10 +410,10 @@
       "verification": "web-verified",
       "citedByTopics": [
         "voc.university-terminology",
-        "idn.diversity-as-resource",
         "lrn.support-services",
         "acu.academic-expectations",
-        "acu.hidden-curriculum"
+        "acu.hidden-curriculum",
+        "idn.diversity-as-resource"
       ],
       "citedInGuidance": 5,
       "citedByDomains": [
@@ -371,7 +428,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "leki2007",
@@ -394,11 +453,12 @@
       "doi": "10.2307/3587974",
       "verification": "web-verified",
       "citedByTopics": [
-        "rdc.reading-for-writing",
+        "wpr.reading-to-write",
         "ges.summary-response",
+        "ges.extended-source-based-project",
         "acu.academic-expectations"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 4,
       "citedByDomains": []
     },
     {
@@ -416,10 +476,9 @@
         "ges.summary-response",
         "grp.case-study",
         "exm.exam-formats",
-        "exm.question-analysis",
         "tst.test-vs-university"
       ],
-      "citedInGuidance": 10,
+      "citedInGuidance": 9,
       "citedByDomains": []
     },
     {
@@ -430,9 +489,9 @@
       "doi": "10.1080/03075079812331380364",
       "verification": "web-verified",
       "citedByTopics": [
+        "coh.writer-responsibility",
         "wpr.task-analysis",
         "wpr.audience-purpose",
-        "ess.answering-question",
         "ges.discussion-essay",
         "fbk.marking-criteria",
         "acu.hidden-curriculum",
@@ -451,10 +510,13 @@
       "verification": "web-verified",
       "citedByTopics": [
         "acu.hidden-curriculum",
-        "acu.academic-literacies"
+        "acu.academic-literacies",
+        "acu.transition"
       ],
-      "citedInGuidance": 2,
-      "citedByDomains": []
+      "citedInGuidance": 3,
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "lillisscott2007",
@@ -477,13 +539,14 @@
       "verification": "web-verified",
       "citedByTopics": [
         "sta.authorial-voice",
-        "idn.academic-identity",
         "res.positionality-writing",
         "pub.academic-cv-bio",
+        "pub.personal-statements",
         "acu.academic-literacies",
+        "idn.academic-identity",
         "gai.authorship-voice"
       ],
-      "citedInGuidance": 7,
+      "citedInGuidance": 8,
       "citedByDomains": [
         "IDN"
       ]
@@ -497,7 +560,7 @@
       "citedByTopics": [
         "acu.critical-eap"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "ACU"
       ]
@@ -507,24 +570,29 @@
       "kind": "book",
       "year": 2002,
       "citation": "Canagarajah, A. S. (2002). *A geopolitics of academic writing*. University of Pittsburgh Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
+        "inf.source-evaluation",
+        "cit.citation-politics",
         "pub.multilingual-scholars",
         "acu.critical-eap"
       ],
-      "citedInGuidance": 2,
-      "citedByDomains": []
+      "citedInGuidance": 4,
+      "citedByDomains": [
+        "CIT"
+      ]
     },
     {
       "key": "canagarajah2013",
       "kind": "book",
       "year": 2013,
       "citation": "Canagarajah, S. (2013). *Translingual practice: Global Englishes and cosmopolitan relations*. Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "idn.plurilingual-repertoire"
+        "idn.plurilingual-repertoire",
+        "idn.translingual-writing"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "IDN"
       ]
@@ -534,15 +602,15 @@
       "kind": "book",
       "year": 2014,
       "citation": "Jenkins, J. (2014). *English as a lingua franca in the international university: The politics of academic English language policy*. Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.accent-variation",
         "sem.checking-understanding",
         "grw.inclusive-collaboration",
-        "idn.elf",
-        "idn.standards-legitimacy",
         "acu.critical-eap",
-        "acu.emi-tne"
+        "acu.emi-tne",
+        "idn.elf",
+        "idn.standards-legitimacy"
       ],
       "citedInGuidance": 7,
       "citedByDomains": [
@@ -555,13 +623,15 @@
       "kind": "book",
       "year": 2014,
       "citation": "García, O., & Li Wei. (2014). *Translanguaging: Language, bilingualism and education*. Palgrave Macmillan. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.plurilingual-reading",
+        "sem.explaining-concepts",
         "wpr.l1-in-composing",
-        "idn.plurilingual-repertoire"
+        "idn.plurilingual-repertoire",
+        "idn.translingual-writing"
       ],
-      "citedInGuidance": 4,
+      "citedInGuidance": 6,
       "citedByDomains": [
         "IDN"
       ]
@@ -572,16 +642,18 @@
       "year": 2004,
       "citation": "Morita, N. (2004). Negotiating participation and identity in second language academic communities. *TESOL Quarterly, 38*(4), 573–603.",
       "doi": "10.2307/3588281",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "sem.seminar-purposes",
         "sem.turn-taking",
         "sem.speaking-anxiety",
         "grw.inclusive-collaboration",
-        "idn.academic-identity",
-        "acu.transition"
+        "pub.conference-participation",
+        "acu.transition",
+        "prg.informal-academic-interaction",
+        "idn.academic-identity"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 8,
       "citedByDomains": [
         "SEM",
         "GRW"
@@ -593,7 +665,7 @@
       "year": 2000,
       "citation": "Morita, N. (2000). Discourse socialization through oral classroom activities in a TESL graduate program. *TESOL Quarterly, 34*(2), 279–310.",
       "doi": "10.2307/3587953",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "sem.preparation",
         "sem.citing-in-speech",
@@ -613,13 +685,14 @@
       "year": 2010,
       "citation": "Duff, P. A. (2010). Language socialization into academic discourse communities. *Annual Review of Applied Linguistics, 30*, 169–192.",
       "doi": "10.1017/S0267190510000048",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.university-terminology",
         "sem.seminar-purposes",
-        "acu.discourse-communities"
+        "acu.discourse-communities",
+        "prg.informal-academic-interaction"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 4,
       "citedByDomains": []
     },
     {
@@ -628,7 +701,7 @@
       "year": 1966,
       "citation": "Kaplan, R. B. (1966). Cultural thought patterns in inter-cultural education. *Language Learning, 16*(1–2), 1–20.",
       "doi": "10.1111/j.1467-1770.1966.tb00804.x",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "idn.intercultural-rhetoric"
       ],
@@ -640,7 +713,7 @@
       "kind": "book",
       "year": 1996,
       "citation": "Connor, U. (1996). *Contrastive rhetoric: Cross-cultural aspects of second-language writing*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "idn.intercultural-rhetoric"
       ],
@@ -653,7 +726,7 @@
       "year": 2004,
       "citation": "Connor, U. (2004). Intercultural rhetoric research: Beyond texts. *Journal of English for Academic Purposes, 3*(4), 291–304.",
       "doi": "10.1016/j.jeap.2004.07.003",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "coh.writer-responsibility",
         "idn.intercultural-rhetoric"
@@ -667,12 +740,11 @@
       "year": 2004,
       "citation": "Kubota, R., & Lehner, A. (2004). Toward critical contrastive rhetoric. *Journal of Second Language Writing, 13*(1), 7–27.",
       "doi": "10.1016/j.jslw.2004.04.003",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "coh.writer-responsibility",
         "idn.intercultural-rhetoric"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 1,
       "citedByDomains": [
         "IDN"
       ]
@@ -684,10 +756,8 @@
       "citation": "Hinds, J. (1987). Reader versus writer responsibility: A new typology. In U. Connor & R. B. Kaplan (Eds.), *Writing across languages: Analysis of L2 text* (pp. 141–152). Addison-Wesley. |",
       "verification": "web-verified",
       "verificationNote": "Checked by the curator against online records.",
-      "citedByTopics": [
-        "coh.writer-responsibility"
-      ],
-      "citedInGuidance": 2,
+      "citedByTopics": [],
+      "citedInGuidance": 1,
       "citedByDomains": []
     },
     {
@@ -696,7 +766,7 @@
       "year": 2006,
       "citation": "Holliday, A. (2006). Native-speakerism. *ELT Journal, 60*(4), 385–387.",
       "doi": "10.1093/elt/ccl030",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "idn.diversity-as-resource",
         "idn.standards-legitimacy"
@@ -712,11 +782,11 @@
       "year": 2008,
       "citation": "Zhou, Y., Jindal-Snape, D., Topping, K., & Todman, J. (2008). Theoretical models of culture shock and adaptation in international students in higher education. *Studies in Higher Education, 33*(1), 63–75.",
       "doi": "10.1080/03075070701794833",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "idn.intercultural-communication",
         "lrn.wellbeing",
-        "acu.transition"
+        "acu.transition",
+        "idn.intercultural-communication"
       ],
       "citedInGuidance": 3,
       "citedByDomains": [
@@ -728,7 +798,7 @@
       "kind": "book",
       "year": 2001,
       "citation": "Becher, T., & Trowler, P. R. (2001). *Academic tribes and territories: Intellectual enquiry and the culture of disciplines* (2nd ed.). SRHE & Open University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.disciplinary-style",
         "crt.evidence-types",
@@ -740,7 +810,6 @@
       "citedByDomains": [
         "ACU",
         "DSE",
-        "DSS",
         "DHU"
       ]
     },
@@ -750,7 +819,7 @@
       "year": 1973,
       "citation": "Biglan, A. (1973). The characteristics of subject matter in different academic areas. *Journal of Applied Psychology, 57*(3), 195–203.",
       "doi": "10.1037/h0034701",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "acu.disciplinary-knowledge"
       ],
@@ -763,7 +832,7 @@
       "year": 2013,
       "citation": "Maton, K. (2013). Making semantic waves: A key to cumulative knowledge-building. *Linguistics and Education, 24*(1), 8–22.",
       "doi": "10.1016/j.linged.2012.11.005",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.theoretical-texts",
         "crt.applying-theory"
@@ -777,7 +846,7 @@
       "year": 2005,
       "citation": "Meyer, J. H. F., & Land, R. (2005). Threshold concepts and troublesome knowledge (2): Epistemological considerations and a conceptual framework for teaching and learning. *Higher Education, 49*(3), 373–388.",
       "doi": "10.1007/s10734-004-6779-5",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.theoretical-texts",
         "acu.disciplinary-knowledge"
@@ -791,12 +860,12 @@
       "year": 2016,
       "citation": "Dafouz, E., & Smit, U. (2016). Towards a dynamic conceptual framework for English-medium education in multilingual university settings. *Applied Linguistics, 37*(3), 397–415.",
       "doi": "10.1093/applin/amu034",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lrn.content-through-english",
         "acu.emi-tne"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 3,
       "citedByDomains": [
         "ACU"
       ]
@@ -807,20 +876,22 @@
       "year": 2018,
       "citation": "Macaro, E., Curle, S., Pun, J., An, J., & Dearden, J. (2018). A systematic review of English medium instruction in higher education. *Language Teaching, 51*(1), 36–76.",
       "doi": "10.1017/S0261444817000350",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lrn.content-through-english",
         "acu.emi-tne"
       ],
       "citedInGuidance": 2,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ACU"
+      ]
     },
     {
       "key": "swales1990",
       "kind": "book",
       "year": 1990,
       "citation": "Swales, J. M. (1990). *Genre analysis: English in academic and research settings*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.tense-in-reporting",
         "rds.research-article-navigation",
@@ -847,7 +918,7 @@
       "kind": "book",
       "year": 2004,
       "citation": "Swales, J. M. (2004). *Research genres: Explorations and applications*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rds.research-article-navigation",
         "res.introductions-cars",
@@ -866,7 +937,7 @@
       "kind": "book",
       "year": 2012,
       "citation": "Swales, J. M., & Feak, C. B. (2012). *Academic writing for graduate students: Essential tasks and skills* (3rd ed.). University of Michigan Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.precision-near-synonyms",
         "reg.formality-features",
@@ -893,12 +964,10 @@
         "ess.introductions",
         "ess.titles",
         "edt.style-editing",
-        "ges.problem-solution-essay",
         "ges.critique",
         "ges.book-review",
         "grp.lab-report",
         "grp.empirical-project-report",
-        "grp.student-abstract",
         "res.methods",
         "res.results",
         "res.discussion",
@@ -912,7 +981,7 @@
         "dat.describing-diagrams",
         "dat.referring-to-visuals"
       ],
-      "citedInGuidance": 43,
+      "citedInGuidance": 41,
       "citedByDomains": [
         "COH",
         "FUN",
@@ -926,7 +995,7 @@
       "kind": "book",
       "year": 2009,
       "citation": "Feak, C. B., & Swales, J. M. (2009). *Telling a research story: Writing a literature review*. University of Michigan Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "sta.evaluating-others-language",
         "rdc.literature-mapping",
@@ -949,14 +1018,13 @@
       "kind": "book",
       "year": 2009,
       "citation": "Swales, J. M., & Feak, C. B. (2009). *Abstracts and the writing of abstracts*. University of Michigan Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grp.executive-summary",
-        "grp.student-abstract",
         "res.abstracts",
         "pub.conference-abstracts"
       ],
-      "citedInGuidance": 4,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -965,7 +1033,7 @@
       "year": 1996,
       "citation": "Hyon, S. (1996). Genre in three traditions: Implications for ESL. *TESOL Quarterly, 30*(4), 693–722.",
       "doi": "10.2307/3587930",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.genre-concept"
       ],
@@ -979,7 +1047,7 @@
       "kind": "book",
       "year": 1997,
       "citation": "Johns, A. M. (1997). *Text, role, and context: Developing academic literacies*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "wpr.audience-purpose",
         "ges.genre-concept",
@@ -993,7 +1061,7 @@
       "kind": "book",
       "year": 2009,
       "citation": "Tardy, C. M. (2009). *Building genre knowledge*. Parlor Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.genre-analysis"
       ],
@@ -1007,7 +1075,7 @@
       "kind": "book",
       "year": 2018,
       "citation": "Cheng, A. (2018). *Genre and graduate-level research writing*. University of Michigan Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.genre-analysis",
         "res.imrad"
@@ -1021,7 +1089,7 @@
       "year": 2011,
       "citation": "Yasuda, S. (2011). Genre-based tasks in foreign language writing: Developing writers' genre awareness, linguistic knowledge, and writing competence. *Journal of Second Language Writing, 20*(2), 111–133.",
       "doi": "10.1016/j.jslw.2011.03.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.genre-analysis"
       ],
@@ -1033,7 +1101,7 @@
       "kind": "book",
       "year": 2012,
       "citation": "Nesi, H., & Gardner, S. (2012). *Genres across the disciplines: Student writing in higher education*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.disciplinary-style",
         "fun.explaining",
@@ -1041,12 +1109,12 @@
         "fun.chronology-narration",
         "fun.evaluating",
         "ess.essay-structure",
-        "ess.essay-types",
         "ges.genre-families",
         "grp.report-conventions",
         "grp.empirical-project-report",
         "grp.technical-design-report",
         "dhl.case-reports-care-plans",
+        "dhl.care-plans",
         "dbe.business-case-analysis"
       ],
       "citedInGuidance": 14,
@@ -1054,9 +1122,7 @@
         "FUN",
         "ESS",
         "GES",
-        "GRP",
-        "DHL",
-        "DBE"
+        "GRP"
       ]
     },
     {
@@ -1065,17 +1131,16 @@
       "year": 2013,
       "citation": "Gardner, S., & Nesi, H. (2013). A classification of genre families in university student writing. *Applied Linguistics, 34*(1), 25–52.",
       "doi": "10.1093/applin/ams024",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "ess.essay-types",
         "ess.headings",
         "crt.applying-theory",
         "ges.genre-families",
-        "ges.explanation-essay",
         "ges.short-answer",
         "ges.critique",
         "ges.annotated-bibliography",
         "ges.literature-review-assignment",
+        "ges.expository-essays",
         "grp.report-conventions",
         "grp.lab-report",
         "grp.case-study",
@@ -1087,7 +1152,7 @@
         "dse.software-documentation",
         "dse.mathematical-writing"
       ],
-      "citedInGuidance": 18,
+      "citedInGuidance": 17,
       "citedByDomains": [
         "GES",
         "GRP"
@@ -1098,20 +1163,24 @@
       "kind": "book",
       "year": 1993,
       "citation": "Bhatia, V. K. (1993). *Analysing genre: Language use in professional settings*. Longman. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grp.business-report",
         "grp.executive-summary",
         "grp.policy-brief",
+        "pub.personal-statements",
         "prg.formal-statements",
+        "prg.professional-applications",
         "dbe.professional-genres",
+        "dbe.consultancy-report",
         "dlw.legal-language",
         "dlw.case-reading",
         "dlw.statutes",
         "dad.artist-statement"
       ],
-      "citedInGuidance": 9,
+      "citedInGuidance": 12,
       "citedByDomains": [
+        "PRG",
         "DBE",
         "DLW"
       ]
@@ -1121,7 +1190,7 @@
       "kind": "book",
       "year": 2012,
       "citation": "Rose, D., & Martin, J. R. (2012). *Learning to write, reading to learn: Genre, knowledge and pedagogy in the Sydney School*. Equinox. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "fun.classifying",
         "fun.describing-process",
@@ -1143,11 +1212,11 @@
       "kind": "book",
       "year": 2008,
       "citation": "Martin, J. R., & Rose, D. (2008). *Genre relations: Mapping culture*. Equinox. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.argumentative-essay",
         "ges.discussion-essay",
-        "ges.explanation-essay",
+        "ges.expository-essays",
         "dse.scientific-explanation"
       ],
       "citedInGuidance": 4,
@@ -1158,7 +1227,7 @@
       "kind": "book",
       "year": 1985,
       "citation": "Trimble, L. (1985). *English for science and technology: A discourse approach*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "fun.defining",
         "fun.classifying",
@@ -1184,7 +1253,7 @@
       "kind": "book",
       "year": 1986,
       "citation": "Mohan, B. A. (1986). *Language and content*. Addison-Wesley. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "fun.classifying",
         "fun.describing-structure",
@@ -1201,7 +1270,7 @@
       "kind": "book",
       "year": 1983,
       "citation": "Hoey, M. (1983). *On the surface of discourse*. George Allen & Unwin. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "coh.text-patterns",
         "fun.problem-solution",
@@ -1209,10 +1278,9 @@
         "par.support",
         "ess.body-organisation",
         "crt.problem-solving",
-        "ges.problem-solution-essay",
         "dss.policy-analysis"
       ],
-      "citedInGuidance": 8,
+      "citedInGuidance": 7,
       "citedByDomains": [
         "FUN"
       ]
@@ -1222,14 +1290,14 @@
       "kind": "book",
       "year": 2001,
       "citation": "Hoey, M. (2001). *Textual interaction: An introduction to written discourse analysis*. Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "coh.cohesion-vs-coherence",
         "coh.text-patterns",
         "coh.paragraph-transitions",
         "fun.problem-solution",
         "rds.text-organisation",
-        "ges.problem-solution-essay"
+        "ges.expository-essays"
       ],
       "citedInGuidance": 7,
       "citedByDomains": [
@@ -1241,7 +1309,7 @@
       "kind": "book",
       "year": 1976,
       "citation": "Halliday, M. A. K., & Hasan, R. (1976). *Cohesion in English*. Longman. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.reference-pronouns",
         "grm.ellipsis-substitution",
@@ -1261,7 +1329,7 @@
       "kind": "chapter",
       "year": 1974,
       "citation": "Daneš, F. (1974). Functional sentence perspective and the organization of the text. In F. Daneš (Ed.), *Papers on functional sentence perspective* (pp. 106–128). Academia. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "coh.thematic-progression",
         "par.internal-coherence"
@@ -1277,18 +1345,19 @@
       "kind": "book",
       "year": 1989,
       "citation": "Halliday, M. A. K. (1989). *Spoken and written language* (2nd ed.). Oxford University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.spoken-vs-written",
         "reg.information-density",
         "grm.nominalisation",
         "grm.phrasal-complexity",
+        "grm.spoken-grammar",
         "sen.sentence-length-variety",
         "prs.structure",
         "prs.speaking-from-notes",
         "prs.recorded-online"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 7,
       "citedByDomains": [
         "REG"
       ]
@@ -1298,7 +1367,7 @@
       "kind": "book",
       "year": 1993,
       "citation": "Halliday, M. A. K., & Martin, J. R. (1993). *Writing science: Literacy and discursive power*. Falmer Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.information-density",
         "grm.nominalisation",
@@ -1307,11 +1376,10 @@
         "fun.defining",
         "fun.cause-effect",
         "rds.textbook-reading",
-        "ges.explanation-essay",
         "dse.scientific-language",
         "dse.scientific-explanation"
       ],
-      "citedInGuidance": 9,
+      "citedInGuidance": 8,
       "citedByDomains": [
         "DSE"
       ]
@@ -1321,7 +1389,7 @@
       "kind": "book",
       "year": 2014,
       "citation": "Halliday, M. A. K., & Matthiessen, C. M. I. M. (2014). *Halliday's introduction to functional grammar* (4th ed.). Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.clefts-emphasis",
         "grm.fronting-inversion",
@@ -1336,7 +1404,7 @@
       "kind": "book",
       "year": 2014,
       "citation": "Thompson, G. (2014). *Introducing functional grammar* (3rd ed.). Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.register-awareness",
         "grm.clefts-emphasis",
@@ -1354,7 +1422,7 @@
       "kind": "book",
       "year": 2004,
       "citation": "Schleppegrell, M. J. (2004). *The language of schooling: A functional linguistics perspective*. Lawrence Erlbaum. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.nominalisation",
         "fun.cause-effect",
@@ -1387,7 +1455,7 @@
       "year": 2012,
       "citation": "Crossley, S. A., & McNamara, D. S. (2012). Predicting second language writing proficiency: The roles of cohesion and linguistic sophistication. *Journal of Research in Reading, 35*(2), 115–135.",
       "doi": "10.1111/j.1467-9817.2010.01449.x",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "coh.cohesion-vs-coherence",
         "par.internal-coherence"
@@ -1402,20 +1470,19 @@
       "kind": "book",
       "year": 2006,
       "citation": "Kress, G., & van Leeuwen, T. (2006). *Reading images: The grammar of visual design* (2nd ed.). Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rds.visuals-in-text",
         "prs.slide-design",
         "prs.posters",
         "mmd.multimodal-literacy",
-        "mmd.poster-design",
         "mmd.infographics",
         "mmd.digital-assessments",
         "dad.artist-statement",
         "dad.design-rationale",
         "dad.visual-analysis"
       ],
-      "citedInGuidance": 10,
+      "citedInGuidance": 9,
       "citedByDomains": [
         "MMD",
         "DAD"
@@ -1426,29 +1493,33 @@
       "kind": "book",
       "year": 2006,
       "citation": "Biber, D. (2006). *University language: A corpus-based study of spoken and written registers*. John Benjamins. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.multiword-verbs-register",
         "phr.spoken-academic-formulas",
         "reg.register-awareness",
         "reg.spoken-vs-written",
+        "grm.spoken-grammar",
         "sta.spoken-stance",
         "lis.digressions",
         "lis.speaker-stance",
         "lis.spoken-instructions",
         "prs.speaking-from-notes",
         "acu.teaching-formats",
-        "prg.office-hours"
+        "prg.office-hours",
+        "prg.informal-academic-interaction"
       ],
-      "citedInGuidance": 12,
-      "citedByDomains": []
+      "citedInGuidance": 14,
+      "citedByDomains": [
+        "PRG"
+      ]
     },
     {
       "key": "biber1999lgswe",
       "kind": "book",
       "year": 1999,
       "citation": "Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (1999). *Longman grammar of spoken and written English*. Longman. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.academic-verbs",
         "voc.multiword-verbs-register",
@@ -1479,16 +1550,18 @@
         "grm.linking-adverbial-placement",
         "grm.reporting-structures",
         "grm.ellipsis-substitution",
+        "grm.spoken-grammar",
+        "grm.genitive-noun-modifiers",
+        "grm.unaccusative-verbs",
         "sen.sentence-types",
         "sen.clarity-end-weight",
         "coh.linking-adverbials",
-        "coh.connector-precision",
         "sta.concession-language",
         "dat.describing-trends",
         "dat.describing-proportions",
         "num.number-expressions"
       ],
-      "citedInGuidance": 33,
+      "citedInGuidance": 35,
       "citedByDomains": [
         "GRM",
         "SEN"
@@ -1500,7 +1573,7 @@
       "year": 2010,
       "citation": "Biber, D., & Gray, B. (2010). Challenging stereotypes about academic writing: Complexity, elaboration, explicitness. *Journal of English for Academic Purposes, 9*(1), 2–20.",
       "doi": "10.1016/j.jeap.2010.01.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.spoken-vs-written",
         "reg.information-density",
@@ -1511,6 +1584,7 @@
         "sen.sentence-types",
         "sen.sentence-length-variety",
         "sen.clarity-end-weight",
+        "coh.writer-responsibility",
         "rdp.parsing-complex-sentences",
         "rds.inference",
         "edt.style-editing"
@@ -1526,16 +1600,17 @@
       "kind": "book",
       "year": 2016,
       "citation": "Biber, D., & Gray, B. (2016). *Grammatical complexity in academic English: Linguistic change in writing*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.information-density",
         "grm.np-premodification",
         "grm.nominalisation",
+        "grm.genitive-noun-modifiers",
         "sen.concision",
         "rdp.parsing-complex-sentences",
         "dse.scientific-language"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 7,
       "citedByDomains": [
         "GRM"
       ]
@@ -1546,7 +1621,7 @@
       "year": 2011,
       "citation": "Biber, D., Gray, B., & Poonpon, K. (2011). Should we use characteristics of conversation to measure grammatical complexity in L2 writing development? *TESOL Quarterly, 45*(1), 5–35.",
       "doi": "10.5054/tq.2011.244483",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.np-postmodification",
         "grm.phrasal-complexity",
@@ -1563,7 +1638,7 @@
       "kind": "book",
       "year": 2019,
       "citation": "Biber, D., & Conrad, S. (2019). *Register, genre, and style* (2nd ed.). Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.register-awareness",
         "reg.non-specialist-audiences"
@@ -1579,16 +1654,16 @@
       "year": 2004,
       "citation": "Biber, D., Conrad, S., & Cortes, V. (2004). If you look at…: Lexical bundles in university teaching and textbooks. *Applied Linguistics, 25*(3), 371–405.",
       "doi": "10.1093/applin/25.3.371",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "phr.bundles-research-oriented",
         "phr.bundles-text-oriented",
         "phr.bundles-stance",
         "phr.spoken-academic-formulas",
         "grm.anticipatory-it",
-        "coh.spoken-signposting",
         "lis.lecture-discourse-markers",
-        "lis.spoken-instructions"
+        "lis.spoken-instructions",
+        "prs.signposting"
       ],
       "citedInGuidance": 8,
       "citedByDomains": [
@@ -1616,7 +1691,7 @@
       "year": 2011,
       "citation": "Lu, X. (2011). A corpus-based evaluation of syntactic complexity measures as indices of college-level ESL writers' language development. *TESOL Quarterly, 45*(1), 36–62.",
       "doi": "10.5054/tq.2011.240859",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.phrasal-complexity",
         "grm.coordination-parallelism",
@@ -1630,7 +1705,7 @@
       "kind": "book",
       "year": 1999,
       "citation": "Celce-Murcia, M., & Larsen-Freeman, D. (1999). *The grammar book: An ESL/EFL teacher's course* (2nd ed.). Heinle & Heinle. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.countability-academic-nouns",
         "grm.clause-elements",
@@ -1649,16 +1724,18 @@
         "grm.comparison-structures",
         "grm.prepositions",
         "grm.ellipsis-substitution",
+        "grm.genitive-noun-modifiers",
+        "grm.unaccusative-verbs",
         "sen.sentence-types",
         "sen.sentence-boundaries",
         "sen.commas",
-        "coh.connector-precision",
+        "coh.linking-adverbials",
         "fun.hypothesising",
         "dat.describing-proportions",
         "dat.describing-diagrams",
         "num.number-expressions"
       ],
-      "citedInGuidance": 20,
+      "citedInGuidance": 22,
       "citedByDomains": [
         "GRM",
         "SEN"
@@ -1670,7 +1747,7 @@
       "year": 1997,
       "citation": "Master, P. (1997). The English article system: Acquisition, function, and pedagogy. *System, 25*(2), 215–232.",
       "doi": "10.1016/S0346-251X(97)00010-9",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.articles"
       ],
@@ -1683,7 +1760,7 @@
       "year": 1998,
       "citation": "Tarone, E., Dwyer, S., Gillette, S., & Icke, V. (1998). On the use of the passive and active voice in astrophysics journal papers: With extensions to other languages and other fields. *English for Specific Purposes, 17*(1), 113–132.",
       "doi": "10.1016/S0889-4906(97)00032-X",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.impersonality-presence",
         "grm.passive-voice"
@@ -1697,7 +1774,7 @@
       "year": 1992,
       "citation": "Shaw, P. (1992). Reasons for the correlation of voice, tense, and sentence function in reporting verbs. *Applied Linguistics, 13*(3), 302–319.",
       "doi": "10.1093/applin/13.3.302",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.tense-in-reporting"
       ],
@@ -1709,11 +1786,10 @@
       "kind": "book",
       "year": 2002,
       "citation": "Hinkel, E. (2002). *Second language writers' text: Linguistic and rhetorical features*. Lawrence Erlbaum. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.vague-overgeneralised",
-        "grm.tense-aspect",
-        "coh.linking-adverbials"
+        "grm.tense-aspect"
       ],
       "citedInGuidance": 3,
       "citedByDomains": []
@@ -1723,7 +1799,7 @@
       "kind": "book",
       "year": 2004,
       "citation": "Hinkel, E. (2004). *Teaching academic ESL writing: Practical techniques in vocabulary and grammar*. Lawrence Erlbaum. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.word-families-morphology",
         "voc.academic-verbs",
@@ -1732,7 +1808,7 @@
         "voc.countability-academic-nouns",
         "reg.vague-overgeneralised",
         "grm.relative-clauses",
-        "sta.generalisation-qualification",
+        "sta.hedging",
         "edt.style-editing"
       ],
       "citedInGuidance": 9,
@@ -1746,7 +1822,7 @@
       "year": 2017,
       "citation": "Hyland, K., & Jiang, F. (K.). (2017). Is academic writing becoming more informal? *English for Specific Purposes, 45*, 40–51.",
       "doi": "10.1016/j.esp.2016.09.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "reg.formality-features",
         "reg.style-myths-variation",
@@ -1769,9 +1845,10 @@
         "reg.style-myths-variation",
         "grm.reference-pronouns",
         "sen.sentence-boundaries",
-        "sta.engagement-markers"
+        "sta.engagement-markers",
+        "acu.critical-eap"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 6,
       "citedByDomains": [
         "REG"
       ]
@@ -1781,7 +1858,7 @@
       "kind": "book",
       "year": 2002,
       "citation": "Hunston, S. (2002). *Corpora in applied linguistics*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.precision-near-synonyms",
         "voc.word-grammar-patterns",
@@ -1797,15 +1874,14 @@
       "kind": "book",
       "year": 1998,
       "citation": "Granger, S. (Ed.). (1998). *Learner English on computer*. Longman. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "phr.verb-noun-collocation-accuracy",
         "grm.linking-adverbial-placement",
         "coh.linking-adverbials",
-        "coh.connector-precision",
         "sta.boosters"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 4,
       "citedByDomains": []
     },
     {
@@ -1814,12 +1890,12 @@
       "year": 2017,
       "citation": "Boulton, A., & Cobb, T. (2017). Corpus use in language learning: A meta-analysis. *Language Learning, 67*(2), 348–393.",
       "doi": "10.1111/lang.12224",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "phr.corpus-consultation",
         "dat.describing-trends"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 4,
       "citedByDomains": [
         "PHR"
       ]
@@ -1830,7 +1906,7 @@
       "year": 2004,
       "citation": "Yoon, H., & Hirvela, A. (2004). ESL student attitudes toward corpus use in L2 writing. *Journal of Second Language Writing, 13*(4), 257–283.",
       "doi": "10.1016/j.jslw.2004.06.002",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "phr.corpus-consultation"
       ],
@@ -1843,7 +1919,7 @@
       "year": 2007,
       "citation": "Charles, M. (2007). Reconciling top-down and bottom-up approaches to graduate writing: Using a corpus to teach rhetorical functions. *Journal of English for Academic Purposes, 6*(4), 289–302.",
       "doi": "10.1016/j.jeap.2007.09.009",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "phr.corpus-consultation",
         "phr.phrasebank-use"
@@ -1856,7 +1932,7 @@
       "kind": "standard",
       "year": 2020,
       "citation": "American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.countability-academic-nouns",
         "voc.spelling-conventions",
@@ -1865,11 +1941,8 @@
         "grm.coordination-parallelism",
         "sen.commas",
         "sen.semicolons-colons",
-        "sen.apostrophes-hyphens-dashes",
-        "sen.capitalisation",
-        "sen.quotation-punctuation",
-        "sen.numbers-units-style",
         "sen.lists-bullets",
+        "sen.punctuation-mechanics",
         "wpr.formatting",
         "ess.headings",
         "ess.titles",
@@ -1892,13 +1965,15 @@
         "num.mathematical-expression",
         "mmd.accessibility",
         "dig.reference-managers",
-        "dig.word-processing"
+        "dig.word-processing",
+        "dss.psychology-research-report"
       ],
-      "citedInGuidance": 36,
+      "citedInGuidance": 34,
       "citedByDomains": [
         "SEN",
         "CIT",
-        "DIG"
+        "DIG",
+        "DSS"
       ]
     },
     {
@@ -1906,16 +1981,15 @@
       "kind": "standard",
       "year": 2021,
       "citation": "Modern Language Association of America. (2021). *MLA handbook* (9th ed.). |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "sen.capitalisation",
-        "sen.quotation-punctuation",
+        "sen.punctuation-mechanics",
         "wpr.formatting",
         "cit.reference-list",
         "cit.diverse-sources",
         "cit.locators"
       ],
-      "citedInGuidance": 7,
+      "citedInGuidance": 6,
       "citedByDomains": []
     },
     {
@@ -1923,24 +1997,22 @@
       "kind": "standard",
       "year": 2024,
       "citation": "University of Chicago Press. (2024). *The Chicago manual of style* (18th ed.). |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.abbreviations-latin",
         "reg.inclusive-language",
         "sen.commas",
         "sen.semicolons-colons",
-        "sen.apostrophes-hyphens-dashes",
-        "sen.capitalisation",
-        "sen.quotation-punctuation",
-        "sen.numbers-units-style",
         "sen.lists-bullets",
+        "sen.punctuation-mechanics",
         "cit.referencing-systems",
         "cit.note-based",
         "cit.reference-list",
         "cit.diverse-sources",
+        "num.number-expressions",
         "dhu.primary-sources"
       ],
-      "citedInGuidance": 15,
+      "citedInGuidance": 13,
       "citedByDomains": [
         "SEN"
       ]
@@ -1957,9 +2029,10 @@
         "cit.note-based",
         "cit.locators",
         "dlw.problem-questions",
-        "dlw.legal-essays"
+        "dlw.legal-essays",
+        "dlw.legal-research-writing"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 6,
       "citedByDomains": [
         "DLW"
       ]
@@ -1989,13 +2062,14 @@
         "cit.numeric",
         "int.recycling-own-work",
         "int.research-integrity",
+        "res.acknowledgements",
         "pub.peer-review-reports",
         "pub.authorship",
-        "prg.acknowledgements",
+        "pub.open-research",
         "gai.acknowledging-use",
         "gai.privacy-ip"
       ],
-      "citedInGuidance": 10,
+      "citedInGuidance": 11,
       "citedByDomains": []
     },
     {
@@ -2329,6 +2403,7 @@
       "citedByTopics": [
         "sen.concision",
         "coh.frame-markers",
+        "coh.writer-responsibility",
         "sta.metadiscourse",
         "sta.code-glosses",
         "fun.exemplifying",
@@ -2338,7 +2413,7 @@
         "arg.rhetorical-appeals",
         "res.chapter-metatext"
       ],
-      "citedInGuidance": 10,
+      "citedInGuidance": 11,
       "citedByDomains": [
         "STA"
       ]
@@ -2352,7 +2427,6 @@
       "verification": "web-verified",
       "citedByTopics": [
         "sta.metadiscourse",
-        "sta.hedging",
         "sta.boosters",
         "sta.attitude-markers",
         "sta.engagement-markers",
@@ -2392,7 +2466,6 @@
         "grm.epistemic-modality",
         "sta.hedging",
         "sta.claim-calibration",
-        "sta.generalisation-qualification",
         "fun.hypothesising",
         "rds.fact-opinion-claim",
         "res.limitations",
@@ -2400,7 +2473,7 @@
         "num.approximation",
         "dse.hypothesis-language"
       ],
-      "citedInGuidance": 10,
+      "citedInGuidance": 9,
       "citedByDomains": [
         "STA"
       ]
@@ -2414,10 +2487,9 @@
       "verification": "web-verified",
       "citedByTopics": [
         "sta.hedging",
-        "sta.generalisation-qualification",
         "num.approximation"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -2467,8 +2539,8 @@
         "reg.style-myths-variation",
         "reg.impersonality-presence",
         "sta.self-mention",
-        "idn.academic-identity",
-        "res.positionality-writing"
+        "res.positionality-writing",
+        "idn.academic-identity"
       ],
       "citedInGuidance": 4,
       "citedByDomains": []
@@ -2486,9 +2558,10 @@
         "sta.concession-language",
         "rds.writer-stance",
         "arg.rebuttal-concession",
+        "dbe.accounting-finance-discourse",
         "dhu.interpretive-argument"
       ],
-      "citedInGuidance": 7,
+      "citedInGuidance": 8,
       "citedByDomains": [
         "STA"
       ]
@@ -2505,7 +2578,7 @@
         "sta.attitude-markers",
         "sta.averral-attribution",
         "fun.evaluating",
-        "src.signal-phrases",
+        "src.reporting-verbs",
         "src.voice-boundaries"
       ],
       "citedInGuidance": 7,
@@ -2547,7 +2620,9 @@
         "arg.position"
       ],
       "citedInGuidance": 5,
-      "citedByDomains": []
+      "citedByDomains": [
+        "ARG"
+      ]
     },
     {
       "key": "aulllancaster2014",
@@ -2602,12 +2677,12 @@
       "citation": "Pecorari, D. (2013). *Teaching to avoid plagiarism: How to promote good source use*. Open University Press. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "sen.quotation-punctuation",
+        "sen.punctuation-mechanics",
         "ntk.notes-from-reading",
         "par.integrating-evidence",
         "src.quoting",
         "src.integrating-quotations",
-        "src.signal-phrases",
+        "src.reporting-verbs",
         "cit.why-cite",
         "cit.when-to-cite",
         "int.similarity-reports",
@@ -2731,7 +2806,6 @@
         "rds.writer-stance",
         "sem.citing-in-speech",
         "par.integrating-evidence",
-        "src.source-functions",
         "src.quoting",
         "src.reporting-verbs",
         "src.citation-forms",
@@ -2740,7 +2814,7 @@
         "cit.citation-functions",
         "cit.disciplinary-citation"
       ],
-      "citedInGuidance": 14,
+      "citedInGuidance": 13,
       "citedByDomains": [
         "SRC",
         "CIT"
@@ -2755,7 +2829,6 @@
       "verification": "web-verified",
       "verificationNote": "Work confirmed; DOI not confirmed by the verifier.",
       "citedByTopics": [
-        "src.source-functions",
         "src.citation-forms",
         "cit.why-cite",
         "cit.citation-functions"
@@ -2793,7 +2866,6 @@
       "citedByTopics": [
         "sta.evaluating-others-language",
         "par.integrating-evidence",
-        "src.source-functions",
         "src.integrating-quotations",
         "syn.relating-sources",
         "syn.synthesis-paragraphs",
@@ -2801,7 +2873,7 @@
         "grp.dissertation-overview",
         "res.literature-review"
       ],
-      "citedInGuidance": 9,
+      "citedInGuidance": 8,
       "citedByDomains": [
         "PAR",
         "CIT"
@@ -2815,11 +2887,9 @@
       "doi": "10.1016/j.asw.2011.09.002",
       "verification": "web-verified",
       "citedByTopics": [
-        "rdc.reading-for-writing",
-        "syn.integrated-tasks",
-        "tst.integrated-test-tasks"
+        "syn.integrated-tasks"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "SYN"
       ]
@@ -2833,10 +2903,9 @@
       "verification": "web-verified",
       "citedByTopics": [
         "wpr.reading-to-write",
-        "syn.integrated-tasks",
-        "tst.integrated-test-tasks"
+        "syn.integrated-tasks"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "WPR"
       ]
@@ -2850,12 +2919,11 @@
       "verification": "web-verified",
       "verificationNote": "Checked by the curator against online records.",
       "citedByTopics": [
-        "rdc.reading-for-writing",
         "wpr.reading-to-write",
         "syn.integrated-tasks",
         "ges.summary-response"
       ],
-      "citedInGuidance": 4,
+      "citedInGuidance": 3,
       "citedByDomains": [
         "SYN"
       ]
@@ -2867,8 +2935,6 @@
       "citation": "Hirvela, A. (2004). *Connecting reading and writing in second language writing instruction*. University of Michigan Press. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "rdc.reading-for-writing",
-        "wpr.reading-to-write",
         "syn.integrated-tasks",
         "ges.summary-response"
       ],
@@ -3011,9 +3077,10 @@
         "inf.search-records",
         "inf.open-access",
         "inf.systematic-searching",
-        "cit.why-cite"
+        "cit.why-cite",
+        "cit.citation-politics"
       ],
-      "citedInGuidance": 14,
+      "citedInGuidance": 15,
       "citedByDomains": [
         "INF"
       ]
@@ -3146,7 +3213,7 @@
         "rdp.background-knowledge",
         "rds.paragraph-structure-reading",
         "rds.text-organisation",
-        "ges.compare-contrast-essay"
+        "ges.expository-essays"
       ],
       "citedInGuidance": 6,
       "citedByDomains": [
@@ -3159,7 +3226,7 @@
       "year": 2002,
       "citation": "Mokhtari, K., & Reichard, C. A. (2002). Assessing students' metacognitive awareness of reading strategies. *Journal of Educational Psychology, 94*(2), 249–259.",
       "doi": "10.1037/0022-0663.94.2.249",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.reading-purpose",
         "rds.previewing",
@@ -3176,7 +3243,7 @@
       "year": 2001,
       "citation": "Sheorey, R., & Mokhtari, K. (2001). Differences in the metacognitive awareness of reading strategies among native and non-native readers. *System, 29*(4), 431–449.",
       "doi": "10.1016/S0346-251X(01)00039-2",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.plurilingual-reading",
         "rds.comprehension-monitoring"
@@ -3190,11 +3257,12 @@
       "year": 1984,
       "citation": "Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175.",
       "doi": "10.1207/s1532690xci0102_1",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "rds.comprehension-monitoring"
+        "rds.comprehension-monitoring",
+        "sem.explaining-concepts"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 3,
       "citedByDomains": [
         "RDS"
       ]
@@ -3205,7 +3273,7 @@
       "year": 2016,
       "citation": "Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So much to read, so little time: How do we read, and can speed reading help? *Psychological Science in the Public Interest, 17*(1), 4–34.",
       "doi": "10.1177/1529100615623267",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.word-recognition",
         "rdp.reading-fluency-rate",
@@ -3222,7 +3290,7 @@
       "kind": "book",
       "year": 1998,
       "citation": "Day, R. R., & Bamford, J. (1998). *Extensive reading in the second language classroom*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.extensive-reading"
       ],
@@ -3250,7 +3318,8 @@
       "year": 2012,
       "citation": "Beglar, D., Hunt, A., & Kite, Y. (2012). The effect of pleasure reading on Japanese university EFL learners' reading rates. *Language Learning, 62*(3), 665–703.",
       "doi": "10.1111/j.1467-9922.2011.00651.x",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "rdp.extensive-reading"
       ],
@@ -3262,7 +3331,7 @@
       "kind": "book",
       "year": 2009,
       "citation": "Nation, I. S. P. (2009). *Teaching ESL/EFL reading and writing*. Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.reading-fluency-rate",
         "rdp.extensive-reading"
@@ -3277,7 +3346,7 @@
       "kind": "book",
       "year": 2016,
       "citation": "Wallace, M., & Wray, A. (2016). *Critical reading and writing for postgraduates* (3rd ed.). SAGE. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rds.research-article-navigation",
         "rdc.critical-reading",
@@ -3288,7 +3357,6 @@
         "rdc.methods-critique",
         "rdc.literature-mapping",
         "rdc.theoretical-texts",
-        "rdc.critical-questions",
         "rdc.critical-response",
         "inf.source-types",
         "crt.questioning",
@@ -3296,7 +3364,7 @@
         "ges.critique",
         "ges.literature-review-assignment"
       ],
-      "citedInGuidance": 16,
+      "citedInGuidance": 15,
       "citedByDomains": [
         "RDC"
       ]
@@ -3306,7 +3374,7 @@
       "kind": "book",
       "year": 2008,
       "citation": "Field, J. (2008). *Listening in the language classroom*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.listening-processes",
         "lis.connected-speech",
@@ -3326,7 +3394,7 @@
       "kind": "book",
       "year": 1994,
       "citation": "Flowerdew, J. (Ed.). (1994). *Academic listening: Research perspectives*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.lecture-structure",
         "ntk.lecture-notes"
@@ -3344,11 +3412,10 @@
       "verification": "web-verified",
       "verificationNote": "Checked by the curator against online records.",
       "citedByTopics": [
-        "coh.spoken-signposting",
         "lis.lecture-structure",
         "lis.digressions"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "LIS"
       ]
@@ -3358,7 +3425,7 @@
       "kind": "book",
       "year": 2005,
       "citation": "Flowerdew, J., & Miller, L. (2005). *Second language listening: Theory and practice*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.accent-variation",
         "lis.digressions",
@@ -3374,7 +3441,7 @@
       "kind": "book",
       "year": 2012,
       "citation": "Vandergrift, L., & Goh, C. C. M. (2012). *Teaching and learning second language listening: Metacognition in action*. Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.listening-processes",
         "lis.pre-listening-preparation",
@@ -3392,7 +3459,7 @@
       "year": 2011,
       "citation": "Lynch, T. (2011). Academic listening in the 21st century: Reviewing a decade of research. *Journal of English for Academic Purposes, 10*(2), 79–88.",
       "doi": "10.1016/j.jeap.2011.03.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.lecture-structure",
         "lis.relevance-markers",
@@ -3411,7 +3478,7 @@
       "kind": "book",
       "year": 2011,
       "citation": "Rost, M. (2011). *Teaching and researching listening* (2nd ed.). Pearson Education. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.listening-processes",
         "lis.connected-speech",
@@ -3428,15 +3495,14 @@
       "year": 1986,
       "citation": "Chaudron, C., & Richards, J. C. (1986). The effect of discourse markers on the comprehension of lectures. *Applied Linguistics, 7*(2), 113–127.",
       "doi": "10.1093/applin/7.2.113",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "coh.spoken-signposting",
         "lis.lecture-discourse-markers",
         "ntk.lecture-notes",
         "prs.structure",
         "prs.signposting"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 4,
       "citedByDomains": []
     },
     {
@@ -3463,14 +3529,13 @@
       "verification": "web-verified",
       "verificationNote": "Checked by the curator against online records.",
       "citedByTopics": [
-        "coh.spoken-signposting",
         "lis.lecture-discourse-markers",
         "lis.relevance-markers",
         "prs.structure",
         "prs.signposting",
         "prn.intonation"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 5,
       "citedByDomains": []
     },
     {
@@ -3479,7 +3544,7 @@
       "year": 2000,
       "citation": "Goh, C. C. M. (2000). A cognitive perspective on language learners' listening comprehension problems. *System, 28*(1), 55–75.",
       "doi": "10.1016/S0346-251X(99)00060-3",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.listening-processes",
         "lis.connected-speech",
@@ -3495,7 +3560,7 @@
       "year": 2006,
       "citation": "Graham, S. (2006). Listening comprehension: The learners' perspective. *System, 34*(2), 165–182.",
       "doi": "10.1016/j.system.2005.11.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.speech-rate"
       ],
@@ -3508,7 +3573,7 @@
       "year": 1992,
       "citation": "Griffiths, R. (1992). Speech rate and listening comprehension: Further evidence of the relationship. *TESOL Quarterly, 26*(2), 385–390.",
       "doi": "10.2307/3587015",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.speech-rate"
       ],
@@ -3521,7 +3586,7 @@
       "year": 2002,
       "citation": "Major, R. C., Fitzmaurice, S. F., Bunta, F., & Balasubramanian, C. (2002). The effects of nonnative accents on listening comprehension: Implications for ESL assessment. *TESOL Quarterly, 36*(2), 173–190.",
       "doi": "10.2307/3588329",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.accent-variation"
       ],
@@ -3534,7 +3599,7 @@
       "year": 1985,
       "citation": "Kiewra, K. A. (1985). Investigating notetaking and review: A depth of processing alternative. *Educational Psychologist, 20*(1), 23–32.",
       "doi": "10.1207/s15326985ep2001_4",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rds.annotation",
         "ntk.functions-of-notes",
@@ -3555,7 +3620,7 @@
       "year": 2014,
       "citation": "Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168.",
       "doi": "10.1177/0956797614524581",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ntk.functions-of-notes",
         "ntk.digital-notes"
@@ -3571,7 +3636,7 @@
       "year": 2019,
       "citation": "Morehead, K., Dunlosky, J., & Rawson, K. A. (2019). How much mightier is the pen than the keyboard for note-taking? A replication and extension of Mueller and Oppenheimer (2014). *Educational Psychology Review, 31*(3), 753–780.",
       "doi": "10.1007/s10648-019-09468-2",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ntk.digital-notes"
       ],
@@ -3586,7 +3651,7 @@
       "year": 2006,
       "citation": "Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448.",
       "doi": "10.3102/00346543076003413",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ntk.note-formats"
       ],
@@ -3601,7 +3666,8 @@
       "year": 1996,
       "citation": "Ferris, D., & Tagg, T. (1996). Academic oral communication needs of EAP learners: What subject-matter instructors actually require. *TESOL Quarterly, 30*(1), 31–58.",
       "doi": "10.2307/3587606",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "lis.multi-party-discussion",
         "sem.seminar-purposes",
@@ -3622,7 +3688,7 @@
       "year": 1998,
       "citation": "Ferris, D. (1998). Students' views of academic aural/oral skills: A comparative needs analysis. *TESOL Quarterly, 32*(2), 289–318.",
       "doi": "10.2307/3587585",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "sem.preparation",
         "sem.turn-taking",
@@ -3637,7 +3703,8 @@
       "year": 2002,
       "citation": "Basturkmen, H. (2002). Negotiating meaning in seminar-type discussion and EAP. *English for Specific Purposes, 21*(3), 233–242.",
       "doi": "10.1016/S0889-4906(01)00024-2",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "sta.spoken-stance",
         "lis.multi-party-discussion",
@@ -3660,6 +3727,7 @@
       "citation": "Basturkmen, H. (2003). So what happens when the tutor walks in? Some observations on interaction in a university discussion group with and without the tutor. *Journal of English for Academic Purposes, 2*(1), 21–33.",
       "doi": "10.1016/S1475-1585(02)00043-7",
       "verification": "unverified",
+      "verificationNote": "Believed correct; not confirmed online during verification.",
       "citedByTopics": [
         "lis.multi-party-discussion",
         "sem.seminar-purposes",
@@ -3679,6 +3747,7 @@
       "citation": "Aguilar, M. (2004). The peer seminar, a spoken research process genre. *Journal of English for Academic Purposes, 3*(1), 55–72.",
       "doi": "10.1016/j.jeap.2003.09.001",
       "verification": "unverified",
+      "verificationNote": "Believed correct; not confirmed online during verification.",
       "citedByTopics": [
         "prs.research-presentations"
       ],
@@ -3691,7 +3760,8 @@
       "year": 2005,
       "citation": "Hood, S., & Forey, G. (2005). Introducing a conference paper: Getting interpersonal with your audience. *Journal of English for Academic Purposes, 4*(4), 291–306.",
       "doi": "10.1016/j.jeap.2005.07.003",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "prs.purpose-audience",
         "prs.openings"
@@ -3707,13 +3777,15 @@
       "year": 2005,
       "citation": "Rowley-Jolivet, E., & Carter-Thomas, S. (2005). The rhetoric of conference presentation introductions: Context, argument and interaction. *International Journal of Applied Linguistics, 15*(1), 45–70.",
       "doi": "10.1111/j.1473-4192.2005.00080.x",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "prs.purpose-audience",
         "prs.openings",
-        "prs.research-presentations"
+        "prs.research-presentations",
+        "prs.research-pitches"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 4,
       "citedByDomains": [
         "PRS"
       ]
@@ -3724,7 +3796,7 @@
       "year": 2002,
       "citation": "Rowley-Jolivet, E. (2002). Visual discourse in scientific conference papers: A genre-based study. *English for Specific Purposes, 21*(1), 19–40.",
       "doi": "10.1016/S0889-4906(00)00024-7",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lis.multimodal-lectures",
         "prs.slide-design",
@@ -3749,9 +3821,10 @@
       "verificationNote": "Checked by the curator against online records.",
       "citedByTopics": [
         "prs.handling-questions",
-        "prs.research-presentations"
+        "prs.research-presentations",
+        "pub.conference-participation"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 3,
       "citedByDomains": [
         "PRS"
       ]
@@ -3762,15 +3835,14 @@
       "year": 2007,
       "citation": "MacIntosh-Murray, A. (2007). Poster presentations as a genre in knowledge communication: A case study of forms, norms, and values. *Science Communication, 28*(3), 347–376.",
       "doi": "10.1177/1075547006298251",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
-        "prs.posters",
-        "mmd.poster-design"
+        "prs.posters"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 1,
       "citedByDomains": [
-        "PRS",
-        "MMD"
+        "PRS"
       ]
     },
     {
@@ -3778,7 +3850,7 @@
       "kind": "book",
       "year": 2015,
       "citation": "Derwing, T. M., & Munro, M. J. (2015). *Pronunciation fundamentals: Evidence-based perspectives for L2 teaching and research*. John Benjamins. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prs.delivery-voice",
         "prn.intelligibility",
@@ -3800,7 +3872,7 @@
       "year": 1995,
       "citation": "Munro, M. J., & Derwing, T. M. (1995). Foreign accent, comprehensibility, and intelligibility in the speech of second language learners. *Language Learning, 45*(1), 73–97.",
       "doi": "10.1111/j.1467-1770.1995.tb00963.x",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prn.intelligibility"
       ],
@@ -3815,7 +3887,7 @@
       "year": 2005,
       "citation": "Levis, J. M. (2005). Changing contexts and shifting paradigms in pronunciation teaching. *TESOL Quarterly, 39*(3), 369–377.",
       "doi": "10.2307/3588485",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prn.intelligibility"
       ],
@@ -3828,13 +3900,14 @@
       "key": "jenkins2000",
       "kind": "book",
       "year": 2000,
-      "citation": "Jenkins, J. (2000). *The phonology of English as an international language*. Oxford University Press. |",
-      "verification": "unverified",
+      "citation": "Jenkins, J. (2000). *The phonology of English as an international language: New models, new norms, new goals*. Oxford University Press. |",
+      "verification": "web-verified",
+      "verificationNote": "Details corrected during verification.",
       "citedByTopics": [
         "prn.segmental-priorities",
         "prn.connected-speech-production"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 4,
       "citedByDomains": [
         "PRN"
       ]
@@ -3845,7 +3918,7 @@
       "year": 2005,
       "citation": "Field, J. (2005). Intelligibility and the listener: The role of lexical stress. *TESOL Quarterly, 39*(3), 399–423.",
       "doi": "10.2307/3588487",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prn.word-stress",
         "prn.technical-terms"
@@ -3861,7 +3934,7 @@
       "year": 2004,
       "citation": "Hahn, L. D. (2004). Primary stress and intelligibility: Research to motivate the teaching of suprasegmentals. *TESOL Quarterly, 38*(2), 201–223.",
       "doi": "10.2307/3588378",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prs.delivery-voice",
         "prn.prominence"
@@ -3877,12 +3950,13 @@
       "year": 2001,
       "citation": "Pickering, L. (2001). The role of tone choice in improving ITA communication in the classroom. *TESOL Quarterly, 35*(2), 233–255.",
       "doi": "10.2307/3587647",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prs.delivery-voice",
-        "prn.intonation"
+        "prn.intonation",
+        "res.teaching-as-pgr"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -3890,7 +3964,7 @@
       "kind": "book",
       "year": 1989,
       "citation": "Levelt, W. J. M. (1989). *Speaking: From intention to articulation*. MIT Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prs.rehearsal-timing",
         "prn.repair"
@@ -3903,7 +3977,7 @@
       "kind": "book",
       "year": 2010,
       "citation": "Segalowitz, N. (2010). *Cognitive bases of second language fluency*. Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prn.fluency"
       ],
@@ -3916,10 +3990,12 @@
       "year": 2009,
       "citation": "Housen, A., & Kuiken, F. (2009). Complexity, accuracy, and fluency in second language acquisition. *Applied Linguistics, 30*(4), 461–473.",
       "doi": "10.1093/applin/amp048",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "PRN"
+      ]
     },
     {
       "key": "skehan1998",
@@ -3975,7 +4051,9 @@
       "verificationNote": "Work confirmed; DOI not confirmed by the verifier.",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "PRN"
+      ]
     },
     {
       "key": "leki2001",
@@ -4110,10 +4188,9 @@
         "wpr.generating-ideas",
         "ess.depth-focus",
         "crt.description-analysis-evaluation",
-        "exm.question-analysis",
         "exm.timed-writing"
       ],
-      "citedInGuidance": 8,
+      "citedInGuidance": 7,
       "citedByDomains": [
         "WPR"
       ]
@@ -4125,6 +4202,7 @@
       "citation": "Zamel, V. (1983). The composing processes of advanced ESL students: Six case studies. *TESOL Quarterly, 17*(2), 165–187.",
       "doi": "10.2307/3586647",
       "verification": "web-verified",
+      "verificationNote": "Sources differ on the end page (178 or 187); 187 retained.",
       "citedByTopics": [
         "wpr.writing-process",
         "wpr.drafting",
@@ -4223,10 +4301,10 @@
       "key": "ferris1999",
       "kind": "article",
       "year": 1999,
-      "citation": "Ferris, D. (1999). The case for grammar correction in L2 writing classes: A response to Truscott (1996). *Journal of Second Language Writing, 8*(1), 1–11.",
+      "citation": "Ferris, D. (1999). The case for grammar correction in L2 writing classes: A response to Truscott (1996). *Journal of Second Language Writing, 8*(1), 1–10.",
       "doi": "10.1016/S1060-3743(99)80110-6",
       "verification": "web-verified",
-      "verificationNote": "Work confirmed; DOI not confirmed by the verifier.",
+      "verificationNote": "Page range corrected to 1–10.",
       "citedByTopics": [
         "grm.subject-verb-agreement",
         "grm.error-monitoring",
@@ -4279,11 +4357,12 @@
       "doi": "10.1080/02602938.2018.1463354",
       "verification": "web-verified",
       "citedByTopics": [
+        "ges.extended-source-based-project",
         "res.supervision",
         "fbk.feedback-literacy",
         "dig.vle"
       ],
-      "citedInGuidance": 4,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "FBK"
       ]
@@ -4319,13 +4398,14 @@
       "verification": "web-verified",
       "citedByTopics": [
         "edt.criteria-self-assessment",
+        "res.teaching-as-pgr",
         "lrn.self-regulation",
         "fbk.assessment-literacy",
         "fbk.feedback-literacy",
         "fbk.acting-on-feedback",
         "fbk.seeking-feedback"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 7,
       "citedByDomains": [
         "FBK"
       ]
@@ -4416,9 +4496,10 @@
         "exm.exam-formats",
         "tst.assessment-purposes",
         "tst.test-formats",
-        "tst.presessional-progression"
+        "tst.presessional-progression",
+        "tst.score-reports"
       ],
-      "citedInGuidance": 4,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "TST"
       ]
@@ -4433,13 +4514,12 @@
       "citedByTopics": [
         "voc.command-words",
         "fun.recommending",
-        "ess.essay-types",
         "ges.genre-families",
         "ges.argumentative-essay",
-        "ges.compare-contrast-essay",
+        "ges.extended-source-based-project",
         "tst.test-vs-university"
       ],
-      "citedInGuidance": 11,
+      "citedInGuidance": 10,
       "citedByDomains": [
         "ESS",
         "TST"
@@ -4468,7 +4548,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "TST"
+      ]
     },
     {
       "key": "ielts2023speaking",
@@ -4478,7 +4560,9 @@
       "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "TST"
+      ]
     },
     {
       "key": "ukvi2025student",
@@ -4487,9 +4571,10 @@
       "citation": "UK Visas and Immigration. (2025). *Student and Child Student: Caseworker guidance* (English language requirement sections). Home Office. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "tst.cefr-entry"
+        "tst.cefr-entry",
+        "tst.score-reports"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -4543,7 +4628,8 @@
       "kind": "article",
       "year": 2017,
       "citation": "Hirvela, A. (2017). Argumentation & second language writing: Are we missing the boat? *Journal of Second Language Writing, 36*. |",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Confirmed in Journal of Second Language Writing vol. 36 (Disciplinary Dialogues); pages and DOI not confirmed and omitted.",
       "citedByTopics": [
         "arg.argument-concept"
       ],
@@ -4565,9 +4651,7 @@
         "arg.rebuttal-concession"
       ],
       "citedInGuidance": 4,
-      "citedByDomains": [
-        "ARG"
-      ]
+      "citedByDomains": []
     },
     {
       "key": "kuhn1991",
@@ -4595,11 +4679,11 @@
       "kind": "book",
       "year": 2006,
       "citation": "Walton, D. N. (2006). *Fundamentals of critical argumentation*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.argument-identification",
         "rdc.assumptions",
-        "rdc.critical-questions",
+        "crt.questioning",
         "crt.evidence-types",
         "crt.reasoning-types",
         "crt.fallacies",
@@ -4621,7 +4705,7 @@
       "kind": "report",
       "year": 1990,
       "citation": "Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction (The Delphi Report)*. California Academic Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "crt.concept",
         "crt.questioning",
@@ -4639,7 +4723,7 @@
       "year": 2013,
       "citation": "Moore, T. (2013). Critical thinking: Seven definitions in search of a concept. *Studies in Higher Education, 38*(4), 506–522.",
       "doi": "10.1080/03075079.2011.586995",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.critical-reading",
         "ess.criticality",
@@ -4657,7 +4741,7 @@
       "year": 1997,
       "citation": "Atkinson, D. (1997). A critical approach to critical thinking in TESOL. *TESOL Quarterly, 31*(1), 71–94.",
       "doi": "10.2307/3587975",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.critical-reading",
         "crt.concept",
@@ -4674,7 +4758,7 @@
       "year": 1997,
       "citation": "Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning. *Review of Educational Research, 67*(1), 88–140.",
       "doi": "10.3102/00346543067001088",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.critical-response",
         "crt.epistemic-beliefs"
@@ -4688,8 +4772,9 @@
       "key": "perry1970",
       "kind": "book",
       "year": 1970,
-      "citation": "Perry, W. G. (1970). *Forms of intellectual and ethical development in the college years: A scheme*. Holt, Rinehart and Winston. |",
-      "verification": "unverified",
+      "citation": "Perry, W. G., Jr. (1970). *Forms of intellectual and ethical development in the college years: A scheme*. Holt, Rinehart and Winston. |",
+      "verification": "web-verified",
+      "verificationNote": "Details corrected during verification.",
       "citedByTopics": [
         "crt.epistemic-beliefs"
       ],
@@ -4701,7 +4786,7 @@
       "kind": "book",
       "year": 2011,
       "citation": "Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "crt.cognitive-biases",
         "lrn.time-management"
@@ -4715,7 +4800,7 @@
       "year": 1998,
       "citation": "Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology, 2*(2), 175–220.",
       "doi": "10.1037/1089-2680.2.2.175",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.bias-perspective",
         "crt.cognitive-biases"
@@ -4728,7 +4813,7 @@
       "kind": "book",
       "year": 2001,
       "citation": "Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.command-words",
         "crt.description-analysis-evaluation"
@@ -4742,7 +4827,7 @@
       "year": 2005,
       "citation": "van Gelder, T. (2005). Teaching critical thinking: Some lessons from cognitive science. *College Teaching, 53*(1), 41–48.",
       "doi": "10.3200/CTCH.53.1.41-48",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "arg.argument-mapping",
         "arg.evaluating-arguments"
@@ -4756,7 +4841,7 @@
       "year": 2002,
       "citation": "Samraj, B. (2002). Introductions in research articles: Variations across disciplines. *English for Specific Purposes, 21*(1), 1–17.",
       "doi": "10.1016/S0889-4906(00)00023-5",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "res.introductions-cars",
         "res.gap-niche"
@@ -4770,7 +4855,8 @@
       "year": 2003,
       "citation": "Yang, R., & Allison, D. (2003). Research articles in applied linguistics: Moving from results to conclusions. *English for Specific Purposes, 22*(4), 365–385.",
       "doi": "10.1016/S0889-4906(02)00026-1",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "fun.recommending",
         "fun.summarising-concluding",
@@ -4791,7 +4877,7 @@
       "year": 2005,
       "citation": "Kanoksilapatham, B. (2005). Rhetorical structure of biochemistry research articles. *English for Specific Purposes, 24*(3), 269–292.",
       "doi": "10.1016/j.esp.2004.08.003",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "res.imrad",
         "res.methods",
@@ -4806,7 +4892,8 @@
       "year": 1988,
       "citation": "Hopkins, A., & Dudley-Evans, T. (1988). A genre-based investigation of the discussion sections in articles and dissertations. *English for Specific Purposes, 7*(2), 113–121.",
       "doi": "10.1016/0889-4906(88)90029-4",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "fun.hypothesising",
         "grp.dissertation-overview",
@@ -4821,7 +4908,8 @@
       "year": 2006,
       "citation": "Lim, J. M.-H. (2006). Method sections of management research articles: A pedagogically motivated qualitative study. *English for Specific Purposes, 25*(3), 282–309.",
       "doi": "10.1016/j.esp.2005.07.001",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
         "res.methods",
         "dss.methodology-justification"
@@ -4835,7 +4923,7 @@
       "year": 2017,
       "citation": "Cotos, E., Huffman, S., & Link, S. (2017). A move/step model for methods sections: Demonstrating rigour and credibility. *English for Specific Purposes, 46*, 90–106.",
       "doi": "10.1016/j.esp.2017.01.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "res.methods",
         "dss.methodology-justification"
@@ -4849,7 +4937,7 @@
       "year": 2006,
       "citation": "Kwan, B. S. C. (2006). The schematic structure of literature reviews in doctoral theses of applied linguistics. *English for Specific Purposes, 25*(1), 30–55.",
       "doi": "10.1016/j.esp.2005.06.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.literature-mapping",
         "syn.thematic-grouping",
@@ -4866,12 +4954,12 @@
       "year": 1996,
       "citation": "Santos, M. B. D. (1996). The textual organization of research paper abstracts in applied linguistics. *Text, 16*(4), 481–499.",
       "doi": "10.1515/text.1.1996.16.4.481",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
-        "grp.student-abstract",
         "res.abstracts"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 1,
       "citedByDomains": []
     },
     {
@@ -4880,7 +4968,7 @@
       "year": 2009,
       "citation": "Basturkmen, H. (2009). Commenting on results in published research articles and masters dissertations in Language Teaching. *Journal of English for Academic Purposes, 8*(4), 241–251.",
       "doi": "10.1016/j.jeap.2009.07.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "fun.explaining",
         "res.results",
@@ -4896,12 +4984,13 @@
       "year": 2002,
       "citation": "Paltridge, B. (2002). Thesis and dissertation writing: An examination of published advice and actual practice. *English for Specific Purposes, 21*(2), 125–143.",
       "doi": "10.1016/S0889-4906(00)00025-9",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grp.dissertation-overview",
-        "res.thesis-macrostructure"
+        "res.thesis-macrostructure",
+        "res.publication-based-thesis"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -4909,7 +4998,7 @@
       "kind": "book",
       "year": 2020,
       "citation": "Paltridge, B., & Starfield, S. (2020). *Thesis and dissertation writing in a second language: A handbook for students and their supervisors* (2nd ed.). Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "wpr.managing-long-projects",
         "grp.project-proposal",
@@ -4922,10 +5011,15 @@
         "res.research-proposal",
         "res.supervision",
         "res.writing-productivity",
+        "res.progression-review",
+        "res.publication-based-thesis",
         "pub.viva",
-        "dig.word-processing"
+        "pub.thesis-corrections",
+        "dig.word-processing",
+        "dlw.legal-research-writing",
+        "dad.practice-research-exegesis"
       ],
-      "citedInGuidance": 13,
+      "citedInGuidance": 18,
       "citedByDomains": [
         "GRP",
         "RES",
@@ -4952,7 +5046,7 @@
       "kind": "book",
       "year": 2014,
       "citation": "Kamler, B., & Thomson, P. (2014). *Helping doctoral students write: Pedagogies for supervision* (2nd ed.). Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "wpr.writing-blocks",
         "res.literature-review",
@@ -4960,9 +5054,10 @@
         "res.contribution",
         "res.theoretical-framework",
         "res.supervision",
-        "res.writing-productivity"
+        "res.writing-productivity",
+        "res.progression-review"
       ],
-      "citedInGuidance": 8,
+      "citedInGuidance": 9,
       "citedByDomains": [
         "RES"
       ]
@@ -4973,7 +5068,7 @@
       "year": 1994,
       "citation": "Belcher, D. (1994). The apprenticeship approach to advanced academic literacy: Graduate students and their mentors. *English for Specific Purposes, 13*(1), 23–34.",
       "doi": "10.1016/0889-4906(94)90022-1",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "res.supervision"
       ],
@@ -4986,7 +5081,7 @@
       "year": 1999,
       "citation": "Flowerdew, J. (1999). Problems in writing for scholarly publication in English: The case of Hong Kong. *Journal of Second Language Writing, 8*(3), 243–264.",
       "doi": "10.1016/S1060-3743(99)80116-7",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "pub.multilingual-scholars"
       ],
@@ -5000,16 +5095,18 @@
       "kind": "book",
       "year": 2010,
       "citation": "Lillis, T., & Curry, M. J. (2010). *Academic writing in a global context: The politics and practices of publishing in English*. Routledge. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "edt.proofreading-ethics",
         "src.multilingual-sources",
-        "idn.standards-legitimacy",
+        "cit.citation-politics",
         "pub.publishing-process",
         "pub.journal-selection",
-        "pub.multilingual-scholars"
+        "pub.multilingual-scholars",
+        "idn.standards-legitimacy",
+        "gai.authorship-voice"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 8,
       "citedByDomains": [
         "PUB"
       ]
@@ -5019,16 +5116,17 @@
       "kind": "book",
       "year": 2019,
       "citation": "Belcher, W. L. (2019). *Writing your journal article in twelve weeks: A guide to academic publishing success* (2nd ed.). University of Chicago Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "wpr.managing-long-projects",
         "res.contribution",
         "pub.publishing-process",
         "pub.journal-selection",
         "pub.cover-letters",
-        "pub.responding-reviewers"
+        "pub.responding-reviewers",
+        "pub.thesis-to-article"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 7,
       "citedByDomains": [
         "PUB"
       ]
@@ -5039,11 +5137,13 @@
       "year": 1999,
       "citation": "Connor, U., & Mauranen, A. (1999). Linguistic analysis of grant proposals: European Union research grants. *English for Specific Purposes, 18*(1), 47–62.",
       "doi": "10.1016/S0889-4906(97)00026-4",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [
-        "res.research-proposal"
+        "res.research-proposal",
+        "pub.funding-applications"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -5051,7 +5151,7 @@
       "kind": "book",
       "year": 2018,
       "citation": "Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.methods-critique",
         "inf.research-question",
@@ -5066,13 +5166,14 @@
         "res.research-proposal",
         "res.ethics-documentation",
         "res.positionality-writing",
+        "res.instrument-wording",
         "num.statistical-vocabulary",
         "num.interpreting-statistics",
         "dss.operationalising-concepts",
-        "dss.qualitative-writing",
-        "dss.methodology-justification"
+        "dss.methodology-justification",
+        "dss.education-practice-genres"
       ],
-      "citedInGuidance": 16,
+      "citedInGuidance": 17,
       "citedByDomains": [
         "DSS"
       ]
@@ -5083,7 +5184,7 @@
       "year": 2017,
       "citation": "Parkinson, J. (2017). The student laboratory report genre: A genre analysis. *English for Specific Purposes, 45*, 1–13.",
       "doi": "10.1016/j.esp.2016.08.001",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grp.lab-report",
         "dse.hypothesis-language"
@@ -5106,9 +5207,10 @@
         "grp.case-study",
         "grp.business-report",
         "dbe.business-case-analysis",
-        "dbe.critical-frameworks"
+        "dbe.critical-frameworks",
+        "dbe.consultancy-report"
       ],
-      "citedInGuidance": 4,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "GRP",
         "DBE"
@@ -5120,12 +5222,13 @@
       "year": 2015,
       "citation": "Brand, A., Allen, L., Altman, M., Hlava, M., & Scott, J. (2015). Beyond authorship: Attribution, contribution, collaboration, and credit. *Learned Publishing, 28*(2), 151–155.",
       "doi": "10.1087/20150211",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "pub.authorship",
-        "prg.acknowledgements"
+        "res.acknowledgements",
+        "res.publication-based-thesis",
+        "pub.authorship"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -5133,15 +5236,21 @@
       "kind": "report",
       "year": 2010,
       "citation": "Vitae. (2010). *Researcher development framework*. Careers Research and Advisory Centre (CRAC). |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
+        "prs.research-pitches",
         "res.ethics-documentation",
+        "res.progression-review",
+        "res.teaching-as-pgr",
         "pub.authorship",
         "pub.research-engagement",
         "pub.academic-cv-bio",
+        "pub.funding-applications",
+        "pub.conference-participation",
+        "prg.professional-applications",
         "dig.file-management"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 11,
       "citedByDomains": []
     },
     {
@@ -5166,7 +5275,7 @@
       "kind": "report",
       "year": 1988,
       "citation": "Gibbs, G. (1988). *Learning by doing: A guide to teaching and learning methods*. Further Education Unit, Oxford Polytechnic. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.reflective-writing",
         "dhl.reflective-practice"
@@ -5181,13 +5290,15 @@
       "kind": "book",
       "year": 2004,
       "citation": "Moon, J. A. (2004). *A handbook of reflective and experiential learning: Theory and practice*. RoutledgeFalmer. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.reflective-writing",
         "grp.professional-portfolio",
-        "lrn.reflective-logs"
+        "lrn.reflective-logs",
+        "prg.professional-applications",
+        "dss.education-practice-genres"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 5,
       "citedByDomains": []
     },
     {
@@ -5196,7 +5307,7 @@
       "year": 2011,
       "citation": "Ryan, M. (2011). Improving reflective writing in higher education: A social semiotic perspective. *Teaching in Higher Education, 16*(1), 99–111.",
       "doi": "10.1080/13562517.2010.507311",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.reflective-writing",
         "grp.professional-portfolio",
@@ -5212,17 +5323,18 @@
       "kind": "book",
       "year": 1983,
       "citation": "Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. Basic Books. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "ges.reflective-writing",
         "grp.professional-portfolio",
         "dhl.reflective-practice",
+        "dss.education-practice-genres",
         "dad.studio-critique",
-        "dad.design-rationale"
+        "dad.design-rationale",
+        "dad.practice-research-exegesis"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 7,
       "citedByDomains": [
-        "DHL",
         "DAD"
       ]
     },
@@ -5232,13 +5344,15 @@
       "year": 1996,
       "citation": "Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ, 312*(7023), 71–72.",
       "doi": "10.1136/bmj.312.7023.71",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "crt.evidence-types",
         "dhl.evidence-based-practice",
-        "dhl.critical-appraisal"
+        "dhl.critical-appraisal",
+        "dhl.clinical-reasoning-writing",
+        "dhl.care-plans"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "DHL"
       ]
@@ -5249,7 +5363,7 @@
       "year": 2002,
       "citation": "Shah, P., & Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. *Educational Psychology Review, 14*(1), 47–69.",
       "doi": "10.1023/A:1013180410169",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rds.visuals-in-text",
         "dat.visual-types",
@@ -5268,7 +5382,7 @@
       "year": 2001,
       "citation": "Friel, S. N., Curcio, F. R., & Bright, G. W. (2001). Making sense of graphs: Critical factors influencing comprehension and instructional implications. *Journal for Research in Mathematics Education, 32*(2), 124–158.",
       "doi": "10.2307/749671",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rds.visuals-in-text",
         "dat.visual-types",
@@ -5286,7 +5400,7 @@
       "year": 2002,
       "citation": "Gal, I. (2002). Adults' statistical literacy: Meanings, components, responsibilities. *International Statistical Review, 70*(1), 1–25.",
       "doi": "10.1111/j.1751-5823.2002.tb00336.x",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.evidence-evaluation",
         "rdc.methods-critique",
@@ -5309,7 +5423,7 @@
       "year": 2007,
       "citation": "Gigerenzer, G., Gaissmaier, W., Kurz-Milcke, E., Schwartz, L. M., & Woloshin, S. (2007). Helping doctors and patients make sense of health statistics. *Psychological Science in the Public Interest, 8*(2), 53–96.",
       "doi": "10.1111/j.1539-6053.2008.00033.x",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grp.policy-brief",
         "num.relative-absolute",
@@ -5327,7 +5441,7 @@
       "kind": "book",
       "year": 2001,
       "citation": "Tufte, E. R. (2001). *The visual display of quantitative information* (2nd ed.). Graphics Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prs.slide-design",
         "dat.visual-types",
@@ -5348,14 +5462,15 @@
       "year": 2016,
       "citation": "Wasserstein, R. L., & Lazar, N. A. (2016). The ASA statement on p-values: Context, process, and purpose. *The American Statistician, 70*(2), 129–133.",
       "doi": "10.1080/00031305.2016.1154108",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdc.methods-critique",
         "res.quantitative-reporting",
         "num.interpreting-statistics",
-        "dse.hypothesis-language"
+        "dse.hypothesis-language",
+        "dss.psychology-research-report"
       ],
-      "citedInGuidance": 4,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "NUM"
       ]
@@ -5365,15 +5480,16 @@
       "kind": "standard",
       "year": 2023,
       "citation": "World Wide Web Consortium. (2023). *Web content accessibility guidelines (WCAG) 2.2*. W3C Recommendation. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prs.slide-design",
+        "prs.posters",
         "prs.recorded-online",
         "dat.creating-visuals",
-        "mmd.poster-design",
-        "mmd.accessibility"
+        "mmd.accessibility",
+        "dig.assistive-technology"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 6,
       "citedByDomains": [
         "MMD"
       ]
@@ -5383,15 +5499,14 @@
       "kind": "standard",
       "year": 2019,
       "citation": "Bureau International des Poids et Mesures. (2019). *The International System of Units (SI)* (9th ed.). BIPM. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "sen.numbers-units-style",
         "prn.numbers-aloud",
         "num.units-measurement",
         "num.mathematical-expression",
         "dse.protocols-specifications"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "NUM"
       ]
@@ -5402,7 +5517,7 @@
       "year": 2002,
       "citation": "Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70.",
       "doi": "10.1207/s15430421tip4102_2",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "grm.error-monitoring",
         "rdp.managing-reading-load",
@@ -5412,7 +5527,7 @@
         "lrn.self-regulation",
         "lrn.goal-setting",
         "lrn.reflective-logs",
-        "gai.prompting-for-learning"
+        "gai.language-support"
       ],
       "citedInGuidance": 10,
       "citedByDomains": [
@@ -5424,7 +5539,7 @@
       "kind": "book",
       "year": 1990,
       "citation": "Oxford, R. L. (1990). *Language learning strategies: What every teacher should know*. Newbury House. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lrn.language-learning-strategies"
       ],
@@ -5438,10 +5553,10 @@
       "kind": "book",
       "year": 2011,
       "citation": "Benson, P. (2011). *Teaching and researching autonomy* (2nd ed.). Pearson Education. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "lrn.independent-study",
-        "lrn.autonomy"
+        "lrn.self-regulation",
+        "lrn.independent-study"
       ],
       "citedInGuidance": 2,
       "citedByDomains": [
@@ -5453,12 +5568,14 @@
       "kind": "book",
       "year": 1981,
       "citation": "Holec, H. (1981). *Autonomy and foreign language learning*. Pergamon. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
-        "lrn.autonomy"
+        "lrn.self-regulation"
       ],
       "citedInGuidance": 1,
-      "citedByDomains": []
+      "citedByDomains": [
+        "LRN"
+      ]
     },
     {
       "key": "dunlosky2013",
@@ -5466,7 +5583,7 @@
       "year": 2013,
       "citation": "Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58.",
       "doi": "10.1177/1529100612453266",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.digital-reading",
         "rds.annotation",
@@ -5490,7 +5607,7 @@
       "year": 2006,
       "citation": "Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255.",
       "doi": "10.1111/j.1467-9280.2006.01693.x",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.deliberate-learning-systems",
         "rds.textbook-reading",
@@ -5509,7 +5626,7 @@
       "year": 2006,
       "citation": "Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380.",
       "doi": "10.1037/0033-2909.132.3.354",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "voc.deliberate-learning-systems",
         "ntk.reviewing-notes",
@@ -5524,7 +5641,7 @@
       "kind": "chapter",
       "year": 2009,
       "citation": "Dörnyei, Z. (2009). The L2 motivational self system. In Z. Dörnyei & E. Ushioda (Eds.), *Motivation, language identity and the L2 self* (pp. 9–42). Multilingual Matters. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "lrn.motivation"
       ],
@@ -5539,7 +5656,7 @@
       "year": 1979,
       "citation": "Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911.",
       "doi": "10.1037/0003-066X.34.10.906",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rds.comprehension-monitoring",
         "lis.metacognitive-listening",
@@ -5572,11 +5689,11 @@
       "year": 1990,
       "citation": "Schmidt, R. W. (1990). The role of consciousness in second language learning. *Applied Linguistics, 11*(2), 129–158.",
       "doi": "10.1093/applin/11.2.129",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "phr.collocation-awareness"
       ],
-      "citedInGuidance": 5,
+      "citedInGuidance": 4,
       "citedByDomains": []
     },
     {
@@ -5585,7 +5702,8 @@
       "year": 2000,
       "citation": "Norris, J. M., & Ortega, L. (2000). Effectiveness of L2 instruction: A research synthesis and quantitative meta-analysis. *Language Learning, 50*(3), 417–528.",
       "doi": "10.1111/0023-8333.00136",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [],
       "citedInGuidance": 1,
       "citedByDomains": []
@@ -5596,10 +5714,13 @@
       "year": 2010,
       "citation": "Spada, N., & Tomita, Y. (2010). Interactions between type of instruction and type of language feature: A meta-analysis. *Language Learning, 60*(2), 263–308.",
       "doi": "10.1111/j.1467-9922.2010.00562.x",
-      "verification": "unverified",
+      "verification": "web-verified",
+      "verificationNote": "Work confirmed online; DOI not independently confirmed.",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "GRM"
+      ]
     },
     {
       "key": "ellis2005principles",
@@ -5607,17 +5728,19 @@
       "year": 2005,
       "citation": "Ellis, R. (2005). Principles of instructed language learning. *System, 33*(2), 209–224.",
       "doi": "10.1016/j.system.2004.12.006",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [],
       "citedInGuidance": 0,
-      "citedByDomains": []
+      "citedByDomains": [
+        "GRM"
+      ]
     },
     {
       "key": "cummins2008",
       "kind": "chapter",
       "year": 2008,
       "citation": "Cummins, J. (2008). BICS and CALP: Empirical and theoretical status of the distinction. In B. Street & N. H. Hornberger (Eds.), *Encyclopedia of language and education* (2nd ed., Vol. 2, pp. 71–83). Springer. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "rdp.plurilingual-reading"
       ],
@@ -5629,7 +5752,7 @@
       "kind": "chapter",
       "year": 2009,
       "citation": "Snow, C. E., & Uccelli, P. (2009). The challenge of academic language. In D. R. Olson & N. Torrance (Eds.), *The Cambridge handbook of literacy* (pp. 112–133). Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "sen.concision"
       ],
@@ -5641,7 +5764,7 @@
       "kind": "standard",
       "year": 2001,
       "citation": "Council of Europe. (2001). *Common European Framework of Reference for Languages: Learning, teaching, assessment*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "prs.nonverbal",
         "tst.assessment-purposes"
@@ -5654,20 +5777,21 @@
       "kind": "standard",
       "year": 2020,
       "citation": "Council of Europe. (2020). *Common European Framework of Reference for Languages: Learning, teaching, assessment – Companion volume*. Council of Europe Publishing. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "sem.facilitating",
         "sem.summarising-discussion",
         "sem.online-discussion",
+        "sem.explaining-concepts",
         "prs.explaining-visuals",
         "prs.group-presentations",
         "prn.intelligibility",
         "grw.roles-planning",
         "grw.meetings",
-        "idn.plurilingual-repertoire",
-        "tst.cefr-entry"
+        "tst.cefr-entry",
+        "idn.plurilingual-repertoire"
       ],
-      "citedInGuidance": 10,
+      "citedInGuidance": 11,
       "citedByDomains": [
         "GRW",
         "TST"
@@ -5678,7 +5802,7 @@
       "kind": "book",
       "year": 2014,
       "citation": "North, B. (2014). *The CEFR in practice*. Cambridge University Press. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "tst.cefr-entry"
       ],
@@ -5693,15 +5817,14 @@
       "year": 2023,
       "citation": "Kasneci, E., Sessler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., Gasser, U., Groh, G., Günnemann, S., Hüllermeier, E., Krusche, S., Kutyniok, G., Michaeli, T., Nerdel, C., Pfeffer, J., Poquet, O., Sailer, M., Schmidt, A., Seidel, T., … Kasneci, G. (2023). ChatGPT for good? On opportunities and challenges of large language models for education. *Learning and Individual Differences, 103*, 102274.",
       "doi": "10.1016/j.lindif.2023.102274",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "gai.how-genai-works",
         "gai.language-support",
-        "gai.prompting-for-learning",
         "gai.research-tools",
         "gai.privacy-ip"
       ],
-      "citedInGuidance": 6,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "GAI"
       ]
@@ -5712,11 +5835,11 @@
       "year": 2023,
       "citation": "Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. *Patterns, 4*(7), 100779.",
       "doi": "10.1016/j.patter.2023.100779",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "gai.detection-limits"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "GAI"
       ]
@@ -5727,7 +5850,7 @@
       "year": 2023,
       "citation": "Perkins, M. (2023). Academic integrity considerations of AI large language models in the post-pandemic era: ChatGPT and beyond. *Journal of University Teaching and Learning Practice, 20*(2).",
       "doi": "10.53761/1.20.02.07",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "gai.policies",
         "gai.acknowledging-use",
@@ -5744,11 +5867,10 @@
       "kind": "report",
       "year": 2023,
       "citation": "UNESCO. (2023). *Guidance for generative AI in education and research*. UNESCO. |",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "gai.how-genai-works",
         "gai.policies",
-        "gai.prompting-for-learning",
         "gai.research-tools",
         "gai.privacy-ip"
       ],
@@ -5763,7 +5885,7 @@
       "year": 2021,
       "citation": "Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? In *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency* (pp. 610–623). ACM.",
       "doi": "10.1145/3442188.3445922",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "gai.how-genai-works",
         "gai.verifying-output"
@@ -5779,7 +5901,7 @@
       "year": 2023,
       "citation": "Walters, W. H., & Wilder, E. I. (2023). Fabrication and errors in the bibliographic citations generated by ChatGPT. *Scientific Reports, 13*, 14045.",
       "doi": "10.1038/s41598-023-41032-5",
-      "verification": "unverified",
+      "verification": "web-verified",
       "citedByTopics": [
         "cit.accuracy-consistency",
         "gai.verifying-output",
@@ -5799,11 +5921,10 @@
       "verification": "web-verified",
       "verificationNote": "Checked by the curator against online records.",
       "citedByTopics": [
-        "edt.editing-tools",
         "dig.automated-feedback-tools",
         "gai.language-support"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "DIG"
       ]
@@ -5818,10 +5939,9 @@
       "verificationNote": "Checked by the curator against online records.",
       "citedByTopics": [
         "wpr.l1-in-composing",
-        "edt.editing-tools",
         "dig.machine-translation"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 2,
       "citedByDomains": [
         "DIG"
       ]
@@ -5860,10 +5980,12 @@
       "verification": "web-verified",
       "citedByTopics": [
         "reg.non-specialist-audiences",
+        "prs.research-pitches",
         "grp.public-writing",
-        "pub.research-engagement"
+        "pub.research-engagement",
+        "pub.funding-applications"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 5,
       "citedByDomains": []
     },
     {
@@ -6178,8 +6300,10 @@
       "citation": "Rubin, D. L. (1992). Nonlanguage factors affecting undergraduates' judgments of nonnative English-speaking teaching assistants. *Research in Higher Education, 33*(4), 511–531.",
       "doi": "10.1007/BF00973770",
       "verification": "web-verified",
-      "citedByTopics": [],
-      "citedInGuidance": 2,
+      "citedByTopics": [
+        "res.teaching-as-pgr"
+      ],
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -6399,9 +6523,10 @@
       "doi": "10.1016/j.jslw.2009.05.002",
       "verification": "web-verified",
       "citedByTopics": [
-        "edt.proofreading-ethics"
+        "edt.proofreading-ethics",
+        "pub.thesis-corrections"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -6479,9 +6604,7 @@
       "citation": "Cumming, A. (1989). Writing expertise and second-language proficiency. *Language Learning, 39*(1), 81–141.",
       "doi": "10.1111/j.1467-1770.1989.tb00592.x",
       "verification": "web-verified",
-      "citedByTopics": [
-        "wpr.l1-in-composing"
-      ],
+      "citedByTopics": [],
       "citedInGuidance": 1,
       "citedByDomains": []
     },
@@ -6509,7 +6632,7 @@
       "verificationNote": "Details corrected during verification.",
       "citedByTopics": [
         "inf.systematic-searching",
-        "dhl.critical-appraisal"
+        "res.systematic-review-writing"
       ],
       "citedInGuidance": 2,
       "citedByDomains": []
@@ -6522,9 +6645,10 @@
       "doi": "10.1080/1364557032000119616",
       "verification": "web-verified",
       "citedByTopics": [
-        "inf.systematic-searching"
+        "inf.systematic-searching",
+        "res.systematic-review-writing"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -6558,9 +6682,11 @@
       "citation": "Perkins, M., Furze, L., Roe, J., & MacVaugh, J. (2024). The Artificial Intelligence Assessment Scale (AIAS): A framework for ethical integration of generative AI in educational assessment. *Journal of University Teaching and Learning Practice, 21*(6). |",
       "verification": "web-verified",
       "citedByTopics": [
+        "dig.automated-feedback-tools",
+        "dig.assistive-technology",
         "gai.policies"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -6583,9 +6709,10 @@
       "doi": "10.1007/s40979-023-00146-z",
       "verification": "web-verified",
       "citedByTopics": [
+        "exm.open-book",
         "gai.detection-limits"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -6596,9 +6723,10 @@
       "doi": "10.1007/s10805-009-9092-1",
       "verification": "web-verified",
       "citedByTopics": [
-        "int.recycling-own-work"
+        "int.recycling-own-work",
+        "pub.thesis-to-article"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -6634,9 +6762,11 @@
       "citation": "ALLEA – All European Academies. (2023). *The European code of conduct for research integrity* (Revised ed.). ALLEA. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "int.research-integrity"
+        "int.research-integrity",
+        "pub.open-research",
+        "dse.lab-notebooks"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -6696,9 +6826,10 @@
       "citation": "Mauranen, A. (2012). *Exploring ELF: Academic English shaped by non-native speakers*. Cambridge University Press. |",
       "verification": "web-verified",
       "citedByTopics": [
+        "sem.explaining-concepts",
         "idn.elf"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -6721,9 +6852,10 @@
       "citation": "Horowitz, D. (1986). Essay examination prompts and the teaching of academic writing. *English for Specific Purposes, 5*(2), 107–120. |",
       "verification": "web-verified",
       "citedByTopics": [
+        "wpr.task-analysis",
         "ges.exam-essay"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -6751,9 +6883,10 @@
       "citedByTopics": [
         "dig.vle",
         "dig.digital-collaboration",
-        "dig.digital-etiquette"
+        "dig.digital-etiquette",
+        "dig.assistive-technology"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 4,
       "citedByDomains": [
         "DIG"
       ]
@@ -6793,9 +6926,11 @@
       "verification": "web-verified",
       "verificationNote": "Details corrected during verification.",
       "citedByTopics": [
-        "dig.file-management"
+        "pub.open-research",
+        "dig.file-management",
+        "dse.lab-notebooks"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -6850,7 +6985,9 @@
         "mmd.digital-assessments"
       ],
       "citedInGuidance": 1,
-      "citedByDomains": []
+      "citedByDomains": [
+        "MMD"
+      ]
     },
     {
       "key": "channell1994",
@@ -6858,8 +6995,11 @@
       "year": 1994,
       "citation": "Channell, J. (1994). *Vague language*. Oxford University Press. |",
       "verification": "web-verified",
-      "citedByTopics": [],
-      "citedInGuidance": 1,
+      "citedByTopics": [
+        "grm.spoken-grammar",
+        "prg.informal-academic-interaction"
+      ],
+      "citedInGuidance": 3,
       "citedByDomains": []
     },
     {
@@ -6869,8 +7009,10 @@
       "citation": "Cumming, G. (2014). The new statistics: Why and how. *Psychological Science, 25*(1), 7–29.",
       "doi": "10.1177/0956797613504966",
       "verification": "web-verified",
-      "citedByTopics": [],
-      "citedInGuidance": 1,
+      "citedByTopics": [
+        "dss.psychology-research-report"
+      ],
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -6960,9 +7102,10 @@
       "citation": "Tinkler, P., & Jackson, C. (2004). *The doctoral examination process: A handbook for students, examiners and supervisors*. Open University Press. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "pub.viva"
+        "pub.viva",
+        "pub.thesis-corrections"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -7004,9 +7147,10 @@
       "verification": "web-verified",
       "verificationNote": "Details corrected during verification.",
       "citedByTopics": [
-        "pub.academic-cv-bio"
+        "pub.academic-cv-bio",
+        "pub.personal-statements"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -7029,9 +7173,10 @@
       "citation": "Thomson, P., & Kamler, B. (2013). *Writing for peer reviewed journals: Strategies for getting published*. Routledge. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "pub.journal-selection"
+        "pub.journal-selection",
+        "pub.thesis-to-article"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -7135,9 +7280,10 @@
       "citation": "Joughin, G. (1998). Dimensions of oral assessment. *Assessment & Evaluation in Higher Education, 23*(4), 367–378. |",
       "verification": "web-verified",
       "citedByTopics": [
-        "exm.oral-exams"
+        "exm.oral-exams",
+        "dlw.mooting"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -7149,9 +7295,10 @@
       "verification": "web-verified",
       "verificationNote": "Details corrected during verification.",
       "citedByTopics": [
+        "res.instrument-wording",
         "exm.objective-questions"
       ],
-      "citedInGuidance": 1,
+      "citedInGuidance": 2,
       "citedByDomains": []
     },
     {
@@ -7176,7 +7323,7 @@
       "verification": "web-verified",
       "verificationNote": "Details corrected during verification.",
       "citedByTopics": [
-        "prg.acknowledgements"
+        "res.acknowledgements"
       ],
       "citedInGuidance": 1,
       "citedByDomains": []
@@ -7247,9 +7394,7 @@
         "dad.design-rationale"
       ],
       "citedInGuidance": 1,
-      "citedByDomains": [
-        "DAD"
-      ]
+      "citedByDomains": []
     },
     {
       "key": "mccloskey1998",
@@ -7286,10 +7431,13 @@
       "citation": "Zhu, W. (2004). Writing in business courses: An analysis of assignment types, their characteristics, and required skills. *English for Specific Purposes, 23*(2), 111–135. |",
       "verification": "web-verified",
       "citedByTopics": [
+        "grp.business-report",
         "dbe.business-case-analysis",
-        "dbe.professional-genres"
+        "dbe.professional-genres",
+        "dbe.accounting-finance-discourse",
+        "dbe.consultancy-report"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 5,
       "citedByDomains": [
         "DBE"
       ]
@@ -7301,10 +7449,12 @@
       "citation": "Greenhalgh, T. (2019). *How to read a paper: The basics of evidence-based medicine and healthcare* (6th ed.). Wiley Blackwell. |",
       "verification": "web-verified",
       "citedByTopics": [
+        "res.systematic-review-writing",
         "dhl.evidence-based-practice",
-        "dhl.critical-appraisal"
+        "dhl.critical-appraisal",
+        "dhl.clinical-reasoning-writing"
       ],
-      "citedInGuidance": 2,
+      "citedInGuidance": 4,
       "citedByDomains": [
         "DHL"
       ]
@@ -7332,8 +7482,10 @@
       "citedByTopics": [
         "dhl.case-reports-care-plans"
       ],
-      "citedInGuidance": 1,
-      "citedByDomains": []
+      "citedInGuidance": 2,
+      "citedByDomains": [
+        "DHL"
+      ]
     },
     {
       "key": "silverman2013",
@@ -7402,9 +7554,10 @@
       "citedByTopics": [
         "dlw.case-reading",
         "dlw.problem-questions",
-        "dlw.statutes"
+        "dlw.statutes",
+        "dlw.mooting"
       ],
-      "citedInGuidance": 3,
+      "citedInGuidance": 4,
       "citedByDomains": [
         "DLW"
       ]
@@ -7506,6 +7659,175 @@
       "citedInGuidance": 1,
       "citedByDomains": [
         "DSS"
+      ]
+    },
+    {
+      "key": "ionin2004",
+      "kind": "article",
+      "year": 2004,
+      "citation": "Ionin, T., Ko, H., & Wexler, K. (2004). Article semantics in L2 acquisition: The role of specificity. *Language Acquisition, 12*(1), 3–69. |",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "grm.articles"
+      ],
+      "citedInGuidance": 1,
+      "citedByDomains": []
+    },
+    {
+      "key": "oshita2000",
+      "kind": "article",
+      "year": 2000,
+      "citation": "Oshita, H. (2000). What is happened may not be what appears to be happening: A corpus study of 'passive' unaccusatives in L2 English. *Second Language Research, 16*(4), 293–324. |",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "grm.unaccusative-verbs"
+      ],
+      "citedInGuidance": 1,
+      "citedByDomains": []
+    },
+    {
+      "key": "thomson2018hvpt",
+      "kind": "article",
+      "year": 2018,
+      "citation": "Thomson, R. I. (2018). High variability [pronunciation] training (HVPT): A proven technique about which every language teacher and learner ought to know. *Journal of Second Language Pronunciation, 4*(2), 208–231. |",
+      "verification": "web-verified",
+      "citedByTopics": [],
+      "citedInGuidance": 1,
+      "citedByDomains": []
+    },
+    {
+      "key": "kobayashirinnert1992",
+      "kind": "article",
+      "year": 1992,
+      "citation": "Kobayashi, H., & Rinnert, C. (1992). Effects of first language on second language writing: Translation versus direct composition. *Language Learning, 42*, 183–215. |",
+      "verification": "web-verified",
+      "verificationNote": "Sources differ on the issue number; issue omitted.",
+      "citedByTopics": [
+        "wpr.l1-in-composing"
+      ],
+      "citedInGuidance": 2,
+      "citedByDomains": []
+    },
+    {
+      "key": "floresrosa2015",
+      "kind": "article",
+      "year": 2015,
+      "citation": "Flores, N., & Rosa, J. (2015). Undoing appropriateness: Raciolinguistic ideologies and language diversity in education. *Harvard Educational Review, 85*(2), 149–171.",
+      "doi": "10.17763/0017-8055.85.2.149",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "idn.standards-legitimacy"
+      ],
+      "citedInGuidance": 2,
+      "citedByDomains": []
+    },
+    {
+      "key": "hornerluroyster2011",
+      "kind": "article",
+      "year": 2011,
+      "citation": "Horner, B., Lu, M.-Z., Royster, J. J., & Trimbur, J. (2011). Language difference in writing: Toward a translingual approach. *College English, 73*(3), 303–321. |",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "idn.translingual-writing"
+      ],
+      "citedInGuidance": 1,
+      "citedByDomains": []
+    },
+    {
+      "key": "canagarajah2011codemeshing",
+      "kind": "article",
+      "year": 2011,
+      "citation": "Canagarajah, S. (2011). Codemeshing in academic writing: Identifying teachable strategies of translanguaging. *The Modern Language Journal, 95*(3), 401–417.",
+      "doi": "10.1111/j.1540-4781.2011.01207.x",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "idn.translingual-writing"
+      ],
+      "citedInGuidance": 1,
+      "citedByDomains": []
+    },
+    {
+      "key": "kachru1985",
+      "kind": "chapter",
+      "year": 1985,
+      "citation": "Kachru, B. B. (1985). Standards, codification and sociolinguistic realism: The English language in the outer circle. In R. Quirk & H. G. Widdowson (Eds.), *English in the world: Teaching and learning the language and literatures* (pp. 11–30). Cambridge University Press. |",
+      "verification": "web-verified",
+      "citedByTopics": [],
+      "citedInGuidance": 1,
+      "citedByDomains": []
+    },
+    {
+      "key": "braunclarke2019",
+      "kind": "article",
+      "year": 2019,
+      "citation": "Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. *Qualitative Research in Sport, Exercise and Health, 11*(4), 589–597.",
+      "doi": "10.1080/2159676X.2019.1628806",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "res.qualitative-reporting",
+        "dss.qualitative-writing"
+      ],
+      "citedInGuidance": 2,
+      "citedByDomains": []
+    },
+    {
+      "key": "levettjones2010",
+      "kind": "article",
+      "year": 2010,
+      "citation": "Levett-Jones, T., Hoffman, K., Dempsey, J., Jeong, S. Y.-S., Noble, D., Norton, C. A., Roche, J., & Hickey, N. (2010). The 'five rights' of clinical reasoning: An educational model to enhance nursing students' ability to identify and manage clinically 'at risk' patients. *Nurse Education Today, 30*(6), 515–520.",
+      "doi": "10.1016/j.nedt.2009.10.020",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "dhl.clinical-reasoning-writing",
+        "dhl.care-plans"
+      ],
+      "citedInGuidance": 2,
+      "citedByDomains": [
+        "DHL"
+      ]
+    },
+    {
+      "key": "merkldavies2007",
+      "kind": "article",
+      "year": 2007,
+      "citation": "Merkl-Davies, D. M., & Brennan, N. M. (2007). Discretionary disclosure strategies in corporate narratives: Incremental information or impression management? *Journal of Accounting Literature, 26*, 116–196. |",
+      "verification": "web-verified",
+      "verificationNote": "Sources differ on the end page (194 or 196); 196 retained.",
+      "citedByTopics": [
+        "dbe.accounting-finance-discourse"
+      ],
+      "citedInGuidance": 1,
+      "citedByDomains": [
+        "DBE"
+      ]
+    },
+    {
+      "key": "hutchinsonduncan2012",
+      "kind": "article",
+      "year": 2012,
+      "citation": "Hutchinson, T., & Duncan, N. (2012). Defining and describing what we do: Doctrinal legal research. *Deakin Law Review, 17*(1), 83–119.",
+      "doi": "10.21153/dlr2012vol17no1art70",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "dlw.legal-research-writing"
+      ],
+      "citedInGuidance": 1,
+      "citedByDomains": [
+        "DLW"
+      ]
+    },
+    {
+      "key": "hamiltonjaaniste2010",
+      "kind": "article",
+      "year": 2010,
+      "citation": "Hamilton, J., & Jaaniste, L. (2010). A connective model for the practice-led research exegesis: An analysis of content and structure. *Journal of Writing in Creative Practice, 3*(1), 31–44. |",
+      "verification": "web-verified",
+      "citedByTopics": [
+        "dad.practice-research-exegesis"
+      ],
+      "citedInGuidance": 1,
+      "citedByDomains": [
+        "DAD"
       ]
     }
   ]

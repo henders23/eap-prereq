@@ -20,7 +20,13 @@
         "schon1983",
         "dannels2005",
         "rose2016",
-        "hamiltonjaaniste2010"
+        "hamiltonjaaniste2010",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
@@ -40,7 +46,13 @@
         "zhu2004",
         "bhatia1993",
         "mccloskey1998",
-        "merkldavies2007"
+        "merkldavies2007",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
@@ -61,7 +73,13 @@
         "greenhalgh2019",
         "levettjones2010",
         "gibbs1988",
-        "lingard2003"
+        "lingard2003",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
@@ -83,7 +101,13 @@
         "hyland2004disciplinary",
         "becher2001",
         "wineburg1991",
-        "short1996"
+        "short1996",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
@@ -105,7 +129,13 @@
         "oscola2026",
         "twining2010",
         "mertz2007",
-        "hutchinsonduncan2012"
+        "hutchinsonduncan2012",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
@@ -127,7 +157,13 @@
         "trimble1985",
         "parkinson2017",
         "hyland2004disciplinary",
-        "becher2001"
+        "becher2001",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     },
     {
@@ -148,7 +184,13 @@
         "braunclarke2006",
         "bacchi2009",
         "apa2020",
-        "hyland2004disciplinary"
+        "hyland2004disciplinary",
+        "hyland2002specificity",
+        "spack1988",
+        "hutchinsonwaters1987",
+        "dudleyevans1998",
+        "basturkmen2010",
+        "long2005needs"
       ]
     }
   ],
@@ -6204,32 +6246,5 @@
     "dss.methodology-justification overlaps with res.methods, which is its general prerequisite; dss.qualitative-writing now covers process texts only, leaving findings to res.qualitative-reporting (which could take dss.qualitative-writing as a soft prerequisite).",
     "dss.policy-analysis overlaps with grp.policy-brief.",
     "Stage roles: ESAP topics are core mainly at in-sessional-ug or in-sessional-pgt for their disciplines, with foundation core limited to dse.scientific-language, dse.scientific-explanation and dad.visual-analysis. dse.mathematical-writing, dse.protocols-specifications, dhl.evidence-based-practice and the DBE topics no longer carry foundation (R1-08, R3-17); dlw.legal-language, dhu.close-reading and three DAD topics keep foundation with cefrStart lowered to B1+."
-  ],
-  "proposedReferences": [
-    {
-      "key": "braunclarke2019",
-      "apa": "Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. *Qualitative Research in Sport, Exercise and Health, 11*(4), 589–597. https://doi.org/10.1080/2159676X.2019.1628806",
-      "note": "Requested by review finding R6-23 for the qualitative topics. High confidence in authors, title, journal, volume, issue and pages; DOI recalled with high confidence. Cited by dss.qualitative-writing."
-    },
-    {
-      "key": "levettjones2010",
-      "apa": "Levett-Jones, T., Hoffman, K., Dempsey, J., Jeong, S. Y.-S., Noble, D., Norton, C. A., Roche, J., & Hickey, N. (2010). The 'five rights' of clinical reasoning: An educational model to enhance nursing students' ability to identify and manage clinically 'at risk' patients. *Nurse Education Today, 30*(6), 515–520. https://doi.org/10.1016/j.nedt.2009.10.020",
-      "note": "Source of the clinical reasoning cycle widely used in nursing education; needed for dhl.clinical-reasoning-writing and dhl.care-plans. High confidence in first author, title, journal, year, volume and pages; moderate confidence in the full author list and DOI, which should be checked."
-    },
-    {
-      "key": "merkldavies2007",
-      "apa": "Merkl-Davies, D. M., & Brennan, N. M. (2007). Discretionary disclosure strategies in corporate narratives: Incremental information or impression management? *Journal of Accounting Literature, 26*, 116–196.",
-      "note": "Review of impression management in corporate narrative disclosures; supports the critical-reading strand of dbe.accounting-finance-discourse. High confidence in authors, title, journal and year; moderate confidence in page range. No DOI given."
-    },
-    {
-      "key": "hutchinsonduncan2012",
-      "apa": "Hutchinson, T., & Duncan, N. (2012). Defining and describing what we do: Doctrinal legal research. *Deakin Law Review, 17*(1), 83–119. https://doi.org/10.21153/dlr2012vol17no1art70",
-      "note": "Standard account of doctrinal legal research method; needed for dlw.legal-research-writing. High confidence in authors, title, journal, year, volume and pages; moderate confidence in DOI."
-    },
-    {
-      "key": "hamiltonjaaniste2010",
-      "apa": "Hamilton, J., & Jaaniste, L. (2010). A connective model for the practice-led research exegesis: An analysis of content and structure. *Journal of Writing in Creative Practice, 3*(1), 31–44. https://doi.org/10.1386/jwcp.3.1.31_1",
-      "note": "Genre analysis of practice-led exegeses; needed for dad.practice-research-exegesis. High confidence in authors, title, journal, year, volume and issue; moderate confidence in pages and DOI."
-    }
   ]
 }

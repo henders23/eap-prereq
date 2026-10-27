@@ -70,7 +70,7 @@
       "code": "WPR",
       "strand": "Academic Writing",
       "name": "Writing Process",
-      "summary": "Covers how academic texts are produced rather than what they look like: representing coursework and exam tasks, generating and organising content, drafting, writing from sources, and managing time, language choice and affect across extended projects. It draws on cognitive process models (Flower & Hayes, 1981; Bereiter & Scardamalia, 1987) and L2 composing research (Zamel, 1983), which show that skilled writers plan, draft and review recursively and use writing to develop ideas. Hyland (2003) argues that process pedagogy needs to be complemented by explicit attention to genre and reader expectations, so these topics should be taught alongside PAR, ESS and the genre strands rather than as a free-standing ‘process approach’.",
+      "summary": "Covers how academic texts are produced rather than what they look like: representing coursework and exam tasks, generating and organising content, drafting, writing from sources, and managing time, language choice and affect across extended projects. It draws on cognitive process models (Flower & Hayes, 1981; Bereiter & Scardamalia, 1987) and L2 composing research (Zamel, 1983), which show that skilled writers plan, draft and review recursively and use writing to develop ideas. Hyland (2003) argues that process pedagogy needs to be complemented by explicit attention to genre and reader expectations, so these topics should be taught alongside PAR, ESS and the genre strands rather than as a free-standing \u2018process approach\u2019.",
       "learnerSummary": "You will learn to turn a brief or exam question into a plan and draft, write from your reading, use all your languages, and manage long projects.",
       "stageEmphasis": {
         "foundation": "Make the process visible: task analysis, idea generation and outlining for short assignments, with plans and drafts submitted and discussed before the final text.",
@@ -96,7 +96,7 @@
       "strand": "Academic Writing",
       "domain": "Revising, Editing & Proofreading",
       "name": "Revision, editing and proofreading",
-      "description": "Distinguish three levels of work on a draft—revision (changing argument, content and structure), editing (improving sentences for clarity, accuracy and style) and proofreading (correcting surface errors in the final version)—and sequence them so that effort is not spent polishing text that may later be cut. The distinction underpins efficient self-review, well-targeted feedback requests and institutional rules on third-party help.",
+      "description": "Distinguish three levels of work on a draft\u2014revision (changing argument, content and structure), editing (improving sentences for clarity, accuracy and style) and proofreading (correcting surface errors in the final version)\u2014and sequence them so that effort is not spent polishing text that may later be cut. The distinction underpins efficient self-review, well-targeted feedback requests and institutional rules on third-party help.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
       "coreBand": "B1",
@@ -139,7 +139,7 @@
       "strand": "Academic Writing",
       "domain": "Revising, Editing & Proofreading",
       "name": "Global revision",
-      "description": "Revise a draft at whole-text level by re-examining the thesis, the line of argument, the selection and sufficiency of evidence, the order of sections and the fit with the task and reader, and make substantial changes—adding, cutting, moving or rewriting sections—where needed. Global revision usually improves a text far more than sentence-level correction does.",
+      "description": "Revise a draft at whole-text level by re-examining the thesis, the line of argument, the selection and sufficiency of evidence, the order of sections and the fit with the task and reader, and make substantial changes\u2014adding, cutting, moving or rewriting sections\u2014where needed. Global revision usually improves a text far more than sentence-level correction does.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "coreBand": "B2",
@@ -155,7 +155,7 @@
       "disciplines": [],
       "audience": "learner",
       "masteryEvidence": [
-        "Identifies the most important global problem in a draft, such as a thesis–body mismatch or a missing counter-argument",
+        "Identifies the most important global problem in a draft, such as a thesis\u2013body mismatch or a missing counter-argument",
         "Makes structural changes (moving, cutting, adding sections) and explains how they improve the argument",
         "Revises the thesis to match what the draft argues, or the body to match the thesis",
         "Uses feedback on content and structure to plan specific revisions",
@@ -192,7 +192,7 @@
       "strand": "Academic Writing",
       "domain": "Revising, Editing & Proofreading",
       "name": "Reverse outlining",
-      "description": "Test the structure of a draft by writing a one-line statement of each paragraph's point (and, optionally, its function), then reading the statements in sequence to find gaps, repetition, misplaced paragraphs, paragraphs with more than one point and mismatches with the thesis. The technique turns a vague sense that ‘something is wrong’ into specific revision decisions.",
+      "description": "Test the structure of a draft by writing a one-line statement of each paragraph's point (and, optionally, its function), then reading the statements in sequence to find gaps, repetition, misplaced paragraphs, paragraphs with more than one point and mismatches with the thesis. The technique turns a vague sense that \u2018something is wrong\u2019 into specific revision decisions.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "coreBand": "B2",
@@ -242,7 +242,7 @@
       "strand": "Academic Writing",
       "domain": "Revising, Editing & Proofreading",
       "name": "Editing for style and clarity",
-      "description": "Edit sentences to make them clearer, more concise and appropriate in register—bringing subjects and verbs together, reducing wordiness and redundancy, managing information density, choosing precise vocabulary and revising informal or vague expressions—while preserving meaning and the writer's voice. Style editing follows global revision and precedes proofreading.",
+      "description": "Edit sentences to make them clearer, more concise and appropriate in register\u2014bringing subjects and verbs together, reducing wordiness and redundancy, managing information density, choosing precise vocabulary and revising informal or vague expressions\u2014while preserving meaning and the writer's voice. Style editing follows global revision and precedes proofreading.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "coreBand": "B2+",
@@ -298,7 +298,7 @@
       "strand": "Academic Writing",
       "domain": "Revising, Editing & Proofreading",
       "name": "Editing for grammatical accuracy",
-      "description": "Edit drafts for grammatical accuracy by targeting one's own recurrent error types (for example articles, subject–verb agreement, tense, sentence boundaries) in focused passes, using feedback history, reference resources and personal checklists, rather than reading once for ‘all errors’. Targeted self-editing is more efficient than undirected checking and builds independence from teacher correction.",
+      "description": "Edit drafts for grammatical accuracy by targeting one's own recurrent error types (for example articles, subject\u2013verb agreement, tense, sentence boundaries) in focused passes, using feedback history, reference resources and personal checklists, rather than reading once for \u2018all errors\u2019. Targeted self-editing is more efficient than undirected checking and builds independence from teacher correction.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "coreBand": "B1+",
@@ -356,7 +356,7 @@
       "strand": "Academic Writing",
       "domain": "Revising, Editing & Proofreading",
       "name": "Proofreading",
-      "description": "Check a final version for surface errors—spelling, typing errors, punctuation, missing or repeated words, formatting, and consistency of spelling variety, terms and numbers—using techniques that counter the tendency to read what one meant rather than what is on the page, such as reading aloud, changing the font or layout, reading in reverse order for spelling, and using a checklist. Proofreading is the last stage, after revision and editing.",
+      "description": "Check a final version for surface errors\u2014spelling, typing errors, punctuation, missing or repeated words, formatting, and consistency of spelling variety, terms and numbers\u2014using techniques that counter the tendency to read what one meant rather than what is on the page, such as reading aloud, changing the font or layout, reading in reverse order for spelling, and using a checklist. Proofreading is the last stage, after revision and editing.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "coreBand": "B1+",
@@ -564,7 +564,7 @@
         "Distinguishes a university essay from a five-paragraph test essay in length, organisation and use of sources",
         "Plans an essay whose number and order of sections follow from the argument rather than from a template"
       ],
-      "assessmentPrompt": "Show an outline for a ‘to what extent’ question that consists of three advantages, three disadvantages and a conclusion. Ask what the problem is and how to restructure it. Check that the learner proposes a structure organised around a position (for example, the strongest case, the main objection and a response, leading to a judgement of extent).",
+      "assessmentPrompt": "Show an outline for a \u2018to what extent\u2019 question that consists of three advantages, three disadvantages and a conclusion. Ask what the problem is and how to restructure it. Check that the learner proposes a structure organised around a position (for example, the strongest case, the main objection and a response, leading to a judgement of extent).",
       "citations": [
         "wingate2012argument",
         "caplanjohns2019",
@@ -622,7 +622,7 @@
         "Revises the thesis after drafting so that it matches what the essay actually argues",
         "Uses a thesis form suited to the question type (evaluative, causal, comparative)"
       ],
-      "assessmentPrompt": "Give four candidate theses for the same question: a fact, an announcement (‘This essay will discuss…’), an overbroad claim and a qualified, arguable claim. Ask the learner to rank them and improve the weakest. Check that the ranking rewards arguability and feasible scope rather than length or vocabulary.",
+      "assessmentPrompt": "Give four candidate theses for the same question: a fact, an announcement (\u2018This essay will discuss\u2026\u2019), an overbroad claim and a qualified, arguable claim. Ask the learner to rank them and improve the weakest. Check that the ranking rewards arguability and feasible scope rather than length or vocabulary.",
       "citations": [
         "wingate2012argument",
         "andrews2010"
@@ -675,7 +675,7 @@
         "Includes a brief roadmap where length and discipline make one useful, and ensures the body follows it",
         "Revises the introduction after drafting so that it matches the body"
       ],
-      "assessmentPrompt": "Give an introduction that opens with a sweeping claim (‘Since the beginning of history…’), spends most of its length on background and ends without a thesis. Ask the learner to rewrite it in under 150 words. Check for a specific opening, efficient narrowing, a clear thesis and, optionally, a roadmap consistent with the plan.",
+      "assessmentPrompt": "Give an introduction that opens with a sweeping claim (\u2018Since the beginning of history\u2026\u2019), spends most of its length on background and ends without a thesis. Ask the learner to rewrite it in under 150 words. Check for a specific opening, efficient narrowing, a clear thesis and, optionally, a roadmap consistent with the plan.",
       "citations": [
         "swalesfeak2012",
         "hyland2005metadiscourse"
@@ -758,7 +758,7 @@
       "strand": "Academic Writing",
       "domain": "Essay Construction",
       "name": "Organising the essay body",
-      "description": "Sequence and group body paragraphs so that they build the argument logically—by importance, causal chain, comparison criteria, or concession and rebuttal—and organise source material thematically around the writer's points rather than source by source. The organisation should be visible to the reader through topic sentences and transitions.",
+      "description": "Sequence and group body paragraphs so that they build the argument logically\u2014by importance, causal chain, comparison criteria, or concession and rebuttal\u2014and organise source material thematically around the writer's points rather than source by source. The organisation should be visible to the reader through topic sentences and transitions.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "coreBand": "B2",
@@ -840,7 +840,7 @@
         "Maintains a consistent heading hierarchy",
         "Keeps topic sentences and transitions so that the text reads coherently with the headings removed"
       ],
-      "assessmentPrompt": "Give a 3,000-word essay draft with generic headings (‘Introduction’, ‘Main body’, ‘Point 1’) and no transitions. Ask whether headings are appropriate and how to improve the draft. Check for informative headings or a justified decision to remove them, and for attention to transitions either way.",
+      "assessmentPrompt": "Give a 3,000-word essay draft with generic headings (\u2018Introduction\u2019, \u2018Main body\u2019, \u2018Point 1\u2019) and no transitions. Ask whether headings are appropriate and how to improve the draft. Check for informative headings or a justified decision to remove them, and for attention to transitions either way.",
       "citations": [
         "gardnernesi2013",
         "apa2020"
@@ -862,7 +862,7 @@
       "strand": "Academic Writing",
       "domain": "Essay Construction",
       "name": "Depth versus breadth",
-      "description": "Narrow the scope of an essay to a manageable number of points, cases or perspectives so that each can be analysed in depth, and justify the focus explicitly. Covering everything relevant at a superficial level is a common cause of ‘descriptive’ feedback; within a word limit, depth of analysis is usually valued over breadth of coverage.",
+      "description": "Narrow the scope of an essay to a manageable number of points, cases or perspectives so that each can be analysed in depth, and justify the focus explicitly. Covering everything relevant at a superficial level is a common cause of \u2018descriptive\u2019 feedback; within a word limit, depth of analysis is usually valued over breadth of coverage.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "coreBand": "B2+",
@@ -931,7 +931,7 @@
         "Uses concession and counter-argument to reach a qualified judgement",
         "Revises a descriptive paragraph so that it includes analysis and evaluation"
       ],
-      "assessmentPrompt": "Give a paragraph that accurately summarises two studies. Ask the learner to add three sentences that make it critical. Check for evaluation of evidence or method, comparison, and a judgement linked to the essay's argument—not merely negative comments.",
+      "assessmentPrompt": "Give a paragraph that accurately summarises two studies. Ask the learner to add three sentences that make it critical. Check for evaluation of evidence or method, comparison, and a judgement linked to the essay's argument\u2014not merely negative comments.",
       "citations": [
         "moore2013",
         "lancaster2014",
@@ -1077,7 +1077,7 @@
       "strand": "Academic Writing",
       "domain": "Paragraph Development",
       "name": "Developing support",
-      "description": "Develop a controlling idea with a suitable combination of explanation, reasoning, evidence, examples and analysis, choosing support that is relevant and sufficient for the strength of the claim and stating how it supports the claim. Paragraphs that assert without support, or pile up examples without explanation, are a frequent cause of ‘underdeveloped’ or ‘descriptive’ feedback.",
+      "description": "Develop a controlling idea with a suitable combination of explanation, reasoning, evidence, examples and analysis, choosing support that is relevant and sufficient for the strength of the claim and stating how it supports the claim. Paragraphs that assert without support, or pile up examples without explanation, are a frequent cause of \u2018underdeveloped\u2019 or \u2018descriptive\u2019 feedback.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "coreBand": "B1+",
@@ -1124,7 +1124,7 @@
       "type": "PROCEDURAL",
       "strand": "Academic Writing",
       "domain": "Paragraph Development",
-      "name": "Point–evidence–explanation–link structures",
+      "name": "Point\u2013evidence\u2013explanation\u2013link structures",
       "description": "Use PEEL-type scaffolds (point, evidence, explanation, link, and variants such as PEE or PEEL-C) to construct supported paragraphs while learning, and recognise their limits: many paragraphs need several pieces of evidence, a counter-point or no explicit link, and mechanical application produces formulaic text. The aim is to internalise the functions the scaffold names and then write without it.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
@@ -1187,7 +1187,7 @@
         "Locates a break in coherence in a peer's paragraph and explains its cause",
         "Explains why adding linking words does not repair a paragraph whose sentences are poorly ordered"
       ],
-      "assessmentPrompt": "Give a grammatically accurate paragraph in which one sentence introduces a new topic in subject position without any link to what precedes it. Ask the learner to find where the reader loses the thread and fix it. Check whether they reorder or rephrase the sentence opening rather than insert ‘Moreover’ or ‘Furthermore’.",
+      "assessmentPrompt": "Give a grammatically accurate paragraph in which one sentence introduces a new topic in subject position without any link to what precedes it. Ask the learner to find where the reader loses the thread and fix it. Check whether they reorder or rephrase the sentence opening rather than insert \u2018Moreover\u2019 or \u2018Furthermore\u2019.",
       "citations": [
         "danes1974",
         "hallidayhasan1976",
@@ -1299,7 +1299,7 @@
       "strand": "Academic Writing",
       "domain": "Paragraph Development",
       "name": "Paragraph functions",
-      "description": "Recognise and write paragraphs that serve different functions within a text—introductory, body (argument, evidence, counter-argument), transitional and concluding—and understand that each function calls for different internal organisation and language. Treating every paragraph as a body paragraph produces weak introductions, conclusions and transitions.",
+      "description": "Recognise and write paragraphs that serve different functions within a text\u2014introductory, body (argument, evidence, counter-argument), transitional and concluding\u2014and understand that each function calls for different internal organisation and language. Treating every paragraph as a body paragraph produces weak introductions, conclusions and transitions.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
       "coreBand": "B1+",
@@ -1317,7 +1317,7 @@
         "Writes a short transitional paragraph that summarises one section and previews the next",
         "Writes a counter-argument paragraph that presents and then responds to an opposing view"
       ],
-      "assessmentPrompt": "Give the paragraphs of a short essay in random order. Ask the learner to identify each paragraph's function and reconstruct the order. Check that function, not only content, guides their decisions—for example that they place the counter-argument paragraph where it can be answered.",
+      "assessmentPrompt": "Give the paragraphs of a short essay in random order. Ask the learner to identify each paragraph's function and reconstruct the order. Check that function, not only content, guides their decisions\u2014for example that they place the counter-argument paragraph where it can be answered.",
       "citations": [
         "bruce2008genre",
         "swalesfeak2012"
@@ -1339,7 +1339,7 @@
       "strand": "Academic Writing",
       "domain": "Paragraph Development",
       "name": "Integrating sources in paragraphs",
-      "description": "Integrate source material into a paragraph so that the writer's point leads, sources are introduced and attributed, and each piece of evidence is followed by commentary that interprets, evaluates or connects it (introduce–cite–comment). This keeps the writer's voice in control and distinguishes argument from a chain of summaries.",
+      "description": "Integrate source material into a paragraph so that the writer's point leads, sources are introduced and attributed, and each piece of evidence is followed by commentary that interprets, evaluates or connects it (introduce\u2013cite\u2013comment). This keeps the writer's voice in control and distinguishes argument from a chain of summaries.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "coreBand": "B2",
@@ -1461,7 +1461,7 @@
         "Under exam conditions, analyses each question within a few minutes, recognises when a question twists a revised topic, and allocates time across questions in proportion to their marks, including planning and checking time",
         "Checks the thesis, each topic sentence and the conclusion against the task during drafting and revision, and cuts or reframes material that is accurate but does not answer the question"
       ],
-      "assessmentPrompt": "Give three questions on the same topic with different command words and limiting phrases (for example 'Outline…', 'Critically evaluate… with reference to…', 'To what extent… since 2010?') and ask what a good answer to each would do. Then show a short draft in which one paragraph is on the topic but not on the question, and ask whether to cut or reframe it. Check that the learner distinguishes the shape of each answer, attends to limiting words and judges relevance by the question rather than the topic.",
+      "assessmentPrompt": "Give three questions on the same topic with different command words and limiting phrases (for example 'Outline\u2026', 'Critically evaluate\u2026 with reference to\u2026', 'To what extent\u2026 since 2010?') and ask what a good answer to each would do. Then show a short draft in which one paragraph is on the topic but not on the question, and ask whether to cut or reframe it. Check that the learner distinguishes the shape of each answer, attends to limiting words and judges relevance by the question rather than the topic.",
       "citations": [
         "flowerhayes1981",
         "horowitz1986",
@@ -1497,7 +1497,7 @@
       "strand": "Academic Writing",
       "domain": "Writing Process",
       "name": "Generating ideas",
-      "description": "Use deliberate techniques—brainstorming, focused freewriting, question heuristics, mapping and talking ideas through—to produce more and better content than first recall provides, and then select from it in the light of the task. Separating generation from evaluation helps writers get beyond the first, most obvious points.",
+      "description": "Use deliberate techniques\u2014brainstorming, focused freewriting, question heuristics, mapping and talking ideas through\u2014to produce more and better content than first recall provides, and then select from it in the light of the task. Separating generation from evaluation helps writers get beyond the first, most obvious points.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
       "coreBand": "B1",
@@ -1560,7 +1560,7 @@
         "Estimates a word allocation for each section of the plan",
         "Revises the outline when drafting shows a point is weak or misplaced, and explains the change"
       ],
-      "assessmentPrompt": "Ask for an outline for a 1,500-word essay on a familiar question. Check whether entries are claims or merely topics (‘Economic factors’ versus ‘Economic factors outweigh political ones because…’), whether evidence is attached to each, and whether the order is justified.",
+      "assessmentPrompt": "Ask for an outline for a 1,500-word essay on a familiar question. Check whether entries are claims or merely topics (\u2018Economic factors\u2019 versus \u2018Economic factors outweigh political ones because\u2026\u2019), whether evidence is attached to each, and whether the order is justified.",
       "citations": [
         "flowerhayes1981",
         "ellisyuan2004",
@@ -1696,7 +1696,7 @@
       "strand": "Academic Writing",
       "domain": "Writing Process",
       "name": "Audience and purpose",
-      "description": "Recognise that most assessed university writing addresses an expert reader who knows the content but expects the writer to display understanding, make reasoning explicit and argue a position, and adjust content, explicitness and register to that reader and to the text's purpose. Mismatched assumptions about the reader explain many ‘too descriptive’ or ‘explain this’ comments.",
+      "description": "Recognise that most assessed university writing addresses an expert reader who knows the content but expects the writer to display understanding, make reasoning explicit and argue a position, and adjust content, explicitness and register to that reader and to the text's purpose. Mismatched assumptions about the reader explain many \u2018too descriptive\u2019 or \u2018explain this\u2019 comments.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
       "coreBand": "B1+",
@@ -1791,7 +1791,7 @@
       "strand": "Academic Writing",
       "domain": "Writing Process",
       "name": "Overcoming writing blocks",
-      "description": "Recognise likely causes of being unable to start or continue writing—perfectionism, rigid rules, an unclear task, anxiety about language or evaluation, fatigue—and apply matched strategies such as freewriting, generative writing, lowering the stakes of drafts, starting with an easier section or breaking the task down. Blocks are common at every level, including among experienced researchers, and are usually solvable.",
+      "description": "Recognise likely causes of being unable to start or continue writing\u2014perfectionism, rigid rules, an unclear task, anxiety about language or evaluation, fatigue\u2014and apply matched strategies such as freewriting, generative writing, lowering the stakes of drafts, starting with an easier section or breaking the task down. Blocks are common at every level, including among experienced researchers, and are usually solvable.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "coreBand": "B2",
@@ -1808,10 +1808,10 @@
       "masteryEvidence": [
         "Identifies the probable cause of a recent block (unclear task, rigid rule, fear of judgement, fatigue)",
         "Applies a strategy matched to the cause, such as freewriting, starting with a methods or body section, or a short timed goal",
-        "Replaces an absolute rule (for example ‘the introduction must be written first’) with a flexible heuristic",
+        "Replaces an absolute rule (for example \u2018the introduction must be written first\u2019) with a flexible heuristic",
         "Seeks appropriate support (writing group, tutor, writing centre) when a block persists"
       ],
-      "assessmentPrompt": "Present three short scenarios of blocked writers: a perfectionist, one with an unclear task and one anxious about their English. Ask the learner to diagnose each and suggest a first step. Check whether strategies are matched to causes rather than generic (‘work harder’, ‘read more’).",
+      "assessmentPrompt": "Present three short scenarios of blocked writers: a perfectionist, one with an unclear task and one anxious about their English. Ask the learner to diagnose each and suggest a first step. Check whether strategies are matched to causes rather than generic (\u2018work harder\u2019, \u2018read more\u2019).",
       "citations": [
         "rose1980",
         "elbow1973",
@@ -1834,7 +1834,7 @@
       "strand": "Academic Writing",
       "domain": "Writing Process",
       "name": "Using the first language in composing",
-      "description": "Use the first language and other languages strategically while composing in English—for generating ideas, planning, note-making, checking meaning and solving lexical problems—decide, within the language requirements of each task, how much of the text to draft directly in English, and use machine translation transparently and within local rules. Plurilingual composing is a resource. Evidence on drafting fully in another language and then translating is mixed: it can support content and organisation, especially at lower proficiency (Kobayashi & Rinnert, 1992), but may carry over source-language structures, reduce L2 practice and, with machine translation, breach assessment rules.",
+      "description": "Use the first language and other languages strategically while composing in English\u2014for generating ideas, planning, note-making, checking meaning and solving lexical problems\u2014decide, within the language requirements of each task, how much of the text to draft directly in English, and use machine translation transparently and within local rules. Plurilingual composing is a resource. Evidence on drafting fully in another language and then translating is mixed: it can support content and organisation, especially at lower proficiency (Kobayashi & Rinnert, 1992), but may carry over source-language structures, reduce L2 practice and, with machine translation, breach assessment rules.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "coreBand": "B1",
@@ -1930,7 +1930,7 @@
       "strand": "Academic Writing",
       "domain": "Writing Process",
       "name": "Formatting and presentation",
-      "description": "Present a text according to the required conventions—style guide, departmental template, cover sheet, page layout, heading levels, numbering of figures and tables, font and spacing—and apply them consistently using word-processing styles. Presentation rarely carries much weight in marking, but it affects readability, the reader's first impression and sometimes compliance with submission rules.",
+      "description": "Present a text according to the required conventions\u2014style guide, departmental template, cover sheet, page layout, heading levels, numbering of figures and tables, font and spacing\u2014and apply them consistently using word-processing styles. Presentation rarely carries much weight in marking, but it affects readability, the reader's first impression and sometimes compliance with submission rules.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
       "coreBand": "B1",
@@ -2185,7 +2185,7 @@
       "topicId": "ess.body-organisation",
       "prerequisiteId": "coh.text-patterns",
       "strength": "soft",
-      "reason": "Patterns such as problem–solution and claim–counterclaim provide principled orders for body sections"
+      "reason": "Patterns such as problem\u2013solution and claim\u2013counterclaim provide principled orders for body sections"
     },
     {
       "topicId": "ess.body-organisation",
@@ -2317,7 +2317,7 @@
       "topicId": "par.internal-coherence",
       "prerequisiteId": "coh.given-new",
       "strength": "soft",
-      "reason": "Ordering information within and across sentences applies the given–new principle"
+      "reason": "Ordering information within and across sentences applies the given\u2013new principle"
     },
     {
       "topicId": "par.concluding-sentences",
@@ -2539,7 +2539,7 @@
   "guidance": [
     {
       "topicId": "edt.revision-editing-proofreading",
-      "summary": "Sommers (1980) found that student writers mostly revised at word level, whereas experienced writers revised argument and structure; Zamel (1983) reported similar contrasts among ESL writers. In Flower and Hayes's (1981) model, reviewing includes both evaluating and revising and can occur at any point in composing. Teach the three levels explicitly and ask learners to sequence them, because many equate ‘checking’ with grammar correction.",
+      "summary": "Sommers (1980) found that student writers mostly revised at word level, whereas experienced writers revised argument and structure; Zamel (1983) reported similar contrasts among ESL writers. In Flower and Hayes's (1981) model, reviewing includes both evaluating and revising and can occur at any point in composing. Teach the three levels explicitly and ask learners to sequence them, because many equate \u2018checking\u2019 with grammar correction.",
       "activities": [
         {
           "title": "Change classification",
@@ -2569,7 +2569,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘Revising means correcting the grammar.’",
+          "pattern": "\u2018Revising means correcting the grammar.\u2019",
           "kind": "prior-schooling",
           "revealedBy": "Second drafts identical in structure to the first, with surface corrections only.",
           "response": "Require at least one documented global change per redraft.",
@@ -2604,7 +2604,7 @@
       "summary": "Experienced writers revise for argument and with a reader in mind (Sommers, 1980), and the skilled ESL writers in Zamel's (1983) study behaved similarly. Hyland (2003) discusses the place of teacher and peer feedback on content in multi-draft writing classrooms. Teach global revision through structured prompts (thesis check, reverse outline, reader questions), require evidence of structural change between drafts, and give feedback on content before feedback on language.",
       "activities": [
         {
-          "title": "Thesis–body check",
+          "title": "Thesis\u2013body check",
           "learnerActions": [
             "Write the thesis and the point of each paragraph on one sheet",
             "Mark where paragraphs do not support the thesis",
@@ -2634,19 +2634,19 @@
           "pattern": "Reluctance to cut or restructure text that took effort to write.",
           "kind": "affective",
           "revealedBy": "Drafts that only grow; deleted material reinserted later.",
-          "response": "Keep a ‘cuttings’ file so that nothing feels lost, and show examples of productive large cuts.",
+          "response": "Keep a \u2018cuttings\u2019 file so that nothing feels lost, and show examples of productive large cuts.",
           "reteachPrerequisiteId": null
         },
         {
           "pattern": "Unable to see global problems in one's own text.",
           "kind": "developmental",
           "revealedBy": "Self-review notes that list only grammar and vocabulary.",
-          "response": "Provide structured prompts, reverse outlining and peer reading. Do not rely on ‘read it again carefully’.",
+          "response": "Provide structured prompts, reverse outlining and peer reading. Do not rely on \u2018read it again carefully\u2019.",
           "reteachPrerequisiteId": "edt.revision-editing-proofreading"
         }
       ],
       "diagnostic": {
-        "task": "Give a draft with a thesis–body mismatch and a missing counter-argument and ask for a revision plan in bullet points.",
+        "task": "Give a draft with a thesis\u2013body mismatch and a missing counter-argument and ask for a revision plan in bullet points.",
         "strongResponse": "Identifies both global problems, prioritises them and proposes specific structural changes.",
         "partialResponse": "Identifies one global problem but mixes the plan with sentence-level edits.",
         "gapResponse": "Lists language corrections only."
@@ -2691,7 +2691,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Outline entries describe topics (‘about pollution’) rather than points.",
+          "pattern": "Outline entries describe topics (\u2018about pollution\u2019) rather than points.",
           "kind": "developmental",
           "revealedBy": "Outlines made of nouns that reveal nothing about the argument.",
           "response": "Require each entry to be a full-sentence claim.",
@@ -2722,7 +2722,7 @@
     },
     {
       "topicId": "edt.style-editing",
-      "summary": "Hinkel (2004) provides practical techniques for teaching the vocabulary and grammar of academic style to L2 writers, and Biber and Gray (2010) show that academic writing is compressed mainly through phrasal rather than clausal complexity, which explains both what learners aim for and why over-dense text can be hard to read. Swales and Feak (2012) offer graduate-level guidance on flow and style. Teach style editing as a set of purposeful operations with reasons, and avoid prescriptive myths such as ‘the passive is always more objective’ or ‘never use I’.",
+      "summary": "Hinkel (2004) provides practical techniques for teaching the vocabulary and grammar of academic style to L2 writers, and Biber and Gray (2010) show that academic writing is compressed mainly through phrasal rather than clausal complexity, which explains both what learners aim for and why over-dense text can be hard to read. Swales and Feak (2012) offer graduate-level guidance on flow and style. Teach style editing as a set of purposeful operations with reasons, and avoid prescriptive myths such as \u2018the passive is always more objective\u2019 or \u2018never use I\u2019.",
       "activities": [
         {
           "title": "Edit with reasons",
@@ -2753,14 +2753,14 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘Academic style means long words and long sentences.’",
+          "pattern": "\u2018Academic style means long words and long sentences.\u2019",
           "kind": "overgeneralisation",
           "revealedBy": "Inflated vocabulary; sentences that readers cannot parse on first reading.",
           "response": "Show concise expert prose and edit for clarity first.",
           "reteachPrerequisiteId": "sen.clarity-end-weight"
         },
         {
-          "pattern": "Applying style myths as absolute rules (‘never use I’, ‘always use the passive’).",
+          "pattern": "Applying style myths as absolute rules (\u2018never use I\u2019, \u2018always use the passive\u2019).",
           "kind": "prior-schooling",
           "revealedBy": "Awkward passives, dangling modifiers, contorted impersonal constructions.",
           "response": "Check each rule against exemplars or corpus evidence from the learner's discipline.",
@@ -2814,7 +2814,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Reading the whole text once for ‘all errors’ and finding few.",
+          "pattern": "Reading the whole text once for \u2018all errors\u2019 and finding few.",
           "kind": "performance",
           "revealedBy": "Recurrent errors left uncorrected in final versions.",
           "response": "Replace general rereading with separate targeted passes.",
@@ -2949,7 +2949,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Self-assessment treated as box-ticking (‘yes, I have an introduction’).",
+          "pattern": "Self-assessment treated as box-ticking (\u2018yes, I have an introduction\u2019).",
           "kind": "developmental",
           "revealedBy": "Every criterion ticked, with no evidence and no identified weakness.",
           "response": "Require quoted evidence for each judgement and at least one identified weakness.",
@@ -3013,14 +3013,14 @@
       ],
       "difficulties": [
         {
-          "pattern": "Comments limited to grammar and general praise (‘Good essay, some grammar mistakes’).",
+          "pattern": "Comments limited to grammar and general praise (\u2018Good essay, some grammar mistakes\u2019).",
           "kind": "developmental",
           "revealedBy": "Generic feedback sheets with no reference to argument or organisation.",
           "response": "Provide structured guidance focused on global issues and model specific comments.",
           "reteachPrerequisiteId": "edt.global-revision"
         },
         {
-          "pattern": "‘My classmates' English is no better than mine, so their feedback is useless.’",
+          "pattern": "\u2018My classmates' English is no better than mine, so their feedback is useless.\u2019",
           "kind": "affective",
           "revealedBy": "Peer comments ignored in revision.",
           "response": "Emphasise reader response and the benefits of reviewing, and combine peer feedback with tutor feedback.",
@@ -3030,7 +3030,7 @@
           "pattern": "Avoiding any critical comment to protect relationships.",
           "kind": "affective",
           "revealedBy": "Feedback consisting only of praise.",
-          "response": "Model mitigated critique (‘One thing that might strengthen this is…’) and make at least one suggestion compulsory.",
+          "response": "Model mitigated critique (\u2018One thing that might strengthen this is\u2026\u2019) and make at least one suggestion compulsory.",
           "reteachPrerequisiteId": "prg.politeness"
         }
       ],
@@ -3051,7 +3051,7 @@
     },
     {
       "topicId": "edt.proofreading-ethics",
-      "summary": "Harwood, Austin and Macaulay (2009) found wide variation in what proofreaders of student writing at a UK university did, ranging from correcting surface errors to intervening substantially in content, which shows why clear policies and learner awareness matter. Lillis and Curry (2010) describe how ‘literacy brokers’ shape multilingual scholars' publications, making editorial help a normal part of research publication. Teach the local policy, discuss grey areas openly, and avoid implying that seeking legitimate help is itself dishonest.",
+      "summary": "Harwood, Austin and Macaulay (2009) found wide variation in what proofreaders of student writing at a UK university did, ranging from correcting surface errors to intervening substantially in content, which shows why clear policies and learner awareness matter. Lillis and Curry (2010) describe how \u2018literacy brokers\u2019 shape multilingual scholars' publications, making editorial help a normal part of research publication. Teach the local policy, discuss grey areas openly, and avoid implying that seeking legitimate help is itself dishonest.",
       "activities": [
         {
           "title": "Policy sorting",
@@ -3078,7 +3078,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘A friend only improved my English, so it is still my work.’",
+          "pattern": "\u2018A friend only improved my English, so it is still my work.\u2019",
           "kind": "conceptual",
           "revealedBy": "The learner's own account of what the helper changed; tracked changes or earlier drafts showing content-level rewriting. Style differences between supervised and submitted writing are not evidence on their own.",
           "response": "Discuss where improving language becomes changing content and authorship, using concrete examples.",
@@ -3140,7 +3140,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘An essay has five paragraphs: an introduction, three body paragraphs and a conclusion.’",
+          "pattern": "\u2018An essay has five paragraphs: an introduction, three body paragraphs and a conclusion.\u2019",
           "kind": "prior-schooling",
           "revealedBy": "Three-point essays regardless of length; padding to fit the template.",
           "response": "Show essays of varying structure and plan from the argument. Do not simply forbid the template; explain what it gets right and where it stops being useful.",
@@ -3155,8 +3155,8 @@
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to outline an essay for a ‘to what extent’ question.",
-        "strongResponse": "A thesis containing a judgement; body sections ordered to build a case, including a counter-argument and response; a conclusion that answers ‘to what extent’.",
+        "task": "Ask the learner to outline an essay for a \u2018to what extent\u2019 question.",
+        "strongResponse": "A thesis containing a judgement; body sections ordered to build a case, including a counter-argument and response; a conclusion that answers \u2018to what extent\u2019.",
         "partialResponse": "Thesis present, but the body is balanced for and against without building to the judgement.",
         "gapResponse": "A list of topics with no thesis."
       },
@@ -3186,7 +3186,7 @@
           ]
         },
         {
-          "title": "Thesis–essay match",
+          "title": "Thesis\u2013essay match",
           "learnerActions": [
             "Read a model essay with its thesis removed",
             "Write the thesis the essay actually argues",
@@ -3201,7 +3201,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘This essay will discuss the advantages and disadvantages of X.’",
+          "pattern": "\u2018This essay will discuss the advantages and disadvantages of X.\u2019",
           "kind": "prior-schooling",
           "revealedBy": "Announcements with no position; descriptive essays.",
           "response": "Explain that announcements can serve as roadmaps but are not theses, and require a separate position sentence.",
@@ -3249,7 +3249,7 @@
             "Draft an introduction for your own essay using similar proportions"
           ],
           "intendedInsight": "Effective introductions spend little space on background and reach the thesis quickly.",
-          "rationale": "Move analysis of exemplars builds genre awareness of general–specific organisation (Swales & Feak, 2012).",
+          "rationale": "Move analysis of exemplars builds genre awareness of general\u2013specific organisation (Swales & Feak, 2012).",
           "citations": [
             "swalesfeak2012"
           ]
@@ -3267,7 +3267,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Opening with sweeping generalisations (‘Nowadays, technology is very important in our lives’) or dictionary definitions.",
+          "pattern": "Opening with sweeping generalisations (\u2018Nowadays, technology is very important in our lives\u2019) or dictionary definitions.",
           "kind": "prior-schooling",
           "revealedBy": "Generic first sentences that could introduce almost any essay.",
           "response": "Rewrite openings to name a specific context, debate or problem (see reg.vague-overgeneralised).",
@@ -3289,7 +3289,7 @@
         }
       ],
       "diagnostic": {
-        "task": "Ask for a 100–150-word introduction to a supplied essay plan.",
+        "task": "Ask for a 100\u2013150-word introduction to a supplied essay plan.",
         "strongResponse": "Specific context, efficient narrowing, a clear thesis and a brief roadmap consistent with the plan.",
         "partialResponse": "All elements present, but background is too long or the thesis is vague.",
         "gapResponse": "Background only, or no thesis."
@@ -3334,7 +3334,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘In conclusion, there are both advantages and disadvantages.’",
+          "pattern": "\u2018In conclusion, there are both advantages and disadvantages.\u2019",
           "kind": "developmental",
           "revealedBy": "Conclusions with no judgement; the question is never actually answered.",
           "response": "Require a direct-answer sentence and check it against the thesis.",
@@ -3348,7 +3348,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Overclaiming (‘This essay has proved that…’).",
+          "pattern": "Overclaiming (\u2018This essay has proved that\u2026\u2019).",
           "kind": "developmental",
           "revealedBy": "Strong boosters in the conclusion after limited or mixed evidence.",
           "response": "Link to claim calibration and ask learners to justify the strength of the final claim.",
@@ -3370,7 +3370,7 @@
     },
     {
       "topicId": "ess.body-organisation",
-      "summary": "Hoey (1983) shows how texts are organised through recurring patterns such as problem–solution and general–particular, which offer ordering principles beyond ‘firstly, secondly, thirdly’. Spivey (1990) identifies organising as a central operation in writing from sources, and source-by-source organisation is a default for many learners. Wingate (2012) argues that organisation should be driven by the argument, so teach ordering as a decision justified by the thesis.",
+      "summary": "Hoey (1983) shows how texts are organised through recurring patterns such as problem\u2013solution and general\u2013particular, which offer ordering principles beyond \u2018firstly, secondly, thirdly\u2019. Spivey (1990) identifies organising as a central operation in writing from sources, and source-by-source organisation is a default for many learners. Wingate (2012) argues that organisation should be driven by the argument, so teach ordering as a decision justified by the thesis.",
       "activities": [
         {
           "title": "Re-sort the body",
@@ -3388,7 +3388,7 @@
         {
           "title": "Pattern choice",
           "learnerActions": [
-            "Identify the organising pattern (problem–solution, comparison, cause–effect, concession–rebuttal) in three model essays",
+            "Identify the organising pattern (problem\u2013solution, comparison, cause\u2013effect, concession\u2013rebuttal) in three model essays",
             "Choose a pattern for a new question and justify it"
           ],
           "intendedInsight": "Different questions call for different organising patterns.",
@@ -3516,7 +3516,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘If I leave something out, the marker will think I don't know it.’",
+          "pattern": "\u2018If I leave something out, the marker will think I don't know it.\u2019",
           "kind": "affective",
           "revealedBy": "Long lists of points, each treated superficially.",
           "response": "Show exemplar feedback that rewards depth, and practise scope statements.",
@@ -3545,7 +3545,7 @@
     },
     {
       "topicId": "ess.criticality",
-      "summary": "Moore (2013) found that academics define critical thinking in several distinct ways, so ‘criticality’ should be unpacked in relation to the discipline and task rather than taught as a single generic skill; its teachability and cultural framing have also been questioned in TESOL (Atkinson, 1997). Lancaster (2014) identified stance patterns valued in high-graded upper-level student writing, such as entertaining alternatives and conceding before countering, which give criticality a recognisable linguistic form. Teach criticality by contrasting descriptive and critical versions of the same paragraph and by making the language of evaluation explicit.",
+      "summary": "Moore (2013) found that academics define critical thinking in several distinct ways, so \u2018criticality\u2019 should be unpacked in relation to the discipline and task rather than taught as a single generic skill; its teachability and cultural framing have also been questioned in TESOL (Atkinson, 1997). Lancaster (2014) identified stance patterns valued in high-graded upper-level student writing, such as entertaining alternatives and conceding before countering, which give criticality a recognisable linguistic form. Teach criticality by contrasting descriptive and critical versions of the same paragraph and by making the language of evaluation explicit.",
       "activities": [
         {
           "title": "Describe, analyse, evaluate",
@@ -3563,7 +3563,7 @@
         {
           "title": "Concede and counter",
           "learnerActions": [
-            "Identify concession–counter patterns in an expert or high-graded essay",
+            "Identify concession\u2013counter patterns in an expert or high-graded essay",
             "Write a paragraph that concedes a limitation of your own position and then responds to it"
           ],
           "intendedInsight": "Acknowledging alternatives strengthens rather than weakens a position.",
@@ -3575,10 +3575,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘Being critical means criticising.’",
+          "pattern": "\u2018Being critical means criticising.\u2019",
           "kind": "conceptual",
           "revealedBy": "Wholly negative evaluations; strengths of sources never acknowledged.",
-          "response": "Present criticality as balanced, reasoned judgement and model praise–criticism pairs.",
+          "response": "Present criticality as balanced, reasoned judgement and model praise\u2013criticism pairs.",
           "reteachPrerequisiteId": "crt.description-analysis-evaluation"
         },
         {
@@ -3589,7 +3589,7 @@
           "reteachPrerequisiteId": "sta.evaluating-others-language"
         },
         {
-          "pattern": "Criticality expressed as unsupported opinion (‘I think this theory is wrong’).",
+          "pattern": "Criticality expressed as unsupported opinion (\u2018I think this theory is wrong\u2019).",
           "kind": "developmental",
           "revealedBy": "Evaluations with no reasons or evidence.",
           "response": "Require a reason and evidence for every evaluative claim, and link to evaluating evidence in reading.",
@@ -3599,7 +3599,7 @@
       "diagnostic": {
         "task": "Give a descriptive paragraph summarising two studies and ask the learner to make it critical in no more than 80 additional words.",
         "strongResponse": "Adds evaluation of evidence or method, a comparison of the studies and a judgement tied to the essay's argument.",
-        "partialResponse": "Adds evaluation, but it is generic (‘this study has limitations’) or unconnected to the argument.",
+        "partialResponse": "Adds evaluation, but it is generic (\u2018this study has limitations\u2019) or unconnected to the argument.",
         "gapResponse": "Adds more description, or adds unsupported opinion."
       },
       "contextNotes": "Pre-sessional programmes typically focus on evaluating sources and making a position visible. Undergraduate in-sessional work should address disciplinary forms of criticality, which differ across fields; even within the humanities, Moore (2013) found academics in history, philosophy and cultural studies holding distinct conceptions of critical thinking. PGT writers are expected to engage critically with debates and methods.",
@@ -3615,7 +3615,7 @@
     },
     {
       "topicId": "ess.titles",
-      "summary": "Swales and Feak (2012) treat titles as a short but consequential part of academic texts that should signal the focus of the work, and style guides such as APA (American Psychological Association, 2020) specify title format and capitalisation. Teach titles as a revision task—written or confirmed last, checked against the thesis, and compared with titles in the target discipline.",
+      "summary": "Swales and Feak (2012) treat titles as a short but consequential part of academic texts that should signal the focus of the work, and style guides such as APA (American Psychological Association, 2020) specify title format and capitalisation. Teach titles as a revision task\u2014written or confirmed last, checked against the thesis, and compared with titles in the target discipline.",
       "activities": [
         {
           "title": "Title from thesis",
@@ -3647,7 +3647,7 @@
         {
           "pattern": "Using the essay question, the module code or a single word as the title.",
           "kind": "developmental",
-          "revealedBy": "Titles such as ‘Essay 2’ or ‘Globalisation’.",
+          "revealedBy": "Titles such as \u2018Essay 2\u2019 or \u2018Globalisation\u2019.",
           "response": "Use the title-from-thesis task.",
           "reteachPrerequisiteId": "ess.thesis-statement"
         },
@@ -3674,7 +3674,7 @@
     },
     {
       "topicId": "par.paragraph-unit",
-      "summary": "The one-idea paragraph is a well-established pedagogical model and a helpful default for reading and writing, but Braddock's (1974) analysis of professional expository prose found that many paragraphs did not open with an explicit topic sentence, and some had none. Present the model as a reader-friendly convention rather than a law, and use authentic academic paragraphs alongside textbook models. Swales and Feak (2012) show how paragraphs organise information (for example general–specific), which is useful for awareness-raising.",
+      "summary": "The one-idea paragraph is a well-established pedagogical model and a helpful default for reading and writing, but Braddock's (1974) analysis of professional expository prose found that many paragraphs did not open with an explicit topic sentence, and some had none. Present the model as a reader-friendly convention rather than a law, and use authentic academic paragraphs alongside textbook models. Swales and Feak (2012) show how paragraphs organise information (for example general\u2013specific), which is useful for awareness-raising.",
       "activities": [
         {
           "title": "Paragraph jigsaw",
@@ -3712,7 +3712,7 @@
           "reteachPrerequisiteId": "rds.main-ideas"
         },
         {
-          "pattern": "‘A paragraph is five sentences’ or ‘I start a new paragraph whenever I use However’.",
+          "pattern": "\u2018A paragraph is five sentences\u2019 or \u2018I start a new paragraph whenever I use However\u2019.",
           "kind": "prior-schooling",
           "revealedBy": "Uniform paragraph lengths; breaks at connectors rather than at changes of point.",
           "response": "Discuss paragraphing as a decision about points, and show variation in authentic texts.",
@@ -3767,14 +3767,14 @@
       ],
       "difficulties": [
         {
-          "pattern": "Topic sentences that are too broad (‘Technology has changed society’) or too narrow (a single statistic).",
+          "pattern": "Topic sentences that are too broad (\u2018Technology has changed society\u2019) or too narrow (a single statistic).",
           "kind": "developmental",
           "revealedBy": "Paragraphs that cannot fulfil their opening, or have nowhere to go after it.",
-          "response": "Practise scaling controlling ideas with general and shell nouns (‘two main factors’, ‘a significant limitation’) and test them with prediction.",
+          "response": "Practise scaling controlling ideas with general and shell nouns (\u2018two main factors\u2019, \u2018a significant limitation\u2019) and test them with prediction.",
           "reteachPrerequisiteId": "par.paragraph-unit"
         },
         {
-          "pattern": "Opening with a source (‘Smith (2019) states that…’), so that the source rather than the writer controls the paragraph.",
+          "pattern": "Opening with a source (\u2018Smith (2019) states that\u2026\u2019), so that the source rather than the writer controls the paragraph.",
           "kind": "developmental",
           "revealedBy": "Paragraphs that summarise one source with no point of the writer's own.",
           "response": "Ask learners to begin with their own claim and move the citation into the support.",
@@ -3797,7 +3797,7 @@
     },
     {
       "topicId": "par.support",
-      "summary": "Toulmin's (2003) model makes visible what a supported claim needs: grounds, and the warrant linking them to the claim. Hoey's (1983) general–particular and matching patterns describe how support is typically organised in text, and Andrews (2010) argues that argumentation in higher education needs explicit teaching. Teach support as a repertoire—explanation, data, example, comparison, concession—chosen to fit the claim, with particular emphasis on the explanatory sentences that learners most often omit.",
+      "summary": "Toulmin's (2003) model makes visible what a supported claim needs: grounds, and the warrant linking them to the claim. Hoey's (1983) general\u2013particular and matching patterns describe how support is typically organised in text, and Andrews (2010) argues that argumentation in higher education needs explicit teaching. Teach support as a repertoire\u2014explanation, data, example, comparison, concession\u2014chosen to fit the claim, with particular emphasis on the explanatory sentences that learners most often omit.",
       "activities": [
         {
           "title": "Support-type audit",
@@ -3830,14 +3830,14 @@
         {
           "pattern": "A single example is presented as if it proves a general claim.",
           "kind": "conceptual",
-          "revealedBy": "One anecdote or case per paragraph; ‘For example…’ followed by the end of the paragraph.",
-          "response": "Distinguish illustration from evidence and ask ‘how typical is this example, and how do we know?’",
+          "revealedBy": "One anecdote or case per paragraph; \u2018For example\u2026\u2019 followed by the end of the paragraph.",
+          "response": "Distinguish illustration from evidence and ask \u2018how typical is this example, and how do we know?\u2019",
           "reteachPrerequisiteId": "crt.evidence-types"
         },
         {
           "pattern": "Claim plus quotation, with no explanation of how the quotation supports the claim.",
           "kind": "developmental",
-          "revealedBy": "Quotations ending paragraphs; tutor comments such as ‘so what?’ or ‘explain’.",
+          "revealedBy": "Quotations ending paragraphs; tutor comments such as \u2018so what?\u2019 or \u2018explain\u2019.",
           "response": "Require at least one sentence of the writer's own explanation after each piece of evidence.",
           "reteachPrerequisiteId": "fun.explaining"
         }
@@ -3881,7 +3881,7 @@
             "Write a third with no notes and ask a partner to identify the functions"
           ],
           "intendedInsight": "The functions can be internalised and then used flexibly.",
-          "rationale": "Moving from supported to independent construction reflects the teaching–learning cycle of genre pedagogy (Rose & Martin, 2012).",
+          "rationale": "Moving from supported to independent construction reflects the teaching\u2013learning cycle of genre pedagogy (Rose & Martin, 2012).",
           "citations": [
             "rosemartin2012"
           ]
@@ -3889,9 +3889,9 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘Every paragraph must be PEEL, and the last sentence must link back to the question.’",
+          "pattern": "\u2018Every paragraph must be PEEL, and the last sentence must link back to the question.\u2019",
           "kind": "overgeneralisation",
-          "revealedBy": "Repetitive link sentences (‘This shows that X is important for the question’).",
+          "revealedBy": "Repetitive link sentences (\u2018This shows that X is important for the question\u2019).",
           "response": "Show authentic paragraphs without link sentences and discuss when a link is needed. Do not ban PEEL abruptly; reframe it as one option among several.",
           "reteachPrerequisiteId": null
         },
@@ -3906,7 +3906,7 @@
       "diagnostic": {
         "task": "Ask the learner to write a paragraph making one point supported by two sources that partly disagree.",
         "strongResponse": "Point, both sources integrated with their relationship stated, explanation and a qualified conclusion; the structure departs from PEEL where needed.",
-        "partialResponse": "Uses PEEL rigidly, with two separate evidence–explanation blocks and a formulaic link.",
+        "partialResponse": "Uses PEEL rigidly, with two separate evidence\u2013explanation blocks and a formulaic link.",
         "gapResponse": "Cannot accommodate the second source or the disagreement; only one source is summarised."
       },
       "contextNotes": "PEEL is most useful at foundation and on undergraduate-entry pre-sessionals, especially for learners whose schooling used it; by the end of such a course learners should treat it as one option. On postgraduate-entry pre-sessionals it should at most be revisited diagnostically, since most learners need multi-source paragraphs rather than a single-evidence template. The acronym is common in UK schooling; other systems use similar scaffolds under different names, so ask learners what they were taught. Some learners arriving in in-sessional classes have to unlearn rigid PEEL in disciplines that value other paragraph patterns.",
@@ -3921,7 +3921,7 @@
     },
     {
       "topicId": "par.internal-coherence",
-      "summary": "Daneš (1974) described how themes progress across sentences, and Halliday and Hasan (1976) catalogued the cohesive ties that connect them; Swales and Feak (2012) turn these ideas into practical advice on old-to-new flow. Crossley and McNamara (2012) found that measures of explicit cohesion did not predict higher proficiency ratings of L2 essays in the way often assumed, whereas lexical sophistication did, which supports teaching information flow and logic rather than connector density. Work with learners' own paragraphs and focus on sentence openings.",
+      "summary": "Dane\u0161 (1974) described how themes progress across sentences, and Halliday and Hasan (1976) catalogued the cohesive ties that connect them; Swales and Feak (2012) turn these ideas into practical advice on old-to-new flow. Crossley and McNamara (2012) found that measures of explicit cohesion did not predict higher proficiency ratings of L2 essays in the way often assumed, whereas lexical sophistication did, which supports teaching information flow and logic rather than connector density. Work with learners' own paragraphs and focus on sentence openings.",
       "activities": [
         {
           "title": "Theme tracking",
@@ -3931,7 +3931,7 @@
             "Rewrite sentences whose openings have no backward link"
           ],
           "intendedInsight": "Readers follow a paragraph through what each sentence starts with.",
-          "rationale": "Makes thematic progression (Daneš, 1974) visible and actionable, following the old-to-new advice in Swales and Feak (2012).",
+          "rationale": "Makes thematic progression (Dane\u0161, 1974) visible and actionable, following the old-to-new advice in Swales and Feak (2012).",
           "citations": [
             "danes1974",
             "swalesfeak2012"
@@ -3953,10 +3953,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘Using lots of linking words makes my writing coherent.’",
+          "pattern": "\u2018Using lots of linking words makes my writing coherent.\u2019",
           "kind": "overgeneralisation",
-          "revealedBy": "Most sentences begin with a connector; mismatched relations (‘Moreover’ introducing a contrast).",
-          "response": "Teach logical ordering and given–new first, then precise connector choice. Do not reward connector counts in feedback or rubrics.",
+          "revealedBy": "Most sentences begin with a connector; mismatched relations (\u2018Moreover\u2019 introducing a contrast).",
+          "response": "Teach logical ordering and given\u2013new first, then precise connector choice. Do not reward connector counts in feedback or rubrics.",
           "reteachPrerequisiteId": null
         },
         {
@@ -3969,11 +3969,11 @@
       ],
       "diagnostic": {
         "task": "Give five shuffled sentences from one paragraph and ask for the original order with reasons.",
-        "strongResponse": "Correct order justified by reference, given–new information and logical relations.",
+        "strongResponse": "Correct order justified by reference, given\u2013new information and logical relations.",
         "partialResponse": "Correct order justified mainly by the connectors.",
         "gapResponse": "Order based on content guesses only; no reasons given."
       },
-      "contextNotes": "Foundation learners need basic reference and ordering. Pre-sessional and undergraduate in-sessional learners benefit from given–new and theme work on their own drafts. PGT writers' coherence problems often stem from dense information packaging; link to reg.information-density.",
+      "contextNotes": "Foundation learners need basic reference and ordering. Pre-sessional and undergraduate in-sessional learners benefit from given\u2013new and theme work on their own drafts. PGT writers' coherence problems often stem from dense information packaging; link to reg.information-density.",
       "citations": [
         "danes1974",
         "hallidayhasan1976",
@@ -3992,7 +3992,7 @@
           "title": "So what?",
           "learnerActions": [
             "Read paragraphs that end on a piece of evidence",
-            "Add a final sentence answering ‘so what does this show for the question?’",
+            "Add a final sentence answering \u2018so what does this show for the question?\u2019",
             "Compare versions and choose the one that adds most"
           ],
           "intendedInsight": "The best closing sentences add interpretation, not repetition.",
@@ -4016,14 +4016,14 @@
       ],
       "difficulties": [
         {
-          "pattern": "Closing sentences that repeat the topic sentence in different words (‘Therefore, X is important’).",
+          "pattern": "Closing sentences that repeat the topic sentence in different words (\u2018Therefore, X is important\u2019).",
           "kind": "prior-schooling",
           "revealedBy": "Paragraphs that end where they began; no development of the point.",
           "response": "Ask for one new element in the last sentence: an implication, a limitation or a link to the question.",
           "reteachPrerequisiteId": "fun.summarising-concluding"
         },
         {
-          "pattern": "Overstated closings (‘This proves that…’) after limited evidence.",
+          "pattern": "Overstated closings (\u2018This proves that\u2026\u2019) after limited evidence.",
           "kind": "developmental",
           "revealedBy": "Boosters clustered at paragraph ends.",
           "response": "Link to hedging and claim calibration and ask learners to match the closing claim to the evidence given.",
@@ -4099,7 +4099,7 @@
         "braddock1974"
       ],
       "reviewNotes": [
-        "Numerical guidance on ‘ideal’ paragraph length is deliberately avoided because it varies across genres and disciplines."
+        "Numerical guidance on \u2018ideal\u2019 paragraph length is deliberately avoided because it varies across genres and disciplines."
       ]
     },
     {
@@ -4161,7 +4161,7 @@
     },
     {
       "topicId": "par.integrating-evidence",
-      "summary": "Hyland (1999) shows that citation is a rhetorical choice through which writers position themselves in a disciplinary conversation, and Petrić (2007) found that higher-rated master's theses used citations for a wider range of functions, including evaluation and linking, than lower-rated ones. Pecorari (2013) argues that good source use needs to be taught explicitly rather than policed. Teach introduce–cite–comment as a default sequence, paying particular attention to the commentary sentences learners most often omit.",
+      "summary": "Hyland (1999) shows that citation is a rhetorical choice through which writers position themselves in a disciplinary conversation, and Petri\u0107 (2007) found that higher-rated master's theses used citations for a wider range of functions, including evaluation and linking, than lower-rated ones. Pecorari (2013) argues that good source use needs to be taught explicitly rather than policed. Teach introduce\u2013cite\u2013comment as a default sequence, paying particular attention to the commentary sentences learners most often omit.",
       "activities": [
         {
           "title": "Who is speaking?",
@@ -4184,7 +4184,7 @@
             "Compare comments and rank them by analytic value"
           ],
           "intendedInsight": "The comment is where the writer's contribution lies.",
-          "rationale": "Higher-rated theses used citations for evaluation and linking more often than lower-rated ones (Petrić, 2007).",
+          "rationale": "Higher-rated theses used citations for evaluation and linking more often than lower-rated ones (Petri\u0107, 2007).",
           "citations": [
             "petric2007"
           ]
@@ -4192,9 +4192,9 @@
       ],
       "difficulties": [
         {
-          "pattern": "Paragraphs that are strings of source summaries (‘A says… B says… C says…’).",
+          "pattern": "Paragraphs that are strings of source summaries (\u2018A says\u2026 B says\u2026 C says\u2026\u2019).",
           "kind": "developmental",
-          "revealedBy": "No claims of the writer's own; tutor comments such as ‘where is your voice?’.",
+          "revealedBy": "No claims of the writer's own; tutor comments such as \u2018where is your voice?\u2019.",
           "response": "Require a writer's claim at the start and a comment after each piece of evidence; use short synthesis tasks.",
           "reteachPrerequisiteId": "par.support"
         },
@@ -4202,7 +4202,7 @@
           "pattern": "Not marking where a paraphrase ends, so later sentences could belong either to the writer or to the source.",
           "kind": "conceptual",
           "revealedBy": "Ambiguous attribution; possible plagiarism concerns.",
-          "response": "Teach signal phrases at the boundaries of attributed content and the ‘who is speaking?’ check.",
+          "response": "Teach signal phrases at the boundaries of attributed content and the \u2018who is speaking?\u2019 check.",
           "reteachPrerequisiteId": "sta.averral-attribution"
         },
         {
@@ -4231,7 +4231,7 @@
     },
     {
       "topicId": "wpr.writing-process",
-      "summary": "Flower and Hayes (1981) model composing as goal-directed sub-processes (planning, translating, reviewing) that interrupt one another; Bereiter and Scardamalia (1987) add the contrast between knowledge-telling and knowledge-transforming, which maps closely onto tutors' complaints about ‘description’. Zamel's (1983) case studies suggest that skilled ESL writers, like skilled L1 writers, defer editing and revise for meaning. Teach the model through learners' own process data rather than as a diagram to memorise, and do not present it as a fixed sequence of stages.",
+      "summary": "Flower and Hayes (1981) model composing as goal-directed sub-processes (planning, translating, reviewing) that interrupt one another; Bereiter and Scardamalia (1987) add the contrast between knowledge-telling and knowledge-transforming, which maps closely onto tutors' complaints about \u2018description\u2019. Zamel's (1983) case studies suggest that skilled ESL writers, like skilled L1 writers, defer editing and revise for meaning. Teach the model through learners' own process data rather than as a diagram to memorise, and do not present it as a fixed sequence of stages.",
       "activities": [
         {
           "title": "Process retrospective timeline",
@@ -4263,10 +4263,10 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘I should plan everything first and then just write it out; if I change my plan, I planned badly.’",
+          "pattern": "\u2018I should plan everything first and then just write it out; if I change my plan, I planned badly.\u2019",
           "kind": "prior-schooling",
           "revealedBy": "Outlines followed rigidly even when drafting exposes a weak point; reluctance to restructure; distress when the argument shifts.",
-          "response": "Normalise plan revision by showing real draft histories (your own or published ones) and ask for a short ‘what changed since my plan’ note with each draft. Do not penalise justified departures from a submitted outline.",
+          "response": "Normalise plan revision by showing real draft histories (your own or published ones) and ask for a short \u2018what changed since my plan\u2019 note with each draft. Do not penalise justified departures from a submitted outline.",
           "reteachPrerequisiteId": null
         },
         {
@@ -4283,7 +4283,7 @@
         "partialResponse": "Some planning before writing, but rereading is only for errors and the content order is fixed from the first line.",
         "gapResponse": "Writing starts immediately with no plan, or the whole period is spent planning; reviewing consists only of spelling and grammar checks."
       },
-      "contextNotes": "At foundation and pre-sessional level, use the model to legitimise drafting and redrafting within portfolio or process-based assessment. In-sessional undergraduates benefit from relating it to their own assignment habits and deadlines. For postgraduates and doctoral researchers, emphasise knowledge-transforming and writing as a way of thinking (Kamler & Thomson, 2014), including the cost of postponing writing until the reading is ‘finished’.",
+      "contextNotes": "At foundation and pre-sessional level, use the model to legitimise drafting and redrafting within portfolio or process-based assessment. In-sessional undergraduates benefit from relating it to their own assignment habits and deadlines. For postgraduates and doctoral researchers, emphasise knowledge-transforming and writing as a way of thinking (Kamler & Thomson, 2014), including the cost of postponing writing until the reading is \u2018finished\u2019.",
       "citations": [
         "flowerhayes1981",
         "bereiter1987",
@@ -4302,7 +4302,7 @@
           "title": "Brief deconstruction",
           "learnerActions": [
             "Annotate a real assignment brief in four colours: instruction, topic, limits and other requirements",
-            "Rewrite the task as one sentence beginning 'My text must…'",
+            "Rewrite the task as one sentence beginning 'My text must\u2026'",
             "Compare with a partner, list remaining ambiguities and draft a short message asking the tutor about one of them"
           ],
           "intendedInsight": "A brief contains more instructions than the question line, and some requirements are implicit.",
@@ -4425,7 +4425,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘I have no ideas about this topic.’",
+          "pattern": "\u2018I have no ideas about this topic.\u2019",
           "kind": "affective",
           "revealedBy": "Blank pages, very short plans, requests for model answers.",
           "response": "Start from talk or questions rather than writing, allow L1 notes, and give a short reading to prime content. Do not supply the ideas yourself, which builds dependence.",
@@ -4442,7 +4442,7 @@
       "diagnostic": {
         "task": "Give a question and ask for a three-minute brainstorm, then the three best points with a reason for each choice.",
         "strongResponse": "Ten or more varied ideas, including at least one non-obvious angle; choices justified by the question.",
-        "partialResponse": "Several ideas but similar in kind; choices justified by preference (‘easier to write about’).",
+        "partialResponse": "Several ideas but similar in kind; choices justified by preference (\u2018easier to write about\u2019).",
         "gapResponse": "Two or three ideas that restate the question; no selection rationale."
       },
       "contextNotes": "At foundation level, generation is often the main bottleneck and benefits from oral rehearsal and shared brainstorming. Pre-sessional and in-sessional writers increasingly generate from reading, so link generation to reading questions. For postgraduates, generative writing and discussing ideas with peers or supervisors are usually more useful than formal brainstorming.",
@@ -4462,7 +4462,7 @@
         {
           "title": "Topic labels to claims",
           "learnerActions": [
-            "Take an outline made of topic labels (‘1 Background, 2 Advantages, 3 Disadvantages’)",
+            "Take an outline made of topic labels (\u20181 Background, 2 Advantages, 3 Disadvantages\u2019)",
             "Rewrite each entry as a full-sentence claim that helps answer the question",
             "Read the claims in sequence and check that they form an argument without the body text"
           ],
@@ -4490,11 +4490,11 @@
           "pattern": "Plans are lists of topics copied from lecture headings or source sections.",
           "kind": "prior-schooling",
           "revealedBy": "Outlines consisting of nouns only; essays that describe each topic in turn.",
-          "response": "Require claim-based outlines and model converting topics into claims by asking ‘so what does this section show?’ for each entry.",
+          "response": "Require claim-based outlines and model converting topics into claims by asking \u2018so what does this section show?\u2019 for each entry.",
           "reteachPrerequisiteId": "arg.argument-concept"
         },
         {
-          "pattern": "‘Planning wastes time when the deadline is close or in an exam.’",
+          "pattern": "\u2018Planning wastes time when the deadline is close or in an exam.\u2019",
           "kind": "affective",
           "revealedBy": "No visible plan; essays that drift or end without a conclusion.",
           "response": "Practise five-minute plans and compare the resulting texts with unplanned ones. Do not insist on elaborate plans for every task; brief plans are legitimate.",
@@ -4521,7 +4521,7 @@
     },
     {
       "topicId": "wpr.drafting",
-      "summary": "Zamel (1983) observed that more skilled ESL writers deferred attention to surface form and explored ideas while drafting, and Sommers (1980) found that experienced writers used drafting and redrafting to discover what they meant. In translating ideas into language (Flower & Hayes, 1981), L2 writers carry a heavier linguistic load, so strategies that protect momentum—placeholders, L1 notes, timed drafting—are especially useful. Present drafting as producing complete, revisable text, not as careless writing.",
+      "summary": "Zamel (1983) observed that more skilled ESL writers deferred attention to surface form and explored ideas while drafting, and Sommers (1980) found that experienced writers used drafting and redrafting to discover what they meant. In translating ideas into language (Flower & Hayes, 1981), L2 writers carry a heavier linguistic load, so strategies that protect momentum\u2014placeholders, L1 notes, timed drafting\u2014are especially useful. Present drafting as producing complete, revisable text, not as careless writing.",
       "activities": [
         {
           "title": "Placeholder drafting",
@@ -4553,7 +4553,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘My first sentence has to be perfect before I can go on.’",
+          "pattern": "\u2018My first sentence has to be perfect before I can go on.\u2019",
           "kind": "performance",
           "revealedBy": "Long time spent on introductions, many deleted openings, incomplete drafts.",
           "response": "Start drafting with the easiest body paragraph and write the introduction last. Do not give detailed language feedback on early drafts, which reinforces perfectionism.",
@@ -4679,7 +4679,7 @@
     },
     {
       "topicId": "wpr.audience-purpose",
-      "summary": "Johns (1997) argues for a socioliterate approach in which learners study how texts are shaped by roles and contexts, and Hyland (2005) shows that academic writing is interactive, with writers anticipating readers' needs and objections. The assessed essay's double audience—an expert marker addressed as if an informed peer—is a tacit convention that, as Lea and Street (1998) show, is rarely explained. Make the reader explicit in every task and compare how the same content changes for different readers.",
+      "summary": "Johns (1997) argues for a socioliterate approach in which learners study how texts are shaped by roles and contexts, and Hyland (2005) shows that academic writing is interactive, with writers anticipating readers' needs and objections. The assessed essay's double audience\u2014an expert marker addressed as if an informed peer\u2014is a tacit convention that, as Lea and Street (1998) show, is rarely explained. Make the reader explicit in every task and compare how the same content changes for different readers.",
       "activities": [
         {
           "title": "Same content, three readers",
@@ -4710,9 +4710,9 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘The teacher already knows this, so I don't need to explain it.’",
+          "pattern": "\u2018The teacher already knows this, so I don't need to explain it.\u2019",
           "kind": "conceptual",
-          "revealedBy": "Undefined key terms, skipped reasoning steps, tutor comments such as ‘explain’ or ‘how?’.",
+          "revealedBy": "Undefined key terms, skipped reasoning steps, tutor comments such as \u2018explain\u2019 or \u2018how?\u2019.",
           "response": "Explain the convention of writing for an informed reader who is checking the writer's understanding, and show annotated feedback on such gaps.",
           "reteachPrerequisiteId": null
         },
@@ -4727,8 +4727,8 @@
       "diagnostic": {
         "task": "Ask the learner to identify the reader and purpose of three briefs (an essay, a reflective log, a policy brief) and name one way each affects the writing.",
         "strongResponse": "Distinguishes readers and purposes and names concrete consequences for content, explicitness and register.",
-        "partialResponse": "Identifies the readers but gives generic consequences (‘be formal’).",
-        "gapResponse": "Treats all three as written for ‘the teacher’ with the same purpose of showing knowledge."
+        "partialResponse": "Identifies the readers but gives generic consequences (\u2018be formal\u2019).",
+        "gapResponse": "Treats all three as written for \u2018the teacher\u2019 with the same purpose of showing knowledge."
       },
       "contextNotes": "Foundation learners need the marker-as-reader convention made explicit early. In-sessional undergraduates meet a wider range of readers through professional and public-facing genres. PGT writers increasingly write for specialist peers and practitioners, so audience analysis becomes part of choosing and shaping genres.",
       "citations": [
@@ -4791,7 +4791,7 @@
         "task": "Ask for a schedule and word budget for a 3,000-word assignment due in four weeks alongside two other deadlines.",
         "strongResponse": "Dated milestones, a word budget by section, time for feedback and editing, and explicit handling of competing deadlines.",
         "partialResponse": "Milestones present but no word budget, or no time reserved for revision.",
-        "gapResponse": "A single deadline with a plan to ‘write it in the last week’."
+        "gapResponse": "A single deadline with a plan to \u2018write it in the last week\u2019."
       },
       "contextNotes": "Pre-sessional extended projects are often learners' first long text and a useful rehearsal. Undergraduate and PGT dissertations compress project management into a few months alongside taught modules. For PGR, management spans years and links to supervision, writing groups and publication planning (see res.writing-productivity).",
       "citations": [
@@ -4810,7 +4810,7 @@
         {
           "title": "Rule audit",
           "learnerActions": [
-            "List the writing rules you follow (for example ‘always write the introduction first’ or ‘never use I’)",
+            "List the writing rules you follow (for example \u2018always write the introduction first\u2019 or \u2018never use I\u2019)",
             "Classify each as an absolute rule or a flexible guideline, and look for counter-examples in published writing in your field",
             "Rewrite unhelpful absolute rules as heuristics"
           ],
@@ -4836,14 +4836,14 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘I can't start writing until I know exactly what I think.’",
+          "pattern": "\u2018I can't start writing until I know exactly what I think.\u2019",
           "kind": "conceptual",
           "revealedBy": "Extended reading and note-making with no drafts.",
           "response": "Present writing as a way of finding out what one thinks and set exploratory writing that is not assessed.",
           "reteachPrerequisiteId": "wpr.drafting"
         },
         {
-          "pattern": "‘My English isn't good enough, so whatever I write will be wrong.’",
+          "pattern": "\u2018My English isn't good enough, so whatever I write will be wrong.\u2019",
           "kind": "affective",
           "revealedBy": "Avoidance, missed draft deadlines, very short drafts, apologetic notes to the tutor.",
           "response": "Separate content feedback from language feedback on early drafts and normalise multilingual drafting. Do not respond with intensive error correction on early work, which confirms the fear.",
@@ -4854,7 +4854,7 @@
         "task": "Ask the learner to describe the last time they could not write and what they did about it.",
         "strongResponse": "Names a specific cause and a strategy that addressed it, and identifies what they would do next time.",
         "partialResponse": "Describes the feeling but uses only generic strategies (waiting, more reading).",
-        "gapResponse": "Treats the block as a fixed trait (‘I'm just a bad writer’) and has no strategies."
+        "gapResponse": "Treats the block as a fixed trait (\u2018I'm just a bad writer\u2019) and has no strategies."
       },
       "contextNotes": "Pre-sessional and first-year undergraduates often block on high-stakes first assignments; postgraduates and doctoral researchers more often on long, ill-defined sections. At PGR level, writing groups and retreats provide useful structures, and a persistent block may signal an unresolved conceptual problem worth raising with supervisors.",
       "citations": [
@@ -4868,7 +4868,7 @@
     },
     {
       "topicId": "wpr.l1-in-composing",
-      "summary": "Studies of L2 composing show that writers use the L1 for particular sub-processes, especially planning and generating ideas, and that L1 use tends to decrease as L2 proficiency rises (Wang & Wen, 2002). Cumming (1989) found that writing expertise and L2 proficiency make separate contributions to L2 writing, so composing expertise developed in another language is a resource. Kobayashi and Rinnert (1992) found that lower-proficiency Japanese EFL writers' essays written in Japanese and then translated scored higher on content and organisation than their directly composed essays, so whether to draft directly in English is a contested, task-dependent choice rather than a rule. Translanguaging perspectives (García & Li Wei, 2014) legitimise plurilingual composing. Lee (2020) reports that EFL students who used machine-translation output as a reference while revising reduced some errors, but full-text translation raises learning and integrity questions, so local rules need explicit discussion.",
+      "summary": "Studies of L2 composing show that writers use the L1 for particular sub-processes, especially planning and generating ideas, and that L1 use tends to decrease as L2 proficiency rises (Wang & Wen, 2002). Cumming (1989) found that writing expertise and L2 proficiency make separate contributions to L2 writing, so composing expertise developed in another language is a resource. Kobayashi and Rinnert (1992) found that lower-proficiency Japanese EFL writers' essays written in Japanese and then translated scored higher on content and organisation than their directly composed essays, so whether to draft directly in English is a contested, task-dependent choice rather than a rule. Translanguaging perspectives (Garc\u00eda & Li Wei, 2014) legitimise plurilingual composing. Lee (2020) reports that EFL students who used machine-translation output as a reference while revising reduced some errors, but full-text translation raises learning and integrity questions, so local rules need explicit discussion.",
       "activities": [
         {
           "title": "Language map of my process",
@@ -4891,7 +4891,7 @@
             "Compare the two versions for content, organisation and naturalness, and check specific terms with a dictionary or corpus"
           ],
           "intendedInsight": "Each route has costs and benefits that depend on the task, the writer's proficiency and the rules.",
-          "rationale": "Draws on the plurilingual repertoire as a resource (García & Li Wei, 2014) and on mixed evidence comparing translation with direct composition (Kobayashi & Rinnert, 1992).",
+          "rationale": "Draws on the plurilingual repertoire as a resource (Garc\u00eda & Li Wei, 2014) and on mixed evidence comparing translation with direct composition (Kobayashi & Rinnert, 1992).",
           "citations": [
             "garciawei2014",
             "kobayashirinnert1992"
@@ -4900,7 +4900,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘Using my first language is cheating, or it will stop my English improving.’",
+          "pattern": "\u2018Using my first language is cheating, or it will stop my English improving.\u2019",
           "kind": "affective",
           "revealedBy": "Difficulty generating ideas in English, thin content, guilt about L1 notes.",
           "response": "Explain that L1 planning is common among successful L2 writers and discuss when it helps. Do not ban L1 use in planning activities.",
@@ -4914,10 +4914,10 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Translating clause by clause carries over L1 information order and clause chaining, producing very long or topic–comment sentences that are hard to parse in English.",
+          "pattern": "Translating clause by clause carries over L1 information order and clause chaining, producing very long or topic\u2013comment sentences that are hard to parse in English.",
           "kind": "L1-transfer",
           "revealedBy": "Sentences that are grammatical in parts but difficult to follow; unusual sentence boundaries.",
-          "response": "Try drafting from notes rather than translating clause by clause, then edit sentence boundaries and information order. Explain the mechanism in linguistic terms rather than attributing it to a ‘culture’.",
+          "response": "Try drafting from notes rather than translating clause by clause, then edit sentence boundaries and information order. Explain the mechanism in linguistic terms rather than attributing it to a \u2018culture\u2019.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -4972,7 +4972,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "‘Writing more shows that I know more.’",
+          "pattern": "\u2018Writing more shows that I know more.\u2019",
           "kind": "prior-schooling",
           "revealedBy": "Long background sections, repetition, persistently over-length drafts.",
           "response": "Show marker comments on description and practise reducing background to one or two sentences.",
@@ -5072,13 +5072,13 @@
     "edt.grammar-editing overlaps with grm.error-monitoring and fbk.corrective-feedback. I treat grm.error-monitoring as a hard prerequisite and deliberately did not link to fbk.corrective-feedback, to leave the FBK author free to choose the direction.",
     "edt.criteria-self-assessment overlaps with fbk.self-peer-assessment, and edt.peer-review overlaps with it too. I avoided edges to fbk.self-peer-assessment for the same reason; one of the two self-assessment topics could perhaps be merged in a later revision.",
     "edt.proofreading-ethics overlaps with int.collusion and gai.policies; there is no skeleton topic on literacy brokering and editorial support for doctoral writers beyond pub.multilingual-scholars.",
-    "No skeleton topic covers revising in response to tutor or supervisor feedback specifically (as opposed to fbk.acting-on-feedback in general or pub.responding-reviewers); a topic such as ‘revising from feedback’ would sit naturally in EDT.",
+    "No skeleton topic covers revising in response to tutor or supervisor feedback specifically (as opposed to fbk.acting-on-feedback in general or pub.responding-reviewers); a topic such as \u2018revising from feedback\u2019 would sit naturally in EDT.",
     "ess.essay-types was merged into ges.genre-families (R1-16); the ESS topics treat essay construction across essay types and leave the typology to GES.",
     "ess.criticality overlaps with crt.description-analysis-evaluation and rdc.critical-response. I treat the CRT topic as the conceptual prerequisite and ess.criticality as its written realisation.",
     "ess.headings overlaps with grp.report-conventions and wpr.formatting. I did not link to grp.report-conventions so that the report topic may depend on ess.headings if its author wishes.",
     "ess.titles is not essay-specific (it covers reports, dissertations and articles); it might sit better in a cross-genre domain, or its scope note could be widened explicitly.",
     "ess.answering-question and exm.question-analysis were merged into wpr.task-analysis (R1-13), which now covers coursework and exam tasks and maintaining relevance during drafting. Its former hard edge to ess.thesis-statement was reversed: ess.thesis-statement now depends softly on wpr.task-analysis.",
-    "There is no skeleton topic for the exploratory or ‘delayed-thesis’ essay common in some humanities traditions; ess.thesis-statement notes it as a variant.",
+    "There is no skeleton topic for the exploratory or \u2018delayed-thesis\u2019 essay common in some humanities traditions; ess.thesis-statement notes it as a variant.",
     "par.internal-coherence overlaps heavily with coh.thematic-progression, coh.given-new and coh.lexical-cohesion. I treat the COH topics as prerequisites (resources) and par.internal-coherence as their application to paragraph construction; COH authors should avoid edges from COH topics to par.* to prevent cycles.",
     "par.integrating-evidence overlaps with src.integrating-quotations, src.voice-boundaries and syn.synthesis-paragraphs. I deliberately used sta.averral-attribution and src.signal-phrases rather than src.voice-boundaries as prerequisites so that src.voice-boundaries and syn.synthesis-paragraphs can depend on par.integrating-evidence if their authors wish.",
     "par.paragraph-unit is linked to rds.main-ideas rather than rds.paragraph-structure-reading, so that the reading author can make rds.paragraph-structure-reading depend on par.paragraph-unit or vice versa without creating a cycle through my edges.",
@@ -5090,12 +5090,5 @@
     "wpr.formatting's scope (headings, page layout, templates) overlaps with dig.word-processing (tool use) and ess.headings (rhetorical use of headings). I link wpr.formatting -> dig.word-processing (soft); the digital-literacy author should avoid the reverse edge.",
     "wpr.l1-in-composing overlaps with dig.machine-translation and idn.plurilingual-repertoire. I deliberately did not make it depend on dig.machine-translation, so dig.machine-translation may depend on wpr.l1-in-composing if its author wishes.",
     "Dictation, speech-to-text and other assistive composing technologies are now covered by dig.assistive-technology; EDT and WPR guidance points to it where it changes how a skill is shown."
-  ],
-  "proposedReferences": [
-    {
-      "key": "kobayashirinnert1992",
-      "apa": "Kobayashi, H., & Rinnert, C. (1992). Effects of first language on second language writing: Translation versus direct composition. *Language Learning, 42*(2), 183–215.",
-      "note": "Recommended by reviewer R5-06 to support the mixed-evidence claim in wpr.l1-in-composing. Existence, authors, title and pages confirmed by web search during revision; one bibliographic record gives 1991 and issue 1, so year and issue should be checked, and no DOI is given because none was confirmed against the publisher record."
-    }
   ]
 }

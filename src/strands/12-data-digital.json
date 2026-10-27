@@ -2120,6 +2120,18 @@
       "prerequisiteId": "dig.assistive-technology",
       "strength": "soft",
       "reason": "Knowing how screen readers, read-aloud and captioning tools process documents shows why structure, alternative text and captions are needed"
+    },
+    {
+      "topicId": "dig.machine-translation",
+      "prerequisiteId": "rdp.plurilingual-reading",
+      "strength": "soft",
+      "reason": "Translation-tool use builds on deliberate plurilingual reading strategies"
+    },
+    {
+      "topicId": "dat.describing-trends",
+      "prerequisiteId": "grm.unaccusative-verbs",
+      "strength": "soft",
+      "reason": "Trend verbs (rise, fall, increase) alternate between transitive and intransitive use"
     }
   ],
   "guidance": [

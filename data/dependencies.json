@@ -1,7 +1,7 @@
 {
   "version": "v1",
   "note": "`topicId` depends on `prerequisiteId`. Directed edges of an acyclic graph; reverse an edge to read \"unlocks\".",
-  "edgeCount": 1346,
+  "edgeCount": 1473,
   "dependencies": [
     {
       "topicId": "voc.lexical-coverage",
@@ -224,12 +224,6 @@
       "prerequisiteId": "voc.word-families-morphology",
       "strength": "soft",
       "reason": "Many academic spelling problems arise at morpheme boundaries (suffixation, doubling, -ise/-ize), which depend on understanding derivation."
-    },
-    {
-      "topicId": "voc.university-terminology",
-      "prerequisiteId": "acu.teaching-formats",
-      "strength": "soft",
-      "reason": "Terms such as seminar, tutorial and VLE name teaching formats whose expectations differ between education systems."
     },
     {
       "topicId": "voc.command-words",
@@ -455,6 +449,12 @@
     },
     {
       "topicId": "reg.non-specialist-audiences",
+      "prerequisiteId": "sem.explaining-concepts",
+      "strength": "soft",
+      "reason": "Explaining a concept or reading to classmates who lack the background is the everyday spoken form of adapting content for non-specialists; lay writing extends the same selecting, exemplifying and unpacking to wider audiences."
+    },
+    {
+      "topicId": "reg.non-specialist-audiences",
       "prerequisiteId": "wpr.audience-purpose",
       "strength": "soft",
       "reason": "Lay communication applies general audience-and-purpose analysis to readers whose knowledge and interests differ sharply from the marker's."
@@ -554,12 +554,6 @@
       "prerequisiteId": "voc.countability-academic-nouns",
       "strength": "hard",
       "reason": "much/many, less/fewer and little/few are selected by the countability of the noun"
-    },
-    {
-      "topicId": "grm.tense-aspect",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "soft",
-      "reason": "Tense and aspect are marked on the finite verb phrase, so learners need to identify the finite verb of each clause before choosing or checking tense"
     },
     {
       "topicId": "grm.tense-in-reporting",
@@ -700,12 +694,6 @@
       "reason": "Dependent prepositions are best learned as habitual co-occurrences with particular verbs, nouns and adjectives rather than inferred from meaning"
     },
     {
-      "topicId": "grm.prepositions",
-      "prerequisiteId": "grm.clause-elements",
-      "strength": "soft",
-      "reason": "Distinguishing a prepositional phrase that complements a verb from one that is an adverbial or a postmodifier underlies accurate use (and the debate about 'due to' after be versus as an adverbial)"
-    },
-    {
       "topicId": "grm.clefts-emphasis",
       "prerequisiteId": "grm.anticipatory-it",
       "strength": "soft",
@@ -790,6 +778,48 @@
       "reason": "Error logs are built from coded or direct corrective feedback, so learners need to understand and use correction codes"
     },
     {
+      "topicId": "grm.spoken-grammar",
+      "prerequisiteId": "reg.register-awareness",
+      "strength": "soft",
+      "reason": "Spoken grammar is taught as a set of norms appropriate to a mode and situation rather than as error, which presupposes the idea that grammatical choices vary with register"
+    },
+    {
+      "topicId": "grm.spoken-grammar",
+      "prerequisiteId": "grm.clause-elements",
+      "strength": "soft",
+      "reason": "Recognising what situational ellipsis leaves out (a subject, an auxiliary, a verb phrase) and what a head or tail duplicates draws on identifying clause elements"
+    },
+    {
+      "topicId": "grm.genitive-noun-modifiers",
+      "prerequisiteId": "grm.np-premodification",
+      "strength": "hard",
+      "reason": "One of the three options is a noun premodifier (study aims); choosing it requires control of noun + noun premodification and head-final order"
+    },
+    {
+      "topicId": "grm.genitive-noun-modifiers",
+      "prerequisiteId": "grm.np-postmodification",
+      "strength": "hard",
+      "reason": "The of-phrase option is a prepositional postmodifier, and repairing of-chains requires bracketing stacked postmodifiers"
+    },
+    {
+      "topicId": "grm.genitive-noun-modifiers",
+      "prerequisiteId": "sen.punctuation-mechanics",
+      "strength": "soft",
+      "reason": "Forming singular and plural s-genitives (the author's / the authors') depends on accurate apostrophe placement"
+    },
+    {
+      "topicId": "grm.unaccusative-verbs",
+      "prerequisiteId": "voc.word-grammar-patterns",
+      "strength": "soft",
+      "reason": "Whether a verb is intransitive, transitive or both is a lexical property learned with each verb's complementation pattern"
+    },
+    {
+      "topicId": "grm.unaccusative-verbs",
+      "prerequisiteId": "grm.passive-voice",
+      "strength": "hard",
+      "reason": "Choosing between an intransitive and a passive use of a change-of-state verb, and recognising *was happened as an overpassivisation, presupposes forming passives and knowing that they imply an agent"
+    },
+    {
       "topicId": "sen.sentence-types",
       "prerequisiteId": "grm.clause-elements",
       "strength": "hard",
@@ -824,30 +854,6 @@
       "prerequisiteId": "sen.commas",
       "strength": "hard",
       "reason": "Semicolon uses are defined against the comma: joining independent clauses where a comma would splice, and separating list items that already contain commas"
-    },
-    {
-      "topicId": "sen.apostrophes-hyphens-dashes",
-      "prerequisiteId": "grm.np-premodification",
-      "strength": "soft",
-      "reason": "Hyphenation of compound modifiers depends on recognising that the compound premodifies a head noun (a long-term study versus in the long term)"
-    },
-    {
-      "topicId": "sen.apostrophes-hyphens-dashes",
-      "prerequisiteId": "sen.commas",
-      "strength": "soft",
-      "reason": "Parenthetical dashes are taught as an alternative to paired commas, so comma conventions are usually secured first"
-    },
-    {
-      "topicId": "sen.quotation-punctuation",
-      "prerequisiteId": "sen.commas",
-      "strength": "soft",
-      "reason": "Introducing and closing run-in quotations involves comma placement relative to quotation marks and reporting clauses"
-    },
-    {
-      "topicId": "sen.quotation-punctuation",
-      "prerequisiteId": "cit.author-date-in-text",
-      "strength": "soft",
-      "reason": "The position of the parenthetical citation relative to closing quotation marks and the full stop depends on knowing the in-text citation format"
     },
     {
       "topicId": "sen.sentence-length-variety",
@@ -893,21 +899,15 @@
     },
     {
       "topicId": "sen.clarity-end-weight",
+      "prerequisiteId": "grm.genitive-noun-modifiers",
+      "strength": "soft",
+      "reason": "Rewriting of-chains and ambiguous noun stacks for readability draws on choosing among a genitive, an of-phrase and a noun premodifier"
+    },
+    {
+      "topicId": "sen.clarity-end-weight",
       "prerequisiteId": "coh.given-new",
       "strength": "hard",
       "reason": "End-weight decisions are justified by the given-before-new principle, which tells writers what to place early and late"
-    },
-    {
-      "topicId": "sen.numbers-units-style",
-      "prerequisiteId": "sen.apostrophes-hyphens-dashes",
-      "strength": "soft",
-      "reason": "Ranges use en dashes and numerical compound modifiers use hyphens (a 10-year study), so these marks are taught first"
-    },
-    {
-      "topicId": "sen.numbers-units-style",
-      "prerequisiteId": "num.number-expressions",
-      "strength": "soft",
-      "reason": "Style conventions for rendering numbers presuppose accurate expression of quantities, fractions, percentages and ratios"
     },
     {
       "topicId": "sen.lists-bullets",
@@ -926,6 +926,24 @@
       "prerequisiteId": "ges.genre-concept",
       "strength": "soft",
       "reason": "Whether lists are acceptable depends on genre conventions, so learners need the idea that genres carry distinct expectations"
+    },
+    {
+      "topicId": "sen.punctuation-mechanics",
+      "prerequisiteId": "grm.np-premodification",
+      "strength": "soft",
+      "reason": "Hyphenation of compound modifiers depends on recognising that the compound premodifies a head noun (a long-term study versus in the long term)"
+    },
+    {
+      "topicId": "sen.punctuation-mechanics",
+      "prerequisiteId": "sen.commas",
+      "strength": "soft",
+      "reason": "Parenthetical dashes are taught as an alternative to paired commas, so comma conventions are usually secured first"
+    },
+    {
+      "topicId": "sen.punctuation-mechanics",
+      "prerequisiteId": "cit.author-date-in-text",
+      "strength": "soft",
+      "reason": "The position of the parenthetical citation relative to closing quotation marks and the full stop depends on knowing the in-text citation format"
     },
     {
       "topicId": "coh.lexical-cohesion",
@@ -947,6 +965,12 @@
     },
     {
       "topicId": "coh.linking-adverbials",
+      "prerequisiteId": "grm.subordination",
+      "strength": "hard",
+      "reason": "Choosing between although/whereas and however/nevertheless requires control of subordinate clause structure as well as meaning"
+    },
+    {
+      "topicId": "coh.linking-adverbials",
       "prerequisiteId": "sen.sentence-types",
       "strength": "soft",
       "reason": "Using linking adverbials correctly depends on recognising independent clauses and how they are combined, as distinct from coordination and subordination"
@@ -956,18 +980,6 @@
       "prerequisiteId": "coh.cohesion-vs-coherence",
       "strength": "soft",
       "reason": "Understanding that connectors signal but do not create logical relations is the basis for selective rather than maximal connector use"
-    },
-    {
-      "topicId": "coh.connector-precision",
-      "prerequisiteId": "grm.subordination",
-      "strength": "hard",
-      "reason": "Choosing between although/whereas and however/nevertheless requires control of subordinate clause structure as well as meaning"
-    },
-    {
-      "topicId": "coh.connector-precision",
-      "prerequisiteId": "coh.linking-adverbials",
-      "strength": "hard",
-      "reason": "Fine distinctions among contrastive and resultative connectors presuppose control of the basic semantic categories of linking adverbials"
     },
     {
       "topicId": "coh.given-new",
@@ -1021,7 +1033,7 @@
       "topicId": "coh.frame-markers",
       "prerequisiteId": "coh.writer-responsibility",
       "strength": "soft",
-      "reason": "Frame markers are a principal means by which writers take responsibility for making a text's organisation explicit to the reader"
+      "reason": "Frame markers are a principal means by which writers make a text's organisation explicit for the reader"
     },
     {
       "topicId": "coh.paragraph-transitions",
@@ -1063,25 +1075,13 @@
       "topicId": "coh.writer-responsibility",
       "prerequisiteId": "coh.cohesion-vs-coherence",
       "strength": "hard",
-      "reason": "Writer responsibility concerns who makes coherence relations explicit, so the notion of coherence relations must already be in place"
+      "reason": "Deciding which relations to state for a reader presupposes the notion of coherence relations that the reader must otherwise recover by inference"
     },
     {
       "topicId": "coh.writer-responsibility",
       "prerequisiteId": "wpr.audience-purpose",
       "strength": "soft",
       "reason": "Deciding how much to make explicit depends on a model of the intended reader and the purpose of the text"
-    },
-    {
-      "topicId": "coh.spoken-signposting",
-      "prerequisiteId": "reg.spoken-vs-written",
-      "strength": "soft",
-      "reason": "Understanding that speech is processed in real time without the visual layout of writing explains why spoken discourse needs denser, differently worded signposting"
-    },
-    {
-      "topicId": "coh.spoken-signposting",
-      "prerequisiteId": "coh.linking-adverbials",
-      "strength": "soft",
-      "reason": "Micro-markers and many macro-markers express the same additive, contrastive and sequential relations as written linking adverbials"
     },
     {
       "topicId": "sta.metadiscourse",
@@ -1100,6 +1100,12 @@
       "prerequisiteId": "voc.academic-verbs",
       "strength": "soft",
       "reason": "Lexical hedges such as suggest, indicate and appear depend on knowing these verbs' meanings, strength and complementation"
+    },
+    {
+      "topicId": "sta.hedging",
+      "prerequisiteId": "grm.determiners-quantifiers",
+      "strength": "soft",
+      "reason": "Bounding generalisations uses quantifiers (most, a minority of, few) whose grammar learners need, although modal and lexical hedging can be taught before or alongside them"
     },
     {
       "topicId": "sta.hedging",
@@ -1234,8 +1240,20 @@
       "reason": "A distinct authorial voice depends on keeping the writer's own averrals separate from, and in control of, attributed content"
     },
     {
+      "topicId": "sta.authorial-voice",
+      "prerequisiteId": "idn.academic-identity",
+      "strength": "soft",
+      "reason": "Authorial voice is the textual construction of an academic identity"
+    },
+    {
+      "topicId": "sta.authorial-voice",
+      "prerequisiteId": "idn.translingual-writing",
+      "strength": "soft",
+      "reason": "Translingual choices are one resource for constructing an authorial voice"
+    },
+    {
       "topicId": "sta.concession-language",
-      "prerequisiteId": "coh.connector-precision",
+      "prerequisiteId": "coh.linking-adverbials",
       "strength": "hard",
       "reason": "Concession depends on distinguishing concessive connectors (although, nevertheless) from contrastive ones and controlling their grammar"
     },
@@ -1244,18 +1262,6 @@
       "prerequisiteId": "sta.hedging",
       "strength": "soft",
       "reason": "Impersonal concessive frames (it could be argued that) use hedging resources to entertain a view without endorsing it"
-    },
-    {
-      "topicId": "sta.generalisation-qualification",
-      "prerequisiteId": "grm.determiners-quantifiers",
-      "strength": "hard",
-      "reason": "Bounding a generalisation relies on accurate quantifiers (most, a minority of, few) and their grammar"
-    },
-    {
-      "topicId": "sta.generalisation-qualification",
-      "prerequisiteId": "sta.hedging",
-      "strength": "soft",
-      "reason": "Qualifying scope is one form of hedging; learners who already hedge certainty can extend this to quantity, frequency and context"
     },
     {
       "topicId": "sta.code-glosses",
@@ -1273,7 +1279,7 @@
       "topicId": "sta.spoken-stance",
       "prerequisiteId": "reg.spoken-vs-written",
       "strength": "soft",
-      "reason": "Spoken stance uses different resources (opinion frames, vague language, prosody) from writing, so awareness of spoken–written differences prevents transfer of written hedges into talk"
+      "reason": "Spoken stance uses different resources (opinion frames, vague language, prosody) from writing, so awareness of spoken–written differences can reduce transfer of written hedges into talk"
     },
     {
       "topicId": "sta.spoken-stance",
@@ -1304,6 +1310,12 @@
       "prerequisiteId": "grm.passive-voice",
       "strength": "hard",
       "reason": "Describing processes where the agent is unknown or unimportant relies heavily on the passive"
+    },
+    {
+      "topicId": "fun.describing-process",
+      "prerequisiteId": "grm.unaccusative-verbs",
+      "strength": "soft",
+      "reason": "Describing processes often uses unaccusative verbs (occur, emerge) that do not take the passive"
     },
     {
       "topicId": "fun.describing-process",
@@ -1559,9 +1571,9 @@
     },
     {
       "topicId": "rdp.plurilingual-reading",
-      "prerequisiteId": "dig.machine-translation",
+      "prerequisiteId": "idn.plurilingual-repertoire",
       "strength": "soft",
-      "reason": "Using machine translation to support reading presupposes knowing what MT can and cannot do and what uses are permitted"
+      "reason": "Strategic reading across languages applies the learner's broader plurilingual repertoire, which should be recognised as a resource before tools such as machine translation are introduced"
     },
     {
       "topicId": "rds.previewing",
@@ -1602,8 +1614,8 @@
     {
       "topicId": "rds.scanning",
       "prerequisiteId": "rdp.reading-purpose",
-      "strength": "hard",
-      "reason": "Scanning is defined by a specific information target set by the reading purpose"
+      "strength": "soft",
+      "reason": "Scanning is driven by a specific information target; stating that target is the simplest form of purpose-setting, so the two are usually taught together at entry level"
     },
     {
       "topicId": "rds.main-ideas",
@@ -1769,7 +1781,7 @@
     },
     {
       "topicId": "rdc.argument-identification",
-      "prerequisiteId": "coh.connector-precision",
+      "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
       "reason": "Reasons, conclusions and counter-arguments are often signalled by causal and contrastive connectors"
     },
@@ -1864,24 +1876,6 @@
       "reason": "Weighing conflicting claims draws on evaluating each source's authority, currency and purpose"
     },
     {
-      "topicId": "rdc.reading-for-writing",
-      "prerequisiteId": "rdp.managing-reading-load",
-      "strength": "soft",
-      "reason": "Reading for a task applies triage and planning to the sources an assignment requires"
-    },
-    {
-      "topicId": "rdc.reading-for-writing",
-      "prerequisiteId": "ntk.notes-from-reading",
-      "strength": "soft",
-      "reason": "Usable task-oriented reading depends on notes that record source details and separate quotation, paraphrase and comment"
-    },
-    {
-      "topicId": "rdc.reading-for-writing",
-      "prerequisiteId": "wpr.task-analysis",
-      "strength": "hard",
-      "reason": "Reading priorities are derived from an analysis of the assignment question, scope and criteria"
-    },
-    {
       "topicId": "rdc.literature-mapping",
       "prerequisiteId": "rdp.managing-reading-load",
       "strength": "soft",
@@ -1918,24 +1912,6 @@
       "reason": "Reconstructing a theoretical argument applies argument identification at a high level of abstraction"
     },
     {
-      "topicId": "rdc.critical-questions",
-      "prerequisiteId": "rdc.critical-reading",
-      "strength": "hard",
-      "reason": "Critical question sets operationalise an understanding of what critical reading involves"
-    },
-    {
-      "topicId": "rdc.critical-questions",
-      "prerequisiteId": "rdc.argument-identification",
-      "strength": "soft",
-      "reason": "Questions about claims, reasons and evidence presuppose that these can be located in the text"
-    },
-    {
-      "topicId": "rdc.critical-questions",
-      "prerequisiteId": "crt.questioning",
-      "strength": "soft",
-      "reason": "Text-specific critical questions build on a general habit of asking how, why and with what evidence"
-    },
-    {
       "topicId": "rdc.critical-response",
       "prerequisiteId": "rdc.evidence-evaluation",
       "strength": "soft",
@@ -1949,7 +1925,7 @@
     },
     {
       "topicId": "rdc.critical-response",
-      "prerequisiteId": "rdc.critical-questions",
+      "prerequisiteId": "crt.questioning",
       "strength": "hard",
       "reason": "A reasoned response is built from answers to systematic critical questions about the text"
     },
@@ -2008,16 +1984,10 @@
       "reason": "Knowledge of lecture phases is a top-down resource for meaning-building, which learners use better once they see listening as interactive"
     },
     {
-      "topicId": "lis.lecture-structure",
-      "prerequisiteId": "acu.teaching-formats",
-      "strength": "soft",
-      "reason": "Understanding what lectures are for within university teaching explains why they contain structuring, evaluation and interaction phases"
-    },
-    {
       "topicId": "lis.lecture-discourse-markers",
-      "prerequisiteId": "coh.spoken-signposting",
+      "prerequisiteId": "lis.connected-speech",
       "strength": "soft",
-      "reason": "Recognising markers in real time draws on knowing the inventory and functions of spoken signposting language"
+      "reason": "Micro-markers such as so, now and right are usually unstressed and reduced, so recognising them depends on decoding connected speech"
     },
     {
       "topicId": "lis.lecture-discourse-markers",
@@ -2333,12 +2303,6 @@
     },
     {
       "topicId": "sem.preparation",
-      "prerequisiteId": "rdc.critical-questions",
-      "strength": "soft",
-      "reason": "Preparing questions and positions draws on routines for interrogating a text's claims, evidence and implications"
-    },
-    {
-      "topicId": "sem.preparation",
       "prerequisiteId": "ntk.notes-from-reading",
       "strength": "soft",
       "reason": "Seminar preparation notes extend reading notes that keep source details and separate the author's claims from the reader's comments"
@@ -2348,6 +2312,18 @@
       "prerequisiteId": "sem.seminar-purposes",
       "strength": "hard",
       "reason": "What counts as adequate preparation depends on knowing what the seminar is for and how contributions are judged"
+    },
+    {
+      "topicId": "sem.preparation",
+      "prerequisiteId": "crt.questioning",
+      "strength": "soft",
+      "reason": "Preparing questions and positions draws on routines for interrogating a text's claims, evidence and implications"
+    },
+    {
+      "topicId": "sem.turn-taking",
+      "prerequisiteId": "grm.spoken-grammar",
+      "strength": "soft",
+      "reason": "Holding the floor while formulating relies on spoken-grammar resources such as discourse markers, fillers and heads"
     },
     {
       "topicId": "sem.turn-taking",
@@ -2453,7 +2429,7 @@
     },
     {
       "topicId": "sem.citing-in-speech",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Oral attribution adapts written signal phrases and the marking of where attributed content ends"
     },
@@ -2462,6 +2438,12 @@
       "prerequisiteId": "sem.summarising-discussion",
       "strength": "hard",
       "reason": "Facilitators must summarise at transitions and at the close, and must track how contributions relate"
+    },
+    {
+      "topicId": "sem.facilitating",
+      "prerequisiteId": "sem.explaining-concepts",
+      "strength": "soft",
+      "reason": "Facilitators encourage conceptual talk by rephrasing, exemplifying and checking that the group shares an understanding of key ideas"
     },
     {
       "topicId": "sem.facilitating",
@@ -2536,6 +2518,30 @@
       "reason": "Learners need to understand advocacy as distinct from exploratory inquiry to use debate appropriately and not transfer its norms to seminars"
     },
     {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "fun.defining",
+      "strength": "soft",
+      "reason": "Accessible explanations usually begin by defining the key term and its distinguishing features"
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "fun.exemplifying",
+      "strength": "soft",
+      "reason": "Choosing an example or analogy that fits the listener is a central explanation move"
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "sem.checking-understanding",
+      "strength": "hard",
+      "reason": "Explaining to peers depends on noticing non-understanding, checking and reformulating, which are the core confirmation and repair moves"
+    },
+    {
+      "topicId": "sem.explaining-concepts",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "soft",
+      "reason": "Drawing on shared languages to clarify a concept applies plurilingual strategies for making meaning"
+    },
+    {
       "topicId": "prs.purpose-audience",
       "prerequisiteId": "reg.register-awareness",
       "strength": "soft",
@@ -2573,15 +2579,27 @@
     },
     {
       "topicId": "prs.signposting",
-      "prerequisiteId": "coh.spoken-signposting",
-      "strength": "hard",
-      "reason": "Presentation signposting applies the general repertoire of spoken macro- and micro-markers to monologue"
+      "prerequisiteId": "phr.spoken-academic-formulas",
+      "strength": "soft",
+      "reason": "Many macro-markers are spoken academic formulas that speakers retrieve as chunks under real-time pressure"
+    },
+    {
+      "topicId": "prs.signposting",
+      "prerequisiteId": "reg.spoken-vs-written",
+      "strength": "soft",
+      "reason": "Understanding that speech is processed in real time without the visual layout of writing explains why spoken discourse needs denser, differently worded signposting"
     },
     {
       "topicId": "prs.signposting",
       "prerequisiteId": "prs.structure",
       "strength": "hard",
       "reason": "Signposts announce and mark transitions between parts of a structure the speaker has planned"
+    },
+    {
+      "topicId": "prs.signposting",
+      "prerequisiteId": "prn.thought-groups",
+      "strength": "soft",
+      "reason": "Audible section boundaries depend on pausing and chunking speech into thought groups"
     },
     {
       "topicId": "prs.slide-design",
@@ -2663,6 +2681,12 @@
     },
     {
       "topicId": "prs.speaking-from-notes",
+      "prerequisiteId": "grm.spoken-grammar",
+      "strength": "soft",
+      "reason": "Formulating sentences from prompts draws on spoken grammar such as clause chaining, heads and ellipsis rather than written sentence structure"
+    },
+    {
+      "topicId": "prs.speaking-from-notes",
       "prerequisiteId": "prs.structure",
       "strength": "soft",
       "reason": "Prompts encode a planned structure, which must exist before notes can be reduced to cues"
@@ -2711,6 +2735,12 @@
     },
     {
       "topicId": "prs.posters",
+      "prerequisiteId": "sen.concision",
+      "strength": "soft",
+      "reason": "Text economy on posters depends on removing redundancy and compressing claims"
+    },
+    {
+      "topicId": "prs.posters",
       "prerequisiteId": "prs.explaining-visuals",
       "strength": "soft",
       "reason": "Guiding visitors through figures on the poster uses the orient–highlight–interpret routine"
@@ -2723,9 +2753,15 @@
     },
     {
       "topicId": "prs.posters",
-      "prerequisiteId": "mmd.poster-design",
+      "prerequisiteId": "dat.creating-visuals",
+      "strength": "soft",
+      "reason": "Posters rely on figures that carry the evidence, so honest and legible chart design is needed"
+    },
+    {
+      "topicId": "prs.posters",
+      "prerequisiteId": "mmd.multimodal-literacy",
       "strength": "hard",
-      "reason": "Presenting a poster presupposes a poster whose layout and reading path the presenter understands and can use"
+      "reason": "Poster design applies salience, reading path and image–text relations to a specific genre"
     },
     {
       "topicId": "prs.research-presentations",
@@ -2806,6 +2842,30 @@
       "reason": "The rehearse–evaluate–adjust cycle is an instance of forethought, performance and self-reflection"
     },
     {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "reg.non-specialist-audiences",
+      "strength": "hard",
+      "reason": "Pitches to mixed audiences apply plain-language and public-engagement principles to spoken research communication"
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "prs.purpose-audience",
+      "strength": "hard",
+      "reason": "A pitch is defined by selecting content for a mixed audience and a single purpose"
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "prs.delivery-voice",
+      "strength": "soft",
+      "reason": "With little time to repeat, the key message must be made audible through pausing and prominence"
+    },
+    {
+      "topicId": "prs.research-pitches",
+      "prerequisiteId": "prs.rehearsal-timing",
+      "strength": "hard",
+      "reason": "Fixed, very short time limits make timed rehearsal and planned cuts essential"
+    },
+    {
       "topicId": "prn.word-stress",
       "prerequisiteId": "voc.word-families-morphology",
       "strength": "soft",
@@ -2827,7 +2887,7 @@
       "topicId": "prn.prominence",
       "prerequisiteId": "coh.given-new",
       "strength": "soft",
-      "reason": "Placing prominence on new or contrastive information and de-accenting given information requires the given–new distinction"
+      "reason": "Prominence work makes the given–new distinction audible; the written-discourse treatment can follow or run in parallel"
     },
     {
       "topicId": "prn.prominence",
@@ -3023,6 +3083,12 @@
     },
     {
       "topicId": "grw.inclusive-collaboration",
+      "prerequisiteId": "sem.explaining-concepts",
+      "strength": "soft",
+      "reason": "Explaining concepts and readings for members with different language and disciplinary backgrounds is one of the main practical ways of making participation equitable"
+    },
+    {
+      "topicId": "grw.inclusive-collaboration",
       "prerequisiteId": "idn.elf",
       "strength": "soft",
       "reason": "Accommodating to varied accents and proficiency rests on understanding communicative effectiveness among multilingual users of English"
@@ -3076,6 +3142,12 @@
       "reason": "A full task representation includes the reader and purpose the text is written for, beyond the question wording"
     },
     {
+      "topicId": "wpr.task-analysis",
+      "prerequisiteId": "exm.exam-formats",
+      "strength": "soft",
+      "reason": "Analysing exam questions and allocating time depend on knowing the paper's format and how marks are distributed"
+    },
+    {
       "topicId": "wpr.generating-ideas",
       "prerequisiteId": "wpr.writing-process",
       "strength": "soft",
@@ -3119,15 +3191,21 @@
     },
     {
       "topicId": "wpr.reading-to-write",
-      "prerequisiteId": "rdc.reading-for-writing",
+      "prerequisiteId": "rdp.managing-reading-load",
       "strength": "soft",
-      "reason": "Selecting and organising reading around the assignment question precedes integrating that reading into a draft"
+      "reason": "Reading for a task applies triage and planning to the sources an assignment requires"
     },
     {
       "topicId": "wpr.reading-to-write",
       "prerequisiteId": "ntk.notes-from-reading",
       "strength": "hard",
       "reason": "Writing from notes rather than the open source depends on notes that record source details and separate source content from the writer's own comment"
+    },
+    {
+      "topicId": "wpr.reading-to-write",
+      "prerequisiteId": "wpr.task-analysis",
+      "strength": "hard",
+      "reason": "Reading priorities are derived from an analysis of the assignment question, scope and criteria"
     },
     {
       "topicId": "wpr.reading-to-write",
@@ -3311,7 +3389,7 @@
     },
     {
       "topicId": "par.integrating-evidence",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Introducing and attributing evidence, and marking where attributed content ends, uses signal phrases"
     },
@@ -3335,9 +3413,15 @@
     },
     {
       "topicId": "ess.thesis-statement",
-      "prerequisiteId": "sta.generalisation-qualification",
+      "prerequisiteId": "sta.hedging",
       "strength": "soft",
       "reason": "Scoping a thesis to what can be supported uses the language of bounded generalisation and qualification"
+    },
+    {
+      "topicId": "ess.thesis-statement",
+      "prerequisiteId": "wpr.task-analysis",
+      "strength": "soft",
+      "reason": "A thesis answers the question as the writer has represented it, including its command words and limiting conditions"
     },
     {
       "topicId": "ess.thesis-statement",
@@ -3418,42 +3502,6 @@
       "reason": "Thematic rather than source-by-source organisation depends on understanding synthesis"
     },
     {
-      "topicId": "ess.answering-question",
-      "prerequisiteId": "wpr.task-analysis",
-      "strength": "hard",
-      "reason": "Relevance can only be judged against an accurate representation of what the question asks"
-    },
-    {
-      "topicId": "ess.answering-question",
-      "prerequisiteId": "par.topic-sentences",
-      "strength": "soft",
-      "reason": "Topic sentences are the main place where each paragraph's link to the question is made explicit"
-    },
-    {
-      "topicId": "ess.answering-question",
-      "prerequisiteId": "ess.thesis-statement",
-      "strength": "hard",
-      "reason": "Relevance is maintained by checking each part of the essay against a thesis that answers the question"
-    },
-    {
-      "topicId": "ess.essay-types",
-      "prerequisiteId": "voc.command-words",
-      "strength": "soft",
-      "reason": "Recognising the essay type a question implies relies partly on interpreting its command words"
-    },
-    {
-      "topicId": "ess.essay-types",
-      "prerequisiteId": "coh.text-patterns",
-      "strength": "soft",
-      "reason": "Essay types are realised through characteristic text patterns such as cause–effect and problem–solution"
-    },
-    {
-      "topicId": "ess.essay-types",
-      "prerequisiteId": "ess.essay-structure",
-      "strength": "hard",
-      "reason": "Essay types are variations on the basic thesis-led structure, so the general structure must be understood first"
-    },
-    {
       "topicId": "ess.headings",
       "prerequisiteId": "wpr.formatting",
       "strength": "soft",
@@ -3509,7 +3557,7 @@
     },
     {
       "topicId": "ess.titles",
-      "prerequisiteId": "sen.capitalisation",
+      "prerequisiteId": "sen.punctuation-mechanics",
       "strength": "soft",
       "reason": "Titles follow sentence-case or title-case conventions of the required style"
     },
@@ -3599,7 +3647,7 @@
     },
     {
       "topicId": "edt.proofreading",
-      "prerequisiteId": "sen.apostrophes-hyphens-dashes",
+      "prerequisiteId": "sen.punctuation-mechanics",
       "strength": "soft",
       "reason": "Apostrophes, hyphens and dashes are frequent sources of surface error checked at proofreading"
     },
@@ -3644,24 +3692,6 @@
       "prerequisiteId": "prg.politeness",
       "strength": "soft",
       "reason": "Phrasing critical comments to peers requires awareness of face and mitigation"
-    },
-    {
-      "topicId": "edt.editing-tools",
-      "prerequisiteId": "edt.grammar-editing",
-      "strength": "hard",
-      "reason": "Evaluating a tool's grammar suggestions requires enough grammatical knowledge and checking routine to accept or reject them"
-    },
-    {
-      "topicId": "edt.editing-tools",
-      "prerequisiteId": "edt.proofreading",
-      "strength": "soft",
-      "reason": "Spell-checkers supplement but do not replace proofreading, for example of correctly spelt wrong words"
-    },
-    {
-      "topicId": "edt.editing-tools",
-      "prerequisiteId": "gai.how-genai-works",
-      "strength": "soft",
-      "reason": "Judging AI rewriting suggestions depends on understanding that such tools generate plausible text that may change meaning"
     },
     {
       "topicId": "edt.proofreading-ethics",
@@ -3820,20 +3850,14 @@
       "reason": "Reproducibility depends on documenting every search and screening decision"
     },
     {
-      "topicId": "src.source-functions",
-      "prerequisiteId": "arg.argument-concept",
-      "strength": "soft",
-      "reason": "Seeing sources as doing jobs presupposes the idea that an academic text advances a reasoned position which sources serve"
-    },
-    {
       "topicId": "src.quoting",
-      "prerequisiteId": "sen.quotation-punctuation",
+      "prerequisiteId": "sen.punctuation-mechanics",
       "strength": "hard",
       "reason": "Accurate quotation requires the conventions for quotation marks, ellipses and square brackets"
     },
     {
       "topicId": "src.quoting",
-      "prerequisiteId": "src.source-functions",
+      "prerequisiteId": "cit.citation-functions",
       "strength": "soft",
       "reason": "Deciding whether to quote depends on what the source is doing for the writer's text"
     },
@@ -3845,7 +3869,7 @@
     },
     {
       "topicId": "src.integrating-quotations",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Framing a quotation uses attribution frames to introduce the source"
     },
@@ -3923,7 +3947,7 @@
     },
     {
       "topicId": "src.summarising-passage",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "soft",
       "reason": "Summaries must be attributed to their source with signal phrases or citations"
     },
@@ -3947,13 +3971,19 @@
     },
     {
       "topicId": "src.reporting-verbs",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "grm.reporting-structures",
       "strength": "hard",
-      "reason": "Reporting verbs extend basic attribution frames with choices of act and stance"
+      "reason": "Signal phrases and reporting verbs instantiate reporting structures (verb + that-clause, noun phrase + as, according to, as X notes); without the structures learners produce blended or ungrammatical frames"
+    },
+    {
+      "topicId": "src.reporting-verbs",
+      "prerequisiteId": "cit.when-to-cite",
+      "strength": "soft",
+      "reason": "Learners need to know which content requires attribution before learning how to signal it in the sentence"
     },
     {
       "topicId": "src.citation-forms",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Integral citation builds on attribution frames that make the cited author a sentence element"
     },
@@ -3962,18 +3992,6 @@
       "prerequisiteId": "cit.author-date-in-text",
       "strength": "soft",
       "reason": "Contrasting integral and non-integral forms presupposes the mechanics of in-text citation"
-    },
-    {
-      "topicId": "src.signal-phrases",
-      "prerequisiteId": "grm.reporting-structures",
-      "strength": "soft",
-      "reason": "Attribution frames instantiate reporting structures (verb + that-clause, according to, as X notes)"
-    },
-    {
-      "topicId": "src.signal-phrases",
-      "prerequisiteId": "cit.when-to-cite",
-      "strength": "soft",
-      "reason": "Learners need to know which content requires attribution before learning how to signal it in the sentence"
     },
     {
       "topicId": "src.voice-boundaries",
@@ -3989,7 +4007,7 @@
     },
     {
       "topicId": "src.voice-boundaries",
-      "prerequisiteId": "src.signal-phrases",
+      "prerequisiteId": "src.reporting-verbs",
       "strength": "hard",
       "reason": "Marking where attributed content begins and continues uses signal phrases"
     },
@@ -4036,16 +4054,22 @@
       "reason": "Treating sources in other languages as legitimate draws on a view of the learner's plurilingual repertoire as a resource"
     },
     {
-      "topicId": "syn.synthesis-concept",
-      "prerequisiteId": "src.source-functions",
-      "strength": "hard",
-      "reason": "Synthesis rests on the idea that sources serve the writer's purposes rather than being reported for their own sake"
+      "topicId": "src.multilingual-sources",
+      "prerequisiteId": "idn.translingual-writing",
+      "strength": "soft",
+      "reason": "Using sources in other languages connects to translingual approaches to academic text"
     },
     {
       "topicId": "syn.synthesis-concept",
       "prerequisiteId": "src.summarising-passage",
       "strength": "soft",
       "reason": "Learners grasp synthesis by contrast with summarising individual sources, which they need to have practised"
+    },
+    {
+      "topicId": "syn.synthesis-concept",
+      "prerequisiteId": "cit.citation-functions",
+      "strength": "soft",
+      "reason": "Synthesis rests on the idea that sources serve the writer's purposes rather than being reported for their own sake, which the analysis of citation functions makes explicit; learners can begin synthesis from paired examples before meeting the full taxonomy"
     },
     {
       "topicId": "syn.synthesis-matrix",
@@ -4073,7 +4097,7 @@
     },
     {
       "topicId": "syn.thematic-grouping",
-      "prerequisiteId": "rdc.reading-for-writing",
+      "prerequisiteId": "wpr.reading-to-write",
       "strength": "soft",
       "reason": "Grouping sources around question-relevant themes presupposes reading selectively in relation to the writing task"
     },
@@ -4168,6 +4192,18 @@
       "reason": "Many integrated tasks require relating sources to one another rather than summarising each"
     },
     {
+      "topicId": "syn.integrated-tasks",
+      "prerequisiteId": "exm.timed-writing",
+      "strength": "soft",
+      "reason": "Integrated test responses are produced under strict time limits and draw on rapid planning and time allocation"
+    },
+    {
+      "topicId": "syn.integrated-tasks",
+      "prerequisiteId": "tst.test-formats",
+      "strength": "soft",
+      "reason": "Preparing for a test's integrated tasks draws on knowing that test's current task types, timing and delivery; coursework and progression tasks do not require it"
+    },
+    {
       "topicId": "cit.when-to-cite",
       "prerequisiteId": "cit.why-cite",
       "strength": "hard",
@@ -4229,7 +4265,7 @@
     },
     {
       "topicId": "cit.reference-list",
-      "prerequisiteId": "sen.capitalisation",
+      "prerequisiteId": "sen.punctuation-mechanics",
       "strength": "soft",
       "reason": "Guides require sentence case for some title elements and title case for others, and this is one of the most frequent reference-list errors"
     },
@@ -4264,6 +4300,12 @@
       "reason": "Locators are obligatory with direct quotation, so learners must first know what counts as quoting and when to quote"
     },
     {
+      "topicId": "cit.locators",
+      "prerequisiteId": "cit.author-date-in-text",
+      "strength": "soft",
+      "reason": "In author–date systems the locator is added to the in-text citation, so learners need the basic citation forms before adding pages, paragraphs or timestamps to them"
+    },
+    {
       "topicId": "cit.accuracy-consistency",
       "prerequisiteId": "edt.proofreading",
       "strength": "soft",
@@ -4289,12 +4331,6 @@
     },
     {
       "topicId": "cit.citation-functions",
-      "prerequisiteId": "src.source-functions",
-      "strength": "hard",
-      "reason": "The detailed typology of citation functions refines a basic understanding of what sources do in a writer's text"
-    },
-    {
-      "topicId": "cit.citation-functions",
       "prerequisiteId": "src.reporting-verbs",
       "strength": "soft",
       "reason": "Evaluative and comparative functions are often signalled by the evaluative force of reporting verbs"
@@ -4304,6 +4340,18 @@
       "prerequisiteId": "src.citation-forms",
       "strength": "soft",
       "reason": "Functions are realised partly through the choice of integral or non-integral form"
+    },
+    {
+      "topicId": "cit.citation-functions",
+      "prerequisiteId": "cit.why-cite",
+      "strength": "soft",
+      "reason": "The functions of citation in an argument extend the general purposes of citing (credit, verifiability, positioning) into choices about what each source does"
+    },
+    {
+      "topicId": "cit.citation-functions",
+      "prerequisiteId": "arg.argument-concept",
+      "strength": "soft",
+      "reason": "Seeing sources as doing jobs presupposes the idea that an academic text advances a reasoned position which sources serve"
     },
     {
       "topicId": "cit.disciplinary-citation",
@@ -4316,6 +4364,30 @@
       "prerequisiteId": "acu.disciplinary-knowledge",
       "strength": "soft",
       "reason": "Explaining citation differences draws on how disciplines differ in what counts as knowledge and how it accumulates"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "inf.databases",
+      "strength": "soft",
+      "reason": "Seeing how coverage shapes visibility, and searching beyond the major indexes, requires knowing what different catalogues and databases include"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "inf.source-evaluation",
+      "strength": "soft",
+      "reason": "Questioning prestige and indexing as proxies for quality depends on having explicit criteria for evaluating sources, which also prevent broadening from becoming token inclusion"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "cit.why-cite",
+      "strength": "hard",
+      "reason": "Asking whose work is cited presupposes understanding citation as credit and as positioning within a scholarly conversation"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "idn.standards-legitimacy",
+      "strength": "soft",
+      "reason": "Whose knowledge is cited connects to questions of whose English counts as legitimate"
     },
     {
       "topicId": "int.plagiarism",
@@ -4390,6 +4462,12 @@
       "reason": "Similarity reports often prompt concerns, so knowing their limited evidential status helps learners respond appropriately"
     },
     {
+      "topicId": "int.policy-processes",
+      "prerequisiteId": "prg.formal-statements",
+      "strength": "soft",
+      "reason": "Responding within integrity processes uses the conventions of formal statements and appeals"
+    },
+    {
       "topicId": "int.pressure-risks",
       "prerequisiteId": "int.contract-cheating",
       "strength": "soft",
@@ -4454,6 +4532,12 @@
       "prerequisiteId": "rds.main-ideas",
       "strength": "soft",
       "reason": "Questioning a text's claims requires first identifying which statements are its central claims"
+    },
+    {
+      "topicId": "crt.questioning",
+      "prerequisiteId": "rdc.critical-reading",
+      "strength": "soft",
+      "reason": "Text-specific question sets apply the stance of critical reading, so learners need a working sense of what reading critically involves"
     },
     {
       "topicId": "crt.questioning",
@@ -4846,94 +4930,16 @@
       "reason": "Mapping an argument before evaluating it separates its structure from agreement with its conclusion"
     },
     {
-      "topicId": "idn.academic-identity",
-      "prerequisiteId": "reg.impersonality-presence",
-      "strength": "soft",
-      "reason": "Learners usually meet concrete choices about impersonality and authorial presence before reflecting on how such choices construct identity"
-    },
-    {
-      "topicId": "idn.academic-identity",
-      "prerequisiteId": "acu.academic-literacies",
-      "strength": "soft",
-      "reason": "The academic literacies view of writing as social practice involving identity and power frames identity as a legitimate object of study"
-    },
-    {
-      "topicId": "idn.plurilingual-repertoire",
-      "prerequisiteId": "idn.diversity-as-resource",
-      "strength": "soft",
-      "reason": "Using all one's languages strategically depends on first seeing the multilingual repertoire as an asset rather than an interference"
-    },
-    {
-      "topicId": "idn.plurilingual-repertoire",
-      "prerequisiteId": "lrn.language-learning-strategies",
-      "strength": "soft",
-      "reason": "Plurilingual strategies are a subset of learning strategies that learners select and orchestrate deliberately"
-    },
-    {
-      "topicId": "idn.elf",
-      "prerequisiteId": "prn.intelligibility",
-      "strength": "soft",
-      "reason": "The distinction between accent and intelligibility underpins the lingua franca focus on mutual understanding"
-    },
-    {
-      "topicId": "idn.elf",
-      "prerequisiteId": "idn.diversity-as-resource",
-      "strength": "soft",
-      "reason": "Understanding lingua franca effectiveness builds on rejecting deficit views of non-native varieties"
-    },
-    {
-      "topicId": "idn.intercultural-communication",
-      "prerequisiteId": "sem.checking-understanding",
-      "strength": "soft",
-      "reason": "Checking interpretations, the core intercultural repair move, depends on confirmation and clarification resources"
-    },
-    {
-      "topicId": "idn.intercultural-communication",
-      "prerequisiteId": "idn.elf",
-      "strength": "soft",
-      "reason": "Academic intercultural interaction typically takes place in English as a lingua franca, where accommodation is a shared responsibility"
-    },
-    {
-      "topicId": "idn.intercultural-rhetoric",
-      "prerequisiteId": "reg.disciplinary-style",
-      "strength": "soft",
-      "reason": "Seeing variation across disciplines within English helps learners avoid attributing all rhetorical difference to national culture"
-    },
-    {
-      "topicId": "idn.intercultural-rhetoric",
-      "prerequisiteId": "rds.text-organisation",
-      "strength": "soft",
-      "reason": "Comparing rhetorical conventions requires the ability to recognise how texts are organised"
-    },
-    {
-      "topicId": "idn.intercultural-rhetoric",
-      "prerequisiteId": "ges.genre-concept",
-      "strength": "hard",
-      "reason": "Intercultural rhetoric explains rhetorical variation largely through genre and discourse community, so the genre concept must come first"
-    },
-    {
-      "topicId": "idn.diversity-as-resource",
-      "prerequisiteId": "acu.transition",
-      "strength": "soft",
-      "reason": "Deficit framings are most often encountered and internalised during transition to a new educational context, which learners need to have reflected on"
-    },
-    {
-      "topicId": "idn.standards-legitimacy",
-      "prerequisiteId": "reg.style-myths-variation",
-      "strength": "soft",
-      "reason": "Testing prescriptive style rules against actual practice is a concrete precursor to questioning broader standard-language ideologies"
-    },
-    {
-      "topicId": "idn.standards-legitimacy",
-      "prerequisiteId": "idn.elf",
-      "strength": "soft",
-      "reason": "Questioning native-speaker norms draws on lingua franca research showing that effectiveness does not depend on nativeness"
-    },
-    {
       "topicId": "ges.genre-concept",
       "prerequisiteId": "wpr.audience-purpose",
       "strength": "soft",
       "reason": "Treating genres as purposeful social actions starts from the simpler idea that every text is written for a reader and a purpose."
+    },
+    {
+      "topicId": "ges.genre-concept",
+      "prerequisiteId": "acu.discourse-communities",
+      "strength": "soft",
+      "reason": "Genres are defined by the purposes and expectations of the communities that use them, so the discourse-community concept, where it has been taught, gives the genre concept its social grounding; at foundation level genre is introduced through purpose and reader alone."
     },
     {
       "topicId": "ges.genre-analysis",
@@ -4946,6 +4952,24 @@
       "prerequisiteId": "ges.genre-concept",
       "strength": "hard",
       "reason": "Analysing exemplars for moves and purposes presupposes that genre features are motivated by purpose and audience rather than arbitrary."
+    },
+    {
+      "topicId": "ges.genre-families",
+      "prerequisiteId": "voc.command-words",
+      "strength": "soft",
+      "reason": "Recognising the essay type or genre family a brief implies relies partly on interpreting its command words, although purpose and criteria outrank them."
+    },
+    {
+      "topicId": "ges.genre-families",
+      "prerequisiteId": "coh.text-patterns",
+      "strength": "soft",
+      "reason": "Essay types are distinguished partly by their dominant text patterns, such as cause–effect, comparison and problem–solution."
+    },
+    {
+      "topicId": "ges.genre-families",
+      "prerequisiteId": "ess.essay-structure",
+      "strength": "soft",
+      "reason": "Essay types are variations on the thesis-led essay structure, so that structure is usually taught first; the non-essay families do not depend on it, hence a soft link."
     },
     {
       "topicId": "ges.genre-families",
@@ -5008,90 +5032,6 @@
       "reason": "The genre's core stage is fair representation of more than one perspective, including views the writer does not hold."
     },
     {
-      "topicId": "ges.compare-contrast-essay",
-      "prerequisiteId": "fun.comparing-contrasting",
-      "strength": "hard",
-      "reason": "The genre is built from the language of similarity and difference and from point-by-point and block organisation."
-    },
-    {
-      "topicId": "ges.compare-contrast-essay",
-      "prerequisiteId": "fun.evaluating",
-      "strength": "soft",
-      "reason": "Judging the significance of similarities and differences for the question draws on criteria-based evaluation."
-    },
-    {
-      "topicId": "ges.compare-contrast-essay",
-      "prerequisiteId": "par.integrating-evidence",
-      "strength": "soft",
-      "reason": "Points of comparison in university essays are usually supported with cited source evidence integrated within paragraphs"
-    },
-    {
-      "topicId": "ges.compare-contrast-essay",
-      "prerequisiteId": "ess.thesis-statement",
-      "strength": "soft",
-      "reason": "A comparison essay needs a thesis stating what the comparison shows, so that it does not become a list of features."
-    },
-    {
-      "topicId": "ges.explanation-essay",
-      "prerequisiteId": "fun.describing-process",
-      "strength": "soft",
-      "reason": "Sequential explanations of mechanisms draw on the sequencing and process language used to describe procedures and natural processes."
-    },
-    {
-      "topicId": "ges.explanation-essay",
-      "prerequisiteId": "fun.cause-effect",
-      "strength": "hard",
-      "reason": "Factorial and consequential explanations are realised through cause–effect language and judgements of causal strength."
-    },
-    {
-      "topicId": "ges.explanation-essay",
-      "prerequisiteId": "par.integrating-evidence",
-      "strength": "soft",
-      "reason": "Factors and mechanisms in university explanation essays are supported with cited evidence integrated within paragraphs"
-    },
-    {
-      "topicId": "ges.explanation-essay",
-      "prerequisiteId": "ess.body-organisation",
-      "strength": "soft",
-      "reason": "Organising factors by category, importance or chronology applies general principles of sequencing body paragraphs."
-    },
-    {
-      "topicId": "ges.explanation-essay",
-      "prerequisiteId": "crt.correlation-causation",
-      "strength": "soft",
-      "reason": "Calibrating causal claims in an explanation depends on understanding what kinds of evidence support causal rather than correlational conclusions."
-    },
-    {
-      "topicId": "ges.problem-solution-essay",
-      "prerequisiteId": "fun.problem-solution",
-      "strength": "hard",
-      "reason": "The genre is an extended realisation of the situation–problem–response–evaluation pattern and its signalling language."
-    },
-    {
-      "topicId": "ges.problem-solution-essay",
-      "prerequisiteId": "fun.recommending",
-      "strength": "soft",
-      "reason": "The genre usually closes with a justified recommendation, drawing on recommending language and priority and feasibility expressions."
-    },
-    {
-      "topicId": "ges.problem-solution-essay",
-      "prerequisiteId": "fun.evaluating",
-      "strength": "hard",
-      "reason": "Each proposed response must be evaluated against criteria; without evaluation the essay lists solutions rather than analysing them."
-    },
-    {
-      "topicId": "ges.problem-solution-essay",
-      "prerequisiteId": "par.integrating-evidence",
-      "strength": "soft",
-      "reason": "Claims about the problem and the effectiveness of responses are supported with cited evidence integrated within paragraphs"
-    },
-    {
-      "topicId": "ges.problem-solution-essay",
-      "prerequisiteId": "ess.thesis-statement",
-      "strength": "soft",
-      "reason": "A strong problem–solution essay signals its recommended response early, in a thesis that the evaluation then justifies."
-    },
-    {
       "topicId": "ges.exam-essay",
       "prerequisiteId": "ess.thesis-statement",
       "strength": "soft",
@@ -5129,7 +5069,7 @@
     },
     {
       "topicId": "ges.short-answer",
-      "prerequisiteId": "exm.question-analysis",
+      "prerequisiteId": "wpr.task-analysis",
       "strength": "soft",
       "reason": "Reading command words and mark allocations determines how many points and how much development an answer needs."
     },
@@ -5195,7 +5135,7 @@
     },
     {
       "topicId": "ges.annotated-bibliography",
-      "prerequisiteId": "rdc.reading-for-writing",
+      "prerequisiteId": "wpr.reading-to-write",
       "strength": "soft",
       "reason": "Relevance comments depend on reading each source in relation to a defined writing task or project."
     },
@@ -5252,6 +5192,114 @@
       "prerequisiteId": "src.voice-boundaries",
       "strength": "hard",
       "reason": "The genre depends on marking clearly where the source's ideas end and the writer's response begins."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "fun.describing-process",
+      "strength": "soft",
+      "reason": "Sequential explanations of mechanisms draw on the sequencing and process language used to describe procedures and natural processes."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "fun.comparing-contrasting",
+      "strength": "hard",
+      "reason": "Comparison-led essays are built from the language of similarity and difference and from point-by-point and block organisation."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "fun.cause-effect",
+      "strength": "hard",
+      "reason": "Explanation-led essays realise factorial and consequential explanation through cause–effect language and judgements of causal strength."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "fun.problem-solution",
+      "strength": "hard",
+      "reason": "Problem–solution essays extend the situation–problem–response–evaluation pattern and its signalling language to a whole text."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "fun.evaluating",
+      "strength": "hard",
+      "reason": "Every pattern ends in judgement: weighing causal factors, the significance of differences or the merits of responses against explicit criteria."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "soft",
+      "reason": "University expository essays support explanations, comparisons and evaluations with cited source evidence introduced and commented on within paragraphs."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "ess.thesis-statement",
+      "strength": "soft",
+      "reason": "Each pattern needs a thesis that states what the explanation, comparison or evaluation shows, so that the essay does not become a list."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "ess.body-organisation",
+      "strength": "soft",
+      "reason": "Ordering factors, criteria or responses by importance, chronology or logic applies general principles of sequencing body paragraphs."
+    },
+    {
+      "topicId": "ges.expository-essays",
+      "prerequisiteId": "crt.correlation-causation",
+      "strength": "soft",
+      "reason": "Calibrating causal and predictive claims depends on understanding what kinds of evidence support causal rather than correlational conclusions."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "wpr.managing-long-projects",
+      "strength": "soft",
+      "reason": "Staged deadlines for plan, annotated sources, drafts and final submission require milestones and word-count planning; at foundation level tutors usually supply the schedule, hence a soft link."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "par.integrating-evidence",
+      "strength": "hard",
+      "reason": "Each section is built from paragraphs that introduce, cite and comment on source evidence while keeping the writer's point in control."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "edt.global-revision",
+      "strength": "hard",
+      "reason": "The genre is defined by a drafting cycle in which argument, structure and use of evidence are revised between submissions, not only proofread."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "inf.search-strategies",
+      "strength": "hard",
+      "reason": "The project is independently researched: the learner must find relevant sources for a self-chosen question rather than work from a provided source pack."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "src.voice-boundaries",
+      "strength": "hard",
+      "reason": "Across several thousand words the reader must be able to tell at every point which ideas come from sources and which are the writer's own, which is also the main integrity safeguard in a long text."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "syn.synthesis-concept",
+      "strength": "hard",
+      "reason": "An extended project integrates many sources around the writer's own line of argument; without synthesis it becomes a sequence of source summaries."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "cit.accuracy-consistency",
+      "strength": "hard",
+      "reason": "With dozens of citations across staged drafts, keeping every in-text citation matched to an accurate reference-list entry is a distinct demand of the genre and a common assessment criterion."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "ges.annotated-bibliography",
+      "strength": "soft",
+      "reason": "Many projects include an annotated-sources stage that develops summary, evaluation and relevance judgements before the sources are synthesised."
+    },
+    {
+      "topicId": "ges.extended-source-based-project",
+      "prerequisiteId": "fbk.acting-on-feedback",
+      "strength": "soft",
+      "reason": "Tutorials between drafts are a defining stage, and the project rewards learners who turn feedback into specific revisions."
     },
     {
       "topicId": "grp.report-conventions",
@@ -5324,6 +5372,12 @@
       "prerequisiteId": "res.research-questions",
       "strength": "hard",
       "reason": "The whole report is organised around answerable research questions that methods, findings and conclusions must align with."
+    },
+    {
+      "topicId": "grp.empirical-project-report",
+      "prerequisiteId": "res.instrument-wording",
+      "strength": "soft",
+      "reason": "Survey and interview projects depend on clear, neutral, piloted questions; poorly worded instruments limit what the findings can support, although experimental and observational projects draw on this less."
     },
     {
       "topicId": "grp.empirical-project-report",
@@ -5542,30 +5596,6 @@
       "reason": "The dissertation usually develops from an assessed or approved proposal that fixes its questions, methods and timeline."
     },
     {
-      "topicId": "grp.student-abstract",
-      "prerequisiteId": "grm.tense-in-reporting",
-      "strength": "soft",
-      "reason": "Abstracts shift between present and past tense according to move, which draws on tense choices for reporting research."
-    },
-    {
-      "topicId": "grp.student-abstract",
-      "prerequisiteId": "sen.concision",
-      "strength": "soft",
-      "reason": "Word limits make concise phrasing essential to include all required moves."
-    },
-    {
-      "topicId": "grp.student-abstract",
-      "prerequisiteId": "src.summarising-text",
-      "strength": "hard",
-      "reason": "An abstract condenses a whole text to its essential content within a strict word limit."
-    },
-    {
-      "topicId": "grp.student-abstract",
-      "prerequisiteId": "res.imrad",
-      "strength": "soft",
-      "reason": "Abstract moves broadly mirror the IMRaD sections of empirical reports, so understanding that structure helps learners select content."
-    },
-    {
       "topicId": "res.imrad",
       "prerequisiteId": "rds.research-article-navigation",
       "strength": "hard",
@@ -5624,6 +5654,12 @@
       "prerequisiteId": "cit.citation-functions",
       "strength": "soft",
       "reason": "Positioning a study depends on using citation for evaluation, comparison and application, not attribution alone"
+    },
+    {
+      "topicId": "res.literature-review",
+      "prerequisiteId": "cit.citation-politics",
+      "strength": "soft",
+      "reason": "Positioning a study within literature involves deliberate choices about whose work is cited"
     },
     {
       "topicId": "res.literature-review",
@@ -5723,9 +5759,21 @@
     },
     {
       "topicId": "res.abstracts",
-      "prerequisiteId": "grp.student-abstract",
+      "prerequisiteId": "grm.tense-in-reporting",
       "strength": "soft",
-      "reason": "Abstracts for student reports and dissertations are usually met first and provide the basic condensation skill"
+      "reason": "Abstracts shift between present and past tense according to move, which draws on tense choices for reporting research."
+    },
+    {
+      "topicId": "res.abstracts",
+      "prerequisiteId": "sen.concision",
+      "strength": "soft",
+      "reason": "Word limits make concise phrasing essential to include all required moves."
+    },
+    {
+      "topicId": "res.abstracts",
+      "prerequisiteId": "src.summarising-text",
+      "strength": "hard",
+      "reason": "An abstract condenses a whole text to its essential content within a strict word limit."
     },
     {
       "topicId": "res.abstracts",
@@ -5826,8 +5874,8 @@
     {
       "topicId": "res.thesis-macrostructure",
       "prerequisiteId": "res.imrad",
-      "strength": "hard",
-      "reason": "Thesis structures are understood as expansions of, or departures from, the IMRaD macrostructure"
+      "strength": "soft",
+      "reason": "Empirical theses often adapt IMRaD, although topic-based, theoretical and humanities theses do not"
     },
     {
       "topicId": "res.thesis-macrostructure",
@@ -5856,8 +5904,8 @@
     {
       "topicId": "res.chapter-metatext",
       "prerequisiteId": "res.thesis-macrostructure",
-      "strength": "hard",
-      "reason": "Chapter-level metatext refers to the overall structure, which must be planned before it can be signposted"
+      "strength": "soft",
+      "reason": "Chapter-level metatext guides readers through a planned macrostructure; master's dissertation chapters can be signposted before thesis planning is taught"
     },
     {
       "topicId": "res.theoretical-framework",
@@ -5897,15 +5945,15 @@
     },
     {
       "topicId": "res.quantitative-reporting",
-      "prerequisiteId": "sen.numbers-units-style",
-      "strength": "soft",
-      "reason": "Statistical prose applies style-guide rules for numerals, symbols, decimals and units"
-    },
-    {
-      "topicId": "res.quantitative-reporting",
       "prerequisiteId": "res.results",
       "strength": "hard",
       "reason": "Statistical reporting conventions are applied within the organisation and commentary of a results section"
+    },
+    {
+      "topicId": "res.quantitative-reporting",
+      "prerequisiteId": "num.number-expressions",
+      "strength": "soft",
+      "reason": "Statistical prose applies style-guide rules for numerals, symbols, decimals and units"
     },
     {
       "topicId": "res.quantitative-reporting",
@@ -6028,6 +6076,138 @@
       "reason": "Reflexive comments are integrated with methodological decisions described in the methods section"
     },
     {
+      "topicId": "res.acknowledgements",
+      "prerequisiteId": "grp.dissertation-overview",
+      "strength": "soft",
+      "reason": "Acknowledgements are part of the dissertation's front matter, and their conventions and placement follow from the overall structure of the document"
+    },
+    {
+      "topicId": "res.acknowledgements",
+      "prerequisiteId": "res.ethics-documentation",
+      "strength": "soft",
+      "reason": "Thanking participants and sites without breaching anonymity depends on the confidentiality commitments made in ethics documents"
+    },
+    {
+      "topicId": "res.acknowledgements",
+      "prerequisiteId": "pub.authorship",
+      "strength": "soft",
+      "reason": "Article acknowledgements list contributors who do not meet authorship criteria, so deciding who is acknowledged depends on knowing those criteria"
+    },
+    {
+      "topicId": "res.progression-review",
+      "prerequisiteId": "prs.handling-questions",
+      "strength": "soft",
+      "reason": "The oral review requires answering and following up panel questions about the design"
+    },
+    {
+      "topicId": "res.progression-review",
+      "prerequisiteId": "prs.research-presentations",
+      "strength": "soft",
+      "reason": "Many panels begin with a short presentation of the project and its preliminary findings"
+    },
+    {
+      "topicId": "res.progression-review",
+      "prerequisiteId": "res.research-proposal",
+      "strength": "hard",
+      "reason": "The progress report revisits and revises the aims, questions, methods and plan first set out in the doctoral proposal"
+    },
+    {
+      "topicId": "res.progression-review",
+      "prerequisiteId": "res.supervision",
+      "strength": "soft",
+      "reason": "Reports are drafted with and usually endorsed by the supervisory team, so negotiating feedback on drafts comes first"
+    },
+    {
+      "topicId": "res.publication-based-thesis",
+      "prerequisiteId": "int.recycling-own-work",
+      "strength": "soft",
+      "reason": "Reproducing published papers in a thesis raises the text-reuse, copyright and disclosure questions covered by reusing one's own work"
+    },
+    {
+      "topicId": "res.publication-based-thesis",
+      "prerequisiteId": "res.thesis-macrostructure",
+      "strength": "hard",
+      "reason": "Choosing and planning a publication-based thesis depends on knowing the range of thesis structures and what each chapter type contributes"
+    },
+    {
+      "topicId": "res.publication-based-thesis",
+      "prerequisiteId": "res.chapter-metatext",
+      "strength": "soft",
+      "reason": "Linking narratives and chapter prefaces are higher-level metatext that guides examiners across separately written papers"
+    },
+    {
+      "topicId": "res.publication-based-thesis",
+      "prerequisiteId": "pub.authorship",
+      "strength": "hard",
+      "reason": "Contribution statements for co-authored papers apply authorship criteria and contributor roles"
+    },
+    {
+      "topicId": "res.systematic-review-writing",
+      "prerequisiteId": "inf.systematic-searching",
+      "strength": "hard",
+      "reason": "Reporting a review search transparently depends on having designed and recorded a systematic search"
+    },
+    {
+      "topicId": "res.systematic-review-writing",
+      "prerequisiteId": "res.literature-review",
+      "strength": "soft",
+      "reason": "Synthesising across studies and positioning the review build on writing a literature review as an argument"
+    },
+    {
+      "topicId": "res.systematic-review-writing",
+      "prerequisiteId": "res.methods",
+      "strength": "hard",
+      "reason": "The protocol and methods of a review apply methods-section conventions: complete, ordered and justified procedures"
+    },
+    {
+      "topicId": "res.systematic-review-writing",
+      "prerequisiteId": "dhl.critical-appraisal",
+      "strength": "soft",
+      "reason": "Reporting risk-of-bias assessment and weighting evidence in a synthesis builds on appraising single studies"
+    },
+    {
+      "topicId": "res.instrument-wording",
+      "prerequisiteId": "reg.inclusive-language",
+      "strength": "soft",
+      "reason": "Neutral, bias-free item wording applies inclusive-language principles to research participants"
+    },
+    {
+      "topicId": "res.instrument-wording",
+      "prerequisiteId": "res.research-questions",
+      "strength": "hard",
+      "reason": "Items and prompts operationalise the research questions, so they cannot be written or checked without them"
+    },
+    {
+      "topicId": "res.instrument-wording",
+      "prerequisiteId": "dss.operationalising-concepts",
+      "strength": "soft",
+      "reason": "Turning concepts into indicators that can be measured or asked about comes before wording individual items"
+    },
+    {
+      "topicId": "res.teaching-as-pgr",
+      "prerequisiteId": "sem.facilitating",
+      "strength": "soft",
+      "reason": "Managing small-group discussion as a tutor extends facilitation skills developed in peer seminars"
+    },
+    {
+      "topicId": "res.teaching-as-pgr",
+      "prerequisiteId": "sem.explaining-concepts",
+      "strength": "hard",
+      "reason": "Teaching undergraduates rests on explaining concepts and readings clearly to others"
+    },
+    {
+      "topicId": "res.teaching-as-pgr",
+      "prerequisiteId": "prs.handling-questions",
+      "strength": "soft",
+      "reason": "Responding to student questions in class draws on handling audience questions"
+    },
+    {
+      "topicId": "res.teaching-as-pgr",
+      "prerequisiteId": "fbk.marking-criteria",
+      "strength": "soft",
+      "reason": "Criterion-referenced feedback on student work requires interpreting marking criteria from the marker's side"
+    },
+    {
       "topicId": "pub.publishing-process",
       "prerequisiteId": "inf.scholarly-communication",
       "strength": "hard",
@@ -6068,6 +6248,12 @@
       "prerequisiteId": "pub.journal-selection",
       "strength": "hard",
       "reason": "A cover letter argues fit with a specific journal, which must already be chosen and analysed"
+    },
+    {
+      "topicId": "pub.cover-letters",
+      "prerequisiteId": "pub.open-research",
+      "strength": "soft",
+      "reason": "Cover letters must make the data-availability, preregistration and preprint declarations that open-research practices generate"
     },
     {
       "topicId": "pub.cover-letters",
@@ -6124,6 +6310,12 @@
       "reason": "Reviewers need to understand their role, the editor's needs and the meaning of recommendations"
     },
     {
+      "topicId": "pub.peer-review-reports",
+      "prerequisiteId": "gai.privacy-ip",
+      "strength": "soft",
+      "reason": "Reviewer confidentiality includes not exposing manuscripts to AI tools, which builds on understanding the privacy and intellectual-property risks of AI"
+    },
+    {
       "topicId": "pub.conference-abstracts",
       "prerequisiteId": "fun.hypothesising",
       "strength": "soft",
@@ -6161,6 +6353,12 @@
     },
     {
       "topicId": "pub.viva",
+      "prerequisiteId": "res.progression-review",
+      "strength": "soft",
+      "reason": "The confirmation or progression panel is usually the candidate's first oral defence of the research and rehearses the explaining, defending and conceding moves of the viva"
+    },
+    {
+      "topicId": "pub.viva",
       "prerequisiteId": "exm.oral-exams",
       "strength": "soft",
       "reason": "General preparation and performance strategies for oral assessment are usually met before the doctoral viva"
@@ -6185,15 +6383,27 @@
     },
     {
       "topicId": "pub.multilingual-scholars",
+      "prerequisiteId": "pub.publishing-process",
+      "strength": "hard",
+      "reason": "Analysing inequities in publishing requires knowing how the process and its gatekeeping work"
+    },
+    {
+      "topicId": "pub.multilingual-scholars",
+      "prerequisiteId": "acu.critical-eap",
+      "strength": "soft",
+      "reason": "Navigating English-medium publishing as a multilingual scholar draws on a critical understanding of whose norms are rewarded"
+    },
+    {
+      "topicId": "pub.multilingual-scholars",
       "prerequisiteId": "idn.standards-legitimacy",
       "strength": "soft",
       "reason": "Recognising native-speaker bias in review builds on questioning native-speaker norms as the benchmark"
     },
     {
       "topicId": "pub.multilingual-scholars",
-      "prerequisiteId": "pub.publishing-process",
-      "strength": "hard",
-      "reason": "Analysing inequities in publishing requires knowing how the process and its gatekeeping work"
+      "prerequisiteId": "idn.translingual-writing",
+      "strength": "soft",
+      "reason": "Publishing as a multilingual scholar includes deciding when translingual choices are viable"
     },
     {
       "topicId": "pub.research-engagement",
@@ -6238,6 +6448,150 @@
       "reason": "Presenting oneself as a scholar draws on awareness of how writing constructs academic identity"
     },
     {
+      "topicId": "pub.funding-applications",
+      "prerequisiteId": "res.research-proposal",
+      "strength": "hard",
+      "reason": "The case for support applies the proposal genre's alignment of aims, methods, timeline and expected contribution to a funder's template"
+    },
+    {
+      "topicId": "pub.funding-applications",
+      "prerequisiteId": "pub.research-engagement",
+      "strength": "soft",
+      "reason": "Lay summaries and impact statements draw on adapting research for non-academic audiences and planning engagement"
+    },
+    {
+      "topicId": "pub.funding-applications",
+      "prerequisiteId": "pub.academic-cv-bio",
+      "strength": "soft",
+      "reason": "Track-record sections and narrative CVs build on academic CV and self-presentation conventions"
+    },
+    {
+      "topicId": "pub.funding-applications",
+      "prerequisiteId": "pub.open-research",
+      "strength": "soft",
+      "reason": "Many funders require data management plans and open-access commitments written to open-research conventions"
+    },
+    {
+      "topicId": "pub.conference-participation",
+      "prerequisiteId": "sem.questions-clarification",
+      "strength": "hard",
+      "reason": "Asking questions from the floor extends asking questions and seeking clarification in seminars"
+    },
+    {
+      "topicId": "pub.conference-participation",
+      "prerequisiteId": "prs.handling-questions",
+      "strength": "soft",
+      "reason": "Conference discussion includes answering questions on one's own work and knowing how question sessions run"
+    },
+    {
+      "topicId": "pub.conference-participation",
+      "prerequisiteId": "prs.research-presentations",
+      "strength": "soft",
+      "reason": "Participating in conferences usually accompanies presenting one's own research"
+    },
+    {
+      "topicId": "pub.conference-participation",
+      "prerequisiteId": "prg.informal-academic-interaction",
+      "strength": "soft",
+      "reason": "Networking at conferences builds on informal interaction and small talk with academics"
+    },
+    {
+      "topicId": "pub.personal-statements",
+      "prerequisiteId": "sta.self-mention",
+      "strength": "soft",
+      "reason": "First-person self-presentation requires deliberate control of self-mention"
+    },
+    {
+      "topicId": "pub.personal-statements",
+      "prerequisiteId": "wpr.audience-purpose",
+      "strength": "soft",
+      "reason": "Statements are shaped by the selectors' purposes and criteria"
+    },
+    {
+      "topicId": "pub.personal-statements",
+      "prerequisiteId": "arg.supporting-claims",
+      "strength": "hard",
+      "reason": "Every claim about motivation and capability must be supported with specific evidence"
+    },
+    {
+      "topicId": "pub.personal-statements",
+      "prerequisiteId": "idn.academic-identity",
+      "strength": "soft",
+      "reason": "Presenting oneself as a prospective postgraduate draws on understanding academic and writer identity"
+    },
+    {
+      "topicId": "pub.thesis-corrections",
+      "prerequisiteId": "edt.proofreading-ethics",
+      "strength": "soft",
+      "reason": "Language corrections often involve editorial help whose acceptable limits must be known"
+    },
+    {
+      "topicId": "pub.thesis-corrections",
+      "prerequisiteId": "pub.responding-reviewers",
+      "strength": "soft",
+      "reason": "A corrections table follows the point-by-point, traceable conventions of responses to journal reviewers"
+    },
+    {
+      "topicId": "pub.thesis-corrections",
+      "prerequisiteId": "pub.viva",
+      "strength": "soft",
+      "reason": "In many systems corrections follow the viva, whose outcome and discussion define what must change"
+    },
+    {
+      "topicId": "pub.thesis-corrections",
+      "prerequisiteId": "fbk.acting-on-feedback",
+      "strength": "hard",
+      "reason": "Planning and making corrections applies the processes of interpreting and acting on feedback to examiners' reports"
+    },
+    {
+      "topicId": "pub.thesis-to-article",
+      "prerequisiteId": "int.recycling-own-work",
+      "strength": "hard",
+      "reason": "Moving text between a thesis and articles applies text-recycling and disclosure rules"
+    },
+    {
+      "topicId": "pub.thesis-to-article",
+      "prerequisiteId": "res.thesis-macrostructure",
+      "strength": "hard",
+      "reason": "Re-scoping a chapter as an article requires understanding how the thesis distributes its argument across chapters"
+    },
+    {
+      "topicId": "pub.thesis-to-article",
+      "prerequisiteId": "pub.journal-selection",
+      "strength": "hard",
+      "reason": "Reframing thesis material depends on a chosen target journal's readership and conventions"
+    },
+    {
+      "topicId": "pub.thesis-to-article",
+      "prerequisiteId": "pub.authorship",
+      "strength": "soft",
+      "reason": "Articles from a thesis require authorship decisions with supervisors and collaborators"
+    },
+    {
+      "topicId": "pub.open-research",
+      "prerequisiteId": "inf.open-access",
+      "strength": "soft",
+      "reason": "Writing open-access and licence statements builds on understanding open access from the reader's side"
+    },
+    {
+      "topicId": "pub.open-research",
+      "prerequisiteId": "int.research-integrity",
+      "strength": "hard",
+      "reason": "Open-research statements are integrity commitments about transparency, data and disclosure"
+    },
+    {
+      "topicId": "pub.open-research",
+      "prerequisiteId": "res.ethics-documentation",
+      "strength": "soft",
+      "reason": "Data-sharing statements and data management plans must be consistent with consent and ethics commitments"
+    },
+    {
+      "topicId": "pub.open-research",
+      "prerequisiteId": "pub.publishing-process",
+      "strength": "hard",
+      "reason": "Preprints, registered reports and availability statements are stages and requirements of the publication process"
+    },
+    {
       "topicId": "dat.reading-graphs",
       "prerequisiteId": "dat.visual-types",
       "strength": "hard",
@@ -6272,6 +6626,12 @@
       "prerequisiteId": "grm.tense-aspect",
       "strength": "soft",
       "reason": "Trend description requires principled choice between past simple for completed periods and present simple for what a figure shows"
+    },
+    {
+      "topicId": "dat.describing-trends",
+      "prerequisiteId": "grm.unaccusative-verbs",
+      "strength": "soft",
+      "reason": "Trend verbs (rise, fall, increase) alternate between transitive and intransitive use"
     },
     {
       "topicId": "dat.describing-trends",
@@ -6406,6 +6766,12 @@
       "reason": "Quantity expressions build on quantifiers and determiners (a number of, much/many, fewer/less, each)"
     },
     {
+      "topicId": "num.number-expressions",
+      "prerequisiteId": "sen.punctuation-mechanics",
+      "strength": "soft",
+      "reason": "Ranges use en dashes and numerical compound modifiers use hyphens (a 10-year study), so these marks are taught first"
+    },
+    {
       "topicId": "num.approximation",
       "prerequisiteId": "grm.comparison-structures",
       "strength": "soft",
@@ -6496,24 +6862,6 @@
       "reason": "Familiarity with common academic visual forms supplies the concrete examples from which broader multimodal analysis develops"
     },
     {
-      "topicId": "mmd.poster-design",
-      "prerequisiteId": "sen.concision",
-      "strength": "soft",
-      "reason": "Text economy on posters depends on removing redundancy and compressing claims"
-    },
-    {
-      "topicId": "mmd.poster-design",
-      "prerequisiteId": "dat.creating-visuals",
-      "strength": "soft",
-      "reason": "Posters rely on figures that carry the evidence, so honest and legible chart design is needed"
-    },
-    {
-      "topicId": "mmd.poster-design",
-      "prerequisiteId": "mmd.multimodal-literacy",
-      "strength": "hard",
-      "reason": "Poster design applies salience, reading path and image–text relations to a specific genre"
-    },
-    {
       "topicId": "mmd.infographics",
       "prerequisiteId": "reg.non-specialist-audiences",
       "strength": "soft",
@@ -6562,6 +6910,12 @@
       "reason": "Accessible structure (headings, reading order, captions) is created through styles and automatic features rather than manual formatting"
     },
     {
+      "topicId": "mmd.accessibility",
+      "prerequisiteId": "dig.assistive-technology",
+      "strength": "soft",
+      "reason": "Knowing how screen readers, read-aloud and captioning tools process documents shows why structure, alternative text and captions are needed"
+    },
+    {
       "topicId": "lrn.self-regulation",
       "prerequisiteId": "lrn.motivation",
       "strength": "soft",
@@ -6587,6 +6941,12 @@
     },
     {
       "topicId": "lrn.independent-study",
+      "prerequisiteId": "lrn.self-regulation",
+      "strength": "soft",
+      "reason": "Independent study requires learners to choose what to study and how, without teacher direction"
+    },
+    {
+      "topicId": "lrn.independent-study",
       "prerequisiteId": "lrn.time-management",
       "strength": "hard",
       "reason": "Productive independent study depends on scheduling and protecting non-contact hours"
@@ -6598,22 +6958,10 @@
       "reason": "Independent study hours are only productive if filled with effective techniques such as self-testing rather than rereading"
     },
     {
-      "topicId": "lrn.independent-study",
-      "prerequisiteId": "lrn.autonomy",
-      "strength": "soft",
-      "reason": "Independent study requires learners to choose what to study and how, without teacher direction"
-    },
-    {
       "topicId": "lrn.study-techniques",
       "prerequisiteId": "lrn.metacognitive-knowledge",
       "strength": "hard",
       "reason": "Choosing retrieval and spacing over rereading requires strategy knowledge and awareness that familiarity misleads judgements of learning"
-    },
-    {
-      "topicId": "lrn.autonomy",
-      "prerequisiteId": "lrn.metacognitive-knowledge",
-      "strength": "soft",
-      "reason": "Taking control of learning decisions depends on knowing which strategies and resources suit which tasks and one's own needs"
     },
     {
       "topicId": "lrn.language-learning-strategies",
@@ -6628,22 +6976,16 @@
       "reason": "Retrieval and spacing are the memory mechanisms behind effective deliberate study of vocabulary and phraseology"
     },
     {
-      "topicId": "lrn.language-learning-strategies",
-      "prerequisiteId": "lrn.autonomy",
+      "topicId": "lrn.reflective-logs",
+      "prerequisiteId": "lrn.self-regulation",
       "strength": "soft",
-      "reason": "Continuing language development beyond the course depends on learners taking control of what and how they practise"
+      "reason": "Using a log to make decisions presupposes that the learner, not only the teacher, makes learning decisions"
     },
     {
       "topicId": "lrn.reflective-logs",
       "prerequisiteId": "lrn.goal-setting",
       "strength": "hard",
       "reason": "Log entries are evaluated against goals; without goals, entries become description with no standard for judging progress"
-    },
-    {
-      "topicId": "lrn.reflective-logs",
-      "prerequisiteId": "lrn.autonomy",
-      "strength": "soft",
-      "reason": "Using a log to make decisions presupposes that the learner, not only the teacher, makes learning decisions"
     },
     {
       "topicId": "lrn.support-services",
@@ -6688,6 +7030,12 @@
       "reason": "Managing the double load relies on deliberate strategies for noticing, recording and using disciplinary language"
     },
     {
+      "topicId": "lrn.content-through-english",
+      "prerequisiteId": "acu.emi-tne",
+      "strength": "soft",
+      "reason": "Learning content through English is shaped by the EMI or transnational context in which it happens"
+    },
+    {
       "topicId": "fbk.assessment-literacy",
       "prerequisiteId": "voc.university-terminology",
       "strength": "soft",
@@ -6718,6 +7066,12 @@
       "reason": "Rubrics are organised by grade bands, so learners need to know what each band signifies"
     },
     {
+      "topicId": "fbk.marking-criteria",
+      "prerequisiteId": "acu.hidden-curriculum",
+      "strength": "soft",
+      "reason": "Marking criteria encode tacit expectations that are easier to interpret once they are made explicit"
+    },
+    {
       "topicId": "fbk.grading-systems",
       "prerequisiteId": "voc.university-terminology",
       "strength": "soft",
@@ -6734,6 +7088,12 @@
       "prerequisiteId": "fbk.assessment-literacy",
       "strength": "soft",
       "reason": "Appreciating feedback presupposes understanding the formative purpose of assessment"
+    },
+    {
+      "topicId": "fbk.feedback-literacy",
+      "prerequisiteId": "acu.hidden-curriculum",
+      "strength": "soft",
+      "reason": "Feedback often presupposes tacit expectations that learners need to recognise"
     },
     {
       "topicId": "fbk.acting-on-feedback",
@@ -6796,24 +7156,6 @@
       "reason": "Exams are one category of summative assessment; understanding assessment types and rules frames the differences between exam formats"
     },
     {
-      "topicId": "exm.question-analysis",
-      "prerequisiteId": "voc.command-words",
-      "strength": "hard",
-      "reason": "Analysing an exam question depends on knowing what each command word demands"
-    },
-    {
-      "topicId": "exm.question-analysis",
-      "prerequisiteId": "wpr.task-analysis",
-      "strength": "soft",
-      "reason": "Unpacking coursework briefs is usually taught first; exam question analysis applies the same procedure at speed"
-    },
-    {
-      "topicId": "exm.question-analysis",
-      "prerequisiteId": "exm.exam-formats",
-      "strength": "soft",
-      "reason": "Time allocation and expected answer types depend on the paper's format and mark scheme"
-    },
-    {
       "topicId": "exm.revision-planning",
       "prerequisiteId": "ntk.reviewing-notes",
       "strength": "soft",
@@ -6839,6 +7181,12 @@
     },
     {
       "topicId": "exm.timed-writing",
+      "prerequisiteId": "wpr.task-analysis",
+      "strength": "hard",
+      "reason": "Writing under time pressure is only effective if the question has first been correctly interpreted and time allocated"
+    },
+    {
+      "topicId": "exm.timed-writing",
       "prerequisiteId": "wpr.planning-outlining",
       "strength": "hard",
       "reason": "Timed writing compresses outlining into a few minutes, which presupposes the ability to plan a structure from a position"
@@ -6850,14 +7198,8 @@
       "reason": "Producing text fluently without stopping to edit is a drafting habit that timed conditions demand"
     },
     {
-      "topicId": "exm.timed-writing",
-      "prerequisiteId": "exm.question-analysis",
-      "strength": "hard",
-      "reason": "Writing under time pressure is only effective if the question has first been correctly interpreted and time allocated"
-    },
-    {
       "topicId": "exm.objective-questions",
-      "prerequisiteId": "sta.generalisation-qualification",
+      "prerequisiteId": "sta.hedging",
       "strength": "soft",
       "reason": "Distinguishing correct from incorrect options often depends on qualifiers and absolutes (tend to, in most cases, always)"
     },
@@ -6890,6 +7232,12 @@
       "prerequisiteId": "exm.exam-formats",
       "strength": "hard",
       "reason": "Open-book preparation depends on knowing what the format permits and what it rewards"
+    },
+    {
+      "topicId": "exm.open-book",
+      "prerequisiteId": "gai.policies",
+      "strength": "soft",
+      "reason": "Take-home and online exams state paper-specific rules on generative AI use that learners must be able to locate and interpret"
     },
     {
       "topicId": "exm.oral-exams",
@@ -6929,7 +7277,7 @@
     },
     {
       "topicId": "tst.test-vs-university",
-      "prerequisiteId": "src.source-functions",
+      "prerequisiteId": "cit.citation-functions",
       "strength": "soft",
       "reason": "The central difference is the role of sources in university writing, which learners need to understand to see what test writing lacks"
     },
@@ -6946,22 +7294,10 @@
       "reason": "Comparing test tasks with university tasks requires accurate knowledge of what the test tasks are"
     },
     {
-      "topicId": "tst.integrated-test-tasks",
-      "prerequisiteId": "syn.integrated-tasks",
-      "strength": "hard",
-      "reason": "Integrated test tasks apply the general reading/listening-to-writing skills of selecting and transforming source content under test conditions"
-    },
-    {
-      "topicId": "tst.integrated-test-tasks",
-      "prerequisiteId": "exm.timed-writing",
+      "topicId": "tst.presessional-progression",
+      "prerequisiteId": "ges.extended-source-based-project",
       "strength": "soft",
-      "reason": "Integrated test responses are produced under strict time limits and draw on rapid planning and time allocation"
-    },
-    {
-      "topicId": "tst.integrated-test-tasks",
-      "prerequisiteId": "tst.test-formats",
-      "strength": "hard",
-      "reason": "Strategies for integrated tasks depend on knowing the specific task structure and constraints of the test"
+      "reason": "The extended source-based project is a common progression assessment"
     },
     {
       "topicId": "tst.presessional-progression",
@@ -6982,16 +7318,16 @@
       "reason": "Coursework-based progression is designed to be closer to university tasks than tests are; understanding the difference explains its design"
     },
     {
-      "topicId": "acu.teaching-formats",
-      "prerequisiteId": "acu.university-structures",
-      "strength": "soft",
-      "reason": "Teaching formats are organised within modules and programmes, and the contact/independent-study balance is calculated from module credit structures"
+      "topicId": "tst.score-reports",
+      "prerequisiteId": "tst.cefr-entry",
+      "strength": "hard",
+      "reason": "Judging a score report against a requirement presupposes knowing how requirements are expressed as overall and component scores and that they are set by institutions and authorities"
     },
     {
-      "topicId": "acu.academic-expectations",
-      "prerequisiteId": "acu.teaching-formats",
+      "topicId": "tst.score-reports",
+      "prerequisiteId": "tst.test-formats",
       "strength": "soft",
-      "reason": "Expectations of participation, preparation and independent study are enacted through specific formats (seminar contribution, lab preparation, VLE tasks), so knowing the formats makes the expectations concrete"
+      "reason": "Interpreting component scores and comparing tests depends on knowing what each test component measures and how it is delivered"
     },
     {
       "topicId": "acu.disciplinary-knowledge",
@@ -7026,8 +7362,8 @@
     {
       "topicId": "acu.academic-literacies",
       "prerequisiteId": "acu.hidden-curriculum",
-      "strength": "hard",
-      "reason": "The academic literacies perspective starts from the observation that tutors and students hold different, unstated understandings of tasks; learners need to have recognised tacit expectations before analysing them as matters of identity and power"
+      "strength": "soft",
+      "reason": "The academic literacies perspective starts from the observation that tutors and students hold different, unstated understandings of tasks; teaching informed by it builds on learners having noticed tacit expectations in their own work"
     },
     {
       "topicId": "acu.transition",
@@ -7038,14 +7374,20 @@
     {
       "topicId": "acu.roles-address",
       "prerequisiteId": "acu.university-structures",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Choosing a form of address depends on knowing the person's role and its relationship to the student (module leader, supervisor, administrator, teaching assistant)"
     },
     {
       "topicId": "acu.critical-eap",
-      "prerequisiteId": "idn.standards-legitimacy",
+      "prerequisiteId": "reg.style-myths-variation",
       "strength": "soft",
-      "reason": "Questioning native-speaker norms is a concrete, accessible entry to the broader critique of EAP's purposes and standards"
+      "reason": "Knowing that many style 'rules' are myths or vary by discipline and over time is the evidence base for judging which conventions are open to choice"
+    },
+    {
+      "topicId": "acu.critical-eap",
+      "prerequisiteId": "acu.hidden-curriculum",
+      "strength": "soft",
+      "reason": "A convention can only be chosen about once it has been made visible; identifying tacit expectations gives learners the conventions they then classify as fixed, variable or negotiable"
     },
     {
       "topicId": "acu.emi-tne",
@@ -7162,16 +7504,154 @@
       "reason": "Choosing between VLE messaging, forums and announcements requires knowing what communication tools the VLE provides and how they are used on the course"
     },
     {
-      "topicId": "prg.acknowledgements",
-      "prerequisiteId": "grp.dissertation-overview",
+      "topicId": "prg.informal-academic-interaction",
+      "prerequisiteId": "grm.spoken-grammar",
       "strength": "soft",
-      "reason": "Acknowledgements are part of the dissertation's front matter, and their conventions and placement follow from the overall structure of the document"
+      "reason": "Vague language, ellipsis and discourse markers are characteristic of informal talk and make contributions sound interactive rather than written"
     },
     {
-      "topicId": "prg.acknowledgements",
-      "prerequisiteId": "pub.authorship",
+      "topicId": "prg.informal-academic-interaction",
+      "prerequisiteId": "prg.politeness",
       "strength": "soft",
-      "reason": "Article acknowledgements list contributors who do not meet authorship criteria, so deciding who is acknowledged depends on knowing those criteria"
+      "reason": "Informal talk with staff still involves judging relative power and distance, especially when moving from small talk into a request or question"
+    },
+    {
+      "topicId": "prg.informal-academic-interaction",
+      "prerequisiteId": "idn.intercultural-communication",
+      "strength": "soft",
+      "reason": "Topic choice, humour and self-disclosure in small talk vary across groups, and managing those differences draws on intercultural communication strategies such as checking and accommodation"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "sta.self-mention",
+      "strength": "soft",
+      "reason": "Claiming one's individual contribution depends on control of first-person self-mention and of the difference between 'I' and 'we'"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "wpr.audience-purpose",
+      "strength": "soft",
+      "reason": "Applications are judged against an employer's stated criteria, so analysing the reader and purpose of the text comes first"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "ges.reflective-writing",
+      "strength": "soft",
+      "reason": "Competency-based answers narrate an experience and draw learning from it, the move sequence taught in reflective writing"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "prg.emails-to-staff",
+      "strength": "soft",
+      "reason": "Cover letters and application emails adapt the moves of formal correspondence (greeting, purpose, closing, identification) to an unknown institutional reader"
+    },
+    {
+      "topicId": "idn.academic-identity",
+      "prerequisiteId": "reg.impersonality-presence",
+      "strength": "soft",
+      "reason": "Learners usually meet concrete choices about impersonality and authorial presence before reflecting on how such choices construct identity"
+    },
+    {
+      "topicId": "idn.academic-identity",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "soft",
+      "reason": "Reflecting on writer identity draws on awareness of how one already uses different languages and literacies, which repertoire mapping makes explicit"
+    },
+    {
+      "topicId": "idn.plurilingual-repertoire",
+      "prerequisiteId": "lrn.language-learning-strategies",
+      "strength": "soft",
+      "reason": "Plurilingual strategies are a subset of learning strategies that learners select and orchestrate deliberately"
+    },
+    {
+      "topicId": "idn.elf",
+      "prerequisiteId": "prn.intelligibility",
+      "strength": "soft",
+      "reason": "The distinction between accent and intelligibility underpins the lingua franca focus on mutual understanding"
+    },
+    {
+      "topicId": "idn.elf",
+      "prerequisiteId": "idn.diversity-as-resource",
+      "strength": "soft",
+      "reason": "Understanding lingua franca effectiveness builds on rejecting deficit views of multilingual users' English"
+    },
+    {
+      "topicId": "idn.intercultural-communication",
+      "prerequisiteId": "sem.checking-understanding",
+      "strength": "soft",
+      "reason": "Checking interpretations, the core intercultural repair move, depends on confirmation and clarification resources"
+    },
+    {
+      "topicId": "idn.intercultural-communication",
+      "prerequisiteId": "idn.elf",
+      "strength": "soft",
+      "reason": "Academic intercultural interaction typically takes place in English as a lingua franca, where accommodation is a shared responsibility"
+    },
+    {
+      "topicId": "idn.intercultural-rhetoric",
+      "prerequisiteId": "rds.text-organisation",
+      "strength": "soft",
+      "reason": "Comparing rhetorical conventions requires the ability to recognise how texts are organised"
+    },
+    {
+      "topicId": "idn.intercultural-rhetoric",
+      "prerequisiteId": "ges.genre-concept",
+      "strength": "hard",
+      "reason": "Intercultural rhetoric explains rhetorical variation largely through genre and discourse community, so the genre concept must come first"
+    },
+    {
+      "topicId": "idn.diversity-as-resource",
+      "prerequisiteId": "acu.transition",
+      "strength": "soft",
+      "reason": "Deficit framings are most often encountered and internalised during transition to a new educational context, which learners need to have reflected on"
+    },
+    {
+      "topicId": "idn.diversity-as-resource",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "soft",
+      "reason": "Recognising diversity as a resource builds on learners first mapping the resources in their own repertoires"
+    },
+    {
+      "topicId": "idn.standards-legitimacy",
+      "prerequisiteId": "reg.style-myths-variation",
+      "strength": "soft",
+      "reason": "Testing prescriptive style rules against actual practice is a concrete precursor to questioning broader standard-language ideologies"
+    },
+    {
+      "topicId": "idn.standards-legitimacy",
+      "prerequisiteId": "acu.critical-eap",
+      "strength": "soft",
+      "reason": "Questioning native-speaker standards extends critical examination of academic conventions"
+    },
+    {
+      "topicId": "idn.standards-legitimacy",
+      "prerequisiteId": "idn.elf",
+      "strength": "soft",
+      "reason": "Questioning native-speaker norms draws on lingua franca research showing that effectiveness does not depend on nativeness"
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "acu.critical-eap",
+      "strength": "soft",
+      "reason": "Negotiating translingual choices draws on the skill of justifying choices about conventions"
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "idn.plurilingual-repertoire",
+      "strength": "hard",
+      "reason": "Bringing other languages into a text extends the strategic use of the plurilingual repertoire from the writing process to the text itself"
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "idn.intercultural-rhetoric",
+      "strength": "soft",
+      "reason": "Seeing rhetorical conventions as situated and changeable rather than as deficits underpins informed choices to depart from or mix them"
+    },
+    {
+      "topicId": "idn.translingual-writing",
+      "prerequisiteId": "idn.standards-legitimacy",
+      "strength": "soft",
+      "reason": "Judging when a translingual choice is legitimate draws on distinguishing genre conventions from native-speaker norms"
     },
     {
       "topicId": "dig.vle",
@@ -7202,6 +7682,12 @@
       "prerequisiteId": "voc.dictionary-use",
       "strength": "soft",
       "reason": "Verifying MT output for key terms relies on effective use of learner, bilingual and specialist dictionaries"
+    },
+    {
+      "topicId": "dig.machine-translation",
+      "prerequisiteId": "rdp.plurilingual-reading",
+      "strength": "soft",
+      "reason": "Translation-tool use builds on deliberate plurilingual reading strategies"
     },
     {
       "topicId": "dig.machine-translation",
@@ -7244,6 +7730,36 @@
       "prerequisiteId": "grm.error-monitoring",
       "strength": "soft",
       "reason": "Accepting or rejecting flagged issues is more reliable when learners know their own recurrent error patterns"
+    },
+    {
+      "topicId": "dig.automated-feedback-tools",
+      "prerequisiteId": "edt.grammar-editing",
+      "strength": "hard",
+      "reason": "Evaluating a tool's grammar suggestions requires enough grammatical knowledge and checking routine to accept or reject them"
+    },
+    {
+      "topicId": "dig.automated-feedback-tools",
+      "prerequisiteId": "edt.proofreading",
+      "strength": "soft",
+      "reason": "Spell-checkers supplement but do not replace proofreading, for example of correctly spelt wrong words"
+    },
+    {
+      "topicId": "dig.automated-feedback-tools",
+      "prerequisiteId": "gai.how-genai-works",
+      "strength": "soft",
+      "reason": "Judging AI rewriting suggestions depends on understanding that such tools generate plausible text that may change meaning"
+    },
+    {
+      "topicId": "dig.assistive-technology",
+      "prerequisiteId": "lrn.support-services",
+      "strength": "soft",
+      "reason": "Adjustments are requested and arranged through disability and learning-support services, so knowing what those services do and how to contact them comes first"
+    },
+    {
+      "topicId": "dig.assistive-technology",
+      "prerequisiteId": "gai.policies",
+      "strength": "soft",
+      "reason": "Judging which functions of an assistive tool are permitted in an assessment applies the skill of reading module and institutional rules on AI use"
     },
     {
       "topicId": "gai.policies",
@@ -7307,15 +7823,27 @@
     },
     {
       "topicId": "gai.language-support",
+      "prerequisiteId": "lrn.self-regulation",
+      "strength": "soft",
+      "reason": "Using AI for learning requires setting goals, monitoring understanding and evaluating outcomes, the phases of self-regulated learning"
+    },
+    {
+      "topicId": "gai.language-support",
       "prerequisiteId": "fbk.corrective-feedback",
       "strength": "soft",
       "reason": "Learners make better use of AI feedback when they already know how to process and act on written corrective feedback"
     },
     {
       "topicId": "gai.language-support",
-      "prerequisiteId": "gai.prompting-for-learning",
+      "prerequisiteId": "gai.how-genai-works",
       "strength": "hard",
-      "reason": "Using AI to build language competence depends on prompting for explanation and feedback rather than replacement text"
+      "reason": "Designing prompts that elicit useful explanation, questions and feedback, and judging the output, depends on understanding how models respond to context and instructions and why they produce fluent errors"
+    },
+    {
+      "topicId": "gai.language-support",
+      "prerequisiteId": "gai.policies",
+      "strength": "soft",
+      "reason": "Learners need to know which interactions are permitted for a task before using AI to prepare for it"
     },
     {
       "topicId": "gai.authorship-voice",
@@ -7348,24 +7876,6 @@
       "reason": "Why detectors misfire, including on predictable human writing, can only be explained with a basic model of how text is generated"
     },
     {
-      "topicId": "gai.prompting-for-learning",
-      "prerequisiteId": "lrn.self-regulation",
-      "strength": "soft",
-      "reason": "Using AI for learning requires setting goals, monitoring understanding and evaluating outcomes, the phases of self-regulated learning"
-    },
-    {
-      "topicId": "gai.prompting-for-learning",
-      "prerequisiteId": "gai.how-genai-works",
-      "strength": "hard",
-      "reason": "Designing prompts that elicit useful explanation and questions depends on understanding how models respond to context and instructions"
-    },
-    {
-      "topicId": "gai.prompting-for-learning",
-      "prerequisiteId": "gai.policies",
-      "strength": "soft",
-      "reason": "Learners need to know which interactions are permitted for a task before using AI to prepare for it"
-    },
-    {
       "topicId": "gai.research-tools",
       "prerequisiteId": "rdc.literature-mapping",
       "strength": "soft",
@@ -7376,6 +7886,12 @@
       "prerequisiteId": "src.summarising-text",
       "strength": "soft",
       "reason": "Judging an AI summary requires knowing what an accurate summary of the whole text would contain"
+    },
+    {
+      "topicId": "gai.research-tools",
+      "prerequisiteId": "cit.citation-politics",
+      "strength": "soft",
+      "reason": "AI discovery tools draw on existing indexes and citation counts, so judging what they surface and omit builds on knowing how indexing shapes whose work is visible"
     },
     {
       "topicId": "gai.research-tools",
@@ -7517,7 +8033,7 @@
     },
     {
       "topicId": "dse.mathematical-writing",
-      "prerequisiteId": "coh.connector-precision",
+      "prerequisiteId": "coh.linking-adverbials",
       "strength": "soft",
       "reason": "Signalling inference steps (hence, thus, since, conversely) depends on precise use of logical connectors"
     },
@@ -7532,6 +8048,30 @@
       "prerequisiteId": "num.mathematical-expression",
       "strength": "hard",
       "reason": "Proof writing integrates equations, variables and symbols into prose, which requires reading and writing mathematical expressions in words"
+    },
+    {
+      "topicId": "dse.lab-notebooks",
+      "prerequisiteId": "int.research-integrity",
+      "strength": "soft",
+      "reason": "Conventions such as dated, unaltered and attributable entries exist to prevent and detect fabrication and falsification, so they make sense once research integrity is understood"
+    },
+    {
+      "topicId": "dse.lab-notebooks",
+      "prerequisiteId": "num.units-measurement",
+      "strength": "hard",
+      "reason": "Raw measurements are usable as a research record only if quantities, units and uncertainties are written correctly at the time"
+    },
+    {
+      "topicId": "dse.lab-notebooks",
+      "prerequisiteId": "dse.protocols-specifications",
+      "strength": "soft",
+      "reason": "Notebook entries record the protocol followed and any deviations from it, which requires reading protocols precisely"
+    },
+    {
+      "topicId": "dse.lab-notebooks",
+      "prerequisiteId": "dse.hypothesis-language",
+      "strength": "soft",
+      "reason": "Entries state aims, variables and conditions and note sources of error in the language of experimental design"
     },
     {
       "topicId": "dhl.evidence-based-practice",
@@ -7564,10 +8104,16 @@
       "reason": "Analysis in health reflections is expected to draw on research evidence and professional guidance, not only personal response"
     },
     {
+      "topicId": "dhl.reflective-practice",
+      "prerequisiteId": "dhl.clinical-reasoning-writing",
+      "strength": "soft",
+      "reason": "Analysis in placement reflections is expected to make clinical judgements and their justification explicit"
+    },
+    {
       "topicId": "dhl.case-reports-care-plans",
       "prerequisiteId": "voc.technical-terminology",
       "strength": "hard",
-      "reason": "Case presentations and care plans require accurate use of clinical terminology and conventional abbreviations"
+      "reason": "Case presentations require accurate clinical terminology and conventional, locally approved abbreviations"
     },
     {
       "topicId": "dhl.case-reports-care-plans",
@@ -7577,15 +8123,15 @@
     },
     {
       "topicId": "dhl.case-reports-care-plans",
-      "prerequisiteId": "grp.case-study",
+      "prerequisiteId": "prs.purpose-audience",
       "strength": "soft",
-      "reason": "Written case studies in health share the structure of applying concepts to a case and recommending action"
+      "reason": "Case presentations are shaped for a particular audience and purpose, such as a ward round, a handover or a teaching session"
     },
     {
       "topicId": "dhl.case-reports-care-plans",
-      "prerequisiteId": "dhl.evidence-based-practice",
+      "prerequisiteId": "dhl.clinical-reasoning-writing",
       "strength": "soft",
-      "reason": "Care-plan interventions are expected to carry evidence-based rationales"
+      "reason": "The assessment and plan that close a case presentation summarise clinical reasoning that the presenter must be able to make explicit"
     },
     {
       "topicId": "dhl.professional-communication",
@@ -7613,21 +8159,63 @@
     },
     {
       "topicId": "dhl.critical-appraisal",
-      "prerequisiteId": "inf.systematic-searching",
-      "strength": "soft",
-      "reason": "Reporting a systematic review requires a transparent, reproducible search strategy"
-    },
-    {
-      "topicId": "dhl.critical-appraisal",
       "prerequisiteId": "ges.critique",
       "strength": "hard",
       "reason": "Written appraisal specialises the critical review of a single article, including its critical reading of samples, design, measures and limitations"
     },
     {
       "topicId": "dhl.critical-appraisal",
+      "prerequisiteId": "num.interpreting-statistics",
+      "strength": "soft",
+      "reason": "Judging the results of a study requires interpreting effect sizes, confidence intervals and p values"
+    },
+    {
+      "topicId": "dhl.critical-appraisal",
       "prerequisiteId": "dhl.evidence-based-practice",
       "strength": "hard",
       "reason": "Critical appraisal is the step of evidence-based practice that judges the validity and applicability of evidence"
+    },
+    {
+      "topicId": "dhl.clinical-reasoning-writing",
+      "prerequisiteId": "sta.claim-calibration",
+      "strength": "soft",
+      "reason": "Judgements made from incomplete clinical data must be stated with certainty matched to the evidence"
+    },
+    {
+      "topicId": "dhl.clinical-reasoning-writing",
+      "prerequisiteId": "fun.explaining",
+      "strength": "hard",
+      "reason": "Clinical reasoning writing is built from explanations and justifications of each judgement"
+    },
+    {
+      "topicId": "dhl.clinical-reasoning-writing",
+      "prerequisiteId": "crt.applying-theory",
+      "strength": "soft",
+      "reason": "Linking a patient's presentation to physiological or theoretical knowledge applies general concepts to a particular case"
+    },
+    {
+      "topicId": "dhl.clinical-reasoning-writing",
+      "prerequisiteId": "dhl.evidence-based-practice",
+      "strength": "hard",
+      "reason": "Justifying interventions requires integrating appraised evidence with clinical expertise and patient preferences, the core of evidence-based practice"
+    },
+    {
+      "topicId": "dhl.care-plans",
+      "prerequisiteId": "voc.technical-terminology",
+      "strength": "soft",
+      "reason": "Care plans require accurate clinical terminology and only locally approved abbreviations"
+    },
+    {
+      "topicId": "dhl.care-plans",
+      "prerequisiteId": "reg.inclusive-language",
+      "strength": "soft",
+      "reason": "Person-centred care plans depend on respectful person-first or identity-first wording that follows professional conventions"
+    },
+    {
+      "topicId": "dhl.care-plans",
+      "prerequisiteId": "dhl.clinical-reasoning-writing",
+      "strength": "hard",
+      "reason": "A care plan records the outcome of clinical reasoning, from assessment cues to prioritised problems, goals, interventions and evaluation"
     },
     {
       "topicId": "dbe.business-case-analysis",
@@ -7700,6 +8288,54 @@
       "prerequisiteId": "crt.applying-theory",
       "strength": "hard",
       "reason": "Using SWOT or Five Forces analytically is a specific case of applying concepts and models to a case"
+    },
+    {
+      "topicId": "dbe.accounting-finance-discourse",
+      "prerequisiteId": "sta.hedging",
+      "strength": "soft",
+      "reason": "Forecasts and valuations must be hedged to the assumptions and uncertainty on which they rest"
+    },
+    {
+      "topicId": "dbe.accounting-finance-discourse",
+      "prerequisiteId": "rdc.bias-perspective",
+      "strength": "soft",
+      "reason": "Reading corporate narratives critically requires recognising the writer's interests and persuasive framing"
+    },
+    {
+      "topicId": "dbe.accounting-finance-discourse",
+      "prerequisiteId": "dat.data-commentary",
+      "strength": "hard",
+      "reason": "Financial statement commentary is a form of data commentary that highlights, explains and evaluates figures"
+    },
+    {
+      "topicId": "dbe.accounting-finance-discourse",
+      "prerequisiteId": "num.relative-absolute",
+      "strength": "hard",
+      "reason": "Reporting financial performance depends on distinguishing absolute, relative and percentage-point change"
+    },
+    {
+      "topicId": "dbe.consultancy-report",
+      "prerequisiteId": "ges.reflective-writing",
+      "strength": "soft",
+      "reason": "Many consultancy modules require a reflective account of the project and the team process"
+    },
+    {
+      "topicId": "dbe.consultancy-report",
+      "prerequisiteId": "grp.business-report",
+      "strength": "hard",
+      "reason": "The consultancy report adapts the problem-oriented business report, with findings and recommendations for a decision-maker"
+    },
+    {
+      "topicId": "dbe.consultancy-report",
+      "prerequisiteId": "grp.executive-summary",
+      "strength": "soft",
+      "reason": "Clients often read only the executive summary, which must stand alone and lead with recommendations"
+    },
+    {
+      "topicId": "dbe.consultancy-report",
+      "prerequisiteId": "dbe.business-case-analysis",
+      "strength": "soft",
+      "reason": "Analysing a client's situation draws on the problem definition and option evaluation practised in business case analysis"
     },
     {
       "topicId": "dlw.legal-language",
@@ -7816,6 +8452,54 @@
       "reason": "Legal essays argue from accurately understood authorities, which requires reading cases for ratio and reasoning"
     },
     {
+      "topicId": "dlw.mooting",
+      "prerequisiteId": "prs.handling-questions",
+      "strength": "soft",
+      "reason": "Answering interventions from the bench extends general strategies for handling questions"
+    },
+    {
+      "topicId": "dlw.mooting",
+      "prerequisiteId": "arg.oral-argument",
+      "strength": "hard",
+      "reason": "Moot submissions are a formal, adversarial form of arguing orally"
+    },
+    {
+      "topicId": "dlw.mooting",
+      "prerequisiteId": "prg.politeness",
+      "strength": "soft",
+      "reason": "Forms of address, concession and disagreement with the bench depend on managing face and formality"
+    },
+    {
+      "topicId": "dlw.mooting",
+      "prerequisiteId": "dlw.problem-questions",
+      "strength": "hard",
+      "reason": "Each moot ground applies legal authority to the facts of a problem and anticipates the other side, as in written problem answers"
+    },
+    {
+      "topicId": "dlw.legal-research-writing",
+      "prerequisiteId": "inf.databases",
+      "strength": "soft",
+      "reason": "Legal research depends on finding and updating authorities in legal databases"
+    },
+    {
+      "topicId": "dlw.legal-research-writing",
+      "prerequisiteId": "res.research-questions",
+      "strength": "soft",
+      "reason": "Building a legal research question adapts general skills of formulating aims and questions to doctrinal problems"
+    },
+    {
+      "topicId": "dlw.legal-research-writing",
+      "prerequisiteId": "res.thesis-macrostructure",
+      "strength": "soft",
+      "reason": "Planning chapters requires knowing the macrostructures available to long research texts and adapting them to legal argument"
+    },
+    {
+      "topicId": "dlw.legal-research-writing",
+      "prerequisiteId": "dlw.legal-essays",
+      "strength": "hard",
+      "reason": "A law dissertation sustains the authority-based argument of the legal essay across a much longer text"
+    },
+    {
       "topicId": "dss.operationalising-concepts",
       "prerequisiteId": "voc.subtechnical-polysemy",
       "strength": "soft",
@@ -7835,21 +8519,27 @@
     },
     {
       "topicId": "dss.qualitative-writing",
-      "prerequisiteId": "crt.reflexivity",
+      "prerequisiteId": "ntk.selecting-content",
       "strength": "soft",
-      "reason": "Qualitative writing positions the researcher in relation to the data, which requires understanding reflexivity and positionality"
+      "reason": "Writing field notes in real time extends the note-taking skill of deciding what to record"
     },
     {
       "topicId": "dss.qualitative-writing",
-      "prerequisiteId": "res.qualitative-reporting",
+      "prerequisiteId": "crt.description-analysis-evaluation",
       "strength": "hard",
-      "reason": "Disciplinary qualitative writing builds on the general skills of integrating participant quotations, themes and interpretation"
+      "reason": "Field notes and memos depend on keeping description distinguishable from analysis and interpretation"
+    },
+    {
+      "topicId": "dss.qualitative-writing",
+      "prerequisiteId": "crt.reflexivity",
+      "strength": "soft",
+      "reason": "Field notes, memos and accounts of analysis position the researcher in relation to the data, which requires understanding reflexivity"
     },
     {
       "topicId": "dss.qualitative-writing",
       "prerequisiteId": "dss.methodology-justification",
       "strength": "soft",
-      "reason": "Interpretive claims and analytic transparency make sense only against the paradigm and design the study has justified"
+      "reason": "Accounts of analysis make sense only against the paradigm and design of the study, which shape what counts as a transparent account"
     },
     {
       "topicId": "dss.policy-analysis",
@@ -7892,6 +8582,54 @@
       "prerequisiteId": "res.research-questions",
       "strength": "hard",
       "reason": "Design choices are justified by their fit with the research questions, which must already be formulated"
+    },
+    {
+      "topicId": "dss.psychology-research-report",
+      "prerequisiteId": "cit.author-date-in-text",
+      "strength": "soft",
+      "reason": "Psychology reports use APA author–date citation throughout"
+    },
+    {
+      "topicId": "dss.psychology-research-report",
+      "prerequisiteId": "grp.lab-report",
+      "strength": "hard",
+      "reason": "The psychology report is the discipline’s realisation of the experimental laboratory report"
+    },
+    {
+      "topicId": "dss.psychology-research-report",
+      "prerequisiteId": "res.quantitative-reporting",
+      "strength": "soft",
+      "reason": "Results sections require reporting statistics, effect sizes and tables in conventional formats"
+    },
+    {
+      "topicId": "dss.psychology-research-report",
+      "prerequisiteId": "dse.hypothesis-language",
+      "strength": "soft",
+      "reason": "Hypotheses, variables and controls in psychology studies use the language of experimental design"
+    },
+    {
+      "topicId": "dss.education-practice-genres",
+      "prerequisiteId": "fun.evaluating",
+      "strength": "soft",
+      "reason": "Materials evaluation depends on criteria-based evaluation of strengths and weaknesses"
+    },
+    {
+      "topicId": "dss.education-practice-genres",
+      "prerequisiteId": "crt.applying-theory",
+      "strength": "hard",
+      "reason": "Lesson rationales and materials evaluations apply theories of learning and teaching to a particular class or text"
+    },
+    {
+      "topicId": "dss.education-practice-genres",
+      "prerequisiteId": "ges.reflective-writing",
+      "strength": "hard",
+      "reason": "Teaching-practice reflections specialise the general reflective genre for classroom experience"
+    },
+    {
+      "topicId": "dss.education-practice-genres",
+      "prerequisiteId": "dss.methodology-justification",
+      "strength": "soft",
+      "reason": "Classroom research reports must justify their design and data collection, often within a practitioner-enquiry approach"
     },
     {
       "topicId": "dhu.close-reading",
@@ -8009,12 +8747,6 @@
     },
     {
       "topicId": "dad.artist-statement",
-      "prerequisiteId": "reg.non-specialist-audiences",
-      "strength": "soft",
-      "reason": "Exhibition and public statements must explain ideas to readers without specialist knowledge"
-    },
-    {
-      "topicId": "dad.artist-statement",
       "prerequisiteId": "sen.concision",
       "strength": "soft",
       "reason": "Statements work to tight word limits and depend on removing redundancy and empty phrases"
@@ -8023,7 +8755,13 @@
       "topicId": "dad.artist-statement",
       "prerequisiteId": "sta.self-mention",
       "strength": "soft",
-      "reason": "Statements are typically written in the first person, which requires control of self-mention and authorial roles"
+      "reason": "Statements authored by the artist or designer are usually written in the first person, which draws on control of self-mention"
+    },
+    {
+      "topicId": "dad.artist-statement",
+      "prerequisiteId": "wpr.audience-purpose",
+      "strength": "soft",
+      "reason": "Statements are written for specific readers, such as exhibition visitors or admissions tutors, whose knowledge shapes how much context and theory to include"
     },
     {
       "topicId": "dad.artist-statement",
@@ -8078,6 +8816,30 @@
       "prerequisiteId": "mmd.multimodal-literacy",
       "strength": "hard",
       "reason": "Visual analysis presupposes understanding how image, layout and colour make meaning alongside or instead of text"
+    },
+    {
+      "topicId": "dad.practice-research-exegesis",
+      "prerequisiteId": "res.literature-review",
+      "strength": "soft",
+      "reason": "Situating practice in its field adapts the positioning work of the literature review to practitioners, works and theory"
+    },
+    {
+      "topicId": "dad.practice-research-exegesis",
+      "prerequisiteId": "res.contribution",
+      "strength": "soft",
+      "reason": "The exegesis must claim the contribution of practice and text together, which draws on general skills of claiming contribution"
+    },
+    {
+      "topicId": "dad.practice-research-exegesis",
+      "prerequisiteId": "dad.artist-statement",
+      "strength": "soft",
+      "reason": "Articulating concept and context concisely for a body of work prepares for the longer contextualising argument"
+    },
+    {
+      "topicId": "dad.practice-research-exegesis",
+      "prerequisiteId": "dad.design-rationale",
+      "strength": "hard",
+      "reason": "Documenting and justifying decisions through the process is the basis of the account of making as method"
     }
   ]
 }

@@ -96,9 +96,12 @@ Use the scale `A2, A2+, B1, B1+, B2, B2+, C1, C2`. The range is an
 stages where it does not.
 
 - `core` — explicitly taught and normally assessed in a typical programme
-  of that type. Core must discriminate: across the whole taxonomy each stage
-  should have roughly 80–140 core topics, so most topics are core at one or
-  two stages at most.
+  of that type. Core must discriminate, so most topics are core at one or two
+  stages at most. Across the whole taxonomy, aim for about 90–140 core topics
+  for foundation and each pre-sessional stage, 50–110 for undergraduate
+  in-sessional, 50–100 for taught-postgraduate in-sessional and 40–90 for
+  PGR. In-sessional and doctoral provision has far fewer taught hours, and
+  much of it is embedded or self-directed.
 - `develop` — taught or extended where the cohort, discipline or course
   length makes it relevant.
 - `revisit` — assumed from earlier stages; reviewed, remediated or left to

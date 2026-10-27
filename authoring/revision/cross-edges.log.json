@@ -1,0 +1,28 @@
+{
+  "applied": [
+    "R5-02: added idn.translingual-writing <- acu.critical-eap (soft)",
+    "R5-02: added idn.standards-legitimacy <- acu.critical-eap (soft)",
+    "R1-23: added lrn.content-through-english <- acu.emi-tne (soft)",
+    "R5-02: added fbk.marking-criteria <- acu.hidden-curriculum (soft)",
+    "R5-02: added fbk.feedback-literacy <- acu.hidden-curriculum (soft)",
+    "R1-28: set ges.genre-concept <- acu.discourse-communities to soft",
+    "R5-04: added int.policy-processes <- prg.formal-statements (soft)",
+    "R1-25: removed lis.lecture-structure <- acu.teaching-formats",
+    "R5-02: added dig.machine-translation <- rdp.plurilingual-reading (soft)",
+    "R9-x: added res.literature-review <- cit.citation-politics (soft)",
+    "R11-x: added tst.presessional-progression <- ges.extended-source-based-project (soft)",
+    "R2-x: added fun.describing-process <- grm.unaccusative-verbs (soft)",
+    "R2-x: added dat.describing-trends <- grm.unaccusative-verbs (soft)",
+    "R5-02: added pub.multilingual-scholars <- idn.translingual-writing (soft)",
+    "R5-02: added src.multilingual-sources <- idn.translingual-writing (soft)",
+    "R5-02: added sta.authorial-voice <- idn.translingual-writing (soft)",
+    "R5-02: added sta.authorial-voice <- idn.academic-identity (soft)",
+    "R5-02: added cit.citation-politics <- idn.standards-legitimacy (soft)"
+  ],
+  "skipped": [
+    "R5-02: edge pub.multilingual-scholars <- acu.critical-eap already exists",
+    "R1-21: edge pub.conference-participation <- prg.informal-academic-interaction already exists",
+    "R5-02: edge rdp.plurilingual-reading <- idn.plurilingual-repertoire already exists",
+    "R6-02: edge res.systematic-review-writing <- dhl.critical-appraisal already exists"
+  ]
+}

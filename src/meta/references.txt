@@ -509,3 +509,18 @@ robillard2009 | article | Robillard, M. P. (2009). What makes APIs hard to learn
 gallie1956 | article | Gallie, W. B. (1956). Essentially contested concepts. *Proceedings of the Aristotelian Society, 56*, 167–198. | 10.1093/aristotelian/56.1.167
 emerson2011 | book | Emerson, R. M., Fretz, R. I., & Shaw, L. L. (2011). *Writing ethnographic fieldnotes* (2nd ed.). University of Chicago Press. | 10.7208/chicago/9780226206868.001.0001
 bacchi2009 | book | Bacchi, C. (2009). *Analysing policy: What's the problem represented to be?* Pearson Education. | 
+
+# --- Added during revision after adversarial review; web-verified ---
+ionin2004 | article | Ionin, T., Ko, H., & Wexler, K. (2004). Article semantics in L2 acquisition: The role of specificity. *Language Acquisition, 12*(1), 3–69. | 
+oshita2000 | article | Oshita, H. (2000). What is happened may not be what appears to be happening: A corpus study of 'passive' unaccusatives in L2 English. *Second Language Research, 16*(4), 293–324. | 
+thomson2018hvpt | article | Thomson, R. I. (2018). High variability [pronunciation] training (HVPT): A proven technique about which every language teacher and learner ought to know. *Journal of Second Language Pronunciation, 4*(2), 208–231. | 
+kobayashirinnert1992 | article | Kobayashi, H., & Rinnert, C. (1992). Effects of first language on second language writing: Translation versus direct composition. *Language Learning, 42*, 183–215. | 
+floresrosa2015 | article | Flores, N., & Rosa, J. (2015). Undoing appropriateness: Raciolinguistic ideologies and language diversity in education. *Harvard Educational Review, 85*(2), 149–171. | 10.17763/0017-8055.85.2.149
+hornerluroyster2011 | article | Horner, B., Lu, M.-Z., Royster, J. J., & Trimbur, J. (2011). Language difference in writing: Toward a translingual approach. *College English, 73*(3), 303–321. | 
+canagarajah2011codemeshing | article | Canagarajah, S. (2011). Codemeshing in academic writing: Identifying teachable strategies of translanguaging. *The Modern Language Journal, 95*(3), 401–417. | 10.1111/j.1540-4781.2011.01207.x
+kachru1985 | chapter | Kachru, B. B. (1985). Standards, codification and sociolinguistic realism: The English language in the outer circle. In R. Quirk & H. G. Widdowson (Eds.), *English in the world: Teaching and learning the language and literatures* (pp. 11–30). Cambridge University Press. | 
+braunclarke2019 | article | Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. *Qualitative Research in Sport, Exercise and Health, 11*(4), 589–597. | 10.1080/2159676X.2019.1628806
+levettjones2010 | article | Levett-Jones, T., Hoffman, K., Dempsey, J., Jeong, S. Y.-S., Noble, D., Norton, C. A., Roche, J., & Hickey, N. (2010). The 'five rights' of clinical reasoning: An educational model to enhance nursing students' ability to identify and manage clinically 'at risk' patients. *Nurse Education Today, 30*(6), 515–520. | 10.1016/j.nedt.2009.10.020
+merkldavies2007 | article | Merkl-Davies, D. M., & Brennan, N. M. (2007). Discretionary disclosure strategies in corporate narratives: Incremental information or impression management? *Journal of Accounting Literature, 26*, 116–196. | 
+hutchinsonduncan2012 | article | Hutchinson, T., & Duncan, N. (2012). Defining and describing what we do: Doctrinal legal research. *Deakin Law Review, 17*(1), 83–119. | 10.21153/dlr2012vol17no1art70
+hamiltonjaaniste2010 | article | Hamilton, J., & Jaaniste, L. (2010). A connective model for the practice-led research exegesis: An analysis of content and structure. *Journal of Writing in Creative Practice, 3*(1), 31–44. | 

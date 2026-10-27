@@ -67,7 +67,9 @@
         "levis2005",
         "field2005",
         "hahn2004",
-        "jenkins2000"
+        "jenkins2000",
+        "housenkuiken2009",
+        "lysterranta1997"
       ]
     }
   ],
@@ -2041,12 +2043,6 @@
       "reason": "Knowledge of lecture phases is a top-down resource for meaning-building, which learners use better once they see listening as interactive"
     },
     {
-      "topicId": "lis.lecture-structure",
-      "prerequisiteId": "acu.teaching-formats",
-      "strength": "soft",
-      "reason": "Understanding what lectures are for within university teaching explains why they contain structuring, evaluation and interaction phases"
-    },
-    {
       "topicId": "lis.lecture-discourse-markers",
       "prerequisiteId": "lis.lecture-structure",
       "strength": "hard",
@@ -3005,7 +3001,7 @@
           "kind": "prior-schooling",
           "revealedBy": "Confusion when a lecturer returns to an earlier point or opens questions mid-lecture.",
           "response": "Use authentic lectures early and treat phase switching as normal; Young's (1994) finding that phases interweave is a useful framing to share with learners.",
-          "reteachPrerequisiteId": "acu.teaching-formats"
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
@@ -5009,13 +5005,6 @@
       "reviewNotes": [
         "The bibliography has no source on spoken number conventions; guidance is practice-based."
       ]
-    }
-  ],
-  "proposedReferences": [
-    {
-      "key": "thomson2018hvpt",
-      "apa": "Thomson, R. I. (2018). High variability [pronunciation] training (HVPT): A proven technique about which every language teacher and learner ought to know. Journal of Second Language Pronunciation, 4(2), 208–231. https://doi.org/10.1075/jslp.17038.tho",
-      "note": "Requested by review finding R2-41. High confidence in authors, year, title, journal, volume, issue and pages; DOI recalled from memory and should be checked. Supports only the HVPT activity rationale in prn.segmental-priorities."
     }
   ],
   "authorNotes": [

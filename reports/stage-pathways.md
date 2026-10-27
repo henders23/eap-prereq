@@ -1,2346 +1,801 @@
 # Stage pathways
 
-For each stage, the topics taught there, grouped by strand and listed in prerequisite order: earlier items are prerequisites of, or independent of, later ones. Use these as a starting point for syllabus design, not a fixed sequence. Prerequisites from other stages are shown as *assumed*.
+For each stage: the **core** topics in hard-prerequisite order, grouped by strand, then the topics to **develop** where relevant and those to **revisit**. Soft prerequisites are not used for ordering; treat them as "teach nearby". Hard prerequisites that are not core at the stage are shown as *assumed*. Use this as a starting point for syllabus design; course templates are in `data/pathways.json`.
 
 ## Foundation / pathway
 
-372 topics.
+106 core · 256 develop · 0 revisit.
 
-### Academic Language
+### Core
 
-- **High-frequency vocabulary base** (`voc.high-frequency-base`, A2–B1+)
-- **Lexical coverage and vocabulary size** (`voc.lexical-coverage`, B1–B2)
-- **Vocabulary of university study** (`voc.university-terminology`, B1–B2)
-- **Collocation awareness** (`phr.collocation-awareness`, B1–B2)
-- **Text-oriented lexical bundles** (`phr.bundles-text-oriented`, B1+–B2+)
-- **Register and situational variation** (`reg.register-awareness`, B1–B2+)
-- **Features of formal academic style** (`reg.formality-features`, B1–B2+)
-- **Clause elements and sentence analysis** (`grm.clause-elements`, B1–B2)
-- **Word families and derivational morphology** (`voc.word-families-morphology`, B1–B2+)
-- **Academic affixes and Greco-Latin roots** (`voc.affixes-roots`, B1+–C1)
-- **Core academic vocabulary** (`voc.core-academic-vocabulary`, B1+–C1)
-- **Technical and discipline-specific terminology** (`voc.technical-terminology`, B1+–C1)
-- **Inferring word meaning from context** (`voc.inferring-from-context`, B1–B2+)
-- **Using learner and specialist dictionaries** (`voc.dictionary-use`, B1–B2)
-- **Deliberate vocabulary learning systems** (`voc.deliberate-learning-systems`, B1–B2+)
-- **Word grammar and complementation patterns** (`voc.word-grammar-patterns`, B1+–C1)
-- **Verbs for academic and research processes** (`voc.academic-verbs`, B1+–C1)
-- **Multi-word verbs and register** (`voc.multiword-verbs-register`, B1+–B2+)
-- **Moving vocabulary into productive use** (`voc.receptive-to-productive`, B1+–C1)
-- **Countability of academic nouns** (`voc.countability-academic-nouns`, B1–B2+)
-- **Spelling conventions and consistency** (`voc.spelling-conventions`, B1–B2)
-- **Assignment command words** (`voc.command-words`, B1–B2+)
-- **Academic abbreviations and Latin expressions** (`voc.abbreviations-latin`, B1–B2)
-- **Academic collocations** (`phr.academic-collocations`, B1+–C1)
-- **Spoken versus written academic language** (`reg.spoken-vs-written`, B1+–C1)
-- **Spoken academic formulas** (`phr.spoken-academic-formulas`, B1+–C1)
-- **Noun-phrase premodification** (`grm.np-premodification`, B1+–C1)
-- **Determiners and quantifiers** (`grm.determiners-quantifiers`, B1–B2)
-- **Avoiding vague and overgeneralised language** (`reg.vague-overgeneralised`, B1–B2+)
-- **Tense and aspect in academic writing** (`grm.tense-aspect`, B1–B2+)
-- **Passive voice and agency** (`grm.passive-voice`, B1–C1)
-- **Epistemic modal verbs** (`grm.epistemic-modality`, B1+–C1)
-- **Defining and non-defining relative clauses** (`grm.relative-clauses`, B1–B2+)
-- **Existential 'there' constructions** (`grm.existential-there`, B1–B2)
-- **Prepositions and complex prepositions** (`grm.prepositions`, B1–C1)
-- **Noun-phrase postmodification** (`grm.np-postmodification`, B1+–C1)
-- **Subject–verb agreement with complex subjects** (`grm.subject-verb-agreement`, B1–B2+)
-- **Articles in academic writing** (`grm.articles`, B1–C1)
-- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, B1–C1)
-- **Simple, compound and complex sentences** (`sen.sentence-types`, B1–B2)
-- **Subordination and adverbial clauses** (`grm.subordination`, B1–B2)
-- **Conditionals and hypothetical reasoning** (`grm.conditionals`, B1+–B2+)
-- **Coordination and parallel structure** (`grm.coordination-parallelism`, B1+–B2+)
-- **That-clauses and wh-clauses** (`grm.complement-clauses`, B1+–B2+)
-- **Anticipatory 'it' and extraposition** (`grm.anticipatory-it`, B1+–C1)
-- **Comparative structures** (`grm.comparison-structures`, B1–B2+)
-- **Reporting structures** (`grm.reporting-structures`, B1+–C1)
-- **Pronoun and demonstrative reference** (`grm.reference-pronouns`, B1+–B2+)
-- **Sentence boundaries** (`sen.sentence-boundaries`, B1–B2)
-- **Commas in academic prose** (`sen.commas`, B1–B2+)
-- **Semicolons and colons** (`sen.semicolons-colons`, B1+–B2+)
-- **Placement and punctuation of linking adverbials** (`grm.linking-adverbial-placement`, B1+–B2+)
-- **Apostrophes, hyphens and dashes** (`sen.apostrophes-hyphens-dashes`, B1–B2+)
-- **Capitalisation conventions** (`sen.capitalisation`, B1–B2)
-- **Punctuating quotations and brackets** (`sen.quotation-punctuation`, B1+–B2+)
-- **Writing numbers, units and symbols in text** (`sen.numbers-units-style`, B1+–B2+)
-- **Lists and bullet points** (`sen.lists-bullets`, B1+–B2)
+#### Academic Language
 
-### Academic Discourse
+- **High-frequency vocabulary base** (`voc.high-frequency-base`, core band A2+)
+- **Word families and derivational morphology** (`voc.word-families-morphology`, core band B1+)
+- **Core academic vocabulary** (`voc.core-academic-vocabulary`, core band B2)
+- **Inferring word meaning from context** (`voc.inferring-from-context`, core band B1+)
+- **Vocabulary of university study** (`voc.university-terminology`, core band B1)
+- **Assignment command words** (`voc.command-words`, core band B1+)
+- **Register and situational variation** (`reg.register-awareness`, core band B1)
+- **Features of formal academic style** (`reg.formality-features`, core band B1+)
+- **Avoiding vague and overgeneralised language** (`reg.vague-overgeneralised`, core band B1+)
+- **Subject–verb agreement with complex subjects** (`grm.subject-verb-agreement`, core band B1+)
+- **Tense and aspect in academic writing** (`grm.tense-aspect`, core band B1)
+- **Passive voice and agency** (`grm.passive-voice`, core band B1+) — *assumed:* `grm.clause-elements`
+- **Defining and non-defining relative clauses** (`grm.relative-clauses`, core band B1+) — *assumed:* `grm.clause-elements`
+- **Simple, compound and complex sentences** (`sen.sentence-types`, core band B1) — *assumed:* `grm.clause-elements`
+- **Subordination and adverbial clauses** (`grm.subordination`, core band B1)
+- **Sentence boundaries** (`sen.sentence-boundaries`, core band B1)
+- **Commas in academic prose** (`sen.commas`, core band B1+)
+- **Punctuation and mechanics beyond the comma** (`sen.punctuation-mechanics`, core band B1+)
 
-- **Cohesion versus coherence** (`coh.cohesion-vs-coherence`, B1–B2+)
-- **Lexical cohesion and reference chains** (`coh.lexical-cohesion`, B1+–C1)
-- **Linking adverbials and connectors** (`coh.linking-adverbials`, B1–C1)
-- **Text structure patterns** (`coh.text-patterns`, B1+–C1)
-- **Reader and writer responsibility** (`coh.writer-responsibility`, B1+–B2+)
-- **Frame markers and advance organisers** (`coh.frame-markers`, B1+–C1)
-- **Signposting in spoken academic discourse** (`coh.spoken-signposting`, B1+–C1)
-- **Hedging devices** (`sta.hedging`, B1+–C2)
-- **Boosters** (`sta.boosters`, B1+–C1)
-- **Generalising and qualifying** (`sta.generalisation-qualification`, B1+–C1)
-- **Expressing stance in speech** (`sta.spoken-stance`, B1+–C1)
-- **Defining terms** (`fun.defining`, B1–C1)
-- **Classifying and categorising** (`fun.classifying`, B1–B2+)
-- **Describing processes and procedures** (`fun.describing-process`, B1–B2+)
-- **Describing structures and systems** (`fun.describing-structure`, B1–B2+)
-- **Comparing and contrasting** (`fun.comparing-contrasting`, B1–C1)
-- **Expressing cause and effect** (`fun.cause-effect`, B1+–C1)
-- **Exemplifying and illustrating** (`fun.exemplifying`, B1+–B2+)
-- **Code glosses and exemplification** (`sta.code-glosses`, B1+–C1)
-- **Explaining and justifying** (`fun.explaining`, B1+–C1)
-- **Predicting and hypothesising** (`fun.hypothesising`, B1+–C1)
-- **Summarising and concluding** (`fun.summarising-concluding`, B1+–C1)
-- **Chronological narration** (`fun.chronology-narration`, B1–B2+)
-- **Evaluating strengths, weaknesses and significance** (`fun.evaluating`, B1+–C1)
-- **Problem, solution and evaluation** (`fun.problem-solution`, B1+–C1)
-- **Recommending** (`fun.recommending`, B1+–C1)
+#### Academic Discourse
 
-### Academic Reading
+- **Linking adverbials and connector precision** (`coh.linking-adverbials`, core band B1+)
+- **Hedging and qualifying generalisations** (`sta.hedging`, core band B2) — *assumed:* `grm.epistemic-modality`
+- **Defining terms** (`fun.defining`, core band B1+)
+- **Classifying and categorising** (`fun.classifying`, core band B1)
+- **Describing processes and procedures** (`fun.describing-process`, core band B1)
+- **Comparing and contrasting** (`fun.comparing-contrasting`, core band B1+) — *assumed:* `grm.comparison-structures`
+- **Expressing cause and effect** (`fun.cause-effect`, core band B1+)
 
-- **Reading as an interactive process** (`rdp.interactive-reading`, B1–B2+)
-- **Automatic word recognition** (`rdp.word-recognition`, B1–B2+)
-- **Extensive reading** (`rdp.extensive-reading`, B1–C1)
-- **Reading fluency and rate** (`rdp.reading-fluency-rate`, B1–C1)
-- **Reading with a purpose** (`rdp.reading-purpose`, B1–B2+)
-- **Parsing complex academic sentences** (`rdp.parsing-complex-sentences`, B1+–C1) — *assumed:* `grm.nominalisation`
-- **Background knowledge and schemata** (`rdp.background-knowledge`, B1–C1)
-- **Managing reading load** (`rdp.managing-reading-load`, B1+–C1)
-- **Previewing and surveying** (`rds.previewing`, B1–B2)
-- **Scanning for specific information** (`rds.scanning`, B1–B2)
-- **Using paragraph structure when reading** (`rds.paragraph-structure-reading`, B1–B2)
-- **Skimming for gist** (`rds.skimming`, B1–B2)
-- **Identifying main ideas and supporting detail** (`rds.main-ideas`, B1–B2+)
-- **Recognising text organisation** (`rds.text-organisation`, B1+–C1)
-- **Tracking reference while reading** (`rds.reference-tracking`, B1–B2+)
-- **Making inferences** (`rds.inference`, B1+–C1)
-- **Distinguishing fact, opinion, claim and evidence** (`rds.fact-opinion-claim`, B1–B2+)
-- **Monitoring comprehension** (`rds.comprehension-monitoring`, B1–C1)
-- **Strategic use of first language and translation in reading** (`rdp.plurilingual-reading`, B1–C1)
-- **Purposeful annotation** (`rds.annotation`, B1–B2+)
-- **Reading on screen** (`rdp.digital-reading`, B1–C1)
-- **Reading textbooks** (`rds.textbook-reading`, B1–B2)
-- **Integrating text and visuals** (`rds.visuals-in-text`, B1+–C1)
-- **What critical reading involves** (`rdc.critical-reading`, B1+–C1)
-- **Identifying arguments in texts** (`rdc.argument-identification`, B1+–C1)
-- **Reading for a writing task** (`rdc.reading-for-writing`, B1+–C1)
-- **Generating critical questions** (`rdc.critical-questions`, B1+–C1)
-- **Formulating a critical response** (`rdc.critical-response`, B1+–C1) — *assumed:* `rdc.evidence-evaluation`
+#### Academic Reading
 
-### Academic Listening
+- **Extensive reading** (`rdp.extensive-reading`, core band B1)
+- **Previewing and surveying** (`rds.previewing`, core band B1) — *assumed:* `rdp.reading-purpose`
+- **Skimming for gist** (`rds.skimming`, core band B1)
+- **Using paragraph structure when reading** (`rds.paragraph-structure-reading`, core band B1)
+- **Identifying main ideas and supporting detail** (`rds.main-ideas`, core band B1)
+- **Tracking reference while reading** (`rds.reference-tracking`, core band B1) — *assumed:* `grm.reference-pronouns`
+- **Distinguishing claims, evidence and their status** (`rds.fact-opinion-claim`, core band B1+)
+- **Reading textbooks** (`rds.textbook-reading`, core band B1)
 
-- **Listening processes: decoding and meaning-building** (`lis.listening-processes`, B1–B2)
-- **Recognising connected speech** (`lis.connected-speech`, B1–B2+)
-- **Segmenting the speech stream** (`lis.word-segmentation`, B1–B2+)
-- **Understanding varied accents** (`lis.accent-variation`, B1+–C1)
-- **Lecture structure and phases** (`lis.lecture-structure`, B1–B2)
-- **Lecture discourse markers** (`lis.lecture-discourse-markers`, B1–B2+)
-- **Emphasis and relevance markers** (`lis.relevance-markers`, B1+–C1)
-- **Preparing for lectures** (`lis.pre-listening-preparation`, B1–B2+)
-- **Metacognitive listening strategies** (`lis.metacognitive-listening`, B1–B2+)
-- **Coping with natural speech rate** (`lis.speech-rate`, B1+–C1)
-- **Identifying main points and supporting detail** (`lis.main-points`, B1–C1)
-- **Integrating slides, visuals and speech** (`lis.multimodal-lectures`, B1+–B2+)
-- **Understanding spoken instructions and briefings** (`lis.spoken-instructions`, B1–B2)
-- **Functions of notes** (`ntk.functions-of-notes`, B1–B2)
-- **Selecting what to note** (`ntk.selecting-content`, B1–B2+)
-- **Abbreviations and symbols** (`ntk.abbreviations-symbols`, B1–B2)
-- **Note formats** (`ntk.note-formats`, B1–B2+)
-- **Taking notes in lectures** (`ntk.lecture-notes`, B1+–C1)
-- **Using lecture capture strategically** (`lis.recorded-lectures`, B1+–B2+)
-- **Making notes from reading** (`ntk.notes-from-reading`, B1+–C1)
-- **Reviewing and reworking notes** (`ntk.reviewing-notes`, B1+–B2+)
-- **Digital and handwritten note-taking** (`ntk.digital-notes`, B1+–B2+)
+#### Academic Listening & Note-making
 
-### Academic Speaking
+- **Recognising connected speech** (`lis.connected-speech`, core band B1)
+- **Lecture discourse markers** (`lis.lecture-discourse-markers`, core band B1+) — *assumed:* `lis.lecture-structure`
+- **Identifying main points and supporting detail** (`lis.main-points`, core band B1+)
+- **Selecting what to note** (`ntk.selecting-content`, core band B1+)
+- **Taking notes in lectures** (`ntk.lecture-notes`, core band B2) — *assumed:* `ntk.note-formats`
 
-- **Purposes and expectations of seminars** (`sem.seminar-purposes`, B1–B2)
-- **Preparing for seminars** (`sem.preparation`, B1–B2+)
-- **Turn-taking and taking the floor** (`sem.turn-taking`, B1+–C1) — *assumed:* `lis.multi-party-discussion`
-- **Expressing and justifying views** (`sem.opinions`, B1–B2+)
-- **Agreeing and disagreeing** (`sem.agreeing-disagreeing`, B1+–C1)
-- **Asking questions and seeking clarification** (`sem.questions-clarification`, B1–C1)
-- **Managing speaking anxiety and willingness to communicate** (`sem.speaking-anxiety`, B1–C1)
-- **Structured academic debate** (`sem.debate`, B2–C1) — *assumed:* `arg.rebuttal-concession`, `arg.oral-argument`
-- **Purpose and audience analysis** (`prs.purpose-audience`, B1–C1)
-- **Structuring a presentation** (`prs.structure`, B1–B2+)
-- **Opening a presentation** (`prs.openings`, B1+–C1)
-- **Signposting in presentations** (`prs.signposting`, B1–B2+)
-- **Designing slides** (`prs.slide-design`, B1+–C1)
-- **Non-verbal communication** (`prs.nonverbal`, B1–B2+)
-- **Intelligibility, comprehensibility and accent** (`prn.intelligibility`, B1–B2+)
-- **Word stress in academic vocabulary** (`prn.word-stress`, B1–C1)
-- **Thought groups and pausing** (`prn.thought-groups`, B1–B2+)
-- **Sentence stress and prominence** (`prn.prominence`, B1+–C1) — *assumed:* `coh.given-new`
-- **Vocal delivery** (`prs.delivery-voice`, B1–C1)
-- **Prioritised segmental features** (`prn.segmental-priorities`, B1–C1)
-- **Connected speech in production** (`prn.connected-speech-production`, B1+–C1)
-- **Pronouncing technical terms and names** (`prn.technical-terms`, B1+–C1)
-- **Self-repair and reformulation** (`prn.repair`, B1–B2+)
-- **Checking and confirming understanding** (`sem.checking-understanding`, B1+–B2+)
-- **Synchronous online discussion** (`sem.online-discussion`, B1+–C1)
-- **Developing speech fluency** (`prn.fluency`, B1–C1)
-- **Speaking from notes** (`prs.speaking-from-notes`, B1–B2+)
-- **Recorded and online presentations** (`prs.recorded-online`, B1+–C1)
-- **Rehearsal and timing** (`prs.rehearsal-timing`, B1–B2+)
-- **Saying numbers, formulae and symbols aloud** (`prn.numbers-aloud`, B1–B2+)
-- **Talking about visuals and data** (`prs.explaining-visuals`, B1+–C1) — *assumed:* `dat.data-commentary`
-- **Purposes of group work** (`grw.purposes`, B1–B2)
-- **Roles and planning** (`grw.roles-planning`, B1+–B2+)
-- **Group presentations** (`prs.group-presentations`, B1+–B2+)
-- **Inclusive collaboration in multilingual groups** (`grw.inclusive-collaboration`, B1+–C1)
-- **Assessing contributions** (`grw.contribution-assessment`, B1+–B2+)
+#### Academic Speaking
 
-### Academic Writing
+- **Purposes and expectations of seminars** (`sem.seminar-purposes`, core band B1)
+- **Preparing for seminars** (`sem.preparation`, core band B1+)
+- **Expressing and justifying views** (`sem.opinions`, core band B1)
+- **Asking questions and seeking clarification** (`sem.questions-clarification`, core band B1+)
+- **Structuring a presentation** (`prs.structure`, core band B1) — *assumed:* `prs.purpose-audience`
+- **Signposting in presentations and spoken explanations** (`prs.signposting`, core band B1+)
+- **Vocal delivery** (`prs.delivery-voice`, core band B1+) — *assumed:* `prn.prominence`
+- **Speaking from notes** (`prs.speaking-from-notes`, core band B1)
+- **Group presentations** (`prs.group-presentations`, core band B1+) — *assumed:* `grw.roles-planning`
+- **Word stress in academic vocabulary** (`prn.word-stress`, core band B1+)
+- **Thought groups and pausing** (`prn.thought-groups`, core band B1)
 
-- **Writing as a recursive process** (`wpr.writing-process`, B1–B2+)
-- **Integrating reading into writing** (`wpr.reading-to-write`, B1+–C1)
-- **Audience and purpose** (`wpr.audience-purpose`, B1–C1)
-- **Analysing assignment tasks** (`wpr.task-analysis`, B1–C1)
-- **Generating ideas** (`wpr.generating-ideas`, B1–B2)
-- **Planning and outlining** (`wpr.planning-outlining`, B1–C1)
-- **Using the first language in composing** (`wpr.l1-in-composing`, B1–B2+)
-- **Working within word limits** (`wpr.word-limits`, B1+–B2+)
-- **Formatting and presentation** (`wpr.formatting`, B1–B2)
-- **The academic paragraph** (`par.paragraph-unit`, B1–B2)
-- **Drafting** (`wpr.drafting`, B1–B2+)
-- **Writing topic sentences** (`par.topic-sentences`, B1–B2+)
-- **Developing support** (`par.support`, B1–C1)
-- **Internal paragraph coherence** (`par.internal-coherence`, B1+–C1)
-- **Concluding and linking sentences** (`par.concluding-sentences`, B1–B2)
-- **Point–evidence–explanation–link structures** (`par.peel`, B1–B2)
-- **Paragraph length and division** (`par.length-division`, B1+–B2+)
-- **Integrating sources in paragraphs** (`par.integrating-evidence`, B1+–C1)
-- **Academic essay structure** (`ess.essay-structure`, B1–B2)
-- **Paragraph functions** (`par.paragraph-functions`, B1–B2)
-- **Thesis statements** (`ess.thesis-statement`, B1+–C1)
-- **Writing introductions** (`ess.introductions`, B1+–C1)
-- **Writing conclusions** (`ess.conclusions`, B1+–C1)
-- **Organising the essay body** (`ess.body-organisation`, B1+–C1)
-- **Answering the question** (`ess.answering-question`, B1–C1)
-- **Essay types** (`ess.essay-types`, B1+–B2+)
-- **Revision, editing and proofreading** (`edt.revision-editing-proofreading`, B1–B2)
-- **Global revision** (`edt.global-revision`, B1+–C1)
-- **Editing for grammatical accuracy** (`edt.grammar-editing`, B1–C1)
-- **Proofreading** (`edt.proofreading`, B1–B2+)
-- **Self-assessing drafts against criteria** (`edt.criteria-self-assessment`, B1+–C1)
-- **Peer review of drafts** (`edt.peer-review`, B1+–C1)
-- **Using editing tools critically** (`edt.editing-tools`, B1–B2+)
-- **Acceptable third-party proofreading** (`edt.proofreading-ethics`, B1+–B2+)
+#### Academic Writing
 
-### Sources & Academic Integrity
+- **Writing as a recursive process** (`wpr.writing-process`, core band B1)
+- **Analysing and answering assignment and exam tasks** (`wpr.task-analysis`, core band B1+)
+- **Planning and outlining** (`wpr.planning-outlining`, core band B1+) — *assumed:* `wpr.generating-ideas`
+- **The academic paragraph** (`par.paragraph-unit`, core band B1)
+- **Writing topic sentences** (`par.topic-sentences`, core band B1)
+- **Developing support** (`par.support`, core band B1+)
+- **Point–evidence–explanation–link structures** (`par.peel`, core band B1)
+- **Concluding and linking sentences** (`par.concluding-sentences`, core band B1)
+- **Academic essay structure** (`ess.essay-structure`, core band B1)
+- **Thesis statements** (`ess.thesis-statement`, core band B1+)
+- **Revision, editing and proofreading** (`edt.revision-editing-proofreading`, core band B1)
 
-- **Types of sources** (`inf.source-types`, B1–B2)
-- **How scholarly knowledge is produced** (`inf.scholarly-communication`, B1+–C1)
-- **Focusing a topic for searching** (`inf.research-question`, B1+–B2+)
-- **Search strategies** (`inf.search-strategies`, B1+–B2+)
-- **Library catalogues, databases and discovery tools** (`inf.databases`, B1+–B2+)
-- **Evaluating sources** (`inf.source-evaluation`, B1+–C1)
-- **Lateral reading** (`inf.lateral-reading`, B1+–B2+)
-- **Recording searches and sources** (`inf.search-records`, B1+–B2+)
-- **Functions of sources in academic writing** (`src.source-functions`, B1+–C1)
-- **Quoting** (`src.quoting`, B1–B2)
-- **Paraphrasing techniques** (`src.paraphrase-techniques`, B1+–B2+)
-- **Why academics cite** (`cit.why-cite`, B1–B2)
-- **When to cite** (`cit.when-to-cite`, B1+–C1)
-- **Paraphrasing** (`src.paraphrasing`, B1+–C1)
-- **Signal phrases and attribution** (`src.signal-phrases`, B1–B2)
-- **Integrating quotations** (`src.integrating-quotations`, B1+–B2+)
-- **Summarising a passage** (`src.summarising-passage`, B1–B2)
-- **Reporting verbs** (`src.reporting-verbs`, B1+–C1)
-- **Summarising a whole text** (`src.summarising-text`, B1+–C1)
-- **Distinguishing own voice from source voice** (`src.voice-boundaries`, B1+–C1) — *assumed:* `sta.averral-attribution`
-- **What synthesis is** (`syn.synthesis-concept`, B1+–B2+)
-- **Synthesis matrices** (`syn.synthesis-matrix`, B1+–B2+)
-- **Integrated source-based tasks** (`syn.integrated-tasks`, B1+–B2+)
-- **Referencing systems and style guides** (`cit.referencing-systems`, B1+–B2+)
-- **In-text citation: author–date** (`cit.author-date-in-text`, B1–B2)
-- **Numeric citation systems** (`cit.numeric`, B1+–B2+)
-- **Compiling a reference list** (`cit.reference-list`, B1–B2+)
-- **Secondary citation** (`src.secondary-citation`, B1+–B2)
-- **Page numbers and locators** (`cit.locators`, B1+–B2)
-- **Citation accuracy and consistency** (`cit.accuracy-consistency`, B1+–C1)
-- **Values of academic integrity** (`int.integrity-values`, B1–B2+)
-- **Understanding plagiarism** (`int.plagiarism`, B1–C1)
-- **Patchwriting** (`src.patchwriting`, B1+–C1)
-- **Collusion and legitimate collaboration** (`int.collusion`, B1+–B2+)
-- **Contract cheating** (`int.contract-cheating`, B1+–B2+)
-- **Interpreting similarity reports** (`int.similarity-reports`, B1+–C1)
-- **Integrity policies and processes** (`int.policy-processes`, B1+–C1)
-- **Managing integrity risk under pressure** (`int.pressure-risks`, B1+–B2+)
+#### Sources & Academic Integrity
 
-### Argument & Critical Thinking
+- **Types of sources** (`inf.source-types`, core band B1)
+- **Evaluating sources** (`inf.source-evaluation`, core band B1+) — *assumed:* `inf.scholarly-communication`
+- **Quoting** (`src.quoting`, core band B1)
+- **Paraphrasing techniques** (`src.paraphrase-techniques`, core band B1+)
+- **Paraphrasing** (`src.paraphrasing`, core band B2)
+- **Summarising a passage** (`src.summarising-passage`, core band B1+)
+- **Reporting verbs and signal phrases** (`src.reporting-verbs`, core band B1+) — *assumed:* `grm.reporting-structures`
+- **Why academics cite** (`cit.why-cite`, core band B1)
+- **In-text citation: author–date** (`cit.author-date-in-text`, core band B1+) — *assumed:* `cit.referencing-systems`
+- **Compiling a reference list** (`cit.reference-list`, core band B1+) — *assumed:* `cit.referencing-systems`
+- **Values of academic integrity** (`int.integrity-values`, core band B1)
+- **Understanding plagiarism** (`int.plagiarism`, core band B1+)
 
-- **Critical thinking in academic contexts** (`crt.concept`, B1+–C1)
-- **Description, analysis and evaluation** (`crt.description-analysis-evaluation`, B1+–B2+)
-- **Critical questioning** (`crt.questioning`, B1+–C1)
-- **Types and strength of evidence** (`crt.evidence-types`, B1+–C1)
-- **Considering multiple perspectives** (`crt.multiple-perspectives`, B1+–C1) — *assumed:* `rds.writer-stance`
-- **Beliefs about knowledge** (`crt.epistemic-beliefs`, B1+–C1)
-- **Applying theory to cases** (`crt.applying-theory`, B1+–C1)
-- **Analytical problem-solving** (`crt.problem-solving`, B1+–C1)
-- **What counts as an academic argument** (`arg.argument-concept`, B1–B2+)
-- **Types of claims** (`arg.claim-types`, B1+–C1)
-- **Supporting claims** (`arg.supporting-claims`, B1–C1)
-- **Anticipating counter-arguments** (`arg.counterarguments`, B1+–C1)
-- **Taking and sustaining a position** (`arg.position`, B1+–C1)
-- **Rhetorical appeals** (`arg.rhetorical-appeals`, B1+–C1)
-- **Argument mapping** (`arg.argument-mapping`, B1+–C1)
-- **Linguistic diversity as resource** (`idn.diversity-as-resource`, B1–C1)
-- **Drawing on a plurilingual repertoire** (`idn.plurilingual-repertoire`, B1–C1)
-- **English as a lingua franca in academia** (`idn.elf`, B1+–C1)
-- **Intercultural communication** (`idn.intercultural-communication`, B1+–C1)
+#### Argument & Critical Thinking
 
-### Academic Genres
+- **Description, analysis and evaluation** (`crt.description-analysis-evaluation`, core band B1+)
+- **Critical questioning and question sets** (`crt.questioning`, core band B1+)
+- **Types and strength of evidence** (`crt.evidence-types`, core band B1+)
+- **What counts as an academic argument** (`arg.argument-concept`, core band B1+)
+- **Supporting claims** (`arg.supporting-claims`, core band B1+)
 
-- **Genre and discourse community** (`ges.genre-concept`, B1+–C1)
-- **Analysing genres independently** (`ges.genre-analysis`, B1+–C1)
-- **Genre families in university assessment** (`ges.genre-families`, B1+–B2+)
-- **Argumentative essay** (`ges.argumentative-essay`, B1+–C1) — *assumed:* `arg.extended-argument`
-- **Discussion essay** (`ges.discussion-essay`, B1–B2+)
-- **Compare-and-contrast essay** (`ges.compare-contrast-essay`, B1–B2+)
-- **Explanation and cause–effect essay** (`ges.explanation-essay`, B1–B2+)
-- **Problem–solution essay** (`ges.problem-solution-essay`, B1–B2+)
-- **Examination essay** (`ges.exam-essay`, B1+–C1)
-- **Short-answer responses** (`ges.short-answer`, B1–B2+)
-- **Reflective writing** (`ges.reflective-writing`, B1+–C1)
-- **Annotated bibliography** (`ges.annotated-bibliography`, B1+–B2+)
-- **Summary–response paper** (`ges.summary-response`, B1+–B2+)
-- **Report conventions** (`grp.report-conventions`, B1+–B2+)
-- **Laboratory report** (`grp.lab-report`, B1+–C1) — *assumed:* `dat.data-commentary`
-- **Case study analysis** (`grp.case-study`, B1+–C1)
-- **Business report** (`grp.business-report`, B1+–C1)
+#### Academic Genres
 
-### Data, Numeracy & Multimodality
+- **Discussion essay** (`ges.discussion-essay`, core band B1+) — *assumed:* `fun.evaluating`, `crt.multiple-perspectives`
+- **Summary–response paper** (`ges.summary-response`, core band B1+) — *assumed:* `rdc.critical-response`, `src.summarising-text`, `src.voice-boundaries`
+- **Expository essays organised by rhetorical pattern** (`ges.expository-essays`, core band B1+) — *assumed:* `fun.problem-solution`, `fun.evaluating`
+- **Extended source-based project** (`ges.extended-source-based-project`, core band B2) — *assumed:* `par.integrating-evidence`, `edt.global-revision`, `inf.search-strategies`, `src.voice-boundaries`, `syn.synthesis-concept`, `cit.accuracy-consistency`
+- **Report conventions** (`grp.report-conventions`, core band B1+)
 
-- **Types of visuals and their functions** (`dat.visual-types`, B1–B2)
-- **Describing processes, diagrams and maps** (`dat.describing-diagrams`, B1+–B2+)
-- **Figure and table captions** (`dat.captions-labelling`, B1+–C1)
-- **Referring to visuals in text** (`dat.referring-to-visuals`, B1+–C1)
-- **Expressing quantities accurately** (`num.number-expressions`, B1–B2)
-- **Reading graphs and charts** (`dat.reading-graphs`, B1–B2+)
-- **Reading tables** (`dat.reading-tables`, B1–B2+)
-- **Describing trends and change** (`dat.describing-trends`, B1–B2+)
-- **Describing proportions and comparisons** (`dat.describing-proportions`, B1+–B2+)
-- **Approximation and precision** (`num.approximation`, B1+–C1)
-- **Basic statistical vocabulary** (`num.statistical-vocabulary`, B1+–C1)
-- **Units and measurement** (`num.units-measurement`, B1–B2+)
-- **Language of mathematical expression** (`num.mathematical-expression`, B1+–C1)
-- **Multimodal literacy** (`mmd.multimodal-literacy`, B1+–C1)
-- **Video essays and digital assessments** (`mmd.digital-assessments`, B1+–C1)
+#### Data, Numeracy & Multimodality
 
-### Learning & Autonomy
+- **Reading graphs and charts** (`dat.reading-graphs`, core band B1) — *assumed:* `dat.visual-types`
+- **Describing trends and change** (`dat.describing-trends`, core band B1+)
+- **Expressing and presenting quantities accurately** (`num.number-expressions`, core band B1)
+- **Describing proportions and comparisons** (`dat.describing-proportions`, core band B1+) — *assumed:* `grm.comparison-structures`
 
-- **Motivation and the L2 self** (`lrn.motivation`, B1–C1)
-- **Metacognitive knowledge** (`lrn.metacognitive-knowledge`, B1–C1)
-- **Self-regulated learning** (`lrn.self-regulation`, B1–C1)
-- **Setting language and academic goals** (`lrn.goal-setting`, B1–B2+)
-- **Time and workload management** (`lrn.time-management`, B1–B2)
-- **Evidence-based study techniques** (`lrn.study-techniques`, B1–B2)
-- **Learner autonomy** (`lrn.autonomy`, B1–C1)
-- **Independent study** (`lrn.independent-study`, B1–B2+)
-- **Language learning strategies** (`lrn.language-learning-strategies`, B1–C1)
-- **Reflective learning logs** (`lrn.reflective-logs`, B1–B2+)
-- **Using academic support services** (`lrn.support-services`, B1–B2)
-- **Sustainable study habits and wellbeing** (`lrn.wellbeing`, B1–B2)
-- **Learning subject content through English** (`lrn.content-through-english`, B1–B2+)
-- **University assessment literacy** (`fbk.assessment-literacy`, B1–B2+)
-- **Grading systems** (`fbk.grading-systems`, B1–B2)
-- **Interpreting marking criteria** (`fbk.marking-criteria`, B1+–C1)
-- **Feedback literacy** (`fbk.feedback-literacy`, B1+–C1)
-- **Acting on feedback** (`fbk.acting-on-feedback`, B1+–C1)
-- **Using written corrective feedback** (`fbk.corrective-feedback`, B1–B2+)
-- **Seeking feedback** (`fbk.seeking-feedback`, B1+–C1)
-- **Self- and peer-assessment** (`fbk.self-peer-assessment`, B1+–C1)
-- **University exam formats** (`exm.exam-formats`, B1–B2)
-- **Analysing exam questions** (`exm.question-analysis`, B1+–B2+)
-- **Planning revision** (`exm.revision-planning`, B1–B2)
-- **Timed writing** (`exm.timed-writing`, B1+–C1)
-- **Objective question strategies** (`exm.objective-questions`, B1–B2)
-- **Open-book and take-home exams** (`exm.open-book`, B2–C1)
-- **Oral examinations** (`exm.oral-exams`, B1+–C1) — *assumed:* `prs.handling-questions`
-- **Managing test anxiety** (`exm.test-anxiety`, B1–B2+)
-- **Proficiency, achievement and progression assessment** (`tst.assessment-purposes`, B1–B2+)
-- **CEFR levels and entry requirements** (`tst.cefr-entry`, B1–B2)
-- **Academic proficiency test formats** (`tst.test-formats`, B1–B2)
-- **Test tasks versus university tasks** (`tst.test-vs-university`, B1+–B2+)
-- **Integrated test tasks** (`tst.integrated-test-tasks`, B1+–B2+)
-- **Pre-sessional progression assessment** (`tst.presessional-progression`, B1+–B2+)
+#### Learning & Autonomy
 
-### Academic Socialisation & Communication
+- **Self-regulated learning and learner autonomy** (`lrn.self-regulation`, core band B1+) — *assumed:* `lrn.metacognitive-knowledge`
+- **Independent study** (`lrn.independent-study`, core band B1+) — *assumed:* `lrn.time-management`
+- **Evidence-based study techniques** (`lrn.study-techniques`, core band B1+) — *assumed:* `lrn.metacognitive-knowledge`
+- **Learning subject content through English** (`lrn.content-through-english`, core band B1+)
 
-- **How universities are organised** (`acu.university-structures`, B1–B2)
-- **Teaching and learning formats** (`acu.teaching-formats`, B1–B2)
-- **Expectations of university learners** (`acu.academic-expectations`, B1–B2+)
-- **Tacit expectations** (`acu.hidden-curriculum`, B1+–C1)
-- **Transition and adjustment** (`acu.transition`, B1–B2+)
-- **Academic roles and forms of address** (`acu.roles-address`, B1–B2)
-- **EMI and transnational education contexts** (`acu.emi-tne`, B1+–C1)
-- **Politeness and face in academic interaction** (`prg.politeness`, B1+–C1)
-- **Making requests** (`prg.requests`, B1+–C1)
-- **Emails to academic staff** (`prg.emails-to-staff`, B1–B2+)
-- **Office hours and tutorials** (`prg.office-hours`, B1+–C1)
-- **Apologising and explaining** (`prg.apologising-explaining`, B1–B2+)
-- **Formal statements and appeals** (`prg.formal-statements`, B2–C1)
-- **Online discussion forum posts** (`prg.forum-posts`, B1+–C1)
-- **Messaging channels and norms** (`prg.messaging-channels`, B1–B2+)
+#### Assessment & Progression
 
-### Digital Literacy & AI
+- **University assessment literacy** (`fbk.assessment-literacy`, core band B1+)
+- **University exam formats** (`exm.exam-formats`, core band B1+)
+- **Timed writing** (`exm.timed-writing`, core band B2)
 
-- **Virtual learning environments** (`dig.vle`, B1–B2)
-- **Academic word processing** (`dig.word-processing`, B1–B2+)
-- **Machine translation** (`dig.machine-translation`, B1–C1)
-- **File and version management** (`dig.file-management`, B1–C1)
-- **Digital collaboration tools** (`dig.digital-collaboration`, B1+–C1)
-- **Digital etiquette and online presence** (`dig.digital-etiquette`, B1+–C1)
-- **Automated writing evaluation tools** (`dig.automated-feedback-tools`, B1+–C1)
-- **How generative AI works and fails** (`gai.how-genai-works`, B1+–C1)
-- **Interpreting AI policies** (`gai.policies`, B1+–B2+)
-- **Acknowledging and citing AI use** (`gai.acknowledging-use`, B1+–C1)
-- **Verifying AI output** (`gai.verifying-output`, B1+–C1)
-- **Limits of AI detection** (`gai.detection-limits`, B1+–C1)
-- **Prompting for learning** (`gai.prompting-for-learning`, B1+–C1)
-- **Using AI as a language-learning resource** (`gai.language-support`, B1+–C1)
+#### Academic Socialisation, Identity & Communication
 
-### Disciplinary Literacies
+- **How universities are organised** (`acu.university-structures`, core band B1)
+- **Teaching and learning formats** (`acu.teaching-formats`, core band B1)
+- **Expectations of university learners** (`acu.academic-expectations`, core band B1+)
+- **Transition and adjustment** (`acu.transition`, core band B1)
+- **Academic roles and forms of address** (`acu.roles-address`, core band B1)
+- **Making requests** (`prg.requests`, core band B1+) — *assumed:* `prg.politeness`
+- **Emails to academic staff** (`prg.emails-to-staff`, core band B1)
+- **Drawing on a plurilingual repertoire** (`idn.plurilingual-repertoire`, core band B1)
 
-- **The language of science** (`dse.scientific-language`, B1+–C1) — *assumed:* `grm.nominalisation`
-- **Scientific explanations** (`dse.scientific-explanation`, B1+–C1)
-- **Protocols and specifications** (`dse.protocols-specifications`, B2–C1)
-- **Language of experimentation** (`dse.hypothesis-language`, B1+–C1) — *assumed:* `voc.subtechnical-polysemy`
-- **Mathematical writing and proofs** (`dse.mathematical-writing`, B2–C1) — *assumed:* `crt.reasoning-types`
-- **Evidence-based practice** (`dhl.evidence-based-practice`, B2–C1)
-- **Language of economic reasoning** (`dbe.economic-reasoning`, B2–C1)
-- **Applying management frameworks critically** (`dbe.critical-frameworks`, B2–C1)
-- **Business case analysis** (`dbe.business-case-analysis`, B2–C1)
-- **Legal language and register** (`dlw.legal-language`, B2–C1) — *assumed:* `voc.subtechnical-polysemy`
-- **Reading and briefing cases** (`dlw.case-reading`, B2–C1)
-- **Close reading and textual analysis** (`dhu.close-reading`, B2–C1)
-- **Visual analysis** (`dad.visual-analysis`, B1+–C1)
-- **Studio critiques** (`dad.studio-critique`, B2–C1) — *assumed:* `prs.handling-questions`
-- **Artist and design statements** (`dad.artist-statement`, B2–C1)
-- **Design rationale and process documentation** (`dad.design-rationale`, B2–C1)
+#### Digital Literacy & AI
 
-## Pre-sessional
+- **How generative AI works and fails** (`gai.how-genai-works`, core band B1+)
+- **Interpreting AI policies** (`gai.policies`, core band B1+)
 
-477 topics.
+#### Disciplinary Literacies
 
-### Academic Language
+- **The language of science** (`dse.scientific-language`, core band B1+) — *assumed:* `voc.technical-terminology`
+- **Scientific explanations** (`dse.scientific-explanation`, core band B1+)
+- **Visual analysis** (`dad.visual-analysis`, core band B1+) — *assumed:* `mmd.multimodal-literacy`
 
-- **High-frequency vocabulary base** (`voc.high-frequency-base`, A2–B1+)
-- **Lexical coverage and vocabulary size** (`voc.lexical-coverage`, B1–B2)
-- **Vocabulary of university study** (`voc.university-terminology`, B1–B2)
-- **Collocation awareness** (`phr.collocation-awareness`, B1–B2)
-- **Text-oriented lexical bundles** (`phr.bundles-text-oriented`, B1+–B2+)
-- **Register and situational variation** (`reg.register-awareness`, B1–B2+)
-- **Features of formal academic style** (`reg.formality-features`, B1–B2+)
-- **Fixed expressions, idioms and binomials** (`phr.fixed-expressions`, B2–C1)
-- **Myths and change in academic style** (`reg.style-myths-variation`, B2–C1)
-- **Clause elements and sentence analysis** (`grm.clause-elements`, B1–B2)
-- **Word families and derivational morphology** (`voc.word-families-morphology`, B1–B2+)
-- **Academic affixes and Greco-Latin roots** (`voc.affixes-roots`, B1+–C1)
-- **Core academic vocabulary** (`voc.core-academic-vocabulary`, B1+–C1)
-- **Technical and discipline-specific terminology** (`voc.technical-terminology`, B1+–C1)
-- **Inferring word meaning from context** (`voc.inferring-from-context`, B1–B2+)
-- **Sub-technical vocabulary and polysemy** (`voc.subtechnical-polysemy`, B2–C1)
-- **Using learner and specialist dictionaries** (`voc.dictionary-use`, B1–B2)
-- **Lexical precision and near-synonyms** (`voc.precision-near-synonyms`, B2–C1)
-- **Evaluative vocabulary** (`voc.evaluative-lexis`, B2–C1)
-- **Deliberate vocabulary learning systems** (`voc.deliberate-learning-systems`, B1–B2+)
-- **Word grammar and complementation patterns** (`voc.word-grammar-patterns`, B1+–C1)
-- **Verbs for academic and research processes** (`voc.academic-verbs`, B1+–C1)
-- **Abstract and shell nouns** (`voc.abstract-shell-nouns`, B2–C1)
-- **Multi-word verbs and register** (`voc.multiword-verbs-register`, B1+–B2+)
-- **Moving vocabulary into productive use** (`voc.receptive-to-productive`, B1+–C1)
-- **Countability of academic nouns** (`voc.countability-academic-nouns`, B1–B2+)
-- **Spelling conventions and consistency** (`voc.spelling-conventions`, B1–B2)
-- **Assignment command words** (`voc.command-words`, B1–B2+)
-- **Academic abbreviations and Latin expressions** (`voc.abbreviations-latin`, B1–B2)
-- **Academic collocations** (`phr.academic-collocations`, B1+–C1)
-- **Verb–noun collocation accuracy** (`phr.verb-noun-collocation-accuracy`, B1+–C1)
-- **Consulting corpora for usage** (`phr.corpus-consultation`, B2–C1)
-- **Spoken versus written academic language** (`reg.spoken-vs-written`, B1+–C1)
-- **Spoken academic formulas** (`phr.spoken-academic-formulas`, B1+–C1)
-- **Noun-phrase premodification** (`grm.np-premodification`, B1+–C1)
-- **Determiners and quantifiers** (`grm.determiners-quantifiers`, B1–B2)
-- **Avoiding vague and overgeneralised language** (`reg.vague-overgeneralised`, B1–B2+)
-- **Tense and aspect in academic writing** (`grm.tense-aspect`, B1–B2+)
-- **Tense when reporting research** (`grm.tense-in-reporting`, B2–C1)
-- **Passive voice and agency** (`grm.passive-voice`, B1–C1)
-- **Impersonality and authorial presence** (`reg.impersonality-presence`, B2–C1)
-- **Epistemic modal verbs** (`grm.epistemic-modality`, B1+–C1)
-- **Defining and non-defining relative clauses** (`grm.relative-clauses`, B1–B2+)
-- **Existential 'there' constructions** (`grm.existential-there`, B1–B2)
-- **Prepositions and complex prepositions** (`grm.prepositions`, B1–C1)
-- **Noun-phrase postmodification** (`grm.np-postmodification`, B1+–C1)
-- **Research-oriented lexical bundles** (`phr.bundles-research-oriented`, B2–C1)
-- **Subject–verb agreement with complex subjects** (`grm.subject-verb-agreement`, B1–B2+)
-- **Nominalisation and grammatical metaphor** (`grm.nominalisation`, B2–C1)
-- **Information density and readability** (`reg.information-density`, B2–C2)
-- **Phrasal versus clausal complexity** (`grm.phrasal-complexity`, B2–C1)
-- **Articles in academic writing** (`grm.articles`, B1–C1)
-- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, B1–C1)
-- **Simple, compound and complex sentences** (`sen.sentence-types`, B1–B2)
-- **Subordination and adverbial clauses** (`grm.subordination`, B1–B2)
-- **Conditionals and hypothetical reasoning** (`grm.conditionals`, B1+–B2+)
-- **Non-finite clauses** (`grm.non-finite-clauses`, B2–C1)
-- **Coordination and parallel structure** (`grm.coordination-parallelism`, B1+–B2+)
-- **That-clauses and wh-clauses** (`grm.complement-clauses`, B1+–B2+)
-- **Anticipatory 'it' and extraposition** (`grm.anticipatory-it`, B1+–C1)
-- **Stance and engagement bundles** (`phr.bundles-stance`, B2–C1)
-- **Using phrasebanks critically** (`phr.phrasebank-use`, B1+–C1)
-- **Comparative structures** (`grm.comparison-structures`, B1–B2+)
-- **Cleft and pseudo-cleft sentences** (`grm.clefts-emphasis`, B2+–C1)
-- **Reporting structures** (`grm.reporting-structures`, B1+–C1)
-- **Pronoun and demonstrative reference** (`grm.reference-pronouns`, B1+–B2+)
-- **Inclusive and bias-free language** (`reg.inclusive-language`, B2–C1)
-- **Ellipsis and substitution** (`grm.ellipsis-substitution`, B2–C1)
-- **Sentence boundaries** (`sen.sentence-boundaries`, B1–B2)
-- **Commas in academic prose** (`sen.commas`, B1–B2+)
-- **Semicolons and colons** (`sen.semicolons-colons`, B1+–B2+)
-- **Placement and punctuation of linking adverbials** (`grm.linking-adverbial-placement`, B1+–B2+)
-- **Apostrophes, hyphens and dashes** (`sen.apostrophes-hyphens-dashes`, B1–B2+)
-- **Capitalisation conventions** (`sen.capitalisation`, B1–B2)
-- **Punctuating quotations and brackets** (`sen.quotation-punctuation`, B1+–B2+)
-- **Sentence length and variety** (`sen.sentence-length-variety`, B2–C1)
-- **Concision** (`sen.concision`, B2–C1)
-- **Writing numbers, units and symbols in text** (`sen.numbers-units-style`, B1+–B2+)
-- **Lists and bullet points** (`sen.lists-bullets`, B1+–B2)
+### Develop where relevant
 
-### Academic Discourse
+Lexical coverage and vocabulary size (`voc.lexical-coverage`); Academic affixes and Greco-Latin roots (`voc.affixes-roots`); Verbs for academic and research processes (`voc.academic-verbs`); Technical and discipline-specific terminology (`voc.technical-terminology`); Sub-technical vocabulary and polysemy (`voc.subtechnical-polysemy`); Multi-word verbs and register (`voc.multiword-verbs-register`); Using learner and specialist dictionaries (`voc.dictionary-use`); Deliberate vocabulary learning systems (`voc.deliberate-learning-systems`); Moving vocabulary into productive use (`voc.receptive-to-productive`); Word grammar and complementation patterns (`voc.word-grammar-patterns`); Countability of academic nouns (`voc.countability-academic-nouns`); Spelling conventions and consistency (`voc.spelling-conventions`); Academic abbreviations and Latin expressions (`voc.abbreviations-latin`); Collocation awareness (`phr.collocation-awareness`); Academic collocations (`phr.academic-collocations`); Text-oriented lexical bundles (`phr.bundles-text-oriented`); Spoken academic formulas (`phr.spoken-academic-formulas`); Spoken versus written academic language (`reg.spoken-vs-written`); Clause elements and sentence analysis (`grm.clause-elements`); Noun-phrase premodification (`grm.np-premodification`); Noun-phrase postmodification (`grm.np-postmodification`); Articles in academic writing (`grm.articles`); Determiners and quantifiers (`grm.determiners-quantifiers`); Epistemic modal verbs (`grm.epistemic-modality`); Conditionals and hypothetical reasoning (`grm.conditionals`); Coordination and parallel structure (`grm.coordination-parallelism`); That-clauses and wh-clauses (`grm.complement-clauses`); Anticipatory 'it' and extraposition (`grm.anticipatory-it`); Existential 'there' constructions (`grm.existential-there`); Comparative structures (`grm.comparison-structures`); Prepositions and complex prepositions (`grm.prepositions`); Placement and punctuation of linking adverbials (`grm.linking-adverbial-placement`); Reporting structures (`grm.reporting-structures`); Pronoun and demonstrative reference (`grm.reference-pronouns`); Monitoring recurrent grammatical errors (`grm.error-monitoring`); Grammar of spoken academic interaction (`grm.spoken-grammar`); Genitive and noun-modifier choices (`grm.genitive-noun-modifiers`); Unaccusative and ergative verbs (`grm.unaccusative-verbs`); Semicolons and colons (`sen.semicolons-colons`); Lists and bullet points (`sen.lists-bullets`); Cohesion versus coherence (`coh.cohesion-vs-coherence`); Lexical cohesion and reference chains (`coh.lexical-cohesion`); Text structure patterns (`coh.text-patterns`); Frame markers and advance organisers (`coh.frame-markers`); Making reasoning explicit for the reader (`coh.writer-responsibility`); Boosters (`sta.boosters`); Code glosses and exemplification (`sta.code-glosses`); Expressing stance in speech (`sta.spoken-stance`); Describing structures and systems (`fun.describing-structure`); Exemplifying and illustrating (`fun.exemplifying`); Problem, solution and evaluation (`fun.problem-solution`); Explaining and justifying (`fun.explaining`); Predicting and hypothesising (`fun.hypothesising`); Recommending (`fun.recommending`); Summarising and concluding (`fun.summarising-concluding`); Chronological narration (`fun.chronology-narration`); Evaluating strengths, weaknesses and significance (`fun.evaluating`); Reading as an interactive process (`rdp.interactive-reading`); Automatic word recognition (`rdp.word-recognition`); Reading fluency and rate (`rdp.reading-fluency-rate`); Reading with a purpose (`rdp.reading-purpose`); Parsing complex academic sentences (`rdp.parsing-complex-sentences`); Background knowledge and schemata (`rdp.background-knowledge`); Managing reading load (`rdp.managing-reading-load`); Reading on screen (`rdp.digital-reading`); Strategic use of first language and translation in reading (`rdp.plurilingual-reading`); Scanning for specific information (`rds.scanning`); Recognising text organisation (`rds.text-organisation`); Making inferences (`rds.inference`); Monitoring comprehension (`rds.comprehension-monitoring`); Purposeful annotation (`rds.annotation`); Integrating text and visuals (`rds.visuals-in-text`); What critical reading involves (`rdc.critical-reading`); Identifying arguments in texts (`rdc.argument-identification`); Formulating a critical response (`rdc.critical-response`); Listening processes: decoding and meaning-building (`lis.listening-processes`); Segmenting the speech stream (`lis.word-segmentation`); Coping with natural speech rate (`lis.speech-rate`); Understanding varied accents (`lis.accent-variation`); Lecture structure and phases (`lis.lecture-structure`); Emphasis and relevance markers (`lis.relevance-markers`); Preparing for lectures (`lis.pre-listening-preparation`); Integrating slides, visuals and speech (`lis.multimodal-lectures`); Using lecture capture strategically (`lis.recorded-lectures`); Metacognitive listening strategies (`lis.metacognitive-listening`); Understanding spoken instructions and briefings (`lis.spoken-instructions`); Functions of notes (`ntk.functions-of-notes`); Abbreviations and symbols (`ntk.abbreviations-symbols`); Note formats (`ntk.note-formats`); Making notes from reading (`ntk.notes-from-reading`); Reviewing and reworking notes (`ntk.reviewing-notes`); Digital and handwritten note-taking (`ntk.digital-notes`); Turn-taking and taking the floor (`sem.turn-taking`); Agreeing and disagreeing (`sem.agreeing-disagreeing`); Checking and confirming understanding (`sem.checking-understanding`); Managing speaking anxiety and willingness to communicate (`sem.speaking-anxiety`); Synchronous online discussion (`sem.online-discussion`); Explaining concepts and readings to peers (`sem.explaining-concepts`); Purpose and audience analysis (`prs.purpose-audience`); Opening a presentation (`prs.openings`); Designing slides (`prs.slide-design`); Talking about visuals and data (`prs.explaining-visuals`); Non-verbal communication (`prs.nonverbal`); Handling questions (`prs.handling-questions`); Recorded and online presentations (`prs.recorded-online`); Rehearsal and timing (`prs.rehearsal-timing`); Intelligibility, comprehensibility and accent (`prn.intelligibility`); Sentence stress and prominence (`prn.prominence`); Prioritised segmental features (`prn.segmental-priorities`); Connected speech in production (`prn.connected-speech-production`); Pronouncing technical terms and names (`prn.technical-terms`); Developing speech fluency (`prn.fluency`); Self-repair and reformulation (`prn.repair`); Saying numbers, formulae and symbols aloud (`prn.numbers-aloud`); Purposes of group work (`grw.purposes`); Roles and planning (`grw.roles-planning`); Inclusive collaboration in multilingual groups (`grw.inclusive-collaboration`); Assessing contributions (`grw.contribution-assessment`); Generating ideas (`wpr.generating-ideas`); Drafting (`wpr.drafting`); Reading to write: from task to source-based text (`wpr.reading-to-write`); Audience and purpose (`wpr.audience-purpose`); Using the first language in composing (`wpr.l1-in-composing`); Working within word limits (`wpr.word-limits`); Formatting and presentation (`wpr.formatting`); Internal paragraph coherence (`par.internal-coherence`); Paragraph length and division (`par.length-division`); Paragraph functions (`par.paragraph-functions`); Integrating sources in paragraphs (`par.integrating-evidence`); Writing introductions (`ess.introductions`); Writing conclusions (`ess.conclusions`); Organising the essay body (`ess.body-organisation`); Headings and sections (`ess.headings`); Global revision (`edt.global-revision`); Editing for grammatical accuracy (`edt.grammar-editing`); Proofreading (`edt.proofreading`); Self-assessing drafts against criteria (`edt.criteria-self-assessment`); Peer review of drafts (`edt.peer-review`); Acceptable third-party proofreading (`edt.proofreading-ethics`); How scholarly knowledge is produced (`inf.scholarly-communication`); Focusing a topic for searching (`inf.research-question`); Search strategies (`inf.search-strategies`); Library catalogues, databases and discovery tools (`inf.databases`); Lateral reading (`inf.lateral-reading`); Recording searches and sources (`inf.search-records`); Integrating quotations (`src.integrating-quotations`); Patchwriting (`src.patchwriting`); Summarising a whole text (`src.summarising-text`); Distinguishing own voice from source voice (`src.voice-boundaries`); Secondary citation (`src.secondary-citation`); What synthesis is (`syn.synthesis-concept`); Synthesis matrices (`syn.synthesis-matrix`); Integrated source-based tasks in coursework and tests (`syn.integrated-tasks`); When to cite (`cit.when-to-cite`); Referencing systems and style guides (`cit.referencing-systems`); Numeric citation systems (`cit.numeric`); Page numbers and locators (`cit.locators`); Citation accuracy and consistency (`cit.accuracy-consistency`); Rhetorical functions of sources and citation (`cit.citation-functions`); Whose knowledge is cited (`cit.citation-politics`); Collusion and legitimate collaboration (`int.collusion`); Contract cheating (`int.contract-cheating`); Interpreting similarity reports (`int.similarity-reports`); Integrity policies and processes (`int.policy-processes`); Managing integrity risk under pressure (`int.pressure-risks`); Critical thinking in academic contexts (`crt.concept`); Considering multiple perspectives (`crt.multiple-perspectives`); Beliefs about knowledge (`crt.epistemic-beliefs`); Applying theory to cases (`crt.applying-theory`); Analytical problem-solving (`crt.problem-solving`); Types of claims (`arg.claim-types`); Anticipating counter-arguments (`arg.counterarguments`); Taking and sustaining a position (`arg.position`); Rhetorical appeals (`arg.rhetorical-appeals`); Argument mapping (`arg.argument-mapping`); What a genre is (`ges.genre-concept`); Analysing genres independently (`ges.genre-analysis`); Genre families and essay types in university assessment (`ges.genre-families`); Argumentative essay (`ges.argumentative-essay`); Examination essay (`ges.exam-essay`); Short-answer responses (`ges.short-answer`); Reflective writing (`ges.reflective-writing`); Annotated bibliography (`ges.annotated-bibliography`); Laboratory report (`grp.lab-report`); Case study analysis (`grp.case-study`); Business report (`grp.business-report`); Types of visuals and their functions (`dat.visual-types`); Reading tables (`dat.reading-tables`); Describing processes, diagrams and maps (`dat.describing-diagrams`); Figure and table captions (`dat.captions-labelling`); Referring to visuals in text (`dat.referring-to-visuals`); Approximation and precision (`num.approximation`); Basic statistical vocabulary (`num.statistical-vocabulary`); Units and measurement (`num.units-measurement`); Language of mathematical expression (`num.mathematical-expression`); Multimodal literacy (`mmd.multimodal-literacy`); Video essays and digital assessments (`mmd.digital-assessments`); Setting language and academic goals (`lrn.goal-setting`); Time and workload management (`lrn.time-management`); Language learning strategies (`lrn.language-learning-strategies`); Reflective learning logs (`lrn.reflective-logs`); Using academic support services (`lrn.support-services`); Sustainable study habits and wellbeing (`lrn.wellbeing`); Motivation and the L2 self (`lrn.motivation`); Metacognitive knowledge (`lrn.metacognitive-knowledge`); Interpreting marking criteria (`fbk.marking-criteria`); Grading systems and mark scales (`fbk.grading-systems`); Feedback literacy (`fbk.feedback-literacy`); Acting on feedback (`fbk.acting-on-feedback`); Using written corrective feedback (`fbk.corrective-feedback`); Seeking feedback (`fbk.seeking-feedback`); Self- and peer-assessment (`fbk.self-peer-assessment`); Planning revision (`exm.revision-planning`); Objective question strategies (`exm.objective-questions`); Open-book, take-home and online time-windowed exams (`exm.open-book`); Oral examinations (`exm.oral-exams`); Managing test anxiety (`exm.test-anxiety`); Proficiency, achievement and progression assessment (`tst.assessment-purposes`); CEFR levels and entry requirements (`tst.cefr-entry`); Academic proficiency test formats (`tst.test-formats`); Test tasks versus university tasks (`tst.test-vs-university`); Pre-sessional progression assessment (`tst.presessional-progression`); Score reports, validity and test choice (`tst.score-reports`); Tacit expectations (`acu.hidden-curriculum`); Making informed choices about academic conventions (`acu.critical-eap`); EMI and transnational education contexts (`acu.emi-tne`); Politeness and face in academic interaction (`prg.politeness`); Office hours and tutorials (`prg.office-hours`); Formal statements and appeals (`prg.formal-statements`); Apologising and explaining (`prg.apologising-explaining`); Online discussion forum posts (`prg.forum-posts`); Messaging channels and norms (`prg.messaging-channels`); Informal academic interaction and networking (`prg.informal-academic-interaction`); English as a lingua franca in academia (`idn.elf`); Intercultural communication (`idn.intercultural-communication`); Linguistic diversity as resource (`idn.diversity-as-resource`); Standards, native-speakerism and legitimacy (`idn.standards-legitimacy`); Translingual writing and code-meshing (`idn.translingual-writing`); Virtual learning environments (`dig.vle`); Academic word processing (`dig.word-processing`); Translation tools in reading and drafting (`dig.machine-translation`); Digital collaboration tools (`dig.digital-collaboration`); File and version management (`dig.file-management`); Digital etiquette and online presence (`dig.digital-etiquette`); Editing and automated feedback tools (`dig.automated-feedback-tools`); Assistive technology and study adjustments (`dig.assistive-technology`); Acknowledging and citing AI use (`gai.acknowledging-use`); Verifying AI output (`gai.verifying-output`); Using AI as a tutor and language-learning resource (`gai.language-support`); Limits of AI detection (`gai.detection-limits`); Language of experimentation (`dse.hypothesis-language`); Legal language and register (`dlw.legal-language`); Close reading and textual analysis (`dhu.close-reading`); Studio critiques (`dad.studio-critique`); Artist and design statements (`dad.artist-statement`); Design rationale and process documentation (`dad.design-rationale`).
 
-- **Cohesion versus coherence** (`coh.cohesion-vs-coherence`, B1–B2+)
-- **Lexical cohesion and reference chains** (`coh.lexical-cohesion`, B1+–C1)
-- **Linking adverbials and connectors** (`coh.linking-adverbials`, B1–C1)
-- **Precise logical relations** (`coh.connector-precision`, B2–C1)
-- **Given–new information structure** (`coh.given-new`, B2–C1)
-- **Thematic progression** (`coh.thematic-progression`, B2–C1)
-- **Encapsulation with signalling nouns** (`coh.signalling-nouns`, B2–C1)
-- **Text structure patterns** (`coh.text-patterns`, B1+–C1)
-- **Transitions between paragraphs and sections** (`coh.paragraph-transitions`, B2–C1)
-- **Terminological consistency** (`coh.terminological-consistency`, B2–C1)
-- **Reader and writer responsibility** (`coh.writer-responsibility`, B1+–B2+)
-- **Frame markers and advance organisers** (`coh.frame-markers`, B1+–C1)
-- **Signposting in spoken academic discourse** (`coh.spoken-signposting`, B1+–C1)
-- **Hedging devices** (`sta.hedging`, B1+–C2)
-- **Metadiscourse** (`sta.metadiscourse`, B2–C1)
-- **Boosters** (`sta.boosters`, B1+–C1)
-- **Calibrating claims to evidence** (`sta.claim-calibration`, B2–C2)
-- **Attitude markers** (`sta.attitude-markers`, B2–C1)
-- **Self-mention and authorial roles** (`sta.self-mention`, B2–C2)
-- **Averral versus attribution** (`sta.averral-attribution`, B2–C1)
-- **Authorial voice** (`sta.authorial-voice`, B2+–C2)
-- **Language of concession and counter-argument** (`sta.concession-language`, B2–C1)
-- **Generalising and qualifying** (`sta.generalisation-qualification`, B1+–C1)
-- **Expressing stance in speech** (`sta.spoken-stance`, B1+–C1)
-- **Defining terms** (`fun.defining`, B1–C1)
-- **Classifying and categorising** (`fun.classifying`, B1–B2+)
-- **Describing processes and procedures** (`fun.describing-process`, B1–B2+)
-- **Describing structures and systems** (`fun.describing-structure`, B1–B2+)
-- **Comparing and contrasting** (`fun.comparing-contrasting`, B1–C1)
-- **Expressing cause and effect** (`fun.cause-effect`, B1+–C1)
-- **Exemplifying and illustrating** (`fun.exemplifying`, B1+–B2+)
-- **Code glosses and exemplification** (`sta.code-glosses`, B1+–C1)
-- **Explaining and justifying** (`fun.explaining`, B1+–C1)
-- **Predicting and hypothesising** (`fun.hypothesising`, B1+–C1)
-- **Summarising and concluding** (`fun.summarising-concluding`, B1+–C1)
-- **Chronological narration** (`fun.chronology-narration`, B1–B2+)
-- **Evaluating strengths, weaknesses and significance** (`fun.evaluating`, B1+–C1)
-- **Language for evaluating others' work** (`sta.evaluating-others-language`, B2+–C2)
-- **Problem, solution and evaluation** (`fun.problem-solution`, B1+–C1)
-- **Recommending** (`fun.recommending`, B1+–C1)
+### Revisit
 
-### Academic Reading
+.
 
-- **Reading as an interactive process** (`rdp.interactive-reading`, B1–B2+)
-- **Automatic word recognition** (`rdp.word-recognition`, B1–B2+)
-- **Extensive reading** (`rdp.extensive-reading`, B1–C1)
-- **Reading fluency and rate** (`rdp.reading-fluency-rate`, B1–C1)
-- **Reading with a purpose** (`rdp.reading-purpose`, B1–B2+)
-- **Parsing complex academic sentences** (`rdp.parsing-complex-sentences`, B1+–C1)
-- **Background knowledge and schemata** (`rdp.background-knowledge`, B1–C1)
-- **Managing reading load** (`rdp.managing-reading-load`, B1+–C1)
-- **Previewing and surveying** (`rds.previewing`, B1–B2)
-- **Scanning for specific information** (`rds.scanning`, B1–B2)
-- **Using paragraph structure when reading** (`rds.paragraph-structure-reading`, B1–B2)
-- **Skimming for gist** (`rds.skimming`, B1–B2)
-- **Identifying main ideas and supporting detail** (`rds.main-ideas`, B1–B2+)
-- **Recognising text organisation** (`rds.text-organisation`, B1+–C1)
-- **Navigating research articles** (`rds.research-article-navigation`, B2–C1)
-- **Tracking reference while reading** (`rds.reference-tracking`, B1–B2+)
-- **Making inferences** (`rds.inference`, B1+–C1)
-- **Distinguishing fact, opinion, claim and evidence** (`rds.fact-opinion-claim`, B1–B2+)
-- **Identifying writer stance and attributed views** (`rds.writer-stance`, B2–C1)
-- **Monitoring comprehension** (`rds.comprehension-monitoring`, B1–C1)
-- **Strategic use of first language and translation in reading** (`rdp.plurilingual-reading`, B1–C1)
-- **Purposeful annotation** (`rds.annotation`, B1–B2+)
-- **Reading on screen** (`rdp.digital-reading`, B1–C1)
-- **Reading textbooks** (`rds.textbook-reading`, B1–B2)
-- **Integrating text and visuals** (`rds.visuals-in-text`, B1+–C1)
-- **What critical reading involves** (`rdc.critical-reading`, B1+–C1)
-- **Identifying arguments in texts** (`rdc.argument-identification`, B1+–C1)
-- **Evaluating evidence in texts** (`rdc.evidence-evaluation`, B2–C1)
-- **Identifying assumptions and values** (`rdc.assumptions`, B2–C1)
-- **Recognising bias and perspective** (`rdc.bias-perspective`, B2–C1)
-- **Reading across multiple texts** (`rdc.multiple-texts`, B2–C1)
-- **Reading for a writing task** (`rdc.reading-for-writing`, B1+–C1)
-- **Generating critical questions** (`rdc.critical-questions`, B1+–C1)
-- **Formulating a critical response** (`rdc.critical-response`, B1+–C1)
+## Pre-sessional (undergraduate entry)
 
-### Academic Listening
+106 core · 350 develop · 4 revisit.
 
-- **Listening processes: decoding and meaning-building** (`lis.listening-processes`, B1–B2)
-- **Recognising connected speech** (`lis.connected-speech`, B1–B2+)
-- **Segmenting the speech stream** (`lis.word-segmentation`, B1–B2+)
-- **Understanding varied accents** (`lis.accent-variation`, B1+–C1)
-- **Lecture structure and phases** (`lis.lecture-structure`, B1–B2)
-- **Lecture discourse markers** (`lis.lecture-discourse-markers`, B1–B2+)
-- **Emphasis and relevance markers** (`lis.relevance-markers`, B1+–C1)
-- **Preparing for lectures** (`lis.pre-listening-preparation`, B1–B2+)
-- **Metacognitive listening strategies** (`lis.metacognitive-listening`, B1–B2+)
-- **Coping with natural speech rate** (`lis.speech-rate`, B1+–C1)
-- **Identifying main points and supporting detail** (`lis.main-points`, B1–C1)
-- **Handling digressions and asides** (`lis.digressions`, B2–C1)
-- **Inferring speaker stance** (`lis.speaker-stance`, B2–C1)
-- **Following multi-party discussion** (`lis.multi-party-discussion`, B2–C1)
-- **Integrating slides, visuals and speech** (`lis.multimodal-lectures`, B1+–B2+)
-- **Understanding spoken instructions and briefings** (`lis.spoken-instructions`, B1–B2)
-- **Listening to academic media** (`lis.academic-media`, B2–C1)
-- **Functions of notes** (`ntk.functions-of-notes`, B1–B2)
-- **Selecting what to note** (`ntk.selecting-content`, B1–B2+)
-- **Abbreviations and symbols** (`ntk.abbreviations-symbols`, B1–B2)
-- **Note formats** (`ntk.note-formats`, B1–B2+)
-- **Taking notes in lectures** (`ntk.lecture-notes`, B1+–C1)
-- **Using lecture capture strategically** (`lis.recorded-lectures`, B1+–B2+)
-- **Making notes from reading** (`ntk.notes-from-reading`, B1+–C1)
-- **Reviewing and reworking notes** (`ntk.reviewing-notes`, B1+–B2+)
-- **Digital and handwritten note-taking** (`ntk.digital-notes`, B1+–B2+)
-- **Collaborative notes** (`ntk.collaborative-notes`, B2–C1)
+### Core
 
-### Academic Speaking
+#### Academic Language
 
-- **Purposes and expectations of seminars** (`sem.seminar-purposes`, B1–B2)
-- **Preparing for seminars** (`sem.preparation`, B1–B2+)
-- **Turn-taking and taking the floor** (`sem.turn-taking`, B1+–C1)
-- **Expressing and justifying views** (`sem.opinions`, B1–B2+)
-- **Agreeing and disagreeing** (`sem.agreeing-disagreeing`, B1+–C1)
-- **Asking questions and seeking clarification** (`sem.questions-clarification`, B1–C1)
-- **Referring to readings and evidence in discussion** (`sem.citing-in-speech`, B2–C1)
-- **Managing speaking anxiety and willingness to communicate** (`sem.speaking-anxiety`, B1–C1)
-- **Structured academic debate** (`sem.debate`, B2–C1)
-- **Purpose and audience analysis** (`prs.purpose-audience`, B1–C1)
-- **Structuring a presentation** (`prs.structure`, B1–B2+)
-- **Opening a presentation** (`prs.openings`, B1+–C1)
-- **Signposting in presentations** (`prs.signposting`, B1–B2+)
-- **Designing slides** (`prs.slide-design`, B1+–C1)
-- **Non-verbal communication** (`prs.nonverbal`, B1–B2+)
-- **Intelligibility, comprehensibility and accent** (`prn.intelligibility`, B1–B2+)
-- **Word stress in academic vocabulary** (`prn.word-stress`, B1–C1)
-- **Thought groups and pausing** (`prn.thought-groups`, B1–B2+)
-- **Sentence stress and prominence** (`prn.prominence`, B1+–C1)
-- **Intonation for discourse functions** (`prn.intonation`, B2–C1)
-- **Vocal delivery** (`prs.delivery-voice`, B1–C1)
-- **Prioritised segmental features** (`prn.segmental-priorities`, B1–C1)
-- **Connected speech in production** (`prn.connected-speech-production`, B1+–C1)
-- **Pronouncing technical terms and names** (`prn.technical-terms`, B1+–C1)
-- **Self-repair and reformulation** (`prn.repair`, B1–B2+)
-- **Checking and confirming understanding** (`sem.checking-understanding`, B1+–B2+)
-- **Building on others' contributions** (`sem.building-on-others`, B2–C1)
-- **Summarising discussion** (`sem.summarising-discussion`, B2–C1)
-- **Synchronous online discussion** (`sem.online-discussion`, B1+–C1)
-- **Handling questions** (`prs.handling-questions`, B2–C1)
-- **Developing speech fluency** (`prn.fluency`, B1–C1)
-- **Speaking from notes** (`prs.speaking-from-notes`, B1–B2+)
-- **Recorded and online presentations** (`prs.recorded-online`, B1+–C1)
-- **Rehearsal and timing** (`prs.rehearsal-timing`, B1–B2+)
-- **Saying numbers, formulae and symbols aloud** (`prn.numbers-aloud`, B1–B2+)
-- **Talking about visuals and data** (`prs.explaining-visuals`, B1+–C1)
-- **Poster presentations** (`prs.posters`, B2–C1)
-- **Purposes of group work** (`grw.purposes`, B1–B2)
-- **Roles and planning** (`grw.roles-planning`, B1+–B2+)
-- **Group presentations** (`prs.group-presentations`, B1+–B2+)
-- **Managing disagreement and conflict** (`grw.conflict`, B2–C1)
-- **Inclusive collaboration in multilingual groups** (`grw.inclusive-collaboration`, B1+–C1)
-- **Facilitating discussion** (`sem.facilitating`, B2+–C1)
-- **Running group meetings** (`grw.meetings`, B2–C1)
-- **Collaborative writing** (`grw.collaborative-writing`, B2–C1)
-- **Assessing contributions** (`grw.contribution-assessment`, B1+–B2+)
+- **High-frequency vocabulary base** (`voc.high-frequency-base`, core band A2+)
+- **Word families and derivational morphology** (`voc.word-families-morphology`, core band B1+)
+- **Core academic vocabulary** (`voc.core-academic-vocabulary`, core band B2)
+- **Vocabulary of university study** (`voc.university-terminology`, core band B1)
+- **Assignment command words** (`voc.command-words`, core band B1+)
+- **Academic collocations** (`phr.academic-collocations`, core band B2) — *assumed:* `phr.collocation-awareness`
+- **Register and situational variation** (`reg.register-awareness`, core band B1)
+- **Features of formal academic style** (`reg.formality-features`, core band B1+)
+- **Avoiding vague and overgeneralised language** (`reg.vague-overgeneralised`, core band B1+)
+- **Noun-phrase postmodification** (`grm.np-postmodification`, core band B2)
+- **Articles in academic writing** (`grm.articles`, core band B1+) — *assumed:* `voc.countability-academic-nouns`
+- **Tense and aspect in academic writing** (`grm.tense-aspect`, core band B1)
+- **Passive voice and agency** (`grm.passive-voice`, core band B1+) — *assumed:* `grm.clause-elements`
+- **Reporting structures** (`grm.reporting-structures`, core band B2) — *assumed:* `grm.complement-clauses`
+- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, core band B1+)
+- **Sentence boundaries** (`sen.sentence-boundaries`, core band B1) — *assumed:* `sen.sentence-types`
+- **Punctuation and mechanics beyond the comma** (`sen.punctuation-mechanics`, core band B1+)
 
-### Academic Writing
+#### Academic Discourse
 
-- **Writing as a recursive process** (`wpr.writing-process`, B1–B2+)
-- **Integrating reading into writing** (`wpr.reading-to-write`, B1+–C1)
-- **Audience and purpose** (`wpr.audience-purpose`, B1–C1)
-- **Analysing assignment tasks** (`wpr.task-analysis`, B1–C1)
-- **Generating ideas** (`wpr.generating-ideas`, B1–B2)
-- **Planning and outlining** (`wpr.planning-outlining`, B1–C1)
-- **Using the first language in composing** (`wpr.l1-in-composing`, B1–B2+)
-- **Working within word limits** (`wpr.word-limits`, B1+–B2+)
-- **Managing extended writing projects** (`wpr.managing-long-projects`, B2–C1)
-- **Formatting and presentation** (`wpr.formatting`, B1–B2)
-- **The academic paragraph** (`par.paragraph-unit`, B1–B2)
-- **Drafting** (`wpr.drafting`, B1–B2+)
-- **Overcoming writing blocks** (`wpr.writing-blocks`, B1+–C1)
-- **Writing topic sentences** (`par.topic-sentences`, B1–B2+)
-- **Developing support** (`par.support`, B1–C1)
-- **Internal paragraph coherence** (`par.internal-coherence`, B1+–C1)
-- **Concluding and linking sentences** (`par.concluding-sentences`, B1–B2)
-- **Point–evidence–explanation–link structures** (`par.peel`, B1–B2)
-- **Paragraph length and division** (`par.length-division`, B1+–B2+)
-- **Integrating sources in paragraphs** (`par.integrating-evidence`, B1+–C1)
-- **Academic essay structure** (`ess.essay-structure`, B1–B2)
-- **Paragraph functions** (`par.paragraph-functions`, B1–B2)
-- **Thesis statements** (`ess.thesis-statement`, B1+–C1)
-- **Writing introductions** (`ess.introductions`, B1+–C1)
-- **Writing conclusions** (`ess.conclusions`, B1+–C1)
-- **Organising the essay body** (`ess.body-organisation`, B1+–C1)
-- **Answering the question** (`ess.answering-question`, B1–C1)
-- **Essay types** (`ess.essay-types`, B1+–B2+)
-- **Headings and sections** (`ess.headings`, B2–B2+)
-- **Depth versus breadth** (`ess.depth-focus`, B2–C1)
-- **Demonstrating criticality in essays** (`ess.criticality`, B2–C1)
-- **Writing titles** (`ess.titles`, B2–C1)
-- **Revision, editing and proofreading** (`edt.revision-editing-proofreading`, B1–B2)
-- **Global revision** (`edt.global-revision`, B1+–C1)
-- **Reverse outlining** (`edt.reverse-outlining`, B2–C1)
-- **Editing for style and clarity** (`edt.style-editing`, B2–C1)
-- **Editing for grammatical accuracy** (`edt.grammar-editing`, B1–C1)
-- **Proofreading** (`edt.proofreading`, B1–B2+)
-- **Self-assessing drafts against criteria** (`edt.criteria-self-assessment`, B1+–C1)
-- **Peer review of drafts** (`edt.peer-review`, B1+–C1)
-- **Using editing tools critically** (`edt.editing-tools`, B1–B2+)
-- **Acceptable third-party proofreading** (`edt.proofreading-ethics`, B1+–B2+)
+- **Cohesion versus coherence** (`coh.cohesion-vs-coherence`, core band B1+)
+- **Linking adverbials and connector precision** (`coh.linking-adverbials`, core band B1+) — *assumed:* `grm.subordination`
+- **Hedging and qualifying generalisations** (`sta.hedging`, core band B2) — *assumed:* `grm.epistemic-modality`
+- **Averral versus attribution** (`sta.averral-attribution`, core band B2)
+- **Language of concession and counter-argument** (`sta.concession-language`, core band B2)
+- **Comparing and contrasting** (`fun.comparing-contrasting`, core band B1+) — *assumed:* `grm.comparison-structures`
+- **Expressing cause and effect** (`fun.cause-effect`, core band B1+) — *assumed:* `grm.subordination`
+- **Explaining and justifying** (`fun.explaining`, core band B2)
 
-### Sources & Academic Integrity
+#### Academic Reading
 
-- **Types of sources** (`inf.source-types`, B1–B2)
-- **How scholarly knowledge is produced** (`inf.scholarly-communication`, B1+–C1)
-- **Focusing a topic for searching** (`inf.research-question`, B1+–B2+)
-- **Search strategies** (`inf.search-strategies`, B1+–B2+)
-- **Library catalogues, databases and discovery tools** (`inf.databases`, B1+–B2+)
-- **Evaluating sources** (`inf.source-evaluation`, B1+–C1)
-- **Lateral reading** (`inf.lateral-reading`, B1+–B2+)
-- **Recording searches and sources** (`inf.search-records`, B1+–B2+)
-- **Open access and legal access** (`inf.open-access`, B2–C1)
-- **Predatory publishing, retractions and misinformation** (`inf.problematic-publishing`, B2–C1)
-- **Functions of sources in academic writing** (`src.source-functions`, B1+–C1)
-- **Quoting** (`src.quoting`, B1–B2)
-- **Paraphrasing techniques** (`src.paraphrase-techniques`, B1+–B2+)
-- **Why academics cite** (`cit.why-cite`, B1–B2)
-- **When to cite** (`cit.when-to-cite`, B1+–C1)
-- **Paraphrasing** (`src.paraphrasing`, B1+–C1)
-- **Signal phrases and attribution** (`src.signal-phrases`, B1–B2)
-- **Integrating quotations** (`src.integrating-quotations`, B1+–B2+)
-- **Summarising a passage** (`src.summarising-passage`, B1–B2)
-- **Reporting verbs** (`src.reporting-verbs`, B1+–C1)
-- **Summarising a whole text** (`src.summarising-text`, B1+–C1)
-- **Distinguishing own voice from source voice** (`src.voice-boundaries`, B1+–C1)
-- **What synthesis is** (`syn.synthesis-concept`, B1+–B2+)
-- **Synthesis matrices** (`syn.synthesis-matrix`, B1+–B2+)
-- **Grouping sources thematically** (`syn.thematic-grouping`, B2–C1)
-- **Writing relationships between sources** (`syn.relating-sources`, B2–C1)
-- **Integrated source-based tasks** (`syn.integrated-tasks`, B1+–B2+)
-- **Referencing systems and style guides** (`cit.referencing-systems`, B1+–B2+)
-- **Citation chaining** (`inf.citation-chaining`, B2–C1)
-- **In-text citation: author–date** (`cit.author-date-in-text`, B1–B2)
-- **Integral and non-integral citation** (`src.citation-forms`, B2–C1)
-- **Writing synthesis paragraphs** (`syn.synthesis-paragraphs`, B2–C1)
-- **Numeric citation systems** (`cit.numeric`, B1+–B2+)
-- **Compiling a reference list** (`cit.reference-list`, B1–B2+)
-- **Secondary citation** (`src.secondary-citation`, B1+–B2)
-- **Using sources in other languages** (`src.multilingual-sources`, B2–C1)
-- **Note-based citation** (`cit.note-based`, B2–C1)
-- **Citing diverse source types** (`cit.diverse-sources`, B2–C1)
-- **Page numbers and locators** (`cit.locators`, B1+–B2)
-- **Citation accuracy and consistency** (`cit.accuracy-consistency`, B1+–C1)
-- **Values of academic integrity** (`int.integrity-values`, B1–B2+)
-- **Understanding plagiarism** (`int.plagiarism`, B1–C1)
-- **Patchwriting** (`src.patchwriting`, B1+–C1)
-- **Collusion and legitimate collaboration** (`int.collusion`, B1+–B2+)
-- **Contract cheating** (`int.contract-cheating`, B1+–B2+)
-- **Interpreting similarity reports** (`int.similarity-reports`, B1+–C1)
-- **Integrity policies and processes** (`int.policy-processes`, B1+–C1)
-- **Managing integrity risk under pressure** (`int.pressure-risks`, B1+–B2+)
+- **Reading with a purpose** (`rdp.reading-purpose`, core band B1)
+- **Parsing complex academic sentences** (`rdp.parsing-complex-sentences`, core band B2) — *assumed:* `grm.np-premodification`, `grm.relative-clauses`, `grm.subordination`
+- **Identifying main ideas and supporting detail** (`rds.main-ideas`, core band B1) — *assumed:* `rds.paragraph-structure-reading`
+- **Recognising text organisation** (`rds.text-organisation`, core band B2) — *assumed:* `coh.text-patterns`
+- **Distinguishing claims, evidence and their status** (`rds.fact-opinion-claim`, core band B1+)
+- **What critical reading involves** (`rdc.critical-reading`, core band B2)
+- **Identifying arguments in texts** (`rdc.argument-identification`, core band B2)
+- **Formulating a critical response** (`rdc.critical-response`, core band B2)
 
-### Argument & Critical Thinking
+#### Academic Listening & Note-making
 
-- **Critical thinking in academic contexts** (`crt.concept`, B1+–C1)
-- **Description, analysis and evaluation** (`crt.description-analysis-evaluation`, B1+–B2+)
-- **Critical questioning** (`crt.questioning`, B1+–C1)
-- **Types and strength of evidence** (`crt.evidence-types`, B1+–C1)
-- **Correlation and causation** (`crt.correlation-causation`, B2–C1)
-- **Cognitive biases** (`crt.cognitive-biases`, B2–C1)
-- **Considering multiple perspectives** (`crt.multiple-perspectives`, B1+–C1)
-- **Beliefs about knowledge** (`crt.epistemic-beliefs`, B1+–C1)
-- **Applying theory to cases** (`crt.applying-theory`, B1+–C1)
-- **Analytical problem-solving** (`crt.problem-solving`, B1+–C1)
-- **What counts as an academic argument** (`arg.argument-concept`, B1–B2+)
-- **Deductive, inductive and abductive reasoning** (`crt.reasoning-types`, B2–C1)
-- **Recognising fallacies** (`crt.fallacies`, B2–C1)
-- **Types of claims** (`arg.claim-types`, B1+–C1)
-- **Toulmin model of argument** (`arg.toulmin`, B2–C1)
-- **Supporting claims** (`arg.supporting-claims`, B1–C1)
-- **Making reasoning explicit** (`arg.warrants`, B2–C1)
-- **Anticipating counter-arguments** (`arg.counterarguments`, B1+–C1)
-- **Rebuttal and concession** (`arg.rebuttal-concession`, B2–C1)
-- **Taking and sustaining a position** (`arg.position`, B1+–C1)
-- **Rhetorical appeals** (`arg.rhetorical-appeals`, B1+–C1)
-- **Argument mapping** (`arg.argument-mapping`, B1+–C1)
-- **Structuring an extended argument** (`arg.extended-argument`, B2–C2)
-- **Arguing orally** (`arg.oral-argument`, B2–C1)
-- **Exploratory and adversarial argument** (`arg.exploratory-adversarial`, B2–C1)
-- **Evaluating arguments** (`arg.evaluating-arguments`, B2–C2)
-- **Academic and writer identity** (`idn.academic-identity`, B2–C2)
-- **Intercultural rhetoric** (`idn.intercultural-rhetoric`, B2–C1)
-- **Linguistic diversity as resource** (`idn.diversity-as-resource`, B1–C1)
-- **Drawing on a plurilingual repertoire** (`idn.plurilingual-repertoire`, B1–C1)
-- **English as a lingua franca in academia** (`idn.elf`, B1+–C1)
-- **Intercultural communication** (`idn.intercultural-communication`, B1+–C1)
-- **Standards, native-speakerism and legitimacy** (`idn.standards-legitimacy`, B2–C2)
+- **Lecture discourse markers** (`lis.lecture-discourse-markers`, core band B1+) — *assumed:* `lis.lecture-structure`
+- **Emphasis and relevance markers** (`lis.relevance-markers`, core band B2)
+- **Identifying main points and supporting detail** (`lis.main-points`, core band B1+)
+- **Selecting what to note** (`ntk.selecting-content`, core band B1+)
+- **Taking notes in lectures** (`ntk.lecture-notes`, core band B2) — *assumed:* `ntk.note-formats`
+- **Making notes from reading** (`ntk.notes-from-reading`, core band B2)
 
-### Academic Genres
+#### Academic Speaking
 
-- **Genre and discourse community** (`ges.genre-concept`, B1+–C1)
-- **Analysing genres independently** (`ges.genre-analysis`, B1+–C1)
-- **Genre families in university assessment** (`ges.genre-families`, B1+–B2+)
-- **Argumentative essay** (`ges.argumentative-essay`, B1+–C1)
-- **Discussion essay** (`ges.discussion-essay`, B1–B2+)
-- **Compare-and-contrast essay** (`ges.compare-contrast-essay`, B1–B2+)
-- **Explanation and cause–effect essay** (`ges.explanation-essay`, B1–B2+)
-- **Problem–solution essay** (`ges.problem-solution-essay`, B1–B2+)
-- **Examination essay** (`ges.exam-essay`, B1+–C1)
-- **Reflective writing** (`ges.reflective-writing`, B1+–C1)
-- **Annotated bibliography** (`ges.annotated-bibliography`, B1+–B2+)
-- **Literature review assignment** (`ges.literature-review-assignment`, B2–C1) — *assumed:* `syn.gaps-tensions`
-- **Summary–response paper** (`ges.summary-response`, B1+–B2+)
-- **Critical review of an article** (`ges.critique`, B2–C1)
-- **Report conventions** (`grp.report-conventions`, B1+–B2+)
-- **Empirical project report** (`grp.empirical-project-report`, B2–C1)
-- **Business report** (`grp.business-report`, B1+–C1)
-- **Project proposal (student)** (`grp.project-proposal`, B2–C1) — *assumed:* `syn.gaps-tensions`
-- **Abstracts for student work** (`grp.student-abstract`, B2–C1)
+- **Preparing for seminars** (`sem.preparation`, core band B1+) — *assumed:* `sem.seminar-purposes`
+- **Turn-taking and taking the floor** (`sem.turn-taking`, core band B1+)
+- **Expressing and justifying views** (`sem.opinions`, core band B1)
+- **Agreeing and disagreeing** (`sem.agreeing-disagreeing`, core band B2) — *assumed:* `sta.spoken-stance`
+- **Referring to readings and evidence in discussion** (`sem.citing-in-speech`, core band B2)
+- **Structuring a presentation** (`prs.structure`, core band B1) — *assumed:* `prs.purpose-audience`
+- **Signposting in presentations and spoken explanations** (`prs.signposting`, core band B1+)
+- **Handling questions** (`prs.handling-questions`, core band B2) — *assumed:* `sem.checking-understanding`
+- **Thought groups and pausing** (`prn.thought-groups`, core band B1)
+- **Sentence stress and prominence** (`prn.prominence`, core band B2) — *assumed:* `prn.word-stress`
+- **Vocal delivery** (`prs.delivery-voice`, core band B1+)
 
-### Research Communication
+#### Academic Writing
 
-- **IMRaD and its variants** (`res.imrad`, B2–C1)
-- **Research questions and hypotheses** (`res.research-questions`, B2+–C1)
-- **Establishing a research gap** (`res.gap-niche`, B2+–C1) — *assumed:* `syn.gaps-tensions`
-- **Research article introductions** (`res.introductions-cars`, B2+–C2)
-- **Research proposals** (`res.research-proposal`, B2+–C2) — *assumed:* `res.literature-review`
+- **Analysing and answering assignment and exam tasks** (`wpr.task-analysis`, core band B1+)
+- **Reading to write: from task to source-based text** (`wpr.reading-to-write`, core band B2)
+- **The academic paragraph** (`par.paragraph-unit`, core band B1)
+- **Developing support** (`par.support`, core band B1+) — *assumed:* `par.topic-sentences`
+- **Point–evidence–explanation–link structures** (`par.peel`, core band B1)
+- **Concluding and linking sentences** (`par.concluding-sentences`, core band B1) — *assumed:* `par.topic-sentences`
+- **Integrating sources in paragraphs** (`par.integrating-evidence`, core band B2)
+- **Academic essay structure** (`ess.essay-structure`, core band B1)
+- **Thesis statements** (`ess.thesis-statement`, core band B1+)
+- **Organising the essay body** (`ess.body-organisation`, core band B2) — *assumed:* `par.topic-sentences`
+- **Global revision** (`edt.global-revision`, core band B2) — *assumed:* `edt.revision-editing-proofreading`
 
-### Data, Numeracy & Multimodality
+#### Sources & Academic Integrity
 
-- **Types of visuals and their functions** (`dat.visual-types`, B1–B2)
-- **Describing processes, diagrams and maps** (`dat.describing-diagrams`, B1+–B2+)
-- **Figure and table captions** (`dat.captions-labelling`, B1+–C1)
-- **Referring to visuals in text** (`dat.referring-to-visuals`, B1+–C1)
-- **Expressing quantities accurately** (`num.number-expressions`, B1–B2)
-- **Reading graphs and charts** (`dat.reading-graphs`, B1–B2+)
-- **Reading tables** (`dat.reading-tables`, B1–B2+)
-- **Describing trends and change** (`dat.describing-trends`, B1–B2+)
-- **Describing proportions and comparisons** (`dat.describing-proportions`, B1+–B2+)
-- **Data commentary** (`dat.data-commentary`, B2–C1)
-- **Recognising misleading visuals** (`dat.misleading-visuals`, B2–C1)
-- **Creating effective visuals** (`dat.creating-visuals`, B2–C1)
-- **Approximation and precision** (`num.approximation`, B1+–C1)
-- **Basic statistical vocabulary** (`num.statistical-vocabulary`, B1+–C1)
-- **Relative and absolute change** (`num.relative-absolute`, B2–C1)
-- **Units and measurement** (`num.units-measurement`, B1–B2+)
-- **Multimodal literacy** (`mmd.multimodal-literacy`, B1+–C1)
-- **Designing academic posters** (`mmd.poster-design`, B2–C1)
-- **Video essays and digital assessments** (`mmd.digital-assessments`, B1+–C1)
-- **Accessible academic documents** (`mmd.accessibility`, B1+–C1)
+- **Types of sources** (`inf.source-types`, core band B1)
+- **Focusing a topic for searching** (`inf.research-question`, core band B2)
+- **Evaluating sources** (`inf.source-evaluation`, core band B1+) — *assumed:* `inf.scholarly-communication`
+- **Quoting** (`src.quoting`, core band B1)
+- **Paraphrasing** (`src.paraphrasing`, core band B2) — *assumed:* `src.paraphrase-techniques`
+- **Summarising a passage** (`src.summarising-passage`, core band B1+)
+- **Reporting verbs and signal phrases** (`src.reporting-verbs`, core band B1+)
+- **Integrating quotations** (`src.integrating-quotations`, core band B1+)
+- **Distinguishing own voice from source voice** (`src.voice-boundaries`, core band B2)
+- **What synthesis is** (`syn.synthesis-concept`, core band B1+)
+- **Integrated source-based tasks in coursework and tests** (`syn.integrated-tasks`, core band B2)
+- **When to cite** (`cit.when-to-cite`, core band B2) — *assumed:* `cit.why-cite`
+- **In-text citation: author–date** (`cit.author-date-in-text`, core band B1+) — *assumed:* `cit.referencing-systems`
+- **Compiling a reference list** (`cit.reference-list`, core band B1+) — *assumed:* `cit.referencing-systems`
+- **Understanding plagiarism** (`int.plagiarism`, core band B1+) — *assumed:* `cit.why-cite`
+- **Interpreting similarity reports** (`int.similarity-reports`, core band B2)
 
-### Learning & Autonomy
+#### Argument & Critical Thinking
 
-- **Motivation and the L2 self** (`lrn.motivation`, B1–C1)
-- **Metacognitive knowledge** (`lrn.metacognitive-knowledge`, B1–C1)
-- **Self-regulated learning** (`lrn.self-regulation`, B1–C1)
-- **Setting language and academic goals** (`lrn.goal-setting`, B1–B2+)
-- **Time and workload management** (`lrn.time-management`, B1–B2)
-- **Evidence-based study techniques** (`lrn.study-techniques`, B1–B2)
-- **Learner autonomy** (`lrn.autonomy`, B1–C1)
-- **Independent study** (`lrn.independent-study`, B1–B2+)
-- **Language learning strategies** (`lrn.language-learning-strategies`, B1–C1)
-- **Reflective learning logs** (`lrn.reflective-logs`, B1–B2+)
-- **Using academic support services** (`lrn.support-services`, B1–B2)
-- **Sustainable study habits and wellbeing** (`lrn.wellbeing`, B1–B2)
-- **Learning subject content through English** (`lrn.content-through-english`, B1–B2+)
-- **University assessment literacy** (`fbk.assessment-literacy`, B1–B2+)
-- **Grading systems** (`fbk.grading-systems`, B1–B2)
-- **Interpreting marking criteria** (`fbk.marking-criteria`, B1+–C1)
-- **Feedback literacy** (`fbk.feedback-literacy`, B1+–C1)
-- **Acting on feedback** (`fbk.acting-on-feedback`, B1+–C1)
-- **Using written corrective feedback** (`fbk.corrective-feedback`, B1–B2+)
-- **Seeking feedback** (`fbk.seeking-feedback`, B1+–C1)
-- **Self- and peer-assessment** (`fbk.self-peer-assessment`, B1+–C1)
-- **University exam formats** (`exm.exam-formats`, B1–B2)
-- **Analysing exam questions** (`exm.question-analysis`, B1+–B2+)
-- **Timed writing** (`exm.timed-writing`, B1+–C1)
-- **Oral examinations** (`exm.oral-exams`, B1+–C1)
-- **Managing test anxiety** (`exm.test-anxiety`, B1–B2+)
-- **Proficiency, achievement and progression assessment** (`tst.assessment-purposes`, B1–B2+)
-- **CEFR levels and entry requirements** (`tst.cefr-entry`, B1–B2)
-- **Academic proficiency test formats** (`tst.test-formats`, B1–B2)
-- **Test tasks versus university tasks** (`tst.test-vs-university`, B1+–B2+)
-- **Integrated test tasks** (`tst.integrated-test-tasks`, B1+–B2+)
-- **Pre-sessional progression assessment** (`tst.presessional-progression`, B1+–B2+)
+- **Description, analysis and evaluation** (`crt.description-analysis-evaluation`, core band B1+)
+- **Critical questioning and question sets** (`crt.questioning`, core band B1+)
+- **Considering multiple perspectives** (`crt.multiple-perspectives`, core band B2)
+- **What counts as an academic argument** (`arg.argument-concept`, core band B1+)
+- **Supporting claims** (`arg.supporting-claims`, core band B1+) — *assumed:* `crt.evidence-types`
+- **Anticipating counter-arguments** (`arg.counterarguments`, core band B2)
+- **Taking and sustaining a position** (`arg.position`, core band B2)
 
-### Academic Socialisation & Communication
+#### Academic Genres
 
-- **How universities are organised** (`acu.university-structures`, B1–B2)
-- **Teaching and learning formats** (`acu.teaching-formats`, B1–B2)
-- **Expectations of university learners** (`acu.academic-expectations`, B1–B2+)
-- **Discourse communities and disciplines** (`acu.discourse-communities`, B2–C1)
-- **Disciplinary knowledge-making** (`acu.disciplinary-knowledge`, B2–C1)
-- **Tacit expectations** (`acu.hidden-curriculum`, B1+–C1)
-- **Transition and adjustment** (`acu.transition`, B1–B2+)
-- **Academic roles and forms of address** (`acu.roles-address`, B1–B2)
-- **Critical perspectives on EAP** (`acu.critical-eap`, B2–C1)
-- **EMI and transnational education contexts** (`acu.emi-tne`, B1+–C1)
-- **Politeness and face in academic interaction** (`prg.politeness`, B1+–C1)
-- **Making requests** (`prg.requests`, B1+–C1)
-- **Emails to academic staff** (`prg.emails-to-staff`, B1–B2+)
-- **Office hours and tutorials** (`prg.office-hours`, B1+–C1)
-- **Apologising and explaining** (`prg.apologising-explaining`, B1–B2+)
-- **Formal statements and appeals** (`prg.formal-statements`, B2–C1)
-- **Online discussion forum posts** (`prg.forum-posts`, B1+–C1)
-- **Messaging channels and norms** (`prg.messaging-channels`, B1–B2+)
+- **Genre families and essay types in university assessment** (`ges.genre-families`, core band B1+) — *assumed:* `ges.genre-concept`
+- **Argumentative essay** (`ges.argumentative-essay`, core band B2)
+- **Annotated bibliography** (`ges.annotated-bibliography`, core band B2) — *assumed:* `src.summarising-text`
+- **Extended source-based project** (`ges.extended-source-based-project`, core band B2) — *assumed:* `inf.search-strategies`, `cit.accuracy-consistency`
 
-### Digital Literacy & AI
+#### Data, Numeracy & Multimodality
 
-- **Virtual learning environments** (`dig.vle`, B1–B2)
-- **Academic word processing** (`dig.word-processing`, B1–B2+)
-- **Reference management software** (`dig.reference-managers`, B1+–C1)
-- **Machine translation** (`dig.machine-translation`, B1–C1)
-- **Digital collaboration tools** (`dig.digital-collaboration`, B1+–C1)
-- **Digital etiquette and online presence** (`dig.digital-etiquette`, B1+–C1)
-- **Automated writing evaluation tools** (`dig.automated-feedback-tools`, B1+–C1)
-- **How generative AI works and fails** (`gai.how-genai-works`, B1+–C1)
-- **Interpreting AI policies** (`gai.policies`, B1+–B2+)
-- **Acknowledging and citing AI use** (`gai.acknowledging-use`, B1+–C1)
-- **Verifying AI output** (`gai.verifying-output`, B1+–C1)
-- **AI, authorship and voice** (`gai.authorship-voice`, B2–C2)
-- **Limits of AI detection** (`gai.detection-limits`, B1+–C1)
-- **Prompting for learning** (`gai.prompting-for-learning`, B1+–C1)
-- **Using AI as a language-learning resource** (`gai.language-support`, B1+–C1)
+- **Reading graphs and charts** (`dat.reading-graphs`, core band B1) — *assumed:* `dat.visual-types`
+- **Describing trends and change** (`dat.describing-trends`, core band B1+)
+- **Describing proportions and comparisons** (`dat.describing-proportions`, core band B1+) — *assumed:* `grm.comparison-structures`, `num.number-expressions`
 
-### Disciplinary Literacies
+#### Learning & Autonomy
 
-- **The language of science** (`dse.scientific-language`, B1+–C1)
-- **Scientific explanations** (`dse.scientific-explanation`, B1+–C1)
-- **Language of experimentation** (`dse.hypothesis-language`, B1+–C1)
-- **Reflective practice writing in health** (`dhl.reflective-practice`, B2–C1)
-- **Professional communication in health placements** (`dhl.professional-communication`, B2–C1) — *assumed:* `reg.non-specialist-audiences`
-- **Language of economic reasoning** (`dbe.economic-reasoning`, B2–C1)
-- **Applying management frameworks critically** (`dbe.critical-frameworks`, B2–C1)
-- **Business case analysis** (`dbe.business-case-analysis`, B2–C1) — *assumed:* `grp.case-study`
-- **Legal language and register** (`dlw.legal-language`, B2–C1)
-- **Reading and briefing cases** (`dlw.case-reading`, B2–C1)
-- **Reading legislation** (`dlw.statutes`, B2+–C1)
-- **Legal problem questions** (`dlw.problem-questions`, B2–C1)
-- **Legal essays** (`dlw.legal-essays`, B2+–C1)
-- **Working with concepts** (`dss.operationalising-concepts`, B2–C1)
-- **Close reading and textual analysis** (`dhu.close-reading`, B2–C1)
-- **Interpretive argument** (`dhu.interpretive-argument`, B2–C2)
-- **Visual analysis** (`dad.visual-analysis`, B1+–C1)
-- **Studio critiques** (`dad.studio-critique`, B2–C1)
-- **Artist and design statements** (`dad.artist-statement`, B2–C1)
+- **Reflective learning logs** (`lrn.reflective-logs`, core band B1+) — *assumed:* `lrn.goal-setting`
+
+#### Assessment & Progression
+
+- **Interpreting marking criteria** (`fbk.marking-criteria`, core band B2) — *assumed:* `fbk.assessment-literacy`
+- **Acting on feedback** (`fbk.acting-on-feedback`, core band B2) — *assumed:* `fbk.feedback-literacy`
+- **Using written corrective feedback** (`fbk.corrective-feedback`, core band B1+)
+- **Timed writing** (`exm.timed-writing`, core band B2) — *assumed:* `wpr.planning-outlining`
+- **Test tasks versus university tasks** (`tst.test-vs-university`, core band B2) — *assumed:* `tst.test-formats`
+- **Pre-sessional progression assessment** (`tst.presessional-progression`, core band B1+)
+
+#### Academic Socialisation, Identity & Communication
+
+- **How universities are organised** (`acu.university-structures`, core band B1)
+- **Teaching and learning formats** (`acu.teaching-formats`, core band B1)
+- **Expectations of university learners** (`acu.academic-expectations`, core band B1+)
+- **Academic roles and forms of address** (`acu.roles-address`, core band B1)
+- **Making requests** (`prg.requests`, core band B1+) — *assumed:* `prg.politeness`
+- **Emails to academic staff** (`prg.emails-to-staff`, core band B1)
+
+#### Digital Literacy & AI
+
+- **Interpreting AI policies** (`gai.policies`, core band B1+)
+- **Acknowledging and citing AI use** (`gai.acknowledging-use`, core band B2)
+
+### Develop where relevant
+
+Lexical coverage and vocabulary size (`voc.lexical-coverage`); Academic affixes and Greco-Latin roots (`voc.affixes-roots`); Verbs for academic and research processes (`voc.academic-verbs`); Abstract and shell nouns (`voc.abstract-shell-nouns`); Technical and discipline-specific terminology (`voc.technical-terminology`); Sub-technical vocabulary and polysemy (`voc.subtechnical-polysemy`); Lexical precision and near-synonyms (`voc.precision-near-synonyms`); Evaluative vocabulary (`voc.evaluative-lexis`); Multi-word verbs and register (`voc.multiword-verbs-register`); Inferring word meaning from context (`voc.inferring-from-context`); Using learner and specialist dictionaries (`voc.dictionary-use`); Deliberate vocabulary learning systems (`voc.deliberate-learning-systems`); Moving vocabulary into productive use (`voc.receptive-to-productive`); Word grammar and complementation patterns (`voc.word-grammar-patterns`); Countability of academic nouns (`voc.countability-academic-nouns`); Spelling conventions and consistency (`voc.spelling-conventions`); Academic abbreviations and Latin expressions (`voc.abbreviations-latin`); Collocation awareness (`phr.collocation-awareness`); Verb–noun collocation accuracy (`phr.verb-noun-collocation-accuracy`); Text-oriented lexical bundles (`phr.bundles-text-oriented`); Stance and engagement bundles (`phr.bundles-stance`); Spoken academic formulas (`phr.spoken-academic-formulas`); Fixed expressions, idioms and binomials (`phr.fixed-expressions`); Consulting corpora for usage (`phr.corpus-consultation`); Using phrasebanks critically (`phr.phrasebank-use`); Spoken versus written academic language (`reg.spoken-vs-written`); Myths and change in academic style (`reg.style-myths-variation`); Impersonality and authorial presence (`reg.impersonality-presence`); Information density and readability (`reg.information-density`); Inclusive and bias-free language (`reg.inclusive-language`); Clause elements and sentence analysis (`grm.clause-elements`); Subject–verb agreement with complex subjects (`grm.subject-verb-agreement`); Noun-phrase premodification (`grm.np-premodification`); Nominalisation and grammatical metaphor (`grm.nominalisation`); Phrasal versus clausal complexity (`grm.phrasal-complexity`); Determiners and quantifiers (`grm.determiners-quantifiers`); Tense when reporting research (`grm.tense-in-reporting`); Epistemic modal verbs (`grm.epistemic-modality`); Conditionals and hypothetical reasoning (`grm.conditionals`); Defining and non-defining relative clauses (`grm.relative-clauses`); Non-finite clauses (`grm.non-finite-clauses`); Subordination and adverbial clauses (`grm.subordination`); Coordination and parallel structure (`grm.coordination-parallelism`); That-clauses and wh-clauses (`grm.complement-clauses`); Anticipatory 'it' and extraposition (`grm.anticipatory-it`); Existential 'there' constructions (`grm.existential-there`); Comparative structures (`grm.comparison-structures`); Prepositions and complex prepositions (`grm.prepositions`); Placement and punctuation of linking adverbials (`grm.linking-adverbial-placement`); Pronoun and demonstrative reference (`grm.reference-pronouns`); Ellipsis and substitution (`grm.ellipsis-substitution`); Grammar of spoken academic interaction (`grm.spoken-grammar`); Genitive and noun-modifier choices (`grm.genitive-noun-modifiers`); Unaccusative and ergative verbs (`grm.unaccusative-verbs`); Simple, compound and complex sentences (`sen.sentence-types`); Commas in academic prose (`sen.commas`); Semicolons and colons (`sen.semicolons-colons`); Sentence length and variety (`sen.sentence-length-variety`); Concision (`sen.concision`); Lists and bullet points (`sen.lists-bullets`); Lexical cohesion and reference chains (`coh.lexical-cohesion`); Given–new information structure (`coh.given-new`); Encapsulation with signalling nouns (`coh.signalling-nouns`); Text structure patterns (`coh.text-patterns`); Frame markers and advance organisers (`coh.frame-markers`); Transitions between paragraphs and sections (`coh.paragraph-transitions`); Terminological consistency (`coh.terminological-consistency`); Making reasoning explicit for the reader (`coh.writer-responsibility`); Calibrating claims to evidence (`sta.claim-calibration`); Boosters (`sta.boosters`); Attitude markers (`sta.attitude-markers`); Self-mention and authorial roles (`sta.self-mention`); Language for evaluating others' work (`sta.evaluating-others-language`); Authorial voice (`sta.authorial-voice`); Code glosses and exemplification (`sta.code-glosses`); Expressing stance in speech (`sta.spoken-stance`); Defining terms (`fun.defining`); Classifying and categorising (`fun.classifying`); Describing processes and procedures (`fun.describing-process`); Describing structures and systems (`fun.describing-structure`); Exemplifying and illustrating (`fun.exemplifying`); Problem, solution and evaluation (`fun.problem-solution`); Predicting and hypothesising (`fun.hypothesising`); Recommending (`fun.recommending`); Summarising and concluding (`fun.summarising-concluding`); Chronological narration (`fun.chronology-narration`); Evaluating strengths, weaknesses and significance (`fun.evaluating`); Reading as an interactive process (`rdp.interactive-reading`); Automatic word recognition (`rdp.word-recognition`); Reading fluency and rate (`rdp.reading-fluency-rate`); Extensive reading (`rdp.extensive-reading`); Background knowledge and schemata (`rdp.background-knowledge`); Managing reading load (`rdp.managing-reading-load`); Reading on screen (`rdp.digital-reading`); Strategic use of first language and translation in reading (`rdp.plurilingual-reading`); Previewing and surveying (`rds.previewing`); Skimming for gist (`rds.skimming`); Using paragraph structure when reading (`rds.paragraph-structure-reading`); Making inferences (`rds.inference`); Tracking reference while reading (`rds.reference-tracking`); Identifying writer stance and attributed views (`rds.writer-stance`); Monitoring comprehension (`rds.comprehension-monitoring`); Purposeful annotation (`rds.annotation`); Reading textbooks (`rds.textbook-reading`); Integrating text and visuals (`rds.visuals-in-text`); Evaluating evidence in texts (`rdc.evidence-evaluation`); Identifying assumptions and values (`rdc.assumptions`); Recognising bias and perspective (`rdc.bias-perspective`); Reading across multiple texts (`rdc.multiple-texts`); Listening processes: decoding and meaning-building (`lis.listening-processes`); Recognising connected speech (`lis.connected-speech`); Segmenting the speech stream (`lis.word-segmentation`); Coping with natural speech rate (`lis.speech-rate`); Understanding varied accents (`lis.accent-variation`); Lecture structure and phases (`lis.lecture-structure`); Handling digressions and asides (`lis.digressions`); Preparing for lectures (`lis.pre-listening-preparation`); Inferring speaker stance (`lis.speaker-stance`); Following multi-party discussion (`lis.multi-party-discussion`); Integrating slides, visuals and speech (`lis.multimodal-lectures`); Using lecture capture strategically (`lis.recorded-lectures`); Metacognitive listening strategies (`lis.metacognitive-listening`); Understanding spoken instructions and briefings (`lis.spoken-instructions`); Listening to academic media (`lis.academic-media`); Functions of notes (`ntk.functions-of-notes`); Abbreviations and symbols (`ntk.abbreviations-symbols`); Note formats (`ntk.note-formats`); Reviewing and reworking notes (`ntk.reviewing-notes`); Digital and handwritten note-taking (`ntk.digital-notes`); Collaborative notes (`ntk.collaborative-notes`); Purposes and expectations of seminars (`sem.seminar-purposes`); Building on others' contributions (`sem.building-on-others`); Asking questions and seeking clarification (`sem.questions-clarification`); Checking and confirming understanding (`sem.checking-understanding`); Facilitating discussion (`sem.facilitating`); Summarising discussion (`sem.summarising-discussion`); Managing speaking anxiety and willingness to communicate (`sem.speaking-anxiety`); Synchronous online discussion (`sem.online-discussion`); Structured academic debate (`sem.debate`); Explaining concepts and readings to peers (`sem.explaining-concepts`); Purpose and audience analysis (`prs.purpose-audience`); Opening a presentation (`prs.openings`); Designing slides (`prs.slide-design`); Talking about visuals and data (`prs.explaining-visuals`); Non-verbal communication (`prs.nonverbal`); Speaking from notes (`prs.speaking-from-notes`); Group presentations (`prs.group-presentations`); Academic posters: design and presentation (`prs.posters`); Recorded and online presentations (`prs.recorded-online`); Rehearsal and timing (`prs.rehearsal-timing`); Intelligibility, comprehensibility and accent (`prn.intelligibility`); Word stress in academic vocabulary (`prn.word-stress`); Intonation for discourse functions (`prn.intonation`); Prioritised segmental features (`prn.segmental-priorities`); Connected speech in production (`prn.connected-speech-production`); Pronouncing technical terms and names (`prn.technical-terms`); Developing speech fluency (`prn.fluency`); Self-repair and reformulation (`prn.repair`); Saying numbers, formulae and symbols aloud (`prn.numbers-aloud`); Purposes of group work (`grw.purposes`); Roles and planning (`grw.roles-planning`); Running group meetings (`grw.meetings`); Managing disagreement and conflict (`grw.conflict`); Inclusive collaboration in multilingual groups (`grw.inclusive-collaboration`); Collaborative writing (`grw.collaborative-writing`); Assessing contributions (`grw.contribution-assessment`); Writing as a recursive process (`wpr.writing-process`); Generating ideas (`wpr.generating-ideas`); Planning and outlining (`wpr.planning-outlining`); Drafting (`wpr.drafting`); Audience and purpose (`wpr.audience-purpose`); Managing extended writing projects (`wpr.managing-long-projects`); Overcoming writing blocks (`wpr.writing-blocks`); Using the first language in composing (`wpr.l1-in-composing`); Working within word limits (`wpr.word-limits`); Formatting and presentation (`wpr.formatting`); Writing topic sentences (`par.topic-sentences`); Internal paragraph coherence (`par.internal-coherence`); Paragraph length and division (`par.length-division`); Paragraph functions (`par.paragraph-functions`); Writing introductions (`ess.introductions`); Writing conclusions (`ess.conclusions`); Headings and sections (`ess.headings`); Depth versus breadth (`ess.depth-focus`); Demonstrating criticality in essays (`ess.criticality`); Writing titles (`ess.titles`); Revision, editing and proofreading (`edt.revision-editing-proofreading`); Reverse outlining (`edt.reverse-outlining`); Editing for style and clarity (`edt.style-editing`); Editing for grammatical accuracy (`edt.grammar-editing`); Proofreading (`edt.proofreading`); Self-assessing drafts against criteria (`edt.criteria-self-assessment`); Peer review of drafts (`edt.peer-review`); Acceptable third-party proofreading (`edt.proofreading-ethics`); How scholarly knowledge is produced (`inf.scholarly-communication`); Search strategies (`inf.search-strategies`); Library catalogues, databases and discovery tools (`inf.databases`); Lateral reading (`inf.lateral-reading`); Predatory publishing, retractions and misinformation (`inf.problematic-publishing`); Citation chaining (`inf.citation-chaining`); Recording searches and sources (`inf.search-records`); Open access and legal access (`inf.open-access`); Paraphrasing techniques (`src.paraphrase-techniques`); Patchwriting (`src.patchwriting`); Summarising a whole text (`src.summarising-text`); Integral and non-integral citation (`src.citation-forms`); Secondary citation (`src.secondary-citation`); Using sources in other languages (`src.multilingual-sources`); Synthesis matrices (`syn.synthesis-matrix`); Grouping sources thematically (`syn.thematic-grouping`); Writing relationships between sources (`syn.relating-sources`); Identifying gaps and tensions (`syn.gaps-tensions`); Writing synthesis paragraphs (`syn.synthesis-paragraphs`); Why academics cite (`cit.why-cite`); Referencing systems and style guides (`cit.referencing-systems`); Numeric citation systems (`cit.numeric`); Note-based citation (`cit.note-based`); Citing diverse source types (`cit.diverse-sources`); Page numbers and locators (`cit.locators`); Citation accuracy and consistency (`cit.accuracy-consistency`); Rhetorical functions of sources and citation (`cit.citation-functions`); Whose knowledge is cited (`cit.citation-politics`); Values of academic integrity (`int.integrity-values`); Collusion and legitimate collaboration (`int.collusion`); Contract cheating (`int.contract-cheating`); Integrity policies and processes (`int.policy-processes`); Managing integrity risk under pressure (`int.pressure-risks`); Critical thinking in academic contexts (`crt.concept`); Types and strength of evidence (`crt.evidence-types`); Deductive, inductive and abductive reasoning (`crt.reasoning-types`); Correlation and causation (`crt.correlation-causation`); Recognising fallacies (`crt.fallacies`); Cognitive biases (`crt.cognitive-biases`); Beliefs about knowledge (`crt.epistemic-beliefs`); Applying theory to cases (`crt.applying-theory`); Analytical problem-solving (`crt.problem-solving`); Types of claims (`arg.claim-types`); Toulmin model of argument (`arg.toulmin`); Making reasoning explicit (`arg.warrants`); Rebuttal and concession (`arg.rebuttal-concession`); Structuring an extended argument (`arg.extended-argument`); Rhetorical appeals (`arg.rhetorical-appeals`); Argument mapping (`arg.argument-mapping`); Arguing orally (`arg.oral-argument`); Exploratory and adversarial argument (`arg.exploratory-adversarial`); Evaluating arguments (`arg.evaluating-arguments`); What a genre is (`ges.genre-concept`); Analysing genres independently (`ges.genre-analysis`); Discussion essay (`ges.discussion-essay`); Examination essay (`ges.exam-essay`); Critical review of an article (`ges.critique`); Reflective writing (`ges.reflective-writing`); Summary–response paper (`ges.summary-response`); Expository essays organised by rhetorical pattern (`ges.expository-essays`); Report conventions (`grp.report-conventions`); Laboratory report (`grp.lab-report`); Case study analysis (`grp.case-study`); Business report (`grp.business-report`); Types of visuals and their functions (`dat.visual-types`); Reading tables (`dat.reading-tables`); Data commentary (`dat.data-commentary`); Describing processes, diagrams and maps (`dat.describing-diagrams`); Figure and table captions (`dat.captions-labelling`); Creating effective visuals (`dat.creating-visuals`); Recognising misleading visuals (`dat.misleading-visuals`); Referring to visuals in text (`dat.referring-to-visuals`); Expressing and presenting quantities accurately (`num.number-expressions`); Approximation and precision (`num.approximation`); Basic statistical vocabulary (`num.statistical-vocabulary`); Relative and absolute change (`num.relative-absolute`); Units and measurement (`num.units-measurement`); Multimodal literacy (`mmd.multimodal-literacy`); Video essays and digital assessments (`mmd.digital-assessments`); Accessible academic documents (`mmd.accessibility`); Setting language and academic goals (`lrn.goal-setting`); Time and workload management (`lrn.time-management`); Independent study (`lrn.independent-study`); Evidence-based study techniques (`lrn.study-techniques`); Language learning strategies (`lrn.language-learning-strategies`); Using academic support services (`lrn.support-services`); Sustainable study habits and wellbeing (`lrn.wellbeing`); Learning subject content through English (`lrn.content-through-english`); University assessment literacy (`fbk.assessment-literacy`); Grading systems and mark scales (`fbk.grading-systems`); Feedback literacy (`fbk.feedback-literacy`); Seeking feedback (`fbk.seeking-feedback`); Self- and peer-assessment (`fbk.self-peer-assessment`); University exam formats (`exm.exam-formats`); Open-book, take-home and online time-windowed exams (`exm.open-book`); Oral examinations (`exm.oral-exams`); Managing test anxiety (`exm.test-anxiety`); Proficiency, achievement and progression assessment (`tst.assessment-purposes`); CEFR levels and entry requirements (`tst.cefr-entry`); Academic proficiency test formats (`tst.test-formats`); Score reports, validity and test choice (`tst.score-reports`); Discourse communities and disciplines (`acu.discourse-communities`); Disciplinary knowledge-making (`acu.disciplinary-knowledge`); Tacit expectations (`acu.hidden-curriculum`); Transition and adjustment (`acu.transition`); Making informed choices about academic conventions (`acu.critical-eap`); EMI and transnational education contexts (`acu.emi-tne`); Politeness and face in academic interaction (`prg.politeness`); Office hours and tutorials (`prg.office-hours`); Formal statements and appeals (`prg.formal-statements`); Apologising and explaining (`prg.apologising-explaining`); Online discussion forum posts (`prg.forum-posts`); Messaging channels and norms (`prg.messaging-channels`); Informal academic interaction and networking (`prg.informal-academic-interaction`); Academic and writer identity (`idn.academic-identity`); Drawing on a plurilingual repertoire (`idn.plurilingual-repertoire`); English as a lingua franca in academia (`idn.elf`); Intercultural communication (`idn.intercultural-communication`); Intercultural rhetoric (`idn.intercultural-rhetoric`); Linguistic diversity as resource (`idn.diversity-as-resource`); Standards, native-speakerism and legitimacy (`idn.standards-legitimacy`); Translingual writing and code-meshing (`idn.translingual-writing`); Virtual learning environments (`dig.vle`); Reference management software (`dig.reference-managers`); Academic word processing (`dig.word-processing`); Translation tools in reading and drafting (`dig.machine-translation`); Digital collaboration tools (`dig.digital-collaboration`); File and version management (`dig.file-management`); Digital etiquette and online presence (`dig.digital-etiquette`); Editing and automated feedback tools (`dig.automated-feedback-tools`); Assistive technology and study adjustments (`dig.assistive-technology`); How generative AI works and fails (`gai.how-genai-works`); Verifying AI output (`gai.verifying-output`); Using AI as a tutor and language-learning resource (`gai.language-support`); AI, authorship and voice (`gai.authorship-voice`); Limits of AI detection (`gai.detection-limits`); The language of science (`dse.scientific-language`); Scientific explanations (`dse.scientific-explanation`); Language of experimentation (`dse.hypothesis-language`); Evidence-based practice (`dhl.evidence-based-practice`); Reflective practice writing in health (`dhl.reflective-practice`); Professional communication in health placements (`dhl.professional-communication`); Business case analysis (`dbe.business-case-analysis`); Language of economic reasoning (`dbe.economic-reasoning`); Applying management frameworks critically (`dbe.critical-frameworks`); Legal language and register (`dlw.legal-language`); Reading and briefing cases (`dlw.case-reading`); Legal problem questions (`dlw.problem-questions`); Reading legislation (`dlw.statutes`); Legal essays (`dlw.legal-essays`); Working with concepts (`dss.operationalising-concepts`); Close reading and textual analysis (`dhu.close-reading`); Interpretive argument (`dhu.interpretive-argument`); Studio critiques (`dad.studio-critique`); Artist and design statements (`dad.artist-statement`); Visual analysis (`dad.visual-analysis`).
+
+### Revisit
+
+Scanning for specific information (`rds.scanning`); Self-regulated learning and learner autonomy (`lrn.self-regulation`); Motivation and the L2 self (`lrn.motivation`); Metacognitive knowledge (`lrn.metacognitive-knowledge`).
+
+## Pre-sessional (postgraduate entry)
+
+92 core · 357 develop · 40 revisit.
+
+### Core
+
+#### Academic Language
+
+- **Core academic vocabulary** (`voc.core-academic-vocabulary`, core band B2) — *assumed:* `voc.high-frequency-base`
+- **Evaluative vocabulary** (`voc.evaluative-lexis`, core band B2) — *assumed:* `voc.precision-near-synonyms`
+- **Academic collocations** (`phr.academic-collocations`, core band B2) — *assumed:* `phr.collocation-awareness`
+- **Features of formal academic style** (`reg.formality-features`, core band B1+) — *assumed:* `reg.register-awareness`
+- **Noun-phrase postmodification** (`grm.np-postmodification`, core band B2)
+- **Nominalisation and grammatical metaphor** (`grm.nominalisation`, core band B2+) — *assumed:* `voc.word-families-morphology`
+- **Articles in academic writing** (`grm.articles`, core band B1+) — *assumed:* `voc.countability-academic-nouns`
+- **Tense when reporting research** (`grm.tense-in-reporting`, core band B2) — *assumed:* `grm.tense-aspect`
+- **Reporting structures** (`grm.reporting-structures`, core band B2) — *assumed:* `grm.complement-clauses`
+- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, core band B1+)
+- **Concision** (`sen.concision`, core band B2+)
+
+#### Academic Discourse
+
+- **Cohesion versus coherence** (`coh.cohesion-vs-coherence`, core band B1+)
+- **Linking adverbials and connector precision** (`coh.linking-adverbials`, core band B1+) — *assumed:* `grm.subordination`
+- **Hedging and qualifying generalisations** (`sta.hedging`, core band B2) — *assumed:* `grm.epistemic-modality`
+- **Calibrating claims to evidence** (`sta.claim-calibration`, core band B2+) — *assumed:* `sta.boosters`
+- **Averral versus attribution** (`sta.averral-attribution`, core band B2)
+- **Language for evaluating others' work** (`sta.evaluating-others-language`, core band B2+)
+- **Evaluating strengths, weaknesses and significance** (`fun.evaluating`, core band B2)
+
+#### Academic Reading
+
+- **Parsing complex academic sentences** (`rdp.parsing-complex-sentences`, core band B2) — *assumed:* `grm.np-premodification`, `grm.relative-clauses`, `grm.subordination`
+- **Navigating research articles** (`rds.research-article-navigation`, core band B2+) — *assumed:* `rds.previewing`
+- **Identifying writer stance and attributed views** (`rds.writer-stance`, core band B2+)
+- **What critical reading involves** (`rdc.critical-reading`, core band B2)
+- **Identifying arguments in texts** (`rdc.argument-identification`, core band B2) — *assumed:* `arg.argument-concept`
+- **Evaluating evidence in texts** (`rdc.evidence-evaluation`, core band B2+)
+- **Reading across multiple texts** (`rdc.multiple-texts`, core band B2+)
+- **Formulating a critical response** (`rdc.critical-response`, core band B2)
+
+#### Academic Listening & Note-making
+
+- **Emphasis and relevance markers** (`lis.relevance-markers`, core band B2)
+- **Identifying main points and supporting detail** (`lis.main-points`, core band B1+)
+- **Inferring speaker stance** (`lis.speaker-stance`, core band B2+)
+- **Taking notes in lectures** (`ntk.lecture-notes`, core band B2) — *assumed:* `ntk.note-formats`
+- **Making notes from reading** (`ntk.notes-from-reading`, core band B2) — *assumed:* `ntk.selecting-content`
+
+#### Academic Speaking
+
+- **Purposes and expectations of seminars** (`sem.seminar-purposes`, core band B1)
+- **Turn-taking and taking the floor** (`sem.turn-taking`, core band B1+)
+- **Agreeing and disagreeing** (`sem.agreeing-disagreeing`, core band B2) — *assumed:* `sta.spoken-stance`, `sem.opinions`
+- **Referring to readings and evidence in discussion** (`sem.citing-in-speech`, core band B2) — *assumed:* `sem.opinions`
+- **Purpose and audience analysis** (`prs.purpose-audience`, core band B1+)
+- **Structuring a presentation** (`prs.structure`, core band B1)
+- **Signposting in presentations and spoken explanations** (`prs.signposting`, core band B1+)
+- **Talking about visuals and data** (`prs.explaining-visuals`, core band B2)
+- **Handling questions** (`prs.handling-questions`, core band B2) — *assumed:* `sem.checking-understanding`
+- **Sentence stress and prominence** (`prn.prominence`, core band B2) — *assumed:* `prn.word-stress`, `prn.thought-groups`
+
+#### Academic Writing
+
+- **Reading to write: from task to source-based text** (`wpr.reading-to-write`, core band B2) — *assumed:* `wpr.task-analysis`
+- **Integrating sources in paragraphs** (`par.integrating-evidence`, core band B2) — *assumed:* `par.support`
+- **Organising the essay body** (`ess.body-organisation`, core band B2) — *assumed:* `par.topic-sentences`, `ess.thesis-statement`
+- **Depth versus breadth** (`ess.depth-focus`, core band B2+) — *assumed:* `ess.thesis-statement`
+- **Demonstrating criticality in essays** (`ess.criticality`, core band B2+)
+- **Global revision** (`edt.global-revision`, core band B2) — *assumed:* `edt.revision-editing-proofreading`
+
+#### Sources & Academic Integrity
+
+- **Focusing a topic for searching** (`inf.research-question`, core band B2) — *assumed:* `wpr.task-analysis`
+- **Search strategies** (`inf.search-strategies`, core band B2)
+- **Evaluating sources** (`inf.source-evaluation`, core band B1+) — *assumed:* `inf.scholarly-communication`
+- **Paraphrasing** (`src.paraphrasing`, core band B2) — *assumed:* `src.paraphrase-techniques`
+- **Summarising a whole text** (`src.summarising-text`, core band B2) — *assumed:* `rds.text-organisation`, `src.summarising-passage`
+- **Reporting verbs and signal phrases** (`src.reporting-verbs`, core band B1+)
+- **Integrating quotations** (`src.integrating-quotations`, core band B1+) — *assumed:* `src.quoting`
+- **Distinguishing own voice from source voice** (`src.voice-boundaries`, core band B2)
+- **Writing relationships between sources** (`syn.relating-sources`, core band B2) — *assumed:* `syn.thematic-grouping`
+- **Writing synthesis paragraphs** (`syn.synthesis-paragraphs`, core band B2) — *assumed:* `par.topic-sentences`
+- **Integrated source-based tasks in coursework and tests** (`syn.integrated-tasks`, core band B2) — *assumed:* `src.summarising-passage`
+- **When to cite** (`cit.when-to-cite`, core band B2) — *assumed:* `cit.why-cite`
+- **Citation accuracy and consistency** (`cit.accuracy-consistency`, core band B2) — *assumed:* `cit.reference-list`
+- **Rhetorical functions of sources and citation** (`cit.citation-functions`, core band B2+)
+- **Understanding plagiarism** (`int.plagiarism`, core band B1+) — *assumed:* `cit.why-cite`
+
+#### Argument & Critical Thinking
+
+- **Critical thinking in academic contexts** (`crt.concept`, core band B2)
+- **Description, analysis and evaluation** (`crt.description-analysis-evaluation`, core band B1+)
+- **Critical questioning and question sets** (`crt.questioning`, core band B1+)
+- **Types and strength of evidence** (`crt.evidence-types`, core band B1+) — *assumed:* `rds.fact-opinion-claim`
+- **Anticipating counter-arguments** (`arg.counterarguments`, core band B2) — *assumed:* `crt.multiple-perspectives`, `arg.supporting-claims`
+- **Rebuttal and concession** (`arg.rebuttal-concession`, core band B2) — *assumed:* `sta.concession-language`
+- **Taking and sustaining a position** (`arg.position`, core band B2) — *assumed:* `arg.supporting-claims`
+
+#### Academic Genres
+
+- **Analysing genres independently** (`ges.genre-analysis`, core band B2) — *assumed:* `ges.genre-concept`
+- **Argumentative essay** (`ges.argumentative-essay`, core band B2) — *assumed:* `ess.thesis-statement`
+- **Critical review of an article** (`ges.critique`, core band B2)
+- **Annotated bibliography** (`ges.annotated-bibliography`, core band B2) — *assumed:* `cit.reference-list`
+- **Extended source-based project** (`ges.extended-source-based-project`, core band B2) — *assumed:* `syn.synthesis-concept`
+
+#### Research Communication
+
+- **IMRaD and its variants** (`res.imrad`, core band B2)
+
+#### Data, Numeracy & Multimodality
+
+- **Describing trends and change** (`dat.describing-trends`, core band B1+) — *assumed:* `dat.reading-graphs`
+- **Referring to visuals in text** (`dat.referring-to-visuals`, core band B2)
+- **Data commentary** (`dat.data-commentary`, core band B2+) — *assumed:* `dat.describing-proportions`
+
+#### Learning & Autonomy
+
+- **Reflective learning logs** (`lrn.reflective-logs`, core band B1+) — *assumed:* `lrn.goal-setting`
+
+#### Assessment & Progression
+
+- **Interpreting marking criteria** (`fbk.marking-criteria`, core band B2) — *assumed:* `fbk.assessment-literacy`
+- **Acting on feedback** (`fbk.acting-on-feedback`, core band B2) — *assumed:* `fbk.feedback-literacy`
+- **Self- and peer-assessment** (`fbk.self-peer-assessment`, core band B2)
+- **Test tasks versus university tasks** (`tst.test-vs-university`, core band B2) — *assumed:* `tst.test-formats`
+- **Pre-sessional progression assessment** (`tst.presessional-progression`, core band B1+)
+
+#### Academic Socialisation, Identity & Communication
+
+- **How universities are organised** (`acu.university-structures`, core band B1)
+- **Teaching and learning formats** (`acu.teaching-formats`, core band B1)
+- **Expectations of university learners** (`acu.academic-expectations`, core band B1+)
+- **Academic roles and forms of address** (`acu.roles-address`, core band B1)
+- **Emails to academic staff** (`prg.emails-to-staff`, core band B1) — *assumed:* `prg.requests`
+
+#### Digital Literacy & AI
+
+- **Interpreting AI policies** (`gai.policies`, core band B1+)
+- **Acknowledging and citing AI use** (`gai.acknowledging-use`, core band B2)
+- **Verifying AI output** (`gai.verifying-output`, core band B2) — *assumed:* `gai.how-genai-works`
+
+### Develop where relevant
+
+Lexical coverage and vocabulary size (`voc.lexical-coverage`); Word families and derivational morphology (`voc.word-families-morphology`); Academic affixes and Greco-Latin roots (`voc.affixes-roots`); Verbs for academic and research processes (`voc.academic-verbs`); Abstract and shell nouns (`voc.abstract-shell-nouns`); Technical and discipline-specific terminology (`voc.technical-terminology`); Sub-technical vocabulary and polysemy (`voc.subtechnical-polysemy`); Lexical precision and near-synonyms (`voc.precision-near-synonyms`); Inferring word meaning from context (`voc.inferring-from-context`); Using learner and specialist dictionaries (`voc.dictionary-use`); Deliberate vocabulary learning systems (`voc.deliberate-learning-systems`); Moving vocabulary into productive use (`voc.receptive-to-productive`); Word grammar and complementation patterns (`voc.word-grammar-patterns`); Countability of academic nouns (`voc.countability-academic-nouns`); Vocabulary of university study (`voc.university-terminology`); Assignment command words (`voc.command-words`); Academic abbreviations and Latin expressions (`voc.abbreviations-latin`); Verb–noun collocation accuracy (`phr.verb-noun-collocation-accuracy`); Research-oriented lexical bundles (`phr.bundles-research-oriented`); Stance and engagement bundles (`phr.bundles-stance`); Spoken academic formulas (`phr.spoken-academic-formulas`); Fixed expressions, idioms and binomials (`phr.fixed-expressions`); Consulting corpora for usage (`phr.corpus-consultation`); Using phrasebanks critically (`phr.phrasebank-use`); Register and situational variation (`reg.register-awareness`); Spoken versus written academic language (`reg.spoken-vs-written`); Myths and change in academic style (`reg.style-myths-variation`); Impersonality and authorial presence (`reg.impersonality-presence`); Information density and readability (`reg.information-density`); Avoiding vague and overgeneralised language (`reg.vague-overgeneralised`); Inclusive and bias-free language (`reg.inclusive-language`); Noun-phrase premodification (`grm.np-premodification`); Phrasal versus clausal complexity (`grm.phrasal-complexity`); Tense and aspect in academic writing (`grm.tense-aspect`); Passive voice and agency (`grm.passive-voice`); Epistemic modal verbs (`grm.epistemic-modality`); Conditionals and hypothetical reasoning (`grm.conditionals`); Non-finite clauses (`grm.non-finite-clauses`); Coordination and parallel structure (`grm.coordination-parallelism`); That-clauses and wh-clauses (`grm.complement-clauses`); Anticipatory 'it' and extraposition (`grm.anticipatory-it`); Comparative structures (`grm.comparison-structures`); Prepositions and complex prepositions (`grm.prepositions`); Cleft and pseudo-cleft sentences (`grm.clefts-emphasis`); Placement and punctuation of linking adverbials (`grm.linking-adverbial-placement`); Pronoun and demonstrative reference (`grm.reference-pronouns`); Ellipsis and substitution (`grm.ellipsis-substitution`); Grammar of spoken academic interaction (`grm.spoken-grammar`); Genitive and noun-modifier choices (`grm.genitive-noun-modifiers`); Unaccusative and ergative verbs (`grm.unaccusative-verbs`); Sentence boundaries (`sen.sentence-boundaries`); Commas in academic prose (`sen.commas`); Semicolons and colons (`sen.semicolons-colons`); Sentence length and variety (`sen.sentence-length-variety`); Clarity and end-weight (`sen.clarity-end-weight`); Lists and bullet points (`sen.lists-bullets`); Punctuation and mechanics beyond the comma (`sen.punctuation-mechanics`); Lexical cohesion and reference chains (`coh.lexical-cohesion`); Given–new information structure (`coh.given-new`); Thematic progression (`coh.thematic-progression`); Encapsulation with signalling nouns (`coh.signalling-nouns`); Text structure patterns (`coh.text-patterns`); Frame markers and advance organisers (`coh.frame-markers`); Transitions between paragraphs and sections (`coh.paragraph-transitions`); Terminological consistency (`coh.terminological-consistency`); Making reasoning explicit for the reader (`coh.writer-responsibility`); Metadiscourse (`sta.metadiscourse`); Boosters (`sta.boosters`); Attitude markers (`sta.attitude-markers`); Self-mention and authorial roles (`sta.self-mention`); Opening and closing space for other voices (`sta.dialogic-positioning`); Authorial voice (`sta.authorial-voice`); Language of concession and counter-argument (`sta.concession-language`); Code glosses and exemplification (`sta.code-glosses`); Expressing stance in speech (`sta.spoken-stance`); Defining terms (`fun.defining`); Describing processes and procedures (`fun.describing-process`); Comparing and contrasting (`fun.comparing-contrasting`); Expressing cause and effect (`fun.cause-effect`); Exemplifying and illustrating (`fun.exemplifying`); Problem, solution and evaluation (`fun.problem-solution`); Explaining and justifying (`fun.explaining`); Predicting and hypothesising (`fun.hypothesising`); Recommending (`fun.recommending`); Summarising and concluding (`fun.summarising-concluding`); Reading as an interactive process (`rdp.interactive-reading`); Reading fluency and rate (`rdp.reading-fluency-rate`); Extensive reading (`rdp.extensive-reading`); Reading with a purpose (`rdp.reading-purpose`); Background knowledge and schemata (`rdp.background-knowledge`); Managing reading load (`rdp.managing-reading-load`); Reading on screen (`rdp.digital-reading`); Strategic use of first language and translation in reading (`rdp.plurilingual-reading`); Previewing and surveying (`rds.previewing`); Identifying main ideas and supporting detail (`rds.main-ideas`); Recognising text organisation (`rds.text-organisation`); Making inferences (`rds.inference`); Distinguishing claims, evidence and their status (`rds.fact-opinion-claim`); Monitoring comprehension (`rds.comprehension-monitoring`); Purposeful annotation (`rds.annotation`); Integrating text and visuals (`rds.visuals-in-text`); Identifying assumptions and values (`rdc.assumptions`); Recognising bias and perspective (`rdc.bias-perspective`); Reading methods critically (`rdc.methods-critique`); Mapping a body of literature (`rdc.literature-mapping`); Reading theoretical and conceptual texts (`rdc.theoretical-texts`); Listening processes: decoding and meaning-building (`lis.listening-processes`); Recognising connected speech (`lis.connected-speech`); Coping with natural speech rate (`lis.speech-rate`); Understanding varied accents (`lis.accent-variation`); Lecture discourse markers (`lis.lecture-discourse-markers`); Handling digressions and asides (`lis.digressions`); Preparing for lectures (`lis.pre-listening-preparation`); Following multi-party discussion (`lis.multi-party-discussion`); Integrating slides, visuals and speech (`lis.multimodal-lectures`); Using lecture capture strategically (`lis.recorded-lectures`); Metacognitive listening strategies (`lis.metacognitive-listening`); Listening to academic media (`lis.academic-media`); Functions of notes (`ntk.functions-of-notes`); Selecting what to note (`ntk.selecting-content`); Note formats (`ntk.note-formats`); Reviewing and reworking notes (`ntk.reviewing-notes`); Digital and handwritten note-taking (`ntk.digital-notes`); Collaborative notes (`ntk.collaborative-notes`); Preparing for seminars (`sem.preparation`); Expressing and justifying views (`sem.opinions`); Building on others' contributions (`sem.building-on-others`); Asking questions and seeking clarification (`sem.questions-clarification`); Checking and confirming understanding (`sem.checking-understanding`); Facilitating discussion (`sem.facilitating`); Summarising discussion (`sem.summarising-discussion`); Managing speaking anxiety and willingness to communicate (`sem.speaking-anxiety`); Synchronous online discussion (`sem.online-discussion`); Structured academic debate (`sem.debate`); Explaining concepts and readings to peers (`sem.explaining-concepts`); Opening a presentation (`prs.openings`); Designing slides (`prs.slide-design`); Vocal delivery (`prs.delivery-voice`); Non-verbal communication (`prs.nonverbal`); Speaking from notes (`prs.speaking-from-notes`); Group presentations (`prs.group-presentations`); Academic posters: design and presentation (`prs.posters`); Research and conference presentations (`prs.research-presentations`); Recorded and online presentations (`prs.recorded-online`); Rehearsal and timing (`prs.rehearsal-timing`); Intelligibility, comprehensibility and accent (`prn.intelligibility`); Word stress in academic vocabulary (`prn.word-stress`); Thought groups and pausing (`prn.thought-groups`); Intonation for discourse functions (`prn.intonation`); Prioritised segmental features (`prn.segmental-priorities`); Connected speech in production (`prn.connected-speech-production`); Pronouncing technical terms and names (`prn.technical-terms`); Developing speech fluency (`prn.fluency`); Self-repair and reformulation (`prn.repair`); Saying numbers, formulae and symbols aloud (`prn.numbers-aloud`); Purposes of group work (`grw.purposes`); Roles and planning (`grw.roles-planning`); Running group meetings (`grw.meetings`); Managing disagreement and conflict (`grw.conflict`); Inclusive collaboration in multilingual groups (`grw.inclusive-collaboration`); Collaborative writing (`grw.collaborative-writing`); Assessing contributions (`grw.contribution-assessment`); Writing as a recursive process (`wpr.writing-process`); Analysing and answering assignment and exam tasks (`wpr.task-analysis`); Planning and outlining (`wpr.planning-outlining`); Drafting (`wpr.drafting`); Audience and purpose (`wpr.audience-purpose`); Managing extended writing projects (`wpr.managing-long-projects`); Overcoming writing blocks (`wpr.writing-blocks`); Using the first language in composing (`wpr.l1-in-composing`); Working within word limits (`wpr.word-limits`); Developing support (`par.support`); Internal paragraph coherence (`par.internal-coherence`); Thesis statements (`ess.thesis-statement`); Writing introductions (`ess.introductions`); Writing conclusions (`ess.conclusions`); Headings and sections (`ess.headings`); Writing titles (`ess.titles`); Reverse outlining (`edt.reverse-outlining`); Editing for style and clarity (`edt.style-editing`); Editing for grammatical accuracy (`edt.grammar-editing`); Proofreading (`edt.proofreading`); Self-assessing drafts against criteria (`edt.criteria-self-assessment`); Peer review of drafts (`edt.peer-review`); Acceptable third-party proofreading (`edt.proofreading-ethics`); How scholarly knowledge is produced (`inf.scholarly-communication`); Types of sources (`inf.source-types`); Library catalogues, databases and discovery tools (`inf.databases`); Lateral reading (`inf.lateral-reading`); Predatory publishing, retractions and misinformation (`inf.problematic-publishing`); Citation chaining (`inf.citation-chaining`); Recording searches and sources (`inf.search-records`); Open access and legal access (`inf.open-access`); Quoting (`src.quoting`); Paraphrasing techniques (`src.paraphrase-techniques`); Patchwriting (`src.patchwriting`); Summarising a passage (`src.summarising-passage`); Integral and non-integral citation (`src.citation-forms`); Secondary citation (`src.secondary-citation`); Using sources in other languages (`src.multilingual-sources`); What synthesis is (`syn.synthesis-concept`); Synthesis matrices (`syn.synthesis-matrix`); Grouping sources thematically (`syn.thematic-grouping`); Identifying gaps and tensions (`syn.gaps-tensions`); Why academics cite (`cit.why-cite`); Referencing systems and style guides (`cit.referencing-systems`); In-text citation: author–date (`cit.author-date-in-text`); Numeric citation systems (`cit.numeric`); Note-based citation (`cit.note-based`); Compiling a reference list (`cit.reference-list`); Citing diverse source types (`cit.diverse-sources`); Page numbers and locators (`cit.locators`); Disciplinary variation in citation (`cit.disciplinary-citation`); Whose knowledge is cited (`cit.citation-politics`); Values of academic integrity (`int.integrity-values`); Reusing one's own work (`int.recycling-own-work`); Collusion and legitimate collaboration (`int.collusion`); Contract cheating (`int.contract-cheating`); Interpreting similarity reports (`int.similarity-reports`); Integrity policies and processes (`int.policy-processes`); Managing integrity risk under pressure (`int.pressure-risks`); Research integrity (`int.research-integrity`); Deductive, inductive and abductive reasoning (`crt.reasoning-types`); Correlation and causation (`crt.correlation-causation`); Recognising fallacies (`crt.fallacies`); Cognitive biases (`crt.cognitive-biases`); Considering multiple perspectives (`crt.multiple-perspectives`); Beliefs about knowledge (`crt.epistemic-beliefs`); Applying theory to cases (`crt.applying-theory`); Analytical problem-solving (`crt.problem-solving`); What counts as an academic argument (`arg.argument-concept`); Types of claims (`arg.claim-types`); Toulmin model of argument (`arg.toulmin`); Supporting claims (`arg.supporting-claims`); Making reasoning explicit (`arg.warrants`); Structuring an extended argument (`arg.extended-argument`); Rhetorical appeals (`arg.rhetorical-appeals`); Argument mapping (`arg.argument-mapping`); Arguing orally (`arg.oral-argument`); Exploratory and adversarial argument (`arg.exploratory-adversarial`); Evaluating arguments (`arg.evaluating-arguments`); What a genre is (`ges.genre-concept`); Genre families and essay types in university assessment (`ges.genre-families`); Discussion essay (`ges.discussion-essay`); Examination essay (`ges.exam-essay`); Reflective writing (`ges.reflective-writing`); Literature review assignment (`ges.literature-review-assignment`); Report conventions (`grp.report-conventions`); Laboratory report (`grp.lab-report`); Empirical project report (`grp.empirical-project-report`); Case study analysis (`grp.case-study`); Business report (`grp.business-report`); Project proposal (student) (`grp.project-proposal`); Research article introductions (`res.introductions-cars`); Abstracts for student and research writing (`res.abstracts`); Research questions and hypotheses (`res.research-questions`); Establishing a research gap (`res.gap-niche`); Research proposals (`res.research-proposal`); Wording survey and interview questions (`res.instrument-wording`); Reading graphs and charts (`dat.reading-graphs`); Reading tables (`dat.reading-tables`); Describing proportions and comparisons (`dat.describing-proportions`); Describing processes, diagrams and maps (`dat.describing-diagrams`); Figure and table captions (`dat.captions-labelling`); Creating effective visuals (`dat.creating-visuals`); Recognising misleading visuals (`dat.misleading-visuals`); Expressing and presenting quantities accurately (`num.number-expressions`); Approximation and precision (`num.approximation`); Basic statistical vocabulary (`num.statistical-vocabulary`); Relative and absolute change (`num.relative-absolute`); Units and measurement (`num.units-measurement`); Multimodal literacy (`mmd.multimodal-literacy`); Video essays and digital assessments (`mmd.digital-assessments`); Accessible academic documents (`mmd.accessibility`); Setting language and academic goals (`lrn.goal-setting`); Time and workload management (`lrn.time-management`); Independent study (`lrn.independent-study`); Evidence-based study techniques (`lrn.study-techniques`); Language learning strategies (`lrn.language-learning-strategies`); Using academic support services (`lrn.support-services`); Sustainable study habits and wellbeing (`lrn.wellbeing`); Learning subject content through English (`lrn.content-through-english`); University assessment literacy (`fbk.assessment-literacy`); Grading systems and mark scales (`fbk.grading-systems`); Feedback literacy (`fbk.feedback-literacy`); Using written corrective feedback (`fbk.corrective-feedback`); Seeking feedback (`fbk.seeking-feedback`); University exam formats (`exm.exam-formats`); Timed writing (`exm.timed-writing`); Open-book, take-home and online time-windowed exams (`exm.open-book`); Oral examinations (`exm.oral-exams`); Managing test anxiety (`exm.test-anxiety`); Proficiency, achievement and progression assessment (`tst.assessment-purposes`); CEFR levels and entry requirements (`tst.cefr-entry`); Academic proficiency test formats (`tst.test-formats`); Score reports, validity and test choice (`tst.score-reports`); Discourse communities and disciplines (`acu.discourse-communities`); Disciplinary knowledge-making (`acu.disciplinary-knowledge`); Tacit expectations (`acu.hidden-curriculum`); Transition and adjustment (`acu.transition`); Making informed choices about academic conventions (`acu.critical-eap`); EMI and transnational education contexts (`acu.emi-tne`); Politeness and face in academic interaction (`prg.politeness`); Making requests (`prg.requests`); Office hours and tutorials (`prg.office-hours`); Formal statements and appeals (`prg.formal-statements`); Apologising and explaining (`prg.apologising-explaining`); Online discussion forum posts (`prg.forum-posts`); Messaging channels and norms (`prg.messaging-channels`); Informal academic interaction and networking (`prg.informal-academic-interaction`); Academic and writer identity (`idn.academic-identity`); Drawing on a plurilingual repertoire (`idn.plurilingual-repertoire`); English as a lingua franca in academia (`idn.elf`); Intercultural communication (`idn.intercultural-communication`); Intercultural rhetoric (`idn.intercultural-rhetoric`); Linguistic diversity as resource (`idn.diversity-as-resource`); Standards, native-speakerism and legitimacy (`idn.standards-legitimacy`); Translingual writing and code-meshing (`idn.translingual-writing`); Virtual learning environments (`dig.vle`); Reference management software (`dig.reference-managers`); Academic word processing (`dig.word-processing`); Translation tools in reading and drafting (`dig.machine-translation`); Digital collaboration tools (`dig.digital-collaboration`); File and version management (`dig.file-management`); Digital etiquette and online presence (`dig.digital-etiquette`); Editing and automated feedback tools (`dig.automated-feedback-tools`); Assistive technology and study adjustments (`dig.assistive-technology`); How generative AI works and fails (`gai.how-genai-works`); Using AI as a tutor and language-learning resource (`gai.language-support`); AI, authorship and voice (`gai.authorship-voice`); Limits of AI detection (`gai.detection-limits`); AI-assisted research tools (`gai.research-tools`); Privacy, data and intellectual property with AI (`gai.privacy-ip`); The language of science (`dse.scientific-language`); Language of experimentation (`dse.hypothesis-language`); Evidence-based practice (`dhl.evidence-based-practice`); Reflective practice writing in health (`dhl.reflective-practice`); Professional communication in health placements (`dhl.professional-communication`); Writing clinical reasoning (`dhl.clinical-reasoning-writing`); Business case analysis (`dbe.business-case-analysis`); Language of economic reasoning (`dbe.economic-reasoning`); Applying management frameworks critically (`dbe.critical-frameworks`); Language and genres of accounting and finance (`dbe.accounting-finance-discourse`); Legal language and register (`dlw.legal-language`); Reading and briefing cases (`dlw.case-reading`); Legal problem questions (`dlw.problem-questions`); Reading legislation (`dlw.statutes`); Legal essays (`dlw.legal-essays`); Legal research and dissertation writing (`dlw.legal-research-writing`); Working with concepts (`dss.operationalising-concepts`); Education and TESOL practice genres (`dss.education-practice-genres`); Close reading and textual analysis (`dhu.close-reading`); Interpretive argument (`dhu.interpretive-argument`); Studio critiques (`dad.studio-critique`); Artist and design statements (`dad.artist-statement`); Visual analysis (`dad.visual-analysis`); Practice-based research and exegesis (`dad.practice-research-exegesis`).
+
+### Revisit
+
+High-frequency vocabulary base (`voc.high-frequency-base`); Multi-word verbs and register (`voc.multiword-verbs-register`); Spelling conventions and consistency (`voc.spelling-conventions`); Collocation awareness (`phr.collocation-awareness`); Text-oriented lexical bundles (`phr.bundles-text-oriented`); Clause elements and sentence analysis (`grm.clause-elements`); Subject–verb agreement with complex subjects (`grm.subject-verb-agreement`); Determiners and quantifiers (`grm.determiners-quantifiers`); Defining and non-defining relative clauses (`grm.relative-clauses`); Subordination and adverbial clauses (`grm.subordination`); Existential 'there' constructions (`grm.existential-there`); Simple, compound and complex sentences (`sen.sentence-types`); Classifying and categorising (`fun.classifying`); Describing structures and systems (`fun.describing-structure`); Chronological narration (`fun.chronology-narration`); Automatic word recognition (`rdp.word-recognition`); Skimming for gist (`rds.skimming`); Scanning for specific information (`rds.scanning`); Using paragraph structure when reading (`rds.paragraph-structure-reading`); Tracking reference while reading (`rds.reference-tracking`); Segmenting the speech stream (`lis.word-segmentation`); Lecture structure and phases (`lis.lecture-structure`); Understanding spoken instructions and briefings (`lis.spoken-instructions`); Abbreviations and symbols (`ntk.abbreviations-symbols`); Generating ideas (`wpr.generating-ideas`); Formatting and presentation (`wpr.formatting`); The academic paragraph (`par.paragraph-unit`); Writing topic sentences (`par.topic-sentences`); Point–evidence–explanation–link structures (`par.peel`); Concluding and linking sentences (`par.concluding-sentences`); Paragraph length and division (`par.length-division`); Paragraph functions (`par.paragraph-functions`); Academic essay structure (`ess.essay-structure`); Revision, editing and proofreading (`edt.revision-editing-proofreading`); Summary–response paper (`ges.summary-response`); Expository essays organised by rhetorical pattern (`ges.expository-essays`); Types of visuals and their functions (`dat.visual-types`); Self-regulated learning and learner autonomy (`lrn.self-regulation`); Motivation and the L2 self (`lrn.motivation`); Metacognitive knowledge (`lrn.metacognitive-knowledge`).
 
 ## In-sessional (undergraduate)
 
-524 topics.
+59 core · 348 develop · 116 revisit.
 
-### Academic Language
+### Core
 
-- **Vocabulary of university study** (`voc.university-terminology`, B1–B2)
-- **Collocation awareness** (`phr.collocation-awareness`, B1–B2)
-- **Text-oriented lexical bundles** (`phr.bundles-text-oriented`, B1+–B2+)
-- **Register and situational variation** (`reg.register-awareness`, B1–B2+)
-- **Features of formal academic style** (`reg.formality-features`, B1–B2+)
-- **Fixed expressions, idioms and binomials** (`phr.fixed-expressions`, B2–C1)
-- **Myths and change in academic style** (`reg.style-myths-variation`, B2–C1)
-- **Clause elements and sentence analysis** (`grm.clause-elements`, B1–B2)
-- **Word families and derivational morphology** (`voc.word-families-morphology`, B1–B2+)
-- **Academic affixes and Greco-Latin roots** (`voc.affixes-roots`, B1+–C1)
-- **Core academic vocabulary** (`voc.core-academic-vocabulary`, B1+–C1) — *assumed:* `voc.high-frequency-base`
-- **Technical and discipline-specific terminology** (`voc.technical-terminology`, B1+–C1)
-- **Inferring word meaning from context** (`voc.inferring-from-context`, B1–B2+)
-- **Sub-technical vocabulary and polysemy** (`voc.subtechnical-polysemy`, B2–C1)
-- **Using learner and specialist dictionaries** (`voc.dictionary-use`, B1–B2)
-- **Lexical precision and near-synonyms** (`voc.precision-near-synonyms`, B2–C1)
-- **Evaluative vocabulary** (`voc.evaluative-lexis`, B2–C1)
-- **Deliberate vocabulary learning systems** (`voc.deliberate-learning-systems`, B1–B2+)
-- **Word grammar and complementation patterns** (`voc.word-grammar-patterns`, B1+–C1)
-- **Verbs for academic and research processes** (`voc.academic-verbs`, B1+–C1)
-- **Abstract and shell nouns** (`voc.abstract-shell-nouns`, B2–C1)
-- **Multi-word verbs and register** (`voc.multiword-verbs-register`, B1+–B2+)
-- **Moving vocabulary into productive use** (`voc.receptive-to-productive`, B1+–C1)
-- **Countability of academic nouns** (`voc.countability-academic-nouns`, B1–B2+)
-- **Spelling conventions and consistency** (`voc.spelling-conventions`, B1–B2)
-- **Assignment command words** (`voc.command-words`, B1–B2+)
-- **Academic abbreviations and Latin expressions** (`voc.abbreviations-latin`, B1–B2)
-- **Academic collocations** (`phr.academic-collocations`, B1+–C1)
-- **Verb–noun collocation accuracy** (`phr.verb-noun-collocation-accuracy`, B1+–C1)
-- **Consulting corpora for usage** (`phr.corpus-consultation`, B2–C1)
-- **Spoken versus written academic language** (`reg.spoken-vs-written`, B1+–C1)
-- **Spoken academic formulas** (`phr.spoken-academic-formulas`, B1+–C1)
-- **Noun-phrase premodification** (`grm.np-premodification`, B1+–C1)
-- **Determiners and quantifiers** (`grm.determiners-quantifiers`, B1–B2)
-- **Avoiding vague and overgeneralised language** (`reg.vague-overgeneralised`, B1–B2+)
-- **Tense and aspect in academic writing** (`grm.tense-aspect`, B1–B2+)
-- **Tense when reporting research** (`grm.tense-in-reporting`, B2–C1)
-- **Passive voice and agency** (`grm.passive-voice`, B1–C1)
-- **Impersonality and authorial presence** (`reg.impersonality-presence`, B2–C1)
-- **Disciplinary variation in style** (`reg.disciplinary-style`, B2+–C2)
-- **Epistemic modal verbs** (`grm.epistemic-modality`, B1+–C1)
-- **Defining and non-defining relative clauses** (`grm.relative-clauses`, B1–B2+)
-- **Subordination and adverbial clauses** (`grm.subordination`, B1–B2) — *assumed:* `sen.sentence-types`
-- **Conditionals and hypothetical reasoning** (`grm.conditionals`, B1+–B2+)
-- **Non-finite clauses** (`grm.non-finite-clauses`, B2–C1)
-- **Coordination and parallel structure** (`grm.coordination-parallelism`, B1+–B2+) — *assumed:* `sen.sentence-types`
-- **That-clauses and wh-clauses** (`grm.complement-clauses`, B1+–B2+) — *assumed:* `sen.sentence-types`
-- **Anticipatory 'it' and extraposition** (`grm.anticipatory-it`, B1+–C1)
-- **Stance and engagement bundles** (`phr.bundles-stance`, B2–C1)
-- **Using phrasebanks critically** (`phr.phrasebank-use`, B1+–C1)
-- **Existential 'there' constructions** (`grm.existential-there`, B1–B2)
-- **Comparative structures** (`grm.comparison-structures`, B1–B2+)
-- **Prepositions and complex prepositions** (`grm.prepositions`, B1–C1)
-- **Noun-phrase postmodification** (`grm.np-postmodification`, B1+–C1)
-- **Research-oriented lexical bundles** (`phr.bundles-research-oriented`, B2–C1)
-- **Subject–verb agreement with complex subjects** (`grm.subject-verb-agreement`, B1–B2+)
-- **Nominalisation and grammatical metaphor** (`grm.nominalisation`, B2–C1)
-- **Information density and readability** (`reg.information-density`, B2–C2)
-- **Writing and speaking for non-specialist audiences** (`reg.non-specialist-audiences`, B2+–C2)
-- **Phrasal versus clausal complexity** (`grm.phrasal-complexity`, B2–C1)
-- **Articles in academic writing** (`grm.articles`, B1–C1)
-- **Cleft and pseudo-cleft sentences** (`grm.clefts-emphasis`, B2+–C1)
-- **Fronting and inversion** (`grm.fronting-inversion`, B2+–C1)
-- **Reporting structures** (`grm.reporting-structures`, B1+–C1)
-- **Pronoun and demonstrative reference** (`grm.reference-pronouns`, B1+–B2+)
-- **Inclusive and bias-free language** (`reg.inclusive-language`, B2–C1)
-- **Ellipsis and substitution** (`grm.ellipsis-substitution`, B2–C1)
-- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, B1–C1)
-- **Sentence boundaries** (`sen.sentence-boundaries`, B1–B2) — *assumed:* `sen.sentence-types`
-- **Commas in academic prose** (`sen.commas`, B1–B2+)
-- **Semicolons and colons** (`sen.semicolons-colons`, B1+–B2+)
-- **Placement and punctuation of linking adverbials** (`grm.linking-adverbial-placement`, B1+–B2+)
-- **Apostrophes, hyphens and dashes** (`sen.apostrophes-hyphens-dashes`, B1–B2+)
-- **Capitalisation conventions** (`sen.capitalisation`, B1–B2)
-- **Punctuating quotations and brackets** (`sen.quotation-punctuation`, B1+–B2+)
-- **Sentence length and variety** (`sen.sentence-length-variety`, B2–C1)
-- **Concision** (`sen.concision`, B2–C1)
-- **Clarity and end-weight** (`sen.clarity-end-weight`, B2+–C1)
-- **Writing numbers, units and symbols in text** (`sen.numbers-units-style`, B1+–B2+)
-- **Lists and bullet points** (`sen.lists-bullets`, B1+–B2)
+#### Academic Language
 
-### Academic Discourse
+- **Impersonality and authorial presence** (`reg.impersonality-presence`, core band B2+) — *assumed:* `grm.passive-voice`
+- **Nominalisation and grammatical metaphor** (`grm.nominalisation`, core band B2+) — *assumed:* `voc.word-families-morphology`, `grm.np-postmodification`
+- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, core band B1+)
 
-- **Cohesion versus coherence** (`coh.cohesion-vs-coherence`, B1–B2+)
-- **Lexical cohesion and reference chains** (`coh.lexical-cohesion`, B1+–C1)
-- **Linking adverbials and connectors** (`coh.linking-adverbials`, B1–C1)
-- **Precise logical relations** (`coh.connector-precision`, B2–C1)
-- **Given–new information structure** (`coh.given-new`, B2–C1)
-- **Thematic progression** (`coh.thematic-progression`, B2–C1)
-- **Encapsulation with signalling nouns** (`coh.signalling-nouns`, B2–C1)
-- **Text structure patterns** (`coh.text-patterns`, B1+–C1)
-- **Transitions between paragraphs and sections** (`coh.paragraph-transitions`, B2–C1)
-- **Terminological consistency** (`coh.terminological-consistency`, B2–C1)
-- **Reader and writer responsibility** (`coh.writer-responsibility`, B1+–B2+)
-- **Frame markers and advance organisers** (`coh.frame-markers`, B1+–C1)
-- **Signposting in spoken academic discourse** (`coh.spoken-signposting`, B1+–C1)
-- **Hedging devices** (`sta.hedging`, B1+–C2)
-- **Metadiscourse** (`sta.metadiscourse`, B2–C1)
-- **Boosters** (`sta.boosters`, B1+–C1)
-- **Calibrating claims to evidence** (`sta.claim-calibration`, B2–C2)
-- **Attitude markers** (`sta.attitude-markers`, B2–C1)
-- **Self-mention and authorial roles** (`sta.self-mention`, B2–C2)
-- **Reader engagement** (`sta.engagement-markers`, B2+–C1)
-- **Averral versus attribution** (`sta.averral-attribution`, B2–C1)
-- **Authorial voice** (`sta.authorial-voice`, B2+–C2)
-- **Language of concession and counter-argument** (`sta.concession-language`, B2–C1)
-- **Dialogic positioning (engagement)** (`sta.dialogic-positioning`, B2+–C2)
-- **Generalising and qualifying** (`sta.generalisation-qualification`, B1+–C1)
-- **Expressing stance in speech** (`sta.spoken-stance`, B1+–C1)
-- **Defining terms** (`fun.defining`, B1–C1)
-- **Classifying and categorising** (`fun.classifying`, B1–B2+)
-- **Describing processes and procedures** (`fun.describing-process`, B1–B2+)
-- **Describing structures and systems** (`fun.describing-structure`, B1–B2+)
-- **Comparing and contrasting** (`fun.comparing-contrasting`, B1–C1)
-- **Expressing cause and effect** (`fun.cause-effect`, B1+–C1)
-- **Exemplifying and illustrating** (`fun.exemplifying`, B1+–B2+)
-- **Code glosses and exemplification** (`sta.code-glosses`, B1+–C1)
-- **Explaining and justifying** (`fun.explaining`, B1+–C1)
-- **Predicting and hypothesising** (`fun.hypothesising`, B1+–C1)
-- **Summarising and concluding** (`fun.summarising-concluding`, B1+–C1)
-- **Chronological narration** (`fun.chronology-narration`, B1–B2+)
-- **Evaluating strengths, weaknesses and significance** (`fun.evaluating`, B1+–C1)
-- **Language for evaluating others' work** (`sta.evaluating-others-language`, B2+–C2)
-- **Problem, solution and evaluation** (`fun.problem-solution`, B1+–C1)
-- **Recommending** (`fun.recommending`, B1+–C1)
+#### Academic Discourse
 
-### Academic Reading
+- **Transitions between paragraphs and sections** (`coh.paragraph-transitions`, core band B2) — *assumed:* `par.topic-sentences`
+- **Calibrating claims to evidence** (`sta.claim-calibration`, core band B2+) — *assumed:* `sta.hedging`, `sta.boosters`
+- **Averral versus attribution** (`sta.averral-attribution`, core band B2)
+- **Authorial voice** (`sta.authorial-voice`, core band C1)
+- **Evaluating strengths, weaknesses and significance** (`fun.evaluating`, core band B2) — *assumed:* `crt.description-analysis-evaluation`
 
-- **Reading as an interactive process** (`rdp.interactive-reading`, B1–B2+)
-- **Automatic word recognition** (`rdp.word-recognition`, B1–B2+) — *assumed:* `voc.high-frequency-base`
-- **Extensive reading** (`rdp.extensive-reading`, B1–C1)
-- **Reading fluency and rate** (`rdp.reading-fluency-rate`, B1–C1)
-- **Reading with a purpose** (`rdp.reading-purpose`, B1–B2+)
-- **Parsing complex academic sentences** (`rdp.parsing-complex-sentences`, B1+–C1)
-- **Background knowledge and schemata** (`rdp.background-knowledge`, B1–C1)
-- **Managing reading load** (`rdp.managing-reading-load`, B1+–C1)
-- **Previewing and surveying** (`rds.previewing`, B1–B2)
-- **Skimming for gist** (`rds.skimming`, B1–B2)
-- **Identifying main ideas and supporting detail** (`rds.main-ideas`, B1–B2+) — *assumed:* `rds.paragraph-structure-reading`
-- **Recognising text organisation** (`rds.text-organisation`, B1+–C1)
-- **Navigating research articles** (`rds.research-article-navigation`, B2–C1)
-- **Tracking reference while reading** (`rds.reference-tracking`, B1–B2+)
-- **Making inferences** (`rds.inference`, B1+–C1)
-- **Distinguishing fact, opinion, claim and evidence** (`rds.fact-opinion-claim`, B1–B2+)
-- **Identifying writer stance and attributed views** (`rds.writer-stance`, B2–C1)
-- **Monitoring comprehension** (`rds.comprehension-monitoring`, B1–C1)
-- **Strategic use of first language and translation in reading** (`rdp.plurilingual-reading`, B1–C1)
-- **Purposeful annotation** (`rds.annotation`, B1–B2+)
-- **Reading on screen** (`rdp.digital-reading`, B1–C1)
-- **Reading textbooks** (`rds.textbook-reading`, B1–B2)
-- **Integrating text and visuals** (`rds.visuals-in-text`, B1+–C1)
-- **What critical reading involves** (`rdc.critical-reading`, B1+–C1)
-- **Identifying arguments in texts** (`rdc.argument-identification`, B1+–C1)
-- **Evaluating evidence in texts** (`rdc.evidence-evaluation`, B2–C1)
-- **Identifying assumptions and values** (`rdc.assumptions`, B2–C1)
-- **Recognising bias and perspective** (`rdc.bias-perspective`, B2–C1)
-- **Reading methods critically** (`rdc.methods-critique`, B2+–C1)
-- **Reading across multiple texts** (`rdc.multiple-texts`, B2–C1)
-- **Reading for a writing task** (`rdc.reading-for-writing`, B1+–C1)
-- **Mapping a body of literature** (`rdc.literature-mapping`, B2+–C2)
-- **Reading theoretical and conceptual texts** (`rdc.theoretical-texts`, B2+–C2)
-- **Generating critical questions** (`rdc.critical-questions`, B1+–C1)
-- **Formulating a critical response** (`rdc.critical-response`, B1+–C1)
+#### Academic Reading
 
-### Academic Listening
+- **Managing reading load** (`rdp.managing-reading-load`, core band B2+) — *assumed:* `rdp.reading-purpose`
+- **Identifying writer stance and attributed views** (`rds.writer-stance`, core band B2+)
+- **Evaluating evidence in texts** (`rdc.evidence-evaluation`, core band B2+) — *assumed:* `rdc.argument-identification`, `crt.evidence-types`
+- **Reading across multiple texts** (`rdc.multiple-texts`, core band B2+) — *assumed:* `rdc.argument-identification`
+- **Formulating a critical response** (`rdc.critical-response`, core band B2) — *assumed:* `crt.questioning`
 
-- **Listening processes: decoding and meaning-building** (`lis.listening-processes`, B1–B2)
-- **Recognising connected speech** (`lis.connected-speech`, B1–B2+) — *assumed:* `voc.high-frequency-base`
-- **Segmenting the speech stream** (`lis.word-segmentation`, B1–B2+)
-- **Understanding varied accents** (`lis.accent-variation`, B1+–C1)
-- **Lecture structure and phases** (`lis.lecture-structure`, B1–B2)
-- **Lecture discourse markers** (`lis.lecture-discourse-markers`, B1–B2+)
-- **Emphasis and relevance markers** (`lis.relevance-markers`, B1+–C1)
-- **Preparing for lectures** (`lis.pre-listening-preparation`, B1–B2+)
-- **Metacognitive listening strategies** (`lis.metacognitive-listening`, B1–B2+)
-- **Coping with natural speech rate** (`lis.speech-rate`, B1+–C1)
-- **Identifying main points and supporting detail** (`lis.main-points`, B1–C1)
-- **Handling digressions and asides** (`lis.digressions`, B2–C1)
-- **Inferring speaker stance** (`lis.speaker-stance`, B2–C1)
-- **Following multi-party discussion** (`lis.multi-party-discussion`, B2–C1)
-- **Integrating slides, visuals and speech** (`lis.multimodal-lectures`, B1+–B2+)
-- **Understanding spoken instructions and briefings** (`lis.spoken-instructions`, B1–B2)
-- **Listening to academic media** (`lis.academic-media`, B2–C1)
-- **Functions of notes** (`ntk.functions-of-notes`, B1–B2)
-- **Selecting what to note** (`ntk.selecting-content`, B1–B2+)
-- **Note formats** (`ntk.note-formats`, B1–B2+)
-- **Taking notes in lectures** (`ntk.lecture-notes`, B1+–C1)
-- **Using lecture capture strategically** (`lis.recorded-lectures`, B1+–B2+)
-- **Making notes from reading** (`ntk.notes-from-reading`, B1+–C1)
-- **Reviewing and reworking notes** (`ntk.reviewing-notes`, B1+–B2+)
-- **Digital and handwritten note-taking** (`ntk.digital-notes`, B1+–B2+)
-- **Collaborative notes** (`ntk.collaborative-notes`, B2–C1)
+#### Academic Listening & Note-making
 
-### Academic Speaking
+- **Making notes from reading** (`ntk.notes-from-reading`, core band B2) — *assumed:* `ntk.selecting-content`
 
-- **Purposes and expectations of seminars** (`sem.seminar-purposes`, B1–B2)
-- **Preparing for seminars** (`sem.preparation`, B1–B2+)
-- **Turn-taking and taking the floor** (`sem.turn-taking`, B1+–C1)
-- **Expressing and justifying views** (`sem.opinions`, B1–B2+)
-- **Agreeing and disagreeing** (`sem.agreeing-disagreeing`, B1+–C1)
-- **Asking questions and seeking clarification** (`sem.questions-clarification`, B1–C1)
-- **Referring to readings and evidence in discussion** (`sem.citing-in-speech`, B2–C1)
-- **Managing speaking anxiety and willingness to communicate** (`sem.speaking-anxiety`, B1–C1)
-- **Structured academic debate** (`sem.debate`, B2–C1)
-- **Purpose and audience analysis** (`prs.purpose-audience`, B1–C1)
-- **Structuring a presentation** (`prs.structure`, B1–B2+)
-- **Opening a presentation** (`prs.openings`, B1+–C1)
-- **Signposting in presentations** (`prs.signposting`, B1–B2+)
-- **Designing slides** (`prs.slide-design`, B1+–C1)
-- **Non-verbal communication** (`prs.nonverbal`, B1–B2+)
-- **Intelligibility, comprehensibility and accent** (`prn.intelligibility`, B1–B2+)
-- **Word stress in academic vocabulary** (`prn.word-stress`, B1–C1)
-- **Thought groups and pausing** (`prn.thought-groups`, B1–B2+)
-- **Sentence stress and prominence** (`prn.prominence`, B1+–C1)
-- **Intonation for discourse functions** (`prn.intonation`, B2–C1)
-- **Vocal delivery** (`prs.delivery-voice`, B1–C1)
-- **Prioritised segmental features** (`prn.segmental-priorities`, B1–C1)
-- **Connected speech in production** (`prn.connected-speech-production`, B1+–C1)
-- **Pronouncing technical terms and names** (`prn.technical-terms`, B1+–C1)
-- **Self-repair and reformulation** (`prn.repair`, B1–B2+)
-- **Checking and confirming understanding** (`sem.checking-understanding`, B1+–B2+)
-- **Building on others' contributions** (`sem.building-on-others`, B2–C1)
-- **Summarising discussion** (`sem.summarising-discussion`, B2–C1)
-- **Synchronous online discussion** (`sem.online-discussion`, B1+–C1)
-- **Handling questions** (`prs.handling-questions`, B2–C1)
-- **Developing speech fluency** (`prn.fluency`, B1–C1)
-- **Speaking from notes** (`prs.speaking-from-notes`, B1–B2+)
-- **Recorded and online presentations** (`prs.recorded-online`, B1+–C1)
-- **Rehearsal and timing** (`prs.rehearsal-timing`, B1–B2+)
-- **Saying numbers, formulae and symbols aloud** (`prn.numbers-aloud`, B1–B2+)
-- **Talking about visuals and data** (`prs.explaining-visuals`, B1+–C1)
-- **Poster presentations** (`prs.posters`, B2–C1)
-- **Purposes of group work** (`grw.purposes`, B1–B2)
-- **Roles and planning** (`grw.roles-planning`, B1+–B2+)
-- **Group presentations** (`prs.group-presentations`, B1+–B2+)
-- **Managing disagreement and conflict** (`grw.conflict`, B2–C1)
-- **Inclusive collaboration in multilingual groups** (`grw.inclusive-collaboration`, B1+–C1)
-- **Facilitating discussion** (`sem.facilitating`, B2+–C1)
-- **Running group meetings** (`grw.meetings`, B2–C1)
-- **Collaborative writing** (`grw.collaborative-writing`, B2–C1)
-- **Assessing contributions** (`grw.contribution-assessment`, B1+–B2+)
+#### Academic Speaking
 
-### Academic Writing
+- **Building on others' contributions** (`sem.building-on-others`, core band B2) — *assumed:* `sem.opinions`
+- **Group presentations** (`prs.group-presentations`, core band B1+) — *assumed:* `prs.signposting`, `grw.roles-planning`
+- **Collaborative writing** (`grw.collaborative-writing`, core band B2) — *assumed:* `grw.roles-planning`
 
-- **Writing as a recursive process** (`wpr.writing-process`, B1–B2+)
-- **Integrating reading into writing** (`wpr.reading-to-write`, B1+–C1)
-- **Audience and purpose** (`wpr.audience-purpose`, B1–C1)
-- **Analysing assignment tasks** (`wpr.task-analysis`, B1–C1)
-- **Generating ideas** (`wpr.generating-ideas`, B1–B2)
-- **Planning and outlining** (`wpr.planning-outlining`, B1–C1)
-- **Drafting** (`wpr.drafting`, B1–B2+)
-- **Overcoming writing blocks** (`wpr.writing-blocks`, B1+–C1)
-- **Using the first language in composing** (`wpr.l1-in-composing`, B1–B2+)
-- **Working within word limits** (`wpr.word-limits`, B1+–B2+)
-- **Managing extended writing projects** (`wpr.managing-long-projects`, B2–C1)
-- **Formatting and presentation** (`wpr.formatting`, B1–B2)
-- **Writing topic sentences** (`par.topic-sentences`, B1–B2+) — *assumed:* `par.paragraph-unit`
-- **Developing support** (`par.support`, B1–C1)
-- **Internal paragraph coherence** (`par.internal-coherence`, B1+–C1)
-- **Paragraph length and division** (`par.length-division`, B1+–B2+) — *assumed:* `par.paragraph-unit`
-- **Integrating sources in paragraphs** (`par.integrating-evidence`, B1+–C1)
-- **Thesis statements** (`ess.thesis-statement`, B1+–C1) — *assumed:* `ess.essay-structure`
-- **Writing introductions** (`ess.introductions`, B1+–C1)
-- **Writing conclusions** (`ess.conclusions`, B1+–C1)
-- **Organising the essay body** (`ess.body-organisation`, B1+–C1)
-- **Answering the question** (`ess.answering-question`, B1–C1)
-- **Essay types** (`ess.essay-types`, B1+–B2+) — *assumed:* `ess.essay-structure`
-- **Headings and sections** (`ess.headings`, B2–B2+)
-- **Depth versus breadth** (`ess.depth-focus`, B2–C1)
-- **Demonstrating criticality in essays** (`ess.criticality`, B2–C1)
-- **Writing titles** (`ess.titles`, B2–C1)
-- **Revision, editing and proofreading** (`edt.revision-editing-proofreading`, B1–B2)
-- **Global revision** (`edt.global-revision`, B1+–C1)
-- **Reverse outlining** (`edt.reverse-outlining`, B2–C1)
-- **Editing for style and clarity** (`edt.style-editing`, B2–C1)
-- **Editing for grammatical accuracy** (`edt.grammar-editing`, B1–C1)
-- **Proofreading** (`edt.proofreading`, B1–B2+)
-- **Self-assessing drafts against criteria** (`edt.criteria-self-assessment`, B1+–C1)
-- **Peer review of drafts** (`edt.peer-review`, B1+–C1)
-- **Using editing tools critically** (`edt.editing-tools`, B1–B2+)
-- **Acceptable third-party proofreading** (`edt.proofreading-ethics`, B1+–B2+)
+#### Academic Writing
 
-### Sources & Academic Integrity
+- **Analysing and answering assignment and exam tasks** (`wpr.task-analysis`, core band B1+) — *assumed:* `voc.command-words`
+- **Reading to write: from task to source-based text** (`wpr.reading-to-write`, core band B2)
+- **Integrating sources in paragraphs** (`par.integrating-evidence`, core band B2) — *assumed:* `par.support`, `src.reporting-verbs`
+- **Demonstrating criticality in essays** (`ess.criticality`, core band B2+) — *assumed:* `crt.description-analysis-evaluation`
 
-- **Types of sources** (`inf.source-types`, B1–B2)
-- **How scholarly knowledge is produced** (`inf.scholarly-communication`, B1+–C1)
-- **Focusing a topic for searching** (`inf.research-question`, B1+–B2+)
-- **Search strategies** (`inf.search-strategies`, B1+–B2+)
-- **Library catalogues, databases and discovery tools** (`inf.databases`, B1+–B2+)
-- **Evaluating sources** (`inf.source-evaluation`, B1+–C1)
-- **Lateral reading** (`inf.lateral-reading`, B1+–B2+)
-- **Recording searches and sources** (`inf.search-records`, B1+–B2+)
-- **Open access and legal access** (`inf.open-access`, B2–C1)
-- **Predatory publishing, retractions and misinformation** (`inf.problematic-publishing`, B2–C1)
-- **Functions of sources in academic writing** (`src.source-functions`, B1+–C1)
-- **Quoting** (`src.quoting`, B1–B2)
-- **Paraphrasing techniques** (`src.paraphrase-techniques`, B1+–B2+)
-- **Why academics cite** (`cit.why-cite`, B1–B2)
-- **When to cite** (`cit.when-to-cite`, B1+–C1)
-- **Paraphrasing** (`src.paraphrasing`, B1+–C1)
-- **Signal phrases and attribution** (`src.signal-phrases`, B1–B2)
-- **Integrating quotations** (`src.integrating-quotations`, B1+–B2+)
-- **Summarising a passage** (`src.summarising-passage`, B1–B2)
-- **Reporting verbs** (`src.reporting-verbs`, B1+–C1)
-- **Summarising a whole text** (`src.summarising-text`, B1+–C1)
-- **Distinguishing own voice from source voice** (`src.voice-boundaries`, B1+–C1)
-- **What synthesis is** (`syn.synthesis-concept`, B1+–B2+)
-- **Synthesis matrices** (`syn.synthesis-matrix`, B1+–B2+)
-- **Grouping sources thematically** (`syn.thematic-grouping`, B2–C1)
-- **Writing relationships between sources** (`syn.relating-sources`, B2–C1)
-- **Identifying gaps and tensions** (`syn.gaps-tensions`, B2+–C2)
-- **Integrated source-based tasks** (`syn.integrated-tasks`, B1+–B2+)
-- **Referencing systems and style guides** (`cit.referencing-systems`, B1+–B2+)
-- **Citation chaining** (`inf.citation-chaining`, B2–C1)
-- **Systematic and scoping searching** (`inf.systematic-searching`, B2+–C1)
-- **In-text citation: author–date** (`cit.author-date-in-text`, B1–B2)
-- **Integral and non-integral citation** (`src.citation-forms`, B2–C1)
-- **Writing synthesis paragraphs** (`syn.synthesis-paragraphs`, B2–C1)
-- **Numeric citation systems** (`cit.numeric`, B1+–B2+)
-- **Compiling a reference list** (`cit.reference-list`, B1–B2+)
-- **Secondary citation** (`src.secondary-citation`, B1+–B2)
-- **Using sources in other languages** (`src.multilingual-sources`, B2–C1)
-- **Note-based citation** (`cit.note-based`, B2–C1)
-- **Citing diverse source types** (`cit.diverse-sources`, B2–C1)
-- **Page numbers and locators** (`cit.locators`, B1+–B2)
-- **Citation accuracy and consistency** (`cit.accuracy-consistency`, B1+–C1)
-- **Rhetorical functions of citation** (`cit.citation-functions`, B2+–C2)
-- **Disciplinary variation in citation** (`cit.disciplinary-citation`, B2+–C2)
-- **Values of academic integrity** (`int.integrity-values`, B1–B2+)
-- **Understanding plagiarism** (`int.plagiarism`, B1–C1)
-- **Patchwriting** (`src.patchwriting`, B1+–C1)
-- **Reusing one's own work** (`int.recycling-own-work`, B2–C1)
-- **Collusion and legitimate collaboration** (`int.collusion`, B1+–B2+)
-- **Contract cheating** (`int.contract-cheating`, B1+–B2+)
-- **Interpreting similarity reports** (`int.similarity-reports`, B1+–C1)
-- **Integrity policies and processes** (`int.policy-processes`, B1+–C1)
-- **Managing integrity risk under pressure** (`int.pressure-risks`, B1+–B2+)
-- **Research integrity** (`int.research-integrity`, B2–C1)
+#### Sources & Academic Integrity
 
-### Argument & Critical Thinking
+- **Library catalogues, databases and discovery tools** (`inf.databases`, core band B2) — *assumed:* `inf.search-strategies`
+- **Distinguishing own voice from source voice** (`src.voice-boundaries`, core band B2) — *assumed:* `src.reporting-verbs`
+- **Writing relationships between sources** (`syn.relating-sources`, core band B2) — *assumed:* `syn.thematic-grouping`
+- **Writing synthesis paragraphs** (`syn.synthesis-paragraphs`, core band B2) — *assumed:* `par.topic-sentences`
+- **Citing diverse source types** (`cit.diverse-sources`, core band B2+) — *assumed:* `cit.reference-list`
+- **Rhetorical functions of sources and citation** (`cit.citation-functions`, core band B2+)
 
-- **Critical thinking in academic contexts** (`crt.concept`, B1+–C1)
-- **Description, analysis and evaluation** (`crt.description-analysis-evaluation`, B1+–B2+)
-- **Critical questioning** (`crt.questioning`, B1+–C1)
-- **Types and strength of evidence** (`crt.evidence-types`, B1+–C1)
-- **Correlation and causation** (`crt.correlation-causation`, B2–C1)
-- **Cognitive biases** (`crt.cognitive-biases`, B2–C1)
-- **Considering multiple perspectives** (`crt.multiple-perspectives`, B1+–C1)
-- **Beliefs about knowledge** (`crt.epistemic-beliefs`, B1+–C1)
-- **Applying theory to cases** (`crt.applying-theory`, B1+–C1)
-- **Analytical problem-solving** (`crt.problem-solving`, B1+–C1)
-- **Reflexivity and positionality** (`crt.reflexivity`, B2+–C2)
-- **What counts as an academic argument** (`arg.argument-concept`, B1–B2+)
-- **Deductive, inductive and abductive reasoning** (`crt.reasoning-types`, B2–C1)
-- **Recognising fallacies** (`crt.fallacies`, B2–C1)
-- **Evaluating theories and models** (`crt.evaluating-theories`, B2+–C2)
-- **Types of claims** (`arg.claim-types`, B1+–C1)
-- **Toulmin model of argument** (`arg.toulmin`, B2–C1)
-- **Supporting claims** (`arg.supporting-claims`, B1–C1)
-- **Making reasoning explicit** (`arg.warrants`, B2–C1)
-- **Anticipating counter-arguments** (`arg.counterarguments`, B1+–C1)
-- **Rebuttal and concession** (`arg.rebuttal-concession`, B2–C1)
-- **Taking and sustaining a position** (`arg.position`, B1+–C1)
-- **Rhetorical appeals** (`arg.rhetorical-appeals`, B1+–C1)
-- **Argument mapping** (`arg.argument-mapping`, B1+–C1)
-- **Structuring an extended argument** (`arg.extended-argument`, B2–C2)
-- **Arguing orally** (`arg.oral-argument`, B2–C1)
-- **Exploratory and adversarial argument** (`arg.exploratory-adversarial`, B2–C1)
-- **Evaluating arguments** (`arg.evaluating-arguments`, B2–C2)
-- **Academic and writer identity** (`idn.academic-identity`, B2–C2)
-- **Intercultural rhetoric** (`idn.intercultural-rhetoric`, B2–C1)
-- **Linguistic diversity as resource** (`idn.diversity-as-resource`, B1–C1)
-- **Drawing on a plurilingual repertoire** (`idn.plurilingual-repertoire`, B1–C1)
-- **English as a lingua franca in academia** (`idn.elf`, B1+–C1)
-- **Intercultural communication** (`idn.intercultural-communication`, B1+–C1)
-- **Standards, native-speakerism and legitimacy** (`idn.standards-legitimacy`, B2–C2)
+#### Argument & Critical Thinking
 
-### Academic Genres
+- **Critical thinking in academic contexts** (`crt.concept`, core band B2)
+- **Applying theory to cases** (`crt.applying-theory`, core band B2) — *assumed:* `crt.description-analysis-evaluation`
+- **Making reasoning explicit** (`arg.warrants`, core band B2+) — *assumed:* `arg.toulmin`, `arg.supporting-claims`
+- **Structuring an extended argument** (`arg.extended-argument`, core band C1) — *assumed:* `arg.position`
+- **Evaluating arguments** (`arg.evaluating-arguments`, core band C1)
 
-- **Genre and discourse community** (`ges.genre-concept`, B1+–C1)
-- **Analysing genres independently** (`ges.genre-analysis`, B1+–C1)
-- **Genre families in university assessment** (`ges.genre-families`, B1+–B2+)
-- **Argumentative essay** (`ges.argumentative-essay`, B1+–C1)
-- **Discussion essay** (`ges.discussion-essay`, B1–B2+)
-- **Compare-and-contrast essay** (`ges.compare-contrast-essay`, B1–B2+)
-- **Explanation and cause–effect essay** (`ges.explanation-essay`, B1–B2+)
-- **Problem–solution essay** (`ges.problem-solution-essay`, B1–B2+)
-- **Examination essay** (`ges.exam-essay`, B1+–C1)
-- **Short-answer responses** (`ges.short-answer`, B1–B2+)
-- **Reflective writing** (`ges.reflective-writing`, B1+–C1)
-- **Annotated bibliography** (`ges.annotated-bibliography`, B1+–B2+)
-- **Literature review assignment** (`ges.literature-review-assignment`, B2–C1)
-- **Summary–response paper** (`ges.summary-response`, B1+–B2+)
-- **Critical review of an article** (`ges.critique`, B2–C1)
-- **Book review** (`ges.book-review`, B2+–C1)
-- **Report conventions** (`grp.report-conventions`, B1+–B2+)
-- **Laboratory report** (`grp.lab-report`, B1+–C1)
-- **Empirical project report** (`grp.empirical-project-report`, B2–C1)
-- **Case study analysis** (`grp.case-study`, B1+–C1)
-- **Business report** (`grp.business-report`, B1+–C1)
-- **Technical and design report** (`grp.technical-design-report`, B2–C1)
-- **Project proposal (student)** (`grp.project-proposal`, B2–C1)
-- **Executive summary** (`grp.executive-summary`, B2–C1)
-- **Policy brief** (`grp.policy-brief`, B2+–C1)
-- **Professional practice portfolio** (`grp.professional-portfolio`, B2–C1)
-- **Academic blogs and public-facing writing** (`grp.public-writing`, B2+–C1)
-- **Undergraduate and master's dissertation** (`grp.dissertation-overview`, B2+–C1)
-- **Abstracts for student work** (`grp.student-abstract`, B2–C1)
+#### Academic Genres
 
-### Research Communication
+- **Examination essay** (`ges.exam-essay`, core band B2)
+- **Critical review of an article** (`ges.critique`, core band B2) — *assumed:* `sta.evaluating-others-language`
+- **Reflective writing** (`ges.reflective-writing`, core band B2)
+- **Undergraduate and master's dissertation** (`grp.dissertation-overview`, core band B2+) — *assumed:* `ges.literature-review-assignment`
 
-- **IMRaD and its variants** (`res.imrad`, B2–C1)
-- **Methods sections** (`res.methods`, B2+–C1)
-- **Results sections** (`res.results`, B2+–C1)
-- **Research abstracts** (`res.abstracts`, B2+–C1)
-- **Writing about limitations** (`res.limitations`, B2+–C1)
-- **Discussion sections** (`res.discussion`, B2+–C2)
-- **Conclusions and implications** (`res.conclusions-implications`, B2+–C1) — *assumed:* `res.contribution`
-- **Research questions and hypotheses** (`res.research-questions`, B2+–C1)
-- **Establishing a research gap** (`res.gap-niche`, B2+–C1)
-- **Research article introductions** (`res.introductions-cars`, B2+–C2)
-- **Literature review in research writing** (`res.literature-review`, B2+–C2)
-- **Reporting qualitative findings** (`res.qualitative-reporting`, B2+–C1)
-- **Reporting quantitative findings** (`res.quantitative-reporting`, B2+–C1)
-- **Ethics applications and participant documents** (`res.ethics-documentation`, B2+–C1)
-- **Working with supervisors** (`res.supervision`, B2+–C1)
-- **Academic CVs, biographies and personal statements** (`pub.academic-cv-bio`, B2–C1)
+#### Data, Numeracy & Multimodality
 
-### Data, Numeracy & Multimodality
+- **Figure and table captions** (`dat.captions-labelling`, core band B2)
+- **Referring to visuals in text** (`dat.referring-to-visuals`, core band B2)
+- **Data commentary** (`dat.data-commentary`, core band B2+) — *assumed:* `dat.describing-trends`, `dat.describing-proportions`
 
-- **Types of visuals and their functions** (`dat.visual-types`, B1–B2)
-- **Describing processes, diagrams and maps** (`dat.describing-diagrams`, B1+–B2+)
-- **Figure and table captions** (`dat.captions-labelling`, B1+–C1)
-- **Referring to visuals in text** (`dat.referring-to-visuals`, B1+–C1)
-- **Expressing quantities accurately** (`num.number-expressions`, B1–B2)
-- **Reading graphs and charts** (`dat.reading-graphs`, B1–B2+)
-- **Reading tables** (`dat.reading-tables`, B1–B2+)
-- **Describing trends and change** (`dat.describing-trends`, B1–B2+)
-- **Describing proportions and comparisons** (`dat.describing-proportions`, B1+–B2+)
-- **Data commentary** (`dat.data-commentary`, B2–C1)
-- **Recognising misleading visuals** (`dat.misleading-visuals`, B2–C1)
-- **Creating effective visuals** (`dat.creating-visuals`, B2–C1)
-- **Approximation and precision** (`num.approximation`, B1+–C1)
-- **Basic statistical vocabulary** (`num.statistical-vocabulary`, B1+–C1)
-- **Relative and absolute change** (`num.relative-absolute`, B2–C1)
-- **Interpreting statistical claims** (`num.interpreting-statistics`, B2+–C1)
-- **Units and measurement** (`num.units-measurement`, B1–B2+)
-- **Language of mathematical expression** (`num.mathematical-expression`, B1+–C1)
-- **Multimodal literacy** (`mmd.multimodal-literacy`, B1+–C1)
-- **Designing academic posters** (`mmd.poster-design`, B2–C1)
-- **Infographics and visual summaries** (`mmd.infographics`, B2–C1)
-- **Video essays and digital assessments** (`mmd.digital-assessments`, B1+–C1)
-- **Accessible academic documents** (`mmd.accessibility`, B1+–C1)
+#### Assessment & Progression
 
-### Learning & Autonomy
+- **Interpreting marking criteria** (`fbk.marking-criteria`, core band B2) — *assumed:* `fbk.assessment-literacy`
+- **Acting on feedback** (`fbk.acting-on-feedback`, core band B2) — *assumed:* `fbk.feedback-literacy`
+- **Timed writing** (`exm.timed-writing`, core band B2) — *assumed:* `wpr.planning-outlining`
 
-- **Motivation and the L2 self** (`lrn.motivation`, B1–C1)
-- **Metacognitive knowledge** (`lrn.metacognitive-knowledge`, B1–C1)
-- **Self-regulated learning** (`lrn.self-regulation`, B1–C1)
-- **Setting language and academic goals** (`lrn.goal-setting`, B1–B2+)
-- **Time and workload management** (`lrn.time-management`, B1–B2)
-- **Evidence-based study techniques** (`lrn.study-techniques`, B1–B2)
-- **Learner autonomy** (`lrn.autonomy`, B1–C1)
-- **Independent study** (`lrn.independent-study`, B1–B2+)
-- **Language learning strategies** (`lrn.language-learning-strategies`, B1–C1)
-- **Reflective learning logs** (`lrn.reflective-logs`, B1–B2+)
-- **Using academic support services** (`lrn.support-services`, B1–B2)
-- **Sustainable study habits and wellbeing** (`lrn.wellbeing`, B1–B2)
-- **Learning subject content through English** (`lrn.content-through-english`, B1–B2+)
-- **University assessment literacy** (`fbk.assessment-literacy`, B1–B2+)
-- **Grading systems** (`fbk.grading-systems`, B1–B2)
-- **Interpreting marking criteria** (`fbk.marking-criteria`, B1+–C1)
-- **Feedback literacy** (`fbk.feedback-literacy`, B1+–C1)
-- **Acting on feedback** (`fbk.acting-on-feedback`, B1+–C1)
-- **Using written corrective feedback** (`fbk.corrective-feedback`, B1–B2+)
-- **Seeking feedback** (`fbk.seeking-feedback`, B1+–C1)
-- **Self- and peer-assessment** (`fbk.self-peer-assessment`, B1+–C1)
-- **University exam formats** (`exm.exam-formats`, B1–B2)
-- **Analysing exam questions** (`exm.question-analysis`, B1+–B2+)
-- **Planning revision** (`exm.revision-planning`, B1–B2)
-- **Timed writing** (`exm.timed-writing`, B1+–C1)
-- **Objective question strategies** (`exm.objective-questions`, B1–B2)
-- **Open-book and take-home exams** (`exm.open-book`, B2–C1)
-- **Oral examinations** (`exm.oral-exams`, B1+–C1)
-- **Managing test anxiety** (`exm.test-anxiety`, B1–B2+)
-- **Proficiency, achievement and progression assessment** (`tst.assessment-purposes`, B1–B2+)
-- **Test tasks versus university tasks** (`tst.test-vs-university`, B1+–B2+) — *assumed:* `tst.test-formats`
+#### Academic Socialisation, Identity & Communication
 
-### Academic Socialisation & Communication
+- **Tacit expectations** (`acu.hidden-curriculum`, core band B2) — *assumed:* `acu.academic-expectations`
 
-- **How universities are organised** (`acu.university-structures`, B1–B2)
-- **Teaching and learning formats** (`acu.teaching-formats`, B1–B2)
-- **Expectations of university learners** (`acu.academic-expectations`, B1–B2+)
-- **Discourse communities and disciplines** (`acu.discourse-communities`, B2–C1)
-- **Disciplinary knowledge-making** (`acu.disciplinary-knowledge`, B2–C1)
-- **Tacit expectations** (`acu.hidden-curriculum`, B1+–C1)
-- **Academic literacies perspective** (`acu.academic-literacies`, B2+–C1)
-- **Transition and adjustment** (`acu.transition`, B1–B2+)
-- **Academic roles and forms of address** (`acu.roles-address`, B1–B2)
-- **Critical perspectives on EAP** (`acu.critical-eap`, B2–C1)
-- **EMI and transnational education contexts** (`acu.emi-tne`, B1+–C1)
-- **Politeness and face in academic interaction** (`prg.politeness`, B1+–C1)
-- **Making requests** (`prg.requests`, B1+–C1)
-- **Emails to academic staff** (`prg.emails-to-staff`, B1–B2+)
-- **Office hours and tutorials** (`prg.office-hours`, B1+–C1)
-- **Apologising and explaining** (`prg.apologising-explaining`, B1–B2+)
-- **Formal statements and appeals** (`prg.formal-statements`, B2–C1)
-- **Online discussion forum posts** (`prg.forum-posts`, B1+–C1)
-- **Messaging channels and norms** (`prg.messaging-channels`, B1–B2+)
-- **Acknowledgements** (`prg.acknowledgements`, B2+–C1)
+#### Disciplinary Literacies
 
-### Digital Literacy & AI
+- **Language of experimentation** (`dse.hypothesis-language`, core band B2) — *assumed:* `voc.subtechnical-polysemy`, `fun.hypothesising`
+- **Software and technical documentation** (`dse.software-documentation`, core band B2) — *assumed:* `dse.protocols-specifications`
+- **Mathematical writing and proofs** (`dse.mathematical-writing`, core band B2) — *assumed:* `grm.conditionals`, `num.mathematical-expression`
+- **Evidence-based practice** (`dhl.evidence-based-practice`, core band B2) — *assumed:* `crt.evidence-types`
+- **Reflective practice writing in health** (`dhl.reflective-practice`, core band B2)
+- **Writing clinical reasoning** (`dhl.clinical-reasoning-writing`, core band B2+) — *assumed:* `fun.explaining`
+- **Care plans** (`dhl.care-plans`, core band B2)
+- **Business case analysis** (`dbe.business-case-analysis`, core band B2) — *assumed:* `grp.case-study`, `dbe.critical-frameworks`
+- **Language of economic reasoning** (`dbe.economic-reasoning`, core band B2) — *assumed:* `grm.conditionals`, `fun.cause-effect`
+- **Reading and briefing cases** (`dlw.case-reading`, core band B2) — *assumed:* `rdc.argument-identification`, `dlw.legal-language`
+- **Legal problem questions** (`dlw.problem-questions`, core band B2)
+- **Psychology research reports** (`dss.psychology-research-report`, core band B2+) — *assumed:* `grp.lab-report`
+- **Close reading and textual analysis** (`dhu.close-reading`, core band B2) — *assumed:* `rds.inference`, `crt.description-analysis-evaluation`
+- **Interpretive argument** (`dhu.interpretive-argument`, core band B2+) — *assumed:* `src.integrating-quotations`, `ges.argumentative-essay`
+- **Studio critiques** (`dad.studio-critique`, core band B2) — *assumed:* `prs.handling-questions`, `dad.visual-analysis`
+- **Design rationale and process documentation** (`dad.design-rationale`, core band B2) — *assumed:* `fun.explaining`
 
-- **Virtual learning environments** (`dig.vle`, B1–B2)
-- **Academic word processing** (`dig.word-processing`, B1–B2+)
-- **Reference management software** (`dig.reference-managers`, B1+–C1)
-- **Machine translation** (`dig.machine-translation`, B1–C1)
-- **File and version management** (`dig.file-management`, B1–C1)
-- **Digital collaboration tools** (`dig.digital-collaboration`, B1+–C1)
-- **Digital etiquette and online presence** (`dig.digital-etiquette`, B1+–C1)
-- **Automated writing evaluation tools** (`dig.automated-feedback-tools`, B1+–C1)
-- **How generative AI works and fails** (`gai.how-genai-works`, B1+–C1)
-- **Interpreting AI policies** (`gai.policies`, B1+–B2+)
-- **Acknowledging and citing AI use** (`gai.acknowledging-use`, B1+–C1)
-- **Verifying AI output** (`gai.verifying-output`, B1+–C1)
-- **AI, authorship and voice** (`gai.authorship-voice`, B2–C2)
-- **Limits of AI detection** (`gai.detection-limits`, B1+–C1)
-- **Prompting for learning** (`gai.prompting-for-learning`, B1+–C1)
-- **Using AI as a language-learning resource** (`gai.language-support`, B1+–C1)
-- **AI-assisted research tools** (`gai.research-tools`, B2+–C1)
-- **Privacy, data and intellectual property with AI** (`gai.privacy-ip`, B2–C1)
+### Develop where relevant
 
-### Disciplinary Literacies
+Academic affixes and Greco-Latin roots (`voc.affixes-roots`); Core academic vocabulary (`voc.core-academic-vocabulary`); Verbs for academic and research processes (`voc.academic-verbs`); Abstract and shell nouns (`voc.abstract-shell-nouns`); Technical and discipline-specific terminology (`voc.technical-terminology`); Sub-technical vocabulary and polysemy (`voc.subtechnical-polysemy`); Lexical precision and near-synonyms (`voc.precision-near-synonyms`); Evaluative vocabulary (`voc.evaluative-lexis`); Moving vocabulary into productive use (`voc.receptive-to-productive`); Word grammar and complementation patterns (`voc.word-grammar-patterns`); Academic collocations (`phr.academic-collocations`); Verb–noun collocation accuracy (`phr.verb-noun-collocation-accuracy`); Research-oriented lexical bundles (`phr.bundles-research-oriented`); Stance and engagement bundles (`phr.bundles-stance`); Spoken academic formulas (`phr.spoken-academic-formulas`); Consulting corpora for usage (`phr.corpus-consultation`); Using phrasebanks critically (`phr.phrasebank-use`); Spoken versus written academic language (`reg.spoken-vs-written`); Myths and change in academic style (`reg.style-myths-variation`); Information density and readability (`reg.information-density`); Inclusive and bias-free language (`reg.inclusive-language`); Writing and speaking for non-specialist audiences (`reg.non-specialist-audiences`); Disciplinary variation in style (`reg.disciplinary-style`); Noun-phrase premodification (`grm.np-premodification`); Noun-phrase postmodification (`grm.np-postmodification`); Phrasal versus clausal complexity (`grm.phrasal-complexity`); Articles in academic writing (`grm.articles`); Tense when reporting research (`grm.tense-in-reporting`); Passive voice and agency (`grm.passive-voice`); Epistemic modal verbs (`grm.epistemic-modality`); Non-finite clauses (`grm.non-finite-clauses`); Coordination and parallel structure (`grm.coordination-parallelism`); Anticipatory 'it' and extraposition (`grm.anticipatory-it`); Prepositions and complex prepositions (`grm.prepositions`); Cleft and pseudo-cleft sentences (`grm.clefts-emphasis`); Fronting and inversion (`grm.fronting-inversion`); Reporting structures (`grm.reporting-structures`); Pronoun and demonstrative reference (`grm.reference-pronouns`); Ellipsis and substitution (`grm.ellipsis-substitution`); Grammar of spoken academic interaction (`grm.spoken-grammar`); Genitive and noun-modifier choices (`grm.genitive-noun-modifiers`); Unaccusative and ergative verbs (`grm.unaccusative-verbs`); Sentence length and variety (`sen.sentence-length-variety`); Concision (`sen.concision`); Clarity and end-weight (`sen.clarity-end-weight`); Lists and bullet points (`sen.lists-bullets`); Lexical cohesion and reference chains (`coh.lexical-cohesion`); Given–new information structure (`coh.given-new`); Thematic progression (`coh.thematic-progression`); Encapsulation with signalling nouns (`coh.signalling-nouns`); Text structure patterns (`coh.text-patterns`); Frame markers and advance organisers (`coh.frame-markers`); Terminological consistency (`coh.terminological-consistency`); Metadiscourse (`sta.metadiscourse`); Hedging and qualifying generalisations (`sta.hedging`); Boosters (`sta.boosters`); Attitude markers (`sta.attitude-markers`); Self-mention and authorial roles (`sta.self-mention`); Reader engagement (`sta.engagement-markers`); Opening and closing space for other voices (`sta.dialogic-positioning`); Language for evaluating others' work (`sta.evaluating-others-language`); Language of concession and counter-argument (`sta.concession-language`); Code glosses and exemplification (`sta.code-glosses`); Expressing stance in speech (`sta.spoken-stance`); Defining terms (`fun.defining`); Describing processes and procedures (`fun.describing-process`); Describing structures and systems (`fun.describing-structure`); Comparing and contrasting (`fun.comparing-contrasting`); Expressing cause and effect (`fun.cause-effect`); Problem, solution and evaluation (`fun.problem-solution`); Explaining and justifying (`fun.explaining`); Predicting and hypothesising (`fun.hypothesising`); Recommending (`fun.recommending`); Chronological narration (`fun.chronology-narration`); Parsing complex academic sentences (`rdp.parsing-complex-sentences`); Reading on screen (`rdp.digital-reading`); Strategic use of first language and translation in reading (`rdp.plurilingual-reading`); Recognising text organisation (`rds.text-organisation`); Navigating research articles (`rds.research-article-navigation`); Making inferences (`rds.inference`); Monitoring comprehension (`rds.comprehension-monitoring`); Reading textbooks (`rds.textbook-reading`); Integrating text and visuals (`rds.visuals-in-text`); What critical reading involves (`rdc.critical-reading`); Identifying arguments in texts (`rdc.argument-identification`); Identifying assumptions and values (`rdc.assumptions`); Recognising bias and perspective (`rdc.bias-perspective`); Reading methods critically (`rdc.methods-critique`); Mapping a body of literature (`rdc.literature-mapping`); Reading theoretical and conceptual texts (`rdc.theoretical-texts`); Coping with natural speech rate (`lis.speech-rate`); Understanding varied accents (`lis.accent-variation`); Emphasis and relevance markers (`lis.relevance-markers`); Handling digressions and asides (`lis.digressions`); Identifying main points and supporting detail (`lis.main-points`); Preparing for lectures (`lis.pre-listening-preparation`); Inferring speaker stance (`lis.speaker-stance`); Following multi-party discussion (`lis.multi-party-discussion`); Integrating slides, visuals and speech (`lis.multimodal-lectures`); Using lecture capture strategically (`lis.recorded-lectures`); Listening to academic media (`lis.academic-media`); Taking notes in lectures (`ntk.lecture-notes`); Reviewing and reworking notes (`ntk.reviewing-notes`); Digital and handwritten note-taking (`ntk.digital-notes`); Collaborative notes (`ntk.collaborative-notes`); Preparing for seminars (`sem.preparation`); Turn-taking and taking the floor (`sem.turn-taking`); Agreeing and disagreeing (`sem.agreeing-disagreeing`); Asking questions and seeking clarification (`sem.questions-clarification`); Referring to readings and evidence in discussion (`sem.citing-in-speech`); Facilitating discussion (`sem.facilitating`); Summarising discussion (`sem.summarising-discussion`); Managing speaking anxiety and willingness to communicate (`sem.speaking-anxiety`); Synchronous online discussion (`sem.online-discussion`); Structured academic debate (`sem.debate`); Explaining concepts and readings to peers (`sem.explaining-concepts`); Purpose and audience analysis (`prs.purpose-audience`); Opening a presentation (`prs.openings`); Signposting in presentations and spoken explanations (`prs.signposting`); Designing slides (`prs.slide-design`); Talking about visuals and data (`prs.explaining-visuals`); Vocal delivery (`prs.delivery-voice`); Handling questions (`prs.handling-questions`); Academic posters: design and presentation (`prs.posters`); Recorded and online presentations (`prs.recorded-online`); Word stress in academic vocabulary (`prn.word-stress`); Sentence stress and prominence (`prn.prominence`); Intonation for discourse functions (`prn.intonation`); Prioritised segmental features (`prn.segmental-priorities`); Pronouncing technical terms and names (`prn.technical-terms`); Developing speech fluency (`prn.fluency`); Saying numbers, formulae and symbols aloud (`prn.numbers-aloud`); Roles and planning (`grw.roles-planning`); Running group meetings (`grw.meetings`); Managing disagreement and conflict (`grw.conflict`); Inclusive collaboration in multilingual groups (`grw.inclusive-collaboration`); Assessing contributions (`grw.contribution-assessment`); Writing as a recursive process (`wpr.writing-process`); Planning and outlining (`wpr.planning-outlining`); Audience and purpose (`wpr.audience-purpose`); Managing extended writing projects (`wpr.managing-long-projects`); Overcoming writing blocks (`wpr.writing-blocks`); Using the first language in composing (`wpr.l1-in-composing`); Working within word limits (`wpr.word-limits`); Developing support (`par.support`); Internal paragraph coherence (`par.internal-coherence`); Thesis statements (`ess.thesis-statement`); Writing introductions (`ess.introductions`); Writing conclusions (`ess.conclusions`); Organising the essay body (`ess.body-organisation`); Headings and sections (`ess.headings`); Depth versus breadth (`ess.depth-focus`); Writing titles (`ess.titles`); Global revision (`edt.global-revision`); Reverse outlining (`edt.reverse-outlining`); Editing for style and clarity (`edt.style-editing`); Editing for grammatical accuracy (`edt.grammar-editing`); Self-assessing drafts against criteria (`edt.criteria-self-assessment`); Peer review of drafts (`edt.peer-review`); Acceptable third-party proofreading (`edt.proofreading-ethics`); How scholarly knowledge is produced (`inf.scholarly-communication`); Focusing a topic for searching (`inf.research-question`); Search strategies (`inf.search-strategies`); Evaluating sources (`inf.source-evaluation`); Lateral reading (`inf.lateral-reading`); Predatory publishing, retractions and misinformation (`inf.problematic-publishing`); Citation chaining (`inf.citation-chaining`); Recording searches and sources (`inf.search-records`); Open access and legal access (`inf.open-access`); Systematic and scoping searching (`inf.systematic-searching`); Integrating quotations (`src.integrating-quotations`); Paraphrasing (`src.paraphrasing`); Patchwriting (`src.patchwriting`); Summarising a whole text (`src.summarising-text`); Reporting verbs and signal phrases (`src.reporting-verbs`); Integral and non-integral citation (`src.citation-forms`); Secondary citation (`src.secondary-citation`); Using sources in other languages (`src.multilingual-sources`); What synthesis is (`syn.synthesis-concept`); Synthesis matrices (`syn.synthesis-matrix`); Grouping sources thematically (`syn.thematic-grouping`); Identifying gaps and tensions (`syn.gaps-tensions`); Integrated source-based tasks in coursework and tests (`syn.integrated-tasks`); When to cite (`cit.when-to-cite`); Referencing systems and style guides (`cit.referencing-systems`); Numeric citation systems (`cit.numeric`); Note-based citation (`cit.note-based`); Citation accuracy and consistency (`cit.accuracy-consistency`); Disciplinary variation in citation (`cit.disciplinary-citation`); Whose knowledge is cited (`cit.citation-politics`); Understanding plagiarism (`int.plagiarism`); Reusing one's own work (`int.recycling-own-work`); Collusion and legitimate collaboration (`int.collusion`); Interpreting similarity reports (`int.similarity-reports`); Integrity policies and processes (`int.policy-processes`); Managing integrity risk under pressure (`int.pressure-risks`); Research integrity (`int.research-integrity`); Description, analysis and evaluation (`crt.description-analysis-evaluation`); Critical questioning and question sets (`crt.questioning`); Types and strength of evidence (`crt.evidence-types`); Deductive, inductive and abductive reasoning (`crt.reasoning-types`); Correlation and causation (`crt.correlation-causation`); Recognising fallacies (`crt.fallacies`); Cognitive biases (`crt.cognitive-biases`); Considering multiple perspectives (`crt.multiple-perspectives`); Beliefs about knowledge (`crt.epistemic-beliefs`); Evaluating theories and models (`crt.evaluating-theories`); Analytical problem-solving (`crt.problem-solving`); Reflexivity and positionality (`crt.reflexivity`); Types of claims (`arg.claim-types`); Toulmin model of argument (`arg.toulmin`); Anticipating counter-arguments (`arg.counterarguments`); Rebuttal and concession (`arg.rebuttal-concession`); Taking and sustaining a position (`arg.position`); Rhetorical appeals (`arg.rhetorical-appeals`); Argument mapping (`arg.argument-mapping`); Arguing orally (`arg.oral-argument`); Exploratory and adversarial argument (`arg.exploratory-adversarial`); Analysing genres independently (`ges.genre-analysis`); Genre families and essay types in university assessment (`ges.genre-families`); Argumentative essay (`ges.argumentative-essay`); Short-answer responses (`ges.short-answer`); Book review (`ges.book-review`); Annotated bibliography (`ges.annotated-bibliography`); Literature review assignment (`ges.literature-review-assignment`); Summary–response paper (`ges.summary-response`); Expository essays organised by rhetorical pattern (`ges.expository-essays`); Report conventions (`grp.report-conventions`); Laboratory report (`grp.lab-report`); Empirical project report (`grp.empirical-project-report`); Case study analysis (`grp.case-study`); Business report (`grp.business-report`); Technical and design report (`grp.technical-design-report`); Project proposal (student) (`grp.project-proposal`); Executive summary (`grp.executive-summary`); Policy brief (`grp.policy-brief`); Professional practice portfolio (`grp.professional-portfolio`); Academic blogs and public-facing writing (`grp.public-writing`); IMRaD and its variants (`res.imrad`); Research article introductions (`res.introductions-cars`); Methods sections (`res.methods`); Results sections (`res.results`); Discussion sections (`res.discussion`); Conclusions and implications (`res.conclusions-implications`); Abstracts for student and research writing (`res.abstracts`); Writing about limitations (`res.limitations`); Research questions and hypotheses (`res.research-questions`); Establishing a research gap (`res.gap-niche`); Reporting qualitative findings (`res.qualitative-reporting`); Reporting quantitative findings (`res.quantitative-reporting`); Ethics applications and participant documents (`res.ethics-documentation`); Working with supervisors (`res.supervision`); Acknowledgements (`res.acknowledgements`); Wording survey and interview questions (`res.instrument-wording`); Academic CVs and biographical statements (`pub.academic-cv-bio`); Personal statements for postgraduate study and funding (`pub.personal-statements`); Describing processes, diagrams and maps (`dat.describing-diagrams`); Creating effective visuals (`dat.creating-visuals`); Recognising misleading visuals (`dat.misleading-visuals`); Approximation and precision (`num.approximation`); Basic statistical vocabulary (`num.statistical-vocabulary`); Interpreting statistical claims (`num.interpreting-statistics`); Relative and absolute change (`num.relative-absolute`); Units and measurement (`num.units-measurement`); Language of mathematical expression (`num.mathematical-expression`); Multimodal literacy (`mmd.multimodal-literacy`); Infographics and visual summaries (`mmd.infographics`); Video essays and digital assessments (`mmd.digital-assessments`); Accessible academic documents (`mmd.accessibility`); Time and workload management (`lrn.time-management`); Evidence-based study techniques (`lrn.study-techniques`); Language learning strategies (`lrn.language-learning-strategies`); Learning subject content through English (`lrn.content-through-english`); University assessment literacy (`fbk.assessment-literacy`); Grading systems and mark scales (`fbk.grading-systems`); Feedback literacy (`fbk.feedback-literacy`); Seeking feedback (`fbk.seeking-feedback`); Self- and peer-assessment (`fbk.self-peer-assessment`); University exam formats (`exm.exam-formats`); Planning revision (`exm.revision-planning`); Objective question strategies (`exm.objective-questions`); Open-book, take-home and online time-windowed exams (`exm.open-book`); Oral examinations (`exm.oral-exams`); Managing test anxiety (`exm.test-anxiety`); Test tasks versus university tasks (`tst.test-vs-university`); Expectations of university learners (`acu.academic-expectations`); Discourse communities and disciplines (`acu.discourse-communities`); Disciplinary knowledge-making (`acu.disciplinary-knowledge`); Academic literacies perspective (`acu.academic-literacies`); Transition and adjustment (`acu.transition`); Making informed choices about academic conventions (`acu.critical-eap`); EMI and transnational education contexts (`acu.emi-tne`); Politeness and face in academic interaction (`prg.politeness`); Making requests (`prg.requests`); Office hours and tutorials (`prg.office-hours`); Formal statements and appeals (`prg.formal-statements`); Online discussion forum posts (`prg.forum-posts`); Informal academic interaction and networking (`prg.informal-academic-interaction`); Applications and interviews for placements and graduate roles (`prg.professional-applications`); Academic and writer identity (`idn.academic-identity`); Drawing on a plurilingual repertoire (`idn.plurilingual-repertoire`); English as a lingua franca in academia (`idn.elf`); Intercultural communication (`idn.intercultural-communication`); Intercultural rhetoric (`idn.intercultural-rhetoric`); Linguistic diversity as resource (`idn.diversity-as-resource`); Standards, native-speakerism and legitimacy (`idn.standards-legitimacy`); Translingual writing and code-meshing (`idn.translingual-writing`); Reference management software (`dig.reference-managers`); Academic word processing (`dig.word-processing`); Translation tools in reading and drafting (`dig.machine-translation`); Digital collaboration tools (`dig.digital-collaboration`); Digital etiquette and online presence (`dig.digital-etiquette`); Editing and automated feedback tools (`dig.automated-feedback-tools`); Assistive technology and study adjustments (`dig.assistive-technology`); How generative AI works and fails (`gai.how-genai-works`); Interpreting AI policies (`gai.policies`); Acknowledging and citing AI use (`gai.acknowledging-use`); Verifying AI output (`gai.verifying-output`); Using AI as a tutor and language-learning resource (`gai.language-support`); AI, authorship and voice (`gai.authorship-voice`); Limits of AI detection (`gai.detection-limits`); AI-assisted research tools (`gai.research-tools`); Privacy, data and intellectual property with AI (`gai.privacy-ip`); The language of science (`dse.scientific-language`); Scientific explanations (`dse.scientific-explanation`); Protocols and specifications (`dse.protocols-specifications`); Laboratory notebooks and research records (`dse.lab-notebooks`); Case presentations (`dhl.case-reports-care-plans`); Professional communication in health placements (`dhl.professional-communication`); Critical appraisal of health research (`dhl.critical-appraisal`); Professional business genres (`dbe.professional-genres`); Applying management frameworks critically (`dbe.critical-frameworks`); Language and genres of accounting and finance (`dbe.accounting-finance-discourse`); Consultancy and client project reports (`dbe.consultancy-report`); Legal language and register (`dlw.legal-language`); Reading legislation (`dlw.statutes`); Legal essays (`dlw.legal-essays`); Mooting and oral legal argument (`dlw.mooting`); Legal research and dissertation writing (`dlw.legal-research-writing`); Working with concepts (`dss.operationalising-concepts`); Field notes, analytic memos and analysis accounts (`dss.qualitative-writing`); Policy analysis (`dss.policy-analysis`); Justifying methodology (`dss.methodology-justification`); Education and TESOL practice genres (`dss.education-practice-genres`); Working with primary sources (`dhu.primary-sources`); Philosophical writing (`dhu.philosophical-writing`); Artist and design statements (`dad.artist-statement`); Visual analysis (`dad.visual-analysis`).
 
-- **The language of science** (`dse.scientific-language`, B1+–C1)
-- **Scientific explanations** (`dse.scientific-explanation`, B1+–C1)
-- **Protocols and specifications** (`dse.protocols-specifications`, B2–C1)
-- **Language of experimentation** (`dse.hypothesis-language`, B1+–C1)
-- **Software and technical documentation** (`dse.software-documentation`, B2–C1)
-- **Mathematical writing and proofs** (`dse.mathematical-writing`, B2–C1)
-- **Evidence-based practice** (`dhl.evidence-based-practice`, B2–C1)
-- **Reflective practice writing in health** (`dhl.reflective-practice`, B2–C1)
-- **Case reports and care plans** (`dhl.case-reports-care-plans`, B2–C1)
-- **Professional communication in health placements** (`dhl.professional-communication`, B2–C1)
-- **Critical appraisal and systematic review writing** (`dhl.critical-appraisal`, B2+–C1)
-- **Language of economic reasoning** (`dbe.economic-reasoning`, B2–C1)
-- **Professional business genres** (`dbe.professional-genres`, B2–C1)
-- **Applying management frameworks critically** (`dbe.critical-frameworks`, B2–C1)
-- **Business case analysis** (`dbe.business-case-analysis`, B2–C1)
-- **Legal language and register** (`dlw.legal-language`, B2–C1)
-- **Reading and briefing cases** (`dlw.case-reading`, B2–C1)
-- **Reading legislation** (`dlw.statutes`, B2+–C1)
-- **Legal problem questions** (`dlw.problem-questions`, B2–C1)
-- **Legal essays** (`dlw.legal-essays`, B2+–C1)
-- **Working with concepts** (`dss.operationalising-concepts`, B2–C1)
-- **Policy analysis** (`dss.policy-analysis`, B2+–C1)
-- **Justifying methodology** (`dss.methodology-justification`, B2+–C1)
-- **Qualitative research writing** (`dss.qualitative-writing`, B2+–C1)
-- **Close reading and textual analysis** (`dhu.close-reading`, B2–C1)
-- **Working with primary sources** (`dhu.primary-sources`, B2–C1)
-- **Interpretive argument** (`dhu.interpretive-argument`, B2–C2)
-- **Philosophical writing** (`dhu.philosophical-writing`, B2+–C2)
-- **Visual analysis** (`dad.visual-analysis`, B1+–C1)
-- **Studio critiques** (`dad.studio-critique`, B2–C1)
-- **Artist and design statements** (`dad.artist-statement`, B2–C1)
-- **Design rationale and process documentation** (`dad.design-rationale`, B2–C1)
+### Revisit
+
+Word families and derivational morphology (`voc.word-families-morphology`); Multi-word verbs and register (`voc.multiword-verbs-register`); Inferring word meaning from context (`voc.inferring-from-context`); Using learner and specialist dictionaries (`voc.dictionary-use`); Deliberate vocabulary learning systems (`voc.deliberate-learning-systems`); Countability of academic nouns (`voc.countability-academic-nouns`); Spelling conventions and consistency (`voc.spelling-conventions`); Vocabulary of university study (`voc.university-terminology`); Assignment command words (`voc.command-words`); Academic abbreviations and Latin expressions (`voc.abbreviations-latin`); Collocation awareness (`phr.collocation-awareness`); Text-oriented lexical bundles (`phr.bundles-text-oriented`); Fixed expressions, idioms and binomials (`phr.fixed-expressions`); Register and situational variation (`reg.register-awareness`); Features of formal academic style (`reg.formality-features`); Avoiding vague and overgeneralised language (`reg.vague-overgeneralised`); Clause elements and sentence analysis (`grm.clause-elements`); Subject–verb agreement with complex subjects (`grm.subject-verb-agreement`); Determiners and quantifiers (`grm.determiners-quantifiers`); Tense and aspect in academic writing (`grm.tense-aspect`); Conditionals and hypothetical reasoning (`grm.conditionals`); Defining and non-defining relative clauses (`grm.relative-clauses`); Subordination and adverbial clauses (`grm.subordination`); That-clauses and wh-clauses (`grm.complement-clauses`); Existential 'there' constructions (`grm.existential-there`); Comparative structures (`grm.comparison-structures`); Placement and punctuation of linking adverbials (`grm.linking-adverbial-placement`); Sentence boundaries (`sen.sentence-boundaries`); Commas in academic prose (`sen.commas`); Semicolons and colons (`sen.semicolons-colons`); Punctuation and mechanics beyond the comma (`sen.punctuation-mechanics`); Cohesion versus coherence (`coh.cohesion-vs-coherence`); Linking adverbials and connector precision (`coh.linking-adverbials`); Making reasoning explicit for the reader (`coh.writer-responsibility`); Classifying and categorising (`fun.classifying`); Exemplifying and illustrating (`fun.exemplifying`); Summarising and concluding (`fun.summarising-concluding`); Reading as an interactive process (`rdp.interactive-reading`); Automatic word recognition (`rdp.word-recognition`); Reading fluency and rate (`rdp.reading-fluency-rate`); Extensive reading (`rdp.extensive-reading`); Reading with a purpose (`rdp.reading-purpose`); Background knowledge and schemata (`rdp.background-knowledge`); Previewing and surveying (`rds.previewing`); Skimming for gist (`rds.skimming`); Identifying main ideas and supporting detail (`rds.main-ideas`); Tracking reference while reading (`rds.reference-tracking`); Distinguishing claims, evidence and their status (`rds.fact-opinion-claim`); Purposeful annotation (`rds.annotation`); Listening processes: decoding and meaning-building (`lis.listening-processes`); Recognising connected speech (`lis.connected-speech`); Segmenting the speech stream (`lis.word-segmentation`); Lecture structure and phases (`lis.lecture-structure`); Lecture discourse markers (`lis.lecture-discourse-markers`); Metacognitive listening strategies (`lis.metacognitive-listening`); Understanding spoken instructions and briefings (`lis.spoken-instructions`); Functions of notes (`ntk.functions-of-notes`); Selecting what to note (`ntk.selecting-content`); Note formats (`ntk.note-formats`); Purposes and expectations of seminars (`sem.seminar-purposes`); Expressing and justifying views (`sem.opinions`); Checking and confirming understanding (`sem.checking-understanding`); Structuring a presentation (`prs.structure`); Non-verbal communication (`prs.nonverbal`); Speaking from notes (`prs.speaking-from-notes`); Rehearsal and timing (`prs.rehearsal-timing`); Intelligibility, comprehensibility and accent (`prn.intelligibility`); Thought groups and pausing (`prn.thought-groups`); Connected speech in production (`prn.connected-speech-production`); Self-repair and reformulation (`prn.repair`); Purposes of group work (`grw.purposes`); Generating ideas (`wpr.generating-ideas`); Drafting (`wpr.drafting`); Formatting and presentation (`wpr.formatting`); Writing topic sentences (`par.topic-sentences`); Paragraph length and division (`par.length-division`); Revision, editing and proofreading (`edt.revision-editing-proofreading`); Proofreading (`edt.proofreading`); Types of sources (`inf.source-types`); Quoting (`src.quoting`); Paraphrasing techniques (`src.paraphrase-techniques`); Summarising a passage (`src.summarising-passage`); Why academics cite (`cit.why-cite`); In-text citation: author–date (`cit.author-date-in-text`); Compiling a reference list (`cit.reference-list`); Page numbers and locators (`cit.locators`); Values of academic integrity (`int.integrity-values`); Contract cheating (`int.contract-cheating`); What counts as an academic argument (`arg.argument-concept`); Supporting claims (`arg.supporting-claims`); What a genre is (`ges.genre-concept`); Discussion essay (`ges.discussion-essay`); Types of visuals and their functions (`dat.visual-types`); Reading graphs and charts (`dat.reading-graphs`); Reading tables (`dat.reading-tables`); Describing trends and change (`dat.describing-trends`); Describing proportions and comparisons (`dat.describing-proportions`); Expressing and presenting quantities accurately (`num.number-expressions`); Self-regulated learning and learner autonomy (`lrn.self-regulation`); Setting language and academic goals (`lrn.goal-setting`); Independent study (`lrn.independent-study`); Reflective learning logs (`lrn.reflective-logs`); Using academic support services (`lrn.support-services`); Sustainable study habits and wellbeing (`lrn.wellbeing`); Motivation and the L2 self (`lrn.motivation`); Metacognitive knowledge (`lrn.metacognitive-knowledge`); Using written corrective feedback (`fbk.corrective-feedback`); Proficiency, achievement and progression assessment (`tst.assessment-purposes`); How universities are organised (`acu.university-structures`); Teaching and learning formats (`acu.teaching-formats`); Academic roles and forms of address (`acu.roles-address`); Emails to academic staff (`prg.emails-to-staff`); Apologising and explaining (`prg.apologising-explaining`); Messaging channels and norms (`prg.messaging-channels`); Virtual learning environments (`dig.vle`); File and version management (`dig.file-management`).
 
 ## In-sessional (taught postgraduate)
 
-467 topics.
+62 core · 269 develop · 146 revisit.
 
-### Academic Language
+### Core
 
-- **Core academic vocabulary** (`voc.core-academic-vocabulary`, B1+–C1) — *assumed:* `voc.high-frequency-base`
-- **Technical and discipline-specific terminology** (`voc.technical-terminology`, B1+–C1)
-- **Sub-technical vocabulary and polysemy** (`voc.subtechnical-polysemy`, B2–C1)
-- **Lexical precision and near-synonyms** (`voc.precision-near-synonyms`, B2–C1)
-- **Evaluative vocabulary** (`voc.evaluative-lexis`, B2–C1)
-- **Deliberate vocabulary learning systems** (`voc.deliberate-learning-systems`, B1–B2+)
-- **Word grammar and complementation patterns** (`voc.word-grammar-patterns`, B1+–C1) — *assumed:* `grm.clause-elements`
-- **Verbs for academic and research processes** (`voc.academic-verbs`, B1+–C1)
-- **Abstract and shell nouns** (`voc.abstract-shell-nouns`, B2–C1)
-- **Moving vocabulary into productive use** (`voc.receptive-to-productive`, B1+–C1)
-- **Countability of academic nouns** (`voc.countability-academic-nouns`, B1–B2+)
-- **Vocabulary of university study** (`voc.university-terminology`, B1–B2)
-- **Assignment command words** (`voc.command-words`, B1–B2+)
-- **Academic collocations** (`phr.academic-collocations`, B1+–C1) — *assumed:* `phr.collocation-awareness`
-- **Verb–noun collocation accuracy** (`phr.verb-noun-collocation-accuracy`, B1+–C1)
-- **Fixed expressions, idioms and binomials** (`phr.fixed-expressions`, B2–C1) — *assumed:* `phr.collocation-awareness`
-- **Consulting corpora for usage** (`phr.corpus-consultation`, B2–C1) — *assumed:* `phr.collocation-awareness`
-- **Spoken versus written academic language** (`reg.spoken-vs-written`, B1+–C1) — *assumed:* `reg.register-awareness`
-- **Spoken academic formulas** (`phr.spoken-academic-formulas`, B1+–C1) — *assumed:* `phr.collocation-awareness`
-- **Myths and change in academic style** (`reg.style-myths-variation`, B2–C1) — *assumed:* `reg.formality-features`
-- **Noun-phrase premodification** (`grm.np-premodification`, B1+–C1) — *assumed:* `voc.word-families-morphology`
-- **Tense and aspect in academic writing** (`grm.tense-aspect`, B1–B2+)
-- **Tense when reporting research** (`grm.tense-in-reporting`, B2–C1)
-- **Passive voice and agency** (`grm.passive-voice`, B1–C1) — *assumed:* `grm.clause-elements`
-- **Impersonality and authorial presence** (`reg.impersonality-presence`, B2–C1)
-- **Disciplinary variation in style** (`reg.disciplinary-style`, B2+–C2)
-- **Epistemic modal verbs** (`grm.epistemic-modality`, B1+–C1)
-- **Non-finite clauses** (`grm.non-finite-clauses`, B2–C1)
-- **Coordination and parallel structure** (`grm.coordination-parallelism`, B1+–B2+) — *assumed:* `sen.sentence-types`
-- **Anticipatory 'it' and extraposition** (`grm.anticipatory-it`, B1+–C1) — *assumed:* `grm.complement-clauses`
-- **Stance and engagement bundles** (`phr.bundles-stance`, B2–C1) — *assumed:* `phr.collocation-awareness`
-- **Using phrasebanks critically** (`phr.phrasebank-use`, B1+–C1)
-- **Prepositions and complex prepositions** (`grm.prepositions`, B1–C1)
-- **Noun-phrase postmodification** (`grm.np-postmodification`, B1+–C1)
-- **Research-oriented lexical bundles** (`phr.bundles-research-oriented`, B2–C1) — *assumed:* `phr.collocation-awareness`
-- **Subject–verb agreement with complex subjects** (`grm.subject-verb-agreement`, B1–B2+)
-- **Nominalisation and grammatical metaphor** (`grm.nominalisation`, B2–C1) — *assumed:* `voc.word-families-morphology`
-- **Information density and readability** (`reg.information-density`, B2–C2)
-- **Writing and speaking for non-specialist audiences** (`reg.non-specialist-audiences`, B2+–C2)
-- **Phrasal versus clausal complexity** (`grm.phrasal-complexity`, B2–C1)
-- **Articles in academic writing** (`grm.articles`, B1–C1)
-- **Cleft and pseudo-cleft sentences** (`grm.clefts-emphasis`, B2+–C1)
-- **Fronting and inversion** (`grm.fronting-inversion`, B2+–C1)
-- **Reporting structures** (`grm.reporting-structures`, B1+–C1) — *assumed:* `grm.complement-clauses`
-- **Pronoun and demonstrative reference** (`grm.reference-pronouns`, B1+–B2+)
-- **Inclusive and bias-free language** (`reg.inclusive-language`, B2–C1)
-- **Ellipsis and substitution** (`grm.ellipsis-substitution`, B2–C1)
-- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, B1–C1)
-- **Commas in academic prose** (`sen.commas`, B1–B2+) — *assumed:* `sen.sentence-boundaries`
-- **Semicolons and colons** (`sen.semicolons-colons`, B1+–B2+)
-- **Placement and punctuation of linking adverbials** (`grm.linking-adverbial-placement`, B1+–B2+) — *assumed:* `coh.linking-adverbials`
-- **Apostrophes, hyphens and dashes** (`sen.apostrophes-hyphens-dashes`, B1–B2+)
-- **Capitalisation conventions** (`sen.capitalisation`, B1–B2)
-- **Punctuating quotations and brackets** (`sen.quotation-punctuation`, B1+–B2+)
-- **Sentence length and variety** (`sen.sentence-length-variety`, B2–C1) — *assumed:* `sen.sentence-boundaries`
-- **Concision** (`sen.concision`, B2–C1)
-- **Clarity and end-weight** (`sen.clarity-end-weight`, B2+–C1)
-- **Writing numbers, units and symbols in text** (`sen.numbers-units-style`, B1+–B2+)
-- **Lists and bullet points** (`sen.lists-bullets`, B1+–B2)
+#### Academic Language
 
-### Academic Discourse
+- **Disciplinary variation in style** (`reg.disciplinary-style`, core band C1) — *assumed:* `reg.impersonality-presence`
+- **Tense when reporting research** (`grm.tense-in-reporting`, core band B2) — *assumed:* `grm.tense-aspect`
+- **Concision** (`sen.concision`, core band B2+)
 
-- **Lexical cohesion and reference chains** (`coh.lexical-cohesion`, B1+–C1)
-- **Precise logical relations** (`coh.connector-precision`, B2–C1) — *assumed:* `grm.subordination`, `coh.linking-adverbials`
-- **Given–new information structure** (`coh.given-new`, B2–C1)
-- **Thematic progression** (`coh.thematic-progression`, B2–C1)
-- **Encapsulation with signalling nouns** (`coh.signalling-nouns`, B2–C1)
-- **Text structure patterns** (`coh.text-patterns`, B1+–C1) — *assumed:* `coh.cohesion-vs-coherence`
-- **Transitions between paragraphs and sections** (`coh.paragraph-transitions`, B2–C1) — *assumed:* `par.topic-sentences`
-- **Terminological consistency** (`coh.terminological-consistency`, B2–C1)
-- **Reader and writer responsibility** (`coh.writer-responsibility`, B1+–B2+) — *assumed:* `coh.cohesion-vs-coherence`
-- **Frame markers and advance organisers** (`coh.frame-markers`, B1+–C1)
-- **Signposting in spoken academic discourse** (`coh.spoken-signposting`, B1+–C1)
-- **Hedging devices** (`sta.hedging`, B1+–C2)
-- **Metadiscourse** (`sta.metadiscourse`, B2–C1)
-- **Boosters** (`sta.boosters`, B1+–C1)
-- **Calibrating claims to evidence** (`sta.claim-calibration`, B2–C2)
-- **Attitude markers** (`sta.attitude-markers`, B2–C1)
-- **Self-mention and authorial roles** (`sta.self-mention`, B2–C2)
-- **Reader engagement** (`sta.engagement-markers`, B2+–C1)
-- **Averral versus attribution** (`sta.averral-attribution`, B2–C1)
-- **Authorial voice** (`sta.authorial-voice`, B2+–C2)
-- **Language of concession and counter-argument** (`sta.concession-language`, B2–C1)
-- **Dialogic positioning (engagement)** (`sta.dialogic-positioning`, B2+–C2)
-- **Code glosses and exemplification** (`sta.code-glosses`, B1+–C1)
-- **Expressing stance in speech** (`sta.spoken-stance`, B1+–C1)
-- **Defining terms** (`fun.defining`, B1–C1) — *assumed:* `grm.relative-clauses`
-- **Comparing and contrasting** (`fun.comparing-contrasting`, B1–C1) — *assumed:* `grm.comparison-structures`
-- **Expressing cause and effect** (`fun.cause-effect`, B1+–C1) — *assumed:* `grm.subordination`
-- **Explaining and justifying** (`fun.explaining`, B1+–C1)
-- **Predicting and hypothesising** (`fun.hypothesising`, B1+–C1) — *assumed:* `grm.conditionals`
-- **Summarising and concluding** (`fun.summarising-concluding`, B1+–C1)
-- **Evaluating strengths, weaknesses and significance** (`fun.evaluating`, B1+–C1)
-- **Language for evaluating others' work** (`sta.evaluating-others-language`, B2+–C2)
-- **Problem, solution and evaluation** (`fun.problem-solution`, B1+–C1)
-- **Recommending** (`fun.recommending`, B1+–C1) — *assumed:* `grm.complement-clauses`
+#### Academic Discourse
 
-### Academic Reading
+- **Transitions between paragraphs and sections** (`coh.paragraph-transitions`, core band B2) — *assumed:* `par.topic-sentences`
+- **Terminological consistency** (`coh.terminological-consistency`, core band B2+) — *assumed:* `coh.lexical-cohesion`
+- **Calibrating claims to evidence** (`sta.claim-calibration`, core band B2+) — *assumed:* `sta.hedging`, `sta.boosters`
+- **Opening and closing space for other voices** (`sta.dialogic-positioning`, core band C1) — *assumed:* `sta.averral-attribution`
+- **Language for evaluating others' work** (`sta.evaluating-others-language`, core band B2+) — *assumed:* `src.reporting-verbs`
 
-- **Reading as an interactive process** (`rdp.interactive-reading`, B1–B2+)
-- **Extensive reading** (`rdp.extensive-reading`, B1–C1)
-- **Reading fluency and rate** (`rdp.reading-fluency-rate`, B1–C1) — *assumed:* `rdp.word-recognition`
-- **Reading with a purpose** (`rdp.reading-purpose`, B1–B2+)
-- **Parsing complex academic sentences** (`rdp.parsing-complex-sentences`, B1+–C1)
-- **Background knowledge and schemata** (`rdp.background-knowledge`, B1–C1)
-- **Managing reading load** (`rdp.managing-reading-load`, B1+–C1)
-- **Previewing and surveying** (`rds.previewing`, B1–B2)
-- **Recognising text organisation** (`rds.text-organisation`, B1+–C1)
-- **Navigating research articles** (`rds.research-article-navigation`, B2–C1)
-- **Making inferences** (`rds.inference`, B1+–C1)
-- **Identifying writer stance and attributed views** (`rds.writer-stance`, B2–C1)
-- **Monitoring comprehension** (`rds.comprehension-monitoring`, B1–C1)
-- **Strategic use of first language and translation in reading** (`rdp.plurilingual-reading`, B1–C1)
-- **Purposeful annotation** (`rds.annotation`, B1–B2+) — *assumed:* `rds.main-ideas`
-- **Reading on screen** (`rdp.digital-reading`, B1–C1)
-- **Integrating text and visuals** (`rds.visuals-in-text`, B1+–C1)
-- **What critical reading involves** (`rdc.critical-reading`, B1+–C1)
-- **Identifying arguments in texts** (`rdc.argument-identification`, B1+–C1)
-- **Evaluating evidence in texts** (`rdc.evidence-evaluation`, B2–C1)
-- **Identifying assumptions and values** (`rdc.assumptions`, B2–C1)
-- **Recognising bias and perspective** (`rdc.bias-perspective`, B2–C1)
-- **Reading methods critically** (`rdc.methods-critique`, B2+–C1)
-- **Reading across multiple texts** (`rdc.multiple-texts`, B2–C1)
-- **Reading for a writing task** (`rdc.reading-for-writing`, B1+–C1)
-- **Mapping a body of literature** (`rdc.literature-mapping`, B2+–C2)
-- **Reading theoretical and conceptual texts** (`rdc.theoretical-texts`, B2+–C2)
-- **Generating critical questions** (`rdc.critical-questions`, B1+–C1)
-- **Formulating a critical response** (`rdc.critical-response`, B1+–C1)
+#### Academic Reading
 
-### Academic Listening
+- **Managing reading load** (`rdp.managing-reading-load`, core band B2+) — *assumed:* `rdp.reading-purpose`
+- **Navigating research articles** (`rds.research-article-navigation`, core band B2+) — *assumed:* `rds.previewing`
+- **Evaluating evidence in texts** (`rdc.evidence-evaluation`, core band B2+) — *assumed:* `rdc.argument-identification`, `crt.evidence-types`
+- **Reading methods critically** (`rdc.methods-critique`, core band C1)
+- **Reading across multiple texts** (`rdc.multiple-texts`, core band B2+) — *assumed:* `rdc.argument-identification`
+- **Mapping a body of literature** (`rdc.literature-mapping`, core band C1)
 
-- **Recognising connected speech** (`lis.connected-speech`, B1–B2+) — *assumed:* `voc.high-frequency-base`
-- **Coping with natural speech rate** (`lis.speech-rate`, B1+–C1) — *assumed:* `lis.word-segmentation`
-- **Understanding varied accents** (`lis.accent-variation`, B1+–C1)
-- **Emphasis and relevance markers** (`lis.relevance-markers`, B1+–C1)
-- **Identifying main points and supporting detail** (`lis.main-points`, B1–C1)
-- **Handling digressions and asides** (`lis.digressions`, B2–C1)
-- **Preparing for lectures** (`lis.pre-listening-preparation`, B1–B2+)
-- **Inferring speaker stance** (`lis.speaker-stance`, B2–C1)
-- **Following multi-party discussion** (`lis.multi-party-discussion`, B2–C1)
-- **Integrating slides, visuals and speech** (`lis.multimodal-lectures`, B1+–B2+)
-- **Understanding spoken instructions and briefings** (`lis.spoken-instructions`, B1–B2)
-- **Listening to academic media** (`lis.academic-media`, B2–C1)
-- **Note formats** (`ntk.note-formats`, B1–B2+) — *assumed:* `ntk.selecting-content`
-- **Taking notes in lectures** (`ntk.lecture-notes`, B1+–C1)
-- **Using lecture capture strategically** (`lis.recorded-lectures`, B1+–B2+) — *assumed:* `lis.metacognitive-listening`
-- **Making notes from reading** (`ntk.notes-from-reading`, B1+–C1) — *assumed:* `ntk.selecting-content`
-- **Reviewing and reworking notes** (`ntk.reviewing-notes`, B1+–B2+)
-- **Digital and handwritten note-taking** (`ntk.digital-notes`, B1+–B2+)
-- **Collaborative notes** (`ntk.collaborative-notes`, B2–C1)
+#### Academic Listening & Note-making
 
-### Academic Speaking
+- **Making notes from reading** (`ntk.notes-from-reading`, core band B2) — *assumed:* `ntk.selecting-content`
 
-- **Purposes and expectations of seminars** (`sem.seminar-purposes`, B1–B2)
-- **Preparing for seminars** (`sem.preparation`, B1–B2+)
-- **Turn-taking and taking the floor** (`sem.turn-taking`, B1+–C1)
-- **Agreeing and disagreeing** (`sem.agreeing-disagreeing`, B1+–C1) — *assumed:* `sem.opinions`
-- **Asking questions and seeking clarification** (`sem.questions-clarification`, B1–C1)
-- **Referring to readings and evidence in discussion** (`sem.citing-in-speech`, B2–C1) — *assumed:* `sem.opinions`, `src.signal-phrases`
-- **Managing speaking anxiety and willingness to communicate** (`sem.speaking-anxiety`, B1–C1)
-- **Purpose and audience analysis** (`prs.purpose-audience`, B1–C1) — *assumed:* `reg.register-awareness`
-- **Structuring a presentation** (`prs.structure`, B1–B2+)
-- **Opening a presentation** (`prs.openings`, B1+–C1)
-- **Signposting in presentations** (`prs.signposting`, B1–B2+)
-- **Designing slides** (`prs.slide-design`, B1+–C1)
-- **Non-verbal communication** (`prs.nonverbal`, B1–B2+)
-- **Intelligibility, comprehensibility and accent** (`prn.intelligibility`, B1–B2+)
-- **Word stress in academic vocabulary** (`prn.word-stress`, B1–C1) — *assumed:* `voc.word-families-morphology`
-- **Thought groups and pausing** (`prn.thought-groups`, B1–B2+)
-- **Sentence stress and prominence** (`prn.prominence`, B1+–C1)
-- **Intonation for discourse functions** (`prn.intonation`, B2–C1)
-- **Vocal delivery** (`prs.delivery-voice`, B1–C1)
-- **Prioritised segmental features** (`prn.segmental-priorities`, B1–C1)
-- **Connected speech in production** (`prn.connected-speech-production`, B1+–C1)
-- **Pronouncing technical terms and names** (`prn.technical-terms`, B1+–C1)
-- **Self-repair and reformulation** (`prn.repair`, B1–B2+)
-- **Checking and confirming understanding** (`sem.checking-understanding`, B1+–B2+)
-- **Building on others' contributions** (`sem.building-on-others`, B2–C1) — *assumed:* `sem.opinions`
-- **Summarising discussion** (`sem.summarising-discussion`, B2–C1)
-- **Synchronous online discussion** (`sem.online-discussion`, B1+–C1)
-- **Handling questions** (`prs.handling-questions`, B2–C1)
-- **Developing speech fluency** (`prn.fluency`, B1–C1)
-- **Speaking from notes** (`prs.speaking-from-notes`, B1–B2+)
-- **Recorded and online presentations** (`prs.recorded-online`, B1+–C1)
-- **Rehearsal and timing** (`prs.rehearsal-timing`, B1–B2+)
-- **Saying numbers, formulae and symbols aloud** (`prn.numbers-aloud`, B1–B2+) — *assumed:* `num.number-expressions`
-- **Talking about visuals and data** (`prs.explaining-visuals`, B1+–C1)
-- **Poster presentations** (`prs.posters`, B2–C1)
-- **Research and conference presentations** (`prs.research-presentations`, B2+–C2)
-- **Purposes of group work** (`grw.purposes`, B1–B2)
-- **Roles and planning** (`grw.roles-planning`, B1+–B2+)
-- **Group presentations** (`prs.group-presentations`, B1+–B2+)
-- **Managing disagreement and conflict** (`grw.conflict`, B2–C1)
-- **Inclusive collaboration in multilingual groups** (`grw.inclusive-collaboration`, B1+–C1)
-- **Facilitating discussion** (`sem.facilitating`, B2+–C1)
-- **Running group meetings** (`grw.meetings`, B2–C1)
-- **Collaborative writing** (`grw.collaborative-writing`, B2–C1)
-- **Assessing contributions** (`grw.contribution-assessment`, B1+–B2+)
+#### Academic Speaking
 
-### Academic Writing
+- **Building on others' contributions** (`sem.building-on-others`, core band B2) — *assumed:* `sem.opinions`
+- **Referring to readings and evidence in discussion** (`sem.citing-in-speech`, core band B2) — *assumed:* `sem.opinions`, `src.reporting-verbs`
 
-- **Writing as a recursive process** (`wpr.writing-process`, B1–B2+)
-- **Planning and outlining** (`wpr.planning-outlining`, B1–C1) — *assumed:* `wpr.generating-ideas`
-- **Drafting** (`wpr.drafting`, B1–B2+)
-- **Integrating reading into writing** (`wpr.reading-to-write`, B1+–C1)
-- **Audience and purpose** (`wpr.audience-purpose`, B1–C1)
-- **Analysing assignment tasks** (`wpr.task-analysis`, B1–C1)
-- **Overcoming writing blocks** (`wpr.writing-blocks`, B1+–C1)
-- **Using the first language in composing** (`wpr.l1-in-composing`, B1–B2+)
-- **Working within word limits** (`wpr.word-limits`, B1+–B2+)
-- **Managing extended writing projects** (`wpr.managing-long-projects`, B2–C1)
-- **Formatting and presentation** (`wpr.formatting`, B1–B2)
-- **Internal paragraph coherence** (`par.internal-coherence`, B1+–C1) — *assumed:* `par.topic-sentences`
-- **Integrating sources in paragraphs** (`par.integrating-evidence`, B1+–C1) — *assumed:* `par.support`, `src.signal-phrases`
-- **Thesis statements** (`ess.thesis-statement`, B1+–C1) — *assumed:* `ess.essay-structure`
-- **Writing introductions** (`ess.introductions`, B1+–C1)
-- **Writing conclusions** (`ess.conclusions`, B1+–C1)
-- **Organising the essay body** (`ess.body-organisation`, B1+–C1) — *assumed:* `par.topic-sentences`
-- **Answering the question** (`ess.answering-question`, B1–C1)
-- **Headings and sections** (`ess.headings`, B2–B2+)
-- **Depth versus breadth** (`ess.depth-focus`, B2–C1)
-- **Demonstrating criticality in essays** (`ess.criticality`, B2–C1)
-- **Writing titles** (`ess.titles`, B2–C1)
-- **Revision, editing and proofreading** (`edt.revision-editing-proofreading`, B1–B2)
-- **Global revision** (`edt.global-revision`, B1+–C1)
-- **Reverse outlining** (`edt.reverse-outlining`, B2–C1) — *assumed:* `par.topic-sentences`
-- **Editing for style and clarity** (`edt.style-editing`, B2–C1)
-- **Editing for grammatical accuracy** (`edt.grammar-editing`, B1–C1)
-- **Proofreading** (`edt.proofreading`, B1–B2+)
-- **Self-assessing drafts against criteria** (`edt.criteria-self-assessment`, B1+–C1)
-- **Peer review of drafts** (`edt.peer-review`, B1+–C1)
-- **Using editing tools critically** (`edt.editing-tools`, B1–B2+)
-- **Acceptable third-party proofreading** (`edt.proofreading-ethics`, B1+–B2+)
+#### Academic Writing
 
-### Sources & Academic Integrity
+- **Managing extended writing projects** (`wpr.managing-long-projects`, core band B2+) — *assumed:* `lrn.time-management`
+- **Demonstrating criticality in essays** (`ess.criticality`, core band B2+) — *assumed:* `crt.description-analysis-evaluation`
 
-- **How scholarly knowledge is produced** (`inf.scholarly-communication`, B1+–C1)
-- **Focusing a topic for searching** (`inf.research-question`, B1+–B2+)
-- **Search strategies** (`inf.search-strategies`, B1+–B2+)
-- **Library catalogues, databases and discovery tools** (`inf.databases`, B1+–B2+)
-- **Evaluating sources** (`inf.source-evaluation`, B1+–C1)
-- **Lateral reading** (`inf.lateral-reading`, B1+–B2+)
-- **Recording searches and sources** (`inf.search-records`, B1+–B2+)
-- **Open access and legal access** (`inf.open-access`, B2–C1)
-- **Predatory publishing, retractions and misinformation** (`inf.problematic-publishing`, B2–C1)
-- **Functions of sources in academic writing** (`src.source-functions`, B1+–C1)
-- **Integrating quotations** (`src.integrating-quotations`, B1+–B2+) — *assumed:* `src.quoting`, `src.signal-phrases`
-- **Reporting verbs** (`src.reporting-verbs`, B1+–C1) — *assumed:* `src.signal-phrases`
-- **Summarising a whole text** (`src.summarising-text`, B1+–C1) — *assumed:* `src.summarising-passage`
-- **What synthesis is** (`syn.synthesis-concept`, B1+–B2+)
-- **Synthesis matrices** (`syn.synthesis-matrix`, B1+–B2+)
-- **Grouping sources thematically** (`syn.thematic-grouping`, B2–C1)
-- **Writing relationships between sources** (`syn.relating-sources`, B2–C1)
-- **Identifying gaps and tensions** (`syn.gaps-tensions`, B2+–C2)
-- **When to cite** (`cit.when-to-cite`, B1+–C1) — *assumed:* `cit.why-cite`
-- **Paraphrasing** (`src.paraphrasing`, B1+–C1) — *assumed:* `src.paraphrase-techniques`
-- **Distinguishing own voice from source voice** (`src.voice-boundaries`, B1+–C1) — *assumed:* `src.signal-phrases`
-- **Referencing systems and style guides** (`cit.referencing-systems`, B1+–B2+)
-- **Citation chaining** (`inf.citation-chaining`, B2–C1)
-- **Systematic and scoping searching** (`inf.systematic-searching`, B2+–C1)
-- **In-text citation: author–date** (`cit.author-date-in-text`, B1–B2)
-- **Integral and non-integral citation** (`src.citation-forms`, B2–C1) — *assumed:* `src.signal-phrases`
-- **Writing synthesis paragraphs** (`syn.synthesis-paragraphs`, B2–C1) — *assumed:* `par.topic-sentences`
-- **Numeric citation systems** (`cit.numeric`, B1+–B2+)
-- **Compiling a reference list** (`cit.reference-list`, B1–B2+)
-- **Secondary citation** (`src.secondary-citation`, B1+–B2)
-- **Using sources in other languages** (`src.multilingual-sources`, B2–C1)
-- **Note-based citation** (`cit.note-based`, B2–C1)
-- **Citing diverse source types** (`cit.diverse-sources`, B2–C1)
-- **Page numbers and locators** (`cit.locators`, B1+–B2) — *assumed:* `src.quoting`
-- **Citation accuracy and consistency** (`cit.accuracy-consistency`, B1+–C1)
-- **Rhetorical functions of citation** (`cit.citation-functions`, B2+–C2)
-- **Disciplinary variation in citation** (`cit.disciplinary-citation`, B2+–C2)
-- **Values of academic integrity** (`int.integrity-values`, B1–B2+)
-- **Understanding plagiarism** (`int.plagiarism`, B1–C1) — *assumed:* `cit.why-cite`
-- **Patchwriting** (`src.patchwriting`, B1+–C1)
-- **Reusing one's own work** (`int.recycling-own-work`, B2–C1)
-- **Collusion and legitimate collaboration** (`int.collusion`, B1+–B2+)
-- **Contract cheating** (`int.contract-cheating`, B1+–B2+)
-- **Interpreting similarity reports** (`int.similarity-reports`, B1+–C1)
-- **Integrity policies and processes** (`int.policy-processes`, B1+–C1)
-- **Managing integrity risk under pressure** (`int.pressure-risks`, B1+–B2+)
-- **Research integrity** (`int.research-integrity`, B2–C1)
+#### Sources & Academic Integrity
 
-### Argument & Critical Thinking
+- **Citation chaining** (`inf.citation-chaining`, core band B2+)
+- **Summarising a whole text** (`src.summarising-text`, core band B2) — *assumed:* `rds.text-organisation`, `src.summarising-passage`
+- **Grouping sources thematically** (`syn.thematic-grouping`, core band B2+)
+- **Identifying gaps and tensions** (`syn.gaps-tensions`, core band C1) — *assumed:* `syn.relating-sources`
+- **Writing synthesis paragraphs** (`syn.synthesis-paragraphs`, core band B2) — *assumed:* `par.topic-sentences`, `src.voice-boundaries`, `syn.relating-sources`
+- **Rhetorical functions of sources and citation** (`cit.citation-functions`, core band B2+)
+- **Disciplinary variation in citation** (`cit.disciplinary-citation`, core band C1)
+- **Research integrity** (`int.research-integrity`, core band B2+)
 
-- **Critical thinking in academic contexts** (`crt.concept`, B1+–C1)
-- **Description, analysis and evaluation** (`crt.description-analysis-evaluation`, B1+–B2+)
-- **Critical questioning** (`crt.questioning`, B1+–C1)
-- **Types and strength of evidence** (`crt.evidence-types`, B1+–C1) — *assumed:* `rds.fact-opinion-claim`
-- **Correlation and causation** (`crt.correlation-causation`, B2–C1)
-- **Cognitive biases** (`crt.cognitive-biases`, B2–C1)
-- **Considering multiple perspectives** (`crt.multiple-perspectives`, B1+–C1)
-- **Beliefs about knowledge** (`crt.epistemic-beliefs`, B1+–C1)
-- **Applying theory to cases** (`crt.applying-theory`, B1+–C1)
-- **Analytical problem-solving** (`crt.problem-solving`, B1+–C1)
-- **Reflexivity and positionality** (`crt.reflexivity`, B2+–C2)
-- **What counts as an academic argument** (`arg.argument-concept`, B1–B2+)
-- **Deductive, inductive and abductive reasoning** (`crt.reasoning-types`, B2–C1)
-- **Recognising fallacies** (`crt.fallacies`, B2–C1)
-- **Evaluating theories and models** (`crt.evaluating-theories`, B2+–C2)
-- **Types of claims** (`arg.claim-types`, B1+–C1)
-- **Toulmin model of argument** (`arg.toulmin`, B2–C1)
-- **Supporting claims** (`arg.supporting-claims`, B1–C1)
-- **Making reasoning explicit** (`arg.warrants`, B2–C1)
-- **Anticipating counter-arguments** (`arg.counterarguments`, B1+–C1)
-- **Rebuttal and concession** (`arg.rebuttal-concession`, B2–C1)
-- **Taking and sustaining a position** (`arg.position`, B1+–C1)
-- **Rhetorical appeals** (`arg.rhetorical-appeals`, B1+–C1)
-- **Argument mapping** (`arg.argument-mapping`, B1+–C1)
-- **Structuring an extended argument** (`arg.extended-argument`, B2–C2)
-- **Arguing orally** (`arg.oral-argument`, B2–C1) — *assumed:* `sem.opinions`
-- **Exploratory and adversarial argument** (`arg.exploratory-adversarial`, B2–C1)
-- **Evaluating arguments** (`arg.evaluating-arguments`, B2–C2)
-- **Academic and writer identity** (`idn.academic-identity`, B2–C2)
-- **Intercultural rhetoric** (`idn.intercultural-rhetoric`, B2–C1)
-- **Linguistic diversity as resource** (`idn.diversity-as-resource`, B1–C1)
-- **Drawing on a plurilingual repertoire** (`idn.plurilingual-repertoire`, B1–C1)
-- **English as a lingua franca in academia** (`idn.elf`, B1+–C1)
-- **Intercultural communication** (`idn.intercultural-communication`, B1+–C1)
-- **Standards, native-speakerism and legitimacy** (`idn.standards-legitimacy`, B2–C2)
+#### Argument & Critical Thinking
 
-### Academic Genres
+- **Critical thinking in academic contexts** (`crt.concept`, core band B2)
+- **Evaluating theories and models** (`crt.evaluating-theories`, core band C1) — *assumed:* `crt.epistemic-beliefs`
+- **Structuring an extended argument** (`arg.extended-argument`, core band C1) — *assumed:* `arg.position`
+- **Evaluating arguments** (`arg.evaluating-arguments`, core band C1) — *assumed:* `arg.warrants`
 
-- **Genre and discourse community** (`ges.genre-concept`, B1+–C1)
-- **Analysing genres independently** (`ges.genre-analysis`, B1+–C1)
-- **Genre families in university assessment** (`ges.genre-families`, B1+–B2+)
-- **Argumentative essay** (`ges.argumentative-essay`, B1+–C1)
-- **Examination essay** (`ges.exam-essay`, B1+–C1)
-- **Critical review of an article** (`ges.critique`, B2–C1)
-- **Book review** (`ges.book-review`, B2+–C1)
-- **Reflective writing** (`ges.reflective-writing`, B1+–C1)
-- **Annotated bibliography** (`ges.annotated-bibliography`, B1+–B2+)
-- **Literature review assignment** (`ges.literature-review-assignment`, B2–C1)
-- **Report conventions** (`grp.report-conventions`, B1+–B2+)
-- **Laboratory report** (`grp.lab-report`, B1+–C1) — *assumed:* `fun.describing-process`
-- **Empirical project report** (`grp.empirical-project-report`, B2–C1)
-- **Case study analysis** (`grp.case-study`, B1+–C1)
-- **Business report** (`grp.business-report`, B1+–C1)
-- **Technical and design report** (`grp.technical-design-report`, B2–C1) — *assumed:* `fun.describing-structure`
-- **Project proposal (student)** (`grp.project-proposal`, B2–C1)
-- **Executive summary** (`grp.executive-summary`, B2–C1)
-- **Policy brief** (`grp.policy-brief`, B2+–C1)
-- **Professional practice portfolio** (`grp.professional-portfolio`, B2–C1)
-- **Academic blogs and public-facing writing** (`grp.public-writing`, B2+–C1)
-- **Undergraduate and master's dissertation** (`grp.dissertation-overview`, B2+–C1)
-- **Abstracts for student work** (`grp.student-abstract`, B2–C1)
+#### Academic Genres
 
-### Research Communication
+- **Literature review assignment** (`ges.literature-review-assignment`, core band B2+)
+- **Project proposal (student)** (`grp.project-proposal`, core band B2+)
+- **Undergraduate and master's dissertation** (`grp.dissertation-overview`, core band B2+)
 
-- **IMRaD and its variants** (`res.imrad`, B2–C1)
-- **Methods sections** (`res.methods`, B2+–C1) — *assumed:* `fun.describing-process`
-- **Results sections** (`res.results`, B2+–C1)
-- **Writing about limitations** (`res.limitations`, B2+–C1)
-- **Discussion sections** (`res.discussion`, B2+–C2)
-- **Research questions and hypotheses** (`res.research-questions`, B2+–C1)
-- **Establishing a research gap** (`res.gap-niche`, B2+–C1)
-- **Research article introductions** (`res.introductions-cars`, B2+–C2)
-- **Literature review in research writing** (`res.literature-review`, B2+–C2)
-- **Claiming contribution** (`res.contribution`, C1–C2)
-- **Conclusions and implications** (`res.conclusions-implications`, B2+–C1)
-- **Research abstracts** (`res.abstracts`, B2+–C1)
-- **Theoretical and conceptual frameworks** (`res.theoretical-framework`, C1–C2)
-- **Reporting qualitative findings** (`res.qualitative-reporting`, B2+–C1)
-- **Reporting quantitative findings** (`res.quantitative-reporting`, B2+–C1)
-- **Research proposals** (`res.research-proposal`, B2+–C2)
-- **Ethics applications and participant documents** (`res.ethics-documentation`, B2+–C1)
-- **Working with supervisors** (`res.supervision`, B2+–C1)
-- **Sustaining thesis writing** (`res.writing-productivity`, B2+–C1)
-- **Writing positionality statements** (`res.positionality-writing`, C1–C2)
-- **The academic publishing process** (`pub.publishing-process`, B2+–C1)
-- **Thesis macrostructure** (`res.thesis-macrostructure`, B2+–C1)
-- **Chapter introductions, conclusions and metatext** (`res.chapter-metatext`, B2+–C1)
-- **Conference abstracts** (`pub.conference-abstracts`, B2+–C1)
-- **Authorship and contribution** (`pub.authorship`, B2+–C1)
-- **Communicating research beyond academia** (`pub.research-engagement`, C1–C2)
-- **Academic CVs, biographies and personal statements** (`pub.academic-cv-bio`, B2–C1)
+#### Research Communication
 
-### Data, Numeracy & Multimodality
+- **Methods sections** (`res.methods`, core band B2+) — *assumed:* `fun.describing-process`, `res.imrad`
+- **Results sections** (`res.results`, core band B2+) — *assumed:* `res.imrad`
+- **Discussion sections** (`res.discussion`, core band C1)
+- **Conclusions and implications** (`res.conclusions-implications`, core band B2+)
+- **Abstracts for student and research writing** (`res.abstracts`, core band B2+) — *assumed:* `res.imrad`
+- **Writing about limitations** (`res.limitations`, core band B2+)
+- **Research questions and hypotheses** (`res.research-questions`, core band B2+) — *assumed:* `inf.research-question`
+- **Establishing a research gap** (`res.gap-niche`, core band B2+)
+- **Literature review in research writing** (`res.literature-review`, core band C1)
 
-- **Reading graphs and charts** (`dat.reading-graphs`, B1–B2+) — *assumed:* `dat.visual-types`
-- **Reading tables** (`dat.reading-tables`, B1–B2+)
-- **Figure and table captions** (`dat.captions-labelling`, B1+–C1)
-- **Recognising misleading visuals** (`dat.misleading-visuals`, B2–C1)
-- **Creating effective visuals** (`dat.creating-visuals`, B2–C1)
-- **Referring to visuals in text** (`dat.referring-to-visuals`, B1+–C1)
-- **Data commentary** (`dat.data-commentary`, B2–C1) — *assumed:* `dat.describing-trends`, `dat.describing-proportions`
-- **Approximation and precision** (`num.approximation`, B1+–C1) — *assumed:* `num.number-expressions`
-- **Basic statistical vocabulary** (`num.statistical-vocabulary`, B1+–C1)
-- **Relative and absolute change** (`num.relative-absolute`, B2–C1) — *assumed:* `dat.describing-proportions`
-- **Interpreting statistical claims** (`num.interpreting-statistics`, B2+–C1)
-- **Language of mathematical expression** (`num.mathematical-expression`, B1+–C1) — *assumed:* `num.number-expressions`
-- **Multimodal literacy** (`mmd.multimodal-literacy`, B1+–C1)
-- **Designing academic posters** (`mmd.poster-design`, B2–C1)
-- **Infographics and visual summaries** (`mmd.infographics`, B2–C1)
-- **Video essays and digital assessments** (`mmd.digital-assessments`, B1+–C1)
-- **Accessible academic documents** (`mmd.accessibility`, B1+–C1)
+#### Data, Numeracy & Multimodality
 
-### Learning & Autonomy
+- **Data commentary** (`dat.data-commentary`, core band B2+) — *assumed:* `dat.describing-trends`, `dat.describing-proportions`, `dat.referring-to-visuals`
 
-- **Motivation and the L2 self** (`lrn.motivation`, B1–C1)
-- **Metacognitive knowledge** (`lrn.metacognitive-knowledge`, B1–C1)
-- **Self-regulated learning** (`lrn.self-regulation`, B1–C1)
-- **Setting language and academic goals** (`lrn.goal-setting`, B1–B2+)
-- **Time and workload management** (`lrn.time-management`, B1–B2)
-- **Evidence-based study techniques** (`lrn.study-techniques`, B1–B2)
-- **Learner autonomy** (`lrn.autonomy`, B1–C1)
-- **Independent study** (`lrn.independent-study`, B1–B2+)
-- **Language learning strategies** (`lrn.language-learning-strategies`, B1–C1)
-- **Reflective learning logs** (`lrn.reflective-logs`, B1–B2+)
-- **Using academic support services** (`lrn.support-services`, B1–B2)
-- **Sustainable study habits and wellbeing** (`lrn.wellbeing`, B1–B2)
-- **Learning subject content through English** (`lrn.content-through-english`, B1–B2+)
-- **University assessment literacy** (`fbk.assessment-literacy`, B1–B2+)
-- **Grading systems** (`fbk.grading-systems`, B1–B2)
-- **Interpreting marking criteria** (`fbk.marking-criteria`, B1+–C1)
-- **Feedback literacy** (`fbk.feedback-literacy`, B1+–C1)
-- **Acting on feedback** (`fbk.acting-on-feedback`, B1+–C1)
-- **Using written corrective feedback** (`fbk.corrective-feedback`, B1–B2+)
-- **Seeking feedback** (`fbk.seeking-feedback`, B1+–C1)
-- **Self- and peer-assessment** (`fbk.self-peer-assessment`, B1+–C1)
-- **University exam formats** (`exm.exam-formats`, B1–B2)
-- **Analysing exam questions** (`exm.question-analysis`, B1+–B2+)
-- **Planning revision** (`exm.revision-planning`, B1–B2)
-- **Timed writing** (`exm.timed-writing`, B1+–C1)
-- **Objective question strategies** (`exm.objective-questions`, B1–B2)
-- **Open-book and take-home exams** (`exm.open-book`, B2–C1)
-- **Oral examinations** (`exm.oral-exams`, B1+–C1)
-- **Managing test anxiety** (`exm.test-anxiety`, B1–B2+)
-- **Proficiency, achievement and progression assessment** (`tst.assessment-purposes`, B1–B2+)
-- **Test tasks versus university tasks** (`tst.test-vs-university`, B1+–B2+) — *assumed:* `tst.test-formats`
+#### Assessment & Progression
 
-### Academic Socialisation & Communication
+- **Interpreting marking criteria** (`fbk.marking-criteria`, core band B2) — *assumed:* `fbk.assessment-literacy`
+- **Acting on feedback** (`fbk.acting-on-feedback`, core band B2) — *assumed:* `fbk.feedback-literacy`
 
-- **How universities are organised** (`acu.university-structures`, B1–B2)
-- **Teaching and learning formats** (`acu.teaching-formats`, B1–B2)
-- **Expectations of university learners** (`acu.academic-expectations`, B1–B2+)
-- **Discourse communities and disciplines** (`acu.discourse-communities`, B2–C1)
-- **Disciplinary knowledge-making** (`acu.disciplinary-knowledge`, B2–C1)
-- **Tacit expectations** (`acu.hidden-curriculum`, B1+–C1)
-- **Academic literacies perspective** (`acu.academic-literacies`, B2+–C1)
-- **Transition and adjustment** (`acu.transition`, B1–B2+)
-- **Academic roles and forms of address** (`acu.roles-address`, B1–B2)
-- **Critical perspectives on EAP** (`acu.critical-eap`, B2–C1)
-- **EMI and transnational education contexts** (`acu.emi-tne`, B1+–C1)
-- **Politeness and face in academic interaction** (`prg.politeness`, B1+–C1)
-- **Making requests** (`prg.requests`, B1+–C1)
-- **Emails to academic staff** (`prg.emails-to-staff`, B1–B2+)
-- **Office hours and tutorials** (`prg.office-hours`, B1+–C1)
-- **Apologising and explaining** (`prg.apologising-explaining`, B1–B2+)
-- **Formal statements and appeals** (`prg.formal-statements`, B2–C1)
-- **Online discussion forum posts** (`prg.forum-posts`, B1+–C1)
-- **Messaging channels and norms** (`prg.messaging-channels`, B1–B2+)
-- **Acknowledgements** (`prg.acknowledgements`, B2+–C1)
+#### Disciplinary Literacies
 
-### Digital Literacy & AI
+- **Laboratory notebooks and research records** (`dse.lab-notebooks`, core band B2+) — *assumed:* `num.units-measurement`
+- **Critical appraisal of health research** (`dhl.critical-appraisal`, core band B2+) — *assumed:* `ges.critique`, `dhl.evidence-based-practice`
+- **Applying management frameworks critically** (`dbe.critical-frameworks`, core band B2) — *assumed:* `crt.applying-theory`
+- **Business case analysis** (`dbe.business-case-analysis`, core band B2) — *assumed:* `grp.case-study`
+- **Language and genres of accounting and finance** (`dbe.accounting-finance-discourse`, core band B2+) — *assumed:* `num.relative-absolute`
+- **Consultancy and client project reports** (`dbe.consultancy-report`, core band B2+) — *assumed:* `grp.business-report`
+- **Reading and briefing cases** (`dlw.case-reading`, core band B2) — *assumed:* `rdc.argument-identification`, `dlw.legal-language`
+- **Legal essays** (`dlw.legal-essays`, core band B2+) — *assumed:* `cit.note-based`, `ges.argumentative-essay`
+- **Legal research and dissertation writing** (`dlw.legal-research-writing`, core band C1)
+- **Working with concepts** (`dss.operationalising-concepts`, core band B2+) — *assumed:* `fun.defining`
+- **Field notes, analytic memos and analysis accounts** (`dss.qualitative-writing`, core band B2+) — *assumed:* `crt.description-analysis-evaluation`
+- **Policy analysis** (`dss.policy-analysis`, core band B2+) — *assumed:* `fun.problem-solution`, `rdc.assumptions`
+- **Justifying methodology** (`dss.methodology-justification`, core band C1)
+- **Education and TESOL practice genres** (`dss.education-practice-genres`, core band B2+) — *assumed:* `crt.applying-theory`, `ges.reflective-writing`
+- **Working with primary sources** (`dhu.primary-sources`, core band B2+) — *assumed:* `rdc.bias-perspective`, `inf.source-types`
+- **Practice-based research and exegesis** (`dad.practice-research-exegesis`, core band C1) — *assumed:* `dad.design-rationale`
 
-- **Virtual learning environments** (`dig.vle`, B1–B2)
-- **Academic word processing** (`dig.word-processing`, B1–B2+)
-- **Reference management software** (`dig.reference-managers`, B1+–C1)
-- **Machine translation** (`dig.machine-translation`, B1–C1)
-- **File and version management** (`dig.file-management`, B1–C1)
-- **Digital collaboration tools** (`dig.digital-collaboration`, B1+–C1)
-- **Digital etiquette and online presence** (`dig.digital-etiquette`, B1+–C1)
-- **Automated writing evaluation tools** (`dig.automated-feedback-tools`, B1+–C1)
-- **How generative AI works and fails** (`gai.how-genai-works`, B1+–C1)
-- **Interpreting AI policies** (`gai.policies`, B1+–B2+)
-- **Acknowledging and citing AI use** (`gai.acknowledging-use`, B1+–C1)
-- **Verifying AI output** (`gai.verifying-output`, B1+–C1)
-- **AI, authorship and voice** (`gai.authorship-voice`, B2–C2)
-- **Limits of AI detection** (`gai.detection-limits`, B1+–C1)
-- **Prompting for learning** (`gai.prompting-for-learning`, B1+–C1)
-- **Using AI as a language-learning resource** (`gai.language-support`, B1+–C1)
-- **AI-assisted research tools** (`gai.research-tools`, B2+–C1)
-- **Privacy, data and intellectual property with AI** (`gai.privacy-ip`, B2–C1)
+### Develop where relevant
 
-### Disciplinary Literacies
+Core academic vocabulary (`voc.core-academic-vocabulary`); Verbs for academic and research processes (`voc.academic-verbs`); Abstract and shell nouns (`voc.abstract-shell-nouns`); Technical and discipline-specific terminology (`voc.technical-terminology`); Sub-technical vocabulary and polysemy (`voc.subtechnical-polysemy`); Lexical precision and near-synonyms (`voc.precision-near-synonyms`); Evaluative vocabulary (`voc.evaluative-lexis`); Academic collocations (`phr.academic-collocations`); Verb–noun collocation accuracy (`phr.verb-noun-collocation-accuracy`); Research-oriented lexical bundles (`phr.bundles-research-oriented`); Stance and engagement bundles (`phr.bundles-stance`); Consulting corpora for usage (`phr.corpus-consultation`); Using phrasebanks critically (`phr.phrasebank-use`); Myths and change in academic style (`reg.style-myths-variation`); Impersonality and authorial presence (`reg.impersonality-presence`); Information density and readability (`reg.information-density`); Inclusive and bias-free language (`reg.inclusive-language`); Writing and speaking for non-specialist audiences (`reg.non-specialist-audiences`); Noun-phrase premodification (`grm.np-premodification`); Noun-phrase postmodification (`grm.np-postmodification`); Nominalisation and grammatical metaphor (`grm.nominalisation`); Phrasal versus clausal complexity (`grm.phrasal-complexity`); Articles in academic writing (`grm.articles`); Non-finite clauses (`grm.non-finite-clauses`); Cleft and pseudo-cleft sentences (`grm.clefts-emphasis`); Fronting and inversion (`grm.fronting-inversion`); Monitoring recurrent grammatical errors (`grm.error-monitoring`); Clarity and end-weight (`sen.clarity-end-weight`); Given–new information structure (`coh.given-new`); Thematic progression (`coh.thematic-progression`); Encapsulation with signalling nouns (`coh.signalling-nouns`); Frame markers and advance organisers (`coh.frame-markers`); Metadiscourse (`sta.metadiscourse`); Attitude markers (`sta.attitude-markers`); Self-mention and authorial roles (`sta.self-mention`); Reader engagement (`sta.engagement-markers`); Authorial voice (`sta.authorial-voice`); Code glosses and exemplification (`sta.code-glosses`); Expressing stance in speech (`sta.spoken-stance`); Defining terms (`fun.defining`); Expressing cause and effect (`fun.cause-effect`); Problem, solution and evaluation (`fun.problem-solution`); Explaining and justifying (`fun.explaining`); Predicting and hypothesising (`fun.hypothesising`); Recommending (`fun.recommending`); Summarising and concluding (`fun.summarising-concluding`); Evaluating strengths, weaknesses and significance (`fun.evaluating`); Parsing complex academic sentences (`rdp.parsing-complex-sentences`); Background knowledge and schemata (`rdp.background-knowledge`); Strategic use of first language and translation in reading (`rdp.plurilingual-reading`); Identifying writer stance and attributed views (`rds.writer-stance`); Integrating text and visuals (`rds.visuals-in-text`); What critical reading involves (`rdc.critical-reading`); Identifying assumptions and values (`rdc.assumptions`); Recognising bias and perspective (`rdc.bias-perspective`); Reading theoretical and conceptual texts (`rdc.theoretical-texts`); Understanding varied accents (`lis.accent-variation`); Inferring speaker stance (`lis.speaker-stance`); Following multi-party discussion (`lis.multi-party-discussion`); Listening to academic media (`lis.academic-media`); Collaborative notes (`ntk.collaborative-notes`); Purposes and expectations of seminars (`sem.seminar-purposes`); Turn-taking and taking the floor (`sem.turn-taking`); Agreeing and disagreeing (`sem.agreeing-disagreeing`); Facilitating discussion (`sem.facilitating`); Summarising discussion (`sem.summarising-discussion`); Managing speaking anxiety and willingness to communicate (`sem.speaking-anxiety`); Synchronous online discussion (`sem.online-discussion`); Explaining concepts and readings to peers (`sem.explaining-concepts`); Purpose and audience analysis (`prs.purpose-audience`); Talking about visuals and data (`prs.explaining-visuals`); Handling questions (`prs.handling-questions`); Group presentations (`prs.group-presentations`); Academic posters: design and presentation (`prs.posters`); Research and conference presentations (`prs.research-presentations`); Recorded and online presentations (`prs.recorded-online`); Short-format research pitches (`prs.research-pitches`); Sentence stress and prominence (`prn.prominence`); Intonation for discourse functions (`prn.intonation`); Pronouncing technical terms and names (`prn.technical-terms`); Developing speech fluency (`prn.fluency`); Roles and planning (`grw.roles-planning`); Running group meetings (`grw.meetings`); Managing disagreement and conflict (`grw.conflict`); Inclusive collaboration in multilingual groups (`grw.inclusive-collaboration`); Collaborative writing (`grw.collaborative-writing`); Assessing contributions (`grw.contribution-assessment`); Analysing and answering assignment and exam tasks (`wpr.task-analysis`); Planning and outlining (`wpr.planning-outlining`); Reading to write: from task to source-based text (`wpr.reading-to-write`); Audience and purpose (`wpr.audience-purpose`); Overcoming writing blocks (`wpr.writing-blocks`); Internal paragraph coherence (`par.internal-coherence`); Integrating sources in paragraphs (`par.integrating-evidence`); Organising the essay body (`ess.body-organisation`); Depth versus breadth (`ess.depth-focus`); Writing titles (`ess.titles`); Global revision (`edt.global-revision`); Reverse outlining (`edt.reverse-outlining`); Editing for style and clarity (`edt.style-editing`); Self-assessing drafts against criteria (`edt.criteria-self-assessment`); Peer review of drafts (`edt.peer-review`); Acceptable third-party proofreading (`edt.proofreading-ethics`); How scholarly knowledge is produced (`inf.scholarly-communication`); Search strategies (`inf.search-strategies`); Library catalogues, databases and discovery tools (`inf.databases`); Evaluating sources (`inf.source-evaluation`); Predatory publishing, retractions and misinformation (`inf.problematic-publishing`); Recording searches and sources (`inf.search-records`); Open access and legal access (`inf.open-access`); Systematic and scoping searching (`inf.systematic-searching`); Paraphrasing (`src.paraphrasing`); Patchwriting (`src.patchwriting`); Reporting verbs and signal phrases (`src.reporting-verbs`); Integral and non-integral citation (`src.citation-forms`); Distinguishing own voice from source voice (`src.voice-boundaries`); Using sources in other languages (`src.multilingual-sources`); Synthesis matrices (`syn.synthesis-matrix`); Writing relationships between sources (`syn.relating-sources`); When to cite (`cit.when-to-cite`); Numeric citation systems (`cit.numeric`); Note-based citation (`cit.note-based`); Citing diverse source types (`cit.diverse-sources`); Citation accuracy and consistency (`cit.accuracy-consistency`); Whose knowledge is cited (`cit.citation-politics`); Understanding plagiarism (`int.plagiarism`); Reusing one's own work (`int.recycling-own-work`); Collusion and legitimate collaboration (`int.collusion`); Interpreting similarity reports (`int.similarity-reports`); Integrity policies and processes (`int.policy-processes`); Managing integrity risk under pressure (`int.pressure-risks`); Critical questioning and question sets (`crt.questioning`); Types and strength of evidence (`crt.evidence-types`); Deductive, inductive and abductive reasoning (`crt.reasoning-types`); Correlation and causation (`crt.correlation-causation`); Cognitive biases (`crt.cognitive-biases`); Beliefs about knowledge (`crt.epistemic-beliefs`); Applying theory to cases (`crt.applying-theory`); Analytical problem-solving (`crt.problem-solving`); Reflexivity and positionality (`crt.reflexivity`); Toulmin model of argument (`arg.toulmin`); Making reasoning explicit (`arg.warrants`); Rebuttal and concession (`arg.rebuttal-concession`); Taking and sustaining a position (`arg.position`); Rhetorical appeals (`arg.rhetorical-appeals`); Argument mapping (`arg.argument-mapping`); Arguing orally (`arg.oral-argument`); Exploratory and adversarial argument (`arg.exploratory-adversarial`); Analysing genres independently (`ges.genre-analysis`); Genre families and essay types in university assessment (`ges.genre-families`); Examination essay (`ges.exam-essay`); Critical review of an article (`ges.critique`); Book review (`ges.book-review`); Reflective writing (`ges.reflective-writing`); Laboratory report (`grp.lab-report`); Empirical project report (`grp.empirical-project-report`); Case study analysis (`grp.case-study`); Business report (`grp.business-report`); Technical and design report (`grp.technical-design-report`); Executive summary (`grp.executive-summary`); Policy brief (`grp.policy-brief`); Professional practice portfolio (`grp.professional-portfolio`); Academic blogs and public-facing writing (`grp.public-writing`); IMRaD and its variants (`res.imrad`); Research article introductions (`res.introductions-cars`); Claiming contribution (`res.contribution`); Chapter introductions, conclusions and metatext (`res.chapter-metatext`); Theoretical and conceptual frameworks (`res.theoretical-framework`); Reporting qualitative findings (`res.qualitative-reporting`); Reporting quantitative findings (`res.quantitative-reporting`); Research proposals (`res.research-proposal`); Ethics applications and participant documents (`res.ethics-documentation`); Working with supervisors (`res.supervision`); Sustaining thesis writing (`res.writing-productivity`); Writing positionality statements (`res.positionality-writing`); Acknowledgements (`res.acknowledgements`); Writing systematic and scoping reviews (`res.systematic-review-writing`); Wording survey and interview questions (`res.instrument-wording`); The academic publishing process (`pub.publishing-process`); Conference abstracts (`pub.conference-abstracts`); Authorship and contribution (`pub.authorship`); Communicating research beyond academia (`pub.research-engagement`); Academic CVs and biographical statements (`pub.academic-cv-bio`); Funding, fellowship and grant applications (`pub.funding-applications`); Participating in conferences (`pub.conference-participation`); Personal statements for postgraduate study and funding (`pub.personal-statements`); Open research practices and statements (`pub.open-research`); Reading tables (`dat.reading-tables`); Figure and table captions (`dat.captions-labelling`); Creating effective visuals (`dat.creating-visuals`); Recognising misleading visuals (`dat.misleading-visuals`); Basic statistical vocabulary (`num.statistical-vocabulary`); Interpreting statistical claims (`num.interpreting-statistics`); Relative and absolute change (`num.relative-absolute`); Language of mathematical expression (`num.mathematical-expression`); Infographics and visual summaries (`mmd.infographics`); Video essays and digital assessments (`mmd.digital-assessments`); Accessible academic documents (`mmd.accessibility`); Time and workload management (`lrn.time-management`); Independent study (`lrn.independent-study`); Learning subject content through English (`lrn.content-through-english`); University assessment literacy (`fbk.assessment-literacy`); Grading systems and mark scales (`fbk.grading-systems`); Feedback literacy (`fbk.feedback-literacy`); Seeking feedback (`fbk.seeking-feedback`); Self- and peer-assessment (`fbk.self-peer-assessment`); University exam formats (`exm.exam-formats`); Open-book, take-home and online time-windowed exams (`exm.open-book`); Test tasks versus university tasks (`tst.test-vs-university`); Expectations of university learners (`acu.academic-expectations`); Discourse communities and disciplines (`acu.discourse-communities`); Disciplinary knowledge-making (`acu.disciplinary-knowledge`); Tacit expectations (`acu.hidden-curriculum`); Academic literacies perspective (`acu.academic-literacies`); Transition and adjustment (`acu.transition`); Making informed choices about academic conventions (`acu.critical-eap`); EMI and transnational education contexts (`acu.emi-tne`); Politeness and face in academic interaction (`prg.politeness`); Making requests (`prg.requests`); Office hours and tutorials (`prg.office-hours`); Formal statements and appeals (`prg.formal-statements`); Online discussion forum posts (`prg.forum-posts`); Informal academic interaction and networking (`prg.informal-academic-interaction`); Applications and interviews for placements and graduate roles (`prg.professional-applications`); Academic and writer identity (`idn.academic-identity`); Drawing on a plurilingual repertoire (`idn.plurilingual-repertoire`); English as a lingua franca in academia (`idn.elf`); Intercultural communication (`idn.intercultural-communication`); Intercultural rhetoric (`idn.intercultural-rhetoric`); Linguistic diversity as resource (`idn.diversity-as-resource`); Standards, native-speakerism and legitimacy (`idn.standards-legitimacy`); Translingual writing and code-meshing (`idn.translingual-writing`); Reference management software (`dig.reference-managers`); Translation tools in reading and drafting (`dig.machine-translation`); Digital collaboration tools (`dig.digital-collaboration`); File and version management (`dig.file-management`); Digital etiquette and online presence (`dig.digital-etiquette`); Assistive technology and study adjustments (`dig.assistive-technology`); How generative AI works and fails (`gai.how-genai-works`); Interpreting AI policies (`gai.policies`); Acknowledging and citing AI use (`gai.acknowledging-use`); Verifying AI output (`gai.verifying-output`); Using AI as a tutor and language-learning resource (`gai.language-support`); AI, authorship and voice (`gai.authorship-voice`); Limits of AI detection (`gai.detection-limits`); AI-assisted research tools (`gai.research-tools`); Privacy, data and intellectual property with AI (`gai.privacy-ip`); Protocols and specifications (`dse.protocols-specifications`); Software and technical documentation (`dse.software-documentation`); Mathematical writing and proofs (`dse.mathematical-writing`); Evidence-based practice (`dhl.evidence-based-practice`); Reflective practice writing in health (`dhl.reflective-practice`); Case presentations (`dhl.case-reports-care-plans`); Professional communication in health placements (`dhl.professional-communication`); Writing clinical reasoning (`dhl.clinical-reasoning-writing`); Care plans (`dhl.care-plans`); Language of economic reasoning (`dbe.economic-reasoning`); Professional business genres (`dbe.professional-genres`); Legal language and register (`dlw.legal-language`); Legal problem questions (`dlw.problem-questions`); Reading legislation (`dlw.statutes`); Mooting and oral legal argument (`dlw.mooting`); Psychology research reports (`dss.psychology-research-report`); Close reading and textual analysis (`dhu.close-reading`); Interpretive argument (`dhu.interpretive-argument`); Philosophical writing (`dhu.philosophical-writing`); Studio critiques (`dad.studio-critique`); Artist and design statements (`dad.artist-statement`); Design rationale and process documentation (`dad.design-rationale`).
 
-- **The language of science** (`dse.scientific-language`, B1+–C1)
-- **Protocols and specifications** (`dse.protocols-specifications`, B2–C1) — *assumed:* `fun.describing-process`, `num.units-measurement`
-- **Language of experimentation** (`dse.hypothesis-language`, B1+–C1)
-- **Software and technical documentation** (`dse.software-documentation`, B2–C1)
-- **Mathematical writing and proofs** (`dse.mathematical-writing`, B2–C1) — *assumed:* `grm.conditionals`
-- **Evidence-based practice** (`dhl.evidence-based-practice`, B2–C1)
-- **Reflective practice writing in health** (`dhl.reflective-practice`, B2–C1)
-- **Case reports and care plans** (`dhl.case-reports-care-plans`, B2–C1) — *assumed:* `fun.chronology-narration`
-- **Professional communication in health placements** (`dhl.professional-communication`, B2–C1)
-- **Critical appraisal and systematic review writing** (`dhl.critical-appraisal`, B2+–C1)
-- **Language of economic reasoning** (`dbe.economic-reasoning`, B2–C1) — *assumed:* `grm.conditionals`
-- **Professional business genres** (`dbe.professional-genres`, B2–C1)
-- **Applying management frameworks critically** (`dbe.critical-frameworks`, B2–C1)
-- **Business case analysis** (`dbe.business-case-analysis`, B2–C1)
-- **Legal language and register** (`dlw.legal-language`, B2–C1)
-- **Reading and briefing cases** (`dlw.case-reading`, B2–C1)
-- **Reading legislation** (`dlw.statutes`, B2+–C1)
-- **Legal problem questions** (`dlw.problem-questions`, B2–C1)
-- **Legal essays** (`dlw.legal-essays`, B2+–C1)
-- **Working with concepts** (`dss.operationalising-concepts`, B2–C1)
-- **Policy analysis** (`dss.policy-analysis`, B2+–C1)
-- **Justifying methodology** (`dss.methodology-justification`, B2+–C1)
-- **Qualitative research writing** (`dss.qualitative-writing`, B2+–C1)
-- **Close reading and textual analysis** (`dhu.close-reading`, B2–C1)
-- **Working with primary sources** (`dhu.primary-sources`, B2–C1) — *assumed:* `inf.source-types`
-- **Interpretive argument** (`dhu.interpretive-argument`, B2–C2)
-- **Philosophical writing** (`dhu.philosophical-writing`, B2+–C2)
-- **Visual analysis** (`dad.visual-analysis`, B1+–C1)
-- **Studio critiques** (`dad.studio-critique`, B2–C1)
-- **Artist and design statements** (`dad.artist-statement`, B2–C1)
-- **Design rationale and process documentation** (`dad.design-rationale`, B2–C1)
+### Revisit
+
+Deliberate vocabulary learning systems (`voc.deliberate-learning-systems`); Moving vocabulary into productive use (`voc.receptive-to-productive`); Word grammar and complementation patterns (`voc.word-grammar-patterns`); Countability of academic nouns (`voc.countability-academic-nouns`); Vocabulary of university study (`voc.university-terminology`); Assignment command words (`voc.command-words`); Spoken academic formulas (`phr.spoken-academic-formulas`); Fixed expressions, idioms and binomials (`phr.fixed-expressions`); Spoken versus written academic language (`reg.spoken-vs-written`); Subject–verb agreement with complex subjects (`grm.subject-verb-agreement`); Tense and aspect in academic writing (`grm.tense-aspect`); Passive voice and agency (`grm.passive-voice`); Epistemic modal verbs (`grm.epistemic-modality`); Coordination and parallel structure (`grm.coordination-parallelism`); Anticipatory 'it' and extraposition (`grm.anticipatory-it`); Prepositions and complex prepositions (`grm.prepositions`); Placement and punctuation of linking adverbials (`grm.linking-adverbial-placement`); Reporting structures (`grm.reporting-structures`); Pronoun and demonstrative reference (`grm.reference-pronouns`); Ellipsis and substitution (`grm.ellipsis-substitution`); Grammar of spoken academic interaction (`grm.spoken-grammar`); Genitive and noun-modifier choices (`grm.genitive-noun-modifiers`); Unaccusative and ergative verbs (`grm.unaccusative-verbs`); Commas in academic prose (`sen.commas`); Semicolons and colons (`sen.semicolons-colons`); Sentence length and variety (`sen.sentence-length-variety`); Lists and bullet points (`sen.lists-bullets`); Punctuation and mechanics beyond the comma (`sen.punctuation-mechanics`); Lexical cohesion and reference chains (`coh.lexical-cohesion`); Linking adverbials and connector precision (`coh.linking-adverbials`); Text structure patterns (`coh.text-patterns`); Making reasoning explicit for the reader (`coh.writer-responsibility`); Hedging and qualifying generalisations (`sta.hedging`); Boosters (`sta.boosters`); Averral versus attribution (`sta.averral-attribution`); Language of concession and counter-argument (`sta.concession-language`); Comparing and contrasting (`fun.comparing-contrasting`); Reading as an interactive process (`rdp.interactive-reading`); Reading fluency and rate (`rdp.reading-fluency-rate`); Extensive reading (`rdp.extensive-reading`); Reading with a purpose (`rdp.reading-purpose`); Reading on screen (`rdp.digital-reading`); Previewing and surveying (`rds.previewing`); Recognising text organisation (`rds.text-organisation`); Making inferences (`rds.inference`); Monitoring comprehension (`rds.comprehension-monitoring`); Purposeful annotation (`rds.annotation`); Identifying arguments in texts (`rdc.argument-identification`); Formulating a critical response (`rdc.critical-response`); Recognising connected speech (`lis.connected-speech`); Coping with natural speech rate (`lis.speech-rate`); Emphasis and relevance markers (`lis.relevance-markers`); Handling digressions and asides (`lis.digressions`); Identifying main points and supporting detail (`lis.main-points`); Preparing for lectures (`lis.pre-listening-preparation`); Integrating slides, visuals and speech (`lis.multimodal-lectures`); Using lecture capture strategically (`lis.recorded-lectures`); Note formats (`ntk.note-formats`); Taking notes in lectures (`ntk.lecture-notes`); Reviewing and reworking notes (`ntk.reviewing-notes`); Digital and handwritten note-taking (`ntk.digital-notes`); Preparing for seminars (`sem.preparation`); Asking questions and seeking clarification (`sem.questions-clarification`); Checking and confirming understanding (`sem.checking-understanding`); Structuring a presentation (`prs.structure`); Opening a presentation (`prs.openings`); Signposting in presentations and spoken explanations (`prs.signposting`); Designing slides (`prs.slide-design`); Vocal delivery (`prs.delivery-voice`); Speaking from notes (`prs.speaking-from-notes`); Rehearsal and timing (`prs.rehearsal-timing`); Word stress in academic vocabulary (`prn.word-stress`); Thought groups and pausing (`prn.thought-groups`); Prioritised segmental features (`prn.segmental-priorities`); Connected speech in production (`prn.connected-speech-production`); Self-repair and reformulation (`prn.repair`); Saying numbers, formulae and symbols aloud (`prn.numbers-aloud`); Purposes of group work (`grw.purposes`); Writing as a recursive process (`wpr.writing-process`); Drafting (`wpr.drafting`); Using the first language in composing (`wpr.l1-in-composing`); Working within word limits (`wpr.word-limits`); Formatting and presentation (`wpr.formatting`); Thesis statements (`ess.thesis-statement`); Writing introductions (`ess.introductions`); Writing conclusions (`ess.conclusions`); Headings and sections (`ess.headings`); Revision, editing and proofreading (`edt.revision-editing-proofreading`); Editing for grammatical accuracy (`edt.grammar-editing`); Proofreading (`edt.proofreading`); Focusing a topic for searching (`inf.research-question`); Lateral reading (`inf.lateral-reading`); Integrating quotations (`src.integrating-quotations`); Secondary citation (`src.secondary-citation`); What synthesis is (`syn.synthesis-concept`); Why academics cite (`cit.why-cite`); Referencing systems and style guides (`cit.referencing-systems`); In-text citation: author–date (`cit.author-date-in-text`); Compiling a reference list (`cit.reference-list`); Page numbers and locators (`cit.locators`); Values of academic integrity (`int.integrity-values`); Contract cheating (`int.contract-cheating`); Description, analysis and evaluation (`crt.description-analysis-evaluation`); Recognising fallacies (`crt.fallacies`); Considering multiple perspectives (`crt.multiple-perspectives`); What counts as an academic argument (`arg.argument-concept`); Types of claims (`arg.claim-types`); Supporting claims (`arg.supporting-claims`); Anticipating counter-arguments (`arg.counterarguments`); What a genre is (`ges.genre-concept`); Argumentative essay (`ges.argumentative-essay`); Annotated bibliography (`ges.annotated-bibliography`); Report conventions (`grp.report-conventions`); Reading graphs and charts (`dat.reading-graphs`); Referring to visuals in text (`dat.referring-to-visuals`); Expressing and presenting quantities accurately (`num.number-expressions`); Approximation and precision (`num.approximation`); Multimodal literacy (`mmd.multimodal-literacy`); Self-regulated learning and learner autonomy (`lrn.self-regulation`); Setting language and academic goals (`lrn.goal-setting`); Evidence-based study techniques (`lrn.study-techniques`); Language learning strategies (`lrn.language-learning-strategies`); Reflective learning logs (`lrn.reflective-logs`); Using academic support services (`lrn.support-services`); Sustainable study habits and wellbeing (`lrn.wellbeing`); Motivation and the L2 self (`lrn.motivation`); Metacognitive knowledge (`lrn.metacognitive-knowledge`); Using written corrective feedback (`fbk.corrective-feedback`); Planning revision (`exm.revision-planning`); Timed writing (`exm.timed-writing`); Objective question strategies (`exm.objective-questions`); Oral examinations (`exm.oral-exams`); Managing test anxiety (`exm.test-anxiety`); Proficiency, achievement and progression assessment (`tst.assessment-purposes`); How universities are organised (`acu.university-structures`); Teaching and learning formats (`acu.teaching-formats`); Academic roles and forms of address (`acu.roles-address`); Emails to academic staff (`prg.emails-to-staff`); Apologising and explaining (`prg.apologising-explaining`); Messaging channels and norms (`prg.messaging-channels`); Virtual learning environments (`dig.vle`); Academic word processing (`dig.word-processing`); Editing and automated feedback tools (`dig.automated-feedback-tools`); The language of science (`dse.scientific-language`); Language of experimentation (`dse.hypothesis-language`); Visual analysis (`dad.visual-analysis`).
 
 ## Postgraduate research
 
-261 topics.
+46 core · 139 develop · 88 revisit.
 
-### Academic Language
+### Core
 
-- **Abstract and shell nouns** (`voc.abstract-shell-nouns`, B2–C1) — *assumed:* `voc.core-academic-vocabulary`
-- **Technical and discipline-specific terminology** (`voc.technical-terminology`, B1+–C1)
-- **Lexical precision and near-synonyms** (`voc.precision-near-synonyms`, B2–C1) — *assumed:* `voc.core-academic-vocabulary`
-- **Evaluative vocabulary** (`voc.evaluative-lexis`, B2–C1)
-- **Verb–noun collocation accuracy** (`phr.verb-noun-collocation-accuracy`, B1+–C1) — *assumed:* `phr.academic-collocations`
-- **Research-oriented lexical bundles** (`phr.bundles-research-oriented`, B2–C1) — *assumed:* `phr.collocation-awareness`
-- **Stance and engagement bundles** (`phr.bundles-stance`, B2–C1) — *assumed:* `phr.collocation-awareness`, `grm.anticipatory-it`
-- **Consulting corpora for usage** (`phr.corpus-consultation`, B2–C1) — *assumed:* `phr.collocation-awareness`
-- **Using phrasebanks critically** (`phr.phrasebank-use`, B1+–C1)
-- **Myths and change in academic style** (`reg.style-myths-variation`, B2–C1) — *assumed:* `reg.formality-features`
-- **Inclusive and bias-free language** (`reg.inclusive-language`, B2–C1)
-- **Nominalisation and grammatical metaphor** (`grm.nominalisation`, B2–C1) — *assumed:* `voc.word-families-morphology`, `grm.np-postmodification`
-- **Information density and readability** (`reg.information-density`, B2–C2) — *assumed:* `reg.spoken-vs-written`
-- **Writing and speaking for non-specialist audiences** (`reg.non-specialist-audiences`, B2+–C2)
-- **Phrasal versus clausal complexity** (`grm.phrasal-complexity`, B2–C1) — *assumed:* `grm.np-premodification`
-- **Articles in academic writing** (`grm.articles`, B1–C1) — *assumed:* `voc.countability-academic-nouns`
-- **Tense when reporting research** (`grm.tense-in-reporting`, B2–C1) — *assumed:* `grm.tense-aspect`
-- **Passive voice and agency** (`grm.passive-voice`, B1–C1) — *assumed:* `grm.clause-elements`, `grm.tense-aspect`
-- **Impersonality and authorial presence** (`reg.impersonality-presence`, B2–C1)
-- **Disciplinary variation in style** (`reg.disciplinary-style`, B2+–C2)
-- **Cleft and pseudo-cleft sentences** (`grm.clefts-emphasis`, B2+–C1)
-- **Fronting and inversion** (`grm.fronting-inversion`, B2+–C1) — *assumed:* `grm.tense-aspect`
-- **Monitoring recurrent grammatical errors** (`grm.error-monitoring`, B1–C1)
-- **Concision** (`sen.concision`, B2–C1)
-- **Clarity and end-weight** (`sen.clarity-end-weight`, B2+–C1)
+#### Academic Language
 
-### Academic Discourse
+- **Writing and speaking for non-specialist audiences** (`reg.non-specialist-audiences`, core band C1) — *assumed:* `voc.technical-terminology`, `reg.information-density`
+- **Disciplinary variation in style** (`reg.disciplinary-style`, core band C1) — *assumed:* `reg.impersonality-presence`
+- **Clarity and end-weight** (`sen.clarity-end-weight`, core band C1) — *assumed:* `grm.phrasal-complexity`
 
-- **Given–new information structure** (`coh.given-new`, B2–C1)
-- **Thematic progression** (`coh.thematic-progression`, B2–C1)
-- **Encapsulation with signalling nouns** (`coh.signalling-nouns`, B2–C1) — *assumed:* `grm.reference-pronouns`
-- **Frame markers and advance organisers** (`coh.frame-markers`, B1+–C1)
-- **Terminological consistency** (`coh.terminological-consistency`, B2–C1) — *assumed:* `coh.lexical-cohesion`
-- **Signposting in spoken academic discourse** (`coh.spoken-signposting`, B1+–C1)
-- **Hedging devices** (`sta.hedging`, B1+–C2) — *assumed:* `grm.epistemic-modality`
-- **Metadiscourse** (`sta.metadiscourse`, B2–C1)
-- **Calibrating claims to evidence** (`sta.claim-calibration`, B2–C2) — *assumed:* `sta.boosters`
-- **Attitude markers** (`sta.attitude-markers`, B2–C1)
-- **Self-mention and authorial roles** (`sta.self-mention`, B2–C2)
-- **Reader engagement** (`sta.engagement-markers`, B2+–C1)
-- **Averral versus attribution** (`sta.averral-attribution`, B2–C1)
-- **Dialogic positioning (engagement)** (`sta.dialogic-positioning`, B2+–C2)
-- **Language for evaluating others' work** (`sta.evaluating-others-language`, B2+–C2)
-- **Authorial voice** (`sta.authorial-voice`, B2+–C2)
-- **Expressing stance in speech** (`sta.spoken-stance`, B1+–C1)
-- **Predicting and hypothesising** (`fun.hypothesising`, B1+–C1) — *assumed:* `grm.conditionals`
+#### Academic Discourse
 
-### Academic Reading
+- **Given–new information structure** (`coh.given-new`, core band B2+)
+- **Calibrating claims to evidence** (`sta.claim-calibration`, core band B2+) — *assumed:* `sta.hedging`, `sta.boosters`
+- **Self-mention and authorial roles** (`sta.self-mention`, core band B2+)
+- **Opening and closing space for other voices** (`sta.dialogic-positioning`, core band C1) — *assumed:* `sta.averral-attribution`
+- **Authorial voice** (`sta.authorial-voice`, core band C1) — *assumed:* `sta.averral-attribution`
 
-- **Background knowledge and schemata** (`rdp.background-knowledge`, B1–C1)
-- **Managing reading load** (`rdp.managing-reading-load`, B1+–C1) — *assumed:* `rdp.reading-purpose`
-- **Navigating research articles** (`rds.research-article-navigation`, B2–C1) — *assumed:* `rds.previewing`
-- **Identifying writer stance and attributed views** (`rds.writer-stance`, B2–C1)
-- **Monitoring comprehension** (`rds.comprehension-monitoring`, B1–C1)
-- **Reading on screen** (`rdp.digital-reading`, B1–C1)
-- **Strategic use of first language and translation in reading** (`rdp.plurilingual-reading`, B1–C1)
-- **Evaluating evidence in texts** (`rdc.evidence-evaluation`, B2–C1) — *assumed:* `rdc.argument-identification`
-- **Identifying assumptions and values** (`rdc.assumptions`, B2–C1) — *assumed:* `rdc.argument-identification`
-- **Reading methods critically** (`rdc.methods-critique`, B2+–C1)
-- **Reading across multiple texts** (`rdc.multiple-texts`, B2–C1) — *assumed:* `rdc.argument-identification`
-- **Mapping a body of literature** (`rdc.literature-mapping`, B2+–C2)
-- **Reading theoretical and conceptual texts** (`rdc.theoretical-texts`, B2+–C2) — *assumed:* `rdp.parsing-complex-sentences`
-- **Generating critical questions** (`rdc.critical-questions`, B1+–C1) — *assumed:* `rdc.critical-reading`
-- **Formulating a critical response** (`rdc.critical-response`, B1+–C1)
+#### Academic Reading
 
-### Academic Listening
+- **Mapping a body of literature** (`rdc.literature-mapping`, core band C1) — *assumed:* `rdc.multiple-texts`
 
-- **Understanding varied accents** (`lis.accent-variation`, B1+–C1)
-- **Inferring speaker stance** (`lis.speaker-stance`, B2–C1) — *assumed:* `lis.main-points`
-- **Following multi-party discussion** (`lis.multi-party-discussion`, B2–C1)
-- **Listening to academic media** (`lis.academic-media`, B2–C1) — *assumed:* `lis.main-points`
-- **Making notes from reading** (`ntk.notes-from-reading`, B1+–C1) — *assumed:* `ntk.selecting-content`
+#### Academic Speaking
 
-### Academic Speaking
+- **Research and conference presentations** (`prs.research-presentations`, core band C1) — *assumed:* `prs.openings`, `prs.explaining-visuals`, `prs.handling-questions`, `prs.rehearsal-timing`
 
-- **Preparing for seminars** (`sem.preparation`, B1–B2+) — *assumed:* `sem.seminar-purposes`
-- **Turn-taking and taking the floor** (`sem.turn-taking`, B1+–C1)
-- **Agreeing and disagreeing** (`sem.agreeing-disagreeing`, B1+–C1) — *assumed:* `sem.opinions`
-- **Building on others' contributions** (`sem.building-on-others`, B2–C1) — *assumed:* `sem.opinions`
-- **Asking questions and seeking clarification** (`sem.questions-clarification`, B1–C1)
-- **Referring to readings and evidence in discussion** (`sem.citing-in-speech`, B2–C1) — *assumed:* `sem.opinions`, `src.signal-phrases`
-- **Summarising discussion** (`sem.summarising-discussion`, B2–C1)
-- **Managing speaking anxiety and willingness to communicate** (`sem.speaking-anxiety`, B1–C1)
-- **Synchronous online discussion** (`sem.online-discussion`, B1+–C1)
-- **Purpose and audience analysis** (`prs.purpose-audience`, B1–C1) — *assumed:* `reg.register-awareness`
-- **Opening a presentation** (`prs.openings`, B1+–C1) — *assumed:* `prs.structure`
-- **Designing slides** (`prs.slide-design`, B1+–C1)
-- **Talking about visuals and data** (`prs.explaining-visuals`, B1+–C1)
-- **Handling questions** (`prs.handling-questions`, B2–C1) — *assumed:* `sem.checking-understanding`
-- **Poster presentations** (`prs.posters`, B2–C1)
-- **Intelligibility, comprehensibility and accent** (`prn.intelligibility`, B1–B2+)
-- **Word stress in academic vocabulary** (`prn.word-stress`, B1–C1) — *assumed:* `voc.word-families-morphology`
-- **Thought groups and pausing** (`prn.thought-groups`, B1–B2+)
-- **Sentence stress and prominence** (`prn.prominence`, B1+–C1)
-- **Intonation for discourse functions** (`prn.intonation`, B2–C1)
-- **Vocal delivery** (`prs.delivery-voice`, B1–C1)
-- **Recorded and online presentations** (`prs.recorded-online`, B1+–C1)
-- **Pronouncing technical terms and names** (`prn.technical-terms`, B1+–C1)
-- **Developing speech fluency** (`prn.fluency`, B1–C1)
-- **Rehearsal and timing** (`prs.rehearsal-timing`, B1–B2+) — *assumed:* `prs.structure`
-- **Research and conference presentations** (`prs.research-presentations`, B2+–C2)
-- **Managing disagreement and conflict** (`grw.conflict`, B2–C1)
-- **Inclusive collaboration in multilingual groups** (`grw.inclusive-collaboration`, B1+–C1)
-- **Facilitating discussion** (`sem.facilitating`, B2+–C1)
-- **Running group meetings** (`grw.meetings`, B2–C1) — *assumed:* `grw.roles-planning`
-- **Collaborative writing** (`grw.collaborative-writing`, B2–C1) — *assumed:* `grw.roles-planning`
+#### Sources & Academic Integrity
 
-### Academic Writing
+- **Predatory publishing, retractions and misinformation** (`inf.problematic-publishing`, core band B2+) — *assumed:* `inf.source-evaluation`
+- **Citation chaining** (`inf.citation-chaining`, core band B2+)
+- **Systematic and scoping searching** (`inf.systematic-searching`, core band C1) — *assumed:* `inf.databases`, `inf.search-records`
+- **Identifying gaps and tensions** (`syn.gaps-tensions`, core band C1) — *assumed:* `syn.relating-sources`
+- **Reusing one's own work** (`int.recycling-own-work`, core band B2+) — *assumed:* `int.plagiarism`
+- **Research integrity** (`int.research-integrity`, core band B2+)
 
-- **Writing as a recursive process** (`wpr.writing-process`, B1–B2+)
-- **Managing extended writing projects** (`wpr.managing-long-projects`, B2–C1)
-- **Overcoming writing blocks** (`wpr.writing-blocks`, B1+–C1)
-- **Using the first language in composing** (`wpr.l1-in-composing`, B1–B2+)
-- **Writing titles** (`ess.titles`, B2–C1)
-- **Global revision** (`edt.global-revision`, B1+–C1) — *assumed:* `edt.revision-editing-proofreading`
-- **Reverse outlining** (`edt.reverse-outlining`, B2–C1) — *assumed:* `par.topic-sentences`
-- **Editing for style and clarity** (`edt.style-editing`, B2–C1) — *assumed:* `edt.revision-editing-proofreading`
-- **Editing for grammatical accuracy** (`edt.grammar-editing`, B1–C1) — *assumed:* `edt.revision-editing-proofreading`
-- **Proofreading** (`edt.proofreading`, B1–B2+) — *assumed:* `edt.revision-editing-proofreading`
-- **Peer review of drafts** (`edt.peer-review`, B1+–C1)
-- **Using editing tools critically** (`edt.editing-tools`, B1–B2+)
-- **Acceptable third-party proofreading** (`edt.proofreading-ethics`, B1+–B2+) — *assumed:* `edt.revision-editing-proofreading`
+#### Argument & Critical Thinking
 
-### Sources & Academic Integrity
+- **Evaluating theories and models** (`crt.evaluating-theories`, core band C1) — *assumed:* `crt.epistemic-beliefs`
+- **Reflexivity and positionality** (`crt.reflexivity`, core band C1) — *assumed:* `crt.epistemic-beliefs`
+- **Structuring an extended argument** (`arg.extended-argument`, core band C1) — *assumed:* `arg.position`
+- **Arguing orally** (`arg.oral-argument`, core band B2+) — *assumed:* `sem.opinions`
 
-- **Library catalogues, databases and discovery tools** (`inf.databases`, B1+–B2+) — *assumed:* `inf.search-strategies`
-- **Recording searches and sources** (`inf.search-records`, B1+–B2+) — *assumed:* `inf.search-strategies`
-- **Open access and legal access** (`inf.open-access`, B2–C1) — *assumed:* `inf.scholarly-communication`
-- **Predatory publishing, retractions and misinformation** (`inf.problematic-publishing`, B2–C1) — *assumed:* `inf.source-evaluation`
-- **Reporting verbs** (`src.reporting-verbs`, B1+–C1) — *assumed:* `src.signal-phrases`
-- **Integral and non-integral citation** (`src.citation-forms`, B2–C1) — *assumed:* `src.signal-phrases`
-- **Using sources in other languages** (`src.multilingual-sources`, B2–C1) — *assumed:* `src.paraphrasing`
-- **Synthesis matrices** (`syn.synthesis-matrix`, B1+–B2+) — *assumed:* `syn.synthesis-concept`
-- **Grouping sources thematically** (`syn.thematic-grouping`, B2–C1)
-- **Writing relationships between sources** (`syn.relating-sources`, B2–C1)
-- **Identifying gaps and tensions** (`syn.gaps-tensions`, B2+–C2)
-- **Writing synthesis paragraphs** (`syn.synthesis-paragraphs`, B2–C1) — *assumed:* `par.topic-sentences`, `src.voice-boundaries`
-- **Referencing systems and style guides** (`cit.referencing-systems`, B1+–B2+)
-- **Citation chaining** (`inf.citation-chaining`, B2–C1)
-- **Systematic and scoping searching** (`inf.systematic-searching`, B2+–C1)
-- **Numeric citation systems** (`cit.numeric`, B1+–B2+)
-- **Note-based citation** (`cit.note-based`, B2–C1) — *assumed:* `cit.reference-list`
-- **Citing diverse source types** (`cit.diverse-sources`, B2–C1) — *assumed:* `cit.reference-list`
-- **Citation accuracy and consistency** (`cit.accuracy-consistency`, B1+–C1) — *assumed:* `cit.reference-list`
-- **Rhetorical functions of citation** (`cit.citation-functions`, B2+–C2) — *assumed:* `src.source-functions`
-- **Disciplinary variation in citation** (`cit.disciplinary-citation`, B2+–C2)
-- **Values of academic integrity** (`int.integrity-values`, B1–B2+)
-- **Understanding plagiarism** (`int.plagiarism`, B1–C1) — *assumed:* `cit.why-cite`
-- **Patchwriting** (`src.patchwriting`, B1+–C1) — *assumed:* `src.paraphrasing`
-- **Reusing one's own work** (`int.recycling-own-work`, B2–C1)
-- **Interpreting similarity reports** (`int.similarity-reports`, B1+–C1)
-- **Integrity policies and processes** (`int.policy-processes`, B1+–C1)
-- **Managing integrity risk under pressure** (`int.pressure-risks`, B1+–B2+)
-- **Research integrity** (`int.research-integrity`, B2–C1)
+#### Academic Genres
 
-### Argument & Critical Thinking
+- **Analysing genres independently** (`ges.genre-analysis`, core band B2) — *assumed:* `ges.genre-concept`
 
-- **Critical thinking in academic contexts** (`crt.concept`, B1+–C1)
-- **Critical questioning** (`crt.questioning`, B1+–C1)
-- **Types and strength of evidence** (`crt.evidence-types`, B1+–C1) — *assumed:* `rds.fact-opinion-claim`
-- **Correlation and causation** (`crt.correlation-causation`, B2–C1) — *assumed:* `fun.cause-effect`
-- **Cognitive biases** (`crt.cognitive-biases`, B2–C1)
-- **Considering multiple perspectives** (`crt.multiple-perspectives`, B1+–C1)
-- **Beliefs about knowledge** (`crt.epistemic-beliefs`, B1+–C1)
-- **Applying theory to cases** (`crt.applying-theory`, B1+–C1) — *assumed:* `crt.description-analysis-evaluation`
-- **Reflexivity and positionality** (`crt.reflexivity`, B2+–C2)
-- **What counts as an academic argument** (`arg.argument-concept`, B1–B2+)
-- **Deductive, inductive and abductive reasoning** (`crt.reasoning-types`, B2–C1)
-- **Evaluating theories and models** (`crt.evaluating-theories`, B2+–C2)
-- **Supporting claims** (`arg.supporting-claims`, B1–C1)
-- **Making reasoning explicit** (`arg.warrants`, B2–C1) — *assumed:* `arg.toulmin`
-- **Anticipating counter-arguments** (`arg.counterarguments`, B1+–C1)
-- **Rebuttal and concession** (`arg.rebuttal-concession`, B2–C1) — *assumed:* `sta.concession-language`
-- **Taking and sustaining a position** (`arg.position`, B1+–C1)
-- **Argument mapping** (`arg.argument-mapping`, B1+–C1) — *assumed:* `rdc.argument-identification`
-- **Structuring an extended argument** (`arg.extended-argument`, B2–C2)
-- **Arguing orally** (`arg.oral-argument`, B2–C1) — *assumed:* `sem.opinions`
-- **Exploratory and adversarial argument** (`arg.exploratory-adversarial`, B2–C1)
-- **Evaluating arguments** (`arg.evaluating-arguments`, B2–C2)
-- **Academic and writer identity** (`idn.academic-identity`, B2–C2)
-- **Intercultural rhetoric** (`idn.intercultural-rhetoric`, B2–C1)
-- **Linguistic diversity as resource** (`idn.diversity-as-resource`, B1–C1)
-- **Drawing on a plurilingual repertoire** (`idn.plurilingual-repertoire`, B1–C1)
-- **English as a lingua franca in academia** (`idn.elf`, B1+–C1)
-- **Intercultural communication** (`idn.intercultural-communication`, B1+–C1)
-- **Standards, native-speakerism and legitimacy** (`idn.standards-legitimacy`, B2–C2)
+#### Research Communication
 
-### Academic Genres
+- **Research article introductions** (`res.introductions-cars`, core band C1) — *assumed:* `res.gap-niche`
+- **Literature review in research writing** (`res.literature-review`, core band C1) — *assumed:* `syn.synthesis-paragraphs`, `res.gap-niche`
+- **Discussion sections** (`res.discussion`, core band C1) — *assumed:* `res.results`
+- **Conclusions and implications** (`res.conclusions-implications`, core band B2+)
+- **Abstracts for student and research writing** (`res.abstracts`, core band B2+) — *assumed:* `src.summarising-text`, `res.imrad`
+- **Claiming contribution** (`res.contribution`, core band C1) — *assumed:* `res.gap-niche`
+- **Thesis macrostructure** (`res.thesis-macrostructure`, core band C1)
+- **Chapter introductions, conclusions and metatext** (`res.chapter-metatext`, core band C1) — *assumed:* `coh.frame-markers`
+- **Theoretical and conceptual frameworks** (`res.theoretical-framework`, core band C1) — *assumed:* `crt.applying-theory`
+- **Working with supervisors** (`res.supervision`, core band B2+) — *assumed:* `fbk.seeking-feedback`
+- **Sustaining thesis writing** (`res.writing-productivity`, core band C1) — *assumed:* `wpr.managing-long-projects`
+- **Doctoral progression and confirmation reviews** (`res.progression-review`, core band C1) — *assumed:* `res.research-proposal`
+- **The academic publishing process** (`pub.publishing-process`, core band C1) — *assumed:* `inf.scholarly-communication`
+- **Selecting a journal** (`pub.journal-selection`, core band C1)
+- **Responding to reviewers** (`pub.responding-reviewers`, core band C1) — *assumed:* `prg.politeness`
+- **Conference abstracts** (`pub.conference-abstracts`, core band C1)
+- **Thesis defence and viva** (`pub.viva`, core band C1) — *assumed:* `prs.handling-questions`
+- **Authorship and contribution** (`pub.authorship`, core band C1)
+- **Examiners' reports and thesis corrections** (`pub.thesis-corrections`, core band C1) — *assumed:* `fbk.acting-on-feedback`
+- **From thesis to articles** (`pub.thesis-to-article`, core band C1)
 
-- **Genre and discourse community** (`ges.genre-concept`, B1+–C1)
-- **Analysing genres independently** (`ges.genre-analysis`, B1+–C1)
-- **Book review** (`ges.book-review`, B2+–C1) — *assumed:* `ges.critique`
-- **Policy brief** (`grp.policy-brief`, B2+–C1) — *assumed:* `fun.recommending`
-- **Academic blogs and public-facing writing** (`grp.public-writing`, B2+–C1)
+#### Academic Socialisation, Identity & Communication
 
-### Research Communication
+- **Academic and writer identity** (`idn.academic-identity`, core band B2+)
 
-- **IMRaD and its variants** (`res.imrad`, B2–C1)
-- **Methods sections** (`res.methods`, B2+–C1) — *assumed:* `fun.describing-process`
-- **Results sections** (`res.results`, B2+–C1)
-- **Writing about limitations** (`res.limitations`, B2+–C1)
-- **Discussion sections** (`res.discussion`, B2+–C2)
-- **Research questions and hypotheses** (`res.research-questions`, B2+–C1) — *assumed:* `inf.research-question`
-- **Establishing a research gap** (`res.gap-niche`, B2+–C1)
-- **Research article introductions** (`res.introductions-cars`, B2+–C2)
-- **Literature review in research writing** (`res.literature-review`, B2+–C2)
-- **Claiming contribution** (`res.contribution`, C1–C2)
-- **Conclusions and implications** (`res.conclusions-implications`, B2+–C1)
-- **Research abstracts** (`res.abstracts`, B2+–C1)
-- **Theoretical and conceptual frameworks** (`res.theoretical-framework`, C1–C2)
-- **Reporting qualitative findings** (`res.qualitative-reporting`, B2+–C1) — *assumed:* `src.integrating-quotations`
-- **Reporting quantitative findings** (`res.quantitative-reporting`, B2+–C1)
-- **Research proposals** (`res.research-proposal`, B2+–C2)
-- **Ethics applications and participant documents** (`res.ethics-documentation`, B2+–C1)
-- **Working with supervisors** (`res.supervision`, B2+–C1)
-- **Sustaining thesis writing** (`res.writing-productivity`, B2+–C1)
-- **Writing positionality statements** (`res.positionality-writing`, C1–C2)
-- **The academic publishing process** (`pub.publishing-process`, B2+–C1) — *assumed:* `inf.scholarly-communication`
-- **Thesis macrostructure** (`res.thesis-macrostructure`, B2+–C1)
-- **Chapter introductions, conclusions and metatext** (`res.chapter-metatext`, B2+–C1)
-- **Selecting a journal** (`pub.journal-selection`, C1–C1)
-- **Cover letters to editors** (`pub.cover-letters`, B2+–C1)
-- **Responding to reviewers** (`pub.responding-reviewers`, C1–C2)
-- **Writing peer review reports** (`pub.peer-review-reports`, C1–C2)
-- **Conference abstracts** (`pub.conference-abstracts`, B2+–C1)
-- **Thesis defence and viva** (`pub.viva`, C1–C2)
-- **Authorship and contribution** (`pub.authorship`, B2+–C1)
-- **Publishing as a multilingual scholar** (`pub.multilingual-scholars`, B2+–C1)
-- **Communicating research beyond academia** (`pub.research-engagement`, C1–C2)
-- **Academic CVs, biographies and personal statements** (`pub.academic-cv-bio`, B2–C1)
+#### Digital Literacy & AI
 
-### Data, Numeracy & Multimodality
+- **Privacy, data and intellectual property with AI** (`gai.privacy-ip`, core band B2+) — *assumed:* `gai.how-genai-works`
 
-- **Figure and table captions** (`dat.captions-labelling`, B1+–C1)
-- **Creating effective visuals** (`dat.creating-visuals`, B2–C1) — *assumed:* `dat.misleading-visuals`
-- **Referring to visuals in text** (`dat.referring-to-visuals`, B1+–C1)
-- **Data commentary** (`dat.data-commentary`, B2–C1) — *assumed:* `dat.describing-trends`, `dat.describing-proportions`
-- **Interpreting statistical claims** (`num.interpreting-statistics`, B2+–C1) — *assumed:* `num.statistical-vocabulary`
-- **Language of mathematical expression** (`num.mathematical-expression`, B1+–C1) — *assumed:* `num.number-expressions`
-- **Designing academic posters** (`mmd.poster-design`, B2–C1) — *assumed:* `mmd.multimodal-literacy`
-- **Infographics and visual summaries** (`mmd.infographics`, B2–C1) — *assumed:* `mmd.multimodal-literacy`
-- **Accessible academic documents** (`mmd.accessibility`, B1+–C1)
+#### Disciplinary Literacies
 
-### Learning & Autonomy
+- **Legal research and dissertation writing** (`dlw.legal-research-writing`, core band C1) — *assumed:* `dlw.legal-essays`
+- **Justifying methodology** (`dss.methodology-justification`, core band C1) — *assumed:* `res.methods`, `res.research-questions`
+- **Practice-based research and exegesis** (`dad.practice-research-exegesis`, core band C1) — *assumed:* `dad.design-rationale`
 
-- **Self-regulated learning** (`lrn.self-regulation`, B1–C1) — *assumed:* `lrn.metacognitive-knowledge`
-- **Setting language and academic goals** (`lrn.goal-setting`, B1–B2+)
-- **Time and workload management** (`lrn.time-management`, B1–B2)
-- **Learner autonomy** (`lrn.autonomy`, B1–C1)
-- **Using academic support services** (`lrn.support-services`, B1–B2)
-- **Sustainable study habits and wellbeing** (`lrn.wellbeing`, B1–B2)
-- **Feedback literacy** (`fbk.feedback-literacy`, B1+–C1)
-- **Acting on feedback** (`fbk.acting-on-feedback`, B1+–C1)
-- **Seeking feedback** (`fbk.seeking-feedback`, B1+–C1)
-- **Self- and peer-assessment** (`fbk.self-peer-assessment`, B1+–C1) — *assumed:* `fbk.marking-criteria`
+### Develop where relevant
 
-### Academic Socialisation & Communication
+Technical and discipline-specific terminology (`voc.technical-terminology`); Research-oriented lexical bundles (`phr.bundles-research-oriented`); Stance and engagement bundles (`phr.bundles-stance`); Consulting corpora for usage (`phr.corpus-consultation`); Impersonality and authorial presence (`reg.impersonality-presence`); Information density and readability (`reg.information-density`); Inclusive and bias-free language (`reg.inclusive-language`); Tense when reporting research (`grm.tense-in-reporting`); Cleft and pseudo-cleft sentences (`grm.clefts-emphasis`); Fronting and inversion (`grm.fronting-inversion`); Monitoring recurrent grammatical errors (`grm.error-monitoring`); Concision (`sen.concision`); Thematic progression (`coh.thematic-progression`); Frame markers and advance organisers (`coh.frame-markers`); Terminological consistency (`coh.terminological-consistency`); Metadiscourse (`sta.metadiscourse`); Reader engagement (`sta.engagement-markers`); Language for evaluating others' work (`sta.evaluating-others-language`); Expressing stance in speech (`sta.spoken-stance`); Managing reading load (`rdp.managing-reading-load`); Strategic use of first language and translation in reading (`rdp.plurilingual-reading`); Reading methods critically (`rdc.methods-critique`); Reading theoretical and conceptual texts (`rdc.theoretical-texts`); Understanding varied accents (`lis.accent-variation`); Following multi-party discussion (`lis.multi-party-discussion`); Listening to academic media (`lis.academic-media`); Making notes from reading (`ntk.notes-from-reading`); Facilitating discussion (`sem.facilitating`); Managing speaking anxiety and willingness to communicate (`sem.speaking-anxiety`); Explaining concepts and readings to peers (`sem.explaining-concepts`); Talking about visuals and data (`prs.explaining-visuals`); Handling questions (`prs.handling-questions`); Academic posters: design and presentation (`prs.posters`); Short-format research pitches (`prs.research-pitches`); Intonation for discourse functions (`prn.intonation`); Pronouncing technical terms and names (`prn.technical-terms`); Collaborative writing (`grw.collaborative-writing`); Writing as a recursive process (`wpr.writing-process`); Managing extended writing projects (`wpr.managing-long-projects`); Overcoming writing blocks (`wpr.writing-blocks`); Using the first language in composing (`wpr.l1-in-composing`); Writing titles (`ess.titles`); Reverse outlining (`edt.reverse-outlining`); Editing for style and clarity (`edt.style-editing`); Peer review of drafts (`edt.peer-review`); Acceptable third-party proofreading (`edt.proofreading-ethics`); Open access and legal access (`inf.open-access`); Patchwriting (`src.patchwriting`); Reporting verbs and signal phrases (`src.reporting-verbs`); Integral and non-integral citation (`src.citation-forms`); Using sources in other languages (`src.multilingual-sources`); Synthesis matrices (`syn.synthesis-matrix`); Grouping sources thematically (`syn.thematic-grouping`); Writing relationships between sources (`syn.relating-sources`); Writing synthesis paragraphs (`syn.synthesis-paragraphs`); Note-based citation (`cit.note-based`); Citing diverse source types (`cit.diverse-sources`); Citation accuracy and consistency (`cit.accuracy-consistency`); Rhetorical functions of sources and citation (`cit.citation-functions`); Disciplinary variation in citation (`cit.disciplinary-citation`); Whose knowledge is cited (`cit.citation-politics`); Integrity policies and processes (`int.policy-processes`); Cognitive biases (`crt.cognitive-biases`); Beliefs about knowledge (`crt.epistemic-beliefs`); Taking and sustaining a position (`arg.position`); Argument mapping (`arg.argument-mapping`); Evaluating arguments (`arg.evaluating-arguments`); Book review (`ges.book-review`); Policy brief (`grp.policy-brief`); Academic blogs and public-facing writing (`grp.public-writing`); Methods sections (`res.methods`); Results sections (`res.results`); Writing about limitations (`res.limitations`); Establishing a research gap (`res.gap-niche`); Reporting qualitative findings (`res.qualitative-reporting`); Reporting quantitative findings (`res.quantitative-reporting`); Research proposals (`res.research-proposal`); Ethics applications and participant documents (`res.ethics-documentation`); Writing positionality statements (`res.positionality-writing`); Acknowledgements (`res.acknowledgements`); Thesis by publication (`res.publication-based-thesis`); Writing systematic and scoping reviews (`res.systematic-review-writing`); Wording survey and interview questions (`res.instrument-wording`); Teaching, demonstrating and marking as a doctoral researcher (`res.teaching-as-pgr`); Cover letters to editors (`pub.cover-letters`); Writing peer review reports (`pub.peer-review-reports`); Publishing as a multilingual scholar (`pub.multilingual-scholars`); Communicating research beyond academia (`pub.research-engagement`); Academic CVs and biographical statements (`pub.academic-cv-bio`); Funding, fellowship and grant applications (`pub.funding-applications`); Participating in conferences (`pub.conference-participation`); Open research practices and statements (`pub.open-research`); Data commentary (`dat.data-commentary`); Creating effective visuals (`dat.creating-visuals`); Interpreting statistical claims (`num.interpreting-statistics`); Language of mathematical expression (`num.mathematical-expression`); Infographics and visual summaries (`mmd.infographics`); Accessible academic documents (`mmd.accessibility`); Feedback literacy (`fbk.feedback-literacy`); Acting on feedback (`fbk.acting-on-feedback`); Seeking feedback (`fbk.seeking-feedback`); Self- and peer-assessment (`fbk.self-peer-assessment`); Discourse communities and disciplines (`acu.discourse-communities`); Disciplinary knowledge-making (`acu.disciplinary-knowledge`); Tacit expectations (`acu.hidden-curriculum`); Academic literacies perspective (`acu.academic-literacies`); Transition and adjustment (`acu.transition`); Making informed choices about academic conventions (`acu.critical-eap`); Making requests (`prg.requests`); Informal academic interaction and networking (`prg.informal-academic-interaction`); Applications and interviews for placements and graduate roles (`prg.professional-applications`); Drawing on a plurilingual repertoire (`idn.plurilingual-repertoire`); English as a lingua franca in academia (`idn.elf`); Intercultural communication (`idn.intercultural-communication`); Intercultural rhetoric (`idn.intercultural-rhetoric`); Linguistic diversity as resource (`idn.diversity-as-resource`); Standards, native-speakerism and legitimacy (`idn.standards-legitimacy`); Translingual writing and code-meshing (`idn.translingual-writing`); Reference management software (`dig.reference-managers`); Translation tools in reading and drafting (`dig.machine-translation`); File and version management (`dig.file-management`); Digital etiquette and online presence (`dig.digital-etiquette`); Editing and automated feedback tools (`dig.automated-feedback-tools`); Assistive technology and study adjustments (`dig.assistive-technology`); Interpreting AI policies (`gai.policies`); Acknowledging and citing AI use (`gai.acknowledging-use`); Verifying AI output (`gai.verifying-output`); AI, authorship and voice (`gai.authorship-voice`); Limits of AI detection (`gai.detection-limits`); AI-assisted research tools (`gai.research-tools`); Protocols and specifications (`dse.protocols-specifications`); Software and technical documentation (`dse.software-documentation`); Mathematical writing and proofs (`dse.mathematical-writing`); Laboratory notebooks and research records (`dse.lab-notebooks`); Working with concepts (`dss.operationalising-concepts`); Field notes, analytic memos and analysis accounts (`dss.qualitative-writing`); Working with primary sources (`dhu.primary-sources`); Interpretive argument (`dhu.interpretive-argument`); Philosophical writing (`dhu.philosophical-writing`).
 
-- **How universities are organised** (`acu.university-structures`, B1–B2)
-- **Expectations of university learners** (`acu.academic-expectations`, B1–B2+)
-- **Discourse communities and disciplines** (`acu.discourse-communities`, B2–C1)
-- **Disciplinary knowledge-making** (`acu.disciplinary-knowledge`, B2–C1)
-- **Tacit expectations** (`acu.hidden-curriculum`, B1+–C1)
-- **Academic literacies perspective** (`acu.academic-literacies`, B2+–C1)
-- **Transition and adjustment** (`acu.transition`, B1–B2+)
-- **Academic roles and forms of address** (`acu.roles-address`, B1–B2)
-- **Critical perspectives on EAP** (`acu.critical-eap`, B2–C1)
-- **Politeness and face in academic interaction** (`prg.politeness`, B1+–C1)
-- **Making requests** (`prg.requests`, B1+–C1)
-- **Emails to academic staff** (`prg.emails-to-staff`, B1–B2+)
-- **Messaging channels and norms** (`prg.messaging-channels`, B1–B2+)
-- **Acknowledgements** (`prg.acknowledgements`, B2+–C1)
+### Revisit
 
-### Digital Literacy & AI
-
-- **Academic word processing** (`dig.word-processing`, B1–B2+)
-- **Reference management software** (`dig.reference-managers`, B1+–C1) — *assumed:* `cit.reference-list`
-- **Machine translation** (`dig.machine-translation`, B1–C1)
-- **File and version management** (`dig.file-management`, B1–C1)
-- **Digital etiquette and online presence** (`dig.digital-etiquette`, B1+–C1)
-- **How generative AI works and fails** (`gai.how-genai-works`, B1+–C1)
-- **Interpreting AI policies** (`gai.policies`, B1+–B2+)
-- **Acknowledging and citing AI use** (`gai.acknowledging-use`, B1+–C1)
-- **Verifying AI output** (`gai.verifying-output`, B1+–C1)
-- **AI, authorship and voice** (`gai.authorship-voice`, B2–C2)
-- **Limits of AI detection** (`gai.detection-limits`, B1+–C1)
-- **Prompting for learning** (`gai.prompting-for-learning`, B1+–C1)
-- **Using AI as a language-learning resource** (`gai.language-support`, B1+–C1)
-- **AI-assisted research tools** (`gai.research-tools`, B2+–C1)
-- **Privacy, data and intellectual property with AI** (`gai.privacy-ip`, B2–C1)
-
-### Disciplinary Literacies
-
-- **Protocols and specifications** (`dse.protocols-specifications`, B2–C1) — *assumed:* `fun.describing-process`, `num.units-measurement`
-- **Software and technical documentation** (`dse.software-documentation`, B2–C1)
-- **Mathematical writing and proofs** (`dse.mathematical-writing`, B2–C1) — *assumed:* `grm.conditionals`
-- **Critical appraisal and systematic review writing** (`dhl.critical-appraisal`, B2+–C1) — *assumed:* `ges.critique`, `dhl.evidence-based-practice`
-- **Working with concepts** (`dss.operationalising-concepts`, B2–C1) — *assumed:* `fun.defining`
-- **Justifying methodology** (`dss.methodology-justification`, B2+–C1)
-- **Qualitative research writing** (`dss.qualitative-writing`, B2+–C1)
-- **Working with primary sources** (`dhu.primary-sources`, B2–C1) — *assumed:* `rdc.bias-perspective`, `inf.source-types`
-- **Interpretive argument** (`dhu.interpretive-argument`, B2–C2) — *assumed:* `src.integrating-quotations`, `ges.argumentative-essay`, `dhu.close-reading`
-- **Philosophical writing** (`dhu.philosophical-writing`, B2+–C2)
+Abstract and shell nouns (`voc.abstract-shell-nouns`); Lexical precision and near-synonyms (`voc.precision-near-synonyms`); Evaluative vocabulary (`voc.evaluative-lexis`); Verb–noun collocation accuracy (`phr.verb-noun-collocation-accuracy`); Using phrasebanks critically (`phr.phrasebank-use`); Myths and change in academic style (`reg.style-myths-variation`); Nominalisation and grammatical metaphor (`grm.nominalisation`); Phrasal versus clausal complexity (`grm.phrasal-complexity`); Articles in academic writing (`grm.articles`); Passive voice and agency (`grm.passive-voice`); Encapsulation with signalling nouns (`coh.signalling-nouns`); Hedging and qualifying generalisations (`sta.hedging`); Attitude markers (`sta.attitude-markers`); Averral versus attribution (`sta.averral-attribution`); Predicting and hypothesising (`fun.hypothesising`); Background knowledge and schemata (`rdp.background-knowledge`); Reading on screen (`rdp.digital-reading`); Navigating research articles (`rds.research-article-navigation`); Identifying writer stance and attributed views (`rds.writer-stance`); Monitoring comprehension (`rds.comprehension-monitoring`); What critical reading involves (`rdc.critical-reading`); Evaluating evidence in texts (`rdc.evidence-evaluation`); Identifying assumptions and values (`rdc.assumptions`); Reading across multiple texts (`rdc.multiple-texts`); Formulating a critical response (`rdc.critical-response`); Inferring speaker stance (`lis.speaker-stance`); Turn-taking and taking the floor (`sem.turn-taking`); Agreeing and disagreeing (`sem.agreeing-disagreeing`); Building on others' contributions (`sem.building-on-others`); Asking questions and seeking clarification (`sem.questions-clarification`); Referring to readings and evidence in discussion (`sem.citing-in-speech`); Summarising discussion (`sem.summarising-discussion`); Synchronous online discussion (`sem.online-discussion`); Purpose and audience analysis (`prs.purpose-audience`); Opening a presentation (`prs.openings`); Signposting in presentations and spoken explanations (`prs.signposting`); Designing slides (`prs.slide-design`); Vocal delivery (`prs.delivery-voice`); Recorded and online presentations (`prs.recorded-online`); Intelligibility, comprehensibility and accent (`prn.intelligibility`); Word stress in academic vocabulary (`prn.word-stress`); Sentence stress and prominence (`prn.prominence`); Thought groups and pausing (`prn.thought-groups`); Developing speech fluency (`prn.fluency`); Running group meetings (`grw.meetings`); Managing disagreement and conflict (`grw.conflict`); Inclusive collaboration in multilingual groups (`grw.inclusive-collaboration`); Global revision (`edt.global-revision`); Editing for grammatical accuracy (`edt.grammar-editing`); Proofreading (`edt.proofreading`); How scholarly knowledge is produced (`inf.scholarly-communication`); Search strategies (`inf.search-strategies`); Library catalogues, databases and discovery tools (`inf.databases`); Evaluating sources (`inf.source-evaluation`); Recording searches and sources (`inf.search-records`); Paraphrasing (`src.paraphrasing`); Summarising a whole text (`src.summarising-text`); Distinguishing own voice from source voice (`src.voice-boundaries`); Referencing systems and style guides (`cit.referencing-systems`); Numeric citation systems (`cit.numeric`); Understanding plagiarism (`int.plagiarism`); Interpreting similarity reports (`int.similarity-reports`); Managing integrity risk under pressure (`int.pressure-risks`); Critical thinking in academic contexts (`crt.concept`); Critical questioning and question sets (`crt.questioning`); Types and strength of evidence (`crt.evidence-types`); Deductive, inductive and abductive reasoning (`crt.reasoning-types`); Correlation and causation (`crt.correlation-causation`); Considering multiple perspectives (`crt.multiple-perspectives`); Applying theory to cases (`crt.applying-theory`); Supporting claims (`arg.supporting-claims`); Making reasoning explicit (`arg.warrants`); Anticipating counter-arguments (`arg.counterarguments`); Rebuttal and concession (`arg.rebuttal-concession`); Exploratory and adversarial argument (`arg.exploratory-adversarial`); What a genre is (`ges.genre-concept`); IMRaD and its variants (`res.imrad`); Research questions and hypotheses (`res.research-questions`); Figure and table captions (`dat.captions-labelling`); Referring to visuals in text (`dat.referring-to-visuals`); Self-regulated learning and learner autonomy (`lrn.self-regulation`); Sustainable study habits and wellbeing (`lrn.wellbeing`); Politeness and face in academic interaction (`prg.politeness`); Emails to academic staff (`prg.emails-to-staff`); Academic word processing (`dig.word-processing`); How generative AI works and fails (`gai.how-genai-works`); Using AI as a tutor and language-learning resource (`gai.language-support`); Critical appraisal of health research (`dhl.critical-appraisal`).

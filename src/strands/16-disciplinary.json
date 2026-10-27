@@ -1,0 +1,886 @@
+{
+  "group": "16-disciplinary",
+  "domains": [
+    {
+      "code": "DSE",
+      "strand": "Disciplinary Literacies",
+      "name": "Science, Engineering & Computing",
+      "summary": "This domain covers the discourse of the natural sciences, engineering, mathematics and computing: how technicality, nominalisation and taxonomies build scientific knowledge, and how learners produce explanations, protocols and specifications, experimental language, proofs and software documentation. These fields are typically 'hard' in Becher and Trowler's terms, with cumulative knowledge, high consensus on method and texts in which visuals, notation and code carry much of the meaning. Teaching works best when EAP staff analyse departmental exemplars with subject lecturers, because conventions differ between, for example, a chemistry protocol, a civil engineering specification and a computing README.",
+      "learnerSummary": "You will learn how scientists, engineers, mathematicians and programmers use English to explain, instruct, specify, prove and document, and how to write these texts the way your department expects.",
+      "stageEmphasis": {
+        "foundation": "Build control of scientific explanation, process description and experimental vocabulary alongside subject content, using textbook and practical-class texts.",
+        "pre-sessional": "On science and engineering pathways, raise awareness of nominalisation, technicality and explanation genres, and practise reading and writing short experimental and procedural texts.",
+        "in-sessional-ug": "Embed work on lab-related language, specifications, proofs and documentation in modules, ideally co-designed with subject staff around real assignments.",
+        "in-sessional-pgt": "Focus on precision in specifications, design documentation and project reports, and on the conventions of the student's specialism.",
+        "pgr": "Support protocol and methods writing, documentation of research software and the conventions of mathematical and technical publication."
+      },
+      "keyReferences": [
+        "hallidaymartin1993",
+        "trimble1985",
+        "parkinson2017",
+        "hyland2004disciplinary",
+        "becher2001"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "dse.scientific-language",
+      "type": "CONCEPTUAL",
+      "strand": "Disciplinary Literacies",
+      "domain": "Science, Engineering & Computing",
+      "name": "The language of science",
+      "description": "Recognise how scientific English builds knowledge through technical terms organised into taxonomies, chains of interlocking definitions, nominalisation (grammatical metaphor) and high lexical density, and explain what each does for the scientific reader. Understanding these features as functional, not as obscurity, lets learners unpack dense textbook and research prose and begin to produce it.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Unpacks a nominalised scientific sentence into a sequence of congruent clauses (who did what, what caused what) and repacks it",
+        "Identifies the taxonomic relations (type-of, part-of) among technical terms in a textbook section and represents them as a diagram",
+        "Distinguishes a technical term from an everyday word with the same form (work, force, power, stress, solution) and uses each in the right register",
+        "Explains how a nominal group such as a process noun lets a writer treat a previous event as the starting point of the next clause",
+        "Judges when a nominalisation in their own writing aids flow and when it hides the agent or the causal relation the reader needs"
+      ],
+      "assessmentPrompt": "Give the learner a two-sentence extract from a first-year science textbook containing at least two nominalisations and one technical term defined earlier in the chapter. Ask them to rewrite it as it might be explained aloud to a classmate, then name which words are technical. Check that they recover the processes and participants hidden in the nominalisations without changing the causal relation and that they keep the technical term rather than replacing it with a loose synonym.",
+      "citations": [
+        "hallidaymartin1993",
+        "lemke1990",
+        "trimble1985",
+        "bibergray2016"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.read.information-argument",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:ling.vocabulary-range",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "dse.scientific-explanation",
+      "type": "GENRE",
+      "strand": "Disciplinary Literacies",
+      "domain": "Science, Engineering & Computing",
+      "name": "Scientific explanations",
+      "description": "Write and present explanations of how or why phenomena occur, choosing among sequential explanations (a chain of events in time), causal and factorial explanations (multiple causes), consequential explanations (multiple effects) and theoretical explanations that apply a model or law to a case. Explanation is one of the most frequently assessed genres in undergraduate science and engineering and underlies exam answers, lab-report discussions and textbook learning.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Selects an explanation type that fits the question (for example a sequential explanation for a cycle, a factorial explanation for a multi-cause outcome)",
+        "Opens with an identifying statement of the phenomenon and then stages the explanation in a logically ordered series of steps or factors",
+        "Makes causal links explicit with verbs, conjunctions and nominalised causes rather than relying on 'and then'",
+        "Integrates a labelled diagram or equation and refers to it at the relevant step",
+        "Applies a named model or law to a specific case and states where the model's assumptions limit the explanation"
+      ],
+      "assessmentPrompt": "Ask the learner to explain in about 150 words why a metal spoon in hot water feels hotter than a wooden one, or a comparable phenomenon from their subject. Check whether they identify the phenomenon first, order the causal steps, make each causal link explicit, use the relevant technical terms (for example thermal conductivity) correctly and avoid narrating a single experiment instead of explaining the general mechanism.",
+      "citations": [
+        "martinrose2008",
+        "rosemartin2012",
+        "hallidaymartin1993",
+        "gardnernesi2013"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prod.writ.reports-essays",
+          "levels": [
+            "B1",
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:prod.oral.giving-information",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "dse.protocols-specifications",
+      "type": "GENRE",
+      "strand": "Disciplinary Literacies",
+      "domain": "Science, Engineering & Computing",
+      "name": "Protocols and specifications",
+      "description": "Read and write procedural and specification texts used in laboratories and engineering: experimental protocols and standard operating procedures, method statements, and requirements or design specifications. This involves numbered imperative steps with exact quantities, conditions and tolerances, safety notes placed before the hazardous step, and requirement statements that use modal verbs consistently (often shall or must for mandatory, should for recommended, may for optional) so that each statement can be verified.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Writes a protocol whose steps another student can follow without asking questions, with quantities, units, conditions and timings stated",
+        "Places cautions and warnings before the step they apply to and separates them visually from the instruction",
+        "Distinguishes the imperative mood of a protocol from the past passive of a lab-report method and converts between them",
+        "Writes requirement statements that are single, unambiguous and testable, and uses modal verbs consistently with the convention the department or standard specifies",
+        "Identifies ambiguity in a specification (vague quantifiers, undefined terms, compound requirements) and rewrites it"
+      ],
+      "assessmentPrompt": "Give the learner three faulty requirement statements, for example one that bundles two requirements, one with a vague quantity ('fast', 'approximately') and one that mixes should and must. Ask them to rewrite each so that a tester could pass or fail it. Check for one requirement per statement, measurable criteria with units, and consistent modal use.",
+      "citations": [
+        "trimble1985",
+        "gardnernesi2013",
+        "bipm2019"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:rec.read.instructions",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        },
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        }
+      ]
+    },
+    {
+      "id": "dse.hypothesis-language",
+      "type": "LINGUISTIC",
+      "strand": "Disciplinary Literacies",
+      "domain": "Science, Engineering & Computing",
+      "name": "Language of experimentation",
+      "description": "Use the language of experimental design and measurement precisely: testable hypotheses and predictions, independent, dependent and controlled variables, control conditions, random and systematic error, accuracy versus precision, and statements of uncertainty (for example with ± and appropriate significant figures). Many of these words have everyday meanings (error, control, significant, precise) that differ from their technical sense, so misuse signals misunderstanding of method as well as of language.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "pre-sessional",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Writes a hypothesis and a corresponding prediction that state the expected relationship between named independent and dependent variables",
+        "Identifies the controlled variables and the control condition in a described experiment and explains why each is needed",
+        "Distinguishes random from systematic error and accuracy from precision, and proposes an appropriate improvement for each",
+        "Reports a measured value with its uncertainty and a number of significant figures consistent with that uncertainty",
+        "Uses 'significant' only in its statistical sense in results writing, and chooses other wording for importance"
+      ],
+      "assessmentPrompt": "Give the learner a short description of a simple experiment with one flaw (for example a thermometer that reads 2 °C high throughout). Ask them to name the variables, state the hypothesis, identify the type of error and say whether it affects accuracy or precision. Check that they classify the flaw as systematic error affecting accuracy, not precision, and that they use the variable terms correctly.",
+      "citations": [
+        "parkinson2017",
+        "hyland1998hedging",
+        "wasserstein2016"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:ling.vocabulary-control",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "dse.software-documentation",
+      "type": "GENRE",
+      "strand": "Disciplinary Literacies",
+      "domain": "Science, Engineering & Computing",
+      "name": "Software and technical documentation",
+      "description": "Write the main documentation genres of computing for their distinct readers: README files that tell a newcomer what a project does and how to install, run and contribute to it; code comments and docstrings that explain intent and non-obvious decisions rather than restating the code; API reference entries that specify parameters, return values, errors and examples; and design documents that set out context, goals and non-goals, alternatives considered and trade-offs. Documentation is assessed in computing projects and is a core professional literacy.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Produces a README that a peer can use to install and run the project, with a one-sentence purpose statement, prerequisites, usage example and licence or contribution note",
+        "Writes comments that explain why code does something or warn of a non-obvious constraint, and removes comments that merely paraphrase the code",
+        "Documents a function or endpoint with parameter types, return values, error conditions and a minimal working example in a consistent format",
+        "Writes a design-document section that compares at least two alternatives against stated criteria and justifies the choice",
+        "Adjusts terminology and assumed knowledge for end users, contributors and maintainers"
+      ],
+      "assessmentPrompt": "Give the learner a 15-line function with no documentation and two existing comments, one useful and one that restates the code. Ask them to write a docstring and decide which comment to keep. Check that the docstring states purpose, parameters, return value and at least one error case, and that they keep the comment explaining intent and delete the redundant one.",
+      "citations": [
+        "robillard2009",
+        "gardnernesi2013"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:med.strat.breaking-down-information",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:rec.read.instructions",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        }
+      ]
+    },
+    {
+      "id": "dse.mathematical-writing",
+      "type": "GENRE",
+      "strand": "Disciplinary Literacies",
+      "domain": "Science, Engineering & Computing",
+      "name": "Mathematical writing and proofs",
+      "description": "Write proofs and worked solutions in which notation is embedded in grammatical, punctuated sentences and the logical steps are signalled in words: introducing objects (let, suppose, define), stating quantifiers (for all, there exists), marking inference (hence, it follows that, since), naming the proof strategy (by contradiction, by induction, by the contrapositive) and closing the argument. Markers in mathematics expect the reasoning, not only the answer, to be readable, and students used to answer-only assessment often lose marks for unexplained steps.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "stages": [
+        "foundation",
+        "in-sessional-ug",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "specificity": "ESAP",
+      "masteryEvidence": [
+        "Introduces every symbol before it is used and states its type or domain",
+        "Writes each displayed equation as part of a sentence, with connecting words and punctuation, and avoids starting a sentence with a symbol",
+        "Distinguishes necessary from sufficient conditions and 'if' from 'if and only if' in their own statements",
+        "Announces the proof strategy at the start and signals where each case or the inductive step begins and ends",
+        "Justifies each non-trivial step by citing a definition, earlier result or algebraic rule"
+      ],
+      "assessmentPrompt": "Give the learner a correct but answer-only solution to a short proof (for example that the sum of two odd integers is even) written as a column of equations. Ask them to rewrite it as a proof a lecturer would accept. Check that they define the integers with appropriate quantifiers, link each line with words such as 'so' or 'hence', state the conclusion in words and punctuate the displayed lines as part of sentences.",
+      "citations": [
+        "higham1998",
+        "gardnernesi2013"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:prag.propositional-precision",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:prag.coherence-cohesion",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "topicId": "dse.scientific-language",
+      "prerequisiteId": "grm.nominalisation",
+      "strength": "hard",
+      "reason": "Grammatical metaphor in scientific discourse is realised mainly through nominalisation, so learners must recognise and form process nouns before they can analyse its scientific function"
+    },
+    {
+      "topicId": "dse.scientific-language",
+      "prerequisiteId": "voc.technical-terminology",
+      "strength": "hard",
+      "reason": "Scientific technicality builds on the ability to learn, define and use field-specific terms consistently"
+    },
+    {
+      "topicId": "dse.scientific-language",
+      "prerequisiteId": "reg.spoken-vs-written",
+      "strength": "soft",
+      "reason": "Lexical density and the packaging of processes as things are easiest to grasp once the general contrast between spoken and written registers is understood"
+    },
+    {
+      "topicId": "dse.scientific-language",
+      "prerequisiteId": "fun.classifying",
+      "strength": "soft",
+      "reason": "Scientific taxonomies are built with the language of classification (types, classes, criteria), which is usually taught first as a general rhetorical function"
+    },
+    {
+      "topicId": "dse.scientific-explanation",
+      "prerequisiteId": "dse.scientific-language",
+      "strength": "hard",
+      "reason": "Scientific explanations depend on technical terms and nominalised causes to package each step of the mechanism"
+    },
+    {
+      "topicId": "dse.scientific-explanation",
+      "prerequisiteId": "fun.cause-effect",
+      "strength": "hard",
+      "reason": "Causal, factorial and consequential explanations are built from cause–effect language of varying strength"
+    },
+    {
+      "topicId": "dse.scientific-explanation",
+      "prerequisiteId": "fun.describing-process",
+      "strength": "hard",
+      "reason": "Sequential explanations extend process description by adding causal links between ordered stages"
+    },
+    {
+      "topicId": "dse.scientific-explanation",
+      "prerequisiteId": "dat.describing-diagrams",
+      "strength": "soft",
+      "reason": "Scientific explanations are usually co-presented with flow diagrams or cycles, and learners need language for describing these"
+    },
+    {
+      "topicId": "dse.protocols-specifications",
+      "prerequisiteId": "fun.describing-process",
+      "strength": "hard",
+      "reason": "Protocols are a procedural genre built on sequencing and purpose expressions from process description"
+    },
+    {
+      "topicId": "dse.protocols-specifications",
+      "prerequisiteId": "num.units-measurement",
+      "strength": "hard",
+      "reason": "Protocols and specifications are only usable if quantities, units and tolerances are stated in standard form"
+    },
+    {
+      "topicId": "dse.protocols-specifications",
+      "prerequisiteId": "fun.describing-structure",
+      "strength": "soft",
+      "reason": "Specifications describe components and their functional relations, which draws on the language of structure and systems"
+    },
+    {
+      "topicId": "dse.protocols-specifications",
+      "prerequisiteId": "sen.lists-bullets",
+      "strength": "soft",
+      "reason": "Numbered steps and requirement lists need parallel form and list punctuation"
+    },
+    {
+      "topicId": "dse.hypothesis-language",
+      "prerequisiteId": "fun.hypothesising",
+      "strength": "hard",
+      "reason": "Formulating testable hypotheses and predictions specialises the general language of predicting and hypothesising"
+    },
+    {
+      "topicId": "dse.hypothesis-language",
+      "prerequisiteId": "voc.subtechnical-polysemy",
+      "strength": "hard",
+      "reason": "Key experimental terms (error, control, significant, precise) are sub-technical words whose scientific sense differs from everyday use"
+    },
+    {
+      "topicId": "dse.hypothesis-language",
+      "prerequisiteId": "num.statistical-vocabulary",
+      "strength": "soft",
+      "reason": "Discussing uncertainty and significance assumes basic statistical vocabulary such as mean, range and standard deviation"
+    },
+    {
+      "topicId": "dse.hypothesis-language",
+      "prerequisiteId": "sta.claim-calibration",
+      "strength": "soft",
+      "reason": "Stating what results do and do not show within experimental uncertainty is a disciplinary application of calibrating claims to evidence"
+    },
+    {
+      "topicId": "dse.software-documentation",
+      "prerequisiteId": "dse.protocols-specifications",
+      "strength": "hard",
+      "reason": "Installation and usage instructions and API contracts use the imperative steps and verifiable specification language developed in protocols and specifications"
+    },
+    {
+      "topicId": "dse.software-documentation",
+      "prerequisiteId": "wpr.audience-purpose",
+      "strength": "soft",
+      "reason": "Each documentation genre is defined by a different reader (user, contributor, maintainer), so learners need a working model of audience and purpose"
+    },
+    {
+      "topicId": "dse.software-documentation",
+      "prerequisiteId": "fun.explaining",
+      "strength": "soft",
+      "reason": "Useful comments and design rationales explain why a decision was taken, drawing on the language of explaining and justifying"
+    },
+    {
+      "topicId": "dse.mathematical-writing",
+      "prerequisiteId": "num.mathematical-expression",
+      "strength": "hard",
+      "reason": "Proof writing integrates equations, variables and symbols into prose, which requires reading and writing mathematical expressions in words"
+    },
+    {
+      "topicId": "dse.mathematical-writing",
+      "prerequisiteId": "crt.reasoning-types",
+      "strength": "hard",
+      "reason": "Proofs are deductive arguments, and proof by induction or contradiction presupposes understanding of deductive inference"
+    },
+    {
+      "topicId": "dse.mathematical-writing",
+      "prerequisiteId": "grm.conditionals",
+      "strength": "hard",
+      "reason": "Theorems and proof steps are typically conditional statements whose exact form (if, only if, if and only if) carries the logic"
+    },
+    {
+      "topicId": "dse.mathematical-writing",
+      "prerequisiteId": "coh.connector-precision",
+      "strength": "soft",
+      "reason": "Signalling inference steps (hence, thus, since, conversely) depends on precise use of logical connectors"
+    }
+  ],
+  "guidance": [
+    {
+      "topicId": "dse.scientific-language",
+      "summary": "Halliday's analysis in Halliday and Martin (1993) treats the features that make scientific English hard (interlocking definitions, technical taxonomies, lexical density, grammatical metaphor) as functional resources that evolved to build and argue about technical knowledge. Teaching therefore aims at making these resources visible and usable, not at simplifying them away: learners practise unpacking nominalised sentences into congruent clauses and repacking them, and map the taxonomies that terms belong to. Lemke (1990) adds that science is learned by talking and writing its semantic relations, so learners should rehearse the relations between terms, not only the terms.",
+      "activities": [
+        {
+          "title": "Unpack and repack",
+          "learnerActions": [
+            "Take a dense sentence from a course textbook and underline every noun that names a process or quality",
+            "Rewrite the sentence as a series of short clauses with human or physical agents and verbs",
+            "Compare versions with a partner and decide what the original version gains (flow from the previous sentence, compactness, a nameable concept) and what it loses (agency, explicit causal relation)",
+            "Repack a different explained sequence into one sentence using a process noun as the subject"
+          ],
+          "intendedInsight": "Nominalisation lets science turn a process into a thing that can be measured, classified and used as the starting point of the next claim, at the cost of hiding who did what.",
+          "rationale": "Halliday's account of grammatical metaphor explains both the function and the reading difficulty of nominalised scientific prose, and moving between congruent and metaphorical wordings makes the resource visible.",
+          "citations": [
+            "hallidaymartin1993",
+            "bibergray2016"
+          ]
+        },
+        {
+          "title": "Taxonomy mapping",
+          "learnerActions": [
+            "List the technical terms introduced in one section of a textbook chapter",
+            "Arrange them in a diagram showing classification (types of) and composition (parts of) relations",
+            "Write two definition sentences that use the diagram's superordinate terms (for example a covalent bond is a type of chemical bond in which…)",
+            "Check the diagram against a glossary or a subject lecturer's explanation"
+          ],
+          "intendedInsight": "Scientific terms are organised into systems, and knowing a term includes knowing its place in the system.",
+          "rationale": "Halliday and Martin and Lemke both describe technical taxonomies as central to how science organises meaning, and making them explicit gives learners a structure for vocabulary learning.",
+          "citations": [
+            "hallidaymartin1993",
+            "lemke1990"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Scientific texts are hard just because the vocabulary is difficult. If I learn the words I will understand.",
+          "kind": "conceptual",
+          "revealedBy": "Learners who can gloss every word in a sentence still misread which process caused which, or cannot say what a nominalised subject refers back to.",
+          "response": "Show that difficulty often lies in grammar: process nouns, long nominal groups and implicit causal links. Practise unpacking. Do not simply pre-teach word lists and assume comprehension follows.",
+          "reteachPrerequisiteId": "grm.nominalisation"
+        },
+        {
+          "pattern": "Using everyday meanings of words that are technical in the discipline (writing that a force 'has power' or a result is 'significant' meaning important).",
+          "kind": "overgeneralisation",
+          "revealedBy": "Answers that are grammatical but scientifically wrong, often flagged by subject markers as conceptual errors.",
+          "response": "Contrast everyday and technical uses side by side and ask learners to collect pairs from their own reading. Involve subject staff in checking which distinctions matter most in the module.",
+          "reteachPrerequisiteId": "voc.technical-terminology"
+        },
+        {
+          "pattern": "Packing every sentence with nominalisations to sound scientific, producing writing that hides agents and causal steps.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Student drafts with strings of abstract nouns that markers comment on as unclear or wordy.",
+          "response": "Present nominalisation as a choice with costs. Ask learners to justify each nominalisation by what it does for text flow and to unpack those that do nothing. Avoid presenting density as a target in itself.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a 40–60-word textbook extract with two nominalisations and one sub-technical term. Ask the learner to explain it orally in plain terms and then identify which word has a special scientific meaning.",
+        "strongResponse": "Recovers the underlying processes and agents, keeps the causal direction, and identifies the sub-technical term and its scientific sense.",
+        "partialResponse": "Paraphrases the general topic but blurs the causal relation or replaces a technical term with an everyday synonym.",
+        "gapResponse": "Translates word by word or restates the sentence unchanged, unable to say what happens to what."
+      },
+      "contextNotes": "At foundation, work from textbooks and practical classes, with a strong focus on taxonomies and unpacking. On pre-sessional science pathways, use subject texts to build awareness of the register. In-sessionally, connect the work to the student's actual module reading and to markers' comments about clarity. At PGT, discuss when compressed prose is expected in research writing and when it becomes unreadable.",
+      "citations": [
+        "hallidaymartin1993",
+        "lemke1990",
+        "trimble1985"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "dse.scientific-explanation",
+      "summary": "Sydney School genre research distinguishes several explanation genres (sequential, causal, factorial, consequential, conditional) with predictable stages: identifying the phenomenon, then an explanation sequence (Martin & Rose, 2008). Explicit teaching of these stages through deconstruction, joint construction and independent construction is a central proposal of the Reading to Learn pedagogy (Rose & Martin, 2012). Gardner and Nesi (2013) also identify Explanation as a distinct genre family in university student writing, particularly in science and technology disciplines.",
+      "activities": [
+        {
+          "title": "Which kind of explanation?",
+          "learnerActions": [
+            "Sort six short textbook explanations into sequential, factorial and consequential types",
+            "Highlight the identifying statement and the language that links each step or factor",
+            "Choose an explanation type for each of three exam questions from your subject and justify the choice"
+          ],
+          "intendedInsight": "The question asked determines the shape of the explanation, and each shape has its own linking language.",
+          "rationale": "Identifying the staging and purpose of explanation genres before writing them follows the deconstruction phase of the Sydney School teaching–learning cycle.",
+          "citations": [
+            "martinrose2008",
+            "rosemartin2012"
+          ]
+        },
+        {
+          "title": "Joint construction with a diagram",
+          "learnerActions": [
+            "Start from a labelled diagram of a process from your module, such as a cycle or a circuit",
+            "Build an explanation together with the teacher, deciding the order of steps and the causal verb for each link",
+            "Write a second explanation independently from a different diagram and compare it with a model"
+          ],
+          "intendedInsight": "Diagrams show stages but not reasons; the written explanation must add the causal links.",
+          "rationale": "Joint construction scaffolds the move from understanding a model text to producing one, and diagram-to-text work reflects how science presents explanations multimodally.",
+          "citations": [
+            "rosemartin2012",
+            "lemke1990"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Narrating what happened in one experiment ('First we heated the water, then…') when the question asks for a general explanation of a mechanism.",
+          "kind": "conceptual",
+          "revealedBy": "Answers in past tense with personal agents and specific quantities, where the marker expected present-tense general statements.",
+          "response": "Contrast a recount of a practical with an explanation of the phenomenon it demonstrates. Show the shift to present simple and to generic participants.",
+          "reteachPrerequisiteId": "fun.describing-process"
+        },
+        {
+          "pattern": "Listing steps or factors joined by 'and' or 'then' without saying how one causes the next.",
+          "kind": "developmental",
+          "revealedBy": "Explanations that read as sequences of true statements but lose marks for 'no explanation of why'.",
+          "response": "Ask learners to label each link with the causal relation (causes, enables, prevents) and to choose a verb or conjunction for it. Do not correct only surface linking words; check the logic of each step with subject knowledge.",
+          "reteachPrerequisiteId": "fun.cause-effect"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to explain a familiar phenomenon from their subject in writing in about 120 words, with an optional sketch.",
+        "strongResponse": "States the phenomenon, then orders the steps or factors, links each causally, uses technical terms accurately and stays general.",
+        "partialResponse": "Covers the right content but with weak or missing causal links, or slips into a recount of a particular case.",
+        "gapResponse": "Describes the topic or gives a definition without any explanation sequence."
+      },
+      "contextNotes": "At foundation and on pre-sessional science pathways this is a core genre for exams and short answers. In UG in-sessional work, link it to exam answers and to the discussion sections of lab reports, where theoretical explanation of results is expected.",
+      "citations": [
+        "martinrose2008",
+        "rosemartin2012",
+        "gardnernesi2013"
+      ],
+      "reviewNotes": [
+        "The theoretical explanation type in the scope note is not a separate Sydney School category; it is interpreted here as applying a model or law to a specific case."
+      ]
+    },
+    {
+      "topicId": "dse.protocols-specifications",
+      "summary": "Procedural and specification texts are judged by whether they can be carried out or tested without ambiguity, so teaching should focus on precision, sequencing and the conventional meanings of modal verbs in the relevant community. Trimble (1985) describes instructions and rhetorical functions such as description of process and of physical structure as central to scientific and technical English. Gardner and Nesi (2013) identify Design Specification as a genre family in student writing. Conventions for modal verbs and formatting vary across standards bodies, companies and departments, so learners should check the local standard or template with subject staff.",
+      "activities": [
+        {
+          "title": "Follow it exactly",
+          "learnerActions": [
+            "Write a protocol for a simple procedure (for example preparing a 0.1 M solution or setting up a piece of software)",
+            "Exchange protocols with a partner, who follows the steps literally and records every point where they had to guess",
+            "Revise the protocol to remove each guess, adding quantities, conditions, timings or warnings"
+          ],
+          "intendedInsight": "A protocol is only as good as the questions it leaves unanswered for the person following it.",
+          "rationale": "Literal execution makes ambiguity visible to the writer, a form of reader feedback that matches the genre's purpose.",
+          "citations": [
+            "trimble1985"
+          ]
+        },
+        {
+          "title": "Testable requirements",
+          "learnerActions": [
+            "Read a short design brief and underline every vague expression (fast, user-friendly, approximately)",
+            "Rewrite each as a single requirement with a measurable criterion and unit",
+            "Assign each requirement a modal verb according to the convention your department or the relevant standard uses, and justify the choice"
+          ],
+          "intendedInsight": "Specification language turns intentions into statements that can be passed or failed.",
+          "rationale": "Converting vague briefs into verifiable statements targets the core function of the design specification genre and the precise use of units and quantities.",
+          "citations": [
+            "gardnernesi2013",
+            "bipm2019"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Writing protocols in the past passive ('The solution was heated') because that is how lab-report methods are written.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Protocols or SOPs that read as reports of what was done rather than instructions to follow.",
+          "response": "Place a protocol and the corresponding lab-report method side by side and discuss how purpose and reader change mood, tense and voice.",
+          "reteachPrerequisiteId": "fun.describing-process"
+        },
+        {
+          "pattern": "Using should, must and will interchangeably in requirements, or using 'shall' and 'should' in their everyday senses.",
+          "kind": "L1-transfer",
+          "revealedBy": "Specifications in which the obligation level of each requirement is unclear; this is more likely where the learner's first language marks obligation differently or with fewer distinctions.",
+          "response": "Teach the convention used by the relevant standard or department explicitly as a convention, and have learners audit their own specifications for consistency.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Omitting units, conditions or tolerances because they seem obvious to the writer.",
+          "kind": "performance",
+          "revealedBy": "Quantities without units, temperatures without duration, or settings without the equipment model.",
+          "response": "Use a checklist for quantity, unit, condition, duration and equipment for each step. Peer testing is more effective than teacher correction alone here.",
+          "reteachPrerequisiteId": "num.units-measurement"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a five-step protocol containing one missing unit, one warning placed after the hazardous step and one step that combines two actions. Ask the learner to edit it.",
+        "strongResponse": "Fixes all three problems and explains how each would affect a person following the protocol.",
+        "partialResponse": "Notices the missing unit but not the misplaced warning or the compound step.",
+        "gapResponse": "Edits only grammar or style and leaves the procedural problems untouched."
+      },
+      "contextNotes": "Foundation students mostly read protocols in practical classes, so focus there on reading instructions accurately. UG and PGT engineering and computing students write specifications in design projects. PGR students may write SOPs, method statements or protocols for ethics and safety approval, where institutional templates apply.",
+      "citations": [
+        "trimble1985",
+        "gardnernesi2013"
+      ],
+      "reviewNotes": [
+        "The modal-verb convention (shall/must for mandatory, should for recommended, may for optional) varies between standards bodies and organisations; it is presented as a convention to check locally, not as a universal rule."
+      ]
+    },
+    {
+      "topicId": "dse.hypothesis-language",
+      "summary": "Experimental vocabulary is a site where language and conceptual understanding are inseparable: confusion between accuracy and precision, or between significance and importance, often signals a misunderstanding of method. Parkinson's (2017) analysis of the student laboratory report shows how aims, methods and discussions rest on this vocabulary, and Hyland's (1998) work on scientific hedging shows that expert writers tie certainty to the strength of experimental evidence. Teaching should pair language work with simple experimental scenarios and, where possible, with lab demonstrators' feedback.",
+      "activities": [
+        {
+          "title": "Variable detective",
+          "learnerActions": [
+            "Read three short experiment descriptions from your subject",
+            "Identify the independent, dependent and controlled variables and the control condition in each",
+            "Write a hypothesis and a prediction for each, and compare formulations with a partner"
+          ],
+          "intendedInsight": "A hypothesis states a relationship between named variables, and a prediction says what should be observed if it holds.",
+          "rationale": "Working from authentic experimental designs ties the vocabulary to the concepts it encodes, as in the aims and methods stages of student lab reports.",
+          "citations": [
+            "parkinson2017"
+          ]
+        },
+        {
+          "title": "Error and uncertainty clinic",
+          "learnerActions": [
+            "Examine sets of repeated measurements that are precise but inaccurate, accurate but imprecise, and both",
+            "Label each set and write one sentence describing it with appropriate vocabulary",
+            "Rewrite three overclaiming result statements so that they state the value with its uncertainty and make a claim the data can support"
+          ],
+          "intendedInsight": "Accuracy, precision and uncertainty are different properties, and claims should not exceed what the measurements show.",
+          "rationale": "Connecting the language of uncertainty to claim strength reflects how scientific writers calibrate certainty to evidence, and to statistical guidance against equating significance with importance.",
+          "citations": [
+            "hyland1998hedging",
+            "wasserstein2016"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Using 'error' to mean a mistake by the experimenter, and listing 'human error' as the main limitation.",
+          "kind": "conceptual",
+          "revealedBy": "Discussion sections that blame 'human error' without naming a source of random or systematic error or its effect on the result.",
+          "response": "Teach the scientific sense of error as uncertainty, and ask learners to name a specific source, classify it and suggest how it could be reduced. Agree with lab staff what level of error analysis is expected.",
+          "reteachPrerequisiteId": "voc.subtechnical-polysemy"
+        },
+        {
+          "pattern": "Writing hypotheses as questions or as vague expectations ('Temperature will affect the reaction').",
+          "kind": "developmental",
+          "revealedBy": "Hypotheses that do not state the direction or nature of the relationship and so cannot be tested.",
+          "response": "Model the move from question to directional hypothesis to measurable prediction. Note that some fields and some lab reports do not require formal hypotheses, so check the brief.",
+          "reteachPrerequisiteId": "fun.hypothesising"
+        }
+      ],
+      "diagnostic": {
+        "task": "Give a results table from a simple experiment, with repeats, and ask the learner to write two sentences: one reporting the result with uncertainty, one evaluating the reliability of the data.",
+        "strongResponse": "Reports a mean with an appropriate uncertainty and significant figures, and evaluates spread and possible systematic error using the correct terms.",
+        "partialResponse": "Reports the mean but without uncertainty, or uses accuracy and precision interchangeably.",
+        "gapResponse": "Copies values without interpretation or attributes all variation to 'human error'."
+      },
+      "contextNotes": "At foundation and on pre-sessional science pathways, link this to practical classes and simple data. In UG in-sessional work, align it with lab reports and demonstrator feedback. At PGT the focus shifts to statistical language and uncertainty in project work, where num.interpreting-statistics becomes more relevant.",
+      "citations": [
+        "parkinson2017",
+        "hyland1998hedging",
+        "wasserstein2016"
+      ],
+      "reviewNotes": []
+    },
+    {
+      "topicId": "dse.software-documentation",
+      "summary": "Software documentation is a family of genres defined by readers with different tasks: a newcomer deciding whether to use a project, a developer calling an API, a maintainer reading code months later. Robillard's (2009) survey of developers found inadequate documentation, especially missing examples and explanations of intent, to be a major obstacle to learning APIs, which supports teaching documentation around reader tasks rather than templates. Conventions differ between languages, frameworks and teams, so learners should analyse documentation from well-maintained projects in their own ecosystem and check module requirements.",
+      "activities": [
+        {
+          "title": "README rescue",
+          "learnerActions": [
+            "Compare two READMEs from open-source projects in your language, one that you find easy to use and one that you do not",
+            "List the sections each contains and what questions a newcomer can or cannot answer from each",
+            "Rewrite the README of one of your own projects so that a classmate can install and run it, then test it with that classmate"
+          ],
+          "intendedInsight": "A README is judged by whether a newcomer can get started without asking the author.",
+          "rationale": "Analysing authentic exemplars and then testing with a real reader applies genre analysis to a professional genre whose success criteria are practical.",
+          "citations": [
+            "robillard2009"
+          ]
+        },
+        {
+          "title": "Why, not what",
+          "learnerActions": [
+            "Read a short code file with a mix of comments",
+            "Classify each comment as restating the code, explaining intent, warning of a constraint or out of date",
+            "Rewrite or delete comments accordingly and write one docstring with parameters, return value, errors and an example"
+          ],
+          "intendedInsight": "Good comments carry information the code cannot express, such as purpose and reasons for a non-obvious choice.",
+          "rationale": "Developers report that documentation explaining intent and usage is what they most often lack, so classifying comments by function directs attention to that information.",
+          "citations": [
+            "robillard2009"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "The code is the documentation. If it works, that is enough.",
+          "kind": "conceptual",
+          "revealedBy": "Projects submitted with no README or only auto-generated stubs, and marks lost on maintainability criteria.",
+          "response": "Show the marking criteria and a maintainer's task that cannot be done from the code alone. Bring in a subject tutor's or developer's view of documentation as part of the product.",
+          "reteachPrerequisiteId": "wpr.audience-purpose"
+        },
+        {
+          "pattern": "Writing comments that translate each line into English (increment i by 1).",
+          "kind": "developmental",
+          "revealedBy": "High comment density with no information about intent, constraints or reasons.",
+          "response": "Have learners delete every comment that a competent reader could reconstruct from the code, then add one explaining why for each non-obvious block. Do not reward comment quantity.",
+          "reteachPrerequisiteId": "fun.explaining"
+        },
+        {
+          "pattern": "Using informal, inconsistent wording across documentation, mixing imperative and descriptive styles for instructions.",
+          "kind": "performance",
+          "revealedBy": "Installation steps that switch between 'You need to…', 'Run…' and 'The user should…', and parameter descriptions in different formats.",
+          "response": "Agree a style for the project, such as imperative steps and a fixed docstring format, and use a checklist or linter where the ecosystem provides one.",
+          "reteachPrerequisiteId": "dse.protocols-specifications"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to write the opening of a README (purpose sentence, prerequisites, one usage example) for a small program they have written.",
+        "strongResponse": "States what the program does and for whom in one sentence, lists prerequisites with versions, and gives a runnable example with expected output.",
+        "partialResponse": "Includes a purpose and example but omits prerequisites, or describes features instead of showing usage.",
+        "gapResponse": "Writes a narrative of how the program was developed rather than how to use it."
+      },
+      "contextNotes": "For UG computing students, focus on README, comments and docstrings in assessed projects. At PGT, add design documents and API documentation for group projects. For PGR researchers, emphasise documentation of research software and code for reproducibility and data sharing.",
+      "citations": [
+        "robillard2009"
+      ],
+      "reviewNotes": [
+        "Research on documentation in EAP is sparse; guidance draws on software-engineering research on developer needs and on genre analysis, and should be reviewed with computing staff."
+      ]
+    },
+    {
+      "topicId": "dse.mathematical-writing",
+      "summary": "Mathematical writing combines symbolic notation with English that carries the logic: quantifiers, conditionals and inference markers. Style guides for the mathematical sciences such as Higham (1998) give conventions for integrating notation into sentences, defining symbols and signalling proof structure. Gardner and Nesi (2013) classify mathematical problem solutions within the Exercise genre family, in which demonstrating reasoning is the assessed purpose. Many learners arrive from systems that assessed final answers, so the expectation of written justification should be made explicit with lecturers' exemplars.",
+      "activities": [
+        {
+          "title": "From calculation to proof",
+          "learnerActions": [
+            "Compare an answer-only solution and a full written proof of the same result",
+            "Highlight the words in the proof that do logical work (let, suppose, hence, since, therefore)",
+            "Rewrite a second answer-only solution as a proof, then compare with a lecturer's model"
+          ],
+          "intendedInsight": "In a proof, the words between the equations are where the reasoning is shown and assessed.",
+          "rationale": "Making the logical vocabulary of proofs visible and practising conversion targets the specific conventions that mathematical style guides describe.",
+          "citations": [
+            "higham1998"
+          ]
+        },
+        {
+          "title": "Read it aloud",
+          "learnerActions": [
+            "Read a written proof aloud, including the symbols, as full sentences",
+            "Mark every place where the result is not a grammatical sentence or where a symbol appears without having been introduced",
+            "Revise your own proof until it reads aloud as continuous prose"
+          ],
+          "intendedInsight": "Mathematical text, symbols included, should read as grammatical sentences.",
+          "rationale": "Reading aloud tests the convention that notation is part of the sentence and draws on learners' knowledge of how mathematical expressions are spoken.",
+          "citations": [
+            "higham1998"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "Writing a column of equations with arrows or implication symbols and no words.",
+          "kind": "prior-schooling",
+          "revealedBy": "Solutions that reach the correct answer but lose marks for 'insufficient justification' or 'unclear argument'.",
+          "response": "Show the marking criteria and a lecturer's model solution. Treat this as a change of convention, not as a deficiency in mathematical ability.",
+          "reteachPrerequisiteId": "num.mathematical-expression"
+        },
+        {
+          "pattern": "Confusing 'if' with 'if and only if', or necessary with sufficient conditions, in statements of results.",
+          "kind": "conceptual",
+          "revealedBy": "Proofs that establish only one direction of a biconditional, or converse statements presented as equivalent.",
+          "response": "Practise rewording conditionals in several equivalent forms and identifying the converse and contrapositive. Involve the maths lecturer, since this is as much a logic issue as a language one.",
+          "reteachPrerequisiteId": "grm.conditionals"
+        },
+        {
+          "pattern": "Overusing 'obviously' and 'clearly' for steps that are not obvious to the reader.",
+          "kind": "performance",
+          "revealedBy": "Feedback asking for justification of steps that the writer labelled obvious.",
+          "response": "Ask learners to replace each 'clearly' with the reason it holds. Keep the booster only when the step really is immediate to the intended reader.",
+          "reteachPrerequisiteId": null
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask the learner to write a short proof that the square of an even integer is even.",
+        "strongResponse": "Introduces n with a quantifier, writes n = 2k with k an integer, derives n² = 2(2k²) in a sentence with a justification, and states the conclusion in words.",
+        "partialResponse": "Gets the algebra right but leaves symbols undefined or omits linking words.",
+        "gapResponse": "Gives numerical examples instead of a general argument."
+      },
+      "contextNotes": "At foundation, focus on worked solutions with full sentences. UG mathematics and theoretical computing students meet proofs in early modules, where this support is most valuable. At PGT and PGR, emphasise conventions of mathematical papers (theorem environments, citing results) and typesetting conventions such as those used in LaTeX.",
+      "citations": [
+        "higham1998",
+        "gardnernesi2013"
+      ],
+      "reviewNotes": [
+        "The EAP research base on mathematical writing is small; recommend collaboration with mathematics staff and analysis of local model solutions."
+      ]
+    }
+  ],
+  "proposedReferences": [
+    {
+      "key": "lemke1990",
+      "apa": "Lemke, J. L. (1990). *Talking science: Language, learning, and values*. Ablex.",
+      "note": "High confidence that this book exists with these details. Cited for science learning as learning the semantic relations among terms."
+    },
+    {
+      "key": "higham1998",
+      "apa": "Higham, N. J. (1998). *Handbook of writing for the mathematical sciences* (2nd ed.). Society for Industrial and Applied Mathematics.",
+      "note": "High confidence in title, author, publisher and 2nd edition year; a 3rd edition appeared in 2020. Cited for conventions of integrating notation into prose."
+    },
+    {
+      "key": "robillard2009",
+      "apa": "Robillard, M. P. (2009). What makes APIs hard to learn? Answers from developers. *IEEE Software, 26*(6), 27–34.",
+      "note": "Fairly high confidence in author, title, venue and year; volume, issue and pages should be verified. Cited for developers' reports that inadequate documentation, especially missing examples and intent, hinders API learning."
+    }
+  ],
+  "authorNotes": [
+    "DSE is broad: it covers natural sciences, engineering, mathematics and computing with six topics. Notable missing genres include engineering design reports in the discipline-specific sense (partly in grp.technical-design-report), code review and commit messages, and statistics write-ups for data science.",
+    "dse.scientific-language overlaps with grm.nominalisation and reg.disciplinary-style; it is framed here as the functional, Hallidayan view of scientific register built on top of those topics.",
+    "dse.hypothesis-language overlaps with fun.hypothesising and with lab-report teaching in grp.lab-report; consider adding it as a prerequisite of grp.lab-report in that group's file.",
+    "dse.software-documentation bundles four genres (README, comments, API reference, design documents) with different readers; it could be split if computing coverage is expanded."
+  ]
+}

@@ -171,7 +171,7 @@
         "apa2020",
         "chicago2024",
         "ieee2023",
-        "oscola2012"
+        "oscola2026"
       ],
       "frameworks": [
         {
@@ -286,7 +286,7 @@
       "assessmentPrompt": "Give the learner records for a book, a journal article and, for law students, a reported case. Ask for a full first note, a shortened subsequent note citing a different page, and the bibliography entries. Check the differences between note and bibliography formats, pinpoints, and consistency with the named guide.",
       "citations": [
         "chicago2024",
-        "oscola2012"
+        "oscola2026"
       ],
       "frameworks": [
         {
@@ -406,7 +406,7 @@
       "citations": [
         "apa2020",
         "mla2021",
-        "oscola2012"
+        "oscola2026"
       ],
       "frameworks": [
         {
@@ -1838,7 +1838,7 @@
           "citations": [
             "apa2020",
             "ieee2023",
-            "oscola2012"
+            "oscola2026"
           ]
         },
         {
@@ -1882,7 +1882,7 @@
         "mla2021",
         "chicago2024",
         "ieee2023",
-        "oscola2012",
+        "oscola2026",
         "icmje2025"
       ],
       "reviewNotes": [
@@ -2061,7 +2061,7 @@
           "intendedInsight": "Legal citation distinguishes primary authorities from commentary and expects precise pinpoints.",
           "rationale": "OSCOLA formats for primary legal sources are unfamiliar to most learners and central to legal writing assessment.",
           "citations": [
-            "oscola2012"
+            "oscola2026"
           ]
         }
       ],
@@ -2097,10 +2097,10 @@
       "contextNotes": "Pre-sessional courses with law or humanities pathways should introduce notes before progression. In UG and PGT in-sessional teaching the department's guide is the authority; PGR writers in history and law also need control of archival, legal and non-English sources in notes.",
       "citations": [
         "chicago2024",
-        "oscola2012"
+        "oscola2026"
       ],
       "reviewNotes": [
-        "OSCOLA and Chicago are revised periodically; confirm the edition the department specifies."
+        "OSCOLA (5th ed., 2026) and Chicago (18th ed., 2024) have both been revised recently; departments may still prescribe earlier editions during transition, so confirm the edition specified."
       ]
     },
     {
@@ -2315,7 +2315,7 @@
       "citations": [
         "apa2020",
         "mla2021",
-        "oscola2012",
+        "oscola2026",
         "chicago2024"
       ],
       "reviewNotes": []

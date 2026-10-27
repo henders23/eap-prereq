@@ -9,7 +9,7 @@ The taxonomy was produced in October 2026 by AI agents working to a fixed
 specification, then reviewed adversarially and revised. The process was:
 
 1. **Design.** A curator agent designed the strand/domain structure and the
-   557-topic skeleton (`authoring/skeleton.txt`). Topic IDs, names and scope
+   first 557-topic skeleton (`authoring/skeleton.txt`). Topic IDs, names and scope
    notes were fixed so that authors could link prerequisites across strands.
    The curator also compiled the closed bibliography
    (`src/meta/references.txt`) and the framework catalogue
@@ -25,13 +25,20 @@ specification, then reviewed adversarially and revised. The process was:
 3. **Integration.** The curator merged the strands, resolved cross-strand
    cycles and redundant edges, verified proposed references and built the
    dataset (`scripts/build.mjs`).
-4. **Adversarial review and revision.** Independent reviewer agents, each
-   briefed as a domain expert and given the built data rather than the
-   authors' reasoning, critiqued the taxonomy. The findings and the changes
-   made in response are logged in
-   [`reports/adversarial-review.md`](reports/adversarial-review.md).
+4. **Adversarial review.** Six independent reviewer agents critiqued the
+   built taxonomy. Each was briefed as a domain expert (curriculum
+   architecture, applied linguistics, learning graphs, citation integrity,
+   critical EAP, and ESAP/PGR/assessment) and given the data rather than the
+   authors' reasoning. Together they reported 167 findings.
+5. **Revision.** The curator applied 354 checked fixes and restructured the
+   schema and topic set (stage roles, facets, merges, 33 new topics). Sixteen
+   author agents then revised their strands against packets of the relevant
+   findings. Every finding and its disposition is logged in
+   [`reports/adversarial-review.md`](reports/adversarial-review.md). The
+   individual reviews are in [`reports/review/`](reports/review/).
 
-No human subject-matter expert has yet reviewed this release. Treat it as a
+No human subject-matter expert has yet reviewed this release. The
+"expert" reviews above were conducted by AI agents. Treat it as a
 well-sourced first edition that needs practitioner validation, especially the
 CEFR ranges, stage assignments and prerequisite strengths, which are expert
 judgements rather than empirically calibrated values.
@@ -39,14 +46,18 @@ judgements rather than empirically calibrated values.
 ## Bibliography and citation integrity
 
 - Every citation key resolves to an entry in `data/references.json`.
-- Each reference has a `verification` status:
-  - `web-verified`: the bibliographic details were checked against an
-    online record (publisher, repository, library or indexing service) during
-    authoring.
-  - `curator-checked`: the details were checked against the curator's
-    knowledge of the work but not re-fetched. This status covers well-known
-    and widely cited works.
-  - `unverified`: the details have not been checked.
+- Each reference has a `verification` status. In this release 478 of 480
+  references are `web-verified`: their bibliographic details (authors, year,
+  title, venue, volume, pages, DOI) were checked by web search against
+  publisher, repository, library or indexing records, and more than 40 were corrected
+  in the process. Where a DOI or page range could not be confirmed, the
+  `verificationNote` says so, and unconfirmed DOIs were removed from
+  references proposed during authoring. Two references
+  (`basturkmen2003`, `aguilar2004`) remain `unverified` because no online
+  record was found. A `curator-checked` status is defined for future use
+  but no reference currently has it.
+- All references that authors proposed during writing were verified before
+  being added to the bibliography; none were found to be fabricated.
 - A citation means that the work supports the topic's framing or the
   rationale for a teaching approach. It does **not** mean that the work tested
   the specific activity proposed.

@@ -2642,7 +2642,7 @@
         "partialResponse": "Finds the main verb but truncates the subject at the first noun, or paraphrases correctly while marking a relative-clause verb as the main verb.",
         "gapResponse": "Labels words only by word class, chooses the first verb in the sentence as the main verb, or cannot state what the sentence claims."
       },
-      "contextNotes": "At foundation level, clause analysis is taught explicitly with textbook sentences and linked to sentence boundaries and agreement. On pre-sessional courses it works best embedded in reading of set texts and editing of drafts rather than as a stand-alone grammar unit. In undergraduate in-sessional provision it is revisited briefly as a tool for parsing disciplinary reading and diagnosing fragments.",
+      "contextNotes": "At foundation level, clause analysis is taught explicitly with textbook sentences and linked to sentence boundaries and agreement. On pre-sessional courses it is usually better embedded in reading of set texts and editing of drafts rather than as a stand-alone grammar unit. In undergraduate in-sessional provision it is revisited briefly as a tool for parsing disciplinary reading and diagnosing fragments.",
       "citations": [
         "grabe2009",
         "norrisortega2000",

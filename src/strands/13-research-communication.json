@@ -49,7 +49,7 @@
       "strand": "Research Communication",
       "domain": "Publication & Dissemination",
       "name": "The academic publishing process",
-      "description": "Understand the stages through which a manuscript becomes a publication \u2014 submission, editorial screening and desk rejection, peer review (single-anonymous, double-anonymous, open or transparent, and models such as registered reports and review of preprints), decisions (accept, minor or major revision, reject and resubmit, reject), revision, acceptance, production and post-publication correction or retraction \u2014 and the roles of editors, reviewers and authors in each. Understanding the process as a negotiation within a discourse community helps novice authors interpret decisions, plan timelines and avoid treating rejection as a final verdict on their work.",
+      "description": "Understand the stages through which a manuscript becomes a publication — submission, editorial screening and desk rejection, peer review (single-anonymous, double-anonymous, open or transparent, and models such as registered reports and review of preprints), decisions (accept, minor or major revision, reject and resubmit, reject), revision, acceptance, production and post-publication correction or retraction — and the roles of editors, reviewers and authors in each. Understanding the process as a negotiation within a discourse community helps novice authors interpret decisions, plan timelines and avoid treating rejection as a final verdict on their work.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "coreBand": "C1",
@@ -348,7 +348,7 @@
         "Concedes valid criticisms without abandoning the thesis's main claims and defends choices with reasons",
         "Manages extended interaction, including asking for clarification, taking time to think and navigating to relevant pages"
       ],
-      "assessmentPrompt": "Run a 15\u201320-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation. Follow each answer with at least one probing follow-up, including one that requires the candidate to find and use a specific passage in the thesis. Check whether the learner answers directly, supports answers with reference to the thesis, concedes appropriately and maintains the main claims.",
+      "assessmentPrompt": "Run a 15–20-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation. Follow each answer with at least one probing follow-up, including one that requires the candidate to find and use a specific passage in the thesis. Check whether the learner answers directly, supports answers with reference to the thesis, concedes appropriately and maintains the main claims.",
       "citations": [
         "paltridgestarfield2020",
         "swales2004",
@@ -691,7 +691,7 @@
         "Organises the statement as an argument for admission or funding rather than as a chronological life story",
         "Adjusts length, structure and degree of self-promotion to the target institution and country while keeping claims accurate and their own"
       ],
-      "assessmentPrompt": "Give the learner a programme's selection criteria and a paragraph of a statement made of general claims ('I have always been fascinated by\u2026', 'I am a hard-working and motivated person'). Ask them to rewrite it around one specific experience. Check whether the rewrite addresses a named criterion, supports claims with concrete evidence, explains relevance to the programme and keeps a confident but accurate register.",
+      "assessmentPrompt": "Give the learner a programme's selection criteria and a paragraph of a statement made of general claims ('I have always been fascinated by…', 'I am a hard-working and motivated person'). Ask them to rewrite it around one specific experience. Check whether the rewrite addresses a named criterion, supports claims with concrete evidence, explains relevance to the programme and keeps a confident but accurate register.",
       "citations": [
         "bhatia1993",
         "ivanic1998",
@@ -862,7 +862,7 @@
       "strand": "Research Communication",
       "domain": "Research Writing",
       "name": "IMRaD and its variants",
-      "description": "Recognise the Introduction\u2013Methods\u2013Results\u2013Discussion macrostructure as a conventional way of reporting empirical research, explain what each section does for the reader, and identify the variants used in one's own field, such as merged Results and Discussion, a separate Conclusions section, a theory section before Methods, or argument-led organisation in the humanities. Knowing the macrostructure lets writers put content where readers expect it, while recognising IMRaD as a disciplinary convention rather than a universal norm.",
+      "description": "Recognise the Introduction–Methods–Results–Discussion macrostructure as a conventional way of reporting empirical research, explain what each section does for the reader, and identify the variants used in one's own field, such as merged Results and Discussion, a separate Conclusions section, a theory section before Methods, or argument-led organisation in the humanities. Knowing the macrostructure lets writers put content where readers expect it, while recognising IMRaD as a disciplinary convention rather than a universal norm.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
       "coreBand": "B2",
@@ -1037,7 +1037,7 @@
       "disciplines": [],
       "audience": "learner",
       "masteryEvidence": [
-        "Annotates a published introduction from their own field for moves and steps, including recursive Move 1\u2013Move 2 cycles where present",
+        "Annotates a published introduction from their own field for moves and steps, including recursive Move 1–Move 2 cycles where present",
         "Writes an introduction in which the territory narrows towards the niche, the niche follows from cited work, and the announcement of the study answers the niche",
         "Decides, with reference to field exemplars, whether to announce principal findings and outline the structure of the text in the introduction",
         "Adapts the move structure for a thesis introduction, including statements of thesis structure, scope and definitions where expected",
@@ -1413,7 +1413,7 @@
       "strand": "Research Communication",
       "domain": "Research Writing",
       "name": "Discussion sections",
-      "description": "Write discussion sections that move from results to meaning: restating key findings in relation to the research questions, comparing them with previous research, explaining expected and unexpected outcomes, evaluating the study's limitations, and drawing implications. Discussions are typically cyclical, repeating statement\u2013comparison\u2013explanation sequences for each major finding, and their persuasiveness depends on claims calibrated to the evidence and on alternative explanations considered rather than dismissed.",
+      "description": "Write discussion sections that move from results to meaning: restating key findings in relation to the research questions, comparing them with previous research, explaining expected and unexpected outcomes, evaluating the study's limitations, and drawing implications. Discussions are typically cyclical, repeating statement–comparison–explanation sequences for each major finding, and their persuasiveness depends on claims calibrated to the evidence and on alternative explanations considered rather than dismissed.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
       "coreBand": "C1",
@@ -1536,7 +1536,7 @@
         "Calibrates originality claims, avoiding unsupported 'first' and 'novel' claims while not hedging the contribution into invisibility",
         "Uses self-mention or impersonal constructions deliberately, according to field and target genre"
       ],
-      "assessmentPrompt": "Ask the learner to complete the frame 'This study contributes to \u2026 by \u2026, which matters because \u2026' for their own project, and then to point to where the matching niche appears in their introduction. Check whether the contribution is specific, of a named type, linked to the niche and calibrated.",
+      "assessmentPrompt": "Ask the learner to complete the frame 'This study contributes to … by …, which matters because …' for their own project, and then to point to where the matching niche appears in their introduction. Check whether the contribution is specific, of a named type, linked to the niche and calibrated.",
       "citations": [
         "hyland2001selfmention",
         "hyland2005stance",
@@ -1671,7 +1671,7 @@
       "strand": "Research Communication",
       "domain": "Research Writing",
       "name": "Thesis macrostructure",
-      "description": "Choose and justify an overall organisation for a dissertation or thesis \u2014 traditional simple (IMRaD-like), traditional complex (several studies), topic-based, or publication-based (compilation of articles with framing chapters, assembled during candidature or, in some systems, retrospectively as a PhD by published works), alongside practice-based and professional-doctorate variants that combine an artefact or portfolio with an exegesis or commentary \u2014 and plan chapters that fit the research, the institution's regulations and disciplinary norms. Writers understand what each chapter type contributes, how a publication-based thesis builds coherence across stand-alone papers, and what examiners will look for in the whole document.",
+      "description": "Choose and justify an overall organisation for a dissertation or thesis — traditional simple (IMRaD-like), traditional complex (several studies), topic-based, or publication-based (compilation of articles with framing chapters, assembled during candidature or, in some systems, retrospectively as a PhD by published works), alongside practice-based and professional-doctorate variants that combine an artefact or portfolio with an exegesis or commentary — and plan chapters that fit the research, the institution's regulations and disciplinary norms. Writers understand what each chapter type contributes, how a publication-based thesis builds coherence across stand-alone papers, and what examiners will look for in the whole document.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "coreBand": "C1",
@@ -1884,7 +1884,7 @@
         "Interprets indirect feedback comments accurately and responds to each, stating what was changed or why not",
         "Raises disagreement or concerns using mitigated, evidence-based language and knows the institutional routes for unresolved problems"
       ],
-      "assessmentPrompt": "Give the learner three authentic-style supervisor comments, one direct, one hedged ('you might want to consider\u2026') and one cryptic ('?'), and ask what each requires and how they would respond. Check whether they recognise hedged comments as requests and whether they would clarify the cryptic one rather than ignore it.",
+      "assessmentPrompt": "Give the learner three authentic-style supervisor comments, one direct, one hedged ('you might want to consider…') and one cryptic ('?'), and ask what each requires and how they would respond. Check whether they recognise hedged comments as requests and whether they would clarify the cryptic one rather than ignore it.",
       "citations": [
         "belcher1994",
         "kamlerthomson2014",
@@ -2393,7 +2393,7 @@
       "topicId": "pub.peer-review-reports",
       "prerequisiteId": "sta.evaluating-others-language",
       "strength": "hard",
-      "reason": "Constructive reviewing relies on praise\u2013criticism pairs and mitigated critique"
+      "reason": "Constructive reviewing relies on praise–criticism pairs and mitigated critique"
     },
     {
       "topicId": "pub.peer-review-reports",
@@ -2873,7 +2873,7 @@
       "topicId": "res.research-proposal",
       "prerequisiteId": "grp.project-proposal",
       "strength": "soft",
-      "reason": "Student project proposals are usually written first and introduce the rationale\u2013aims\u2013methods\u2013timeline structure"
+      "reason": "Student project proposals are usually written first and introduce the rationale–aims–methods–timeline structure"
     },
     {
       "topicId": "res.ethics-documentation",
@@ -3677,7 +3677,7 @@
           "reteachPrerequisiteId": "res.abstracts"
         },
         {
-          "pattern": "Results show that\u2026 (when data collection has not started).",
+          "pattern": "Results show that… (when data collection has not started).",
           "kind": "performance",
           "revealedBy": "Past-tense results statements for work not yet done.",
           "response": "Practise future and hedged formulations and discuss the integrity implications of reporting results that do not exist.",
@@ -3961,7 +3961,7 @@
     },
     {
       "topicId": "pub.academic-cv-bio",
-      "summary": "Academic self-presentation genres construct a professional identity. Ivani\u010d (1998) frames writing as the discoursal construction of identity, and Hyland and Tse (2012) analysed article bio statements, showing how writers present credentials and affiliations and how this varies with seniority. The Vitae RDF names professional and career development as a sub-domain (Vitae 2010, B3). Teach each genre with exemplars from the target context, since CV conventions differ across countries, sectors and funders, including the growing use of narrative CVs.",
+      "summary": "Academic self-presentation genres construct a professional identity. Ivanič (1998) frames writing as the discoursal construction of identity, and Hyland and Tse (2012) analysed article bio statements, showing how writers present credentials and affiliations and how this varies with seniority. The Vitae RDF names professional and career development as a sub-domain (Vitae 2010, B3). Teach each genre with exemplars from the target context, since CV conventions differ across countries, sectors and funders, including the growing use of narrative CVs.",
       "activities": [
         {
           "title": "Bio comparison",
@@ -4174,10 +4174,10 @@
     },
     {
       "topicId": "pub.personal-statements",
-      "summary": "Bhatia (1993) analysed application letters as promotional genres in which writers present themselves in terms of the reader's selection needs, and Ivani\u010d (1998) frames such writing as the discoursal construction of identity. Hyland and Tse (2012) showed how academics construct credibility in bio statements by selecting credentials, a related form of academic self-presentation. Teach the statement as an argument for the fit between applicant and programme, built from specific evidence, and make implicit criteria explicit. Discuss the ethics of templates, paid services and generative AI, since many institutions now ask applicants to declare or limit such help.",
+      "summary": "Bhatia (1993) analysed application letters as promotional genres in which writers present themselves in terms of the reader's selection needs, and Ivanič (1998) frames such writing as the discoursal construction of identity. Hyland and Tse (2012) showed how academics construct credibility in bio statements by selecting credentials, a related form of academic self-presentation. Teach the statement as an argument for the fit between applicant and programme, built from specific evidence, and make implicit criteria explicit. Discuss the ethics of templates, paid services and generative AI, since many institutions now ask applicants to declare or limit such help.",
       "activities": [
         {
-          "title": "Claim\u2013evidence audit",
+          "title": "Claim–evidence audit",
           "learnerActions": [
             "Underline every claim you make about yourself in your draft",
             "Next to each, write the specific evidence a reader would need",
@@ -4199,7 +4199,7 @@
             "Plan the sections of your statement against those prompts"
           ],
           "intendedInsight": "There is no universal template; the target programme's prompts and conventions decide the shape.",
-          "rationale": "Treating writing as identity construction (Ivani\u010d 1998) supports helping applicants choose how to present themselves for each context rather than imposing one model.",
+          "rationale": "Treating writing as identity construction (Ivanič 1998) supports helping applicants choose how to present themselves for each context rather than imposing one model.",
           "citations": [
             "ivanic1998"
           ]
@@ -4284,7 +4284,7 @@
           "reteachPrerequisiteId": "pub.viva"
         },
         {
-          "pattern": "The report is vague \u2014 'strengthen the discussion' \u2014 and I don't know what the examiner wants.",
+          "pattern": "The report is vague — 'strengthen the discussion' — and I don't know what the examiner wants.",
           "kind": "institutional",
           "revealedBy": "Minimal or uncertain revisions to vaguely worded requirements, and delays while the candidate guesses.",
           "response": "Examiners and institutions should state required changes specifically. Learners can ask for clarification through the route the regulations allow, usually the internal examiner or the supervisor, proposing a specific interpretation for confirmation.",
@@ -4467,7 +4467,7 @@
             "Record one convention of your field that differs from canonical IMRaD and suggest why"
           ],
           "intendedInsight": "Section boundaries are signalled by rhetorical function and by language such as tense, citation density and hedging, and the conventional order varies by field.",
-          "rationale": "Genre-based consciousness-raising asks learners to notice function\u2013form relations in authentic exemplars; cross-disciplinary comparison guards against generalising one model (Swales 1990; Cheng 2018).",
+          "rationale": "Genre-based consciousness-raising asks learners to notice function–form relations in authentic exemplars; cross-disciplinary comparison guards against generalising one model (Swales 1990; Cheng 2018).",
           "citations": [
             "swales1990",
             "cheng2018"
@@ -4700,7 +4700,7 @@
         {
           "pattern": "Move 3 announces the topic but not the questions, so readers cannot see what the study will answer.",
           "kind": "developmental",
-          "revealedBy": "Announcements such as 'This study will look at\u2026' with no aims, questions or hypotheses.",
+          "revealedBy": "Announcements such as 'This study will look at…' with no aims, questions or hypotheses.",
           "response": "Ask the learner to insert their research questions verbatim into Move 3 and check that they answer the niche.",
           "reteachPrerequisiteId": "res.research-questions"
         }
@@ -4722,7 +4722,7 @@
     },
     {
       "topicId": "res.literature-review",
-      "summary": "Teach the research literature review as an argument about the state of knowledge that makes room for the writer's study. Kwan (2006) found an introduction\u2013body\u2013conclusion structure in applied linguistics doctoral reviews, with the body cycling through moves that establish territory and create niches, although writers did not always relate the literature to their own research. Feak and Swales (2009) frame the review as a 'research story' with deliberate choices of citation form, metadiscourse and stance. Petri\u0107 (2007) found that higher-rated master's theses used citation for a wider range of functions, notably application and comparison, which can be made explicit in teaching. Kamler and Thomson (2014) also treat the review as identity work: writers must position themselves with authority among established scholars.",
+      "summary": "Teach the research literature review as an argument about the state of knowledge that makes room for the writer's study. Kwan (2006) found an introduction–body–conclusion structure in applied linguistics doctoral reviews, with the body cycling through moves that establish territory and create niches, although writers did not always relate the literature to their own research. Feak and Swales (2009) frame the review as a 'research story' with deliberate choices of citation form, metadiscourse and stance. Petrić (2007) found that higher-rated master's theses used citation for a wider range of functions, notably application and comparison, which can be made explicit in teaching. Kamler and Thomson (2014) also treat the review as identity work: writers must position themselves with authority among established scholars.",
       "activities": [
         {
           "title": "Paragraph function audit",
@@ -4733,7 +4733,7 @@
             "Revise two report-only paragraphs so that they make a positioning claim"
           ],
           "intendedInsight": "Every paragraph of a research review should do positioning work, and evaluation and application of sources are what make the writer's voice visible.",
-          "rationale": "Petri\u0107's (2007) finding on citation functions in higher- and lower-rated theses, and Kwan's (2006) observation that writers do not always connect literature to their own study, suggest these are the points to make explicit.",
+          "rationale": "Petrić's (2007) finding on citation functions in higher- and lower-rated theses, and Kwan's (2006) observation that writers do not always connect literature to their own study, suggest these are the points to make explicit.",
           "citations": [
             "petric2007",
             "kwan2006"
@@ -4756,7 +4756,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Smith (2015) found\u2026; Jones (2017) found\u2026; Lee (2019) found\u2026 \u2014 one paragraph per source.",
+          "pattern": "Smith (2015) found…; Jones (2017) found…; Lee (2019) found… — one paragraph per source.",
           "kind": "developmental",
           "revealedBy": "Integral citations opening most sentences, a list-like structure and little evaluative language.",
           "response": "Have the learner rewrite one paragraph with a topic sentence that makes a claim about the group of studies and uses non-integral citation for support. Do not simply ban integral citation, which is valuable for foregrounding key scholars and contrasting positions.",
@@ -4937,7 +4937,7 @@
             "Compare it with an earlier draft that reported every value"
           ],
           "intendedInsight": "Results prose selects and interprets for the reader; repeating the table adds length without adding meaning.",
-          "rationale": "Location\u2013highlighting\u2013comment sequences in data commentary (Swales & Feak 2012) give a structure for selection.",
+          "rationale": "Location–highlighting–comment sequences in data commentary (Swales & Feak 2012) give a structure for selection.",
           "citations": [
             "swalesfeak2012"
           ]
@@ -4969,7 +4969,7 @@
           "pattern": "Findings are stated as facts about the world ('Students prefer online learning') rather than as findings of this study.",
           "kind": "developmental",
           "revealedBy": "Present-tense generalisations in results without reference to the sample or data, and unhedged comments.",
-          "response": "Contrast 'participants in this study reported\u2026' with general claims, and practise tense and hedging choices that keep the scope of results claims explicit.",
+          "response": "Contrast 'participants in this study reported…' with general claims, and practise tense and hedging choices that keep the scope of results claims explicit.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -5054,14 +5054,14 @@
     },
     {
       "topicId": "res.qualitative-reporting",
-      "summary": "Qualitative findings are persuasive when themes are presented as analytic claims that extracts illustrate and evidence, not as collections of quotations. Braun and Clarke (2006) caution that themes should be analytic constructions rather than summaries of what participants said, and that extracts need analytic narrative around them; their later account of reflexive thematic analysis (Braun & Clarke 2019) stresses that themes are generated by the researcher rather than 'emerging', and that coding-agreement statistics do not fit reflexive designs, points that examiners and reviewers now often raise. The APA's qualitative reporting standards (APA 2020) and Creswell and Creswell (2018) describe expectations about transparency, reflexivity and evidence. EAP teaching can focus on the language of the claim\u2013extract\u2013commentary unit and on keeping analyst and participant voices distinct.",
+      "summary": "Qualitative findings are persuasive when themes are presented as analytic claims that extracts illustrate and evidence, not as collections of quotations. Braun and Clarke (2006) caution that themes should be analytic constructions rather than summaries of what participants said, and that extracts need analytic narrative around them; their later account of reflexive thematic analysis (Braun & Clarke 2019) stresses that themes are generated by the researcher rather than 'emerging', and that coding-agreement statistics do not fit reflexive designs, points that examiners and reviewers now often raise. The APA's qualitative reporting standards (APA 2020) and Creswell and Creswell (2018) describe expectations about transparency, reflexivity and evidence. EAP teaching can focus on the language of the claim–extract–commentary unit and on keeping analyst and participant voices distinct.",
       "activities": [
         {
-          "title": "Claim\u2013extract\u2013comment frames",
+          "title": "Claim–extract–comment frames",
           "learnerActions": [
             "Identify the claim, extract and commentary in three findings paragraphs from published qualitative studies in your field",
             "Note the language used to introduce extracts and to return to the analyst's voice",
-            "Rewrite one of your own quotation-heavy paragraphs into claim\u2013extract\u2013comment units"
+            "Rewrite one of your own quotation-heavy paragraphs into claim–extract–comment units"
           ],
           "intendedInsight": "Extracts serve the analytic claim; the commentary after an extract is where interpretation happens.",
           "rationale": "Braun and Clarke (2006) emphasise analytic narrative around extracts; making the unit explicit gives learners a revisable structure.",
@@ -5088,14 +5088,14 @@
           "pattern": "The quotations speak for themselves.",
           "kind": "developmental",
           "revealedBy": "Paragraphs consisting of a theme label followed by several long extracts with little or no commentary.",
-          "response": "Ask the learner to write what each extract shows before including it, and to cut extracts that do not support a stated claim. Avoid simply asking for fewer quotations without teaching the claim\u2013commentary structure.",
+          "response": "Ask the learner to write what each extract shows before including it, and to cut extracts that do not support a stated claim. Avoid simply asking for fewer quotations without teaching the claim–commentary structure.",
           "reteachPrerequisiteId": "src.integrating-quotations"
         },
         {
           "pattern": "It is unclear whether a statement is the participant's view or the researcher's interpretation.",
           "kind": "developmental",
           "revealedBy": "Unattributed paraphrases of participants presented as findings, and reporting verbs that blur the two voices.",
-          "response": "Practise attribution (participants described\u2026, as Ana put it\u2026) and averral (this suggests\u2026) and have learners colour-code voices in a draft.",
+          "response": "Practise attribution (participants described…, as Ana put it…) and averral (this suggests…) and have learners colour-code voices in a draft.",
           "reteachPrerequisiteId": "sta.averral-attribution"
         },
         {
@@ -5119,9 +5119,7 @@
         "apa2020",
         "creswell2018"
       ],
-      "reviewNotes": [
-        "braunclarke2019 is a proposed reference (see proposedReferences), added in response to R6-23; if it is not accepted, remove the sentence on reflexive thematic analysis and the third difficulty's citation."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "res.discussion",
@@ -5359,7 +5357,7 @@
           "pattern": "My conclusion repeats my abstract and ends with 'more research is needed'.",
           "kind": "developmental",
           "revealedBy": "Conclusions with no explicit answers, contribution or specific implications.",
-          "response": "Use the question\u2013answer check and implication tracing. Do not just ask for more content; ask for the functional moves that are missing.",
+          "response": "Use the question–answer check and implication tracing. Do not just ask for more content; ask for the functional moves that are missing.",
           "reteachPrerequisiteId": "res.discussion"
         },
         {
@@ -5470,7 +5468,7 @@
         "kamlerthomson2014"
       ],
       "reviewNotes": [
-        "Review response: R1-15 merged grp.student-abstract into this topic. Its moves, tense guidance, indicative-versus-informative activity and student contexts are incorporated here, and the range is widened to B2\u2013C1."
+        "Review response: R1-15 merged grp.student-abstract into this topic. Its moves, tense guidance, indicative-versus-informative activity and student contexts are incorporated here, and the range is widened to B2–C1."
       ]
     },
     {
@@ -5574,7 +5572,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Every chapter begins 'In this chapter, I will\u2026' followed by a list of section headings.",
+          "pattern": "Every chapter begins 'In this chapter, I will…' followed by a list of section headings.",
           "kind": "overgeneralisation",
           "revealedBy": "Formulaic previews that duplicate the table of contents and do not state purpose or relation to the argument.",
           "response": "Ask the learner to state why the chapter is there before what it contains, and to vary language. Avoid forbidding previews, which are conventional and useful.",
@@ -5643,7 +5641,7 @@
           "reteachPrerequisiteId": "res.methods"
         },
         {
-          "pattern": "My study will prove that\u2026",
+          "pattern": "My study will prove that…",
           "kind": "developmental",
           "revealedBy": "Predetermined conclusions and boosted claims about outcomes of research not yet done.",
           "response": "Distinguish what the researcher will do from what they expect to find, and practise hypothesis and expectation language.",
@@ -5729,7 +5727,7 @@
     },
     {
       "topicId": "res.supervision",
-      "summary": "Supervision is a relationship mediated by talk and text, and it is often where tacit disciplinary expectations become visible. Belcher (1994) studied three advisor\u2013student pairs and linked the more successful relationship to a more reciprocal, collaborative stance and shared understanding of the target discourse community. Kamler and Thomson (2014) and Paltridge and Starfield (2020) treat supervision as a site of writing pedagogy, and Carless and Boud (2018) show that taking up feedback requires appreciating it, making judgements, managing affect and acting. Teach explicit expectation-setting and feedback negotiation, and treat indirectness in supervisor comments as a pragmatic issue.",
+      "summary": "Supervision is a relationship mediated by talk and text, and it is often where tacit disciplinary expectations become visible. Belcher (1994) studied three advisor–student pairs and linked the more successful relationship to a more reciprocal, collaborative stance and shared understanding of the target discourse community. Kamler and Thomson (2014) and Paltridge and Starfield (2020) treat supervision as a site of writing pedagogy, and Carless and Boud (2018) show that taking up feedback requires appreciating it, making judgements, managing affect and acting. Teach explicit expectation-setting and feedback negotiation, and treat indirectness in supervisor comments as a pragmatic issue.",
       "activities": [
         {
           "title": "Expectation-setting conversation",
@@ -5804,7 +5802,7 @@
             "Share one insight with a writing partner"
           ],
           "intendedInsight": "Monitoring actual writing behaviour reveals patterns that intentions hide.",
-          "rationale": "The forethought\u2013performance\u2013reflection cycle of self-regulated learning (Zimmerman 2002) applied to writing.",
+          "rationale": "The forethought–performance–reflection cycle of self-regulated learning (Zimmerman 2002) applied to writing.",
           "citations": [
             "zimmerman2002"
           ]
@@ -5855,7 +5853,7 @@
     },
     {
       "topicId": "res.positionality-writing",
-      "summary": "Positionality writing draws on work on writer identity and self-mention. Ivani\u010d (1998) distinguishes the autobiographical self, the discoursal self and the self as author, which helps writers separate useful reflexivity from personal narrative, and Tang and John (1999) and Hyland (2002) describe the roles authors take through first-person reference. Creswell and Creswell (2018) present reflexivity as a component of qualitative research reporting. Teach positionality statements as analytic, study-specific and linked to methodological decisions.",
+      "summary": "Positionality writing draws on work on writer identity and self-mention. Ivanič (1998) distinguishes the autobiographical self, the discoursal self and the self as author, which helps writers separate useful reflexivity from personal narrative, and Tang and John (1999) and Hyland (2002) describe the roles authors take through first-person reference. Creswell and Creswell (2018) present reflexivity as a component of qualitative research reporting. Teach positionality statements as analytic, study-specific and linked to methodological decisions.",
       "activities": [
         {
           "title": "From identity list to analytic statement",
@@ -6025,7 +6023,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "My report lists everything I did this year \u2014 courses, conferences, reading \u2014 so the panel can see I have worked hard.",
+          "pattern": "My report lists everything I did this year — courses, conferences, reading — so the panel can see I have worked hard.",
           "kind": "conceptual",
           "revealedBy": "Activity-log reports with little about questions, design or findings and no argument that the project is on track.",
           "response": "Show that panels judge the coherence and feasibility of the project, not effort. Ask the learner to open each section with a claim about the project and to use activities only as evidence; training records usually belong in a separate form or appendix.",
@@ -6174,7 +6172,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Study A found\u2026; Study B found\u2026; Study C found\u2026, followed by a one-line conclusion.",
+          "pattern": "Study A found…; Study B found…; Study C found…, followed by a one-line conclusion.",
           "kind": "developmental",
           "revealedBy": "Results organised study by study, with appraisal reported separately and not used in the synthesis.",
           "response": "Use a findings-by-study matrix to plan claims across studies, and require each synthesis paragraph to say how strong the evidence behind its claim is.",
@@ -6243,7 +6241,7 @@
           "pattern": "Do you agree that the new library services are useful and easy to access?",
           "kind": "developmental",
           "revealedBy": "Items that ask two things at once, presuppose an answer or invite agreement.",
-          "response": "Teach the checks one at a time and have learners mark each item against them. Do not ban agree\u2013disagree formats; teach when they suit the construct and how to balance them.",
+          "response": "Teach the checks one at a time and have learners mark each item against them. Do not ban agree–disagree formats; teach when they suit the construct and how to balance them.",
           "reteachPrerequisiteId": null
         },
         {

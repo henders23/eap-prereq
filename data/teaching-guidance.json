@@ -903,7 +903,7 @@
     },
     {
       "topicId": "voc.inferring-from-context",
-      "summary": "Nassaji found that the ESL learners' lexical inferences in his study were often unsuccessful and that success was associated with the quality of strategy use — especially evaluating and verifying hypotheses — and with drawing on appropriate knowledge sources, rather than with the sheer frequency of strategy use. Coverage research (Hu and Nation) implies that inferencing works best when unknown words are sparse. Teach a short explicit procedure (look for clues, hypothesise, check) and practise with texts at suitable coverage.",
+      "summary": "Nassaji found that the ESL learners' lexical inferences in his study were often unsuccessful and that success was associated with the quality of strategy use — especially evaluating and verifying hypotheses — and with drawing on appropriate knowledge sources, rather than with the sheer frequency of strategy use. Coverage research (Hu and Nation) suggests that inferencing is more reliable when unknown words are sparse. Teach a short explicit procedure (look for clues, hypothesise, check) and practise with texts at suitable coverage.",
       "activities": [
         {
           "title": "Clue types",
@@ -2987,7 +2987,7 @@
         "partialResponse": "Finds the main verb but truncates the subject at the first noun, or paraphrases correctly while marking a relative-clause verb as the main verb.",
         "gapResponse": "Labels words only by word class, chooses the first verb in the sentence as the main verb, or cannot state what the sentence claims."
       },
-      "contextNotes": "At foundation level, clause analysis is taught explicitly with textbook sentences and linked to sentence boundaries and agreement. On pre-sessional courses it works best embedded in reading of set texts and editing of drafts rather than as a stand-alone grammar unit. In undergraduate in-sessional provision it is revisited briefly as a tool for parsing disciplinary reading and diagnosing fragments.",
+      "contextNotes": "At foundation level, clause analysis is taught explicitly with textbook sentences and linked to sentence boundaries and agreement. On pre-sessional courses it is usually better embedded in reading of set texts and editing of drafts rather than as a stand-alone grammar unit. In undergraduate in-sessional provision it is revisited briefly as a tool for parsing disciplinary reading and diagnosing fragments.",
       "citations": [
         "grabe2009",
         "norrisortega2000",
@@ -27067,9 +27067,7 @@
         "apa2020",
         "creswell2018"
       ],
-      "reviewNotes": [
-        "braunclarke2019 is a proposed reference (see proposedReferences), added in response to R6-23; if it is not accepted, remove the sentence on reflexive thematic analysis and the third difficulty's citation."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "res.quantitative-reporting",
@@ -38345,7 +38343,7 @@
     },
     {
       "topicId": "dss.psychology-research-report",
-      "summary": "The psychology report is a closely conventionalised genre: the APA Publication Manual (American Psychological Association, 2020) specifies its structure, statistical reporting and bias-free language, and departments usually add their own guide. Beyond format, the genre carries the discipline’s view of evidence: hypotheses are derived from theory, results are reported so that effect sizes and uncertainty are visible, and conclusions are calibrated to the data. Cumming (2014) argues for estimation with effect sizes and confidence intervals, and the ASA statement on p-values (Wasserstein & Lazar, 2016) sets out common misinterpretations of significance testing; markers increasingly expect students to interpret results in these terms. Teaching works best with departmental exemplars and the module’s own statistics output.",
+      "summary": "The psychology report is a closely conventionalised genre: the APA Publication Manual (American Psychological Association, 2020) specifies its structure, statistical reporting and bias-free language, and departments usually add their own guide. Beyond format, the genre carries the discipline’s view of evidence: hypotheses are derived from theory, results are reported so that effect sizes and uncertainty are visible, and conclusions are calibrated to the data. Cumming (2014) argues for estimation with effect sizes and confidence intervals, and the ASA statement on p-values (Wasserstein & Lazar, 2016) sets out common misinterpretations of significance testing; markers increasingly expect students to interpret results in these terms. Teaching is likely to be most useful when it draws on departmental exemplars and the module’s own statistics output.",
       "activities": [
         {
           "title": "From output to sentence",

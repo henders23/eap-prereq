@@ -7,7 +7,7 @@ prerequisite graph, mapped to international frameworks, given
 research-informed teaching guidance, and grounded in a verified academic
 bibliography.
 
-> **Version:** `v1` · **Topics:** 569 · **Prerequisite edges:** 1,473 (520 hard) · **Strands:** 16 · **Domains:** 51 · **References:** 480 (478 web-verified)
+> **Version:** `v1` · **Topics:** 569 · **Prerequisite edges:** 1,473 (519 hard) · **Strands:** 16 · **Domains:** 51 · **References:** 480 (478 web-verified)
 
 It covers:
 
@@ -30,7 +30,7 @@ primary education. See [PROVENANCE.md](PROVENANCE.md).
 | | |
 |---|---|
 | **569 topics** | Each topic is one teachable, assessable element of academic English competence: a concept, procedure, linguistic resource, genre, strategy or sociopragmatic practice. Each has a description, 3–6 observable mastery statements, a diagnostic assessment prompt, a CEFR range with a core band, a role at each stage, discipline and audience facets, citations and framework links. |
-| **1,473 prerequisite edges** | An acyclic graph in which *topic depends on prerequisite*. 520 edges are `hard` (cannot be learned without) and 953 are `soft` (usually taught first, or helps). Every edge carries a one-line reason. |
+| **1,473 prerequisite edges** | An acyclic graph in which *topic depends on prerequisite*. 519 edges are `hard` (cannot be learned without) and 954 are `soft` (usually taught first, or helps). Every edge carries a one-line reason. |
 | **569 teaching-guidance records** | One for every topic: a research-informed approach, 1–3 activities with learner actions and rationale, common difficulties with how they show and what to do (including difficulties caused by institutions rather than learners), a diagnostic with strong, partial and gap responses, and notes on how emphasis changes by stage. |
 | **480 references** | A closed bibliography: every citation resolves to it. 478 entries were checked by web search against publisher, repository or library records, and each carries its verification status. |
 | **Framework alignment** | 1,000+ links to CEFR Companion Volume scales, IELTS Academic criteria, the ACRL Framework for Information Literacy and the Vitae Researcher Development Framework. Codes and titles only. |

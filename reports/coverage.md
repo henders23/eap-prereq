@@ -10,7 +10,7 @@ Generated from `data/` (taxonomy v1, release 2026-10-27). Regenerate with `node 
 | Domains | 51 |
 | Topics | 569 |
 | Prerequisite edges | 1473 |
-| …of which hard | 520 |
+| …of which hard | 519 |
 | …of which cross-strand | 745 |
 | Teaching-guidance records | 569 |
 | References in bibliography | 480 |
@@ -150,31 +150,31 @@ PageRank over hard prerequisite edges: foundational topics that much of the taxo
 
 | Topic | Strand | Centrality | Topics depending on it (hard) |
 |---|---|---:|---:|
-| Clause elements and sentence analysis (`grm.clause-elements`) | Academic Language | 1.000 | 76 |
-| Simple, compound and complex sentences (`sen.sentence-types`) | Academic Language | 0.818 | 57 |
-| What counts as an academic argument (`arg.argument-concept`) | Argument & Critical Thinking | 0.603 | 47 |
+| Clause elements and sentence analysis (`grm.clause-elements`) | Academic Language | 1.000 | 75 |
+| Simple, compound and complex sentences (`sen.sentence-types`) | Academic Language | 0.817 | 56 |
+| What counts as an academic argument (`arg.argument-concept`) | Argument & Critical Thinking | 0.600 | 46 |
 | Subordination and adverbial clauses (`grm.subordination`) | Academic Language | 0.433 | 24 |
-| High-frequency vocabulary base (`voc.high-frequency-base`) | Academic Language | 0.412 | 23 |
+| High-frequency vocabulary base (`voc.high-frequency-base`) | Academic Language | 0.413 | 23 |
 | Description, analysis and evaluation (`crt.description-analysis-evaluation`) | Argument & Critical Thinking | 0.349 | 19 |
 | Analysing and answering assignment and exam tasks (`wpr.task-analysis`) | Academic Writing | 0.347 | 18 |
 | How scholarly knowledge is produced (`inf.scholarly-communication`) | Sources & Academic Integrity | 0.333 | 15 |
-| Assignment command words (`voc.command-words`) | Academic Language | 0.330 | 19 |
-| Identifying main ideas and supporting detail (`rds.main-ideas`) | Academic Reading | 0.321 | 17 |
-| Identifying arguments in texts (`rdc.argument-identification`) | Academic Reading | 0.316 | 28 |
+| Assignment command words (`voc.command-words`) | Academic Language | 0.331 | 19 |
+| Identifying main ideas and supporting detail (`rds.main-ideas`) | Academic Reading | 0.322 | 17 |
 | Focusing a topic for searching (`inf.research-question`) | Sources & Academic Integrity | 0.316 | 14 |
+| Identifying arguments in texts (`rdc.argument-identification`) | Academic Reading | 0.311 | 27 |
 | Using paragraph structure when reading (`rds.paragraph-structure-reading`) | Academic Reading | 0.309 | 18 |
-| The academic paragraph (`par.paragraph-unit`) | Academic Writing | 0.305 | 20 |
-| That-clauses and wh-clauses (`grm.complement-clauses`) | Academic Language | 0.301 | 25 |
+| The academic paragraph (`par.paragraph-unit`) | Academic Writing | 0.302 | 19 |
+| That-clauses and wh-clauses (`grm.complement-clauses`) | Academic Language | 0.299 | 24 |
 | Core academic vocabulary (`voc.core-academic-vocabulary`) | Academic Language | 0.287 | 17 |
-| Writing topic sentences (`par.topic-sentences`) | Academic Writing | 0.282 | 18 |
 | Referencing systems and style guides (`cit.referencing-systems`) | Sources & Academic Integrity | 0.280 | 12 |
-| Reporting verbs and signal phrases (`src.reporting-verbs`) | Sources & Academic Integrity | 0.266 | 21 |
-| Reporting structures (`grm.reporting-structures`) | Academic Language | 0.262 | 22 |
+| Writing topic sentences (`par.topic-sentences`) | Academic Writing | 0.279 | 17 |
+| Reporting verbs and signal phrases (`src.reporting-verbs`) | Sources & Academic Integrity | 0.264 | 20 |
 | Expressing and presenting quantities accurately (`num.number-expressions`) | Data, Numeracy & Multimodality | 0.262 | 16 |
+| Reporting structures (`grm.reporting-structures`) | Academic Language | 0.260 | 21 |
 | Passive voice and agency (`grm.passive-voice`) | Academic Language | 0.249 | 13 |
 | Why academics cite (`cit.why-cite`) | Sources & Academic Integrity | 0.236 | 8 |
-| Collocation awareness (`phr.collocation-awareness`) | Academic Language | 0.229 | 8 |
-| Distinguishing claims, evidence and their status (`rds.fact-opinion-claim`) | Academic Reading | 0.228 | 25 |
+| Collocation awareness (`phr.collocation-awareness`) | Academic Language | 0.230 | 8 |
+| Distinguishing claims, evidence and their status (`rds.fact-opinion-claim`) | Academic Reading | 0.229 | 25 |
 
 ### Deepest topics
 
@@ -182,7 +182,6 @@ Topics at the end of the longest hard-prerequisite chains, typically integrated 
 
 | Topic | Depth |
 |---|---:|
-| Undergraduate and master's dissertation (`grp.dissertation-overview`) | 8 |
 | Legal research and dissertation writing (`dlw.legal-research-writing`) | 8 |
 | Book review (`ges.book-review`) | 7 |
 | Literature review assignment (`ges.literature-review-assignment`) | 7 |
@@ -197,6 +196,7 @@ Topics at the end of the longest hard-prerequisite chains, typically integrated 
 | Critical review of an article (`ges.critique`) | 6 |
 | Summary–response paper (`ges.summary-response`) | 6 |
 | Extended source-based project (`ges.extended-source-based-project`) | 6 |
+| Research article introductions (`res.introductions-cars`) | 6 |
 
 ### Entry points
 

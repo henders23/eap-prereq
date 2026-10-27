@@ -1,0 +1,1191 @@
+{
+  "taskAnchors": [
+    {
+      "id": "extended-source-based-project",
+      "name": "Extended source-based project",
+      "description": "Learners research and write a 2,000–4,000-word essay or report on a focused question in or near their field, using sources they have found and evaluated themselves. It is developed through staged submissions (topic plan, annotated sources, drafts discussed in tutorials) and is usually marked as the main progression evidence against criteria for task fulfilment, use of sources, organisation and language, often with a short reflective commentary on the process.",
+      "stages": [
+        "foundation",
+        "pre-sessional-ug",
+        "pre-sessional-pg"
+      ],
+      "topicIds": [
+        "ges.extended-source-based-project",
+        "inf.research-question",
+        "inf.search-strategies",
+        "inf.source-evaluation",
+        "ntk.notes-from-reading",
+        "src.paraphrasing",
+        "src.voice-boundaries",
+        "syn.synthesis-concept",
+        "par.integrating-evidence",
+        "arg.position",
+        "ess.body-organisation",
+        "cit.accuracy-consistency",
+        "edt.global-revision",
+        "fbk.acting-on-feedback"
+      ]
+    },
+    {
+      "id": "integrated-reading-into-writing-exam",
+      "name": "Integrated reading-into-writing exam",
+      "description": "Under timed conditions, learners read two or three short academic texts on a common issue and write a summary, a summary–response or a short source-based essay that answers a set question. Scripts are marked on task response, accurate and transformed use of the sources, organisation and language control, and the task is often a mid-course or end-of-course progression component.",
+      "stages": [
+        "foundation",
+        "pre-sessional-ug",
+        "pre-sessional-pg"
+      ],
+      "topicIds": [
+        "syn.integrated-tasks",
+        "wpr.task-analysis",
+        "wpr.reading-to-write",
+        "rdp.parsing-complex-sentences",
+        "rdc.argument-identification",
+        "ntk.notes-from-reading",
+        "src.summarising-passage",
+        "src.paraphrasing",
+        "src.reporting-verbs",
+        "ess.thesis-statement",
+        "ges.argumentative-essay",
+        "exm.timed-writing",
+        "grm.error-monitoring"
+      ]
+    },
+    {
+      "id": "seminar-discussion-assessment",
+      "name": "Seminar discussion assessment",
+      "description": "In small groups, learners discuss a question based on assigned readings that they have prepared in advance. They are assessed individually on how well they contribute ideas supported by the readings, build on and challenge others, manage turns and keep the discussion intelligible, usually against a seminar rubric with tutor and sometimes peer ratings.",
+      "stages": [
+        "foundation",
+        "pre-sessional-ug",
+        "pre-sessional-pg",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "topicIds": [
+        "sem.preparation",
+        "sem.turn-taking",
+        "sem.opinions",
+        "sem.agreeing-disagreeing",
+        "sem.building-on-others",
+        "sem.citing-in-speech",
+        "sem.questions-clarification",
+        "sem.summarising-discussion",
+        "sta.spoken-stance",
+        "rdc.critical-response",
+        "arg.oral-argument"
+      ]
+    },
+    {
+      "id": "academic-presentation",
+      "name": "Academic presentation",
+      "description": "Learners give a 10–15-minute individual or group presentation, often reporting their project or explaining data to a mixed academic audience, followed by questions. It is assessed on structure and signposting, use of visuals and evidence, delivery and intelligibility, and the handling of questions.",
+      "stages": [
+        "foundation",
+        "pre-sessional-ug",
+        "pre-sessional-pg",
+        "in-sessional-ug",
+        "in-sessional-pgt"
+      ],
+      "topicIds": [
+        "prs.purpose-audience",
+        "prs.structure",
+        "prs.openings",
+        "prs.signposting",
+        "prs.slide-design",
+        "prs.explaining-visuals",
+        "dat.describing-trends",
+        "prs.speaking-from-notes",
+        "prs.delivery-voice",
+        "prn.thought-groups",
+        "prn.prominence",
+        "prs.rehearsal-timing",
+        "prs.handling-questions"
+      ]
+    },
+    {
+      "id": "listening-into-note-making",
+      "name": "Listening-into-note-making task",
+      "description": "Learners watch a recorded or live lecture of 15–25 minutes, make notes in a format of their choice, and then use the notes to answer comprehension questions or write a short summary or response. The task is marked on the accuracy and selectivity of the information retrieved and on how well the notes capture the lecture's main points, organisation and the lecturer's stance.",
+      "stages": [
+        "foundation",
+        "pre-sessional-ug",
+        "pre-sessional-pg"
+      ],
+      "topicIds": [
+        "lis.pre-listening-preparation",
+        "lis.lecture-structure",
+        "lis.lecture-discourse-markers",
+        "lis.relevance-markers",
+        "lis.main-points",
+        "lis.speaker-stance",
+        "lis.connected-speech",
+        "ntk.selecting-content",
+        "ntk.note-formats",
+        "ntk.abbreviations-symbols",
+        "ntk.lecture-notes",
+        "ntk.reviewing-notes"
+      ]
+    },
+    {
+      "id": "reflective-learning-portfolio",
+      "name": "Reflective learning portfolio",
+      "description": "Learners compile a portfolio of learning logs, goal-setting records, annotated drafts and feedback responses across the course, ending with a reflective commentary on how their academic language and practices have developed. It is assessed on the quality of evidence and of reflection: specific goals, honest self-evaluation against criteria and concrete action taken on feedback, rather than on language accuracy alone.",
+      "stages": [
+        "foundation",
+        "pre-sessional-ug",
+        "pre-sessional-pg",
+        "in-sessional-ug"
+      ],
+      "topicIds": [
+        "lrn.self-regulation",
+        "lrn.goal-setting",
+        "lrn.reflective-logs",
+        "lrn.language-learning-strategies",
+        "voc.deliberate-learning-systems",
+        "ges.reflective-writing",
+        "fbk.feedback-literacy",
+        "fbk.marking-criteria",
+        "fbk.self-peer-assessment",
+        "fbk.acting-on-feedback",
+        "grm.error-monitoring"
+      ]
+    },
+    {
+      "id": "research-proposal",
+      "name": "Research or dissertation proposal",
+      "description": "Learners write a proposal (1,500–3,000 words at taught postgraduate level, longer for doctoral admission or first-year plans) that defines a problem and gap, states aims and questions, justifies an approach and sets out ethics, feasibility and a timeline. It is judged by a supervisor, module team or panel on whether the project is worthwhile, answerable and achievable, and on how well the literature is used to justify it.",
+      "stages": [
+        "pre-sessional-pg",
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "topicIds": [
+        "grp.project-proposal",
+        "res.research-proposal",
+        "inf.research-question",
+        "res.research-questions",
+        "rds.research-article-navigation",
+        "syn.gaps-tensions",
+        "res.gap-niche",
+        "res.introductions-cars",
+        "res.methods",
+        "dss.methodology-justification",
+        "int.research-integrity",
+        "wpr.managing-long-projects"
+      ]
+    },
+    {
+      "id": "literature-review-chapter",
+      "name": "Literature review chapter",
+      "description": "Learners write the literature review of a master's dissertation or doctoral thesis: a thematically organised, evaluative synthesis of the field that builds towards the gap their own study addresses. It is assessed by supervisors and examiners on coverage and selection, critical evaluation, synthesis rather than summary, and how convincingly it justifies the study's questions and design.",
+      "stages": [
+        "in-sessional-pgt",
+        "pgr"
+      ],
+      "topicIds": [
+        "inf.citation-chaining",
+        "rdc.literature-mapping",
+        "syn.synthesis-matrix",
+        "syn.thematic-grouping",
+        "syn.relating-sources",
+        "syn.gaps-tensions",
+        "syn.synthesis-paragraphs",
+        "cit.citation-functions",
+        "sta.evaluating-others-language",
+        "sta.dialogic-positioning",
+        "res.gap-niche",
+        "res.literature-review",
+        "dig.reference-managers"
+      ]
+    },
+    {
+      "id": "confirmation-progression-review",
+      "name": "Confirmation or progression review",
+      "description": "Doctoral researchers submit a confirmation, upgrade or annual progression report, typically with a revised proposal, a literature review or sample chapter, a thesis plan and a timeline, and then discuss it with a review panel. The panel judges the coherence, feasibility and likely contribution of the project and the candidate's ability to explain and defend their choices orally.",
+      "stages": [
+        "pgr"
+      ],
+      "topicIds": [
+        "res.progression-review",
+        "res.research-proposal",
+        "res.thesis-macrostructure",
+        "res.theoretical-framework",
+        "dss.methodology-justification",
+        "res.contribution",
+        "res.writing-productivity",
+        "res.supervision",
+        "prs.research-presentations",
+        "arg.oral-argument",
+        "sta.authorial-voice"
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "pre-sessional-6wk-b2plus-pg",
+      "name": "6-week pre-sessional for taught master's entry (B2+)",
+      "stage": "pre-sessional-pg",
+      "entryBand": "B2+",
+      "destination": "Taught master's programmes (MSc/MA) across disciplines at a UK university, for students who are within about half an IELTS band of their offer (typically entering at 6.0–6.5 for a 6.5–7.0 requirement).",
+      "duration": "6 weeks, ~20 contact hours/week plus ~15 hours of guided independent study",
+      "rationale": "Assumes learners at B2+ whose general proficiency is close to the threshold but who have not yet written from self-selected scholarly sources, met UK integrity and AI rules or argued in seminars. Six weeks leave no room for remedial language work, so the course concentrates on transferring existing proficiency to postgraduate source use, critical reading, synthesis and argument, and teaches language only where the tasks expose it (reporting tenses, hedging and boosting, nominalisation, concision). Topics whose core band lies below B2+ (paragraph support, thesis statements, reporting structures, basic note-making and critical questioning) are assumed and checked through the first diagnostic writing task rather than taught. Orientation, academic correspondence, data description and pronunciation beyond prominence are left to induction, self-access and feedback, and dissertation and research-proposal genres to in-sessional provision. The project is shorter than on longer courses (about 2,000 words), and the integrated exam and seminar act as checkpoints that feed it.",
+      "assumed": [
+        "lis.main-points",
+        "wpr.task-analysis",
+        "crt.questioning",
+        "crt.evidence-types",
+        "crt.multiple-perspectives",
+        "arg.supporting-claims",
+        "ess.thesis-statement",
+        "par.support",
+        "grm.np-postmodification",
+        "grm.reporting-structures",
+        "grm.epistemic-modality",
+        "sta.concession-language",
+        "inf.scholarly-communication",
+        "fbk.feedback-literacy",
+        "sem.checking-understanding",
+        "prn.word-stress"
+      ],
+      "units": [
+        {
+          "title": "Postgraduate study, integrity and assessment",
+          "weeks": "1",
+          "anchor": "reflective-learning-portfolio",
+          "focus": "Learners interpret the progression criteria and integrity and AI rules of the course and their destination, and set goals for the portfolio.",
+          "topicIds": [
+            "acu.academic-expectations",
+            "fbk.marking-criteria",
+            "tst.presessional-progression",
+            "int.plagiarism",
+            "gai.policies",
+            "gai.acknowledging-use",
+            "lrn.reflective-logs",
+            "grm.error-monitoring"
+          ]
+        },
+        {
+          "title": "Lectures and research reading",
+          "weeks": "1–2",
+          "anchor": "listening-into-note-making",
+          "focus": "Learners make usable notes from discipline-related lectures and research articles, tracking emphasis, stance and the structure of research texts.",
+          "topicIds": [
+            "lis.relevance-markers",
+            "lis.speaker-stance",
+            "ntk.lecture-notes",
+            "rdc.critical-reading",
+            "rds.research-article-navigation",
+            "ntk.notes-from-reading"
+          ]
+        },
+        {
+          "title": "From critical reading to source-based writing",
+          "weeks": "2–3",
+          "anchor": "integrated-reading-into-writing-exam",
+          "focus": "Learners identify arguments, stance and evidence quality in short texts and integrate them accurately into a timed source-based response.",
+          "topicIds": [
+            "rdc.argument-identification",
+            "sta.averral-attribution",
+            "rds.writer-stance",
+            "rdc.evidence-evaluation",
+            "src.reporting-verbs",
+            "grm.tense-in-reporting",
+            "src.paraphrasing",
+            "src.voice-boundaries",
+            "wpr.reading-to-write",
+            "syn.integrated-tasks"
+          ]
+        },
+        {
+          "title": "Arguing from readings in seminars",
+          "weeks": "3–4",
+          "anchor": "seminar-discussion-assessment",
+          "focus": "Learners discuss a set of readings in assessed seminars, evaluating the sources and building on and challenging each other's positions.",
+          "topicIds": [
+            "rdc.multiple-texts",
+            "rdc.critical-response",
+            "sta.evaluating-others-language",
+            "sem.turn-taking",
+            "sta.spoken-stance",
+            "sem.agreeing-disagreeing",
+            "sem.citing-in-speech"
+          ]
+        },
+        {
+          "title": "The extended source-based project",
+          "weeks": "2–6",
+          "anchor": "extended-source-based-project",
+          "focus": "Learners research a focused question in their field, synthesise sources into a sustained, appropriately hedged argument and revise it through tutorial feedback.",
+          "topicIds": [
+            "inf.research-question",
+            "inf.search-strategies",
+            "inf.source-evaluation",
+            "syn.thematic-grouping",
+            "syn.relating-sources",
+            "par.integrating-evidence",
+            "syn.synthesis-paragraphs",
+            "cit.citation-functions",
+            "cit.accuracy-consistency",
+            "arg.position",
+            "arg.counterarguments",
+            "arg.rebuttal-concession",
+            "ess.body-organisation",
+            "ess.criticality",
+            "sta.hedging",
+            "sta.boosters",
+            "sta.claim-calibration",
+            "grm.nominalisation",
+            "sen.concision",
+            "fbk.acting-on-feedback",
+            "edt.global-revision",
+            "ges.extended-source-based-project"
+          ]
+        },
+        {
+          "title": "Presenting the project",
+          "weeks": "5–6",
+          "anchor": "academic-presentation",
+          "focus": "Learners present their project and its supporting data to a mixed academic audience and respond to questions.",
+          "topicIds": [
+            "prs.purpose-audience",
+            "prs.signposting",
+            "prs.explaining-visuals",
+            "prn.prominence",
+            "prs.handling-questions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pre-sessional-10wk-b2-pg",
+      "name": "10-week pre-sessional for taught master's entry (B2)",
+      "stage": "pre-sessional-pg",
+      "entryBand": "B2",
+      "destination": "Taught master's programmes (MSc/MA) in business and management, social sciences, education and applied sciences at a UK university; progression typically requires the equivalent of IELTS 6.5.",
+      "duration": "10 weeks, ~20 contact hours/week plus ~15 hours of guided independent study",
+      "rationale": "Assumes a mixed-discipline cohort at a secure B2 who can already write organised paragraphs and short essays but have little experience of reading research-based texts, writing from self-selected sources or speaking in seminars. The course is built backwards from five assessed tasks: a mid-course integrated reading-into-writing exam, a seminar, the extended source-based project, a presentation of it and a reflective portfolio that runs throughout. Paragraph scaffolds, basic sentence grammar and other topics whose core band lies below B2 are assumed and handled through feedback and self-access rather than taught. Some core pre-sessional-pg topics are deliberately dropped: articles and other recurrent errors are treated through individual error logs, university structures and emails to staff through induction, claim calibration through the in-sessional dissertation series, and data commentary and IMRaD conventions through an optional STEM strand. Research-proposal genres are not taught because the destination is a taught programme with in-sessional dissertation support.",
+      "assumed": [
+        "grm.tense-aspect",
+        "grm.relative-clauses",
+        "grm.complement-clauses",
+        "reg.register-awareness",
+        "par.topic-sentences",
+        "arg.argument-concept",
+        "rds.fact-opinion-claim",
+        "lrn.self-regulation",
+        "ntk.selecting-content",
+        "ntk.note-formats",
+        "par.support",
+        "sem.opinions",
+        "prn.thought-groups",
+        "dat.reading-graphs",
+        "voc.word-families-morphology",
+        "sem.questions-clarification",
+        "cit.reference-list",
+        "voc.command-words"
+      ],
+      "units": [
+        {
+          "title": "Joining a postgraduate learning community",
+          "weeks": "1–2",
+          "anchor": "reflective-learning-portfolio",
+          "focus": "Learners decode the expectations, integrity rules and assessment of UK master’s study, set goals for the course and start the reflective portfolio.",
+          "topicIds": [
+            "acu.teaching-formats",
+            "acu.academic-expectations",
+            "fbk.assessment-literacy",
+            "fbk.marking-criteria",
+            "tst.presessional-progression",
+            "int.plagiarism",
+            "gai.policies",
+            "lrn.goal-setting",
+            "lrn.reflective-logs"
+          ]
+        },
+        {
+          "title": "Learning from lectures",
+          "weeks": "1–3",
+          "anchor": "listening-into-note-making",
+          "focus": "Learners follow authentic postgraduate lectures in their broad field, identifying main points, emphasis and the lecturer’s stance, and make notes they can use for writing.",
+          "topicIds": [
+            "lis.main-points",
+            "lis.relevance-markers",
+            "lis.speaker-stance",
+            "ntk.lecture-notes"
+          ]
+        },
+        {
+          "title": "Reading critically and writing from sources",
+          "weeks": "2–4",
+          "anchor": "integrated-reading-into-writing-exam",
+          "focus": "Learners read short academic texts on a shared issue for argument, stance and evidence, and turn their notes into accurate summaries and paraphrases under timed conditions.",
+          "topicIds": [
+            "rdc.critical-reading",
+            "crt.description-analysis-evaluation",
+            "crt.questioning",
+            "grm.np-premodification",
+            "grm.np-postmodification",
+            "rdp.parsing-complex-sentences",
+            "voc.core-academic-vocabulary",
+            "phr.academic-collocations",
+            "rdc.argument-identification",
+            "sta.averral-attribution",
+            "rds.writer-stance",
+            "crt.evidence-types",
+            "rdc.evidence-evaluation",
+            "ntk.notes-from-reading",
+            "grm.reporting-structures",
+            "src.reporting-verbs",
+            "grm.tense-in-reporting",
+            "src.paraphrase-techniques",
+            "src.paraphrasing",
+            "coh.cohesion-vs-coherence",
+            "coh.linking-adverbials",
+            "src.voice-boundaries",
+            "wpr.task-analysis",
+            "wpr.reading-to-write",
+            "syn.integrated-tasks",
+            "grm.error-monitoring"
+          ]
+        },
+        {
+          "title": "Discussing readings in seminars",
+          "weeks": "4–5",
+          "anchor": "seminar-discussion-assessment",
+          "focus": "Learners prepare a set of readings on one issue and discuss them in assessed seminars, evaluating the sources and positioning their own view.",
+          "topicIds": [
+            "sem.turn-taking",
+            "sta.spoken-stance",
+            "sem.agreeing-disagreeing",
+            "rdc.multiple-texts",
+            "rdc.critical-response",
+            "sta.evaluating-others-language",
+            "sem.citing-in-speech"
+          ]
+        },
+        {
+          "title": "Finding, evaluating and synthesising sources for the project",
+          "weeks": "4–6",
+          "anchor": "extended-source-based-project",
+          "focus": "Learners focus a question in their field, search for and evaluate scholarly sources, and build an annotated bibliography and synthesis plan for the project.",
+          "topicIds": [
+            "inf.research-question",
+            "inf.search-strategies",
+            "inf.scholarly-communication",
+            "inf.source-evaluation",
+            "rds.research-article-navigation",
+            "syn.synthesis-concept",
+            "syn.thematic-grouping",
+            "syn.relating-sources",
+            "par.integrating-evidence",
+            "syn.synthesis-paragraphs",
+            "cit.citation-functions"
+          ]
+        },
+        {
+          "title": "Building and drafting the project argument",
+          "weeks": "6–9",
+          "anchor": "extended-source-based-project",
+          "focus": "Learners develop a sustained, appropriately hedged argument across drafts, using tutorial and peer feedback to revise structure, criticality and style.",
+          "topicIds": [
+            "ess.thesis-statement",
+            "arg.supporting-claims",
+            "arg.position",
+            "crt.multiple-perspectives",
+            "arg.counterarguments",
+            "sta.concession-language",
+            "arg.rebuttal-concession",
+            "ess.body-organisation",
+            "ess.criticality",
+            "ges.argumentative-essay",
+            "grm.epistemic-modality",
+            "sta.hedging",
+            "reg.formality-features",
+            "grm.nominalisation",
+            "cit.accuracy-consistency",
+            "gai.acknowledging-use",
+            "fbk.feedback-literacy",
+            "fbk.acting-on-feedback",
+            "fbk.self-peer-assessment",
+            "edt.global-revision",
+            "ges.extended-source-based-project"
+          ]
+        },
+        {
+          "title": "Presenting the project and its evidence",
+          "weeks": "8–10",
+          "anchor": "academic-presentation",
+          "focus": "Learners present their project to a mixed audience, explaining data and visuals clearly and responding to questions.",
+          "topicIds": [
+            "prs.purpose-audience",
+            "prs.structure",
+            "prs.signposting",
+            "dat.describing-trends",
+            "dat.referring-to-visuals",
+            "prs.explaining-visuals",
+            "prn.word-stress",
+            "prn.prominence",
+            "sem.checking-understanding",
+            "prs.handling-questions"
+          ]
+        },
+        {
+          "title": "Reflecting on progress and looking ahead to the degree",
+          "weeks": "9–10",
+          "anchor": "reflective-learning-portfolio",
+          "focus": "Learners complete the reflective portfolio and analyse exemplars of the genres they will write on their master’s programme, so that they can keep developing once the degree begins.",
+          "topicIds": [
+            "ges.genre-concept",
+            "ges.genre-analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pre-sessional-12wk-b1plus-ug",
+      "name": "12-week pre-sessional for undergraduate entry (B1+)",
+      "stage": "pre-sessional-ug",
+      "entryBand": "B1+",
+      "destination": "Year 1 of undergraduate degrees in business and management, engineering, computing and the social sciences at a UK university; progression typically requires the equivalent of IELTS 6.0.",
+      "duration": "12 weeks, ~21 contact hours/week plus ~12 hours of guided independent study",
+      "rationale": "Assumes school-leavers at B1+ who have studied English mainly for proficiency tests and have little experience of extended academic reading, writing from sources, lectures or seminars, so they need sentence and paragraph control as well as academic practices. The course builds from paragraph to essay to extended project, teaching grammar and vocabulary inside the units whose tasks need them rather than as a separate strand; basic clause grammar, tense and reading-purpose topics whose core band lies below B1+ are assumed and remediated through feedback. Research-writing genres (research proposals, literature reviews, IMRaD and research-article reading) are deliberately left out because the destination is first-year undergraduate study, as are discipline genres such as lab and business reports, which belong to in-sessional provision. To keep the course within about 100 topics, emails to staff and university structures are handled in induction, articles and collocations through error logs and self-access, and the annotated bibliography is an optional project stage rather than a taught genre.",
+      "assumed": [
+        "lrn.metacognitive-knowledge",
+        "lrn.self-regulation",
+        "lis.lecture-structure",
+        "grm.clause-elements",
+        "sen.sentence-types",
+        "grm.subordination",
+        "wpr.writing-process",
+        "wpr.generating-ideas",
+        "num.number-expressions",
+        "rdp.reading-purpose",
+        "rds.paragraph-structure-reading",
+        "grm.tense-aspect",
+        "reg.register-awareness",
+        "dat.visual-types",
+        "dat.reading-graphs"
+      ],
+      "units": [
+        {
+          "title": "Starting out as a university student",
+          "weeks": "1–2",
+          "anchor": "reflective-learning-portfolio",
+          "focus": "Learners find out how UK universities, teaching and assessment work, communicate appropriately with staff and begin a reflective learning portfolio.",
+          "topicIds": [
+            "acu.teaching-formats",
+            "acu.academic-expectations",
+            "fbk.assessment-literacy",
+            "fbk.marking-criteria",
+            "tst.presessional-progression",
+            "gai.policies",
+            "lrn.goal-setting",
+            "lrn.reflective-logs"
+          ]
+        },
+        {
+          "title": "Reading and listening for main ideas",
+          "weeks": "1–3",
+          "anchor": "listening-into-note-making",
+          "focus": "Learners read textbook-style texts and follow short lectures for their main ideas and organisation, and make selective notes from both.",
+          "topicIds": [
+            "rds.main-ideas",
+            "voc.word-families-morphology",
+            "voc.core-academic-vocabulary",
+            "coh.cohesion-vs-coherence",
+            "lis.lecture-discourse-markers",
+            "lis.main-points",
+            "ntk.selecting-content",
+            "ntk.note-formats",
+            "ntk.lecture-notes",
+            "ntk.notes-from-reading"
+          ]
+        },
+        {
+          "title": "From paragraph to essay",
+          "weeks": "3–5",
+          "focus": "Learners build well-supported academic paragraphs and organise them into short explanatory and comparative essays in a formal style.",
+          "topicIds": [
+            "sen.sentence-boundaries",
+            "par.paragraph-unit",
+            "par.topic-sentences",
+            "par.support",
+            "par.peel",
+            "par.concluding-sentences",
+            "coh.linking-adverbials",
+            "grm.comparison-structures",
+            "fun.comparing-contrasting",
+            "fun.cause-effect",
+            "ess.essay-structure",
+            "ess.thesis-statement",
+            "ess.body-organisation",
+            "reg.formality-features",
+            "grm.passive-voice",
+            "grm.error-monitoring"
+          ]
+        },
+        {
+          "title": "Using sources honestly and accurately",
+          "weeks": "4–7",
+          "anchor": "integrated-reading-into-writing-exam",
+          "focus": "Learners quote, paraphrase and summarise short sources with accurate citation and combine them in a timed reading-into-writing task.",
+          "topicIds": [
+            "cit.why-cite",
+            "int.plagiarism",
+            "cit.when-to-cite",
+            "grm.complement-clauses",
+            "grm.reporting-structures",
+            "src.reporting-verbs",
+            "src.paraphrase-techniques",
+            "src.paraphrasing",
+            "src.summarising-passage",
+            "src.voice-boundaries",
+            "cit.referencing-systems",
+            "cit.author-date-in-text",
+            "cit.reference-list",
+            "voc.command-words",
+            "wpr.task-analysis",
+            "wpr.reading-to-write",
+            "syn.integrated-tasks",
+            "wpr.planning-outlining",
+            "exm.timed-writing"
+          ]
+        },
+        {
+          "title": "Thinking critically and discussing ideas",
+          "weeks": "6–8",
+          "anchor": "seminar-discussion-assessment",
+          "focus": "Learners distinguish fact, opinion and claim in readings, question arguments and take part in assessed seminar discussions based on them.",
+          "topicIds": [
+            "rdc.critical-reading",
+            "rds.fact-opinion-claim",
+            "crt.description-analysis-evaluation",
+            "crt.questioning",
+            "crt.multiple-perspectives",
+            "arg.argument-concept",
+            "rdc.argument-identification",
+            "rdc.critical-response",
+            "sem.seminar-purposes",
+            "sem.preparation",
+            "sem.opinions",
+            "sem.turn-taking",
+            "sta.spoken-stance",
+            "sem.agreeing-disagreeing"
+          ]
+        },
+        {
+          "title": "The extended source-based project",
+          "weeks": "7–11",
+          "anchor": "extended-source-based-project",
+          "focus": "Learners research a focused question in or near their future field and develop it through annotated sources, drafts and tutorials into a 2,000–2,500-word argumentative essay or report.",
+          "topicIds": [
+            "inf.research-question",
+            "inf.search-strategies",
+            "inf.scholarly-communication",
+            "inf.source-evaluation",
+            "syn.synthesis-concept",
+            "crt.evidence-types",
+            "arg.supporting-claims",
+            "arg.position",
+            "arg.counterarguments",
+            "sta.concession-language",
+            "par.integrating-evidence",
+            "grm.epistemic-modality",
+            "sta.hedging",
+            "ges.argumentative-essay",
+            "cit.accuracy-consistency",
+            "gai.acknowledging-use",
+            "edt.revision-editing-proofreading",
+            "edt.global-revision",
+            "fbk.feedback-literacy",
+            "fbk.acting-on-feedback",
+            "ges.extended-source-based-project"
+          ]
+        },
+        {
+          "title": "Presenting information and data",
+          "weeks": "9–12",
+          "anchor": "academic-presentation",
+          "focus": "Learners describe graphs and trends accurately and give a structured, intelligible presentation of their project findings, answering questions from the audience.",
+          "topicIds": [
+            "dat.describing-trends",
+            "dat.describing-proportions",
+            "prs.purpose-audience",
+            "prs.structure",
+            "prs.signposting",
+            "prn.word-stress",
+            "prn.thought-groups",
+            "prn.prominence",
+            "prs.delivery-voice",
+            "sem.questions-clarification",
+            "sem.checking-understanding",
+            "prs.handling-questions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "foundation-eap-two-terms",
+      "name": "Foundation EAP module across two terms (A2+ entry)",
+      "stage": "foundation",
+      "entryBand": "A2+",
+      "destination": "Year 1 of undergraduate degrees via an international foundation year with business, science and engineering, or humanities and social science routes; progression typically requires the equivalent of IELTS 5.5–6.0 plus subject module passes.",
+      "duration": "Two 11-week terms, ~8 EAP contact hours/week alongside subject modules, plus ~6 hours of guided independent study",
+      "rationale": "Assumes 17–19-year-old learners at A2+ to low B1 who are new to studying through English, have limited reading fluency and vocabulary, and are taking subject modules in English at the same time. Term 1 builds reading and vocabulary, sentence and paragraph control, lecture listening and short presentations, using content from the subject modules; term 2 moves to essays, source use, seminars and an extended project. Argument is kept to claims, support and multiple perspectives: hedging, synthesis across sources, counter-argument and critical evaluation of research are deliberately left to pre-sessional and first-year provision. Time management, study techniques, university orientation and emails to staff are assumed to be covered by the foundation year’s separate study-skills module, and route-specific topics (scientific language and explanation, visual analysis, group presentations) can be added for science, art and design or business routes.",
+      "assumed": [],
+      "units": [
+        {
+          "title": "Becoming an independent learner in English",
+          "weeks": "1–3",
+          "anchor": "reflective-learning-portfolio",
+          "focus": "Learners find out how university study works, organise their independent study and begin a learning portfolio that tracks their goals and progress.",
+          "topicIds": [
+            "acu.teaching-formats",
+            "acu.academic-expectations",
+            "lrn.content-through-english",
+            "idn.plurilingual-repertoire",
+            "lrn.metacognitive-knowledge",
+            "lrn.self-regulation",
+            "lrn.goal-setting",
+            "lrn.reflective-logs",
+            "fbk.assessment-literacy"
+          ]
+        },
+        {
+          "title": "Reading textbooks and building vocabulary",
+          "weeks": "2–6",
+          "focus": "Learners read subject textbook chapters efficiently for main ideas and build a systematic academic vocabulary through extensive and intensive reading.",
+          "topicIds": [
+            "rdp.reading-purpose",
+            "rdp.extensive-reading",
+            "rds.previewing",
+            "rds.skimming",
+            "rds.paragraph-structure-reading",
+            "rds.main-ideas",
+            "rds.textbook-reading",
+            "voc.high-frequency-base",
+            "voc.word-families-morphology",
+            "voc.inferring-from-context",
+            "voc.core-academic-vocabulary"
+          ]
+        },
+        {
+          "title": "Building sentences and paragraphs",
+          "weeks": "3–8",
+          "focus": "Learners write accurate, well-punctuated sentences and organise them into clear academic paragraphs that define, classify and describe.",
+          "topicIds": [
+            "grm.clause-elements",
+            "sen.sentence-types",
+            "grm.subject-verb-agreement",
+            "grm.tense-aspect",
+            "sen.sentence-boundaries",
+            "sen.punctuation-mechanics",
+            "grm.subordination",
+            "grm.relative-clauses",
+            "coh.linking-adverbials",
+            "wpr.writing-process",
+            "voc.command-words",
+            "wpr.task-analysis",
+            "wpr.generating-ideas",
+            "wpr.planning-outlining",
+            "par.paragraph-unit",
+            "par.topic-sentences",
+            "par.support",
+            "par.peel",
+            "par.concluding-sentences",
+            "fun.defining",
+            "edt.revision-editing-proofreading"
+          ]
+        },
+        {
+          "title": "Listening to lectures and explaining processes",
+          "weeks": "6–11",
+          "anchor": "listening-into-note-making",
+          "focus": "Learners follow short subject lectures and make notes on them, then use the notes to describe and explain processes in speech and writing.",
+          "topicIds": [
+            "lis.connected-speech",
+            "lis.lecture-structure",
+            "lis.lecture-discourse-markers",
+            "lis.main-points",
+            "ntk.selecting-content",
+            "ntk.note-formats",
+            "ntk.lecture-notes",
+            "grm.passive-voice",
+            "fun.describing-process",
+            "fun.cause-effect"
+          ]
+        },
+        {
+          "title": "Presenting information and data",
+          "weeks": "8–11",
+          "anchor": "academic-presentation",
+          "focus": "Learners describe graphs and data accurately and give a short, clearly signposted presentation on a topic from their subject modules.",
+          "topicIds": [
+            "dat.visual-types",
+            "dat.reading-graphs",
+            "dat.describing-trends",
+            "num.number-expressions",
+            "grm.comparison-structures",
+            "prs.purpose-audience",
+            "prs.structure",
+            "prs.signposting",
+            "prn.word-stress",
+            "prn.thought-groups",
+            "prn.prominence",
+            "prs.delivery-voice"
+          ]
+        },
+        {
+          "title": "Writing essays: explaining, comparing and discussing",
+          "weeks": "12–15",
+          "focus": "Learners plan and write short expository and discussion essays in a formal style, supporting claims with evidence and considering more than one perspective.",
+          "topicIds": [
+            "reg.register-awareness",
+            "reg.formality-features",
+            "ess.essay-structure",
+            "ess.thesis-statement",
+            "fun.comparing-contrasting",
+            "crt.description-analysis-evaluation",
+            "fun.evaluating",
+            "rds.fact-opinion-claim",
+            "crt.evidence-types",
+            "arg.argument-concept",
+            "arg.supporting-claims",
+            "crt.multiple-perspectives",
+            "ges.discussion-essay"
+          ]
+        },
+        {
+          "title": "Using sources in writing",
+          "weeks": "13–17",
+          "anchor": "integrated-reading-into-writing-exam",
+          "focus": "Learners quote, paraphrase and summarise short sources with accurate in-text citation and use them in a timed reading-into-writing task.",
+          "topicIds": [
+            "int.integrity-values",
+            "cit.why-cite",
+            "int.plagiarism",
+            "gai.how-genai-works",
+            "gai.policies",
+            "src.quoting",
+            "grm.complement-clauses",
+            "grm.reporting-structures",
+            "src.reporting-verbs",
+            "src.paraphrase-techniques",
+            "src.paraphrasing",
+            "src.summarising-passage",
+            "cit.referencing-systems",
+            "cit.author-date-in-text",
+            "cit.reference-list",
+            "exm.timed-writing"
+          ]
+        },
+        {
+          "title": "Taking part in seminars",
+          "weeks": "15–18",
+          "anchor": "seminar-discussion-assessment",
+          "focus": "Learners prepare for and take part in short seminar discussions on subject readings, giving and supporting opinions and asking for clarification.",
+          "topicIds": [
+            "sem.seminar-purposes",
+            "sem.preparation",
+            "sem.opinions",
+            "sem.questions-clarification"
+          ]
+        },
+        {
+          "title": "The foundation project",
+          "weeks": "16–22",
+          "anchor": "extended-source-based-project",
+          "focus": "Learners research a focused question linked to their degree route and develop a 1,500–2,000-word source-based essay or report through drafts, tutorials and a reflective commentary.",
+          "topicIds": [
+            "inf.source-types",
+            "inf.research-question",
+            "inf.search-strategies",
+            "inf.scholarly-communication",
+            "inf.source-evaluation",
+            "grp.report-conventions",
+            "syn.synthesis-concept",
+            "par.integrating-evidence",
+            "src.voice-boundaries",
+            "cit.accuracy-consistency",
+            "edt.global-revision",
+            "fbk.feedback-literacy",
+            "fbk.acting-on-feedback",
+            "ges.extended-source-based-project"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-sessional-ug-embedded-writing",
+      "name": "Embedded in-sessional writing for second-year business students",
+      "stage": "in-sessional-ug",
+      "entryBand": "B2",
+      "destination": "Second-year undergraduates on a BSc Business Management module whose main coursework is a 2,500-word business case analysis report; the series is co-planned with the module leader and uses the module's own case, readings and marking criteria.",
+      "duration": "One 10-week term, a weekly 90-minute embedded workshop (~15 contact hours) plus two optional drop-in tutorials",
+      "rationale": "Assumes a mixed home and international cohort, most at B2 or above, who passed first-year essays but lose marks for description rather than analysis, weak use of frameworks and sources, and unsupported recommendations. Because the sessions sit inside a credit-bearing module, every topic is taught through the live assignment, the module’s case and its marking criteria rather than as generic EAP. Academic orientation, paragraph structure, reporting verbs, basic hedging and data description are assumed from first year and pre-sessional study and are revisited only through feedback and signposting to self-access. Seminars, group presentations and exam writing are left to the module’s own tutorials.",
+      "assumed": [
+        "acu.academic-expectations",
+        "voc.command-words",
+        "fbk.assessment-literacy",
+        "fbk.feedback-literacy",
+        "rdp.reading-purpose",
+        "crt.description-analysis-evaluation",
+        "crt.problem-solving",
+        "crt.evidence-types",
+        "rdc.argument-identification",
+        "src.reporting-verbs",
+        "par.topic-sentences",
+        "par.support",
+        "sta.hedging",
+        "dat.describing-trends",
+        "dat.describing-proportions",
+        "grm.passive-voice"
+      ],
+      "units": [
+        {
+          "title": "Decoding the case-analysis brief",
+          "weeks": "1–2",
+          "focus": "Learners unpack the assignment brief, marking criteria and the tacit expectations of business-school writing, using annotated exemplars from previous years.",
+          "topicIds": [
+            "acu.hidden-curriculum",
+            "wpr.task-analysis",
+            "fbk.marking-criteria"
+          ]
+        },
+        {
+          "title": "Reading for the case: frameworks and evidence",
+          "weeks": "3–4",
+          "focus": "Learners read module texts and the case efficiently, select and apply analytical frameworks and evaluate the evidence the case and the literature provide.",
+          "topicIds": [
+            "rdp.managing-reading-load",
+            "crt.applying-theory",
+            "dbe.critical-frameworks",
+            "grp.case-study",
+            "rdc.evidence-evaluation"
+          ]
+        },
+        {
+          "title": "From analysis to argued recommendations",
+          "weeks": "5–7",
+          "focus": "Learners combine frameworks, case data and sources into analytical paragraphs that move from diagnosis to justified options and recommendations.",
+          "topicIds": [
+            "rdc.multiple-texts",
+            "syn.thematic-grouping",
+            "syn.relating-sources",
+            "src.voice-boundaries",
+            "par.integrating-evidence",
+            "syn.synthesis-paragraphs",
+            "ess.criticality",
+            "sta.boosters",
+            "sta.claim-calibration",
+            "fun.recommending",
+            "dbe.business-case-analysis"
+          ]
+        },
+        {
+          "title": "Using data and visuals in the report",
+          "weeks": "8",
+          "focus": "Learners integrate tables and charts from the case into the report with commentary that interprets rather than repeats the figures.",
+          "topicIds": [
+            "dat.referring-to-visuals",
+            "dat.data-commentary"
+          ]
+        },
+        {
+          "title": "Revising the draft and acting on feedback",
+          "weeks": "9–10",
+          "focus": "Learners revise a full draft for flow, concision and an impersonal analytical style, and use tutor and peer feedback to set priorities for final editing.",
+          "topicIds": [
+            "coh.paragraph-transitions",
+            "reg.impersonality-presence",
+            "grm.error-monitoring",
+            "fbk.acting-on-feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-sessional-pgt-dissertation-series",
+      "name": "Taught master's dissertation writing series",
+      "stage": "in-sessional-pgt",
+      "entryBand": "B2+",
+      "destination": "Taught master's students in the social sciences, business and applied sciences writing a 10,000–15,000-word empirical or desk-based dissertation over terms 2 and 3.",
+      "duration": "Terms 2–3, ten fortnightly 2-hour workshops (~20 contact hours) plus two individual writing tutorials",
+      "rationale": "Assumes international and home master’s students at B2+ or above who have completed term-1 coursework, including a literature review assignment, but have not written a sustained research text and have limited supervision time. The series follows the dissertation timeline, from mapping the literature and agreeing the proposal to drafting and editing the chapters, and each workshop works on the participants’ own drafts. Source use, critical reading of research articles and basic hedging are not retaught; they are assumed from the pre-sessional and term-1 modules and addressed through feedback. Research methods, ethics and methodology justification are left to departmental training, and the series covers only how methods, results and limitations are written about.",
+      "assumed": [
+        "ges.literature-review-assignment",
+        "rds.research-article-navigation",
+        "rdc.multiple-texts",
+        "rdc.evidence-evaluation",
+        "syn.relating-sources",
+        "src.reporting-verbs",
+        "src.voice-boundaries",
+        "src.summarising-text",
+        "sta.averral-attribution",
+        "sta.hedging",
+        "sta.boosters",
+        "dat.referring-to-visuals",
+        "fbk.feedback-literacy"
+      ],
+      "units": [
+        {
+          "title": "The dissertation and its literature",
+          "weeks": "1–2",
+          "anchor": "literature-review-chapter",
+          "focus": "Learners compare dissertations from their programme, plan the macrostructure of their own and map the literature around a provisional topic.",
+          "topicIds": [
+            "grp.dissertation-overview",
+            "rdc.literature-mapping",
+            "syn.thematic-grouping",
+            "syn.gaps-tensions"
+          ]
+        },
+        {
+          "title": "Proposing the dissertation",
+          "weeks": "3–4",
+          "anchor": "research-proposal",
+          "focus": "Learners turn a gap in the literature into answerable research questions and a feasible proposal and timeline for their supervisor.",
+          "topicIds": [
+            "res.research-questions",
+            "res.gap-niche",
+            "wpr.managing-long-projects",
+            "grp.project-proposal"
+          ]
+        },
+        {
+          "title": "Writing the literature review chapter",
+          "weeks": "5–8",
+          "anchor": "literature-review-chapter",
+          "focus": "Learners draft a literature review that evaluates and synthesises sources by theme and builds towards the gap their own study addresses.",
+          "topicIds": [
+            "syn.synthesis-paragraphs",
+            "cit.citation-functions",
+            "sta.evaluating-others-language",
+            "sta.dialogic-positioning",
+            "res.literature-review"
+          ]
+        },
+        {
+          "title": "Writing methodology and results",
+          "weeks": "9–12",
+          "focus": "Learners describe and justify their design and report findings and data accurately and selectively.",
+          "topicIds": [
+            "res.imrad",
+            "res.methods",
+            "dat.data-commentary",
+            "res.results"
+          ]
+        },
+        {
+          "title": "Discussion, conclusions and abstract",
+          "weeks": "13–16",
+          "focus": "Learners interpret their findings against the literature, calibrate their claims, acknowledge limitations and summarise the study in an abstract.",
+          "topicIds": [
+            "sta.claim-calibration",
+            "res.discussion",
+            "rdc.methods-critique",
+            "res.limitations",
+            "res.conclusions-implications",
+            "res.abstracts"
+          ]
+        },
+        {
+          "title": "Revising and editing for submission",
+          "weeks": "17–20",
+          "focus": "Learners revise the complete draft for concision and coherence across chapters and act on supervisor feedback before submission.",
+          "topicIds": [
+            "sen.concision",
+            "fbk.acting-on-feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pgr-thesis-writing-programme",
+      "name": "Doctoral thesis writing programme",
+      "stage": "pgr",
+      "entryBand": "C1",
+      "destination": "First- and second-year doctoral researchers across faculties, many writing in English as an additional language, working towards confirmation or upgrade, thesis chapters and first publications.",
+      "duration": "Three terms, twelve 3-hour workshops (~36 contact hours) plus two writing retreats and optional one-to-one consultations",
+      "rationale": "Assumes researchers at C1 or above whose general academic literacy is secure but who are writing book-length, argument-led texts for the first time, often with supervisors who give feedback on content rather than on writing. The programme follows the doctoral milestones: positioning the work in the literature, the confirmation or upgrade review, drafting chapters with a sustained argument and voice, and moving from thesis to publication and the viva. Pre-sessional and taught-postgraduate content (source use, essay structure, basic hedging, generic critical reading) is not retaught, and methods writing, methodology justification and research integrity are left to departmental and researcher-development training. Teaching, funding applications, public engagement and post-viva corrections are offered as separate strands or one-to-one support.",
+      "assumed": [
+        "sta.hedging"
+      ],
+      "units": [
+        {
+          "title": "Writing as a doctoral researcher",
+          "weeks": "1–4",
+          "focus": "Researchers analyse the writing practices and genres of their field, set up sustainable writing routines and negotiate feedback with supervisors.",
+          "topicIds": [
+            "idn.academic-identity",
+            "ges.genre-analysis",
+            "res.writing-productivity",
+            "res.supervision"
+          ]
+        },
+        {
+          "title": "Positioning the research in the literature",
+          "weeks": "5–10",
+          "anchor": "literature-review-chapter",
+          "focus": "Researchers search and map their field systematically and write a literature review that argues for the niche their study occupies.",
+          "topicIds": [
+            "inf.problematic-publishing",
+            "rdc.literature-mapping",
+            "syn.gaps-tensions",
+            "res.gap-niche",
+            "sta.dialogic-positioning",
+            "res.literature-review",
+            "res.introductions-cars"
+          ]
+        },
+        {
+          "title": "Preparing for confirmation or upgrade",
+          "weeks": "11–16",
+          "anchor": "confirmation-progression-review",
+          "focus": "Researchers refine their proposal, theoretical framework and thesis plan into a progression report and defend it orally to a review panel.",
+          "topicIds": [
+            "res.research-proposal",
+            "res.theoretical-framework",
+            "res.thesis-macrostructure",
+            "res.progression-review",
+            "prs.research-presentations",
+            "arg.oral-argument"
+          ]
+        },
+        {
+          "title": "Sustaining argument and voice across chapters",
+          "weeks": "17–26",
+          "focus": "Researchers draft and revise chapters so that a single argument, a clear authorial voice and calibrated claims run through the whole thesis.",
+          "topicIds": [
+            "arg.extended-argument",
+            "sta.authorial-voice",
+            "sta.self-mention",
+            "sta.claim-calibration",
+            "coh.given-new",
+            "sen.clarity-end-weight",
+            "res.chapter-metatext",
+            "res.discussion",
+            "res.contribution",
+            "res.conclusions-implications",
+            "res.abstracts"
+          ]
+        },
+        {
+          "title": "From thesis to publication and the viva",
+          "weeks": "27–36",
+          "focus": "Researchers plan articles and conference abstracts from thesis work, choose journals and respond to reviewers, and prepare to explain and defend the thesis in the viva.",
+          "topicIds": [
+            "pub.publishing-process",
+            "int.recycling-own-work",
+            "pub.journal-selection",
+            "pub.thesis-to-article",
+            "pub.conference-abstracts",
+            "pub.responding-reviewers",
+            "pub.viva"
+          ]
+        }
+      ]
+    }
+  ]
+}

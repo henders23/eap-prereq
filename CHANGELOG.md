@@ -11,7 +11,7 @@ First release.
     in-sessional (undergraduate and taught postgraduate) and doctoral
     provision;
   - general (EGAP) and discipline-specific (ESAP) EAP.
-- 1,473 prerequisite edges: 520 hard and 953 soft. 745 of them cross
+- 1,473 prerequisite edges: 519 hard and 954 soft. 745 of them cross
   strands. The graph is acyclic.
 - A teaching-guidance record for every topic. Each has a research-informed
   summary, activities with rationales, common difficulties with diagnostic

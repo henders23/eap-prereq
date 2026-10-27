@@ -67,7 +67,7 @@ Verdicts in brief:
 | Measure | First build | After revision |
 |---|---:|---:|
 | Topics | 557 | 569 |
-| Prerequisite edges (hard) | 1,347 (522) | 1,473 (520) |
+| Prerequisite edges (hard) | 1,347 (522) | 1,473 (519) |
 | Topics tagged for undergraduate in-sessional | 524 (94%) | 59 core / 569 |
 | Downstream reach of `acu.university-structures` | 368 (all edges) | 0 (hard edges) |
 | Longest prerequisite chain | 20 (all edges) | 9 (hard edges) |

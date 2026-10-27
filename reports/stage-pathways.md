@@ -547,7 +547,7 @@ High-frequency vocabulary base (`voc.high-frequency-base`); Multi-word verbs and
 - **Examination essay** (`ges.exam-essay`, core band B2)
 - **Critical review of an article** (`ges.critique`, core band B2) — *assumed:* `sta.evaluating-others-language`
 - **Reflective writing** (`ges.reflective-writing`, core band B2)
-- **Undergraduate and master's dissertation** (`grp.dissertation-overview`, core band B2+) — *assumed:* `ges.literature-review-assignment`
+- **Undergraduate and master's dissertation** (`grp.dissertation-overview`, core band B2+)
 
 #### Data, Numeracy & Multimodality
 

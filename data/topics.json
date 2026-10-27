@@ -58,7 +58,7 @@
       "unlockCount": 6,
       "downstreamCount": 23,
       "depth": 0,
-      "centrality": 0.4125
+      "centrality": 0.4132
     },
     {
       "id": "voc.lexical-coverage",
@@ -184,7 +184,7 @@
       "unlockCount": 8,
       "downstreamCount": 15,
       "depth": 0,
-      "centrality": 0.206
+      "centrality": 0.2063
     },
     {
       "id": "voc.affixes-roots",
@@ -310,7 +310,7 @@
       "unlockCount": 7,
       "downstreamCount": 17,
       "depth": 1,
-      "centrality": 0.2868
+      "centrality": 0.2872
     },
     {
       "id": "voc.academic-verbs",
@@ -425,7 +425,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "voc.technical-terminology",
@@ -492,7 +492,7 @@
       "unlockCount": 12,
       "downstreamCount": 17,
       "depth": 0,
-      "centrality": 0.1972
+      "centrality": 0.1975
     },
     {
       "id": "voc.subtechnical-polysemy",
@@ -551,7 +551,7 @@
       "unlockCount": 5,
       "downstreamCount": 8,
       "depth": 2,
-      "centrality": 0.0856
+      "centrality": 0.0858
     },
     {
       "id": "voc.precision-near-synonyms",
@@ -614,7 +614,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 2,
-      "centrality": 0.0912
+      "centrality": 0.0914
     },
     {
       "id": "voc.evaluative-lexis",
@@ -668,7 +668,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "voc.multiword-verbs-register",
@@ -1023,7 +1023,7 @@
       "unlockCount": 7,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "voc.countability-academic-nouns",
@@ -1084,7 +1084,7 @@
       "unlockCount": 3,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0957
+      "centrality": 0.0959
     },
     {
       "id": "voc.spelling-conventions",
@@ -1203,7 +1203,7 @@
       "unlockCount": 6,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "voc.command-words",
@@ -1263,7 +1263,7 @@
       "unlockCount": 6,
       "downstreamCount": 19,
       "depth": 0,
-      "centrality": 0.3301
+      "centrality": 0.3306
     },
     {
       "id": "voc.abbreviations-latin",
@@ -1368,7 +1368,7 @@
       "unlockCount": 10,
       "downstreamCount": 8,
       "depth": 0,
-      "centrality": 0.2291
+      "centrality": 0.2295
     },
     {
       "id": "phr.academic-collocations",
@@ -1427,7 +1427,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "phr.verb-noun-collocation-accuracy",
@@ -1939,7 +1939,7 @@
       "unlockCount": 10,
       "downstreamCount": 11,
       "depth": 0,
-      "centrality": 0.1807
+      "centrality": 0.181
     },
     {
       "id": "reg.spoken-vs-written",
@@ -2002,7 +2002,7 @@
       "unlockCount": 8,
       "downstreamCount": 7,
       "depth": 1,
-      "centrality": 0.0751
+      "centrality": 0.0752
     },
     {
       "id": "reg.formality-features",
@@ -2060,7 +2060,7 @@
       "unlockCount": 8,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0957
+      "centrality": 0.0959
     },
     {
       "id": "reg.style-myths-variation",
@@ -2172,7 +2172,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "reg.information-density",
@@ -2244,7 +2244,7 @@
       "unlockCount": 1,
       "downstreamCount": 6,
       "depth": 2,
-      "centrality": 0.0932
+      "centrality": 0.0934
     },
     {
       "id": "reg.vague-overgeneralised",
@@ -2424,7 +2424,7 @@
       "unlockCount": 7,
       "downstreamCount": 5,
       "depth": 3,
-      "centrality": 0.1359
+      "centrality": 0.1362
     },
     {
       "id": "reg.disciplinary-style",
@@ -2549,7 +2549,7 @@
       ],
       "prerequisiteCount": 0,
       "unlockCount": 9,
-      "downstreamCount": 76,
+      "downstreamCount": 75,
       "depth": 0,
       "centrality": 1
     },
@@ -2672,7 +2672,7 @@
       "unlockCount": 4,
       "downstreamCount": 6,
       "depth": 0,
-      "centrality": 0.0949
+      "centrality": 0.095
     },
     {
       "id": "grm.np-postmodification",
@@ -2737,7 +2737,7 @@
       "unlockCount": 6,
       "downstreamCount": 11,
       "depth": 0,
-      "centrality": 0.0916
+      "centrality": 0.0917
     },
     {
       "id": "grm.nominalisation",
@@ -2802,7 +2802,7 @@
       "unlockCount": 7,
       "downstreamCount": 9,
       "depth": 1,
-      "centrality": 0.0966
+      "centrality": 0.0967
     },
     {
       "id": "grm.phrasal-complexity",
@@ -2859,7 +2859,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "grm.articles",
@@ -3043,7 +3043,7 @@
       "unlockCount": 8,
       "downstreamCount": 17,
       "depth": 0,
-      "centrality": 0.2143
+      "centrality": 0.2147
     },
     {
       "id": "grm.tense-in-reporting",
@@ -3172,7 +3172,7 @@
       "unlockCount": 8,
       "downstreamCount": 13,
       "depth": 1,
-      "centrality": 0.2489
+      "centrality": 0.2493
     },
     {
       "id": "grm.epistemic-modality",
@@ -3236,7 +3236,7 @@
       "unlockCount": 2,
       "downstreamCount": 6,
       "depth": 0,
-      "centrality": 0.0955
+      "centrality": 0.0956
     },
     {
       "id": "grm.conditionals",
@@ -3296,7 +3296,7 @@
       "unlockCount": 6,
       "downstreamCount": 4,
       "depth": 3,
-      "centrality": 0.1086
+      "centrality": 0.1087
     },
     {
       "id": "grm.relative-clauses",
@@ -3354,7 +3354,7 @@
       "unlockCount": 8,
       "downstreamCount": 6,
       "depth": 1,
-      "centrality": 0.1269
+      "centrality": 0.1271
     },
     {
       "id": "grm.non-finite-clauses",
@@ -3476,7 +3476,7 @@
       "unlockCount": 7,
       "downstreamCount": 24,
       "depth": 2,
-      "centrality": 0.4326
+      "centrality": 0.4333
     },
     {
       "id": "grm.coordination-parallelism",
@@ -3536,7 +3536,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "grm.complement-clauses",
@@ -3595,9 +3595,9 @@
       ],
       "prerequisiteCount": 2,
       "unlockCount": 4,
-      "downstreamCount": 25,
+      "downstreamCount": 24,
       "depth": 2,
-      "centrality": 0.3009
+      "centrality": 0.2991
     },
     {
       "id": "grm.anticipatory-it",
@@ -3662,7 +3662,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "grm.existential-there",
@@ -3780,7 +3780,7 @@
       "unlockCount": 4,
       "downstreamCount": 10,
       "depth": 0,
-      "centrality": 0.1154
+      "centrality": 0.1156
     },
     {
       "id": "grm.prepositions",
@@ -3844,7 +3844,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0741
+      "centrality": 0.0743
     },
     {
       "id": "grm.clefts-emphasis",
@@ -4092,9 +4092,9 @@
       ],
       "prerequisiteCount": 2,
       "unlockCount": 1,
-      "downstreamCount": 22,
+      "downstreamCount": 21,
       "depth": 3,
-      "centrality": 0.2617
+      "centrality": 0.2595
     },
     {
       "id": "grm.reference-pronouns",
@@ -4153,7 +4153,7 @@
       "unlockCount": 6,
       "downstreamCount": 3,
       "depth": 0,
-      "centrality": 0.1108
+      "centrality": 0.111
     },
     {
       "id": "grm.ellipsis-substitution",
@@ -4279,7 +4279,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0633
+      "centrality": 0.0634
     },
     {
       "id": "grm.spoken-grammar",
@@ -4537,9 +4537,9 @@
       ],
       "prerequisiteCount": 1,
       "unlockCount": 6,
-      "downstreamCount": 57,
+      "downstreamCount": 56,
       "depth": 1,
-      "centrality": 0.8178
+      "centrality": 0.8172
     },
     {
       "id": "sen.sentence-boundaries",
@@ -4605,7 +4605,7 @@
       "unlockCount": 3,
       "downstreamCount": 3,
       "depth": 2,
-      "centrality": 0.1214
+      "centrality": 0.1216
     },
     {
       "id": "sen.commas",
@@ -4665,7 +4665,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "sen.semicolons-colons",
@@ -5026,7 +5026,7 @@
       "unlockCount": 6,
       "downstreamCount": 5,
       "depth": 0,
-      "centrality": 0.1186
+      "centrality": 0.1187
     },
     {
       "id": "coh.cohesion-vs-coherence",
@@ -5085,7 +5085,7 @@
       "unlockCount": 4,
       "downstreamCount": 12,
       "depth": 0,
-      "centrality": 0.1936
+      "centrality": 0.1939
     },
     {
       "id": "coh.lexical-cohesion",
@@ -5144,7 +5144,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "coh.linking-adverbials",
@@ -5215,7 +5215,7 @@
       "unlockCount": 13,
       "downstreamCount": 5,
       "depth": 3,
-      "centrality": 0.1194
+      "centrality": 0.1196
     },
     {
       "id": "coh.given-new",
@@ -5278,7 +5278,7 @@
       "unlockCount": 7,
       "downstreamCount": 4,
       "depth": 0,
-      "centrality": 0.141
+      "centrality": 0.1412
     },
     {
       "id": "coh.thematic-progression",
@@ -5476,7 +5476,7 @@
       "unlockCount": 6,
       "downstreamCount": 10,
       "depth": 1,
-      "centrality": 0.1505
+      "centrality": 0.1508
     },
     {
       "id": "coh.frame-markers",
@@ -5547,7 +5547,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "coh.paragraph-transitions",
@@ -5880,7 +5880,7 @@
       "unlockCount": 10,
       "downstreamCount": 5,
       "depth": 1,
-      "centrality": 0.0706
+      "centrality": 0.0707
     },
     {
       "id": "sta.claim-calibration",
@@ -5941,7 +5941,7 @@
       "unlockCount": 11,
       "downstreamCount": 4,
       "depth": 2,
-      "centrality": 0.0827
+      "centrality": 0.0828
     },
     {
       "id": "sta.boosters",
@@ -6006,7 +6006,7 @@
       "unlockCount": 2,
       "downstreamCount": 5,
       "depth": 0,
-      "centrality": 0.0706
+      "centrality": 0.0707
     },
     {
       "id": "sta.attitude-markers",
@@ -6143,7 +6143,7 @@
       "unlockCount": 9,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "sta.engagement-markers",
@@ -6323,7 +6323,7 @@
       "unlockCount": 6,
       "downstreamCount": 6,
       "depth": 0,
-      "centrality": 0.188
+      "centrality": 0.1883
     },
     {
       "id": "sta.evaluating-others-language",
@@ -6384,7 +6384,7 @@
       "unlockCount": 4,
       "downstreamCount": 4,
       "depth": 5,
-      "centrality": 0.0798
+      "centrality": 0.0799
     },
     {
       "id": "sta.authorial-voice",
@@ -6451,7 +6451,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "sta.concession-language",
@@ -6517,7 +6517,7 @@
       "unlockCount": 5,
       "downstreamCount": 3,
       "depth": 4,
-      "centrality": 0.0633
+      "centrality": 0.0634
     },
     {
       "id": "sta.code-glosses",
@@ -6652,7 +6652,7 @@
       "unlockCount": 3,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0633
+      "centrality": 0.0634
     },
     {
       "id": "fun.defining",
@@ -6716,7 +6716,7 @@
       "unlockCount": 9,
       "downstreamCount": 2,
       "depth": 2,
-      "centrality": 0.0807
+      "centrality": 0.0808
     },
     {
       "id": "fun.classifying",
@@ -6846,7 +6846,7 @@
       "unlockCount": 7,
       "downstreamCount": 9,
       "depth": 2,
-      "centrality": 0.15
+      "centrality": 0.1502
     },
     {
       "id": "fun.describing-structure",
@@ -6912,7 +6912,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0455
+      "centrality": 0.0456
     },
     {
       "id": "fun.comparing-contrasting",
@@ -6981,7 +6981,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.043
+      "centrality": 0.0431
     },
     {
       "id": "fun.cause-effect",
@@ -7045,7 +7045,7 @@
       "unlockCount": 7,
       "downstreamCount": 10,
       "depth": 3,
-      "centrality": 0.2123
+      "centrality": 0.2126
     },
     {
       "id": "fun.exemplifying",
@@ -7169,7 +7169,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 2,
-      "centrality": 0.0581
+      "centrality": 0.0582
     },
     {
       "id": "fun.explaining",
@@ -7242,7 +7242,7 @@
       "unlockCount": 9,
       "downstreamCount": 5,
       "depth": 4,
-      "centrality": 0.1342
+      "centrality": 0.1344
     },
     {
       "id": "fun.hypothesising",
@@ -7308,7 +7308,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 4,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "fun.recommending",
@@ -7369,7 +7369,7 @@
       "unlockCount": 5,
       "downstreamCount": 4,
       "depth": 0,
-      "centrality": 0.0912
+      "centrality": 0.0914
     },
     {
       "id": "fun.summarising-concluding",
@@ -7499,7 +7499,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "fun.evaluating",
@@ -7568,7 +7568,7 @@
       "unlockCount": 7,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.0681
+      "centrality": 0.0682
     },
     {
       "id": "rdp.interactive-reading",
@@ -7687,7 +7687,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "rdp.reading-fluency-rate",
@@ -7878,7 +7878,7 @@
       "unlockCount": 5,
       "downstreamCount": 16,
       "depth": 0,
-      "centrality": 0.2211
+      "centrality": 0.2214
     },
     {
       "id": "rdp.parsing-complex-sentences",
@@ -7943,7 +7943,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 3,
-      "centrality": 0.0807
+      "centrality": 0.0808
     },
     {
       "id": "rdp.background-knowledge",
@@ -8009,7 +8009,7 @@
       "unlockCount": 7,
       "downstreamCount": 4,
       "depth": 0,
-      "centrality": 0.1122
+      "centrality": 0.1124
     },
     {
       "id": "rdp.managing-reading-load",
@@ -8258,7 +8258,7 @@
       "unlockCount": 4,
       "downstreamCount": 14,
       "depth": 1,
-      "centrality": 0.1829
+      "centrality": 0.1832
     },
     {
       "id": "rds.skimming",
@@ -8432,7 +8432,7 @@
       "unlockCount": 11,
       "downstreamCount": 17,
       "depth": 1,
-      "centrality": 0.3213
+      "centrality": 0.3218
     },
     {
       "id": "rds.paragraph-structure-reading",
@@ -8491,7 +8491,7 @@
       "unlockCount": 2,
       "downstreamCount": 18,
       "depth": 0,
-      "centrality": 0.3086
+      "centrality": 0.3091
     },
     {
       "id": "rds.text-organisation",
@@ -8555,7 +8555,7 @@
       "unlockCount": 5,
       "downstreamCount": 6,
       "depth": 2,
-      "centrality": 0.0773
+      "centrality": 0.0775
     },
     {
       "id": "rds.research-article-navigation",
@@ -8622,7 +8622,7 @@
       "unlockCount": 2,
       "downstreamCount": 13,
       "depth": 2,
-      "centrality": 0.1735
+      "centrality": 0.1738
     },
     {
       "id": "rds.inference",
@@ -8686,7 +8686,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0548
+      "centrality": 0.0549
     },
     {
       "id": "rds.reference-tracking",
@@ -8799,7 +8799,7 @@
       "unlockCount": 3,
       "downstreamCount": 25,
       "depth": 0,
-      "centrality": 0.2283
+      "centrality": 0.2287
     },
     {
       "id": "rds.writer-stance",
@@ -8856,7 +8856,7 @@
       "unlockCount": 3,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0784
+      "centrality": 0.0785
     },
     {
       "id": "rds.comprehension-monitoring",
@@ -9216,9 +9216,9 @@
       ],
       "prerequisiteCount": 2,
       "unlockCount": 6,
-      "downstreamCount": 28,
+      "downstreamCount": 27,
       "depth": 1,
-      "centrality": 0.3162
+      "centrality": 0.3114
     },
     {
       "id": "rdc.evidence-evaluation",
@@ -9278,7 +9278,7 @@
       "unlockCount": 6,
       "downstreamCount": 6,
       "depth": 2,
-      "centrality": 0.1019
+      "centrality": 0.1021
     },
     {
       "id": "rdc.assumptions",
@@ -9337,7 +9337,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "rdc.bias-perspective",
@@ -9395,7 +9395,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "rdc.methods-critique",
@@ -9461,7 +9461,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 3,
-      "centrality": 0.0756
+      "centrality": 0.0758
     },
     {
       "id": "rdc.multiple-texts",
@@ -9519,9 +9519,9 @@
       ],
       "prerequisiteCount": 3,
       "unlockCount": 2,
-      "downstreamCount": 12,
+      "downstreamCount": 11,
       "depth": 2,
-      "centrality": 0.1555
+      "centrality": 0.1496
     },
     {
       "id": "rdc.literature-mapping",
@@ -9576,7 +9576,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0455
+      "centrality": 0.0456
     },
     {
       "id": "rdc.theoretical-texts",
@@ -9703,7 +9703,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0455
+      "centrality": 0.0456
     },
     {
       "id": "lis.listening-processes",
@@ -9765,7 +9765,7 @@
       "unlockCount": 3,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0912
+      "centrality": 0.0914
     },
     {
       "id": "lis.connected-speech",
@@ -9829,7 +9829,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0912
+      "centrality": 0.0914
     },
     {
       "id": "lis.word-segmentation",
@@ -9883,7 +9883,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "lis.speech-rate",
@@ -10070,7 +10070,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "lis.lecture-discourse-markers",
@@ -10313,7 +10313,7 @@
       "unlockCount": 5,
       "downstreamCount": 6,
       "depth": 0,
-      "centrality": 0.1839
+      "centrality": 0.1842
     },
     {
       "id": "lis.pre-listening-preparation",
@@ -10687,7 +10687,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "lis.spoken-instructions",
@@ -10915,7 +10915,7 @@
       "unlockCount": 4,
       "downstreamCount": 6,
       "depth": 2,
-      "centrality": 0.1579
+      "centrality": 0.1581
     },
     {
       "id": "ntk.abbreviations-symbols",
@@ -11021,7 +11021,7 @@
       "unlockCount": 4,
       "downstreamCount": 3,
       "depth": 3,
-      "centrality": 0.0935
+      "centrality": 0.0936
     },
     {
       "id": "ntk.lecture-notes",
@@ -11085,7 +11085,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 4,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "ntk.notes-from-reading",
@@ -11151,7 +11151,7 @@
       "unlockCount": 5,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "ntk.reviewing-notes",
@@ -11381,7 +11381,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "sem.preparation",
@@ -11504,7 +11504,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "sem.opinions",
@@ -11562,7 +11562,7 @@
       "unlockCount": 4,
       "downstreamCount": 10,
       "depth": 0,
-      "centrality": 0.2203
+      "centrality": 0.2206
     },
     {
       "id": "sem.agreeing-disagreeing",
@@ -11636,7 +11636,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "sem.building-on-others",
@@ -11699,7 +11699,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0912
+      "centrality": 0.0914
     },
     {
       "id": "sem.questions-clarification",
@@ -11766,7 +11766,7 @@
       "unlockCount": 3,
       "downstreamCount": 10,
       "depth": 0,
-      "centrality": 0.225
+      "centrality": 0.2254
     },
     {
       "id": "sem.checking-understanding",
@@ -11837,7 +11837,7 @@
       "unlockCount": 6,
       "downstreamCount": 8,
       "depth": 1,
-      "centrality": 0.1876
+      "centrality": 0.1879
     },
     {
       "id": "sem.citing-in-speech",
@@ -12031,7 +12031,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "sem.speaking-anxiety",
@@ -12287,7 +12287,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "prs.purpose-audience",
@@ -12358,7 +12358,7 @@
       "unlockCount": 5,
       "downstreamCount": 7,
       "depth": 0,
-      "centrality": 0.1815
+      "centrality": 0.1818
     },
     {
       "id": "prs.structure",
@@ -12430,7 +12430,7 @@
       "unlockCount": 5,
       "downstreamCount": 6,
       "depth": 1,
-      "centrality": 0.16
+      "centrality": 0.1603
     },
     {
       "id": "prs.openings",
@@ -12488,7 +12488,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.043
+      "centrality": 0.0431
     },
     {
       "id": "prs.signposting",
@@ -12561,7 +12561,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "prs.slide-design",
@@ -12680,7 +12680,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.043
+      "centrality": 0.0431
     },
     {
       "id": "prs.delivery-voice",
@@ -12743,7 +12743,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "prs.nonverbal",
@@ -12923,7 +12923,7 @@
       "unlockCount": 9,
       "downstreamCount": 5,
       "depth": 2,
-      "centrality": 0.1133
+      "centrality": 0.1135
     },
     {
       "id": "prs.group-presentations",
@@ -13238,7 +13238,7 @@
       "unlockCount": 3,
       "downstreamCount": 2,
       "depth": 2,
-      "centrality": 0.053
+      "centrality": 0.0531
     },
     {
       "id": "prs.research-pitches",
@@ -13363,7 +13363,7 @@
       "unlockCount": 5,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "prn.word-stress",
@@ -13427,7 +13427,7 @@
       "unlockCount": 4,
       "downstreamCount": 5,
       "depth": 0,
-      "centrality": 0.1021
+      "centrality": 0.1023
     },
     {
       "id": "prn.prominence",
@@ -13493,7 +13493,7 @@
       "unlockCount": 4,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.1214
+      "centrality": 0.1216
     },
     {
       "id": "prn.thought-groups",
@@ -13558,7 +13558,7 @@
       "unlockCount": 3,
       "downstreamCount": 4,
       "depth": 0,
-      "centrality": 0.087
+      "centrality": 0.0872
     },
     {
       "id": "prn.intonation",
@@ -14067,7 +14067,7 @@
       "unlockCount": 2,
       "downstreamCount": 4,
       "depth": 0,
-      "centrality": 0.1297
+      "centrality": 0.1299
     },
     {
       "id": "grw.roles-planning",
@@ -14122,7 +14122,7 @@
       "unlockCount": 5,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.1108
+      "centrality": 0.111
     },
     {
       "id": "grw.meetings",
@@ -14507,7 +14507,7 @@
       "unlockCount": 2,
       "downstreamCount": 8,
       "depth": 0,
-      "centrality": 0.1954
+      "centrality": 0.1957
     },
     {
       "id": "wpr.task-analysis",
@@ -14576,7 +14576,7 @@
       "unlockCount": 9,
       "downstreamCount": 18,
       "depth": 1,
-      "centrality": 0.3466
+      "centrality": 0.3472
     },
     {
       "id": "wpr.generating-ideas",
@@ -14629,7 +14629,7 @@
       "unlockCount": 2,
       "downstreamCount": 3,
       "depth": 0,
-      "centrality": 0.0893
+      "centrality": 0.0894
     },
     {
       "id": "wpr.planning-outlining",
@@ -14693,7 +14693,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0633
+      "centrality": 0.0634
     },
     {
       "id": "wpr.drafting",
@@ -14941,7 +14941,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "wpr.writing-blocks",
@@ -15214,9 +15214,9 @@
       ],
       "prerequisiteCount": 1,
       "unlockCount": 4,
-      "downstreamCount": 20,
+      "downstreamCount": 19,
       "depth": 0,
-      "centrality": 0.305
+      "centrality": 0.3024
     },
     {
       "id": "par.topic-sentences",
@@ -15271,9 +15271,9 @@
       ],
       "prerequisiteCount": 1,
       "unlockCount": 7,
-      "downstreamCount": 18,
+      "downstreamCount": 17,
       "depth": 1,
-      "centrality": 0.2817
+      "centrality": 0.2785
     },
     {
       "id": "par.support",
@@ -15332,7 +15332,7 @@
       "unlockCount": 2,
       "downstreamCount": 7,
       "depth": 2,
-      "centrality": 0.0905
+      "centrality": 0.0907
     },
     {
       "id": "par.peel",
@@ -15659,7 +15659,7 @@
       "unlockCount": 4,
       "downstreamCount": 5,
       "depth": 5,
-      "centrality": 0.0586
+      "centrality": 0.0587
     },
     {
       "id": "ess.essay-structure",
@@ -15724,7 +15724,7 @@
       "unlockCount": 4,
       "downstreamCount": 11,
       "depth": 0,
-      "centrality": 0.2117
+      "centrality": 0.2121
     },
     {
       "id": "ess.thesis-statement",
@@ -15789,7 +15789,7 @@
       "unlockCount": 9,
       "downstreamCount": 9,
       "depth": 1,
-      "centrality": 0.1719
+      "centrality": 0.1722
     },
     {
       "id": "ess.introductions",
@@ -15997,7 +15997,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "ess.headings",
@@ -16265,7 +16265,7 @@
       "unlockCount": 7,
       "downstreamCount": 7,
       "depth": 1,
-      "centrality": 0.1882
+      "centrality": 0.1885
     },
     {
       "id": "edt.global-revision",
@@ -16532,7 +16532,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "edt.proofreading",
@@ -16825,7 +16825,7 @@
       "unlockCount": 6,
       "downstreamCount": 15,
       "depth": 0,
-      "centrality": 0.3325
+      "centrality": 0.3331
     },
     {
       "id": "inf.source-types",
@@ -16877,7 +16877,7 @@
       "unlockCount": 6,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "inf.research-question",
@@ -16927,7 +16927,7 @@
       "unlockCount": 4,
       "downstreamCount": 14,
       "depth": 2,
-      "centrality": 0.3155
+      "centrality": 0.316
     },
     {
       "id": "inf.search-strategies",
@@ -16979,7 +16979,7 @@
       "unlockCount": 3,
       "downstreamCount": 5,
       "depth": 3,
-      "centrality": 0.1373
+      "centrality": 0.1375
     },
     {
       "id": "inf.databases",
@@ -17031,7 +17031,7 @@
       "unlockCount": 7,
       "downstreamCount": 2,
       "depth": 4,
-      "centrality": 0.0569
+      "centrality": 0.057
     },
     {
       "id": "inf.source-evaluation",
@@ -17095,7 +17095,7 @@
       "unlockCount": 7,
       "downstreamCount": 6,
       "depth": 1,
-      "centrality": 0.1331
+      "centrality": 0.1333
     },
     {
       "id": "inf.lateral-reading",
@@ -17206,7 +17206,7 @@
       "unlockCount": 1,
       "downstreamCount": 3,
       "depth": 2,
-      "centrality": 0.0676
+      "centrality": 0.0677
     },
     {
       "id": "inf.citation-chaining",
@@ -17315,7 +17315,7 @@
       "unlockCount": 1,
       "downstreamCount": 2,
       "depth": 4,
-      "centrality": 0.0569
+      "centrality": 0.057
     },
     {
       "id": "inf.open-access",
@@ -17429,7 +17429,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 5,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "src.quoting",
@@ -17486,7 +17486,7 @@
       "unlockCount": 3,
       "downstreamCount": 4,
       "depth": 1,
-      "centrality": 0.0978
+      "centrality": 0.0979
     },
     {
       "id": "src.integrating-quotations",
@@ -17544,7 +17544,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 5,
-      "centrality": 0.0756
+      "centrality": 0.0758
     },
     {
       "id": "src.paraphrasing",
@@ -17611,7 +17611,7 @@
       "unlockCount": 5,
       "downstreamCount": 2,
       "depth": 2,
-      "centrality": 0.0957
+      "centrality": 0.0959
     },
     {
       "id": "src.paraphrase-techniques",
@@ -17670,7 +17670,7 @@
       "unlockCount": 2,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.1168
+      "centrality": 0.117
     },
     {
       "id": "src.patchwriting",
@@ -17781,7 +17781,7 @@
       "unlockCount": 5,
       "downstreamCount": 7,
       "depth": 2,
-      "centrality": 0.1075
+      "centrality": 0.1076
     },
     {
       "id": "src.summarising-text",
@@ -17847,7 +17847,7 @@
       "unlockCount": 6,
       "downstreamCount": 5,
       "depth": 3,
-      "centrality": 0.0985
+      "centrality": 0.0987
     },
     {
       "id": "src.reporting-verbs",
@@ -17921,9 +17921,9 @@
       ],
       "prerequisiteCount": 2,
       "unlockCount": 10,
-      "downstreamCount": 21,
+      "downstreamCount": 20,
       "depth": 4,
-      "centrality": 0.2662
+      "centrality": 0.2635
     },
     {
       "id": "src.citation-forms",
@@ -18026,9 +18026,9 @@
       ],
       "prerequisiteCount": 3,
       "unlockCount": 3,
-      "downstreamCount": 6,
+      "downstreamCount": 5,
       "depth": 5,
-      "centrality": 0.0713
+      "centrality": 0.0678
     },
     {
       "id": "src.secondary-citation",
@@ -18193,7 +18193,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0706
+      "centrality": 0.0707
     },
     {
       "id": "syn.synthesis-matrix",
@@ -18295,9 +18295,9 @@
       ],
       "prerequisiteCount": 3,
       "unlockCount": 1,
-      "downstreamCount": 11,
+      "downstreamCount": 10,
       "depth": 0,
-      "centrality": 0.1169
+      "centrality": 0.1109
     },
     {
       "id": "syn.relating-sources",
@@ -18355,9 +18355,9 @@
       ],
       "prerequisiteCount": 3,
       "unlockCount": 4,
-      "downstreamCount": 10,
+      "downstreamCount": 9,
       "depth": 3,
-      "centrality": 0.1915
+      "centrality": 0.1773
     },
     {
       "id": "syn.gaps-tensions",
@@ -18411,9 +18411,9 @@
       ],
       "prerequisiteCount": 3,
       "unlockCount": 4,
-      "downstreamCount": 8,
+      "downstreamCount": 7,
       "depth": 4,
-      "centrality": 0.1592
+      "centrality": 0.1466
     },
     {
       "id": "syn.synthesis-paragraphs",
@@ -18475,9 +18475,9 @@
       ],
       "prerequisiteCount": 4,
       "unlockCount": 2,
-      "downstreamCount": 3,
+      "downstreamCount": 2,
       "depth": 6,
-      "centrality": 0.0734
+      "centrality": 0.0607
     },
     {
       "id": "syn.integrated-tasks",
@@ -18598,7 +18598,7 @@
       "unlockCount": 6,
       "downstreamCount": 8,
       "depth": 0,
-      "centrality": 0.2356
+      "centrality": 0.236
     },
     {
       "id": "cit.when-to-cite",
@@ -18705,7 +18705,7 @@
       "unlockCount": 4,
       "downstreamCount": 12,
       "depth": 0,
-      "centrality": 0.2796
+      "centrality": 0.28
     },
     {
       "id": "cit.author-date-in-text",
@@ -18757,7 +18757,7 @@
       "unlockCount": 7,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "cit.numeric",
@@ -18870,7 +18870,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 2,
-      "centrality": 0.054
+      "centrality": 0.0541
     },
     {
       "id": "cit.reference-list",
@@ -18930,7 +18930,7 @@
       "unlockCount": 9,
       "downstreamCount": 8,
       "depth": 1,
-      "centrality": 0.1861
+      "centrality": 0.1864
     },
     {
       "id": "cit.diverse-sources",
@@ -19392,7 +19392,7 @@
       "unlockCount": 9,
       "downstreamCount": 5,
       "depth": 1,
-      "centrality": 0.1646
+      "centrality": 0.1648
     },
     {
       "id": "int.recycling-own-work",
@@ -19446,7 +19446,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0455
+      "centrality": 0.0456
     },
     {
       "id": "int.collusion",
@@ -19747,7 +19747,7 @@
       "unlockCount": 6,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "crt.concept",
@@ -19855,7 +19855,7 @@
       "unlockCount": 8,
       "downstreamCount": 19,
       "depth": 0,
-      "centrality": 0.3489
+      "centrality": 0.3494
     },
     {
       "id": "crt.questioning",
@@ -19923,7 +19923,7 @@
       "unlockCount": 6,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0741
+      "centrality": 0.0743
     },
     {
       "id": "crt.evidence-types",
@@ -19977,7 +19977,7 @@
       "unlockCount": 13,
       "downstreamCount": 24,
       "depth": 1,
-      "centrality": 0.2269
+      "centrality": 0.2272
     },
     {
       "id": "crt.reasoning-types",
@@ -20028,7 +20028,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "crt.correlation-causation",
@@ -20257,7 +20257,7 @@
       "unlockCount": 6,
       "downstreamCount": 5,
       "depth": 0,
-      "centrality": 0.0775
+      "centrality": 0.0776
     },
     {
       "id": "crt.epistemic-beliefs",
@@ -20311,7 +20311,7 @@
       "unlockCount": 4,
       "downstreamCount": 3,
       "depth": 0,
-      "centrality": 0.1086
+      "centrality": 0.1087
     },
     {
       "id": "crt.evaluating-theories",
@@ -20425,7 +20425,7 @@
       "unlockCount": 8,
       "downstreamCount": 7,
       "depth": 1,
-      "centrality": 0.1666
+      "centrality": 0.1668
     },
     {
       "id": "crt.problem-solving",
@@ -20475,7 +20475,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0569
+      "centrality": 0.057
     },
     {
       "id": "crt.reflexivity",
@@ -20530,7 +20530,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "arg.argument-concept",
@@ -20587,9 +20587,9 @@
       ],
       "prerequisiteCount": 1,
       "unlockCount": 13,
-      "downstreamCount": 47,
+      "downstreamCount": 46,
       "depth": 0,
-      "centrality": 0.603
+      "centrality": 0.5995
     },
     {
       "id": "arg.claim-types",
@@ -20693,7 +20693,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0633
+      "centrality": 0.0634
     },
     {
       "id": "arg.supporting-claims",
@@ -20755,7 +20755,7 @@
       "unlockCount": 5,
       "downstreamCount": 13,
       "depth": 2,
-      "centrality": 0.1916
+      "centrality": 0.1919
     },
     {
       "id": "arg.warrants",
@@ -20818,7 +20818,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "arg.counterarguments",
@@ -20874,7 +20874,7 @@
       "unlockCount": 1,
       "downstreamCount": 3,
       "depth": 3,
-      "centrality": 0.0633
+      "centrality": 0.0634
     },
     {
       "id": "arg.rebuttal-concession",
@@ -20938,7 +20938,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 5,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "arg.position",
@@ -21000,7 +21000,7 @@
       "unlockCount": 2,
       "downstreamCount": 5,
       "depth": 3,
-      "centrality": 0.0838
+      "centrality": 0.0839
     },
     {
       "id": "arg.extended-argument",
@@ -21242,7 +21242,7 @@
       "unlockCount": 3,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.0756
+      "centrality": 0.0758
     },
     {
       "id": "arg.exploratory-adversarial",
@@ -21422,7 +21422,7 @@
       "unlockCount": 6,
       "downstreamCount": 3,
       "depth": 0,
-      "centrality": 0.1259
+      "centrality": 0.1261
     },
     {
       "id": "ges.genre-analysis",
@@ -21617,7 +21617,7 @@
       "unlockCount": 2,
       "downstreamCount": 3,
       "depth": 6,
-      "centrality": 0.0641
+      "centrality": 0.0642
     },
     {
       "id": "ges.discussion-essay",
@@ -21861,7 +21861,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 6,
-      "centrality": 0.0807
+      "centrality": 0.0808
     },
     {
       "id": "ges.book-review",
@@ -21989,7 +21989,7 @@
       "unlockCount": 7,
       "downstreamCount": 3,
       "depth": 0,
-      "centrality": 0.1108
+      "centrality": 0.111
     },
     {
       "id": "ges.annotated-bibliography",
@@ -22114,9 +22114,9 @@
       ],
       "prerequisiteCount": 3,
       "unlockCount": 3,
-      "downstreamCount": 1,
+      "downstreamCount": 0,
       "depth": 7,
-      "centrality": 0.0656
+      "centrality": 0.0355
     },
     {
       "id": "ges.summary-response",
@@ -22361,7 +22361,7 @@
       "unlockCount": 6,
       "downstreamCount": 8,
       "depth": 0,
-      "centrality": 0.1349
+      "centrality": 0.1351
     },
     {
       "id": "grp.lab-report",
@@ -22429,7 +22429,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "grp.empirical-project-report",
@@ -22555,7 +22555,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "grp.business-report",
@@ -22624,7 +22624,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0957
+      "centrality": 0.0959
     },
     {
       "id": "grp.technical-design-report",
@@ -23040,7 +23040,7 @@
       "prerequisiteCount": 4,
       "unlockCount": 2,
       "downstreamCount": 0,
-      "depth": 8,
+      "depth": 0,
       "centrality": 0.0355
     },
     {
@@ -23112,7 +23112,7 @@
       "unlockCount": 6,
       "downstreamCount": 9,
       "depth": 3,
-      "centrality": 0.1245
+      "centrality": 0.1247
     },
     {
       "id": "res.introductions-cars",
@@ -23306,7 +23306,7 @@
       "unlockCount": 5,
       "downstreamCount": 2,
       "depth": 4,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "res.results",
@@ -23374,7 +23374,7 @@
       "unlockCount": 3,
       "downstreamCount": 3,
       "depth": 4,
-      "centrality": 0.0784
+      "centrality": 0.0785
     },
     {
       "id": "res.discussion",
@@ -23439,7 +23439,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 5,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "res.conclusions-implications",
@@ -23563,7 +23563,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 4,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "res.limitations",
@@ -23684,7 +23684,7 @@
       "unlockCount": 7,
       "downstreamCount": 7,
       "depth": 3,
-      "centrality": 0.1922
+      "centrality": 0.1925
     },
     {
       "id": "res.gap-niche",
@@ -23746,7 +23746,7 @@
       "unlockCount": 4,
       "downstreamCount": 4,
       "depth": 5,
-      "centrality": 0.095
+      "centrality": 0.0951
     },
     {
       "id": "res.contribution",
@@ -23805,7 +23805,7 @@
       "unlockCount": 7,
       "downstreamCount": 1,
       "depth": 6,
-      "centrality": 0.0455
+      "centrality": 0.0456
     },
     {
       "id": "res.thesis-macrostructure",
@@ -23856,7 +23856,7 @@
       "unlockCount": 4,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0606
+      "centrality": 0.0607
     },
     {
       "id": "res.chapter-metatext",
@@ -24173,7 +24173,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 4,
-      "centrality": 0.0957
+      "centrality": 0.0959
     },
     {
       "id": "res.ethics-documentation",
@@ -24820,7 +24820,7 @@
       "unlockCount": 7,
       "downstreamCount": 9,
       "depth": 1,
-      "centrality": 0.1809
+      "centrality": 0.1812
     },
     {
       "id": "pub.journal-selection",
@@ -24872,7 +24872,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 3,
-      "centrality": 0.0756
+      "centrality": 0.0758
     },
     {
       "id": "pub.cover-letters",
@@ -25212,7 +25212,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "pub.multilingual-scholars",
@@ -25782,7 +25782,7 @@
       "unlockCount": 5,
       "downstreamCount": 13,
       "depth": 0,
-      "centrality": 0.2078
+      "centrality": 0.2081
     },
     {
       "id": "dat.reading-graphs",
@@ -25850,7 +25850,7 @@
       "unlockCount": 5,
       "downstreamCount": 12,
       "depth": 1,
-      "centrality": 0.2028
+      "centrality": 0.2031
     },
     {
       "id": "dat.reading-tables",
@@ -25977,7 +25977,7 @@
       "unlockCount": 3,
       "downstreamCount": 8,
       "depth": 2,
-      "centrality": 0.0958
+      "centrality": 0.0959
     },
     {
       "id": "dat.describing-proportions",
@@ -26043,7 +26043,7 @@
       "unlockCount": 2,
       "downstreamCount": 7,
       "depth": 1,
-      "centrality": 0.1022
+      "centrality": 0.1023
     },
     {
       "id": "dat.data-commentary",
@@ -26117,7 +26117,7 @@
       "unlockCount": 7,
       "downstreamCount": 5,
       "depth": 3,
-      "centrality": 0.0839
+      "centrality": 0.084
     },
     {
       "id": "dat.describing-diagrams",
@@ -26359,7 +26359,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "dat.referring-to-visuals",
@@ -26425,7 +26425,7 @@
       "unlockCount": 3,
       "downstreamCount": 8,
       "depth": 0,
-      "centrality": 0.0778
+      "centrality": 0.0779
     },
     {
       "id": "num.number-expressions",
@@ -26498,7 +26498,7 @@
       "unlockCount": 9,
       "downstreamCount": 16,
       "depth": 0,
-      "centrality": 0.2616
+      "centrality": 0.262
     },
     {
       "id": "num.approximation",
@@ -26632,7 +26632,7 @@
       "unlockCount": 3,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0784
+      "centrality": 0.0785
     },
     {
       "id": "num.interpreting-statistics",
@@ -26702,7 +26702,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "num.relative-absolute",
@@ -26768,7 +26768,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "num.units-measurement",
@@ -26832,7 +26832,7 @@
       "unlockCount": 2,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.0935
+      "centrality": 0.0936
     },
     {
       "id": "num.mathematical-expression",
@@ -26899,7 +26899,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "mmd.multimodal-literacy",
@@ -26954,7 +26954,7 @@
       "unlockCount": 5,
       "downstreamCount": 6,
       "depth": 0,
-      "centrality": 0.1451
+      "centrality": 0.1453
     },
     {
       "id": "mmd.infographics",
@@ -27190,7 +27190,7 @@
       "unlockCount": 9,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.1214
+      "centrality": 0.1216
     },
     {
       "id": "lrn.goal-setting",
@@ -27241,7 +27241,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "lrn.time-management",
@@ -27292,7 +27292,7 @@
       "unlockCount": 7,
       "downstreamCount": 3,
       "depth": 0,
-      "centrality": 0.1214
+      "centrality": 0.1216
     },
     {
       "id": "lrn.independent-study",
@@ -27385,7 +27385,7 @@
       "unlockCount": 6,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0957
+      "centrality": 0.0959
     },
     {
       "id": "lrn.language-learning-strategies",
@@ -27539,7 +27539,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "lrn.wellbeing",
@@ -27681,7 +27681,7 @@
       "unlockCount": 5,
       "downstreamCount": 7,
       "depth": 0,
-      "centrality": 0.22
+      "centrality": 0.2204
     },
     {
       "id": "lrn.content-through-english",
@@ -27789,7 +27789,7 @@
       "unlockCount": 7,
       "downstreamCount": 5,
       "depth": 0,
-      "centrality": 0.1642
+      "centrality": 0.1645
     },
     {
       "id": "fbk.marking-criteria",
@@ -27836,7 +27836,7 @@
       "unlockCount": 6,
       "downstreamCount": 4,
       "depth": 1,
-      "centrality": 0.1515
+      "centrality": 0.1518
     },
     {
       "id": "fbk.grading-systems",
@@ -27930,7 +27930,7 @@
       "unlockCount": 6,
       "downstreamCount": 4,
       "depth": 0,
-      "centrality": 0.147
+      "centrality": 0.1472
     },
     {
       "id": "fbk.acting-on-feedback",
@@ -27979,7 +27979,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "fbk.corrective-feedback",
@@ -28111,7 +28111,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "fbk.self-peer-assessment",
@@ -28160,7 +28160,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "exm.exam-formats",
@@ -28205,7 +28205,7 @@
       "unlockCount": 6,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "exm.revision-planning",
@@ -28315,7 +28315,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "exm.objective-questions",
@@ -28572,7 +28572,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0912
+      "centrality": 0.0914
     },
     {
       "id": "tst.cefr-entry",
@@ -28616,7 +28616,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "tst.test-formats",
@@ -28658,7 +28658,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "tst.test-vs-university",
@@ -28956,7 +28956,7 @@
       "unlockCount": 6,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "acu.discourse-communities",
@@ -29009,7 +29009,7 @@
       "unlockCount": 6,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "acu.disciplinary-knowledge",
@@ -29279,7 +29279,7 @@
       "unlockCount": 2,
       "downstreamCount": 2,
       "depth": 0,
-      "centrality": 0.0633
+      "centrality": 0.0634
     },
     {
       "id": "acu.critical-eap",
@@ -29472,7 +29472,7 @@
       "unlockCount": 12,
       "downstreamCount": 7,
       "depth": 0,
-      "centrality": 0.1903
+      "centrality": 0.1906
     },
     {
       "id": "prg.emails-to-staff",
@@ -29538,7 +29538,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "prg.requests",
@@ -29606,7 +29606,7 @@
       "unlockCount": 4,
       "downstreamCount": 3,
       "depth": 1,
-      "centrality": 0.0935
+      "centrality": 0.0936
     },
     {
       "id": "prg.office-hours",
@@ -30186,7 +30186,7 @@
       "unlockCount": 8,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "idn.elf",
@@ -30723,7 +30723,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "dig.machine-translation",
@@ -31185,7 +31185,7 @@
       "unlockCount": 7,
       "downstreamCount": 5,
       "depth": 0,
-      "centrality": 0.1816
+      "centrality": 0.1819
     },
     {
       "id": "gai.policies",
@@ -31239,7 +31239,7 @@
       "unlockCount": 4,
       "downstreamCount": 1,
       "depth": 0,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "gai.acknowledging-use",
@@ -31355,7 +31355,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "gai.language-support",
@@ -31703,7 +31703,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 1,
-      "centrality": 0.0455
+      "centrality": 0.0456
     },
     {
       "id": "dse.scientific-explanation",
@@ -31833,7 +31833,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 3,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "dse.hypothesis-language",
@@ -32154,7 +32154,7 @@
       "unlockCount": 3,
       "downstreamCount": 3,
       "depth": 2,
-      "centrality": 0.0784
+      "centrality": 0.0785
     },
     {
       "id": "dhl.reflective-practice",
@@ -32485,7 +32485,7 @@
       "unlockCount": 3,
       "downstreamCount": 1,
       "depth": 5,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "dhl.care-plans",
@@ -32811,7 +32811,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "dbe.accounting-finance-discourse",
@@ -33013,7 +33013,7 @@
       "unlockCount": 2,
       "downstreamCount": 6,
       "depth": 3,
-      "centrality": 0.0826
+      "centrality": 0.0828
     },
     {
       "id": "dlw.case-reading",
@@ -33077,7 +33077,7 @@
       "unlockCount": 2,
       "downstreamCount": 4,
       "depth": 4,
-      "centrality": 0.0755
+      "centrality": 0.0756
     },
     {
       "id": "dlw.problem-questions",
@@ -33141,7 +33141,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 5,
-      "centrality": 0.0505
+      "centrality": 0.0506
     },
     {
       "id": "dlw.statutes",
@@ -33258,7 +33258,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 7,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "dlw.mooting",
@@ -33848,7 +33848,7 @@
       "unlockCount": 2,
       "downstreamCount": 1,
       "depth": 2,
-      "centrality": 0.0455
+      "centrality": 0.0456
     },
     {
       "id": "dhu.primary-sources",
@@ -34237,7 +34237,7 @@
       "unlockCount": 1,
       "downstreamCount": 1,
       "depth": 5,
-      "centrality": 0.0656
+      "centrality": 0.0657
     },
     {
       "id": "dad.visual-analysis",
@@ -34303,7 +34303,7 @@
       "unlockCount": 3,
       "downstreamCount": 2,
       "depth": 1,
-      "centrality": 0.0807
+      "centrality": 0.0808
     },
     {
       "id": "dad.practice-research-exegesis",

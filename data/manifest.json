@@ -92,7 +92,7 @@
     },
     "retiredTopics": 24,
     "dependencies": 1473,
-    "hardDependencies": 520,
+    "hardDependencies": 519,
     "crossStrandDependencies": 745,
     "guidanceRecords": 569,
     "references": 480,
@@ -102,12 +102,12 @@
   },
   "files": {
     "topics.json": {
-      "bytes": 1555073,
-      "sha256": "354b00243fb174a6bc3040030a98df9efcc76341d718633db8e1662014692ab2"
+      "bytes": 1555077,
+      "sha256": "7e2c5fe9ca31c43349aeae5b3b708b72ed377ad631eab693286316b9d56b3b80"
     },
     "dependencies.json": {
       "bytes": 382543,
-      "sha256": "ab5ba69e86a6fce3f868b537448eff6b002a3da47c39e5217a50df4fa15d8d04"
+      "sha256": "00a2e58cc0f5d61470d79b706e2b6bf9ab08782254aa3ffdba83b9b878282a64"
     },
     "domains.json": {
       "bytes": 129345,
@@ -130,8 +130,8 @@
       "sha256": "0e4a777ed665f346d7b9c425af2b7b2716b50b000327877746b0cbadfcb8a921"
     },
     "pathways.json": {
-      "bytes": 291,
-      "sha256": "06f4e47f3fdfaf6c23868e4dfbf31d9f7200cc2fb6cb69b23f31a0b41c3135c0"
+      "bytes": 55121,
+      "sha256": "c8d19a00976e59f1435b4c068c681ddaee54ca1d2d8b494896307a78ca37a386"
     }
   }
 }

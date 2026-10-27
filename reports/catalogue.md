@@ -4290,7 +4290,7 @@ Stages — in-sessional-ug: core, in-sessional-pgt: core
 
 Understand and plan the undergraduate or taught master's dissertation as a genre: an extended, largely independent piece of research or scholarship whose typical macrostructures include empirical IMRaD-like chapters, topic-based or theoretical structures and practice-based variants, with expectations of scope, length and originality that are lower than for doctoral theses. Learners need to see how proposal, literature review, methodology, findings, discussion and conclusion form one argument across chapters, and how supervision and assessment work; because expectations vary across disciplines and institutions, the handbook, marking criteria and past dissertations are the key sources. Doctoral thesis structures are covered by res.thesis-macrostructure.
 
-Prerequisites: [Analysing genres independently](#gesgenre-analysis) (soft), [Literature review assignment](#gesliterature-review-assignment), [Empirical project report](#grpempirical-project-report) (soft), [Project proposal (student)](#grpproject-proposal) (soft)
+Prerequisites: [Analysing genres independently](#gesgenre-analysis) (soft), [Literature review assignment](#gesliterature-review-assignment) (soft), [Empirical project report](#grpempirical-project-report) (soft), [Project proposal (student)](#grpproject-proposal) (soft)
 
 ## Research Communication
 

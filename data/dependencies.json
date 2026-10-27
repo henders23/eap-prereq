@@ -5580,7 +5580,7 @@
     {
       "topicId": "grp.dissertation-overview",
       "prerequisiteId": "ges.literature-review-assignment",
-      "strength": "hard",
+      "strength": "soft",
       "reason": "Every dissertation includes a substantial literature review chapter or strand that positions the study."
     },
     {

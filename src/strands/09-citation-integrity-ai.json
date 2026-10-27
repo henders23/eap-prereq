@@ -5,37 +5,38 @@
       "code": "CIT",
       "strand": "Sources & Academic Integrity",
       "name": "Citation & Referencing",
-      "summary": "Citation is both a technical system and a rhetorical practice. This domain moves from why and when academics cite, through the mechanics of the main referencing systems (author–date, numeric and note-based), locators and reference lists, to the rhetorical functions of citation and how these vary across disciplines. Formatting is treated as learnable and checkable, ideally with reference-management tools, so that teaching time goes to the harder judgements: what needs citing, whether a cited source really supports the claim, how citation positions the writer, and what disciplinary readers expect.",
-      "learnerSummary": "You will learn why and when to cite, how to format citations and reference lists accurately in the system your department or journal uses, and how expert writers use citation to build and position their own arguments.",
+      "summary": "Citation is both a technical system and a rhetorical practice. This domain moves from why and when academics cite, through the mechanics of the main referencing systems (author–date, numeric and note-based), locators and reference lists, to the jobs sources and citations do in an argument, how citation varies across disciplines, and whose knowledge citation and indexing practices make visible. Formatting is treated as learnable and checkable, ideally with reference-management tools, so that teaching time goes to the harder judgements: what needs citing, whether a cited source really supports the claim, how citation positions the writer, what disciplinary readers expect, and which perspectives a reference list leaves out.",
+      "learnerSummary": "You will learn why and when to cite, how to format citations and reference lists in your department's system, how to use sources to build your argument, and how to choose whose work you cite.",
       "stageEmphasis": {
-        "foundation": "Reasons for citing, when citation is needed, and accurate author–date (or departmental) formatting for books, articles and web pages.",
-        "in-sessional-ug": "Switching to the department's prescribed system, citing a wider range of source types, and beginning to use citation for more than attribution.",
-        "in-sessional-pgt": "Using citation to compare, evaluate and link sources in critical reviews and dissertations, and matching the citation norms of the discipline.",
-        "pgr": "Switching between journal styles, managing large reference libraries accurately, and using citation to position a contribution within a field.",
-        "pre-sessional-ug": "Consistent use of one system across an extended source-based assignment, with locators, reference lists and systematic accuracy checks that often feed into progression decisions.",
-        "pre-sessional-pg": "Consistent use of one system across an extended source-based assignment, with locators, reference lists and systematic accuracy checks that often feed into progression decisions."
+        "foundation": "Why and when to cite, and accurate author–date (or departmental) citations and reference lists for books, articles and web pages.",
+        "pre-sessional-ug": "Consistent author–date citation, reference lists and locators across an extended source-based essay, with sources used to support and contrast ideas, often assessed for progression.",
+        "pre-sessional-pg": "Checking citations for accuracy and fidelity, using sources to compare, evaluate and link ideas in a literature-based project, and a first look at the citation system and practices of the target discipline.",
+        "in-sessional-ug": "Switching to the department's prescribed system, citing a wider range of source types, and using citation for more than attribution in disciplinary assignments.",
+        "in-sessional-pgt": "Using citation to compare, evaluate and position sources in critical reviews and dissertations, matching disciplinary norms, and considering whose scholarship a literature review draws on.",
+        "pgr": "Switching between journal styles, managing large reference libraries accurately, positioning a contribution within a field, and making deliberate choices about whose work is cited."
       },
       "keyReferences": [
         "hyland1999attribution",
         "swales1986citation",
         "petric2007",
         "thompsontribble2001",
-        "apa2020"
+        "apa2020",
+        "canagarajah2002"
       ]
     },
     {
       "code": "GAI",
       "strand": "Digital Literacy & AI",
       "name": "Generative AI Literacy",
-      "summary": "Generative AI literacy is treated here as part of academic literacy: understanding how large language models generate text and why they fail; reading and applying AI policies that vary by institution, module and task; acknowledging and verifying AI use; and using AI in ways that build rather than replace learners' own language, reasoning and voice. The domain also covers the limits of AI-text detection, including documented bias against writers using English as an additional language, and privacy and intellectual-property risks. Tools and policies change quickly, so topics are framed around durable principles and verification habits rather than particular products.",
-      "learnerSummary": "You will learn how generative AI tools work and where they fail, and how to find out what AI use is allowed in each task. You will also practise acknowledging and checking AI use, using AI to develop your English while keeping your own voice, and responding if a detector wrongly flags your work.",
+      "summary": "Generative AI literacy is treated here as part of academic literacy: understanding how large language models generate text and why they fail; reading and applying AI policies that vary by institution, module and task; acknowledging and verifying AI use; and using AI as a tutor and practice partner in ways that build rather than replace learners' own language, reasoning and voice. The domain also covers the limits of AI-text detection, including documented bias against writers using English as an additional language and why detector output cannot establish misconduct, the contested question of where AI assistance ends and authorship begins, and privacy and intellectual-property risks. Tools and policies change quickly, so topics are framed around durable principles and verification habits rather than particular products.",
+      "learnerSummary": "You will learn how AI tools work and fail, and what AI use each task allows. You will practise declaring and checking AI use, learning with AI, and responding if a detector wrongly flags your work.",
       "stageEmphasis": {
         "foundation": "How generative AI works and fails, finding the AI rules for each task, and using AI for explanation and practice rather than to produce assessed text.",
+        "pre-sessional-ug": "Finding and applying the AI rules for each pre-sessional task, declaring use honestly, and using AI to learn rather than to write assessed text.",
+        "pre-sessional-pg": "AI rules and declarations for postgraduate study, verifying AI-supplied references and summaries, and a first look at the research, privacy and authorship questions that arise in master's and doctoral work.",
         "in-sessional-ug": "Module-specific rules, acknowledging use, and evaluating AI as a language and study resource within the discipline.",
         "in-sessional-pgt": "AI in literature searching and summarising, authorship and voice in extended writing, and data privacy in dissertation research.",
-        "pgr": "AI research tools, publisher and funder policies, research data privacy and intellectual property, and authorship norms in publication.",
-        "pre-sessional-ug": "Transparent, policy-compliant AI use in source-based assignments, verifying outputs and references, and keeping evidence of one's own writing process.",
-        "pre-sessional-pg": "Transparent, policy-compliant AI use in source-based assignments, verifying outputs and references, and keeping evidence of one's own writing process."
+        "pgr": "AI research tools, publisher and funder policies, research data privacy and intellectual property, and authorship norms in publication."
       },
       "keyReferences": [
         "kasneci2023",
@@ -50,15 +51,15 @@
       "code": "INT",
       "strand": "Sources & Academic Integrity",
       "name": "Academic Integrity",
-      "summary": "Academic integrity is taught here as values and practices rather than a list of offences. The domain moves from shared values and an informed understanding of plagiarism (including the developmental status of patchwriting and the contested role of intention) to collusion, contract cheating, reuse of one's own work and research integrity, and to the procedural knowledge learners need: interpreting similarity reports, navigating policies and processes, and managing pressure without shortcuts. Rules differ between institutions and modules, so teaching centres on locating and reading the rules that apply, and similarity scores are never treated as verdicts.",
-      "learnerSummary": "You will learn what academic integrity means in practice, how to avoid plagiarism, collusion and other misconduct, what similarity reports do and do not show, where to get help when deadlines and pressure build up, and what your rights are if questions are ever raised about your work.",
+      "summary": "Academic integrity is taught here as values and practices rather than a list of offences. The domain moves from shared values and an informed understanding of plagiarism (including the developmental status of patchwriting and the contested role of intention) to collusion, contract cheating, reuse of one's own work and research integrity, and to the procedural knowledge learners need: interpreting similarity reports, navigating policies and processes, knowing their procedural rights, and managing pressure without shortcuts. Rules differ between institutions and modules, so teaching centres on locating and reading the rules that apply. Similarity and AI-detection scores are never treated as verdicts, the burden of establishing misconduct lies with the institution, and institutions share responsibility for the conditions (clear briefs, workable deadlines, accessible support) in which integrity is possible.",
+      "learnerSummary": "You will learn what academic integrity means, how to avoid plagiarism and collusion, and what similarity reports show. You will learn where to find help under pressure, and your rights if your work is questioned.",
       "stageEmphasis": {
         "foundation": "Values, a clear and non-threatening understanding of plagiarism and collusion, and where to get help, introduced early in the course.",
+        "pre-sessional-ug": "Plagiarism and patchwriting in source-based essays, formative use of similarity reports, collusion in group tasks, and the policies and rights that will apply in undergraduate study.",
+        "pre-sessional-pg": "Plagiarism, citation fidelity and AI use in extended postgraduate writing, how similarity reports and integrity processes work, learners' procedural rights, and a first look at research integrity and reuse of one's own work.",
         "in-sessional-ug": "Department-specific rules on collaboration, reuse of work and lab or project data, and strategies for managing workload pressure.",
         "in-sessional-pgt": "Rapid orientation to regulations, reuse of prior work, group-assessment boundaries, and integrity in dissertation research and data.",
-        "pgr": "Research integrity, text recycling in theses and publications, authorship, and the codes of conduct governing research.",
-        "pre-sessional-ug": "Integrity in source-based writing, similarity reports as formative tools, and the policies that will govern the degree programme.",
-        "pre-sessional-pg": "Integrity in source-based writing, similarity reports as formative tools, and the policies that will govern the degree programme."
+        "pgr": "Research integrity, text recycling in theses and publications, authorship, and the codes of conduct governing research."
       },
       "keyReferences": [
         "bretag2016",
@@ -104,10 +105,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -144,12 +146,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -188,10 +190,10 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -225,13 +227,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -270,12 +272,15 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "engineering",
+        "computing",
+        "sciences",
+        "health-medicine"
       ]
     },
     {
@@ -313,10 +318,11 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "law",
+        "humanities"
       ]
     },
     {
@@ -357,13 +363,13 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -403,11 +409,11 @@
       "stageRoles": {
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -444,8 +450,8 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -490,12 +496,12 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -504,22 +510,24 @@
       "type": "CONCEPTUAL",
       "strand": "Sources & Academic Integrity",
       "domain": "Citation & Referencing",
-      "name": "Rhetorical functions of citation",
-      "description": "Recognise and use the range of functions citations perform — attribution, exemplification, pointing to further reading, statement of use, application, evaluation, establishing links between sources, and comparing one's own findings with others' — and choose citation form and reporting language to fit the function. Using citation beyond simple attribution has been associated with more highly rated postgraduate writing.",
+      "name": "Rhetorical functions of sources and citation",
+      "description": "Recognise and use the jobs that sources and citations do in academic texts — attributing an idea, supporting a claim, supplying an example or definition, establishing what is known, contrasting or qualifying positions, justifying a method, evaluating others' work, linking sources, establishing a gap and comparing one's own findings with the literature — and choose sources, citation form and reporting language to do those jobs. Function moves learners from showing that they have read to using reading to build and position their own argument: at foundation level this starts with support, example and definition, and in postgraduate writing it extends to evaluation, linking and comparison with one's own findings.",
       "cefrStart": "B1+",
       "cefrEnd": "C2",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Classifies the functions of citations in an expert text using a published typology and explains the writer's purpose in each case",
-        "Uses citations in their own writing to evaluate, to connect sources and to compare their own findings, not only to attribute",
-        "Selects integral or non-integral form and a reporting verb to match the intended function and stance",
-        "Revises a source-by-source descriptive paragraph so that its citations serve the writer's argument"
+        "Identifies the function of each citation in a paragraph of expert or exemplar writing (for example defining, supporting, contrasting, justifying a method, evaluating, establishing a gap) and explains the writer's purpose",
+        "States, before drafting, what job each planned source will do in the argument, and checks after drafting that it did",
+        "Uses sources for at least three different functions in an extended text, including at least one beyond attribution or support",
+        "Distinguishes citing a source to agree with it from citing it to contrast with, qualify or extend it, and signals the difference through citation form and reporting verb",
+        "Compares their own findings or position with cited work in a discussion section or literature review (postgraduate)",
+        "Revises a source-by-source descriptive paragraph so that it is organised around the writer's claim and its citations serve that claim"
       ],
-      "assessmentPrompt": "Ask the learner to label the function of each citation in a paragraph from their own draft, then rewrite the paragraph so that at least two citations do something other than attribute (for example evaluate, compare or link). Check whether labels are accurate and whether the rewrite changes the writer's role rather than only the wording.",
+      "assessmentPrompt": "Give the learner a 150-word published paragraph with four or five citations and ask what job each citation does for the writer. Then ask them to rewrite a paragraph from their own draft so that at least two citations do something other than attribute or support, such as contrast, evaluate or link. Check whether the labels go beyond 'it gives evidence' and whether the rewrite changes the writer's role rather than only the wording. At foundation level, use only the first part with a small set of functions (support, example, definition, contrast).",
       "citations": [
         "petric2007",
-        "thompsontribble2001",
         "hyland1999attribution",
+        "thompsontribble2001",
         "swales1986citation"
       ],
       "frameworks": [
@@ -537,11 +545,14 @@
         }
       ],
       "stageRoles": {
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -578,14 +589,67 @@
         }
       ],
       "stageRoles": {
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "core",
+        "pgr": "develop"
+      },
+      "coreBand": "C1",
+      "audience": "learner",
+      "disciplines": [
+        "sciences",
+        "engineering",
+        "social-sciences",
+        "humanities"
+      ]
+    },
+    {
+      "id": "cit.citation-politics",
+      "type": "CONCEPTUAL",
+      "strand": "Sources & Academic Integrity",
+      "domain": "Citation & Referencing",
+      "name": "Whose knowledge is cited",
+      "description": "Recognise that citation, indexing and ranking practices shape whose knowledge becomes visible and treated as authoritative — including the dominance of English-language, Global North and highly indexed journals in databases, reading lists and metrics — and make deliberate, justified choices about what to cite. Learners examine the range of perspectives in a reference list and include relevant scholarship from other regions, languages and communities where it serves the argument, applying the same quality criteria as to any other source.",
+      "cefrStart": "B1+",
+      "cefrEnd": "C1",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
-      "audience": "learner",
-      "disciplines": [
-        "sciences"
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "both",
+      "masteryEvidence": [
+        "Describes the range of a reference list or reading list (languages, regions, publication types, whose research it reports) and identifies perspectives that are missing for the question",
+        "Explains how database coverage, journal rankings and citation counts can make some scholarship more visible without making it more relevant or reliable",
+        "Locates and evaluates at least one relevant source from outside the dominant indexes, such as a regional journal, a report from the context studied or a work in another language, using the same criteria applied to other sources",
+        "Justifies including or excluding a source in terms of relevance, quality and perspective rather than visibility or prestige alone",
+        "Distinguishes a reasoned case for broadening a reference list from token inclusion or from lowering evidential standards"
+      ],
+      "assessmentPrompt": "Give the learner a 12-item reference list for an essay about a specific region (for example, urban water management in West Africa) in which every source is an English-language journal article published in North America or Europe. Ask what the list suggests about whose knowledge informs the essay, what kinds of sources might be missing, and how they would search for and evaluate them. Look for reasoning about relevance and perspective, concrete search routes (regional databases, organisations in the region, sources in other languages), and continued use of quality criteria rather than token additions.",
+      "citations": [
+        "canagarajah2002",
+        "lilliscurry2010",
+        "acrl2016"
+      ],
+      "frameworks": [
+        {
+          "key": "acrl:authority",
+          "contribution": "core"
+        },
+        {
+          "key": "acrl:conversation",
+          "contribution": "component"
+        },
+        {
+          "key": "acrl:strategic-exploration",
+          "contribution": "related"
+        }
       ]
     },
     {
@@ -622,12 +686,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -663,9 +727,9 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
@@ -680,14 +744,14 @@
       "strand": "Digital Literacy & AI",
       "domain": "Generative AI Literacy",
       "name": "Acknowledging and citing AI use",
-      "description": "Declare and, where required, cite generative AI use in the form the institution, assessment or publisher specifies — typically stating which tools were used, for what purpose and at which stage, and keeping prompts and outputs as records — and distinguish acknowledging assistance from citing AI output as content. Transparent records also allow learners to demonstrate their own process if their work is questioned.",
+      "description": "Declare and, where required, cite generative AI use in the form the institution, assessment or publisher specifies — typically stating which tools were used, for what purpose and at which stage, and keeping prompts and outputs as records — and distinguish acknowledging assistance from citing AI output as content. Records make declarations accurate and support reflection on how the tool was used; they are an ordinary good habit, not a means by which learners are expected to prove their innocence.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Writes a declaration stating tool, version or date, purpose, stage of use, and how outputs were evaluated or changed",
         "Formats an in-text citation and reference for quoted or paraphrased AI output in the required style",
-        "Keeps a log of prompts, outputs and their own revisions and can produce it on request",
+        "Keeps a log of prompts, outputs and their own revisions and uses it to write an accurate declaration",
         "Distinguishes uses that require declaration only, citation, or are not permitted",
         "Applies publication norms that AI tools are not listed as authors and that their use is disclosed (PGR)"
       ],
@@ -709,13 +773,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -755,12 +819,12 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -769,21 +833,23 @@
       "type": "STRATEGIC",
       "strand": "Digital Literacy & AI",
       "domain": "Generative AI Literacy",
-      "name": "Using AI as a language-learning resource",
-      "description": "Use generative AI to support language development — explanations of grammar and vocabulary, feedback that identifies rather than silently fixes errors, practice dialogues and exercises, and comparison of alternative phrasings — in ways that keep the learner doing the cognitive work and stay within assessment rules. The aim is durable competence, so learners evaluate AI feedback critically and check whether their unassisted writing and speaking improve.",
+      "name": "Using AI as a tutor and language-learning resource",
+      "description": "Use generative AI as a tutor or practice partner — prompting for explanations at a chosen level, questions rather than answers, worked examples followed by practice, counter-arguments to test one's reasoning, and feedback that locates rather than silently fixes language errors — in ways that keep the learner doing the cognitive work and stay within the task's rules. Effective use means giving context and constraints, iterating prompts, evaluating suggestions critically, and checking afterwards, without the tool, whether understanding and unassisted writing or speaking have improved.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Requests feedback that locates and explains errors rather than a corrected version, then self-corrects",
-        "Evaluates AI language suggestions, identifying when a change alters meaning, certainty, register or disciplinary terminology",
-        "Uses AI to generate targeted practice on a recurring error and tests progress without the tool",
-        "Distinguishes the language support permitted for a task from rewriting that would breach its rules",
-        "Keeps a record of recurring error patterns identified through AI and other feedback"
+        "Writes prompts that specify role, level, task and constraints, such as asking to be questioned or given explained feedback rather than an answer or a corrected text",
+        "Requests feedback that locates and explains language errors, then self-corrects before comparing with any suggested correction",
+        "Evaluates AI suggestions, identifying when a change alters meaning, certainty, register or disciplinary terminology, and accepts, rejects or modifies each with a reason",
+        "Uses AI to generate self-test questions, targeted practice or counter-arguments, answers them without assistance, and iterates prompts that produce generic or over-advanced output",
+        "Checks learning by explaining the idea or rewriting the passage afterwards without the tool, and keeps a record of recurring error patterns",
+        "Distinguishes the uses permitted for a task from uses that would replace the work being assessed"
       ],
-      "assessmentPrompt": "Ask the learner to demonstrate how they would use an AI tool to improve a 100-word paragraph of their own for an assessment that permits language feedback but not rewriting. Check whether the prompts elicit explanation rather than replacement text, and whether the learner accepts, rejects or modifies suggestions with reasons.",
+      "assessmentPrompt": "Ask the learner to write two prompts for preparing a seminar on an assigned reading — one that would help them learn and one that would replace their thinking — and then to show how they would use a tool to improve a 100-word paragraph of their own for an assessment that permits language feedback but not rewriting. Check that the learning prompts elicit questions, explanation or located feedback rather than finished text, include constraints and a follow-up step without the tool, and that the learner accepts, rejects or modifies suggestions with reasons.",
       "citations": [
         "kasneci2023",
+        "zimmerman2002",
         "stevenson2016",
         "bitchenerferris2012"
       ],
@@ -807,9 +873,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -819,7 +885,7 @@
       "strand": "Digital Literacy & AI",
       "domain": "Generative AI Literacy",
       "name": "AI, authorship and voice",
-      "description": "Consider who is the author of a text produced with AI assistance — whose ideas, reasoning and words it contains, and who is accountable for them — and maintain one's own authorial voice and stance when using AI. AI-polished text can become generic and can misrepresent a writer's actual reasoning and competence, so learners decide where assistance must stop for a task to remain their own work. Where that line lies is contested: AI language polishing can also reduce the penalties multilingual writers face for non-standard English, much as proofreaders and literacy brokers do.",
+      "description": "Consider who is the author of a text produced with AI assistance — whose ideas, reasoning and words it contains, and who is accountable for them — and maintain one's own authorial voice and stance when using AI. AI-polished text can become generic and can misrepresent a writer's actual reasoning, so learners decide, with reference to the task's purpose and policy, where assistance must stop for the work to remain their own. Where that line lies is contested: AI language polishing can also reduce the penalties multilingual writers face for non-standard English, much as proofreaders and literacy brokers do.",
       "cefrStart": "B2+",
       "cefrEnd": "C2",
       "specificity": "EGAP",
@@ -827,14 +893,16 @@
         "Explains why accountability for content, including errors, rests with the human author",
         "Identifies changes to stance, hedging and positioning in an AI-edited version of their own paragraph",
         "Revises an AI-edited passage to restore their own stance, claims and disciplinary positioning",
-        "Justifies a boundary for their own AI use in a task in terms of what the assessment is designed to show",
+        "Justifies a boundary for their own AI use in a task in terms of what the assessment is designed to show and what its policy permits",
+        "Explains arguments on more than one side of the debate about AI language polishing, including the equity argument, without treating either side as settled",
         "Explains why AI tools are not credited as authors in scholarly publication"
       ],
       "assessmentPrompt": "Give the learner their own paragraph and an AI-'improved' version. Ask which they would submit, what changed in meaning, stance and voice, and which better represents their reasoning. Look for attention to claims, hedging and stance, not only to fluency.",
       "citations": [
         "ivanic1998",
         "hyland2002authority",
-        "perkins2023"
+        "perkins2023",
+        "lilliscurry2010"
       ],
       "frameworks": [
         {
@@ -853,7 +921,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -870,11 +938,11 @@
       "masteryEvidence": [
         "Explains in plain terms why detectors that rely on measures of predictability can flag simple or formulaic human writing",
         "Summarises evidence that detectors have misclassified writing by users of English as an additional language as AI-generated, and the limits of that evidence",
-        "Explains why a detector score alone cannot establish misconduct",
-        "Keeps evidence of their own writing process (notes, drafts, version history) for assessed work",
+        "Explains why a detector score, or a difference in style from earlier work, cannot on its own establish misconduct, and that the institution must establish any allegation",
+        "Describes their rights if their work is questioned, such as seeing the evidence, responding and seeking independent advice",
         "Rejects 'humanising' or paraphrasing tools as a response to detectors and explains the integrity and quality risks"
       ],
-      "assessmentPrompt": "Ask: 'A friend's essay was flagged as 80% AI-generated, but they wrote it themselves. What does the score mean, and what should they do?' Strong answers explain detector unreliability and bias, refer to the institution's process, and propose gathering drafts and version history rather than rewriting the essay to lower the score.",
+      "assessmentPrompt": "Ask: 'A friend's essay was flagged as 80% AI-generated, but they wrote it themselves. What does the score mean, and what should they do?' Strong answers explain detector unreliability and bias, say that the score is not evidence of misconduct and that the institution must establish any allegation, refer to the friend's right to see the evidence, respond and get independent advice, and note that drafts or version history they already have may help them explain their process. Weak answers suggest rewriting the essay to lower the score or imply that the friend must prove their innocence.",
       "citations": [
         "liang2023",
         "perkins2023",
@@ -889,8 +957,8 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
-      "audience": "learner",
+      "coreBand": "B2",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -899,7 +967,7 @@
       "strand": "Digital Literacy & AI",
       "domain": "Generative AI Literacy",
       "name": "AI-assisted research tools",
-      "description": "Evaluate and use AI-based literature discovery, question-answering and summarisation tools, understanding their limits in coverage, ranking, reproducibility and accuracy. These tools can speed up orientation to a field, but they cannot replace documented database searching, reading the sources themselves, or the researcher's own judgement of relevance and quality.",
+      "description": "Evaluate and use AI-based literature discovery, question-answering and summarisation tools, understanding their limits in coverage, ranking, reproducibility and accuracy, including how they inherit the coverage and ranking patterns of the indexes they draw on. These tools can speed up orientation to a field, but they cannot replace documented database searching, reading the sources themselves, or the researcher's own judgement of relevance and quality.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -927,11 +995,12 @@
         }
       ],
       "stageRoles": {
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -969,11 +1038,12 @@
         }
       ],
       "stageRoles": {
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1009,12 +1079,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -1051,14 +1120,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1096,11 +1165,12 @@
         }
       ],
       "stageRoles": {
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1167,8 +1237,8 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -1199,13 +1269,13 @@
       "frameworks": [],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1215,18 +1285,19 @@
       "strand": "Sources & Academic Integrity",
       "domain": "Academic Integrity",
       "name": "Integrity policies and processes",
-      "description": "Locate and interpret the integrity regulations that apply: definitions of misconduct, module-level rules, procedures for suspected cases, possible outcomes, and rights to support, representation and appeal. Knowing the process reduces fear, helps learners respond appropriately and in time if concerns are raised, and makes clear that policies and terminology vary between institutions and modules. Learners should also know their procedural rights: to see the evidence, to respond in a language and format they can use (including interpreting or language support where offered), to be accompanied, and to have indicators such as similarity scores, AI-detector output or differences in writing style weighed by people alongside their own account.",
+      "description": "Locate and interpret the integrity regulations that apply: definitions of misconduct, module-level rules, procedures for suspected cases, possible outcomes, and rights to support, representation and appeal. Knowing the process reduces fear, helps learners respond appropriately and in time if concerns are raised, and makes clear that policies and terminology vary between institutions and modules. Learners should also know their procedural rights — to see the evidence, to respond in a language and format they can use (including interpreting, language support or reasonable adjustments where offered), to be accompanied, and to have indicators such as similarity scores, AI-detector output or differences in writing style weighed by people alongside their own account — and that the institution, not the learner, must establish that misconduct occurred.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Finds the institution's integrity policy and the module-level rules for a given assessment",
-        "Summarises the stages of their institution's process for a suspected case, including who decides and on what evidence",
+        "Summarises the stages of their institution's process for a suspected case, including who decides, on what evidence and to what standard",
+        "Identifies their procedural rights, such as seeing the evidence, responding in a usable language or format, being accompanied, and having software indicators weighed by people alongside their account",
         "Identifies sources of independent advice and support, such as a students' union advice service, and when to contact them",
-        "Drafts a factual, appropriately formal reply to an invitation to an integrity meeting, including evidence of their writing process",
+        "Drafts a factual, appropriately formal reply to an invitation to an integrity meeting that confirms attendance and requests the evidence, support or adjustments they need",
         "Explains the grounds for appeal as their institution defines them"
       ],
-      "assessmentPrompt": "Give a constructed letter inviting a student to an integrity meeting about an essay. Ask: what is being alleged, what should the student do in the next 48 hours, what evidence of their writing process could they bring, and who can support them? Check use of the actual policy and support services, and a measured response that is neither panicked nor dismissive.",
+      "assessmentPrompt": "Give a constructed letter inviting a student to an integrity meeting about an essay. Ask: what is being alleged and on what evidence, what should the student do in the next 48 hours, what are they entitled to see and ask for (the evidence, the procedure, support, interpreting or adjustments), and who can advise them? Check use of the actual policy and support services, awareness that a score or style difference is not proof, and a measured response that is neither panicked nor dismissive.",
       "citations": [
         "bretag2014",
         "bretag2016"
@@ -1245,7 +1316,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1255,7 +1326,7 @@
       "strand": "Sources & Academic Integrity",
       "domain": "Academic Integrity",
       "name": "Managing integrity risk under pressure",
-      "description": "Recognise the conditions under which shortcuts become tempting — clustered deadlines, illness, financial or visa-related pressure, low confidence in English, unclear tasks — and act early: plan workload, request extensions or submit extenuating-circumstances claims through proper channels, use academic and wellbeing support, and ask for clarification rather than guessing or outsourcing.",
+      "description": "Recognise the conditions under which shortcuts become tempting — clustered deadlines, illness, caring or work commitments, financial or visa-related pressure, worry about language demands and unclear tasks — and act early: plan workload, request extensions or submit extenuating-circumstances claims through proper channels, use academic and wellbeing support, and ask for clarification rather than guessing or outsourcing. Many of these conditions are shaped by institutions, which are responsible for clear briefs, workable deadline patterns and accessible, well-publicised support; the strategy is the learner's, but responsibility for the conditions is shared.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
@@ -1264,6 +1335,7 @@
         "Explains their institution's extension and extenuating-circumstances procedures and deadlines",
         "Writes an appropriate extension or clarification request",
         "Uses at least one academic support service before a deadline crisis",
+        "Identifies what the institution should provide in a given situation, such as a clear brief or accessible support, and asks for it",
         "Chooses a lower-risk option (partial or late submission, extension request) over a shortcut in a dilemma scenario and explains why"
       ],
       "assessmentPrompt": "Present a scenario: three deadlines in one week, a family emergency, and a friend offering to 'help write' one essay. Ask the learner to plan the next 72 hours. Look for use of formal procedures and support services, prioritisation, and a reasoned refusal of the offer.",
@@ -1284,10 +1356,10 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
       "coreBand": "B1+",
-      "audience": "learner",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -1320,11 +1392,12 @@
         }
       ],
       "stageRoles": {
+        "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "core",
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     }
@@ -1538,7 +1611,7 @@
       "topicId": "gai.language-support",
       "prerequisiteId": "gai.how-genai-works",
       "strength": "hard",
-      "reason": "Designing prompts that elicit useful explanation and questions depends on understanding how models respond to context and instructions"
+      "reason": "Designing prompts that elicit useful explanation, questions and feedback, and judging the output, depends on understanding how models respond to context and instructions and why they produce fluent errors"
     },
     {
       "topicId": "gai.language-support",
@@ -1737,6 +1810,42 @@
       "prerequisiteId": "arg.argument-concept",
       "strength": "soft",
       "reason": "Seeing sources as doing jobs presupposes the idea that an academic text advances a reasoned position which sources serve"
+    },
+    {
+      "topicId": "cit.locators",
+      "prerequisiteId": "cit.author-date-in-text",
+      "strength": "soft",
+      "reason": "In author–date systems the locator is added to the in-text citation, so learners need the basic citation forms before adding pages, paragraphs or timestamps to them"
+    },
+    {
+      "topicId": "cit.citation-functions",
+      "prerequisiteId": "cit.why-cite",
+      "strength": "soft",
+      "reason": "The functions of citation in an argument extend the general purposes of citing (credit, verifiability, positioning) into choices about what each source does"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "cit.why-cite",
+      "strength": "hard",
+      "reason": "Asking whose work is cited presupposes understanding citation as credit and as positioning within a scholarly conversation"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "inf.source-evaluation",
+      "strength": "soft",
+      "reason": "Questioning prestige and indexing as proxies for quality depends on having explicit criteria for evaluating sources, which also prevent broadening from becoming token inclusion"
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "prerequisiteId": "inf.databases",
+      "strength": "soft",
+      "reason": "Seeing how coverage shapes visibility, and searching beyond the major indexes, requires knowing what different catalogues and databases include"
+    },
+    {
+      "topicId": "gai.research-tools",
+      "prerequisiteId": "cit.citation-politics",
+      "strength": "soft",
+      "reason": "AI discovery tools draw on existing indexes and citation counts, so judging what they surface and omit builds on knowing how indexing shapes whose work is visible"
     }
   ],
   "guidance": [
@@ -1804,7 +1913,7 @@
         "partialResponse": "Gives credit and support for claims but cannot explain verifiability or positioning, or lists purposes without examples.",
         "gapResponse": "Mentions only avoiding plagiarism or penalties, or describes citation as a formality."
       },
-      "contextNotes": "At foundation level, keep to credit, evidence and checking, using textbooks and short articles. On pre-sessional courses, connect the purposes directly to the source-based assignment and its marking criteria. In UG in-sessional work, link to the student's discipline as a bridge to rhetorical functions and disciplinary variation.",
+      "contextNotes": "At foundation level, keep to credit, evidence and checking, using textbooks and short articles. On pre-sessional courses, connect the purposes directly to the source-based assignment and its marking criteria; PG pre-sessional learners can move quickly to citation as positioning. In UG and PGT in-sessional work, revisit briefly for students who did not take a preparatory course, as a bridge to the functions of citation and disciplinary variation.",
       "citations": [
         "hyland1999attribution",
         "swales1986citation",
@@ -1882,9 +1991,7 @@
         "pecorari2013",
         "apa2020"
       ],
-      "reviewNotes": [
-        "shi2011 is a proposed reference; if it cannot be verified, the claim about disagreement over common knowledge needs another source or must be softened."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "cit.referencing-systems",
@@ -1956,7 +2063,7 @@
     },
     {
       "topicId": "cit.author-date-in-text",
-      "summary": "Author–date citation is usually the first system taught in EAP because most general EAP programmes use APA 7 or an institutional Harvard. Linking formatting to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) gives the mechanics a rhetorical rationale and is likely to be more useful than an isolated rule list, although this has not been tested, and when learners practise placing citations so that the scope of attribution is clear. Learners should consult the guide for edge cases rather than memorise them; the stable core is who, when and, for quotations, where.",
+      "summary": "Author–date citation is usually the first system taught in EAP because most general EAP programmes use APA 7 or an institutional Harvard. Linking formatting to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) gives the mechanics a rhetorical rationale. As a practitioner proposal that has not been tested, this, together with practice in placing citations so that the scope of attribution is clear, is likely to be more useful than an isolated rule list. Learners should consult the guide for edge cases rather than memorise them; the stable core is who, when and, for quotations, where.",
       "activities": [
         {
           "title": "Narrative or parenthetical?",
@@ -2017,7 +2124,7 @@
         "partialResponse": "Basic forms correct but errors in ordering multiple works or in the two-author narrative form.",
         "gapResponse": "Uses given names, omits years, or applies et al. to the two-author source."
       },
-      "contextNotes": "At foundation level, teach the core forms with books and journal articles. Pre-sessional courses should add group authors, multiple works and secondary citation, which appear in extended projects. UG and PGT in-sessional sessions can focus on the department's variant and on citation placement within synthesis paragraphs.",
+      "contextNotes": "At foundation level, teach the core forms with books and journal articles. UG pre-sessional courses should add group authors, multiple works and secondary citation, which appear in extended projects; PG pre-sessional learners often have partial control and need targeted error work rather than full reteaching. UG and PGT in-sessional sessions can focus on the department's variant and on citation placement within synthesis paragraphs.",
       "citations": [
         "apa2020",
         "swales1990",
@@ -2087,7 +2194,7 @@
         "partialResponse": "Sequence correct but B given a new number on repetition, or entries not in IEEE format.",
         "gapResponse": "Alphabetical numbering, or author–date elements mixed in."
       },
-      "contextNotes": "On foundation pathways into engineering, computing or medicine, introduce numeric citation alongside author–date so learners recognise both. Pre-sessional courses with discipline-specific strands should assess the style students will meet. In UG and PGT in-sessional settings, follow the department's variant; PGR writers switch between journal-specific numeric styles.",
+      "contextNotes": "On foundation pathways into engineering, computing or medicine, introduce numeric citation alongside author–date so learners recognise both. Pre-sessional courses with discipline-specific strands should assess the style students will meet. In UG and PGT in-sessional settings, follow the department's variant; PGR writers switch between journal-specific numeric styles and mainly need reference-manager fluency.",
       "citations": [
         "ieee2023",
         "icmje2025",
@@ -2231,7 +2338,7 @@
         "partialResponse": "Elements present but with formatting errors in capitalisation, italics or DOI form.",
         "gapResponse": "Missing elements, wrong author order, or the URL of a search page instead of a DOI."
       },
-      "contextNotes": "Foundation learners should control books, journal articles and web pages. Pre-sessional courses add chapters in edited books, reports and checking of reference-manager output. UG and PGT in-sessional work extends to the department's style and the source types common in the discipline.",
+      "contextNotes": "Foundation learners should control books, journal articles and web pages. UG pre-sessional courses add chapters in edited books, reports and checking of reference-manager output; PG pre-sessional learners usually need consolidation and checking routines rather than first teaching. UG and PGT in-sessional work extends to the department's style and the source types common in the discipline.",
       "citations": [
         "apa2020",
         "mla2021",
@@ -2310,7 +2417,7 @@
         "mcadoo2023"
       ],
       "reviewNotes": [
-        "Guidance on citing generative AI output is evolving and differs between style guides; check current guidance before teaching. mcadoo2023 is a proposed reference."
+        "Guidance on citing generative AI output is evolving and differs between style guides; check the current version of the specified guide (for example the APA Style blog post, McAdoo, 2023, may since have been updated) before teaching."
       ]
     },
     {
@@ -2383,7 +2490,9 @@
         "oscola2026",
         "chicago2024"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R1-19 proposed merging cit.locators into cit.author-date-in-text. The topic ID is retained in the skeleton, so it stays separate; it is kept distinct because locators apply across all systems (author–date, numeric and notes) and to non-paginated and audiovisual sources, and it is not core at any stage, so it does not inflate core counts."
+      ]
     },
     {
       "topicId": "cit.accuracy-consistency",
@@ -2447,31 +2556,47 @@
         "partialResponse": "Finds the formal mismatches but accepts the non-existent reference.",
         "gapResponse": "Checks formatting only."
       },
-      "contextNotes": "Foundation learners focus on matching and basic details. Pre-sessional courses build systematic pre-submission checks, including reference-manager output. In UG and PGT in-sessional work, fidelity checks matter most in literature-based assignments. PGR writers manage large libraries, switch journal styles and must ensure every attributed claim is supported.",
+      "contextNotes": "Foundation learners focus on matching and basic details. UG pre-sessional courses build systematic pre-submission checks, including reference-manager output; PG pre-sessional courses add fidelity checks and checking of AI-supplied references in longer literature-based projects. In UG and PGT in-sessional work, fidelity checks matter most in literature-based assignments. PGR writers manage large libraries, switch journal styles and must ensure every attributed claim is supported.",
       "citations": [
         "apa2020",
         "walters2023"
       ],
       "reviewNotes": [
-        "The fidelity check (does the source support the claim?) slightly extends the skeleton scope note; flagged in authorNotes."
+        "The fidelity check (does the source support the claim?) slightly extends the skeleton scope note; flagged in authorNotes.",
+        "Review response: R1-19 proposed merging cit.accuracy-consistency into cit.reference-list. The topic ID is retained in the skeleton, so it stays separate; it is kept distinct because it covers checking citations against sources (fidelity), metadata errors from reference managers and fabricated AI-generated references, which go beyond compiling a list. It is core only at pre-sessional PG."
       ]
     },
     {
       "topicId": "cit.citation-functions",
-      "summary": "Petrić (2007) found that high-rated master's theses used citations for a wider range of functions, notably establishing links between sources and comparing the writer's own findings with the literature, whereas low-rated theses relied more on attribution alone. Thompson and Tribble (2001) showed how corpus analysis of citation types can inform teaching, and Hyland (1999) relates citation choices to how writers position themselves in a discipline. Teaching should move learners from 'citation as proof that I read' to 'citation as a move in my argument', using annotated expert and student texts.",
+      "summary": "Petrić (2007) found that high-rated master's theses used citations for a wider range of rhetorical functions, notably linking sources and comparing the writer's own findings with the literature, whereas attribution dominated in low-rated theses. Hyland (1999) showed how citation is central to the way disciplines build knowledge and writers position themselves, and Thompson and Tribble (2001) showed how corpus analysis of citation types can inform teaching. Teaching function gives learners a reason for every later technique — they paraphrase, quote or summarise in order to do something — and is intended to move them from 'citation as proof that I read' to 'citation as a move in my argument'. Analysis of expert and student exemplars, followed by planning source use by function in learners' own writing, makes this concrete; Petrić's study was of one field, so the association with ratings is suggestive rather than universal.",
       "activities": [
         {
-          "title": "Function labelling with a typology",
+          "title": "What is this citation doing?",
           "learnerActions": [
-            "Label each citation in an expert literature-review paragraph using a simplified published typology",
-            "Compare labels in groups and resolve disagreements by reference to the surrounding argument",
+            "Label each citation in an expert paragraph with a function from a given set (definition, support, example, contrast, method justification, evaluation, gap)",
+            "Compare labels in pairs and discuss citations that do more than one job, using the surrounding argument to decide",
             "Label citations in a higher-rated and a lower-rated student text on the same task",
             "Discuss what the higher-rated writer does with sources that the other does not"
           ],
-          "intendedInsight": "Successful writers use citations to compare, evaluate and connect, not only to attribute.",
-          "rationale": "Modelled on Petrić's comparison of high- and low-rated theses; analysing student exemplars makes the difference look achievable.",
+          "intendedInsight": "Citations perform different rhetorical jobs, and successful writers use them to compare, evaluate and connect, not only to attribute.",
+          "rationale": "Modelled on Petrić's comparison of high- and low-rated theses; analysing student exemplars alongside expert text is intended to make the difference look achievable.",
           "citations": [
             "petric2007"
+          ]
+        },
+        {
+          "title": "Source job plan",
+          "learnerActions": [
+            "Before drafting a paragraph, write the claim it will make",
+            "Assign each planned source a job (define, support, contrast, show a gap, compare with own findings)",
+            "Draft the paragraph, choosing integral or non-integral form and a reporting verb to fit each job",
+            "After drafting, check that each source did its job and that the paragraph's claim is the writer's own"
+          ],
+          "intendedInsight": "Planning source use by function keeps the writer's argument in control.",
+          "rationale": "Making function explicit at the planning stage targets the tendency Petrić observed in lower-rated theses to use citation mainly for attribution; Hyland's account of citation as positioning supports the framing. The planning routine itself is a practitioner proposal.",
+          "citations": [
+            "petric2007",
+            "hyland1999attribution"
           ]
         },
         {
@@ -2483,7 +2608,7 @@
             "Write two sentences of their own using a pattern found for comparison"
           ],
           "intendedInsight": "Citation forms and functions co-vary, and certain patterns are typical for comparing or evaluating.",
-          "rationale": "Follows Thompson and Tribble's corpus-based approach to teaching citation.",
+          "rationale": "Follows Thompson and Tribble's corpus-based approach to teaching citation; suited to PG pre-sessional and in-sessional groups.",
           "citations": [
             "thompsontribble2001"
           ]
@@ -2494,31 +2619,38 @@
           "pattern": "Source-by-source reporting: 'Smith says… Jones says… Lee says…'.",
           "kind": "developmental",
           "revealedBy": "Paragraphs organised by author with no comparison, evaluation or link to the writer's point.",
-          "response": "Treat this as a normal stage; model reorganising the paragraph around an idea. Avoid simply telling learners to 'be more critical' without showing the moves.",
+          "response": "Treat this as a normal stage; model reorganising the paragraph around an idea and the writer's claim. Avoid simply telling learners to 'be more critical' without showing the moves.",
+          "reteachPrerequisiteId": "arg.argument-concept"
+        },
+        {
+          "pattern": "'I use sources to show the marker how much I have read.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Many sources summarised one after another with no claim of the writer's own; reading lists reproduced in the text.",
+          "response": "Where previous assessments (for example exam answers or reports marked on coverage of named authorities) rewarded displaying reading, acknowledge that display has a place, then contrast a knowledge-display paragraph with an argued one and show how markers in the target context read sources as support for the writer's argument.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "'Sources are there to prove my point, so I cite only those that agree.'",
+          "kind": "conceptual",
+          "revealedBy": "No contrasting or qualifying sources in extended writing; counter-evidence absent even where the literature is divided.",
+          "response": "Introduce contrast, qualification and gap functions, and show how acknowledging and answering opposing sources strengthens an argument rather than weakening it.",
           "reteachPrerequisiteId": null
         },
         {
           "pattern": "Evaluative reporting verbs used without intending evaluation, for example 'claims' or 'admits' for neutral reporting.",
           "kind": "conceptual",
           "revealedBy": "Unintended scepticism or criticism in reporting; markers question the writer's stance.",
-          "response": "Map reporting verbs by evaluative force and have learners check whether each verb matches their actual stance.",
+          "response": "Map reporting verbs by evaluative force and have learners check whether each verb matches the function they intend for that citation.",
           "reteachPrerequisiteId": "src.reporting-verbs"
-        },
-        {
-          "pattern": "'I can't criticise published experts.'",
-          "kind": "affective",
-          "revealedBy": "Only supportive uses of citation; avoidance of evaluation or comparison.",
-          "response": "Model mitigated evaluation and comparison; show that evaluation can be positive, comparative or about applicability, and that markers expect it.",
-          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "Give a paragraph with five citations and ask the learner to label each citation's function and propose one revision that adds comparison or evaluation.",
-        "strongResponse": "Accurate labels including functions beyond attribution; the revision adds a genuine comparison or evaluation in an appropriate form.",
-        "partialResponse": "Labels everything as attribution or support; the revision changes a reporting verb but adds no new function.",
-        "gapResponse": "Cannot distinguish functions."
+        "task": "Give a paragraph with five citations and ask the learner to explain why the writer cited each source, then propose one revision that adds comparison or evaluation.",
+        "strongResponse": "Identifies varied functions (defining a term, establishing consensus, contrasting a view, justifying a method, evaluating) in relation to the paragraph's claim; the revision adds a genuine comparison or evaluation in an appropriate form.",
+        "partialResponse": "Identifies support and attribution only; the revision changes a reporting verb but adds no new function.",
+        "gapResponse": "Says the sources are cited 'to avoid plagiarism' or 'to show research', or cannot distinguish functions."
       },
-      "contextNotes": "UG in-sessional: introduce a small set of functions in literature-based assignments. PGT: dissertation literature reviews and discussion sections, especially comparing own findings with the literature. PGR: positioning a contribution and managing extensive literatures.",
+      "contextNotes": "Foundation: support, example and definition functions in short source-based paragraphs. UG pre-sessional: add contrast and simple evaluation in the extended essay. PG pre-sessional: the full range, including linking sources and planning source use by function for a literature-based project. UG in-sessional: functions in disciplinary assignments, using departmental exemplars. PGT: dissertation literature reviews and discussion sections, especially comparing own findings with the literature. PGR: positioning a contribution and managing extensive literatures.",
       "citations": [
         "petric2007",
         "thompsontribble2001",
@@ -2526,7 +2658,8 @@
         "swales1986citation"
       ],
       "reviewNotes": [
-        "Petrić's study analysed master's theses in one field; the association between function range and rating should be presented as suggestive rather than universal."
+        "Merged with src.source-functions after review (R1-15); the CEFR range was widened to B1+–C2 so that the foundation-level 'what sources do' scope and the postgraduate typology sit in one topic.",
+        "Review response: R5-01 asked for the deference pattern ('I can't criticise published experts') to be replaced here with a topic-specific difficulty; it has been replaced by the 'cite only sources that agree' and 'display of reading' patterns."
       ]
     },
     {
@@ -2585,7 +2718,7 @@
         "partialResponse": "Accurate general features without evidence or explanation.",
         "gapResponse": "Assumes generic EAP norms apply everywhere."
       },
-      "contextNotes": "In UG in-sessional work, compare a few features using departmental exemplars. PGT learners, often changing discipline, should analyse their new field's texts early. PGR writers analyse target journals and refine practice for publication.",
+      "contextNotes": "On PG pre-sessional courses with discipline strands, introduce two or three contrasting features using texts from learners' target fields. In UG in-sessional work, compare a few features using departmental exemplars. PGT learners, often changing discipline, should analyse their new field's texts early. PGR writers analyse target journals and refine practice for publication.",
       "citations": [
         "hyland1999attribution",
         "hyland2004disciplinary",
@@ -2594,6 +2727,80 @@
       ],
       "reviewNotes": [
         "Hyland's disciplinary findings derive from research articles; student genres may differ, so learners should also examine discipline-specific student exemplars."
+      ]
+    },
+    {
+      "topicId": "cit.citation-politics",
+      "summary": "Canagarajah (2002) analysed how the conventions and material conditions of academic publishing marginalise scholars working outside the centres of knowledge production, and Lillis and Curry (2010) documented how evaluation systems reward English-medium, highly indexed journals, shaping what multilingual scholars publish and where. The ACRL Framework (2016) asks learners to recognise that authority is constructed and contextual and that some voices are under-represented in scholarly communication. EAP teaching that tells learners to prefer indexed, high-impact sources can reinforce these patterns unless it also asks whose knowledge is missing. The approach proposed here, which has not been tested as an intervention, is to make these patterns visible in learners' own reading and reference lists and to treat broadening sources as a quality judgement about relevance and perspective, not a quota. How far individual citation choices can or should redress these imbalances is debated, and learners should meet that debate rather than a fixed position.",
+      "activities": [
+        {
+          "title": "Audit a reading list",
+          "learnerActions": [
+            "Take a module reading list or the reference list of their own draft",
+            "Tabulate each source's language, where the research was done, where it was published and what type of publication it is",
+            "Discuss which perspectives dominate and whether that matters for the question being asked",
+            "Identify one gap that matters for the argument and plan a search to address it"
+          ],
+          "intendedInsight": "A reference list has a shape, and that shape can reflect database coverage and habit as much as relevance.",
+          "rationale": "Making the patterns analysed by Canagarajah and by Lillis and Curry visible in learners' own materials connects a structural argument to an everyday choice; the activity is a practitioner proposal.",
+          "citations": [
+            "canagarajah2002",
+            "lilliscurry2010"
+          ]
+        },
+        {
+          "title": "Beyond the first page of results",
+          "learnerActions": [
+            "Run the same search in a major multidisciplinary index and in a regional or subject database, repository or the website of an organisation in the context studied",
+            "Compare what each returns and note sources that appear in only one",
+            "Apply the same evaluation criteria (authority, method, relevance, currency) to a source found only outside the major index",
+            "Decide whether to cite it and write one sentence justifying the decision"
+          ],
+          "intendedInsight": "Visibility in a search is not the same as quality or relevance; every source, wherever it is found, is judged on the same criteria.",
+          "rationale": "Applies the ACRL frames on constructed authority and strategic exploration to source selection, and is intended to guard against both prestige bias and token inclusion.",
+          "citations": [
+            "acrl2016"
+          ]
+        }
+      ],
+      "difficulties": [
+        {
+          "pattern": "'Only high-impact international journals count as good sources.'",
+          "kind": "overgeneralisation",
+          "revealedBy": "Reference lists drawn only from the top results of one major database; relevant regional studies or reports from the context studied dismissed without being evaluated.",
+          "response": "Separate the indicators (indexing, impact factor, citation counts) from the criteria they stand in for (peer review, sound method, relevance), and show cases where the most relevant evidence comes from a regional journal or an organisation in the context studied. Do not replace one rule with another: the aim is evaluation, not a quota.",
+          "reteachPrerequisiteId": "inf.source-evaluation"
+        },
+        {
+          "pattern": "Learners who know relevant scholarship from their own region or in another language leave it out because they think it will be seen as less academic.",
+          "kind": "institutional",
+          "revealedBy": "Questions about whether such sources are 'allowed'; reading lists, model answers and exemplars that contain no such sources.",
+          "response": "Make the expectation explicit: in many assignments relevant scholarship from any region or language is welcome if it is evaluated and cited properly. Module teams can check whether reading lists, exemplars and feedback signal otherwise. Point learners to the guide's rules for citing translated and non-English sources.",
+          "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Adding sources from under-represented regions or languages to tick a box, without reading or using them.",
+          "kind": "conceptual",
+          "revealedBy": "Sources listed but not discussed, or cited for claims they do not make.",
+          "response": "Return to what each source does in the argument: broadening a reference list is part of answering the question better, so every added source needs a job and a fair reading.",
+          "reteachPrerequisiteId": "cit.why-cite"
+        }
+      ],
+      "diagnostic": {
+        "task": "Ask: 'Your reference list contains only journal articles from the UK and the USA, but your essay is about primary healthcare in Vietnam. Is that a problem, and what would you do?'",
+        "strongResponse": "Says it depends on the question but that research from the context studied is likely to be relevant; names concrete ways to find it (regional databases, government or NGO reports, sources in other languages); would evaluate it with the same criteria; justifies the final selection.",
+        "partialResponse": "Recognises the imbalance but would add sources without saying how they would be found or evaluated, or assumes they would be of lower quality.",
+        "gapResponse": "Sees no issue, or treats journal prestige or indexing as the only criterion."
+      },
+      "contextNotes": "At foundation level, keep to noticing: whose voices are in this reading list, and are any from the place the topic is about? On UG pre-sessional courses, link to source evaluation in the extended project. On PG pre-sessional courses, add how databases and rankings shape visibility and how to search beyond the major indexes. In UG and PGT in-sessional work, connect to departmental reading lists, curriculum initiatives on whose knowledge is taught where they exist, and the dissertation literature review. For PGR writers, connect to positioning within a field, centre–periphery dynamics in publishing and citing multilingual scholarship. In EMI and transnational settings, local scholarship may be central rather than peripheral, and expectations differ between institutions and countries.",
+      "citations": [
+        "canagarajah2002",
+        "lilliscurry2010",
+        "acrl2016"
+      ],
+      "reviewNotes": [
+        "New topic added in response to R5-14. The bibliography has no bibliometric study of database coverage or citation inequality; claims are therefore limited to what Canagarajah (2002), Lillis and Curry (2010) and the ACRL Framework support, and should be strengthened if a verified bibliometric source is added.",
+        "Suggested edges for other groups (not added here because they belong to other files): res.literature-review <- cit.citation-politics (soft) and a related-topic link with acu.critical-eap."
       ]
     },
     {
@@ -2659,7 +2866,7 @@
         "partialResponse": "Says the AI 'makes mistakes' but cannot explain why.",
         "gapResponse": "Believes the AI looks references up, so they must exist."
       },
-      "contextNotes": "Foundation and pre-sessional: simple accounts and hands-on demonstrations. UG and PGT in-sessional: discipline-specific failure modes, such as calculations, code or legal citations. PGR: limits in specialised domains, retrieval-augmented tools and research applications.",
+      "contextNotes": "Foundation and UG pre-sessional: simple accounts and hands-on demonstrations. PG pre-sessional: add retrieval-based tools and the implications for reading and literature work. UG and PGT in-sessional: discipline-specific failure modes, such as calculations, code or legal citations. PGR: revisit for limits in specialised domains and research applications.",
       "citations": [
         "bender2021",
         "kasneci2023",
@@ -2739,7 +2946,7 @@
         "perkins2024aias"
       ],
       "reviewNotes": [
-        "Institutional policies change frequently; examples should be refreshed each year. perkins2024aias is a proposed reference."
+        "Institutional policies change frequently; examples should be refreshed each year."
       ]
     },
     {
@@ -2766,10 +2973,10 @@
             "Set up a simple log (date, tool, prompt, what was used, what was changed)",
             "Use it during one assignment",
             "Review it to write the declaration",
-            "Discuss how it could serve as evidence of their process if questioned"
+            "Discuss what the log shows about how their use of the tool changed during the assignment"
           ],
-          "intendedInsight": "Records make declarations accurate and protect the writer.",
-          "rationale": "Logging supports transparency and self-regulation.",
+          "intendedInsight": "Records make declarations accurate and help writers reflect on how AI shaped their work.",
+          "rationale": "Logging supports transparency and self-regulation; it is intended as ordinary practice, since establishing misconduct remains the institution's responsibility.",
           "citations": []
         }
       ],
@@ -2802,14 +3009,14 @@
         "partialResponse": "Mentions the tool but not purpose or stage.",
         "gapResponse": "Vague or absent."
       },
-      "contextNotes": "Foundation and pre-sessional: simple declarations and logs. UG and PGT in-sessional: module requirements and citation formats. PGR: journal and publisher disclosure statements and authorship norms.",
+      "contextNotes": "Foundation and UG pre-sessional: simple declarations and logs for each task. PG pre-sessional: more detailed declarations for extended work and an introduction to publisher disclosure norms. UG and PGT in-sessional: module requirements and citation formats. PGR: journal and publisher disclosure statements and authorship norms.",
       "citations": [
         "icmje2025",
         "perkins2023",
         "mcadoo2023"
       ],
       "reviewNotes": [
-        "mcadoo2023 is a proposed reference. Declaration formats vary by institution."
+        "Declaration formats vary by institution, and style-guide advice on citing AI (for example McAdoo, 2023) is updated periodically; check current versions."
       ]
     },
     {
@@ -2874,7 +3081,7 @@
         "partialResponse": "Finds the fabricated one but misses the erroneous details.",
         "gapResponse": "Accepts all three as given."
       },
-      "contextNotes": "Foundation and pre-sessional: reference and fact checks with guided searching. UG and PGT in-sessional: checking summaries and disciplinary claims. PGR: verification within literature reviews and research writing.",
+      "contextNotes": "Foundation and UG pre-sessional: reference and fact checks with guided searching. PG pre-sessional: verifying AI-supplied references and summaries before they enter a literature-based project. UG and PGT in-sessional: checking summaries and disciplinary claims. PGR: verification within literature reviews and research writing.",
       "citations": [
         "walters2023",
         "wineburg2019",
@@ -2887,8 +3094,23 @@
     },
     {
       "topicId": "gai.language-support",
-      "summary": "Kasneci et al. (2023) identify language feedback and personalised practice as promising educational uses of LLMs, alongside the risk of over-reliance. Research on automated writing evaluation suggests that automated feedback works best as one input among others, mediated by teachers and learners' judgement (Stevenson, 2016), and corrective-feedback research suggests that feedback which requires learners to notice and correct their own errors may support longer-term development (Bitchener & Ferris, 2012). Teaching should therefore steer learners towards explanation-seeking uses and checking AI suggestions, not wholesale rewriting.",
+      "summary": "Kasneci et al. (2023) and UNESCO (2023) identify explanation, feedback and personalised practice as promising educational uses of generative AI, alongside the risk that it substitutes for learners' own thinking. Self-regulated learning research (Zimmerman, 2002) offers a frame: using AI for learning means setting a goal, monitoring understanding during the interaction and evaluating afterwards without the tool. Research on automated writing evaluation suggests that automated feedback is best treated as one input among others, mediated by teachers' and learners' judgement (Stevenson, 2016), and corrective-feedback research suggests that feedback requiring learners to notice and correct their own errors may support longer-term development (Bitchener & Ferris, 2012). Teaching should therefore contrast learning-oriented and output-oriented prompts, steer learners towards explanation-seeking uses, and build in unassisted checks.",
       "activities": [
+        {
+          "title": "Two prompts, two outcomes",
+          "learnerActions": [
+            "Write an output prompt and a learning prompt (asking to be questioned, given an explanation at their level, or set practice) for the same task",
+            "Run both and compare what they would learn from each",
+            "Explain the concept or answer the practice questions afterwards without the tool",
+            "Refine the learning prompt, adding level, context and constraints where the output was generic or too advanced"
+          ],
+          "intendedInsight": "The same tool can replace or support thinking depending on the prompt, and an unassisted check shows which happened.",
+          "rationale": "Contrast makes the difference concrete, and the unassisted explanation enacts the self-evaluation phase of self-regulated learning; the activity is a proposal rather than a tested intervention.",
+          "citations": [
+            "kasneci2023",
+            "zimmerman2002"
+          ]
+        },
         {
           "title": "Explain, don't fix",
           "learnerActions": [
@@ -2897,8 +3119,8 @@
             "Compare with the tool's correction and evaluate any differences",
             "Record recurring error types in a log"
           ],
-          "intendedInsight": "Locating and explaining errors builds competence in a way that silent correction does not.",
-          "rationale": "Mirrors indirect corrective feedback, which requires the learner to process the error.",
+          "intendedInsight": "Locating and explaining errors requires the learner to process them in a way that silent correction does not.",
+          "rationale": "Mirrors indirect corrective feedback, which requires the learner to process the error; whether AI-delivered feedback has the same effects is not yet established.",
           "citations": [
             "bitchenerferris2012"
           ]
@@ -2912,7 +3134,7 @@
             "Discuss cases where the tool changed meaning or hedging"
           ],
           "intendedInsight": "AI suggestions can damage meaning and stance and need evaluating.",
-          "rationale": "Treats AI feedback as one input among others, as recommended for automated writing evaluation.",
+          "rationale": "Treats AI feedback as one input among others, as Stevenson's synthesis suggests for automated writing evaluation.",
           "citations": [
             "stevenson2016"
           ]
@@ -2927,33 +3149,49 @@
           "reteachPrerequisiteId": "fbk.corrective-feedback"
         },
         {
-          "pattern": "Using AI to rewrite rather than to learn.",
+          "pattern": "Prompts that ask for answers or finished text, so the tool rewrites rather than teaches.",
+          "kind": "developmental",
+          "revealedBy": "Assisted texts improve while unassisted writing does not; learners cannot explain content they 'studied' with AI.",
+          "response": "Teach learning-oriented prompt patterns, set explanation-only prompts for practice tasks, and build in unassisted checks and goal-setting. Avoid blanket bans, which push use out of sight rather than changing it.",
+          "reteachPrerequisiteId": "lrn.self-regulation"
+        },
+        {
+          "pattern": "Accepting a generic or over-advanced explanation without iterating.",
           "kind": "performance",
-          "revealedBy": "Assisted texts improve while unassisted writing does not.",
-          "response": "Build in unassisted checks and goal-setting; set explanation-only prompts.",
+          "revealedBy": "Learners report confusion after using AI but do not refine the prompt.",
+          "response": "Model iteration: specifying level, examples and the learner's current understanding, and asking the tool to check that understanding with a question.",
+          "reteachPrerequisiteId": "gai.how-genai-works"
+        },
+        {
+          "pattern": "Learners have unequal access to capable tools, or to tools permitted in their location or by their institution.",
+          "kind": "institutional",
+          "revealedBy": "Some learners rely on free or restricted versions, or avoid AI-based practice altogether; tasks assume access to a particular paid product.",
+          "response": "Design practice tasks that work with institutionally licensed or free tools and offer non-AI alternatives; do not assess learners on the quality of output from tools they cannot equally access.",
           "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "Ask the learner to show the prompt they would use to get help with articles in a paragraph without breaching a 'no rewriting' rule.",
-        "strongResponse": "Asks for errors to be located and explained without corrections, and plans to self-correct.",
-        "partialResponse": "Asks for corrections but would review them.",
-        "gapResponse": "Asks the tool to rewrite the paragraph."
+        "task": "Ask the learner to show the prompt they would use to understand a difficult concept from a lecture, and the prompt they would use to get help with articles in a paragraph without breaching a 'no rewriting' rule.",
+        "strongResponse": "Specifies level and context, asks for explanation, questions or located errors rather than corrections, and plans a self-test or self-correction without the tool.",
+        "partialResponse": "Asks for an explanation or corrections without constraints or a follow-up, but would review the output.",
+        "gapResponse": "Asks for a summary, an answer to submit or a rewritten paragraph."
       },
-      "contextNotes": "Foundation and pre-sessional: guided, explanation-focused uses within course rules. UG and PGT in-sessional: discipline-specific language and checking terminology. PGR: editing support within publisher rules, with attention to preserving voice.",
+      "contextNotes": "Foundation and pre-sessional: structured prompt patterns and explanation-focused uses linked to course content and within course rules; PG pre-sessional learners can add counter-argument and reading-comprehension uses. UG and PGT in-sessional: discipline-specific language, checking terminology and learning uses within module rules. PGR: revisit for testing arguments, exploring unfamiliar fields and editing support within publisher rules, with attention to preserving voice. For some learners, including those with dyslexia or ADHD, AI tools may support reading and drafting in ways that function as reasonable adjustments; follow institutional guidance and accept these uses where permitted.",
       "citations": [
         "kasneci2023",
+        "unesco2023",
+        "zimmerman2002",
         "stevenson2016",
-        "bitchenerferris2012",
-        "schmidt1990"
+        "bitchenerferris2012"
       ],
       "reviewNotes": [
-        "Evidence on the learning effects of generative AI feedback for L2 writers is emerging; the activities are proposals extrapolated from AWE and corrective-feedback research."
+        "Merged with gai.prompting-for-learning after review (R1-17).",
+        "Evidence on the learning effects of generative AI feedback and AI-supported study for L2 writers is emerging and mixed; the activities are proposals extrapolated from AWE, corrective-feedback and self-regulated learning research."
       ]
     },
     {
       "topicId": "gai.authorship-voice",
-      "summary": "Ivanič (1998) shows how academic writing constructs the writer's identity, and Hyland (2002) how authorial presence is negotiated through specific linguistic choices; AI editing can override these choices, replacing a learner's stance and hedging with generic phrasing. Perkins (2023) raises questions of authorship and the representation of student ability when LLMs are used. Teaching should treat authorship as accountability for ideas, reasoning and words, and help learners notice what AI changes in their texts.",
+      "summary": "Ivanič (1998) shows how academic writing constructs the writer's identity, and Hyland (2002) how authorial presence is negotiated through specific linguistic choices; AI editing can override these choices, replacing a learner's stance and hedging with generic phrasing. Perkins (2023) raises questions of authorship and the representation of student ability when LLMs are used. Where acceptable assistance ends is contested: multilingual scholars have long relied on literacy brokers who shape their texts for publication (Lillis & Curry, 2010), and AI language polishing can be seen as extending such help more widely, while others argue that it obscures what a learner can do. Teaching should present this as an open question, treat authorship as accountability for ideas, reasoning and words, tie the boundary to the purpose and policy of each task, and help learners notice what AI changes in their texts.",
       "activities": [
         {
           "title": "Before and after",
@@ -2973,15 +3211,16 @@
         {
           "title": "Where is the line?",
           "learnerActions": [
-            "Discuss five scenarios of increasing AI involvement",
-            "Decide for each whether the work is still the learner's own and why",
-            "Relate decisions to what the assessment is meant to show",
-            "Write a personal AI-use statement for their programme"
+            "Discuss five scenarios of increasing AI involvement, from spelling correction to drafting whole paragraphs",
+            "Decide for each whether the work is still the learner's own and why, under a language-focused task and under a content-focused task",
+            "Consider the equity argument that AI polishing resembles help from proofreaders and literacy brokers, and the counter-arguments",
+            "Write a personal AI-use statement for their programme that refers to the policy"
           ],
-          "intendedInsight": "Authorship is about whose reasoning and words are presented, judged against the purpose of the task.",
-          "rationale": "Builds a principled boundary rather than a list of prohibitions.",
+          "intendedInsight": "Authorship is about whose reasoning and words are presented, judged against the purpose and rules of the task, and reasonable people disagree about where the line falls.",
+          "rationale": "Builds a principled boundary rather than a list of prohibitions; Perkins raises the authorship questions and Lillis and Curry's account of literacy brokering supplies the equity comparison.",
           "citations": [
-            "perkins2023"
+            "perkins2023",
+            "lilliscurry2010"
           ]
         }
       ],
@@ -3007,15 +3246,17 @@
         "partialResponse": "Notes stylistic differences only.",
         "gapResponse": "Prefers the AI version without analysis."
       },
-      "contextNotes": "Pre-sessional: the relationship between voice and assessment. UG and PGT in-sessional: discipline-specific stance and positioning. PGR: authorship in publications and theses, including disclosure norms.",
+      "contextNotes": "UG pre-sessional: the relationship between voice and assessment in language-focused tasks. PG pre-sessional: the same, plus an introduction to authorship in research writing. UG and PGT in-sessional: discipline-specific stance and positioning, and how content-focused modules set the line. PGR: authorship in publications and theses, including disclosure norms and the role of editors and literacy brokers.",
       "citations": [
         "ivanic1998",
         "hyland2002authority",
         "perkins2023",
-        "icmje2025"
+        "icmje2025",
+        "lilliscurry2010"
       ],
       "reviewNotes": [
-        "Claims about the homogenising effect of AI editing on stance are based on practitioner observation; frame them as a risk to check rather than an established finding."
+        "Claims about the homogenising effect of AI editing on stance are based on practitioner observation; frame them as a risk to check rather than an established finding.",
+        "Review response: R5-05 (AI authorship as contested; equity argument; no false reassurance about marking) is addressed in the description, mastery evidence, summary, the 'Where is the line?' activity and both difficulty responses."
       ]
     },
     {
@@ -3025,27 +3266,27 @@
         {
           "title": "What the detector sees",
           "learnerActions": [
-            "Read a plain-language summary of Liang et al.'s study",
+            "Read a plain-language summary of Liang et al.'s study, including who wrote the comparison essays",
             "Discuss why simpler or more formulaic writing may score as more 'predictable'",
             "Consider what this means for multilingual writers and for fairness",
-            "List the evidence a writer could provide of their own process"
+            "Discuss what an institution would need to show before treating work as AI-generated, and what rights a writer has to see and respond to that case"
           ],
-          "intendedInsight": "Detectors can penalise exactly the writing patterns common in developing L2 writers.",
+          "intendedInsight": "Detectors can misclassify writing patterns common among developing writers, including many multilingual writers, which is why scores cannot be treated as evidence.",
           "rationale": "Directly based on Liang et al.'s findings on detector bias.",
           "citations": [
             "liang2023"
           ]
         },
         {
-          "title": "Build a process trail",
+          "title": "Keep a writing trail as good practice",
           "learnerActions": [
-            "Set up version history in their word processor",
+            "Turn on version history in their word processor",
             "Keep notes, outlines and drafts for one assignment",
-            "Review the trail at the end",
-            "Discuss how it could be used if work were questioned"
+            "Review the trail at the end to see how the text developed",
+            "Discuss how drafts support planning and reflection, and how they could help a writer explain their process if asked"
           ],
-          "intendedInsight": "Process evidence is more informative than detector scores.",
-          "rationale": "Given detector unreliability, process evidence is the learner's best protection.",
+          "intendedInsight": "Keeping drafts is ordinary good practice; it can help writers give an account of their work, but it is not a duty to prove innocence.",
+          "rationale": "Weber-Wulff et al.'s finding that detection tools are neither accurate nor reliable means detector output cannot carry evidential weight; the burden of establishing misconduct lies with the institution, and process records are framed here as a learning habit, not a defence obligation.",
           "citations": [
             "weberwulff2023"
           ]
@@ -3056,31 +3297,38 @@
           "pattern": "'I must make my writing sound less like AI.'",
           "kind": "affective",
           "revealedBy": "Learners deliberately complicating their style or using 'humanising' tools.",
-          "response": "Explain detector limits and the integrity and quality risks of such tools; focus on process evidence.",
+          "response": "Explain detector limits and the integrity and quality risks of such tools; reassure learners that writing clearly in their own way is not evidence of anything, and that institutions, not learners, must establish misconduct.",
           "reteachPrerequisiteId": "gai.how-genai-works"
         },
         {
           "pattern": "'The detector proves it.'",
           "kind": "conceptual",
           "revealedBy": "Belief that scores are definitive, among learners and sometimes peers.",
-          "response": "Present the evidence on false positives and the role of human judgement.",
+          "response": "Present the evidence on false positives and the role of human judgement, using the parallel with similarity reports.",
           "reteachPrerequisiteId": "int.similarity-reports"
+        },
+        {
+          "pattern": "A tutor or panel treats a detector score, or a difference between in-class and submitted writing, as evidence of AI use.",
+          "kind": "institutional",
+          "revealedBy": "Allegations based on a score alone; learners asked to prove they wrote their work; multilingual writers over-represented among those questioned.",
+          "response": "For institutions and teachers: detector output and style differences are not evidence on their own, timed in-class writing is usually weaker than drafted work, and the burden of proof lies with the institution. For learners: know the right to see the evidence, to respond with support and to seek independent advice.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
         "task": "Ask: 'Can an AI detector prove that someone used AI?'",
-        "strongResponse": "No: explains false positives and negatives and the documented bias, and says that human judgement and process evidence matter.",
+        "strongResponse": "No: explains false positives and negatives and the documented bias, and says that human judgement weighs any indicator and that the institution must establish misconduct.",
         "partialResponse": "Says detectors are 'not perfect' without explanation.",
         "gapResponse": "Says yes."
       },
-      "contextNotes": "Foundation and pre-sessional: reassurance and process evidence, since learners are often anxious. UG and PGT in-sessional: understanding institutional processes. PGR: implications for theses and publications.",
+      "contextNotes": "Foundation and pre-sessional: reassurance, rights and ordinary drafting habits, since learners are often anxious; PG pre-sessional learners can read the studies themselves. UG and PGT in-sessional: how institutional processes treat indicators, and learners' rights within them. PGR: implications for theses and publications, including journal screening.",
       "citations": [
         "liang2023",
         "perkins2023",
         "weberwulff2023"
       ],
       "reviewNotes": [
-        "Detection technology and institutional use change; weberwulff2023 is a proposed reference. Institutions differ in whether they use detectors at all."
+        "Detection technology and institutional use change, and institutions differ in whether they use detectors at all; refresh examples regularly."
       ]
     },
     {
@@ -3138,7 +3386,7 @@
         "partialResponse": "Mentions verification but would rely on the tool's summaries.",
         "gapResponse": "Would use the tool to write the review."
       },
-      "contextNotes": "UG in-sessional: orientation uses with verification. PGT: dissertation literature searching and documentation. PGR: systematic and scoping reviews, where reproducibility requirements may limit AI use.",
+      "contextNotes": "PG pre-sessional: a first, supervised look at discovery tools alongside database searching. UG in-sessional: orientation uses with verification. PGT: dissertation literature searching and documentation. PGR: systematic and scoping reviews, where reproducibility requirements may limit AI use.",
       "citations": [
         "walters2023",
         "unesco2023",
@@ -3203,7 +3451,7 @@
         "partialResponse": "Sees a problem but cannot say why.",
         "gapResponse": "Sees no problem."
       },
-      "contextNotes": "UG in-sessional: uploading readings and peers' work. PGT: dissertation data and ethics. PGR: research data, peer review confidentiality and intellectual property in publications and patents.",
+      "contextNotes": "PG pre-sessional: an introduction to what may be uploaded, using coursework and readings. UG in-sessional: uploading readings and peers' work. PGT: dissertation data and ethics. PGR: research data, peer review confidentiality and intellectual property in publications and patents.",
       "citations": [
         "unesco2023",
         "kasneci2023",
@@ -3269,12 +3517,14 @@
         "partialResponse": "Names a value with a generic example and little explanation.",
         "gapResponse": "Cannot link values to practice, or equates integrity with not getting caught."
       },
-      "contextNotes": "Foundation and pre-sessional: introduce early and positively, linked to the course's own expectations. UG and PGT in-sessional: link to professional codes in the discipline, such as health or engineering. PGR: connect to research integrity and responsibilities to participants and the field.",
+      "contextNotes": "Foundation: introduce early and positively, linked to the course's own expectations. Pre-sessional: brief, values-led framing of the course's integrity expectations. UG and PGT in-sessional: revisit through professional codes in the discipline, such as health or engineering. Research students' needs are covered by int.research-integrity rather than here.",
       "citations": [
         "icai2021",
         "bretag2016"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R1-06 asked for pgr to be removed from this B1–B2+ topic; done, with doctoral needs covered by int.research-integrity."
+      ]
     },
     {
       "topicId": "int.plagiarism",
@@ -3415,15 +3665,13 @@
         "partialResponse": "Knows there are limits but cannot say where to check.",
         "gapResponse": "Assumes reuse is always acceptable because the work is their own."
       },
-      "contextNotes": "UG in-sessional: resubmission rules, especially for students repeating modules or moving from foundation or pre-sessional programmes. PGT: reuse between assignments and the dissertation. PGR: text recycling in theses by publication, articles and grant applications.",
+      "contextNotes": "PG pre-sessional: an introduction to resubmission rules before the degree. UG in-sessional: resubmission rules, especially for students repeating modules or moving from foundation or pre-sessional programmes. PGT: reuse between assignments and the dissertation. PGR: text recycling in theses by publication, articles and grant applications; the genre work of turning thesis chapters into articles is covered in pub.thesis-to-article.",
       "citations": [
         "icmje2025",
         "bretag2016",
         "bretagmahmud2009"
       ],
-      "reviewNotes": [
-        "bretagmahmud2009 is a proposed reference and must be verified before publication."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "int.collusion",
@@ -3562,7 +3810,7 @@
         "bretag2016"
       ],
       "reviewNotes": [
-        "bretag2019 and newton2018 are proposed references and must be verified. The blackmail risk is widely reported in sector guidance but currently has no listed source; add one (for example QAA guidance on contract cheating) before publication. Verify the legislative statement and jurisdictions before publication."
+        "The blackmail and data-misuse risks are widely reported in sector guidance but are not documented by a listed source; present them as reported risks. Legislation on contract cheating services differs by jurisdiction and changes; check the current position for the teaching context."
       ]
     },
     {
@@ -3628,7 +3876,7 @@
         "partialResponse": "Knows a percentage is not a verdict but cannot explain how to interpret matches.",
         "gapResponse": "Treats the percentage as a verdict."
       },
-      "contextNotes": "Foundation and pre-sessional: formative use of reports where permitted, with teacher-guided interpretation. UG and PGT in-sessional: department practices and understanding what happens when a report raises concern. PGR: thesis and publication screening, including matches to the writer's own earlier outputs.",
+      "contextNotes": "Foundation: teacher-guided interpretation of sample reports. UG pre-sessional: formative use of reports on the learner's own drafts where permitted. PG pre-sessional: interpretation in longer literature-based work, and how reports are used in degree programmes. UG and PGT in-sessional: department practices and what happens when a report raises concern; a score never establishes misconduct. PGR: thesis and publication screening, including matches to the writer's own earlier outputs.",
       "citations": [
         "pecorari2013",
         "bretag2016",
@@ -3640,17 +3888,17 @@
     },
     {
       "topicId": "int.policy-processes",
-      "summary": "Learners often discover integrity procedures only when facing a concern about their work, when anxiety and unfamiliar terminology can lead to poor decisions. Bretag et al. (2014) found variation in students' awareness of integrity policy and support and argued for educative approaches, and making the process explicit is part of that education. Because procedures, terminology and outcomes vary between institutions, teaching should be built around the learner's own institution's documents and support services.",
+      "summary": "Learners often discover integrity procedures only when facing a concern about their work, when anxiety and unfamiliar terminology can lead to poor decisions. Bretag et al. (2014) found variation in students' awareness of integrity policy and support and argued for educative approaches, and making the process explicit is part of that education. Multilingual students are disproportionately exposed to false positives from similarity and detection software, so knowing procedural rights matters: the institution must establish any allegation, software indicators and differences in style are not evidence on their own, and students should be able to see the evidence and respond in a usable language and format. Because procedures, terminology and outcomes vary between institutions, teaching should be built around the learner's own institution's documents and support services.",
       "activities": [
         {
           "title": "Policy scavenger hunt",
           "learnerActions": [
             "Locate the institution's integrity policy and a module's assessment rules",
-            "Find answers to set questions: definitions, stages, who decides, possible outcomes, rights to support and appeal",
-            "Summarise the process as a flowchart",
+            "Find answers to set questions: definitions, stages, who decides and on what evidence, possible outcomes, and rights to see the evidence, respond, be accompanied, request language support or adjustments, and appeal",
+            "Summarise the process as a flowchart that marks each right and support point",
             "Compare flowcharts in groups and correct errors"
           ],
-          "intendedInsight": "The process is knowable, staged and includes rights and support.",
+          "intendedInsight": "The process is knowable and staged, and it includes rights and support at each stage.",
           "rationale": "Explicit engagement with the real policy addresses the uneven policy awareness reported in survey research.",
           "citations": [
             "bretag2014"
@@ -3660,9 +3908,9 @@
           "title": "Responding to a meeting invitation",
           "learnerActions": [
             "Read a constructed invitation letter",
-            "Identify the concern, the deadline and the support available",
-            "List evidence of their writing process that could be relevant (notes, drafts, version history)",
-            "Draft a short, factual reply confirming attendance and requesting any needed information"
+            "Identify the concern, the evidence referred to, the deadline and the support available",
+            "List what they are entitled to ask for: the evidence, the relevant policy, an explanation of any software indicator, an adviser, interpreting or accessible formats",
+            "Draft a short, factual reply confirming attendance and requesting the information and support they need"
           ],
           "intendedInsight": "A calm, prompt and factual response, with support, is in the student's interest.",
           "rationale": "Rehearsing the genre before it is needed is intended to reduce anxiety and support appropriate formality (a practitioner proposal); Bretag (2016) is cited for the educative approach to integrity, not for this effect.",
@@ -3683,7 +3931,7 @@
           "pattern": "'The software has already decided I'm guilty.'",
           "kind": "conceptual",
           "revealedBy": "Belief that a similarity or AI-detection score is the verdict.",
-          "response": "Explain the role of academic judgement and the evidence considered in the process.",
+          "response": "Explain the role of academic judgement, that indicators and differences in style are not evidence of misconduct on their own, and the learner's right to see and respond to the evidence.",
           "reteachPrerequisiteId": "int.similarity-reports"
         },
         {
@@ -3692,26 +3940,34 @@
           "revealedBy": "Draft replies with inappropriate tone or claims not supported by evidence.",
           "response": "Model a factual, courteous register and advise seeking support before writing statements.",
           "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Invitation letters written in dense regulatory language, with short deadlines and no mention of evidence, support, interpreting or adjustments.",
+          "kind": "institutional",
+          "revealedBy": "Learners unable to say what is alleged or what they may bring; requests for help decoding the letter.",
+          "response": "Institutions should state the concern, the evidence, the timeline and the learner's rights in plain language and accessible formats. Teachers can help learners decode letters and request clarification, more time or support, and should point them to independent advice.",
+          "reteachPrerequisiteId": "voc.university-terminology"
         }
       ],
       "diagnostic": {
-        "task": "Ask: 'Where would you find your institution's academic integrity policy, and what are the main stages if a concern is raised?'",
-        "strongResponse": "Locates the policy and summarises its stages, support and appeal rights accurately.",
-        "partialResponse": "Knows the policy exists but describes the process vaguely.",
-        "gapResponse": "Does not know where the policy is or assumes outcomes are automatic."
+        "task": "Ask: 'Where would you find your institution's academic integrity policy, what are the main stages if a concern is raised, and what are you entitled to see and ask for?'",
+        "strongResponse": "Locates the policy and summarises its stages, who must establish the case, and the rights to see the evidence, respond with support and appeal.",
+        "partialResponse": "Knows the policy exists but describes the process or rights vaguely.",
+        "gapResponse": "Does not know where the policy is, assumes outcomes are automatic, or believes the student must prove their innocence."
       },
-      "contextNotes": "Foundation and pre-sessional: overview of the process and support, with emphasis on prevention and on how the next institution's policy may differ. UG and PGT in-sessional: module-level rules and processes. PGR: research misconduct procedures, which are usually separate from student misconduct procedures.",
+      "contextNotes": "Foundation: an overview of the process, rights and support, with emphasis on prevention. UG pre-sessional: the policies and rights that will apply in the degree, and how they may differ from the pre-sessional provider's. PG pre-sessional: the same, plus how integrity processes interact with AI-use declarations in extended work. UG and PGT in-sessional: module-level rules and processes. PGR: research misconduct procedures, which are usually separate from student misconduct procedures. Rights, terminology and routes vary: some systems have an external complaints body after internal procedures (for example the Office of the Independent Adjudicator for students at universities in England and Wales). Disabled learners may need adjustments to meetings, such as questions in writing in advance.",
       "citations": [
         "bretag2014",
         "bretag2016"
       ],
       "reviewNotes": [
-        "Terminology (for example 'academic misconduct', 'poor academic practice') and procedures vary substantially between institutions; examples should be localised."
+        "Terminology (for example 'academic misconduct', 'poor academic practice') and procedures vary substantially between institutions; examples should be localised.",
+        "Review response: R5-04 procedural rights are added to the description, mastery evidence, assessment prompt, summary, activities and an institutional difficulty."
       ]
     },
     {
       "topicId": "int.pressure-risks",
-      "summary": "Integrity breaches are often decisions made under acute pressure rather than planned deception. Bretag et al. (2019) associated contract cheating with perceived opportunity and dissatisfaction with the teaching and learning environment, which points to conditions and support as levers for prevention. Self-regulated learning research (Zimmerman, 2002) supports the planning and monitoring that reduce the crises in which shortcuts become tempting. Teaching should normalise asking for extensions and support and make procedures concrete before learners need them.",
+      "summary": "Integrity breaches are often decisions made under acute pressure rather than planned deception. Bretag et al. (2019) associated contract cheating with perceived opportunity and dissatisfaction with the teaching and learning environment, which points to institutional conditions and support, not only individual choices, as levers for prevention. Self-regulated learning research (Zimmerman, 2002) supports the planning and monitoring that can reduce the crises in which shortcuts become tempting. Teaching should normalise asking for extensions and support and make procedures concrete before learners need them, while teachers and programme teams check that briefs are clear, deadlines are not needlessly bunched and support is easy to find.",
       "activities": [
         {
           "title": "Deadline map",
@@ -3751,7 +4007,7 @@
         {
           "pattern": "Not knowing that extenuating-circumstances processes exist, or missing their deadlines.",
           "kind": "prior-schooling",
-          "revealedBy": "Late claims; surprise that support was available.",
+          "revealedBy": "Late claims; surprise that support was available, especially among learners whose previous institutions had no equivalent procedure.",
           "response": "Teach the procedures explicitly early in the course.",
           "reteachPrerequisiteId": "lrn.support-services"
         },
@@ -3761,6 +4017,13 @@
           "revealedBy": "Work submitted at the deadline; patterns of late-night drafting.",
           "response": "Use milestone planning and check-ins; avoid moralising, which does not change planning behaviour.",
           "reteachPrerequisiteId": "lrn.time-management"
+        },
+        {
+          "pattern": "Unclear briefs, deadlines bunched across modules, and support that is hard to find or offered only at times or in formats some learners cannot use.",
+          "kind": "institutional",
+          "revealedBy": "Many learners in a cohort asking the same clarification questions; requests for extensions clustering around the same week; low uptake of support by part-time, commuting or disabled learners.",
+          "response": "For programme teams: clarify briefs, coordinate deadlines and publicise support in accessible formats and at accessible times. For learners: name the problem and ask for clarification or adjustment early, which is a legitimate request rather than special pleading.",
+          "reteachPrerequisiteId": "prg.requests"
         }
       ],
       "diagnostic": {
@@ -3769,14 +4032,14 @@
         "partialResponse": "Would email the tutor but does not know the formal procedure.",
         "gapResponse": "Would try to finish somehow or does not know any options."
       },
-      "contextNotes": "Foundation and pre-sessional: introduce procedures early; pre-sessional deadlines are intense and progression stakes are high. UG and PGT in-sessional: dissertation periods, part-time work and caring responsibilities. PGR: long-term workload, supervision relationships and wellbeing.",
+      "contextNotes": "Foundation and pre-sessional: introduce procedures early; pre-sessional deadlines are intense and progression stakes are high, and PG pre-sessional learners often combine study with work or family responsibilities. UG and PGT in-sessional: dissertation periods, part-time work and caring responsibilities. PGR: revisit for long-term workload, supervision relationships and wellbeing. Learners with disabilities or long-term conditions may have support plans that include extensions; make sure they know how to use them.",
       "citations": [
         "bretag2019",
         "zimmerman2002",
         "bretag2016"
       ],
       "reviewNotes": [
-        "bretag2019 is a proposed reference; the summary of its findings should be checked against the article."
+        "Review response: R5-04 is addressed by placing risk conditions alongside institutional responsibilities in the description, mastery evidence, summary and an institutional difficulty."
       ]
     },
     {
@@ -3840,34 +4103,33 @@
         "partialResponse": "Defines falsification but cannot identify questionable practices.",
         "gapResponse": "Equates research integrity with avoiding plagiarism."
       },
-      "contextNotes": "UG in-sessional: lab reports and final-year projects (honest reporting of results, including failed experiments). PGT: dissertation data and ethics. PGR: full codes of conduct, data management plans and publication ethics.",
+      "contextNotes": "PG pre-sessional: an introduction to fabrication, falsification and questionable practices for learners entering research-based programmes. UG in-sessional: lab reports and final-year projects (honest reporting of results, including failed experiments). PGT: dissertation data and ethics. PGR: full codes of conduct, data management plans and publication ethics.",
       "citations": [
         "fanelli2009",
         "icmje2025",
         "allea2023"
       ],
-      "reviewNotes": [
-        "allea2023 is a proposed reference and must be verified."
-      ]
+      "reviewNotes": []
     }
   ],
   "authorNotes": [
-    "cit.why-cite overlaps heavily with src.source-functions, and src.source-functions overlaps with cit.citation-functions. I scoped cit.why-cite as the rationale for citing (B1 entry point), src.source-functions as a prerequisite of cit.citation-functions, and cit.citation-functions as the advanced analytic typology (Petrić-style). Consider merging cit.why-cite and src.source-functions, or rescoping src.source-functions explicitly as 'what sources do in my paragraph'.",
-    "Assumed edge directions that other groups must not reverse (to avoid global cycles): src.quoting -> cit.locators; src.source-functions, src.citation-forms and src.reporting-verbs -> cit.citation-functions; dig.reference-managers and edt.proofreading -> cit.accuracy-consistency; voc.abbreviations-latin -> cit.author-date-in-text; sen.capitalisation and inf.source-types -> cit.reference-list; inf.scholarly-communication -> cit.diverse-sources.",
+    "Revision after review: src.source-functions was merged into cit.citation-functions (R1-15) and gai.prompting-for-learning into gai.language-support (R1-17); both survivors were rewritten to cover the absorbed scope. cit.why-cite remains the B1 entry point (why cite at all); cit.citation-functions covers what each source does in an argument, from foundation to PGR.",
+    "New topic cit.citation-politics (R5-14) depends on cit.why-cite, inf.source-evaluation and inf.databases, and is a soft prerequisite of gai.research-tools. Other groups could add res.literature-review <- cit.citation-politics (soft).",
+    "Assumed edge directions that other groups must not reverse (to avoid global cycles): src.quoting -> cit.locators; cit.author-date-in-text -> cit.locators; src.citation-forms, src.reporting-verbs and arg.argument-concept -> cit.citation-functions; dig.reference-managers and edt.proofreading -> cit.accuracy-consistency; voc.abbreviations-latin -> cit.author-date-in-text; sen.punctuation-mechanics and inf.source-types -> cit.reference-list; inf.scholarly-communication -> cit.diverse-sources; inf.source-evaluation and inf.databases -> cit.citation-politics.",
     "cit.accuracy-consistency: I extended the scope to include fidelity (the cited source actually supports the claim). Content fidelity of citation is otherwise not covered anywhere in the skeleton and is increasingly important with AI-generated text.",
+    "R1-19 proposed merging cit.locators into cit.author-date-in-text and cit.accuracy-consistency into cit.reference-list; both IDs remain in the skeleton, so the topics stay separate, are not core at any stage except cit.accuracy-consistency at pre-sessional PG, and carry 'Review response' notes.",
     "reg.disciplinary-style lists citation among its features, overlapping with cit.disciplinary-citation; I did not link them to avoid a likely cycle. Suggest reg.disciplinary-style stays a broad overview and points to cit.disciplinary-citation as a related, not prerequisite, topic.",
     "src.secondary-citation is a citation-mechanics topic and arguably belongs in CIT; it is left in SRC but covered in cit.author-date-in-text mastery evidence.",
-    "Gap: there is no topic on attribution in multimodal and spoken work (image credits, licences such as Creative Commons, citing on slides and posters). dat.captions-labelling and sem.citing-in-speech cover parts of this. Suggest a topic such as 'Attribution in slides, posters and multimodal work'.",
+    "Gap: there is no topic on attribution in multimodal and spoken work (image credits, licences such as Creative Commons, citing on slides and posters). dat.captions-labelling and sem.citing-in-speech cover parts of this.",
     "cit.diverse-sources and gai.acknowledging-use both cover citation of AI output. I scoped cit.diverse-sources to the reference format for AI output as one non-recoverable source type, and gai.acknowledging-use to declarations, records and policy compliance.",
-    "gai.prompting-for-learning and gai.language-support overlap. I scoped prompting-for-learning as the general technique (prerequisite) and language-support as its application to language development.",
-    "gai.detection-limits is closely tied to INT; it is placed in GAI per the skeleton and linked to int.similarity-reports as a soft prerequisite.",
-    "Gap: AI paraphrasing and 'humanising' tools (and paraphrasing/rewording tools generally) are a major integrity issue for EAP learners but have no clear home between dig.machine-translation, gai.policies and src.paraphrasing. Suggest a scope note on gai.policies or a new topic.",
-    "Assumed edge directions that other groups must not reverse: wpr.task-analysis, fbk.assessment-literacy -> gai.policies; inf.lateral-reading, inf.databases -> gai.verifying-output; fbk.corrective-feedback -> gai.language-support; sta.authorial-voice -> gai.authorship-voice; src.summarising-text, rdc.literature-mapping -> gai.research-tools; inf.open-access -> gai.privacy-ip; lrn.self-regulation -> gai.prompting-for-learning. dig.machine-translation and dig.automated-feedback-tools may take GAI topics as prerequisites but should not be prerequisites of gai.how-genai-works.",
+    "gai.detection-limits is closely tied to INT; it is placed in GAI per the skeleton and linked to int.similarity-reports as a soft prerequisite. Throughout INT and GAI, detector and similarity output and differences in style are never presented as evidence on their own, and process records are framed as good practice rather than a duty to prove innocence.",
+    "Gap: AI paraphrasing and 'humanising' tools (and paraphrasing/rewording tools generally) are a major integrity issue for EAP learners but have no clear home between dig.machine-translation, gai.policies and src.paraphrasing.",
+    "Assumed edge directions that other groups must not reverse: wpr.task-analysis, fbk.assessment-literacy -> gai.policies; inf.lateral-reading, inf.databases -> gai.verifying-output; fbk.corrective-feedback, lrn.self-regulation -> gai.language-support; sta.authorial-voice -> gai.authorship-voice; src.summarising-text, rdc.literature-mapping -> gai.research-tools; inf.open-access -> gai.privacy-ip. dig.machine-translation and dig.automated-feedback-tools may take GAI topics as prerequisites but should not be prerequisites of gai.how-genai-works.",
     "int.plagiarism scope note mentions 'culturally situated views of textual ownership'. I have framed this through historical and educational practices (Pennycook, 1996) rather than national cultures, to avoid essentialising; reviewers should keep that framing.",
-    "Gap: no topic covers integrity in examinations and online assessment (unauthorised materials, impersonation, sharing questions during take-home exams). exm.open-book touches this. Suggest a scope extension of int.collusion or a new INT topic.",
+    "Gap: no topic covers integrity in examinations and online assessment (unauthorised materials, impersonation, sharing questions during take-home exams). exm.open-book touches this.",
     "Gap: uploading lecture materials or others' work to note-sharing and file-exchange sites (a common route into both collusion and copyright breach) has no clear home; it is mentioned under int.contract-cheating.",
-    "int.recycling-own-work overlaps with pub.authorship and pub.publishing-process for PGR (redundant publication, thesis-by-publication). I left no edge to PUB to keep the topic usable for UG and PGT; PUB topics could take int.recycling-own-work as a prerequisite.",
-    "edt.proofreading-ethics is closely related to int.contract-cheating (editing that rewrites content is a key grey area). I did not add an edge in either direction; the integrating editor should choose one direction (I would suggest int.contract-cheating -> edt.proofreading-ethics as soft, or the reverse, but not both).",
+    "int.recycling-own-work overlaps with pub.thesis-to-article, pub.authorship and pub.publishing-process for PGR; PUB topics can take int.recycling-own-work as a prerequisite.",
+    "edt.proofreading-ethics is closely related to int.contract-cheating (editing that rewrites content is a key grey area). I did not add an edge in either direction.",
     "Assumed edge directions that other groups must not reverse: src.patchwriting -> int.similarity-reports; lrn.support-services, lrn.time-management and prg.requests -> int.pressure-risks; fbk.assessment-literacy -> int.collusion and int.recycling-own-work; grw.purposes -> int.collusion; voc.university-terminology -> int.policy-processes."
   ]
 }

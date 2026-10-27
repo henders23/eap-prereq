@@ -5,23 +5,25 @@
       "code": "ACU",
       "strand": "Academic Socialisation, Identity & Communication",
       "name": "Academic Culture & Expectations",
-      "summary": "Makes explicit how universities and disciplines are organised, what they expect of learners and how those expectations are communicated, often tacitly. The domain moves from orientation knowledge (structures, teaching formats, roles and address) through discourse-community and disciplinary awareness to perspectives (academic literacies, critical EAP, EMI and transnational education) that treat conventions as situated, variable and open to question rather than as fixed norms to be absorbed. Throughout, difficulty is framed as a mismatch between practices, not as a deficit in the learner.",
-      "learnerSummary": "You will learn how your university and your discipline work, what is expected of you (including things nobody says out loud), and how to adapt to these expectations and, where appropriate, question them.",
+      "summary": "Makes explicit how universities and disciplines are organised, what they expect of learners and how those expectations are communicated, often tacitly. The domain moves from orientation knowledge (structures, teaching formats, roles and address) through discourse-community and disciplinary awareness to making informed choices about conventions, and includes two teacher-facing principles (the academic literacies perspective, and designing for EMI and transnational contexts) that shape how the rest is taught. Difficulty is framed as a mismatch between practices, not a learner deficit, and tacit expectations affect first-generation, mature, part-time and widening-participation home students as well as international students. Structures, roles and expectations differ in EMI programmes and transnational branch campuses, where an awarding institution's regulations may sit alongside local academic culture (see acu.emi-tne).",
+      "learnerSummary": "You will learn how your university and subject work and what is expected of you, including unwritten rules. You will also learn when and how to make your own informed choices.",
       "stageEmphasis": {
-        "foundation": "Orientation to structures, teaching formats, forms of address and independent study, taught through real institutional documents at the point of need rather than in one-off information sessions.",
-        "in-sessional-ug": "Disciplinary expectations, discourse communities and tacit criteria in the student's own modules, ideally embedded or co-taught with subject staff.",
-        "in-sessional-pgt": "Rapid orientation within compressed one-year programmes, disciplinary knowledge-making for students changing field, and academic literacies perspectives that help students interpret feedback.",
-        "pgr": "Doctoral expectations of independence, disciplinary epistemologies, the researcher's place in research communities, and critical perspectives on English-medium scholarship.",
-        "pre-sessional-ug": "Explicit comparison of prior and target practices, decoding tacit expectations in tasks and feedback, a first look at disciplinary difference, and transition support integrated into language work.",
-        "pre-sessional-pg": "Explicit comparison of prior and target practices, decoding tacit expectations in tasks and feedback, a first look at disciplinary difference, and transition support integrated into language work."
+        "foundation": "Orientation to structures, teaching formats, roles and address, and stated expectations is core, taught through real institutional documents at the point of need; in EMI and TNE foundation programmes, learners also map how local and awarding-institution practices combine.",
+        "pre-sessional-ug": "Orientation to the destination institution's structures, formats, address norms and stated expectations is core, with tacit expectations and transition support woven into language work rather than taught as separate sessions.",
+        "pre-sessional-pg": "Orientation focuses on what changes at postgraduate level (seminar-based teaching, independence, compressed timelines), with a first comparison of disciplinary knowledge-making and discourse communities in mixed-discipline groups.",
+        "in-sessional-ug": "Decoding tacit expectations in the student's own modules is core, ideally co-taught with subject staff; provision increasingly serves home, first-generation and mature students, and in EMI and TNE programmes expectations are often set by content lecturers who do not see language as their remit.",
+        "in-sessional-pgt": "Rapid re-orientation within one-year programmes, disciplinary knowledge-making for students changing field, and exemplar-based work on tacit criteria.",
+        "pgr": "No general orientation: the focus is doctoral tacit expectations (supervision, progression reviews, the viva), the researcher's place in disciplinary communities and informed choices about conventions in English-medium publishing."
       },
       "keyReferences": [
         "leastreet1998",
+        "lillis2001",
         "swales1990",
         "becher2001",
         "zhou2008",
         "benesch2001",
         "dafouzsmit2016",
+        "macaro2018emi",
         "wingate2015"
       ]
     },
@@ -29,21 +31,23 @@
       "code": "PRG",
       "strand": "Academic Socialisation, Identity & Communication",
       "name": "Academic Pragmatics & Correspondence",
-      "summary": "Covers the sociopragmatic and pragmalinguistic resources learners need to interact with staff and peers outside the core academic genres: politeness and face, requests, apologies and accounts, emails, office hours, formal institutional statements, forum posts, channel choice and acknowledgements. Interlanguage pragmatics research shows that pragmatic competence does not keep pace with grammatical development without attention, and that staff judge messages on perceived politeness and clarity as well as accuracy. Norms are presented as variable across institutions, countries and individuals; the aim is informed, context-sensitive choice, not one correct formula.",
-      "learnerSummary": "You will learn how to write emails, make requests, apologise, take part in meetings and online discussions, and write formal statements in ways that are clear and appropriate for the people you are communicating with.",
+      "summary": "Covers the sociopragmatic and pragmalinguistic resources learners need to interact with staff, peers and employers outside the core academic genres: politeness and face, requests, apologies and accounts, emails, office hours, formal institutional statements, forum posts, channel choice, informal academic talk, and applications and interviews for placements and graduate roles. Interlanguage pragmatics research shows that pragmatic competence does not keep pace with grammatical development without attention, and that staff judge messages on perceived politeness and clarity as well as accuracy. Norms vary across institutions, countries and individuals, and in EMI and TNE settings forms of address, channels (including messaging apps) and procedures may follow local rather than anglophone conventions (see acu.emi-tne); the aim is informed, context-sensitive choice, not one correct formula.",
+      "learnerSummary": "You will learn to write emails, make requests, apologise and talk with staff and other students in ways that suit the situation. You will also practise forum posts, formal statements and job applications.",
       "stageEmphasis": {
-        "foundation": "Core forms of address, request and apology language, and email structure, practised on real tasks such as contacting a tutor or reporting an absence.",
-        "in-sessional-ug": "Applying pragmatic knowledge to real situations as they arise (extensions, feedback tutorials, assessed forums, extenuating circumstances claims), with attention to local norms.",
-        "in-sessional-pgt": "Efficient, well-judged correspondence and meetings within a compressed timeline, including requests for references and dissertation-related contact.",
-        "pgr": "High-imposition requests to supervisors, external researchers and gatekeepers, multichannel professional communication, and acknowledgements in theses and articles.",
-        "pre-sessional-ug": "Calibrating politeness to power, distance and imposition; email and office-hour rehearsal for the destination institution; forum participation on the course VLE.",
-        "pre-sessional-pg": "Calibrating politeness to power, distance and imposition; email and office-hour rehearsal for the destination institution; forum participation on the course VLE."
+        "foundation": "Emails, requests and forms of address are core, practised on real tasks such as contacting a tutor or reporting an absence, with informal talk with peers and staff supported rather than assumed.",
+        "pre-sessional-ug": "Emails and requests to staff are core, calibrated to power, distance and imposition, with forum participation and office-hour rehearsal using the destination institution's channels.",
+        "pre-sessional-pg": "Email to staff and prospective supervisors is core, alongside tutorial rehearsal and informal interaction with peers and department or lab colleagues.",
+        "in-sessional-ug": "Point-of-need application (extensions, feedback tutorials, assessed forums, extenuating circumstances) and, with careers services, placement applications; norms are checked locally, especially in EMI and TNE programmes.",
+        "in-sessional-pgt": "Efficient correspondence and meetings within a compressed timeline, dissertation-related contact, and applications and interviews for graduate roles.",
+        "pgr": "High-imposition requests to supervisors, gatekeepers and external researchers, multichannel professional communication, informal networking in departments, and academic and non-academic job applications."
       },
       "keyReferences": [
         "brownlevinson1987",
         "kasperrose2002",
         "biesenbach2007",
-        "economidou2011"
+        "economidou2011",
+        "biber2006",
+        "bhatia1993"
       ]
     }
   ],
@@ -89,12 +93,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -134,11 +137,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -169,14 +172,13 @@
       ],
       "frameworks": [],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -209,11 +211,11 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -254,7 +256,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -267,7 +269,7 @@
       "description": "Compare how disciplines construct knowledge (what counts as evidence, how claims are warranted, the role of theory, cumulative versus interpretive knowledge-building) and relate these differences to the genres, citation practices and stance valued in one's own field. Recognising epistemological difference explains why writing advice that works in one field misleads in another.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
-      "specificity": "ESAP",
+      "specificity": "EGAP",
       "masteryEvidence": [
         "Describes what counts as legitimate evidence in their own field and contrasts it with a field of a different type (for example hard-pure versus soft-applied)",
         "Relates a feature of disciplinary epistemology to a concrete textual feature such as citation density, hedging or self-mention",
@@ -299,11 +301,9 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
-      "disciplines": [
-        "sciences"
-      ]
+      "disciplines": []
     },
     {
       "id": "acu.academic-literacies",
@@ -311,17 +311,18 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Academic literacies perspective",
-      "description": "Understand the academic literacies view of reading and writing as social practices shaped by identity, power and institutional context, as distinct from study-skills and academic socialisation models, and use it to interpret one's own experience of feedback, conventions and voice. The perspective reframes difficulty as arising from contested and often unstated expectations rather than from individual deficit.",
+      "description": "A curriculum principle for teachers and course designers: reading and writing are social practices shaped by identity, power and institutional context, so difficulty often arises from contested and unstated expectations rather than from individual deficit (the academic literacies model, as distinct from study-skills and academic socialisation models). In teaching it means making expectations explicit, opening dialogue about meaning-making and treating students' identities and prior literacies, including those of first-generation, mature and multilingual students, as resources; postgraduates in education, applied linguistics and the social sciences may also study it as content.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Distinguishes the study skills, academic socialisation and academic literacies models and shows how each would explain the same writing difficulty",
-        "Analyses a feedback exchange in terms of differing tutor and student interpretations of what the task required",
+        "Asks a tutor or peer what an evaluative term in their own feedback means in this module, rather than treating it as a language error",
+        "Analyses a feedback exchange, their own or a supplied one, in terms of differing tutor and student interpretations of what the task required",
         "Identifies a point in their own writing, or in a case or published account if they prefer, where institutional conventions and a writer's preferred identity or voice were in tension, and explains how the tension was or could be negotiated",
-        "Explains why the perspective treats conventions as negotiable while acknowledging the real consequences of not meeting them"
+        "Where the perspective is studied explicitly (for example by PGT or PGR students in education or applied linguistics), shows how the study skills, academic socialisation and academic literacies models would each explain the same writing difficulty",
+        "Explains why conventions can be questioned while acknowledging the real consequences of not meeting them"
       ],
-      "assessmentPrompt": "Present a short case: a student is repeatedly told both to 'use your own voice' and to 'support every claim with sources'. Ask the learner to explain the student's difficulty first from a study-skills and then from an academic literacies perspective. Check whether the second explanation addresses contested expectations, identity and institutional responsibility, not only skill gaps.",
+      "assessmentPrompt": "The principle is assessed through teaching practice rather than tested in learners. Where PGT or PGR learners meet it explicitly, present a short case: a student is repeatedly told both to 'use your own voice' and to 'support every claim with sources'. Ask the learner to explain the difficulty first from a study-skills and then from an academic literacies perspective. Check whether the second explanation addresses contested expectations, identity and institutional responsibility, not only skill gaps.",
       "citations": [
         "leastreet1998",
         "lillisscott2007",
@@ -335,7 +336,7 @@
         "pgr": "develop"
       },
       "coreBand": "B2+",
-      "audience": "learner",
+      "audience": "teacher",
       "disciplines": []
     },
     {
@@ -344,22 +345,23 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Transition and adjustment",
-      "description": "Manage academic and sociocultural adjustment to a new educational context by identifying specific unfamiliar practices and sources of stress, learning the practices of the new setting, drawing on prior knowledge and multilingual repertoires, and building peer, academic and professional support. Adjustment is uneven and individual rather than a fixed sequence of stages, and it involves the institution adapting as well as the student.",
+      "description": "Manage academic and sociocultural adjustment to a new educational context by identifying specific unfamiliar practices and sources of pressure, learning the practices of the new setting, drawing on prior study, work and life experience and multilingual repertoires, and building peer, academic and professional support. Transition affects home students as well as international ones, including first-generation, mature, part-time and commuting students and those balancing caring or paid work; adjustment is uneven rather than a fixed sequence of stages, and it involves the institution adapting as well as the student.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
         "Identifies specific academic and social demands of the new context that differ from prior experience and plans a response to each",
-        "Names at least three sources of support (academic, peer, professional services) and has used at least one",
-        "Describes their adjustment in terms of concrete practices learned rather than a generalised 'culture shock' narrative",
-        "Identifies prior educational experience and languages as resources they have drawn on, not only as obstacles",
-        "Monitors wellbeing and academic progress over a term and adjusts strategies in response"
+        "Names at least three sources of support (academic, peer, professional services) and has used at least one, including any that can be reached outside standard hours or online",
+        "Describes adjustment in terms of concrete practices learned rather than a generalised 'culture shock' narrative",
+        "Identifies prior study, work and life experience and languages as resources they have drawn on, not only as obstacles",
+        "Monitors workload, wellbeing and academic progress over a term and adjusts strategies, including around fixed commitments such as paid work or caring"
       ],
-      "assessmentPrompt": "Ask the learner to talk or write for five minutes about one academic practice that surprised them on arrival and what they did about it. Check for a specific practice, a concrete action taken (asking, observing, using a service) and reflection on what transferred from prior experience, rather than general statements about cultural difference.",
+      "assessmentPrompt": "Ask the learner to talk or write for five minutes about one academic practice that surprised them on arrival, or one they have seen others meet, and what was done about it. Check for a specific practice, a concrete action taken (asking, observing, using a service) and reflection on what transferred from prior experience, rather than general statements about cultural difference. Do not require personal disclosure.",
       "citations": [
         "zhou2008",
         "morita2004",
-        "leki2007"
+        "leki2007",
+        "lillis2001"
       ],
       "frameworks": [
         {
@@ -376,7 +378,7 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
@@ -421,12 +423,11 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -438,31 +439,40 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "Making informed choices about academic conventions",
-      "description": "Examine whose norms EAP teaches, whose interests they serve and how they might be questioned or negotiated, including native-speaker standards, the dominance of English in scholarship and the pragmatic aim of fitting students to existing demands, and identify where learners can exercise informed choice or seek change. A critical perspective supports agency without pretending that conventions carry no consequences.",
-      "cefrStart": "B2",
+      "description": "Distinguish conventions that are fixed by assessment or regulation from those that vary across contexts or are open to negotiation, make and justify informed choices about conventions in one's own work (for example self-mention, structure, or the use of other languages and non-anglophone sources), and use legitimate channels such as tutor queries and student representation to question requirements. The topic draws on critical EAP's question of whose norms are taught and whose interests they serve, but its learner-facing aim is informed agency rather than rejection of conventions, which still carry real consequences.",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Distinguishes a pragmatic (accommodating) from a critical rationale for teaching a given convention",
-        "Identifies a requirement in their own context whose justification is contested and sets out reasoned arguments on more than one side",
-        "Explains how the dominance of English in publishing and higher education creates advantages and costs for differently positioned scholars",
-        "Proposes a legitimate means of questioning or negotiating a requirement (for example a query to a tutor or use of student representation) and anticipates its consequences",
-        "Treats their multilingual and prior academic resources as legitimate contributions to knowledge-making"
+        "Classifies the requirements in a task brief or style guide as fixed (assessed or regulated), variable across contexts, or open to negotiation, and gives evidence for each classification",
+        "Makes a deliberate choice about one convention in their own draft (for example first-person use, a non-default structure or a term from another language) and justifies it with reference to the task, the reader and disciplinary practice",
+        "Anticipates how a marker might respond to a non-default choice and signals or explains it where needed",
+        "Proposes a legitimate means of questioning a requirement (a query to a tutor, module evaluation or student representation) and weighs its likely benefits and risks",
+        "Explains, with an example from their own context, how the dominance of English or of particular national norms advantages some students and scholars and disadvantages others"
       ],
-      "assessmentPrompt": "Give the learner a short policy statement (for example 'All written work must be in standard British English'). Ask who benefits from the requirement, what it might exclude, and what a student could legitimately do about it. Check for reasoned analysis of interests and consequences rather than either uncritical acceptance or blanket dismissal.",
+      "assessmentPrompt": "Give the learner a short style guide or task brief with five requirements (for example 'write in the third person', 'use Harvard referencing', 'standard British English only', 'no more than 2,000 words', 'use academic sources'). Ask them to classify each as fixed, variable or negotiable, justify one choice they would make in their own writing, and say how they could query one requirement. Check for evidence-based classification, a justified choice tied to reader and task, and a realistic, legitimate channel, rather than either uncritical acceptance or blanket dismissal.",
       "citations": [
         "benesch2001",
-        "canagarajah2002",
+        "changswales1999",
         "jenkins2014",
-        "dingbruce2017"
+        "canagarajah2002"
       ],
       "frameworks": [
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "related"
+        },
         {
           "key": "acrl:authority",
           "contribution": "related"
         }
       ],
       "stageRoles": {
+        "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
@@ -470,7 +480,7 @@
         "pgr": "develop"
       },
       "coreBand": "B2",
-      "audience": "learner",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -479,7 +489,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Culture & Expectations",
       "name": "EMI and transnational education contexts",
-      "description": "Understand the conditions of studying through English in non-anglophone universities (English-medium instruction) and in transnational provision such as branch campuses and franchised or joint programmes, including the roles of English and other languages, content lecturers' varied expectations about language, and what this implies for the academic English that matters locally. EMI and TNE learners need academic English shaped by their actual context rather than by anglophone-campus assumptions.",
+      "description": "Analyse the language ecology of one's own English-medium programme in a non-anglophone university (EMI) or in transnational provision such as a branch campus or an articulation, franchised or joint programme: which languages are used for which purposes, what content lecturers expect of students' English, and which regulations follow the awarding institution, and use this analysis to set language priorities. For teachers and course designers the same analysis is a design principle: EAP for EMI and TNE should be shaped by the local context rather than by anglophone-campus assumptions.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -521,8 +531,8 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
-      "audience": "learner",
+      "coreBand": "B2",
+      "audience": "both",
       "disciplines": []
     },
     {
@@ -572,9 +582,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -622,14 +632,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -675,14 +685,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
       },
-      "coreBand": "A2",
+      "coreBand": "B1",
       "audience": "learner",
       "disciplines": []
     },
@@ -692,7 +702,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Office hours and tutorials",
-      "description": "Prepare for and conduct one-to-one or small-group meetings with academic staff: booking through the expected channel, bringing specific questions and materials, framing the purpose at the start, negotiating and checking understanding, noting agreed actions and closing within the time available. These meetings are a key but under-used route to tacit expectations and individual feedback.",
+      "description": "Prepare for and conduct one-to-one or small-group meetings with academic staff, in person or online: booking through the expected channel, bringing specific questions and materials, framing the purpose at the start, negotiating and checking understanding, noting agreed actions and closing within the time available. Where such meetings exist they are a key but under-used route to tacit expectations and individual feedback; arrangements vary widely, and some institutions and EMI programmes have no office-hour system.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
@@ -734,7 +744,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -745,7 +755,7 @@
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Formal statements and appeals",
       "description": "Write formal institutional texts (extenuating or mitigating circumstances statements, academic appeals and complaints) that follow the relevant procedure, give a factual, chronological and evidenced account, relate it to the grounds the regulations allow, state the outcome sought and keep a measured, non-accusatory tone. These texts affect progression and are judged against regulations, so procedural fit matters more than persuasion or emotional appeal.",
-      "cefrStart": "B2",
+      "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
@@ -826,8 +836,8 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -880,7 +890,7 @@
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -890,7 +900,7 @@
       "strand": "Academic Socialisation, Identity & Communication",
       "domain": "Academic Pragmatics & Correspondence",
       "name": "Messaging channels and norms",
-      "description": "Choose the appropriate channel (email, VLE messages or forums, enquiry and ticketing systems, group chats, collaboration platforms) for a given purpose, recipient, level of privacy and urgency, and adjust tone, length and expectations of response time accordingly. Channel norms differ across institutions and teams and are often unstated; a misjudged channel can delay a response or blur professional boundaries.",
+      "description": "Choose the appropriate channel (email, VLE messages or forums, enquiry and ticketing systems, group chats, messaging apps, collaboration platforms) for a given purpose, recipient, level of privacy and urgency, and adjust tone, length and expectations of response time accordingly. Channel norms differ across institutions, countries and teams and are often unstated; a messaging app that is the official staff channel in one institution may blur professional boundaries in another.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
@@ -936,28 +946,134 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
       "disciplines": []
+    },
+    {
+      "id": "prg.informal-academic-interaction",
+      "type": "SOCIOPRAGMATIC",
+      "strand": "Academic Socialisation, Identity & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Informal academic interaction and networking",
+      "description": "Take part in informal talk with peers, lab or studio colleagues and staff before and after classes, in shared workspaces and at departmental or social events: opening and sustaining small talk, choosing shared and low-risk topics, showing interest, moving between informal and academic talk (for example from weekend plans to a question about an assignment) and closing politely. Informal interaction builds the relationships through which much tacit knowledge, help and opportunity circulates, but participation remains a choice and can take several forms.",
+      "cefrStart": "B1",
+      "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
+      "masteryEvidence": [
+        "Opens and closes short informal exchanges with peers and staff using greetings, topic openers and leave-taking suited to the setting",
+        "Sustains a conversation for several turns by asking follow-up questions, showing interest and sharing information at a level of self-disclosure they choose",
+        "Shifts from informal to academic or task-related talk, and back, with a signalling move, for example raising a question about a lab protocol during a break",
+        "Uses spoken features such as vague language, ellipsis and discourse markers so that contributions sound interactive rather than written, without needing to imitate a particular accent or variety",
+        "Recognises topics and humour that are usually low-risk or risky in a given academic setting and adjusts when signals show discomfort",
+        "Follows up a contact made informally (a name remembered, a short message or email) through an appropriate channel"
+      ],
+      "assessmentPrompt": "Set up a three-minute role-play: the learner arrives early to a seminar or lab and finds a classmate or staff member there. Ask them to open the conversation, sustain it, raise one study-related question and close. Check for a natural opening, at least two follow-up questions or comments, a signalled shift into study talk and a polite close; do not assess accent or require personal disclosure.",
+      "citations": [
+        "biber2006",
+        "duff2010",
+        "morita2004",
+        "channell1994"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.oral.conversation",
+          "levels": [
+            "B1",
+            "B2"
+          ],
+          "contribution": "core"
+        },
+        {
+          "key": "cefr-cv:int.oral.informal-discussion",
+          "levels": [
+            "B1+",
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:socio.appropriateness",
+          "levels": [
+            "B1+",
+            "B2"
+          ],
+          "contribution": "component"
+        }
+      ]
+    },
+    {
+      "id": "prg.professional-applications",
+      "type": "GENRE",
+      "strand": "Academic Socialisation, Identity & Communication",
+      "domain": "Academic Pragmatics & Correspondence",
+      "name": "Applications and interviews for placements and graduate roles",
+      "description": "Write cover letters and competency-based application answers, and give interview answers, that translate study, projects, part-time work and other experience into evidence matched to an employer's stated criteria, using a structured account of situation, action and result and stating one's own contribution clearly. The topic is bounded to the language and genre demands of placement and graduate-role applications; careers guidance and occupation-specific English remain with careers services and ESP.",
+      "cefrStart": "B2",
+      "cefrEnd": "C1",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
+      "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
+      "masteryEvidence": [
+        "Maps an advertised role's criteria to specific evidence from their study, projects, work or other experience",
+        "Writes a competency-based answer that sets out a situation, their own action and a result, with a brief reflection, within a word limit",
+        "Writes a cover letter that addresses a named role, states fit early and supports two or three claims with evidence rather than general self-description",
+        "Distinguishes individual from team contributions, using first person singular where accurate and without overclaiming",
+        "Answers interview questions with a structured spoken account and asks informed questions at the end",
+        "Adjusts register and self-presentation between academic and employer genres, and checks local conventions (for example on photographs, personal details and CV length) for the target country and sector"
+      ],
+      "assessmentPrompt": "Give the learner a short placement advert with three criteria and ask for a 200-word answer to 'Describe a time you worked in a team to solve a problem'. Check that the answer addresses a stated criterion, gives a specific situation, foregrounds the learner's own actions with 'I' where accurate, states a result, and avoids generic claims (such as being 'a hard-working team player') that are not backed by evidence.",
+      "citations": [
+        "bhatia1993",
+        "moon2004",
+        "vitae2010"
+      ],
+      "frameworks": [
+        {
+          "key": "cefr-cv:int.oral.interviewing",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:int.writ.correspondence",
+          "levels": [
+            "B2",
+            "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "vitae-rdf:B3",
+          "contribution": "related"
+        }
+      ]
     }
   ],
   "dependencies": [
-    {
-      "topicId": "acu.teaching-formats",
-      "prerequisiteId": "acu.university-structures",
-      "strength": "soft",
-      "reason": "Teaching formats are organised within modules and programmes, and the contact/independent-study balance is calculated from module credit structures"
-    },
-    {
-      "topicId": "acu.academic-expectations",
-      "prerequisiteId": "acu.teaching-formats",
-      "strength": "soft",
-      "reason": "Expectations of participation, preparation and independent study are enacted through specific formats (seminar contribution, lab preparation, VLE tasks), so knowing the formats makes the expectations concrete"
-    },
     {
       "topicId": "acu.hidden-curriculum",
       "prerequisiteId": "acu.academic-expectations",
@@ -985,8 +1101,8 @@
     {
       "topicId": "acu.academic-literacies",
       "prerequisiteId": "acu.hidden-curriculum",
-      "strength": "hard",
-      "reason": "The academic literacies perspective starts from the observation that tutors and students hold different, unstated understandings of tasks; learners need to have recognised tacit expectations before analysing them as matters of identity and power"
+      "strength": "soft",
+      "reason": "The academic literacies perspective starts from the observation that tutors and students hold different, unstated understandings of tasks; teaching informed by it builds on learners having noticed tacit expectations in their own work"
     },
     {
       "topicId": "acu.academic-literacies",
@@ -1003,14 +1119,8 @@
     {
       "topicId": "acu.roles-address",
       "prerequisiteId": "acu.university-structures",
-      "strength": "hard",
-      "reason": "Choosing a form of address depends on knowing the person's role and its relationship to the student (module leader, supervisor, administrator, teaching assistant)"
-    },
-    {
-      "topicId": "acu.critical-eap",
-      "prerequisiteId": "idn.standards-legitimacy",
       "strength": "soft",
-      "reason": "Questioning native-speaker norms is a concrete, accessible entry to the broader critique of EAP's purposes and standards"
+      "reason": "Choosing a form of address depends on knowing the person's role and its relationship to the student (module leader, supervisor, administrator, teaching assistant)"
     },
     {
       "topicId": "acu.emi-tne",
@@ -1125,6 +1235,60 @@
       "prerequisiteId": "dig.vle",
       "strength": "soft",
       "reason": "Choosing between VLE messaging, forums and announcements requires knowing what communication tools the VLE provides and how they are used on the course"
+    },
+    {
+      "topicId": "acu.critical-eap",
+      "prerequisiteId": "acu.hidden-curriculum",
+      "strength": "soft",
+      "reason": "A convention can only be chosen about once it has been made visible; identifying tacit expectations gives learners the conventions they then classify as fixed, variable or negotiable"
+    },
+    {
+      "topicId": "acu.critical-eap",
+      "prerequisiteId": "reg.style-myths-variation",
+      "strength": "soft",
+      "reason": "Knowing that many style 'rules' are myths or vary by discipline and over time is the evidence base for judging which conventions are open to choice"
+    },
+    {
+      "topicId": "prg.informal-academic-interaction",
+      "prerequisiteId": "prg.politeness",
+      "strength": "soft",
+      "reason": "Informal talk with staff still involves judging relative power and distance, especially when moving from small talk into a request or question"
+    },
+    {
+      "topicId": "prg.informal-academic-interaction",
+      "prerequisiteId": "grm.spoken-grammar",
+      "strength": "soft",
+      "reason": "Vague language, ellipsis and discourse markers are characteristic of informal talk and make contributions sound interactive rather than written"
+    },
+    {
+      "topicId": "prg.informal-academic-interaction",
+      "prerequisiteId": "idn.intercultural-communication",
+      "strength": "soft",
+      "reason": "Topic choice, humour and self-disclosure in small talk vary across groups, and managing those differences draws on intercultural communication strategies such as checking and accommodation"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "wpr.audience-purpose",
+      "strength": "soft",
+      "reason": "Applications are judged against an employer's stated criteria, so analysing the reader and purpose of the text comes first"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "ges.reflective-writing",
+      "strength": "soft",
+      "reason": "Competency-based answers narrate an experience and draw learning from it, the move sequence taught in reflective writing"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "prg.emails-to-staff",
+      "strength": "soft",
+      "reason": "Cover letters and application emails adapt the moves of formal correspondence (greeting, purpose, closing, identification) to an unknown institutional reader"
+    },
+    {
+      "topicId": "prg.professional-applications",
+      "prerequisiteId": "sta.self-mention",
+      "strength": "soft",
+      "reason": "Claiming one's individual contribution depends on control of first-person self-mention and of the difference between 'I' and 'we'"
     }
   ],
   "guidance": [

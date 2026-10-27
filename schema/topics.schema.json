@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eap-skill-taxonomy/schema/topics.schema.json",
+  "title": "EAP Skill Taxonomy — topics",
+  "type": "object",
+  "required": ["version", "topicCount", "topics"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "string" },
+    "topicCount": { "type": "integer", "minimum": 0 },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "type", "strand", "domain", "name", "description", "cefrStart", "cefrEnd", "stages", "specificity", "masteryEvidence", "assessmentPrompt", "citations", "frameworks", "prerequisiteCount", "unlockCount", "downstreamCount", "depth", "centrality"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z]{3}\\.[a-z0-9]+(?:-[a-z0-9]+)*$", "description": "Stable identifier: three-letter domain prefix + slug." },
+          "type": { "enum": ["CONCEPTUAL", "PROCEDURAL", "LINGUISTIC", "GENRE", "STRATEGIC", "SOCIOPRAGMATIC"] },
+          "strand": { "type": "string" },
+          "domain": { "type": "string" },
+          "name": { "type": "string", "minLength": 1 },
+          "description": { "type": "string", "minLength": 1 },
+          "cefrStart": { "$ref": "#/$defs/cefr", "description": "Lowest level at which explicit teaching is typically productive (authoring judgement)." },
+          "cefrEnd": { "$ref": "#/$defs/cefr", "description": "Level by which control is typically expected (authoring judgement)." },
+          "stages": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "enum": ["foundation", "pre-sessional", "in-sessional-ug", "in-sessional-pgt", "pgr"] } },
+          "specificity": { "enum": ["EGAP", "ESAP"] },
+          "masteryEvidence": { "type": "array", "minItems": 3, "items": { "type": "string", "minLength": 1 } },
+          "assessmentPrompt": { "type": "string", "minLength": 1 },
+          "citations": { "type": "array", "minItems": 1, "items": { "type": "string" }, "description": "Keys into references.json." },
+          "frameworks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["key", "contribution"],
+              "properties": {
+                "key": { "type": "string", "description": "Key into frameworks.json (<source>:<code>)." },
+                "levels": { "type": "array", "items": { "$ref": "#/$defs/cefr" } },
+                "contribution": { "enum": ["core", "component", "related"] }
+              }
+            }
+          },
+          "prerequisiteCount": { "type": "integer", "minimum": 0 },
+          "unlockCount": { "type": "integer", "minimum": 0 },
+          "downstreamCount": { "type": "integer", "minimum": 0, "description": "Topics that depend on this one directly or transitively." },
+          "depth": { "type": "integer", "minimum": 0, "description": "Length of the longest prerequisite chain beneath this topic." },
+          "centrality": { "type": "number", "minimum": 0, "maximum": 1, "description": "Normalised PageRank over prerequisite edges." }
+        }
+      }
+    }
+  },
+  "$defs": { "cefr": { "enum": ["A2", "B1", "B1+", "B2", "B2+", "C1", "C2"] } }
+}

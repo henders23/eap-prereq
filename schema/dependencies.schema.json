@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eap-skill-taxonomy/schema/dependencies.schema.json",
+  "title": "EAP Skill Taxonomy — prerequisite dependencies",
+  "type": "object",
+  "required": ["version", "edgeCount", "dependencies"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "string" },
+    "note": { "type": "string" },
+    "edgeCount": { "type": "integer", "minimum": 0 },
+    "dependencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["topicId", "prerequisiteId", "strength", "reason"],
+        "properties": {
+          "topicId": { "type": "string", "description": "The dependent topic." },
+          "prerequisiteId": { "type": "string", "description": "The topic it depends on." },
+          "strength": { "enum": ["hard", "soft"] },
+          "reason": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

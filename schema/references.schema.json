@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eap-skill-taxonomy/schema/references.schema.json",
+  "title": "EAP Skill Taxonomy — bibliography",
+  "type": "object",
+  "required": ["version", "referenceCount", "verificationStatuses", "references"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "string" },
+    "referenceCount": { "type": "integer" },
+    "verificationStatuses": { "type": "object", "additionalProperties": { "type": "string" } },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["key", "kind", "year", "citation", "verification", "citedByTopics", "citedInGuidance", "citedByDomains"],
+        "properties": {
+          "key": { "type": "string" },
+          "kind": { "enum": ["book", "article", "chapter", "report", "standard", "web"] },
+          "year": { "type": ["integer", "null"] },
+          "citation": { "type": "string", "description": "APA 7 reference; *asterisks* mark italics." },
+          "doi": { "type": "string" },
+          "verification": { "enum": ["web-verified", "curator-checked", "unverified"] },
+          "verificationNote": { "type": "string" },
+          "citedByTopics": { "type": "array", "items": { "type": "string" } },
+          "citedInGuidance": { "type": "integer" },
+          "citedByDomains": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}

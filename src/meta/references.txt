@@ -1,0 +1,381 @@
+# Bibliography source. One reference per line:
+#   key | kind | APA 7 reference | DOI (optional, bare)
+# kind: book, article, chapter, report, standard, web
+# Lines starting with # are ignored. Build converts this to data/references.json.
+
+# --- EAP foundations and overviews ---
+hyland2006eap | book | Hyland, K. (2006). *English for academic purposes: An advanced resource book*. Routledge. |
+hyland2004disciplinary | book | Hyland, K. (2004). *Disciplinary discourses: Social interactions in academic writing* (Michigan classics ed.). University of Michigan Press. |
+hylandshaw2016handbook | book | Hyland, K., & Shaw, P. (Eds.). (2016). *The Routledge handbook of English for academic purposes*. Routledge. |
+hylandhamplyons2002 | article | Hyland, K., & Hamp-Lyons, L. (2002). EAP: Issues and directions. *Journal of English for Academic Purposes, 1*(1), 1–12. | 10.1016/S1475-1585(02)00002-4
+hyland2002specificity | article | Hyland, K. (2002). Specificity revisited: How far should we go now? *English for Specific Purposes, 21*(4), 385–395. | 10.1016/S0889-4906(01)00028-X
+jordan1997 | book | Jordan, R. R. (1997). *English for academic purposes: A guide and resource book for teachers*. Cambridge University Press. |
+flowerdewpeacock2001 | book | Flowerdew, J., & Peacock, M. (Eds.). (2001). *Research perspectives on English for academic purposes*. Cambridge University Press. |
+alexander2019essentials | book | Alexander, O., Argent, S., & Spencer, J. (2019). *EAP essentials: A teacher's guide to principles and practice* (2nd ed.). Garnet Education. |
+dechazal2014 | book | de Chazal, E. (2014). *English for academic purposes*. Oxford University Press. |
+bruce2011theory | book | Bruce, I. (2011). *Theory and concepts of English for academic purposes*. Palgrave Macmillan. |
+bruce2008genre | book | Bruce, I. (2008). *Academic writing and genre: A systematic analysis*. Continuum. |
+charlespecorari2016 | book | Charles, M., & Pecorari, D. (2016). *Introducing English for academic purposes*. Routledge. |
+dingbruce2017 | book | Ding, A., & Bruce, I. (2017). *The English for academic purposes practitioner: Operating on the edge of academia*. Palgrave Macmillan. |
+hutchinsonwaters1987 | book | Hutchinson, T., & Waters, A. (1987). *English for specific purposes: A learning-centred approach*. Cambridge University Press. |
+dudleyevans1998 | book | Dudley-Evans, T., & St John, M. J. (1998). *Developments in English for specific purposes: A multi-disciplinary approach*. Cambridge University Press. |
+basturkmen2010 | book | Basturkmen, H. (2010). *Developing courses in English for specific purposes*. Palgrave Macmillan. |
+long2005needs | book | Long, M. H. (Ed.). (2005). *Second language needs analysis*. Cambridge University Press. |
+spack1988 | article | Spack, R. (1988). Initiating ESL students into the academic discourse community: How far should we go? *TESOL Quarterly, 22*(1), 29–51. | 10.2307/3587060
+bond2020 | book | Bond, B. (2020). *Making language visible in the university: English for academic purposes and internationalisation*. Multilingual Matters. |
+murray2016standards | book | Murray, N. (2016). *Standards of English in higher education: Issues, challenges and strategies*. Cambridge University Press. |
+murraynallaya2016 | article | Murray, N., & Nallaya, S. (2016). Embedding academic literacies in university programme curricula: A case study. *Studies in Higher Education, 41*(7), 1296–1312. | 10.1080/03075079.2014.981150
+arkoudis2012 | book | Arkoudis, S., Baik, C., & Richardson, S. (2012). *English language standards in higher education: From entry to exit*. ACER Press. |
+sloanporter2010 | article | Sloan, D., & Porter, E. (2010). Changing international student and business staff perceptions of in-sessional EAP: Using the CEM model. *Journal of English for Academic Purposes, 9*(3), 198–210. | 10.1016/j.jeap.2010.03.001
+wingate2006 | article | Wingate, U. (2006). Doing away with 'study skills'. *Teaching in Higher Education, 11*(4), 457–469. | 10.1080/13562510600874268
+wingate2012literacy | article | Wingate, U. (2012). Using Academic Literacies and genre-based models for academic writing instruction: A 'literacy' journey. *Journal of English for Academic Purposes, 11*(1), 26–37. | 10.1016/j.jeap.2011.11.006
+wingate2012argument | article | Wingate, U. (2012). 'Argument!' Helping students understand what essay writing is about. *Journal of English for Academic Purposes, 11*(2), 145–154. | 10.1016/j.jeap.2011.11.001
+wingate2015 | book | Wingate, U. (2015). *Academic literacy and student diversity: The case for inclusive practice*. Multilingual Matters. |
+baleap2008teap | report | BALEAP. (2008). *Competency framework for teachers of English for academic purposes*. BALEAP. |
+leki2007 | book | Leki, I. (2007). *Undergraduates in a second language: Challenges and complexities of academic literacy development*. Lawrence Erlbaum. |
+lekicarson1997 | article | Leki, I., & Carson, J. (1997). "Completely different worlds": EAP and the writing experiences of ESL students in university courses. *TESOL Quarterly, 31*(1), 39–69. | 10.2307/3587974
+horowitz1986 | article | Horowitz, D. M. (1986). What professors actually require: Academic tasks for the ESL classroom. *TESOL Quarterly, 20*(3), 445–462. | 10.2307/3586294
+
+# --- Academic literacies, critical EAP, identity, plurilingualism ---
+leastreet1998 | article | Lea, M. R., & Street, B. V. (1998). Student writing in higher education: An academic literacies approach. *Studies in Higher Education, 23*(2), 157–172. | 10.1080/03075079812331380364
+lillis2001 | book | Lillis, T. M. (2001). *Student writing: Access, regulation, desire*. Routledge. |
+lillisscott2007 | article | Lillis, T., & Scott, M. (2007). Defining academic literacies research: Issues of epistemology, ideology and strategy. *Journal of Applied Linguistics, 4*(1), 5–32. | 10.1558/japl.v4i1.5
+ivanic1998 | book | Ivanič, R. (1998). *Writing and identity: The discoursal construction of identity in academic writing*. John Benjamins. |
+benesch2001 | book | Benesch, S. (2001). *Critical English for academic purposes: Theory, politics, and practice*. Lawrence Erlbaum. |
+canagarajah2002 | book | Canagarajah, A. S. (2002). *A geopolitics of academic writing*. University of Pittsburgh Press. |
+canagarajah2013 | book | Canagarajah, S. (2013). *Translingual practice: Global Englishes and cosmopolitan relations*. Routledge. |
+jenkins2014 | book | Jenkins, J. (2014). *English as a lingua franca in the international university: The politics of academic English language policy*. Routledge. |
+garciawei2014 | book | García, O., & Li Wei. (2014). *Translanguaging: Language, bilingualism and education*. Palgrave Macmillan. |
+morita2004 | article | Morita, N. (2004). Negotiating participation and identity in second language academic communities. *TESOL Quarterly, 38*(4), 573–603. | 10.2307/3588281
+morita2000 | article | Morita, N. (2000). Discourse socialization through oral classroom activities in a TESL graduate program. *TESOL Quarterly, 34*(2), 279–310. | 10.2307/3587953
+duff2010 | article | Duff, P. A. (2010). Language socialization into academic discourse communities. *Annual Review of Applied Linguistics, 30*, 169–192. | 10.1017/S0267190510000048
+kaplan1966 | article | Kaplan, R. B. (1966). Cultural thought patterns in inter-cultural education. *Language Learning, 16*(1–2), 1–20. | 10.1111/j.1467-1770.1966.tb00804.x
+connor1996 | book | Connor, U. (1996). *Contrastive rhetoric: Cross-cultural aspects of second-language writing*. Cambridge University Press. |
+connor2004 | article | Connor, U. (2004). Intercultural rhetoric research: Beyond texts. *Journal of English for Academic Purposes, 3*(4), 291–304. | 10.1016/j.jeap.2004.07.003
+kubotalehner2004 | article | Kubota, R., & Lehner, A. (2004). Toward critical contrastive rhetoric. *Journal of Second Language Writing, 13*(1), 7–27. | 10.1016/j.jslw.2004.04.003
+hinds1987 | chapter | Hinds, J. (1987). Reader versus writer responsibility: A new typology. In U. Connor & R. B. Kaplan (Eds.), *Writing across languages: Analysis of L2 text* (pp. 141–152). Addison-Wesley. |
+holliday2006 | article | Holliday, A. (2006). Native-speakerism. *ELT Journal, 60*(4), 385–387. | 10.1093/elt/ccl030
+zhou2008 | article | Zhou, Y., Jindal-Snape, D., Topping, K., & Todman, J. (2008). Theoretical models of culture shock and adaptation in international students in higher education. *Studies in Higher Education, 33*(1), 63–75. | 10.1080/03075070701794833
+becher2001 | book | Becher, T., & Trowler, P. R. (2001). *Academic tribes and territories: Intellectual enquiry and the culture of disciplines* (2nd ed.). SRHE & Open University Press. |
+biglan1973 | article | Biglan, A. (1973). The characteristics of subject matter in different academic areas. *Journal of Applied Psychology, 57*(3), 195–203. | 10.1037/h0034701
+maton2013 | article | Maton, K. (2013). Making semantic waves: A key to cumulative knowledge-building. *Linguistics and Education, 24*(1), 8–22. | 10.1016/j.linged.2012.11.005
+meyerland2005 | article | Meyer, J. H. F., & Land, R. (2005). Threshold concepts and troublesome knowledge (2): Epistemological considerations and a conceptual framework for teaching and learning. *Higher Education, 49*(3), 373–388. | 10.1007/s10734-004-6779-5
+dafouzsmit2016 | article | Dafouz, E., & Smit, U. (2016). Towards a dynamic conceptual framework for English-medium education in multilingual university settings. *Applied Linguistics, 37*(3), 397–415. | 10.1093/applin/amu034
+macaro2018emi | article | Macaro, E., Curle, S., Pun, J., An, J., & Dearden, J. (2018). A systematic review of English medium instruction in higher education. *Language Teaching, 51*(1), 36–76. | 10.1017/S0261444817000350
+
+# --- Genre and discourse ---
+swales1990 | book | Swales, J. M. (1990). *Genre analysis: English in academic and research settings*. Cambridge University Press. |
+swales2004 | book | Swales, J. M. (2004). *Research genres: Explorations and applications*. Cambridge University Press. |
+swalesfeak2012 | book | Swales, J. M., & Feak, C. B. (2012). *Academic writing for graduate students: Essential tasks and skills* (3rd ed.). University of Michigan Press. |
+feakswales2009litrev | book | Feak, C. B., & Swales, J. M. (2009). *Telling a research story: Writing a literature review*. University of Michigan Press. |
+swalesfeak2009abstracts | book | Swales, J. M., & Feak, C. B. (2009). *Abstracts and the writing of abstracts*. University of Michigan Press. |
+hyon1996 | article | Hyon, S. (1996). Genre in three traditions: Implications for ESL. *TESOL Quarterly, 30*(4), 693–722. | 10.2307/3587930
+johns1997 | book | Johns, A. M. (1997). *Text, role, and context: Developing academic literacies*. Cambridge University Press. |
+tardy2009 | book | Tardy, C. M. (2009). *Building genre knowledge*. Parlor Press. |
+cheng2018 | book | Cheng, A. (2018). *Genre and graduate-level research writing*. University of Michigan Press. |
+yasuda2011 | article | Yasuda, S. (2011). Genre-based tasks in foreign language writing: Developing writers' genre awareness, linguistic knowledge, and writing competence. *Journal of Second Language Writing, 20*(2), 111–133. | 10.1016/j.jslw.2011.03.001
+nesigardner2012 | book | Nesi, H., & Gardner, S. (2012). *Genres across the disciplines: Student writing in higher education*. Cambridge University Press. |
+gardnernesi2013 | article | Gardner, S., & Nesi, H. (2013). A classification of genre families in university student writing. *Applied Linguistics, 34*(1), 25–52. | 10.1093/applin/ams024
+bhatia1993 | book | Bhatia, V. K. (1993). *Analysing genre: Language use in professional settings*. Longman. |
+rosemartin2012 | book | Rose, D., & Martin, J. R. (2012). *Learning to write, reading to learn: Genre, knowledge and pedagogy in the Sydney School*. Equinox. |
+martinrose2008 | book | Martin, J. R., & Rose, D. (2008). *Genre relations: Mapping culture*. Equinox. |
+trimble1985 | book | Trimble, L. (1985). *English for science and technology: A discourse approach*. Cambridge University Press. |
+mohan1986 | book | Mohan, B. A. (1986). *Language and content*. Addison-Wesley. |
+hoey1983 | book | Hoey, M. (1983). *On the surface of discourse*. George Allen & Unwin. |
+hoey2001 | book | Hoey, M. (2001). *Textual interaction: An introduction to written discourse analysis*. Routledge. |
+hallidayhasan1976 | book | Halliday, M. A. K., & Hasan, R. (1976). *Cohesion in English*. Longman. |
+danes1974 | chapter | Daneš, F. (1974). Functional sentence perspective and the organization of the text. In F. Daneš (Ed.), *Papers on functional sentence perspective* (pp. 106–128). Academia. |
+halliday1989 | book | Halliday, M. A. K. (1989). *Spoken and written language* (2nd ed.). Oxford University Press. |
+hallidaymartin1993 | book | Halliday, M. A. K., & Martin, J. R. (1993). *Writing science: Literacy and discursive power*. Falmer Press. |
+hallidaymatthiessen2014 | book | Halliday, M. A. K., & Matthiessen, C. M. I. M. (2014). *Halliday's introduction to functional grammar* (4th ed.). Routledge. |
+thompson2014 | book | Thompson, G. (2014). *Introducing functional grammar* (3rd ed.). Routledge. |
+schleppegrell2004 | book | Schleppegrell, M. J. (2004). *The language of schooling: A functional linguistics perspective*. Lawrence Erlbaum. |
+flowerdew2003signalling | article | Flowerdew, J. (2003). Signalling nouns in discourse. *English for Specific Purposes, 22*(4), 329–346. | 10.1016/S0889-4906(02)00017-0
+crossleymcnamara2012 | article | Crossley, S. A., & McNamara, D. S. (2012). Predicting second language writing proficiency: The roles of cohesion and linguistic sophistication. *Journal of Research in Reading, 35*(2), 115–135. | 10.1111/j.1467-9817.2010.01449.x
+kressvanleeuwen2006 | book | Kress, G., & van Leeuwen, T. (2006). *Reading images: The grammar of visual design* (2nd ed.). Routledge. |
+
+# --- Corpus, grammar and register ---
+biber2006 | book | Biber, D. (2006). *University language: A corpus-based study of spoken and written registers*. John Benjamins. |
+biber1999lgswe | book | Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (1999). *Longman grammar of spoken and written English*. Longman. |
+bibergray2010 | article | Biber, D., & Gray, B. (2010). Challenging stereotypes about academic writing: Complexity, elaboration, explicitness. *Journal of English for Academic Purposes, 9*(1), 2–20. | 10.1016/j.jeap.2010.01.001
+bibergray2016 | book | Biber, D., & Gray, B. (2016). *Grammatical complexity in academic English: Linguistic change in writing*. Cambridge University Press. |
+biber2011complexity | article | Biber, D., Gray, B., & Poonpon, K. (2011). Should we use characteristics of conversation to measure grammatical complexity in L2 writing development? *TESOL Quarterly, 45*(1), 5–35. | 10.5054/tq.2011.244483
+biberconrad2019 | book | Biber, D., & Conrad, S. (2019). *Register, genre, and style* (2nd ed.). Cambridge University Press. |
+biber2004bundles | article | Biber, D., Conrad, S., & Cortes, V. (2004). If you look at…: Lexical bundles in university teaching and textbooks. *Applied Linguistics, 25*(3), 371–405. | 10.1093/applin/25.3.371
+parkinsonmusgrave2014 | article | Parkinson, J., & Musgrave, J. (2014). Development of noun phrase complexity in the writing of English for Academic Purposes students. *Journal of English for Academic Purposes, 14*, 48–59. | 10.1016/j.jeap.2013.12.001
+lu2011 | article | Lu, X. (2011). A corpus-based evaluation of syntactic complexity measures as indices of college-level ESL writers' language development. *TESOL Quarterly, 45*(1), 36–62. | 10.5054/tq.2011.240859
+celcemurcia1999 | book | Celce-Murcia, M., & Larsen-Freeman, D. (1999). *The grammar book: An ESL/EFL teacher's course* (2nd ed.). Heinle & Heinle. |
+master1997 | article | Master, P. (1997). The English article system: Acquisition, function, and pedagogy. *System, 25*(2), 215–232. | 10.1016/S0346-251X(97)00010-9
+tarone1998passive | article | Tarone, E., Dwyer, S., Gillette, S., & Icke, V. (1998). On the use of the passive and active voice in astrophysics journal papers: With extensions to other languages and other fields. *English for Specific Purposes, 17*(1), 113–132. | 10.1016/S0889-4906(97)00032-X
+shaw1992 | article | Shaw, P. (1992). Reasons for the correlation of voice, tense, and sentence function in reporting verbs. *Applied Linguistics, 13*(3), 302–319. | 10.1093/applin/13.3.302
+hinkel2002 | book | Hinkel, E. (2002). *Second language writers' text: Linguistic and rhetorical features*. Lawrence Erlbaum. |
+hinkel2004 | book | Hinkel, E. (2004). *Teaching academic ESL writing: Practical techniques in vocabulary and grammar*. Lawrence Erlbaum. |
+hylandjiang2017 | article | Hyland, K., & Jiang, F. (K.). (2017). Is academic writing becoming more informal? *English for Specific Purposes, 45*, 40–51. | 10.1016/j.esp.2016.09.001
+changswales1999 | chapter | Chang, Y.-Y., & Swales, J. M. (1999). Informal elements in English academic writing: Threats or opportunities for advanced non-native speakers? In C. N. Candlin & K. Hyland (Eds.), *Writing: Texts, processes and practices* (pp. 145–167). Longman. |
+hunston2002 | book | Hunston, S. (2002). *Corpora in applied linguistics*. Cambridge University Press. |
+granger1998 | book | Granger, S. (Ed.). (1998). *Learner English on computer*. Longman. |
+boultoncobb2017 | article | Boulton, A., & Cobb, T. (2017). Corpus use in language learning: A meta-analysis. *Language Learning, 67*(2), 348–393. | 10.1111/lang.12224
+yoonhirvela2004 | article | Yoon, H., & Hirvela, A. (2004). ESL student attitudes toward corpus use in L2 writing. *Journal of Second Language Writing, 13*(4), 257–283. | 10.1016/j.jslw.2004.06.002
+charles2007 | article | Charles, M. (2007). Reconciling top-down and bottom-up approaches to graduate writing: Using a corpus to teach rhetorical functions. *Journal of English for Academic Purposes, 6*(4), 289–302. | 10.1016/j.jeap.2007.09.009
+apa2020 | standard | American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). |
+mla2021 | standard | Modern Language Association of America. (2021). *MLA handbook* (9th ed.). |
+chicago2024 | standard | University of Chicago Press. (2024). *The Chicago manual of style* (18th ed.). |
+oscola2026 | standard | Goudkamp, J. (Ed.). (2026). *OSCOLA: The Oxford University standard for citation of legal authorities* (5th ed.). Hart Publishing. |
+ieee2023 | standard | IEEE. (2023). *IEEE reference guide* (Version 11.29.2023). IEEE Publication Operations. |
+icmje2025 | standard | International Committee of Medical Journal Editors. (2025). *Recommendations for the conduct, reporting, editing, and publication of scholarly work in medical journals*. ICMJE. |
+
+# --- Vocabulary and phraseology ---
+coxhead2000 | article | Coxhead, A. (2000). A new academic word list. *TESOL Quarterly, 34*(2), 213–238. | 10.2307/3587951
+gardnerdavies2014 | article | Gardner, D., & Davies, M. (2014). A new academic vocabulary list. *Applied Linguistics, 35*(3), 305–327. | 10.1093/applin/amt015
+hylandtse2007 | article | Hyland, K., & Tse, P. (2007). Is there an "academic vocabulary"? *TESOL Quarterly, 41*(2), 235–253. | 10.1002/j.1545-7249.2007.tb00058.x
+durrant2016 | article | Durrant, P. (2016). To what extent is the Academic Vocabulary List relevant to university student writing? *English for Specific Purposes, 43*, 49–61. | 10.1016/j.esp.2016.01.004
+simpsonvlachellis2010 | article | Simpson-Vlach, R., & Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. *Applied Linguistics, 31*(4), 487–512. | 10.1093/applin/amp058
+ackermannchen2013 | article | Ackermann, K., & Chen, Y.-H. (2013). Developing the Academic Collocation List (ACL): A corpus-driven and expert-judged approach. *Journal of English for Academic Purposes, 12*(4), 235–247. | 10.1016/j.jeap.2013.08.002
+hyland2008bundles | article | Hyland, K. (2008). As can be seen: Lexical bundles and disciplinary variation. *English for Specific Purposes, 27*(1), 4–21. | 10.1016/j.esp.2007.06.001
+cortes2004 | article | Cortes, V. (2004). Lexical bundles in published and student disciplinary writing: Examples from history and biology. *English for Specific Purposes, 23*(4), 397–423. | 10.1016/j.esp.2003.12.001
+chenbaker2010 | article | Chen, Y.-H., & Baker, P. (2010). Lexical bundles in L1 and L2 academic writing. *Language Learning & Technology, 14*(2), 30–49. |
+nesselhauf2003 | article | Nesselhauf, N. (2003). The use of collocations by advanced learners of English and some implications for teaching. *Applied Linguistics, 24*(2), 223–242. | 10.1093/applin/24.2.223
+lauferwaldman2011 | article | Laufer, B., & Waldman, T. (2011). Verb-noun collocations in second language writing: A corpus analysis of learners' English. *Language Learning, 61*(2), 647–672. | 10.1111/j.1467-9922.2010.00621.x
+nation2013 | book | Nation, I. S. P. (2013). *Learning vocabulary in another language* (2nd ed.). Cambridge University Press. |
+nation2006 | article | Nation, I. S. P. (2006). How large a vocabulary is needed for reading and listening? *Canadian Modern Language Review, 63*(1), 59–82. | 10.3138/cmlr.63.1.59
+hunation2000 | article | Hu, M., & Nation, I. S. P. (2000). Unknown vocabulary density and reading comprehension. *Reading in a Foreign Language, 13*(1), 403–430. |
+laufer2010 | article | Laufer, B., & Ravenhorst-Kalovski, G. C. (2010). Lexical threshold revisited: Lexical text coverage, learners' vocabulary size and reading comprehension. *Reading in a Foreign Language, 22*(1), 15–30. |
+schmitt2011 | article | Schmitt, N., Jiang, X., & Grabe, W. (2011). The percentage of words known in a text and reading comprehension. *The Modern Language Journal, 95*(1), 26–43. | 10.1111/j.1540-4781.2011.01146.x
+vanzeeland2013 | article | van Zeeland, H., & Schmitt, N. (2013). Lexical coverage in L1 and L2 listening comprehension: The same or different from reading comprehension? *Applied Linguistics, 34*(4), 457–479. | 10.1093/applin/ams074
+webbnation2017 | book | Webb, S., & Nation, P. (2017). *How vocabulary is learned*. Oxford University Press. |
+bauernation1993 | article | Bauer, L., & Nation, P. (1993). Word families. *International Journal of Lexicography, 6*(4), 253–279. | 10.1093/ijl/6.4.253
+schmitt2008 | article | Schmitt, N. (2008). Review article: Instructed second language vocabulary learning. *Language Teaching Research, 12*(3), 329–363. | 10.1177/1362168808089921
+nassaji2003 | article | Nassaji, H. (2003). L2 vocabulary learning from context: Strategies, knowledge sources, and their relationship with success in L2 lexical inferencing. *TESOL Quarterly, 37*(4), 645–670. | 10.2307/3588216
+
+# --- Stance, metadiscourse, evaluation ---
+hyland2005metadiscourse | book | Hyland, K. (2005). *Metadiscourse: Exploring interaction in writing*. Continuum. |
+hyland2005stance | article | Hyland, K. (2005). Stance and engagement: A model of interaction in academic discourse. *Discourse Studies, 7*(2), 173–192. | 10.1177/1461445605050365
+hylandtse2004 | article | Hyland, K., & Tse, P. (2004). Metadiscourse in academic writing: A reappraisal. *Applied Linguistics, 25*(2), 156–177. | 10.1093/applin/25.2.156
+hyland1998hedging | book | Hyland, K. (1998). *Hedging in scientific research articles*. John Benjamins. |
+salagermeyer1994 | article | Salager-Meyer, F. (1994). Hedges and textual communicative function in medical English written discourse. *English for Specific Purposes, 13*(2), 149–170. | 10.1016/0889-4906(94)90013-2
+hyland2001selfmention | article | Hyland, K. (2001). Humble servants of the discipline? Self-mention in research articles. *English for Specific Purposes, 20*(3), 207–226. | 10.1016/S0889-4906(00)00012-0
+hyland2002authority | article | Hyland, K. (2002). Authority and invisibility: Authorial identity in academic writing. *Journal of Pragmatics, 34*(8), 1091–1112. | 10.1016/S0378-2166(02)00035-8
+tangjohn1999 | article | Tang, R., & John, S. (1999). The 'I' in identity: Exploring writer identity in student academic writing through the first person pronoun. *English for Specific Purposes, 18*(Suppl. 1), S23–S39. | 10.1016/S0889-4906(99)00009-5
+martinwhite2005 | book | Martin, J. R., & White, P. R. R. (2005). *The language of evaluation: Appraisal in English*. Palgrave Macmillan. |
+hunstonthompson2000 | book | Hunston, S., & Thompson, G. (Eds.). (2000). *Evaluation in text: Authorial stance and the construction of discourse*. Oxford University Press. |
+changschleppegrell2011 | article | Chang, P., & Schleppegrell, M. (2011). Taking an effective authorial stance in academic writing: Making the linguistic resources explicit for L2 writers in the social sciences. *Journal of English for Academic Purposes, 10*(3), 140–151. | 10.1016/j.jeap.2011.05.005
+lancaster2014 | article | Lancaster, Z. (2014). Exploring valued patterns of stance in upper-level student writing in the disciplines. *Written Communication, 31*(1), 27–57. | 10.1177/0741088313515170
+aulllancaster2014 | article | Aull, L. L., & Lancaster, Z. (2014). Linguistic markers of stance in early and advanced academic writing: A corpus-based comparison. *Written Communication, 31*(2), 151–183. | 10.1177/0741088314527055
+
+# --- Source use, citation, integrity ---
+pecorari2003 | article | Pecorari, D. (2003). Good and original: Plagiarism and patchwriting in academic second-language writing. *Journal of Second Language Writing, 12*(4), 317–345. | 10.1016/j.jslw.2003.08.004
+pecorari2008 | book | Pecorari, D. (2008). *Academic writing and plagiarism: A linguistic analysis*. Continuum. |
+pecorari2013 | book | Pecorari, D. (2013). *Teaching to avoid plagiarism: How to promote good source use*. Open University Press. |
+howard1995 | article | Howard, R. M. (1995). Plagiarisms, authorships, and the academic death penalty. *College English, 57*(7), 788–806. | 10.2307/378403
+pennycook1996 | article | Pennycook, A. (1996). Borrowing others' words: Text, ownership, memory, and plagiarism. *TESOL Quarterly, 30*(2), 201–230. | 10.2307/3588141
+shi2004 | article | Shi, L. (2004). Textual borrowing in second-language writing. *Written Communication, 21*(2), 171–200. | 10.1177/0741088303262846
+keck2006 | article | Keck, C. (2006). The use of paraphrase in summary writing: A comparison of L1 and L2 writers. *Journal of Second Language Writing, 15*(4), 261–278. | 10.1016/j.jslw.2006.09.006
+hirveladu2013 | article | Hirvela, A., & Du, Q. (2013). "Why am I paraphrasing?": Undergraduate ESL writers' engagement with source-based academic writing and reading. *Journal of English for Academic Purposes, 12*(2), 87–98. | 10.1016/j.jeap.2012.11.005
+thompsonye1991 | article | Thompson, G., & Ye, Y. (1991). Evaluation in the reporting verbs used in academic papers. *Applied Linguistics, 12*(4), 365–382. | 10.1093/applin/12.4.365
+hyland1999attribution | article | Hyland, K. (1999). Academic attribution: Citation and the construction of disciplinary knowledge. *Applied Linguistics, 20*(3), 341–367. | 10.1093/applin/20.3.341
+swales1986citation | article | Swales, J. (1986). Citation analysis and discourse analysis. *Applied Linguistics, 7*(1), 39–56. | 10.1093/applin/7.1.39
+thompsontribble2001 | article | Thompson, P., & Tribble, C. (2001). Looking at citations: Using corpora in English for academic purposes. *Language Learning & Technology, 5*(3), 91–105. |
+petric2007 | article | Petrić, B. (2007). Rhetorical functions of citations in high- and low-rated master's theses. *Journal of English for Academic Purposes, 6*(3), 238–253. | 10.1016/j.jeap.2007.09.002
+plakansgebril2012 | article | Plakans, L., & Gebril, A. (2012). A close investigation into source use in integrated second language writing tasks. *Assessing Writing, 17*(1), 18–34. | 10.1016/j.asw.2011.09.002
+plakans2008 | article | Plakans, L. (2008). Comparing composing processes in writing-only and reading-to-write test tasks. *Assessing Writing, 13*(2), 111–129. | 10.1016/j.asw.2008.07.001
+grabezhang2013 | article | Grabe, W., & Zhang, C. (2013). Reading and writing together: A critical component of English for academic purposes teaching and learning. *TESOL Journal, 4*(1), 9–24. | 10.1002/tesj.65
+hirvela2004 | book | Hirvela, A. (2004). *Connecting reading and writing in second language writing instruction*. University of Michigan Press. |
+spivey1990 | article | Spivey, N. N. (1990). Transforming texts: Constructive processes in reading and writing. *Written Communication, 7*(2), 256–287. | 10.1177/0741088390007002004
+browday1983 | article | Brown, A. L., & Day, J. D. (1983). Macrorules for summarizing texts: The development of expertise. *Journal of Verbal Learning and Verbal Behavior, 22*(1), 1–14. | 10.1016/S0022-5371(83)80002-4
+johnsmayes1990 | article | Johns, A. M., & Mayes, P. (1990). An analysis of summary protocols of university ESL students. *Applied Linguistics, 11*(3), 253–271. | 10.1093/applin/11.3.253
+kintsch1978 | article | Kintsch, W., & van Dijk, T. A. (1978). Toward a model of text comprehension and production. *Psychological Review, 85*(5), 363–394. | 10.1037/0033-295X.85.5.363
+bretag2016 | book | Bretag, T. (Ed.). (2016). *Handbook of academic integrity*. Springer. |
+bretag2014 | article | Bretag, T., Mahmud, S., Wallace, M., Walker, R., McGowan, U., East, J., Green, M., Partridge, L., & James, C. (2014). 'Teach us how to do it properly!' An Australian academic integrity student survey. *Studies in Higher Education, 39*(7), 1150–1169. | 10.1080/03075079.2013.777406
+icai2021 | report | International Center for Academic Integrity. (2021). *The fundamental values of academic integrity* (3rd ed.). ICAI. |
+acrl2016 | standard | Association of College and Research Libraries. (2016). *Framework for information literacy for higher education*. American Library Association. |
+wineburg2019 | article | Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: Reading less and learning more when evaluating digital information. *Teachers College Record, 121*(11), 1–40. | 10.1177/016146811912101102
+braten2009 | article | Bråten, I., Strømsø, H. I., & Britt, M. A. (2009). Trust matters: Examining the role of source evaluation in students' construction of meaning within and across multiple texts. *Reading Research Quarterly, 44*(1), 6–28. | 10.1598/RRQ.44.1.1
+fanelli2009 | article | Fanelli, D. (2009). How many scientists fabricate and falsify research? A systematic review and meta-analysis of survey data. *PLoS ONE, 4*(5), e5738. | 10.1371/journal.pone.0005738
+
+# --- Reading ---
+grabe2009 | book | Grabe, W. (2009). *Reading in a second language: Moving from theory to practice*. Cambridge University Press. |
+grabestoller2011 | book | Grabe, W., & Stoller, F. L. (2011). *Teaching and researching reading* (2nd ed.). Pearson Education. |
+koda2005 | book | Koda, K. (2005). *Insights into second language reading: A cross-linguistic approach*. Cambridge University Press. |
+carrell1985 | article | Carrell, P. L. (1985). Facilitating ESL reading by teaching text structure. *TESOL Quarterly, 19*(4), 727–752. | 10.2307/3586673
+mokhtari2002 | article | Mokhtari, K., & Reichard, C. A. (2002). Assessing students' metacognitive awareness of reading strategies. *Journal of Educational Psychology, 94*(2), 249–259. | 10.1037/0022-0663.94.2.249
+sheorey2001 | article | Sheorey, R., & Mokhtari, K. (2001). Differences in the metacognitive awareness of reading strategies among native and non-native readers. *System, 29*(4), 431–449. | 10.1016/S0346-251X(01)00039-2
+palincsarbrown1984 | article | Palincsar, A. S., & Brown, A. L. (1984). Reciprocal teaching of comprehension-fostering and comprehension-monitoring activities. *Cognition and Instruction, 1*(2), 117–175. | 10.1207/s1532690xci0102_1
+rayner2016 | article | Rayner, K., Schotter, E. R., Masson, M. E. J., Potter, M. C., & Treiman, R. (2016). So much to read, so little time: How do we read, and can speed reading help? *Psychological Science in the Public Interest, 17*(1), 4–34. | 10.1177/1529100615623267
+daybamford1998 | book | Day, R. R., & Bamford, J. (1998). *Extensive reading in the second language classroom*. Cambridge University Press. |
+jeonday2016 | article | Jeon, E.-Y., & Day, R. R. (2016). The effectiveness of ER on reading proficiency: A meta-analysis. *Reading in a Foreign Language, 28*(2), 246–265. |
+beglar2012 | article | Beglar, D., Hunt, A., & Kite, Y. (2012). The effect of pleasure reading on Japanese university EFL learners' reading rates. *Language Learning, 62*(3), 665–703. | 10.1111/j.1467-9922.2011.00651.x
+nation2009readingwriting | book | Nation, I. S. P. (2009). *Teaching ESL/EFL reading and writing*. Routledge. |
+wallacewray2016 | book | Wallace, M., & Wray, A. (2016). *Critical reading and writing for postgraduates* (3rd ed.). SAGE. |
+
+# --- Listening, note-taking ---
+field2008 | book | Field, J. (2008). *Listening in the language classroom*. Cambridge University Press. |
+flowerdew1994 | book | Flowerdew, J. (Ed.). (1994). *Academic listening: Research perspectives*. Cambridge University Press. |
+young1994 | chapter | Young, L. (1994). University lectures: Macro-structure and micro-features. In J. Flowerdew (Ed.), *Academic listening: Research perspectives* (pp. 159–176). Cambridge University Press. |
+flowerdewmiller2005 | book | Flowerdew, J., & Miller, L. (2005). *Second language listening: Theory and practice*. Cambridge University Press. |
+vandergriftgoh2012 | book | Vandergrift, L., & Goh, C. C. M. (2012). *Teaching and learning second language listening: Metacognition in action*. Routledge. |
+lynch2011 | article | Lynch, T. (2011). Academic listening in the 21st century: Reviewing a decade of research. *Journal of English for Academic Purposes, 10*(2), 79–88. | 10.1016/j.jeap.2011.03.001
+rost2011 | book | Rost, M. (2011). *Teaching and researching listening* (2nd ed.). Pearson Education. |
+chaudronrichards1986 | article | Chaudron, C., & Richards, J. C. (1986). The effect of discourse markers on the comprehension of lectures. *Applied Linguistics, 7*(2), 113–127. | 10.1093/applin/7.2.113
+deroey2012 | article | Deroey, K. L. B., & Taverniers, M. (2012). 'Just remember this': Lexicogrammatical relevance markers in lectures. *English for Specific Purposes, 31*(4), 221–233. | 10.1016/j.esp.2012.05.001
+thompson2003lectures | article | Thompson, S. E. (2003). Text-structuring metadiscourse, intonation and the signalling of organisation in academic lectures. *Journal of English for Academic Purposes, 2*(1), 5–20. | 10.1016/S1475-1585(02)00036-X
+goh2000 | article | Goh, C. C. M. (2000). A cognitive perspective on language learners' listening comprehension problems. *System, 28*(1), 55–75. | 10.1016/S0346-251X(99)00060-3
+graham2006 | article | Graham, S. (2006). Listening comprehension: The learners' perspective. *System, 34*(2), 165–182. | 10.1016/j.system.2005.11.001
+griffiths1992 | article | Griffiths, R. (1992). Speech rate and listening comprehension: Further evidence of the relationship. *TESOL Quarterly, 26*(2), 385–390. | 10.2307/3587015
+major2002 | article | Major, R. C., Fitzmaurice, S. F., Bunta, F., & Balasubramanian, C. (2002). The effects of nonnative accents on listening comprehension: Implications for ESL assessment. *TESOL Quarterly, 36*(2), 173–190. | 10.2307/3588329
+kiewra1985 | article | Kiewra, K. A. (1985). Investigating notetaking and review: A depth of processing alternative. *Educational Psychologist, 20*(1), 23–32. | 10.1207/s15326985ep2001_4
+mueller2014 | article | Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168. | 10.1177/0956797614524581
+morehead2019 | article | Morehead, K., Dunlosky, J., & Rawson, K. A. (2019). How much mightier is the pen than the keyboard for note-taking? A replication and extension of Mueller and Oppenheimer (2014). *Educational Psychology Review, 31*(3), 753–780. | 10.1007/s10648-019-09468-2
+nesbit2006 | article | Nesbit, J. C., & Adesope, O. O. (2006). Learning with concept and knowledge maps: A meta-analysis. *Review of Educational Research, 76*(3), 413–448. | 10.3102/00346543076003413
+
+# --- Speaking, pronunciation, fluency, interaction ---
+ferristagg1996 | article | Ferris, D., & Tagg, T. (1996). Academic oral communication needs of EAP learners: What subject-matter instructors actually require. *TESOL Quarterly, 30*(1), 31–58. | 10.2307/3587606
+ferris1998oral | article | Ferris, D. (1998). Students' views of academic aural/oral skills: A comparative needs analysis. *TESOL Quarterly, 32*(2), 289–318. | 10.2307/3587585
+basturkmen2002 | article | Basturkmen, H. (2002). Negotiating meaning in seminar-type discussion and EAP. *English for Specific Purposes, 21*(3), 233–242. | 10.1016/S0889-4906(01)00024-2
+basturkmen2003 | article | Basturkmen, H. (2003). So what happens when the tutor walks in? Some observations on interaction in a university discussion group with and without the tutor. *Journal of English for Academic Purposes, 2*(1), 21–33. | 10.1016/S1475-1585(02)00043-7
+aguilar2004 | article | Aguilar, M. (2004). The peer seminar, a spoken research process genre. *Journal of English for Academic Purposes, 3*(1), 55–72. | 10.1016/j.jeap.2003.09.001
+hoodforey2005 | article | Hood, S., & Forey, G. (2005). Introducing a conference paper: Getting interpersonal with your audience. *Journal of English for Academic Purposes, 4*(4), 291–306. | 10.1016/j.jeap.2005.07.003
+rowleyjolivet2005 | article | Rowley-Jolivet, E., & Carter-Thomas, S. (2005). The rhetoric of conference presentation introductions: Context, argument and interaction. *International Journal of Applied Linguistics, 15*(1), 45–70. | 10.1111/j.1473-4192.2005.00080.x
+rowleyjolivet2002 | article | Rowley-Jolivet, E. (2002). Visual discourse in scientific conference papers: A genre-based study. *English for Specific Purposes, 21*(1), 19–40. | 10.1016/S0889-4906(00)00024-7
+wulff2009 | article | Wulff, S., Swales, J. M., & Keller, K. (2009). "We have about seven minutes for questions": The discussion sessions from a specialized conference. *English for Specific Purposes, 28*(2), 79–92. | 10.1016/j.esp.2008.11.002
+macintosh2007 | article | MacIntosh-Murray, A. (2007). Poster presentations as a genre in knowledge communication: A case study of forms, norms, and values. *Science Communication, 28*(3), 347–376. | 10.1177/1075547006298251
+derwingmunro2015 | book | Derwing, T. M., & Munro, M. J. (2015). *Pronunciation fundamentals: Evidence-based perspectives for L2 teaching and research*. John Benjamins. |
+munroderwing1995 | article | Munro, M. J., & Derwing, T. M. (1995). Foreign accent, comprehensibility, and intelligibility in the speech of second language learners. *Language Learning, 45*(1), 73–97. | 10.1111/j.1467-1770.1995.tb00963.x
+levis2005 | article | Levis, J. M. (2005). Changing contexts and shifting paradigms in pronunciation teaching. *TESOL Quarterly, 39*(3), 369–377. | 10.2307/3588485
+jenkins2000 | book | Jenkins, J. (2000). *The phonology of English as an international language*. Oxford University Press. |
+field2005 | article | Field, J. (2005). Intelligibility and the listener: The role of lexical stress. *TESOL Quarterly, 39*(3), 399–423. | 10.2307/3588487
+hahn2004 | article | Hahn, L. D. (2004). Primary stress and intelligibility: Research to motivate the teaching of suprasegmentals. *TESOL Quarterly, 38*(2), 201–223. | 10.2307/3588378
+pickering2001 | article | Pickering, L. (2001). The role of tone choice in improving ITA communication in the classroom. *TESOL Quarterly, 35*(2), 233–255. | 10.2307/3587647
+levelt1989 | book | Levelt, W. J. M. (1989). *Speaking: From intention to articulation*. MIT Press. |
+segalowitz2010 | book | Segalowitz, N. (2010). *Cognitive bases of second language fluency*. Routledge. |
+housenkuiken2009 | article | Housen, A., & Kuiken, F. (2009). Complexity, accuracy, and fluency in second language acquisition. *Applied Linguistics, 30*(4), 461–473. | 10.1093/applin/amp048
+skehan1998 | book | Skehan, P. (1998). *A cognitive approach to language learning*. Oxford University Press. |
+horwitz1986 | article | Horwitz, E. K., Horwitz, M. B., & Cope, J. (1986). Foreign language classroom anxiety. *The Modern Language Journal, 70*(2), 125–132. | 10.1111/j.1540-4781.1986.tb05256.x
+macintyre1998 | article | MacIntyre, P. D., Clément, R., Dörnyei, Z., & Noels, K. A. (1998). Conceptualizing willingness to communicate in a L2: A situational model of L2 confidence and affiliation. *The Modern Language Journal, 82*(4), 545–562. | 10.1111/j.1540-4781.1998.tb05543.x
+lysterranta1997 | article | Lyster, R., & Ranta, L. (1997). Corrective feedback and learner uptake: Negotiation of form in communicative classrooms. *Studies in Second Language Acquisition, 19*(1), 37–66. | 10.1017/S0272263197001034
+leki2001 | article | Leki, I. (2001). "A narrow thinking system": Nonnative-English-speaking students in group projects across the curriculum. *TESOL Quarterly, 35*(1), 39–67. | 10.2307/3587859
+
+# --- Pragmatics and correspondence ---
+brownlevinson1987 | book | Brown, P., & Levinson, S. C. (1987). *Politeness: Some universals in language usage*. Cambridge University Press. |
+kasperrose2002 | book | Kasper, G., & Rose, K. R. (2002). *Pragmatic development in a second language*. Blackwell. |
+biesenbach2007 | article | Biesenbach-Lucas, S. (2007). Students writing emails to faculty: An examination of e-politeness among native and non-native speakers of English. *Language Learning & Technology, 11*(2), 59–81. |
+economidou2011 | article | Economidou-Kogetsidis, M. (2011). "Please answer me as soon as possible": Pragmatic failure in non-native speakers' e-mail requests to faculty. *Journal of Pragmatics, 43*(13), 3193–3215. | 10.1016/j.pragma.2011.06.006
+
+# --- Writing processes, feedback, assessment ---
+flowerhayes1981 | article | Flower, L., & Hayes, J. R. (1981). A cognitive process theory of writing. *College Composition and Communication, 32*(4), 365–387. | 10.2307/356600
+bereiter1987 | book | Bereiter, C., & Scardamalia, M. (1987). *The psychology of written composition*. Lawrence Erlbaum. |
+zamel1983 | article | Zamel, V. (1983). The composing processes of advanced ESL students: Six case studies. *TESOL Quarterly, 17*(2), 165–187. | 10.2307/3586647
+sommers1980 | article | Sommers, N. (1980). Revision strategies of student writers and experienced adult writers. *College Composition and Communication, 31*(4), 378–388. | 10.2307/356588
+hyland2003writing | book | Hyland, K. (2003). *Second language writing*. Cambridge University Press. |
+ellisyuan2004 | article | Ellis, R., & Yuan, F. (2004). The effects of planning on fluency, complexity, and accuracy in second language narrative writing. *Studies in Second Language Acquisition, 26*(1), 59–84. | 10.1017/S0272263104261034
+hylandhyland2019 | book | Hyland, K., & Hyland, F. (Eds.). (2019). *Feedback in second language writing: Contexts and issues* (2nd ed.). Cambridge University Press. |
+truscott1996 | article | Truscott, J. (1996). The case against grammar correction in L2 writing classes. *Language Learning, 46*(2), 327–369. | 10.1111/j.1467-1770.1996.tb01238.x
+ferris1999 | article | Ferris, D. (1999). The case for grammar correction in L2 writing classes: A response to Truscott (1996). *Journal of Second Language Writing, 8*(1), 1–11. | 10.1016/S1060-3743(99)80110-6
+bitchenerferris2012 | book | Bitchener, J., & Ferris, D. R. (2012). *Written corrective feedback in second language acquisition and writing*. Routledge. |
+kanghan2015 | article | Kang, E., & Han, Z. (2015). The efficacy of written corrective feedback in improving L2 written accuracy: A meta-analysis. *The Modern Language Journal, 99*(1), 1–18. | 10.1111/modl.12189
+carlessboud2018 | article | Carless, D., & Boud, D. (2018). The development of student feedback literacy: Enabling uptake of feedback. *Assessment & Evaluation in Higher Education, 43*(8), 1315–1325. | 10.1080/02602938.2018.1463354
+sadler1989 | article | Sadler, D. R. (1989). Formative assessment and the design of instructional systems. *Instructional Science, 18*(2), 119–144. | 10.1007/BF00117714
+nicol2006 | article | Nicol, D. J., & Macfarlane-Dick, D. (2006). Formative assessment and self-regulated learning: A model and seven principles of good feedback practice. *Studies in Higher Education, 31*(2), 199–218. | 10.1080/03075070600572090
+hattietimperley2007 | article | Hattie, J., & Timperley, H. (2007). The power of feedback. *Review of Educational Research, 77*(1), 81–112. | 10.3102/003465430298487
+andrade2009 | article | Andrade, H., & Valtcheva, A. (2009). Promoting learning and achievement through self-assessment. *Theory Into Practice, 48*(1), 12–19. | 10.1080/00405840802577544
+lundstrombaker2009 | article | Lundstrom, K., & Baker, W. (2009). To give is better than to receive: The benefits of peer review to the reviewer's own writing. *Journal of Second Language Writing, 18*(1), 30–43. | 10.1016/j.jslw.2008.06.002
+liuhansen2002 | book | Liu, J., & Hansen, J. G. (2002). *Peer response in second language writing classrooms*. University of Michigan Press. |
+weigle2002 | book | Weigle, S. C. (2002). *Assessing writing*. Cambridge University Press. |
+bachmanpalmer2010 | book | Bachman, L. F., & Palmer, A. S. (2010). *Language assessment in practice*. Oxford University Press. |
+mooremorton2005 | article | Moore, T., & Morton, J. (2005). Dimensions of difference: A comparison of university writing and IELTS writing. *Journal of English for Academic Purposes, 4*(1), 43–66. | 10.1016/j.jeap.2004.02.001
+green2007 | book | Green, A. (2007). *IELTS washback in context: Preparation for academic writing in higher education*. Cambridge University Press. |
+ielts2023writing | standard | IELTS. (2023). *IELTS Writing band descriptors (Task 1 and Task 2)* (updated May 2023). British Council, IDP: IELTS Australia, & Cambridge University Press & Assessment. |
+ielts2023speaking | standard | IELTS. (2023). *IELTS Speaking band descriptors* (updated May 2023). British Council, IDP: IELTS Australia, & Cambridge University Press & Assessment. |
+ukvi2025student | web | UK Visas and Immigration. (2025). *Student and Child Student: Caseworker guidance* (English language requirement sections). Home Office. |
+
+# --- Argument and critical thinking ---
+toulmin2003 | book | Toulmin, S. E. (2003). *The uses of argument* (Updated ed.). Cambridge University Press. |
+andrews2010 | book | Andrews, R. (2010). *Argumentation in higher education: Improving practice through theory and research*. Routledge. |
+hirvela2017 | article | Hirvela, A. (2017). Argumentation & second language writing: Are we missing the boat? *Journal of Second Language Writing, 36*. |
+qinkarabacak2010 | article | Qin, J., & Karabacak, E. (2010). The analysis of Toulmin elements in Chinese EFL university argumentative writing. *System, 38*(3), 444–456. | 10.1016/j.system.2010.06.012
+kuhn1991 | book | Kuhn, D. (1991). *The skills of argument*. Cambridge University Press. |
+walton2006 | book | Walton, D. N. (2006). *Fundamentals of critical argumentation*. Cambridge University Press. |
+facione1990 | report | Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction (The Delphi Report)*. California Academic Press. |
+moore2013 | article | Moore, T. (2013). Critical thinking: Seven definitions in search of a concept. *Studies in Higher Education, 38*(4), 506–522. | 10.1080/03075079.2011.586995
+atkinson1997 | article | Atkinson, D. (1997). A critical approach to critical thinking in TESOL. *TESOL Quarterly, 31*(1), 71–94. | 10.2307/3587975
+hoferpintrich1997 | article | Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning. *Review of Educational Research, 67*(1), 88–140. | 10.3102/00346543067001088
+perry1970 | book | Perry, W. G. (1970). *Forms of intellectual and ethical development in the college years: A scheme*. Holt, Rinehart and Winston. |
+kahneman2011 | book | Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux. |
+nickerson1998 | article | Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology, 2*(2), 175–220. | 10.1037/1089-2680.2.2.175
+andersonkrathwohl2001 | book | Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman. |
+vangelder2005 | article | van Gelder, T. (2005). Teaching critical thinking: Some lessons from cognitive science. *College Teaching, 53*(1), 41–48. | 10.3200/CTCH.53.1.41-48
+
+# --- Research genres, theses, publication ---
+samraj2002 | article | Samraj, B. (2002). Introductions in research articles: Variations across disciplines. *English for Specific Purposes, 21*(1), 1–17. | 10.1016/S0889-4906(00)00023-5
+yangallison2003 | article | Yang, R., & Allison, D. (2003). Research articles in applied linguistics: Moving from results to conclusions. *English for Specific Purposes, 22*(4), 365–385. | 10.1016/S0889-4906(02)00026-1
+kanoksilapatham2005 | article | Kanoksilapatham, B. (2005). Rhetorical structure of biochemistry research articles. *English for Specific Purposes, 24*(3), 269–292. | 10.1016/j.esp.2004.08.003
+hopkins1988 | article | Hopkins, A., & Dudley-Evans, T. (1988). A genre-based investigation of the discussion sections in articles and dissertations. *English for Specific Purposes, 7*(2), 113–121. | 10.1016/0889-4906(88)90029-4
+lim2006 | article | Lim, J. M.-H. (2006). Method sections of management research articles: A pedagogically motivated qualitative study. *English for Specific Purposes, 25*(3), 282–309. | 10.1016/j.esp.2005.07.001
+cotos2017 | article | Cotos, E., Huffman, S., & Link, S. (2017). A move/step model for methods sections: Demonstrating rigour and credibility. *English for Specific Purposes, 46*, 90–106. | 10.1016/j.esp.2017.01.001
+kwan2006 | article | Kwan, B. S. C. (2006). The schematic structure of literature reviews in doctoral theses of applied linguistics. *English for Specific Purposes, 25*(1), 30–55. | 10.1016/j.esp.2005.06.001
+santos1996 | article | Santos, M. B. D. (1996). The textual organization of research paper abstracts in applied linguistics. *Text, 16*(4), 481–499. | 10.1515/text.1.1996.16.4.481
+basturkmen2009 | article | Basturkmen, H. (2009). Commenting on results in published research articles and masters dissertations in Language Teaching. *Journal of English for Academic Purposes, 8*(4), 241–251. | 10.1016/j.jeap.2009.07.001
+paltridge2002 | article | Paltridge, B. (2002). Thesis and dissertation writing: An examination of published advice and actual practice. *English for Specific Purposes, 21*(2), 125–143. | 10.1016/S0889-4906(00)00025-9
+paltridgestarfield2020 | book | Paltridge, B., & Starfield, S. (2020). *Thesis and dissertation writing in a second language: A handbook for students and their supervisors* (2nd ed.). Routledge. |
+bunton2002 | chapter | Bunton, D. (2002). Generic moves in Ph.D. thesis introductions. In J. Flowerdew (Ed.), *Academic discourse* (pp. 57–75). Longman. |
+kamlerthomson2014 | book | Kamler, B., & Thomson, P. (2014). *Helping doctoral students write: Pedagogies for supervision* (2nd ed.). Routledge. |
+belcher1994 | article | Belcher, D. (1994). The apprenticeship approach to advanced academic literacy: Graduate students and their mentors. *English for Specific Purposes, 13*(1), 23–34. | 10.1016/0889-4906(94)90022-1
+flowerdew1999 | article | Flowerdew, J. (1999). Problems in writing for scholarly publication in English: The case of Hong Kong. *Journal of Second Language Writing, 8*(3), 243–264. | 10.1016/S1060-3743(99)80116-7
+lilliscurry2010 | book | Lillis, T., & Curry, M. J. (2010). *Academic writing in a global context: The politics and practices of publishing in English*. Routledge. |
+belcherw2019 | book | Belcher, W. L. (2019). *Writing your journal article in twelve weeks: A guide to academic publishing success* (2nd ed.). University of Chicago Press. |
+connormauranen1999 | article | Connor, U., & Mauranen, A. (1999). Linguistic analysis of grant proposals: European Union research grants. *English for Specific Purposes, 18*(1), 47–62. | 10.1016/S0889-4906(97)00026-4
+creswell2018 | book | Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE. |
+parkinson2017 | article | Parkinson, J. (2017). The student laboratory report genre: A genre analysis. *English for Specific Purposes, 45*, 1–13. | 10.1016/j.esp.2016.08.001
+nathan2013 | article | Nathan, P. (2013). Academic writing in the business school: The genre of the business case report. *Journal of English for Academic Purposes, 12*(1), 57–68. | 10.1016/j.jeap.2012.11.003
+brand2015credit | article | Brand, A., Allen, L., Altman, M., Hlava, M., & Scott, J. (2015). Beyond authorship: Attribution, contribution, collaboration, and credit. *Learned Publishing, 28*(2), 151–155. | 10.1087/20150211
+vitae2010 | report | Vitae. (2010). *Researcher development framework*. Careers Research and Advisory Centre (CRAC). |
+gosden1995 | article | Gosden, H. (1995). Success in research article writing and revision: A social-constructionist perspective. *English for Specific Purposes, 14*(1), 37–57. | 10.1016/0889-4906(94)00022-6
+
+# --- Reflection, practice genres ---
+gibbs1988 | report | Gibbs, G. (1988). *Learning by doing: A guide to teaching and learning methods*. Further Education Unit, Oxford Polytechnic. |
+moon2004 | book | Moon, J. A. (2004). *A handbook of reflective and experiential learning: Theory and practice*. RoutledgeFalmer. |
+ryan2011 | article | Ryan, M. (2011). Improving reflective writing in higher education: A social semiotic perspective. *Teaching in Higher Education, 16*(1), 99–111. | 10.1080/13562517.2010.507311
+schon1983 | book | Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. Basic Books. |
+sackett1996 | article | Sackett, D. L., Rosenberg, W. M. C., Gray, J. A. M., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ, 312*(7023), 71–72. | 10.1136/bmj.312.7023.71
+
+# --- Data, numeracy, visuals ---
+shahhoeffner2002 | article | Shah, P., & Hoeffner, J. (2002). Review of graph comprehension research: Implications for instruction. *Educational Psychology Review, 14*(1), 47–69. | 10.1023/A:1013180410169
+friel2001 | article | Friel, S. N., Curcio, F. R., & Bright, G. W. (2001). Making sense of graphs: Critical factors influencing comprehension and instructional implications. *Journal for Research in Mathematics Education, 32*(2), 124–158. | 10.2307/749671
+gal2002 | article | Gal, I. (2002). Adults' statistical literacy: Meanings, components, responsibilities. *International Statistical Review, 70*(1), 1–25. | 10.1111/j.1751-5823.2002.tb00336.x
+gigerenzer2007 | article | Gigerenzer, G., Gaissmaier, W., Kurz-Milcke, E., Schwartz, L. M., & Woloshin, S. (2007). Helping doctors and patients make sense of health statistics. *Psychological Science in the Public Interest, 8*(2), 53–96. | 10.1111/j.1539-6053.2008.00033.x
+tufte2001 | book | Tufte, E. R. (2001). *The visual display of quantitative information* (2nd ed.). Graphics Press. |
+wasserstein2016 | article | Wasserstein, R. L., & Lazar, N. A. (2016). The ASA statement on p-values: Context, process, and purpose. *The American Statistician, 70*(2), 129–133. | 10.1080/00031305.2016.1154108
+w3c2023wcag | standard | World Wide Web Consortium. (2023). *Web content accessibility guidelines (WCAG) 2.2*. W3C Recommendation. |
+bipm2019 | standard | Bureau International des Poids et Mesures. (2019). *The International System of Units (SI)* (9th ed.). BIPM. |
+
+# --- Learning, autonomy, strategies, motivation ---
+zimmerman2002 | article | Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64–70. | 10.1207/s15430421tip4102_2
+oxford1990 | book | Oxford, R. L. (1990). *Language learning strategies: What every teacher should know*. Newbury House. |
+benson2011 | book | Benson, P. (2011). *Teaching and researching autonomy* (2nd ed.). Pearson Education. |
+holec1981 | book | Holec, H. (1981). *Autonomy and foreign language learning*. Pergamon. |
+dunlosky2013 | article | Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students' learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest, 14*(1), 4–58. | 10.1177/1529100612453266
+roediger2006 | article | Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. | 10.1111/j.1467-9280.2006.01693.x
+cepeda2006 | article | Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. | 10.1037/0033-2909.132.3.354
+dornyei2009 | chapter | Dörnyei, Z. (2009). The L2 motivational self system. In Z. Dörnyei & E. Ushioda (Eds.), *Motivation, language identity and the L2 self* (pp. 9–42). Multilingual Matters. |
+flavell1979 | article | Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist, 34*(10), 906–911. | 10.1037/0003-066X.34.10.906
+putwain2008 | article | Putwain, D. W. (2008). Deconstructing test anxiety. *Emotional and Behavioural Difficulties, 13*(2), 141–155. | 10.1080/13632750802027713
+
+# --- SLA and instruction ---
+schmidt1990 | article | Schmidt, R. W. (1990). The role of consciousness in second language learning. *Applied Linguistics, 11*(2), 129–158. | 10.1093/applin/11.2.129
+norrisortega2000 | article | Norris, J. M., & Ortega, L. (2000). Effectiveness of L2 instruction: A research synthesis and quantitative meta-analysis. *Language Learning, 50*(3), 417–528. | 10.1111/0023-8333.00136
+spadatomita2010 | article | Spada, N., & Tomita, Y. (2010). Interactions between type of instruction and type of language feature: A meta-analysis. *Language Learning, 60*(2), 263–308. | 10.1111/j.1467-9922.2010.00562.x
+ellis2005principles | article | Ellis, R. (2005). Principles of instructed language learning. *System, 33*(2), 209–224. | 10.1016/j.system.2004.12.006
+cummins2008 | chapter | Cummins, J. (2008). BICS and CALP: Empirical and theoretical status of the distinction. In B. Street & N. H. Hornberger (Eds.), *Encyclopedia of language and education* (2nd ed., Vol. 2, pp. 71–83). Springer. |
+snowuccelli2009 | chapter | Snow, C. E., & Uccelli, P. (2009). The challenge of academic language. In D. R. Olson & N. Torrance (Eds.), *The Cambridge handbook of literacy* (pp. 112–133). Cambridge University Press. |
+coe2001 | standard | Council of Europe. (2001). *Common European Framework of Reference for Languages: Learning, teaching, assessment*. Cambridge University Press. |
+coe2020 | standard | Council of Europe. (2020). *Common European Framework of Reference for Languages: Learning, teaching, assessment – Companion volume*. Council of Europe Publishing. |
+north2014 | book | North, B. (2014). *The CEFR in practice*. Cambridge University Press. |
+
+# --- Digital and generative AI ---
+kasneci2023 | article | Kasneci, E., Sessler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., Gasser, U., Groh, G., Günnemann, S., Hüllermeier, E., Krusche, S., Kutyniok, G., Michaeli, T., Nerdel, C., Pfeffer, J., Poquet, O., Sailer, M., Schmidt, A., Seidel, T., … Kasneci, G. (2023). ChatGPT for good? On opportunities and challenges of large language models for education. *Learning and Individual Differences, 103*, 102274. | 10.1016/j.lindif.2023.102274
+liang2023 | article | Liang, W., Yuksekgonul, M., Mao, Y., Wu, E., & Zou, J. (2023). GPT detectors are biased against non-native English writers. *Patterns, 4*(7), 100779. | 10.1016/j.patter.2023.100779
+perkins2023 | article | Perkins, M. (2023). Academic integrity considerations of AI large language models in the post-pandemic era: ChatGPT and beyond. *Journal of University Teaching and Learning Practice, 20*(2). | 10.53761/1.20.02.07
+unesco2023 | report | UNESCO. (2023). *Guidance for generative AI in education and research*. UNESCO. |
+bender2021 | chapter | Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? In *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency* (pp. 610–623). ACM. | 10.1145/3442188.3445922
+walters2023 | article | Walters, W. H., & Wilder, E. I. (2023). Fabrication and errors in the bibliographic citations generated by ChatGPT. *Scientific Reports, 13*, 14045. | 10.1038/s41598-023-41032-5
+stevenson2016 | article | Stevenson, M. (2016). A critical interpretative synthesis: The integration of Automated Writing Evaluation into classroom writing instruction. *Computers and Composition, 42*, 1–16. | 10.1016/j.compcom.2016.05.001
+lee2020mt | article | Lee, S.-M. (2020). The impact of using machine translation on EFL students' writing. *Computer Assisted Language Learning, 33*(3), 157–175. | 10.1080/09588221.2018.1553186

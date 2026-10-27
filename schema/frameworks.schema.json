@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eap-skill-taxonomy/schema/frameworks.schema.json",
+  "title": "EAP Skill Taxonomy — external frameworks (codes and titles only)",
+  "type": "object",
+  "required": ["version", "note", "sourceCount", "itemCount", "sources"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "type": "string" },
+    "note": { "type": "string" },
+    "sourceCount": { "type": "integer" },
+    "itemCount": { "type": "integer" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["slug", "name", "publisher", "version", "url", "idPolicy", "items"],
+        "properties": {
+          "slug": { "type": "string" },
+          "name": { "type": "string" },
+          "publisher": { "type": "string" },
+          "version": { "type": "string" },
+          "url": { "type": "string" },
+          "idPolicy": { "type": "string" },
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["key", "code", "title", "group"],
+              "properties": { "key": { "type": "string" }, "code": { "type": "string" }, "title": { "type": "string" }, "group": { "type": "string" } }
+            }
+          }
+        }
+      }
+    }
+  }
+}

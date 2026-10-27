@@ -1,0 +1,125 @@
+# External frameworks referenced by topics. Codes-and-titles only: no
+# descriptor text is reproduced. Keys are assigned by this project unless the
+# source publishes its own identifiers (noted per source).
+#
+# Format:
+#   @source <slug> | <name> | <publisher> | <version> | <url> | <idPolicy>
+#   <code> | <title> | <group>
+# A topic links a framework item as "<slug>:<code>".
+
+@source cefr-cv | Common European Framework of Reference for Languages: Companion Volume — illustrative descriptor scales | Council of Europe | 2020 | https://www.coe.int/en/web/common-european-framework-reference-languages | Scale names are official; codes are project-assigned slugs of those names. Topics cite scales and CEFR levels, never descriptor text.
+rec.oral.overall | Overall oral comprehension | Reception: oral comprehension
+rec.oral.conversation-between-others | Understanding conversation between other people | Reception: oral comprehension
+rec.oral.live-audience | Understanding as a member of a live audience | Reception: oral comprehension
+rec.oral.announcements-instructions | Understanding announcements and instructions | Reception: oral comprehension
+rec.oral.media-recordings | Understanding audio (or signed) media and recordings | Reception: oral comprehension
+rec.av.film-video | Watching TV, film and video | Reception: audio-visual comprehension
+rec.read.overall | Overall reading comprehension | Reception: reading comprehension
+rec.read.correspondence | Reading correspondence | Reception: reading comprehension
+rec.read.orientation | Reading for orientation | Reception: reading comprehension
+rec.read.information-argument | Reading for information and argument | Reception: reading comprehension
+rec.read.instructions | Reading instructions | Reception: reading comprehension
+rec.read.leisure | Reading as a leisure activity | Reception: reading comprehension
+rec.strat.cues-inferring | Identifying cues and inferring (spoken, signed and written) | Reception strategies
+prod.oral.overall | Overall oral production | Production: oral production
+prod.oral.describing-experience | Sustained monologue: describing experience | Production: oral production
+prod.oral.giving-information | Sustained monologue: giving information | Production: oral production
+prod.oral.putting-a-case | Sustained monologue: putting a case (e.g. in a debate) | Production: oral production
+prod.oral.public-announcements | Public announcements | Production: oral production
+prod.oral.addressing-audiences | Addressing audiences | Production: oral production
+prod.writ.overall | Overall written production | Production: written production
+prod.writ.creative | Creative writing | Production: written production
+prod.writ.reports-essays | Reports and essays | Production: written production
+prod.strat.planning | Planning | Production strategies
+prod.strat.compensating | Compensating | Production strategies
+prod.strat.monitoring-repair | Monitoring and repair | Production strategies
+int.oral.overall | Overall oral interaction | Interaction: oral interaction
+int.oral.understanding-interlocutor | Understanding an interlocutor | Interaction: oral interaction
+int.oral.conversation | Conversation | Interaction: oral interaction
+int.oral.informal-discussion | Informal discussion (with friends) | Interaction: oral interaction
+int.oral.formal-discussion | Formal discussion (meetings) | Interaction: oral interaction
+int.oral.goal-oriented-cooperation | Goal-oriented co-operation | Interaction: oral interaction
+int.oral.information-exchange | Information exchange | Interaction: oral interaction
+int.oral.interviewing | Interviewing and being interviewed | Interaction: oral interaction
+int.oral.telecommunications | Using telecommunications | Interaction: oral interaction
+int.writ.overall | Overall written interaction | Interaction: written interaction
+int.writ.correspondence | Correspondence | Interaction: written interaction
+int.writ.notes-messages-forms | Notes, messages and forms | Interaction: written interaction
+int.online.conversation-discussion | Online conversation and discussion | Interaction: online interaction
+int.online.goal-oriented-collaboration | Goal-oriented online transactions and collaboration | Interaction: online interaction
+int.strat.turntaking | Turntaking | Interaction strategies
+int.strat.cooperating | Co-operating | Interaction strategies
+int.strat.asking-clarification | Asking for clarification | Interaction strategies
+med.text.overall | Overall mediation | Mediation
+med.text.relaying-information | Relaying specific information (in speech / in writing) | Mediation: mediating a text
+med.text.explaining-data | Explaining data (e.g. in graphs, diagrams, etc.) (in speech / in writing) | Mediation: mediating a text
+med.text.processing-text | Processing text (in speech / in writing) | Mediation: mediating a text
+med.text.translating | Translating a written text (in speech / in writing) | Mediation: mediating a text
+med.text.note-taking | Note-taking (lectures, seminars, meetings, etc.) | Mediation: mediating a text
+med.text.personal-response-creative | Expressing a personal response to creative texts (including literature) | Mediation: mediating a text
+med.text.analysis-creative | Analysis and criticism of creative texts (including literature) | Mediation: mediating a text
+med.concepts.facilitating-collaboration | Facilitating collaborative interaction with peers | Mediation: mediating concepts
+med.concepts.collaborating-meaning | Collaborating to construct meaning | Mediation: mediating concepts
+med.concepts.managing-interaction | Managing interaction | Mediation: mediating concepts
+med.concepts.encouraging-conceptual-talk | Encouraging conceptual talk | Mediation: mediating concepts
+med.comm.pluricultural-space | Facilitating pluricultural space | Mediation: mediating communication
+med.comm.intermediary | Acting as an intermediary in informal situations (with friends and colleagues) | Mediation: mediating communication
+med.comm.delicate-situations | Facilitating communication in delicate situations and disagreements | Mediation: mediating communication
+med.strat.linking-previous-knowledge | Linking to previous knowledge | Mediation strategies: explaining a new concept
+med.strat.adapting-language | Adapting language | Mediation strategies: explaining a new concept
+med.strat.breaking-down-information | Breaking down complicated information | Mediation strategies: explaining a new concept
+med.strat.amplifying-text | Amplifying a dense text | Mediation strategies: simplifying a text
+med.strat.streamlining-text | Streamlining a text | Mediation strategies: simplifying a text
+plu.pluricultural-repertoire | Building on pluricultural repertoire | Plurilingual and pluricultural competence
+plu.plurilingual-comprehension | Plurilingual comprehension | Plurilingual and pluricultural competence
+plu.plurilingual-repertoire | Building on plurilingual repertoire | Plurilingual and pluricultural competence
+ling.general-range | General linguistic range | Communicative language competences: linguistic
+ling.vocabulary-range | Vocabulary range | Communicative language competences: linguistic
+ling.grammatical-accuracy | Grammatical accuracy | Communicative language competences: linguistic
+ling.vocabulary-control | Vocabulary control | Communicative language competences: linguistic
+ling.phonological-overall | Overall phonological control | Communicative language competences: linguistic
+ling.phonological-articulation | Sound articulation | Communicative language competences: linguistic
+ling.phonological-prosody | Prosodic features | Communicative language competences: linguistic
+ling.orthographic-control | Orthographic control | Communicative language competences: linguistic
+socio.appropriateness | Sociolinguistic appropriateness | Communicative language competences: sociolinguistic
+prag.flexibility | Flexibility | Communicative language competences: pragmatic
+prag.turntaking | Turntaking | Communicative language competences: pragmatic
+prag.thematic-development | Thematic development | Communicative language competences: pragmatic
+prag.coherence-cohesion | Coherence and cohesion | Communicative language competences: pragmatic
+prag.propositional-precision | Propositional precision | Communicative language competences: pragmatic
+prag.fluency | Fluency | Communicative language competences: pragmatic
+
+@source ielts | IELTS Academic — public assessment criteria and components | British Council, IDP: IELTS Australia, Cambridge University Press & Assessment | Band descriptors updated May 2023 | https://ielts.org | Criterion names are official; codes are project-assigned. No band-descriptor text is reproduced.
+wr1.task-achievement | Writing Task 1: Task Achievement | Writing
+wr2.task-response | Writing Task 2: Task Response | Writing
+wr.coherence-cohesion | Writing: Coherence and Cohesion | Writing
+wr.lexical-resource | Writing: Lexical Resource | Writing
+wr.grammatical-range-accuracy | Writing: Grammatical Range and Accuracy | Writing
+sp.fluency-coherence | Speaking: Fluency and Coherence | Speaking
+sp.lexical-resource | Speaking: Lexical Resource | Speaking
+sp.grammatical-range-accuracy | Speaking: Grammatical Range and Accuracy | Speaking
+sp.pronunciation | Speaking: Pronunciation | Speaking
+rd.academic | Academic Reading component | Reading
+ls.listening | Listening component | Listening
+
+@source acrl | Framework for Information Literacy for Higher Education | Association of College and Research Libraries | 2016 | https://www.ala.org/acrl/standards/ilframework | Frame titles are official; codes are project-assigned.
+authority | Authority Is Constructed and Contextual | Frames
+creation-process | Information Creation as a Process | Frames
+value | Information Has Value | Frames
+inquiry | Research as Inquiry | Frames
+conversation | Scholarship as Conversation | Frames
+strategic-exploration | Searching as Strategic Exploration | Frames
+
+@source vitae-rdf | Researcher Development Framework | Vitae (CRAC) | 2010 | https://www.vitae.ac.uk/researchers-professional-development/about-the-vitae-researcher-development-framework | Domain and sub-domain codes (A1–D3) are Vitae's own. Descriptor text is not reproduced.
+A1 | Knowledge base | Domain A: Knowledge and intellectual abilities
+A2 | Cognitive abilities | Domain A: Knowledge and intellectual abilities
+A3 | Creativity | Domain A: Knowledge and intellectual abilities
+B1 | Personal qualities | Domain B: Personal effectiveness
+B2 | Self-management | Domain B: Personal effectiveness
+B3 | Professional and career development | Domain B: Personal effectiveness
+C1 | Professional conduct | Domain C: Research governance and organisation
+C2 | Research management | Domain C: Research governance and organisation
+C3 | Finance, funding and resources | Domain C: Research governance and organisation
+D1 | Working with others | Domain D: Engagement, influence and impact
+D2 | Communication and dissemination | Domain D: Engagement, influence and impact
+D3 | Engagement and impact | Domain D: Engagement, influence and impact

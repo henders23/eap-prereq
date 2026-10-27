@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "EAP Skill Taxonomy"
+abstract: >-
+  An open, graph-structured taxonomy of English for Academic Purposes:
+  557 micro-topics across 15 strands and 51 domains, a prerequisite
+  dependency graph, research-informed teaching guidance for every topic,
+  alignment to CEFR Companion Volume scales, IELTS criteria, the ACRL
+  Framework and the Vitae Researcher Development Framework, and a
+  citation-backed bibliography. Covers foundation, pre-sessional,
+  in-sessional (undergraduate and taught postgraduate) and doctoral
+  contexts, general and discipline-specific EAP.
+type: dataset
+version: "v1"
+date-released: "2026-10-27"
+repository-code: "https://github.com/henders23/eap-prereq"
+keywords:
+  - English for academic purposes
+  - EAP
+  - academic literacy
+  - curriculum
+  - prerequisite graph
+  - CEFR
+authors:
+  - name: "EAP Skill Taxonomy contributors"

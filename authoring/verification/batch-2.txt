@@ -1,0 +1,113 @@
+coxhead2000 | web-verified | TESOL Quarterly 34(2), 213-238 and DOI 10.2307/3587951 confirmed (VUW-hosted PDF, citing reference lists).
+gardnerdavies2014 | web-verified | Applied Linguistics 35(3), 305-327, DOI 10.1093/applin/amt015 confirmed (advance access 2013; print 2014).
+hylandtse2007 | doi-doubtful | Work confirmed: TESOL Quarterly 41(2), 235-253 (HKU and UEA repository records). Wiley DOI 10.1002/j.1545-7249.2007.tb00058.x could not be found in any record after three targeted searches.
+durrant2016 | doi-doubtful | Work confirmed: English for Specific Purposes 43, 49-61 (Exeter ORE repository; Gardner & Davies reply in the same volume, pp. 62-68). DOI 10.1016/j.esp.2016.01.004 not displayed in any result.
+simpsonvlachellis2010 | web-verified | Applied Linguistics 31(4), 487-512, DOI 10.1093/applin/amp058 confirmed (author's prepub PDF, library records).
+ackermannchen2013 | web-verified | JEAP 12(4), 235-247, DOI 10.1016/j.jeap.2013.08.002 confirmed (Coventry Pure portal, Bohrium).
+hyland2008bundles | web-verified | ESP 27(1), 4-21, DOI 10.1016/j.esp.2007.06.001 confirmed (HKU and Warwick repositories).
+cortes2004 | web-verified | ESP 23(4), 397-423, DOI 10.1016/j.esp.2003.12.001 confirmed (multiple reference lists).
+chenbaker2010 | web-verified | LLT 14(2), 30-49 confirmed (LLT journal page, UH ScholarSpace, Lancaster eprints). There is no DOI in the source. LLT now assigns 10.64152/10125/44213 (optional to add).
+nesselhauf2003 | web-verified | Applied Linguistics 24(2), 223-242, DOI 10.1093/applin/24.2.223 confirmed.
+lauferwaldman2011 | web-verified | Language Learning 61(2), 647-672 confirmed (Haifa CRIS); DOI 10.1111/j.1467-9922.2010.00621.x confirmed via indexing record (peeref).
+nation2013 | web-verified | 2nd ed., Cambridge University Press, 2013 (ISBN 9781107623026) confirmed by booksellers and library catalogues.
+nation2006 | web-verified | Canadian Modern Language Review 63(1), 59-82, DOI 10.3138/cmlr.63.1.59 confirmed (VUW open-access repository). One stray source gives 59-81, but most give 59-82.
+hunation2000 | web-verified | Reading in a Foreign Language 13(1), 403-430 confirmed (UH ScholarSpace, NFLRC RFL page).
+laufer2010 | web-verified | RFL 22(1), 15-30 confirmed (NFLRC RFL, UH ScholarSpace, Haifa CRIS).
+schmitt2011 | web-verified | MLJ 95(1), 26-43 confirmed (NAU experts portal); DOI 10.1111/j.1540-4781.2011.01146.x confirmed via citing reference list.
+vanzeeland2013 | web-verified | Applied Linguistics 34(4), 457-479, DOI 10.1093/applin/ams074 confirmed. Online-first was 2012, so 2013 is the correct issue year.
+webbnation2017 | web-verified | Oxford University Press, 2017 (Oxford Handbooks for Language Teachers, ISBN 9780194403559) confirmed.
+bauernation1993 | web-verified | IJL 6(4), 253-279, DOI 10.1093/ijl/6.4.253 confirmed (VUW repository, BibBase).
+schmitt2008 | web-verified | Language Teaching Research 12(3), 329-363, DOI 10.1177/1362168808089921 confirmed (Scilit, library records).
+nassaji2003 | web-verified | TESOL Quarterly 37(4), 645-670, DOI 10.2307/3588216 confirmed (Scilit, reference lists).
+hyland2005metadiscourse | web-verified | Continuum, London, 2005 (ISBN 9780826476104/9780826476111) confirmed by library catalogues and LINGUIST List.
+hyland2005stance | web-verified | Discourse Studies 7(2), 173-192, DOI 10.1177/1461445605050365 confirmed (UEA eprints, HKU).
+hylandtse2004 | web-verified | Applied Linguistics 25(2), 156-177, DOI 10.1093/applin/25.2.156 confirmed (HKU, Benjamins bibliography).
+hyland1998hedging | web-verified | John Benjamins, 1998 (Pragmatics & Beyond NS 54) confirmed (publisher page, library catalogues).
+salagermeyer1994 | web-verified | ESP 13(2), 149-170, DOI 10.1016/0889-4906(94)90013-2 confirmed (Scilit publisher record).
+hyland2001selfmention | web-verified | ESP 20(3), 207-226, DOI 10.1016/S0889-4906(00)00012-0 confirmed (HKU repository).
+hyland2002authority | web-verified | Journal of Pragmatics 34(8), 1091-1112, DOI 10.1016/S0378-2166(02)00035-8 confirmed (HKU, Scilit).
+tangjohn1999 | web-verified | ESP 18(Suppl. 1), S23-S39, DOI 10.1016/S0889-4906(99)00009-5 confirmed (Scilit, Birmingham portal). Birmingham Pure lists John first, but the published byline and nearly all citations use Tang & John.
+martinwhite2005 | web-verified | Palgrave Macmillan, 2005 confirmed (TAMU catalogue, LINGUIST List).
+hunstonthompson2000 | web-verified | Edited volume, Oxford University Press, 2000 confirmed (Birmingham portal, catalogues, LINGUIST review).
+changschleppegrell2011 | doi-doubtful | Work confirmed: JEAP 10(3), 140-151 (NTNU scholar record, citing reference lists). DOI 10.1016/j.jeap.2011.05.005 not found in any record; an exact-DOI search returned nothing.
+lancaster2014 | doi-doubtful | Work confirmed: Written Communication 31(1), 27-57, January 2014 (author's faculty page, citing reference list). DOI only seen truncated ("10.1177/07410883135..."), which is consistent with the given DOI but not a full confirmation. An exact-DOI search returned nothing.
+aulllancaster2014 | web-verified | Written Communication 31(2), 151-183, DOI 10.1177/0741088314527055 confirmed (catalogue records, citing works).
+pecorari2003 | web-verified | JSLW 12(4), 317-345, DOI 10.1016/j.jslw.2003.08.004 confirmed.
+pecorari2008 | web-verified | Continuum, 2008 (hardback ISBN 0826491669) confirmed (LINGUIST List, THE review).
+pecorari2013 | web-verified | Open University Press / McGraw-Hill, 2013 (ISBN 9780335245932) confirmed (publisher page).
+howard1995 | web-verified | College English 57(7), 788-806, DOI 10.2307/378403 confirmed (Zendy DOI record, Scinapse, Syracuse SURFACE).
+pennycook1996 | web-verified | TESOL Quarterly 30(2), 201-230, DOI 10.2307/3588141 confirmed.
+shi2004 | web-verified | Written Communication 21(2), 171-200, DOI 10.1177/0741088303262846 confirmed.
+keck2006 | web-verified | JSLW 15(4), 261-278, DOI 10.1016/j.jslw.2006.09.006 confirmed (author bepress page, reference list).
+hirveladu2013 | web-verified | JEAP 12(2), 87-98, DOI 10.1016/j.jeap.2012.11.005 confirmed (BVB catalogue, reference lists).
+thompsonye1991 | doi-doubtful | Work confirmed: Applied Linguistics 12(4), 365-382, (c) 1991 OUP. DOI 10.1093/applin/12.4.365 was not displayed in any result, though it fits OUP's vol.issue.page pattern. A Crossref check is recommended before dropping it.
+hyland1999attribution | doi-doubtful | Work confirmed: Applied Linguistics 20(3), 341-367 (HKU repository). DOI 10.1093/applin/20.3.341 was not displayed in any result, though it fits OUP's pattern. A Crossref check is recommended before dropping it.
+swales1986citation | doi-doubtful | Work confirmed: Applied Linguistics 7, 39-56 (reference list in UMich DeepBlue). The issue number and DOI 10.1093/applin/7.1.39 were not displayed in any result, though the DOI fits OUP's pattern.
+thompsontribble2001 | web-verified | LLT 5(3), 91-105 confirmed (LLT journal page, UH ScholarSpace). There is no DOI in the source. LLT now assigns 10.64152/10125/44568 (optional).
+petric2007 | web-verified | JEAP 6(3), 238-253, DOI 10.1016/j.jeap.2007.09.002 confirmed (Essex repository, citing works).
+plakansgebril2012 | web-verified | Assessing Writing 17(1), 18-34, DOI 10.1016/j.asw.2011.09.002 confirmed (AUC FOUNT, Iowa IRO).
+plakans2008 | web-verified | Assessing Writing 13(2), 111-129, DOI 10.1016/j.asw.2008.07.001 confirmed (Iowa IRO, Scinapse).
+grabezhang2013 | web-verified | TESOL Journal 4(1), 9-24, DOI 10.1002/tesj.65 confirmed (EKU Encompass, Zendy DOI record).
+hirvela2004 | web-verified | University of Michigan Press, (c) 2004, ISBN 0472089188 confirmed (TUAT library record). Some booksellers give Jan 2005. The 2nd ed. is 2016.
+spivey1990 | web-verified | Written Communication 7(2), 256-287, DOI 10.1177/0741088390007002004 confirmed (Scilit).
+browday1983 | web-verified | JVLVB 22(1), 1-14, DOI 10.1016/S0022-5371(83)80002-4 confirmed.
+johnsmayes1990 | web-verified | OUP Applied Linguistics 11(3) (Sept 1990) table of contents lists Johns & Mayes, pp. 253-271, DOI 10.1093/applin/11.3.253. A citing paper confirms the summary-protocol topic.
+kintsch1978 | web-verified | Psychological Review 85(5), 363-394, DOI 10.1037/0033-295X.85.5.363 confirmed (Scinapse, Scilit).
+bretag2016 | web-verified | Springer (Singapore), 2016, 1st ed., DOI 10.1007/978-981-287-098-8 confirmed (Springer listing, library records).
+bretag2014 | web-verified | Studies in Higher Education 39(7), 1150-1169, all nine authors in order, DOI 10.1080/03075079.2013.777406 confirmed (UOW, Adelaide, ANU repositories).
+icai2021 | web-verified | ICAI announced the 3rd edition in Feb 2021 (ICAI news item and the PDF hosted by UCD).
+acrl2016 | web-verified | ALA/ACRL page: filed Feb 2, 2015 and adopted Jan 11, 2016. The 2016 date is correct. Note that ACRL has a 2026 revision draft in progress.
+wineburg2019 | web-verified | Teachers College Record 121(11), 1-40, DOI 10.1177/016146811912101102 confirmed (SAGE DOI page, Stanford PURL).
+braten2009 | doi-doubtful | Work confirmed: Reading Research Quarterly 44, 6-28 (author CV, citing reference lists). DOI 10.1598/RRQ.44.1.1 not displayed in any result. The issue number (1) was also not explicitly shown.
+fanelli2009 | web-verified | PLoS ONE 4(5), e5738 (29 May 2009) confirmed (PMC2685008, DOAJ, RePEc pone00:0005738). The DOI follows the PLoS article number.
+grabe2009 | web-verified | Cambridge University Press, 2009 (Cambridge Applied Linguistics, ISBN 9780521729741) confirmed. A 2nd ed. (with Yamashita) followed in 2022.
+grabestoller2011 | web-verified | 2nd ed., Harlow: Longman/Pearson, 2011 (Applied Linguistics in Action, ISBN 9781408205037) confirmed by catalogues. "Pearson Education" is acceptable; the imprint is Longman.
+koda2005 | web-verified | Cambridge University Press, 2005 (Cambridge Applied Linguistics) confirmed (Cambridge Core, catalogues).
+carrell1985 | web-verified | TESOL Quarterly 19(4), 727-752, DOI 10.2307/3586673 confirmed (Scilit, reference lists).
+mokhtari2002 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+sheorey2001 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+palincsarbrown1984 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+rayner2016 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+daybamford1998 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+jeonday2016 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+beglar2012 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+nation2009readingwriting | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+wallacewray2016 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+field2008 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+flowerdew1994 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+young1994 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+flowerdewmiller2005 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+vandergriftgoh2012 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+lynch2011 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+rost2011 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+chaudronrichards1986 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+deroey2012 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+thompson2003lectures | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+goh2000 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+graham2006 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+griffiths1992 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+major2002 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+kiewra1985 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+mueller2014 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+morehead2019 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+nesbit2006 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+ferristagg1996 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+ferris1998oral | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+basturkmen2002 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+basturkmen2003 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+aguilar2004 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+hoodforey2005 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+rowleyjolivet2005 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+rowleyjolivet2002 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+wulff2009 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+macintosh2007 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+derwingmunro2015 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+munroderwing1995 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+levis2005 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+jenkins2000 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+field2005 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+hahn2004 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+pickering2001 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+levelt1989 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+segalowitz2010 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.
+housenkuiken2009 | unchecked | Not searched: the shared WebSearch budget (200 calls per turn across all agents) ran out after carrell1985. Nothing looked wrong from prior knowledge, but this has not been web-verified. Needs a follow-up pass.

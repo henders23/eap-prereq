@@ -1,0 +1,117 @@
+# batch-3: references 227..end (skehan1998 .. lee2020mt)
+# NOTE: the shared WebSearch budget (200 calls per turn across all agents) was exhausted after 82 searches by this agent
+# had covered skehan1998..kuhn1991. Everything from walton2006 onward (plus hirvela2017) could not be searched and is marked
+# `unchecked`. Do not treat those as verified.
+skehan1998 | web-verified | Library catalogues (CiNii, HKSYU, UNC) list Skehan 1998, Oxford University Press (Oxford Applied Linguistics), ISBN 9780194372176.
+horwitz1986 | web-verified | MLJ 70(2), 125-132 (Summer 1986); DOI 10.1111/j.1540-4781.1986.tb05256.x confirmed.
+macintyre1998 | web-verified | MLJ 82(4), 545-562; DOI 10.1111/j.1540-4781.1998.tb05543.x confirmed (CBU repository). Caveat: JSTOR record (stable/330224) reportedly lists byline MacIntyre, Dörnyei, Clément, Noels, while the repository record and near-universal citation use MacIntyre, Clément, Dörnyei, Noels (as here). Author order worth a check against the printed article.
+lysterranta1997 | doi-doubtful | Title, SSLA 19(1), 37-66 confirmed (McGill eScholarship, CORE). The DOI 10.1017/S0272263197001034 was not shown in any search result (it fits Cambridge's SSLA DOI pattern and is very likely correct, but was not web-confirmed).
+leki2001 | web-verified | TESOL Quarterly 35(1), 39-67; DOI 10.2307/3587859 confirmed (Zendy/Scilit records).
+brownlevinson1987 | web-verified | Cambridge University Press 1987 (Studies in Interactional Sociolinguistics 4); MPI and multiple library catalogues.
+kasperrose2002 | web-verified | Blackwell 2002 (Language Learning Monograph Series; Malden, MA & Oxford), ISBN 9780631234302; CiNii, CityU, SSLA review.
+biesenbach2007 | web-verified | LLT 11(2), 59-81, June 2007 (journal site lltjournal.org/item/428; ScholarSpace). Open access; journal handle 10125/44104 (no DOI needed).
+economidou2011 | web-verified | J. Pragmatics 43(13), 3193-3215; DOI 10.1016/j.pragma.2011.06.006 confirmed in reference listing; Benjamins bibliography.
+flowerhayes1981 | doi-doubtful | CCC 32(4), 365-387 (Dec 1981) confirmed (USC bibliography, JSTOR-hosted first page). JSTOR DOI 10.2307/356600 was not displayed in search results (very likely correct, but not web-confirmed).
+bereiter1987 | web-verified | Lawrence Erlbaum Associates, Hillsdale NJ, 1987 (Psychology of Education and Instruction series); TAMU, UPenn, Loughborough catalogues.
+zamel1983 | web-verified | Title, TESOL Quarterly 17(2), DOI 10.2307/3586647 confirmed (Zendy). PAGE RANGE UNRESOLVED: one bibliography (IJES/revistas.um.es) gives 165-178 (possibly OCR of "165-1 78"); the commonly cited range 165-187 (as here) could not be confirmed from a publisher record. Check JSTOR before publishing.
+sommers1980 | web-verified | CCC 31(4), 378-388; DOI/JSTOR 10.2307/356588 confirmed (CUNY OpenLab copy, BibBase).
+hyland2003writing | web-verified | Cambridge University Press 2003 (Cambridge Language Education), ISBN 0521534305; catalogues + Cambridge Core.
+ellisyuan2004 | doi-doubtful | SSLA 26(1), 59-84 confirmed (Cambridge Core page, reference lists). DOI 10.1017/S0272263104261034 not displayed in search results (likely correct but not web-confirmed).
+hylandhyland2019 | web-verified | 2nd ed., Cambridge University Press 2019 (Cambridge Applied Linguistics), eds. K. Hyland & F. Hyland; Cambridge copyright page, CiNii, UEA ePrints.
+truscott1996 | doi-doubtful | Language Learning 46(2), 327-369 (June 1996) confirmed from reproduced cover page. DOI 10.1111/j.1467-1770.1996.tb01238.x not displayed in any search result (likely correct but not web-confirmed).
+ferris1999 | doi-doubtful | Work, JSLW vol. 8, start page 1 confirmed via citing works. DOI 10.1016/S1060-3743(99)80110-6 not displayed in any result. Also PAGE RANGE UNRESOLVED: Bitchener et al. (2005, JSLW) and other lists cite pp. 1-10, not 1-11; publisher page not retrieved. Check ScienceDirect.
+bitchenerferris2012 | web-verified | Routledge, (c) 2012, 1st ed. (Routledge product page; SSLA review "London: Routledge, 2012, pp. xi + 218"). One vendor gives a Sept 2011 release; 2012 copyright year is correct for APA.
+kanghan2015 | web-verified | MLJ 99(1), 1-18; DOI 10.1111/modl.12189 confirmed (Zendy, Scinapse).
+carlessboud2018 | web-verified | AEHE 43(8), 1315-1325; DOI 10.1080/02602938.2018.1463354 confirmed (HKU, UTS, Deakin repositories).
+sadler1989 | web-verified | Instructional Science 18(2), 119-144; DOI 10.1007/BF00117714 confirmed (Zendy, BibSonomy, Scilit).
+nicol2006 | web-verified | Studies in Higher Education 31(2), 199-218; DOI 10.1080/03075070600572090 confirmed (Strathprints/Strathclyde Pure).
+hattietimperley2007 | web-verified | RER 77(1), 81-112; DOI 10.3102/003465430298487 confirmed (UZH reference page, printed on article PDF).
+andrade2009 | web-verified | Theory Into Practice 48(1), 12-19; DOI 10.1080/00405840802577544 confirmed (Albany Scholars Archive).
+lundstrombaker2009 | web-verified | JSLW 18(1), 30-43; DOI 10.1016/j.jslw.2008.06.002 confirmed (BYU ScholarsArchive, Scilit).
+liuhansen2002 | web-verified | University of Michigan Press 2002 (Michigan Series on Teaching Multilingual Writers), ISBN 9780472088089. (A 2nd ed. appeared 2018; citing the 2002 1st ed. is fine.)
+weigle2002 | web-verified | Cambridge University Press 2002 (Cambridge Language Assessment), ISBN 9780521784467; catalogues + Cambridge Core.
+bachmanpalmer2010 | web-verified | Oxford University Press 2010 (Oxford Applied Linguistics), ISBN 9780194422932; full subtitle per catalogues: "Developing language assessments and justifying their use in the real world" (optional to add).
+mooremorton2005 | web-verified | JEAP 4(1), 43-66; DOI 10.1016/j.jeap.2004.02.001 confirmed in multiple reference lists.
+green2007 | web-verified | Cambridge University Press 2007, Studies in Language Testing 25, ISBN 9780521692922 (Cambridge English SiLT PDF, booksellers, JALT review).
+ielts2023writing | web-verified | Official ielts.org PDF "IELTS Writing band descriptors" (Task 1 and Task 2 descriptors) labelled "Updated May 2023"; IELTS writing scales review (Clark et al., 2023) documents the revision.
+ielts2023speaking | web-verified | Official ielts.org PDF "IELTS Speaking band descriptors" exists. CAVEAT: the "(updated May 2023)" label could not be confirmed on the official PDF via search; only a third-party webinar states speaking and writing descriptors were updated May 2023. Check the PDF footer before publishing the date/label.
+ukvi2025student | web-verified | gov.uk "Student and Child Student" (Student route caseworker guidance), Home Office; a 2025 version exists (assets.publishing.service.gov.uk/media/685bf0730433072fce0e0ffe, June 2025). Note: guidance has since been superseded (v15.0, Oct 2026); consider adding version number/URL and retrieval date.
+toulmin2003 | web-verified | Updated edition, Cambridge University Press 2003 (Cambridge copyright page: "Updated edition first published 2003"; orig. 1958).
+andrews2010 | web-verified | Routledge; Routledge product page gives copyright 2010 (1st ed., 248 pp.). Caveat: print release was 8 Sept 2009 and several catalogues (UEA ePrints, USI library) give 2009; 2010 matches the copyright line so retained.
+hirvela2017 | unchecked | Search budget exhausted before this could be confirmed (one search did not surface the article; only the companion Disciplinary Dialogue piece, JSLW 36, pp. 85-86, DOI 10.1016/j.jslw.2017.05.008). Reference is INCOMPLETE as written: it lacks page range and DOI. From memory (NOT web-verified): pp. 69-74, DOI 10.1016/j.jslw.2017.05.002 - verify before adding.
+qinkarabacak2010 | web-verified | System 38(3), 444-456; DOI 10.1016/j.system.2010.06.012 confirmed in citing works.
+kuhn1991 | web-verified | Cambridge University Press 1991, ISBNs 0521404517 / 052142349X; catalogues + Cambridge Core.
+walton2006 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+facione1990 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+moore2013 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+atkinson1997 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+hoferpintrich1997 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+perry1970 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+kahneman2011 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+nickerson1998 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+andersonkrathwohl2001 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+vangelder2005 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+samraj2002 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+yangallison2003 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+kanoksilapatham2005 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+hopkins1988 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+lim2006 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+cotos2017 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+kwan2006 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+santos1996 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+basturkmen2009 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+paltridge2002 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+paltridgestarfield2020 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+bunton2002 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+kamlerthomson2014 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+belcher1994 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+flowerdew1999 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+lilliscurry2010 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+belcherw2019 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+connormauranen1999 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+creswell2018 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+parkinson2017 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+nathan2013 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+brand2015credit | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+vitae2010 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+gosden1995 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+gibbs1988 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+moon2004 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+ryan2011 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+schon1983 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+sackett1996 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+shahhoeffner2002 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+friel2001 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+gal2002 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+gigerenzer2007 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+tufte2001 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+wasserstein2016 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+w3c2023wcag | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+bipm2019 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+zimmerman2002 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+oxford1990 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+benson2011 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+holec1981 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+dunlosky2013 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+roediger2006 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+cepeda2006 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+dornyei2009 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+flavell1979 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+putwain2008 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+schmidt1990 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+norrisortega2000 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+spadatomita2010 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+ellis2005principles | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+cummins2008 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+snowuccelli2009 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+coe2001 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+coe2020 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+north2014 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+kasneci2023 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+liang2023 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+perkins2023 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+unesco2023 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+bender2021 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+walters2023 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+stevenson2016 | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.
+lee2020mt | unchecked | Not verified: shared WebSearch budget (200 calls/turn) exhausted before this reference was reached. Needs a follow-up verification pass.

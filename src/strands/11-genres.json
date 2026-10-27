@@ -1358,12 +1358,6 @@
   "dependencies": [
     {
       "topicId": "ges.genre-concept",
-      "prerequisiteId": "reg.register-awareness",
-      "strength": "soft",
-      "reason": "Genre builds on the understanding that language varies systematically with field, tenor and mode; register awareness supplies the vocabulary of situational variation that genre adds purpose and staging to."
-    },
-    {
-      "topicId": "ges.genre-concept",
       "prerequisiteId": "wpr.audience-purpose",
       "strength": "soft",
       "reason": "Treating genres as purposeful social actions starts from the simpler idea that every text is written for a reader and a purpose."
@@ -1433,12 +1427,6 @@
       "prerequisiteId": "ess.body-organisation",
       "strength": "soft",
       "reason": "Choosing between block and point-by-point presentation of perspectives draws on general principles of sequencing essay body paragraphs."
-    },
-    {
-      "topicId": "ges.discussion-essay",
-      "prerequisiteId": "sta.averral-attribution",
-      "strength": "soft",
-      "reason": "Readers must be able to tell reported views from the writer's own evaluation, which depends on controlling averral and attribution."
     },
     {
       "topicId": "ges.compare-contrast-essay",
@@ -1511,12 +1499,6 @@
       "prerequisiteId": "exm.timed-writing",
       "strength": "hard",
       "reason": "The exam essay is the genre realised through the generic procedure of planning and writing under time pressure."
-    },
-    {
-      "topicId": "ges.exam-essay",
-      "prerequisiteId": "exm.question-analysis",
-      "strength": "hard",
-      "reason": "Relevance, the main criterion in exam essays, depends on interpreting the question and allocating time by marks in the first minutes."
     },
     {
       "topicId": "ges.exam-essay",
@@ -2322,8 +2304,8 @@
           "pattern": "Reported views and the writer's view blur together.",
           "kind": "developmental",
           "revealedBy": "Unattributed claims the marker cannot assign to a source or to the writer; apparent shifts of position from paragraph to paragraph.",
-          "response": "Have learners highlight attributed and averred sentences in two colours, and teach signal phrases and stance markers that mark the move to the writer's evaluation.",
-          "reteachPrerequisiteId": "sta.averral-attribution"
+          "response": "Have learners highlight attributed and averred sentences in two colours, then revisit how fair representation of a view differs from endorsing it; teach signal phrases and stance markers that mark the move to the writer's own evaluation (see sta.averral-attribution).",
+          "reteachPrerequisiteId": "crt.multiple-perspectives"
         }
       ],
       "diagnostic": {
@@ -2576,8 +2558,8 @@
           "pattern": "'I will write down everything I memorised about the topic.'",
           "kind": "prior-schooling",
           "revealedBy": "Long descriptive answers loosely related to the question; a prepared essay adapted awkwardly to a different question.",
-          "response": "Practise answering differently worded questions on the same topic and mark for relevance first. Avoid encouraging memorised model essays as the main revision strategy.",
-          "reteachPrerequisiteId": "exm.question-analysis"
+          "response": "Practise answering differently worded questions on the same topic, spending the first minutes on question analysis and a plan, and mark for relevance first. Avoid encouraging memorised model essays as the main revision strategy.",
+          "reteachPrerequisiteId": "exm.timed-writing"
         },
         {
           "pattern": "Running out of time and leaving answers unfinished.",

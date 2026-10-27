@@ -6,14 +6,14 @@
       "strand": "Sources & Academic Integrity",
       "name": "Information Literacy & Source Evaluation",
       "summary": "Covers how scholarly knowledge is produced and published, how learners turn an assignment topic into a searchable question, how they search catalogues and databases, and how they judge whether a source is trustworthy and fit for a specific purpose. Evaluation is treated as contextual judgement, in line with the ACRL frame 'Authority Is Constructed and Contextual', rather than as checklist compliance, and lateral reading is included as an empirically grounded alternative to judging a site on its own terms. The language demands are real: generating search terms draws on vocabulary depth and disciplinary terminology, and judging a source depends on reading its genre signals and paratext.",
-      "learnerSummary": "You will learn how academic knowledge is published, how to find relevant sources efficiently with library tools, and how to decide whether a source is reliable enough for the job you want it to do in your work.",
+      "learnerSummary": "You will learn how academic work is published, how to find sources with library tools, and how to judge whether a source is reliable enough for your purpose.",
       "stageEmphasis": {
         "foundation": "Distinguishing scholarly from popular sources, simple catalogue and discovery-tool searches, and basic credibility checks, including lateral reading of web sources.",
         "in-sessional-ug": "Subject databases, citation chaining from key readings, and module-specific judgements about what counts as an acceptable source.",
         "in-sessional-pgt": "Efficient, documented searching for dissertations, checking venues and retractions, and legitimate access to paywalled work.",
-        "pgr": "Systematic or scoping searching, comprehensive citation chaining and reproducible search records maintained across a multi-year project.",
-        "pre-sessional-ug": "Focusing a topic for a project, building keyword searches with synonyms and Boolean operators, evaluating sources for an extended essay, and keeping records that make accurate citation possible.",
-        "pre-sessional-pg": "Focusing a topic for a project, building keyword searches with synonyms and Boolean operators, evaluating sources for an extended essay, and keeping records that make accurate citation possible."
+        "pgr": "Systematic or scoping searching, comprehensive citation chaining, verification of venues and article status, and reproducible search records maintained across a multi-year project.",
+        "pre-sessional-ug": "Telling source types apart, focusing a set essay title into a searchable question, and judging which sources tutors will accept in an extended essay.",
+        "pre-sessional-pg": "Database searching with concept tables and Boolean strings for a project in the destination discipline, evaluating empirical studies for fitness of purpose, and keeping search records."
       },
       "keyReferences": [
         "acrl2016",
@@ -26,14 +26,14 @@
       "strand": "Sources & Academic Integrity",
       "name": "Summarising, Paraphrasing & Quoting",
       "summary": "Covers the core textual practices by which writers bring others' words and ideas into their own texts: quoting, paraphrasing and summarising, the reporting language that attributes and evaluates source content, and the signalling that keeps the writer's voice distinct from the sources'. The domain follows research suggesting that source-use problems in L2 writing are often developmental, linked to comprehension, vocabulary and an incomplete sense of why sources are used, rather than to intent to deceive (Howard; Pecorari; Shi; Keck). Instruction therefore pairs language work with purpose: learners transform sources in order to serve their own argument, and close dependence on source wording is treated as something to be taught through, not only policed.",
-      "learnerSummary": "You will learn how to quote, paraphrase and summarise sources accurately, how to make clear which ideas come from a source and which are your own, and how to choose language that reports other writers' ideas precisely.",
+      "learnerSummary": "You will learn to quote, paraphrase and summarise sources accurately, to report what other writers say precisely, and to make clear which ideas are yours and which come from sources.",
       "stageEmphasis": {
-        "foundation": "Accurate quotation, basic signal phrases, summarising paragraphs and early paraphrasing, with close dependence on source wording treated as a normal stage to work through.",
+        "foundation": "Accurate quotation, basic signal phrases and neutral reporting verbs, summarising paragraphs and early paraphrasing, with close dependence on source wording treated as a normal stage to work through.",
         "in-sessional-ug": "Disciplinary norms for quotation and citation form, summarising whole texts, and source use that serves analysis rather than display.",
         "in-sessional-pgt": "Rapid, accurate summarising of research articles, evaluative reporting, and clear voice boundaries in dense, multi-source writing.",
         "pgr": "Fine control of reporting verbs, citation form and attribution in research writing, and transparent use of sources in other languages.",
-        "pre-sessional-ug": "Paraphrase and summary in assessed writing, reporting verbs, voice boundaries and integration of sources in extended essays.",
-        "pre-sessional-pg": "Paraphrase and summary in assessed writing, reporting verbs, voice boundaries and integration of sources in extended essays."
+        "pre-sessional-ug": "Accurate quotation, passage summary, paraphrase written from understanding, and signal phrases with continued attribution in assessed essays.",
+        "pre-sessional-pg": "Paraphrasing and summarising whole research articles, stance-bearing reporting verbs and clear voice boundaries in source-based assignments for the destination discipline."
       },
       "keyReferences": [
         "pecorari2013",
@@ -48,15 +48,15 @@
       "code": "SYN",
       "strand": "Sources & Academic Integrity",
       "name": "Synthesis",
-      "summary": "Covers discourse synthesis: building a new text that integrates several sources around the writer's own organising ideas rather than summarising them one by one. The domain moves from the concept of synthesis, through tools for organising sources (matrices and thematic grouping), to the language of relating sources, identifying gaps and tensions, and writing synthesis paragraphs, and includes integrated reading- and listening-to-writing tasks. Spivey's account of synthesis as organising, selecting and connecting, together with research on integrated writing (Plakans; Plakans and Gebril; Grabe and Zhang), frames synthesis as a constructive reading–writing process rather than a set of linking phrases.",
-      "learnerSummary": "You will learn how to bring several sources together around your own ideas, show how they agree, differ and leave questions open, and complete tasks that combine reading, listening and writing.",
+      "summary": "Covers discourse synthesis: building a new text that integrates several sources around the writer's own organising ideas rather than summarising them one by one. The domain moves from the concept of synthesis, through tools for organising sources (matrices and thematic grouping), to the language of relating sources, identifying gaps and tensions, and writing synthesis paragraphs, and includes integrated reading- and listening-into-writing tasks in coursework, progression assessment and proficiency tests. Spivey's account of synthesis as organising, selecting and connecting, together with research on integrated writing (Plakans; Plakans and Gebril; Grabe and Zhang), frames synthesis as a constructive reading–writing process rather than a set of linking phrases.",
+      "learnerSummary": "You will learn to bring several sources together around your own ideas, show how they agree or differ, and complete tasks that combine reading, listening and writing.",
       "stageEmphasis": {
         "foundation": "Understanding synthesis versus serial summary, simple matrices built from two or three sources, and short integrated tasks.",
         "in-sessional-ug": "Synthesising module readings in essays and literature review assignments, with explicit relationships between sources and, in final-year projects, identification of gaps.",
         "in-sessional-pgt": "Literature reviews that group sources by theme, relate them critically and identify gaps that justify a dissertation question.",
         "pgr": "Synthesising large, contested literatures and articulating tensions and gaps that position an original contribution.",
-        "pre-sessional-ug": "Thematic grouping and synthesis paragraphs in extended essays, and integrated reading-into-writing tasks used for progression decisions.",
-        "pre-sessional-pg": "Thematic grouping and synthesis paragraphs in extended essays, and integrated reading-into-writing tasks used for progression decisions."
+        "pre-sessional-ug": "Understanding synthesis as opposed to serial summary in extended essays, and integrated reading-into-writing tasks used for progression decisions.",
+        "pre-sessional-pg": "Relating sources explicitly and writing synthesis paragraphs for literature-based assignments, with timed integrated tasks and early gap statements for project proposals."
       },
       "keyReferences": [
         "spivey1990",
@@ -99,10 +99,10 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
@@ -146,9 +146,10 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -181,12 +182,12 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -220,11 +221,12 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -259,11 +261,11 @@
         "foundation": "develop",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -282,13 +284,15 @@
         "Identifies who produced a source, their expertise and their interests, using evidence beyond the source's own claims about itself",
         "Judges how current a source needs to be for different questions and fields",
         "Checks whether claims in a source are supported by data, references or methods, and notes where they are not",
-        "Explains why a peer-reviewed source can still be unsuitable and a non-peer-reviewed source can still be appropriate"
+        "Explains why a peer-reviewed source can still be unsuitable and a non-peer-reviewed source can still be appropriate",
+        "Considers whose research and which contexts a set of sources represents, recognising that indexing and citation metrics reflect visibility as well as quality"
       ],
       "assessmentPrompt": "Give the learner three sources on one question (a peer-reviewed study, a think-tank report and a well-referenced news feature) and an essay purpose. Ask which they would use, for what, and why. Check that judgements are purpose-specific, go beyond 'it is peer reviewed' or 'it is a .org site', and draw on evidence about the producer and the evidence base.",
       "citations": [
         "acrl2016",
         "braten2009",
-        "wineburg2019"
+        "wineburg2019",
+        "canagarajah2002"
       ],
       "frameworks": [
         {
@@ -305,11 +309,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -352,7 +357,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -396,9 +401,9 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -437,10 +442,10 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "core",
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -480,7 +485,7 @@
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -534,7 +539,7 @@
       "strand": "Sources & Academic Integrity",
       "domain": "Information Literacy & Source Evaluation",
       "name": "Systematic and scoping searching",
-      "description": "Design and report a transparent, reproducible search for a systematic, scoping or structured literature review: a protocol with a defined question, sources, full search strings for each database, supplementary methods such as chaining, explicit eligibility criteria and a record of screening decisions. Expectations depend on the field: such searching is standard in health and other evidence-synthesis fields and increasingly expected in education and social-policy dissertations.",
+      "description": "Design, run and document a transparent, reproducible search for a systematic, scoping or other structured review: a protocol with a defined question, sources, full search strings for each database, supplementary methods such as chaining, explicit eligibility criteria and a record of screening decisions. Expectations depend on the field: such searching is standard in health and other evidence-synthesis fields and common in education, psychology, social policy, management and software engineering; writing up the review itself is covered in res.systematic-review-writing.",
       "cefrStart": "B2+",
       "cefrEnd": "C1",
       "specificity": "ESAP",
@@ -564,12 +569,18 @@
       "stageRoles": {
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "pgr": "core"
       },
-      "coreBand": "B2+",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": [
-        "sciences"
+        "health-medicine",
+        "sciences",
+        "psychology",
+        "social-sciences",
+        "education",
+        "business-management",
+        "computing"
       ]
     },
     {
@@ -605,14 +616,18 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "humanities",
+        "law",
+        "social-sciences"
+      ]
     },
     {
       "id": "src.integrating-quotations",
@@ -638,16 +653,9 @@
       ],
       "frameworks": [
         {
-          "key": "cefr-cv:prod.writ.reports-essays",
-          "levels": [
-            "B2",
-            "C1"
-          ],
-          "contribution": "component"
-        },
-        {
           "key": "cefr-cv:med.text.relaying-information",
           "levels": [
+            "B1+",
             "B2"
           ],
           "contribution": "component"
@@ -655,14 +663,17 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
-      "disciplines": []
+      "disciplines": [
+        "humanities",
+        "law"
+      ]
     },
     {
       "id": "src.paraphrasing",
@@ -707,13 +718,14 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -756,10 +768,10 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
+        "foundation": "core",
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -798,7 +810,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -843,12 +855,12 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
+        "in-sessional-ug": "revisit"
       },
-      "coreBand": "B1",
+      "coreBand": "B1+",
       "audience": "learner",
       "disciplines": []
     },
@@ -896,11 +908,12 @@
       "stageRoles": {
         "foundation": "develop",
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "core",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -909,23 +922,25 @@
       "type": "LINGUISTIC",
       "strand": "Sources & Academic Integrity",
       "domain": "Summarising, Paraphrasing & Quoting",
-      "name": "Reporting verbs",
-      "description": "Choose reporting verbs by what the source did (research acts such as find and observe; cognitive acts such as believe and assume; discourse acts such as argue, claim and note) and by the stance they convey towards the reported claim (accepting, neutral or distancing), and use their grammatical patterns accurately. Reporting verbs are a principal resource for representing sources precisely and signalling the writer's position on them.",
+      "name": "Reporting verbs and signal phrases",
+      "description": "Introduce source content with signal phrases (according to X, X argues that, as X notes) and keep attribution going across several sentences, and choose reporting verbs by what the source did (research acts such as find; cognitive acts such as believe; discourse acts such as argue and note) and by the stance they convey towards the claim (accepting, neutral or distancing). Together these are the main resources for showing readers which propositions belong to a source and how far the writer accepts them, and they underpin quotation, paraphrase and summary.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
       "specificity": "EGAP",
       "masteryEvidence": [
+        "Introduces source material with a grammatically accurate signal phrase, avoiding blends such as 'According to X, he argues that'",
+        "Maintains attribution across several sentences of source content with continuation devices (the authors further note, this study, they)",
         "Selects verbs that accurately describe the source's act, such as 'found' for a result and 'argued' for a position",
-        "Distinguishes verbs that commit the writer to the claim (demonstrate, show) from neutral (state, suggest) and distancing (claim, allege) ones",
+        "Distinguishes verbs and frames that commit the writer to the claim (demonstrate, as X shows) from neutral (state, according to) and distancing (claim, allege) ones, and chooses between them deliberately",
         "Uses reporting verbs with accurate complementation (that-clause, noun phrase + as, wh-clause)",
-        "Varies reporting verbs for precision rather than for variety alone",
-        "Describes the reporting-verb preferences of their own discipline from evidence in its texts"
+        "Varies reporting verbs for precision rather than variety, and describes the preferences of their own discipline from evidence in its texts"
       ],
-      "assessmentPrompt": "Give the learner three reports of the same study using 'shows', 'suggests' and 'claims', and ask what each tells the reader about the writer's view. Then ask them to report a finding they consider weakly supported. Check whether they recognise the stance difference and choose a verb that conveys appropriate distance with correct complementation.",
+      "assessmentPrompt": "Give the learner a three-sentence summary of a study in which only the first sentence is attributed and every verb is 'says'. Ask them to revise it so that a reader can tell all three sentences come from the source, then to revise it again as if they doubted the main finding. Check for continued attribution, grammatically accurate frames and complementation, and a verb change (for example from 'shows' to 'claims') that conveys the intended stance.",
       "citations": [
         "thompsonye1991",
         "hyland1999attribution",
-        "hyland2004disciplinary"
+        "hunstonthompson2000",
+        "pecorari2013"
       ],
       "frameworks": [
         {
@@ -933,6 +948,14 @@
           "levels": [
             "B2",
             "C1"
+          ],
+          "contribution": "component"
+        },
+        {
+          "key": "cefr-cv:med.text.relaying-information",
+          "levels": [
+            "B1+",
+            "B2"
           ],
           "contribution": "component"
         },
@@ -946,9 +969,9 @@
         }
       ],
       "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
@@ -988,7 +1011,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1027,12 +1050,13 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1062,7 +1086,7 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -1156,10 +1180,10 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
+        "pre-sessional-ug": "core",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
+        "in-sessional-pgt": "revisit"
       },
       "coreBand": "B1+",
       "audience": "learner",
@@ -1201,7 +1225,7 @@
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     },
@@ -1237,10 +1261,10 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
-      "coreBand": "B2",
+      "coreBand": "B2+",
       "audience": "learner",
       "disciplines": []
     },
@@ -1283,8 +1307,8 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
         "in-sessional-pgt": "develop",
         "pgr": "develop"
       },
@@ -1329,10 +1353,10 @@
         "pre-sessional-ug": "develop",
         "pre-sessional-pg": "develop",
         "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
+        "in-sessional-pgt": "core",
+        "pgr": "core"
       },
-      "coreBand": "B2",
+      "coreBand": "C1",
       "audience": "learner",
       "disciplines": []
     },
@@ -1379,9 +1403,9 @@
       ],
       "stageRoles": {
         "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core",
         "pgr": "develop"
       },
       "coreBand": "B2",
@@ -1393,19 +1417,20 @@
       "type": "PROCEDURAL",
       "strand": "Sources & Academic Integrity",
       "domain": "Synthesis",
-      "name": "Integrated source-based tasks",
-      "description": "Complete tasks that require reading and/or listening to sources and producing a written (or spoken) response that selects, transforms and integrates their content, such as summary–response tasks, reading-into-writing assessments and lecture-plus-reading syntheses. Success depends on comprehension, selective note-making, transformation of source language and organisation around the task rather than around the sources.",
+      "name": "Integrated source-based tasks in coursework and tests",
+      "description": "Complete tasks that require reading and/or listening to sources and then writing (or speaking) a response that selects, transforms and integrates their content, such as summary–response tasks, reading-into-writing progression assessments and the integrated tasks of some proficiency and in-house tests. Success depends on comprehension, selective notes that capture how the sources relate, transformation of source language and organisation around the task's specific demand rather than around the sources; under test conditions the same process must fit strict time limits and the format of the test being taken.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
       "specificity": "EGAP",
       "masteryEvidence": [
-        "Analyses the task to determine what must be taken from each source and how the response should be organised",
-        "Makes notes from reading and listening that capture main points and the relationships between them",
-        "Integrates content from more than one source and states how the sources relate",
-        "Transforms source language through paraphrase and summary, quoting only where wording matters",
-        "Manages time across reading, listening, planning and writing within the task limit"
+        "Analyses the task to determine what must be taken from each source and which relationship or demand the response must be organised around",
+        "Makes notes from reading and listening that capture main points and how the sources relate, for example where one qualifies, challenges, extends or illustrates another",
+        "Selects the source content the task requires rather than summarising everything, and states the relationship between sources explicitly",
+        "Transforms source language through paraphrase and summary, with clear attribution to each reading or speaker, quoting only where wording matters",
+        "Completes a timed integrated task under test conditions, dividing the time between processing the input, planning and writing, without the response collapsing into copied source wording",
+        "Describes the input, timing and delivery mode of the integrated task in the test or progression assessment they will take, using the test owner's current information, and adapts their process to it"
       ],
-      "assessmentPrompt": "Set a timed task with a 400-word reading and a five-minute lecture extract that challenges part of it, and ask for a 200-word response explaining how the lecture relates to the reading. Check whether the response identifies the relationship, draws selectively on both sources, transforms source wording and is organised by points rather than by source.",
+      "assessmentPrompt": "Set a timed task with two short sources on one issue, one written and one spoken (for example a recorded lecture extract or discussion), and a prompt that specifies what to do with them, such as explaining how the second qualifies the first or using both to answer a question. Check whether the response does what the prompt asks, draws selectively and accurately on both sources, attributes and transforms their wording, is organised by points rather than by source, and is finished within the time; long copied strings or omission of one source indicate a gap.",
       "citations": [
         "plakans2008",
         "plakansgebril2012",
@@ -1417,7 +1442,8 @@
           "key": "cefr-cv:med.text.processing-text",
           "levels": [
             "B1+",
-            "B2"
+            "B2",
+            "B2+"
           ],
           "contribution": "core"
         },
@@ -1432,11 +1458,11 @@
       ],
       "stageRoles": {
         "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
         "in-sessional-ug": "develop"
       },
-      "coreBand": "B1+",
+      "coreBand": "B2",
       "audience": "learner",
       "disciplines": []
     }
@@ -1721,8 +1747,8 @@
     {
       "topicId": "src.reporting-verbs",
       "prerequisiteId": "grm.reporting-structures",
-      "strength": "soft",
-      "reason": "Attribution frames instantiate reporting structures (verb + that-clause, according to, as X notes)"
+      "strength": "hard",
+      "reason": "Signal phrases and reporting verbs instantiate reporting structures (verb + that-clause, noun phrase + as, according to, as X notes); without the structures learners produce blended or ungrammatical frames"
     },
     {
       "topicId": "src.reporting-verbs",
@@ -1793,8 +1819,8 @@
     {
       "topicId": "syn.synthesis-concept",
       "prerequisiteId": "cit.citation-functions",
-      "strength": "hard",
-      "reason": "Synthesis rests on the idea that sources serve the writer's purposes rather than being reported for their own sake"
+      "strength": "soft",
+      "reason": "Synthesis rests on the idea that sources serve the writer's purposes rather than being reported for their own sake, which the analysis of citation functions makes explicit; learners can begin synthesis from paired examples before meeting the full taxonomy"
     },
     {
       "topicId": "syn.synthesis-concept",
@@ -1925,8 +1951,8 @@
     {
       "topicId": "syn.integrated-tasks",
       "prerequisiteId": "tst.test-formats",
-      "strength": "hard",
-      "reason": "Strategies for integrated tasks depend on knowing the specific task structure and constraints of the test"
+      "strength": "soft",
+      "reason": "Preparing for a test's integrated tasks draws on knowing that test's current task types, timing and delivery; coursework and progression tasks do not require it"
     },
     {
       "topicId": "syn.integrated-tasks",
@@ -1961,7 +1987,7 @@
             "Use these features to classify three new abstracts and compare decisions with a partner"
           ],
           "intendedInsight": "Text-internal signals show what kind of knowledge a source offers before it is read in full.",
-          "rationale": "Learners often rely on where a source was found; attention to the text's own features transfers to unfamiliar sources and supports later reading decisions.",
+          "rationale": "Learners often rely on where a source was found; attention to the text's own features is intended to transfer to unfamiliar sources and support later reading decisions.",
           "citations": [
             "wallacewray2016"
           ]
@@ -1996,7 +2022,7 @@
         "partialResponse": "Classifies correctly by format but cannot say what each could support, or treats the news report as equivalent evidence to the review.",
         "gapResponse": "Classifies by where the item was found or by length and treats all three as interchangeable evidence."
       },
-      "contextNotes": "At foundation level, focus on scholarly versus popular and on reading genre signals in textbooks and journal articles. On pre-sessional courses, link source types to what tutors accept in an extended essay. In undergraduate in-sessional work, make disciplinary variation explicit, especially in history, law and the arts, where primary sources have specific meanings (see dhu.primary-sources).",
+      "contextNotes": "At foundation level, focus on scholarly versus popular and on reading genre signals in textbooks and journal articles. On undergraduate pre-sessional courses, link source types to what tutors accept in an extended essay; postgraduate pre-sessional learners need the empirical, review and theoretical distinction most. In undergraduate in-sessional work, make disciplinary variation explicit, especially in history, law and the arts, where primary sources have specific meanings (see dhu.primary-sources).",
       "citations": [
         "acrl2016",
         "wallacewray2016"
@@ -2051,7 +2077,7 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "In my previous studies the textbook was the authority.",
+          "pattern": "In my previous courses, the set textbook was the only source we were assessed on.",
           "kind": "prior-schooling",
           "revealedBy": "Heavy reliance on textbooks as evidence for current debates",
           "response": "Value textbooks for consolidated knowledge and definitions, while showing the publication lag and the role of journals for current evidence. Present this as a change of purpose, not a correction of past practice.",
@@ -2166,14 +2192,14 @@
             "Rewrite and re-run each search"
           ],
           "intendedInsight": "Search problems have identifiable causes and specific repairs.",
-          "rationale": "Error analysis makes the logic of operators visible and transfers to learners' own searching.",
+          "rationale": "Error analysis makes the logic of operators visible and is intended to transfer to learners' own searching.",
           "citations": []
         }
       ],
       "difficulties": [
         {
           "pattern": "I type my whole question into the database, as I do in a web search engine.",
-          "kind": "prior-schooling",
+          "kind": "overgeneralisation",
           "revealedBy": "Long natural-language queries in search histories and very few or irrelevant database results",
           "response": "Contrast relevance-ranked web search with field-based database search by running both live. Do not say natural language never works: some discovery tools handle it, but learners need to know why many databases do not.",
           "reteachPrerequisiteId": null
@@ -2199,7 +2225,7 @@
         "partialResponse": "Includes some synonyms but omits spelling variants or brackets, or cannot predict the operator's effect.",
         "gapResponse": "Writes the question as a sentence or joins all terms with AND."
       },
-      "contextNotes": "Foundation learners need keywords and simple Boolean searches in the catalogue. Pre-sessional projects are a good point to introduce concept tables. Undergraduates and taught postgraduates should apply strategies in their subject databases, including controlled vocabularies where they exist.",
+      "contextNotes": "Foundation learners need keywords and simple Boolean searches in the catalogue. Undergraduate pre-sessional projects are a good point to introduce concept tables; postgraduate pre-sessional learners should build full search strings in a database for their destination discipline. Undergraduates and taught postgraduates should apply strategies in their subject databases, including controlled vocabularies where they exist.",
       "citations": [
         "acrl2016"
       ],
@@ -2209,7 +2235,7 @@
     },
     {
       "topicId": "inf.databases",
-      "summary": "Teach tool choice by coverage: what each catalogue, discovery layer, subject database and Google Scholar indexes, and which search features each offers. Hands-on work in learners' own subject databases, ideally co-taught with subject librarians, transfers better than generic demonstrations. In terms of the ACRL strategic exploration frame, expert searchers match tools to information needs and change tools when results are poor.",
+      "summary": "Teach tool choice by coverage: what each catalogue, discovery layer, subject database and Google Scholar indexes, and which search features each offers. Hands-on work in learners' own subject databases, ideally co-taught with subject librarians, is likely to transfer better than generic demonstrations. In terms of the ACRL strategic exploration frame, expert searchers match tools to information needs and change tools when results are poor.",
       "activities": [
         {
           "title": "Same search, three tools",
@@ -2273,7 +2299,7 @@
     },
     {
       "topicId": "inf.source-evaluation",
-      "summary": "Checklists of authority, currency, relevance and purpose are useful prompts, but they can encourage surface judgements based on domain names or design; Wineburg and McGrew's comparison of fact-checkers with students and historians shows the limits of judging a source on its own terms. Teach evaluation as purpose-specific: what is this source being used to support, and is it adequate for that? Bråten and colleagues found that students' trust judgements about sources were associated with their comprehension across multiple texts, which suggests evaluation should be integrated with reading rather than taught as a separate library exercise.",
+      "summary": "Checklists of authority, currency, relevance and purpose are useful prompts, but they can encourage surface judgements based on domain names or design; Wineburg and McGrew's comparison of fact-checkers with students and historians shows the limits of judging a source on its own terms. Teach evaluation as purpose-specific: what is this source being used to support, and is it adequate for that? Bråten and colleagues found that students' trust judgements about sources were associated with their comprehension across multiple texts, which suggests evaluation should be integrated with reading rather than taught as a separate library exercise. Evaluation criteria are not neutral: Canagarajah shows how material and discursive conditions limit the participation of scholars from the periphery in centre journals, so a preference for highly indexed venues can narrow whose knowledge learners meet.",
       "activities": [
         {
           "title": "Fit for purpose",
@@ -2318,10 +2344,10 @@
           "reteachPrerequisiteId": "rdc.critical-reading"
         },
         {
-          "pattern": "I cannot judge experts; I am only a student.",
-          "kind": "affective",
-          "revealedBy": "Reluctance to make any evaluative comment about published work",
-          "response": "Frame evaluation as asking reasonable questions about fit, evidence and interests rather than judging expertise, and provide frames for tentative evaluation.",
+          "pattern": "Our guidance says to use only top-ranked journals, so studies from my region do not count.",
+          "kind": "institutional",
+          "revealedBy": "Relevant regional, local-language or practitioner research excluded without reasons, and reference lists drawn from a narrow set of highly indexed journals",
+          "response": "Review whether module guidance equates indexing or impact with quality, and revise it where it does. With learners, judge each source by its fit and evidence for the purpose, and discuss how indexing and metrics affect visibility (see cit.citation-politics).",
           "reteachPrerequisiteId": null
         }
       ],
@@ -2331,13 +2357,16 @@
         "partialResponse": "Notes the company's interest but uses the press release's figures without checking the study.",
         "gapResponse": "Uses the press release as evidence for the claim without comment."
       },
-      "contextNotes": "At foundation and pre-sessional level, focus on scholarly versus non-scholarly sources and purpose-specific use. In-sessional undergraduates should apply module-specific expectations. For taught postgraduates, evaluation increasingly merges with methods critique (rdc.methods-critique).",
+      "contextNotes": "At foundation and pre-sessional level, focus on scholarly versus non-scholarly sources and purpose-specific use; pre-sessional learners bound for postgraduate study should also judge the evidence base of empirical studies. In-sessional undergraduates should apply module-specific expectations. For taught postgraduates, evaluation increasingly merges with methods critique (rdc.methods-critique). At every stage, ask whose perspectives a reference list includes; cit.citation-politics develops this.",
       "citations": [
         "acrl2016",
         "wineburg2019",
-        "braten2009"
+        "braten2009",
+        "canagarajah2002"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R5-14 recommends linking a citation-politics topic to this one. cit.citation-politics belongs to the CIT group, which sets its prerequisites, so no edge is added from this file; the link is made in the mastery evidence and context notes."
+      ]
     },
     {
       "topicId": "inf.lateral-reading",
@@ -2364,7 +2393,7 @@
             "Record whether the original supports the claim as reported and how it was changed"
           ],
           "intendedInsight": "Claims change as they travel; checking the origin is part of evaluation.",
-          "rationale": "Tracing claims upstream is part of the fact-checking repertoire and builds the habit of checking before citing.",
+          "rationale": "Tracing claims upstream is part of the fact-checking repertoire and is intended to build the habit of checking before citing.",
           "citations": [
             "wineburg2019"
           ]
@@ -2372,7 +2401,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "Leaving the page feels like not reading carefully.",
+          "pattern": "We were taught to read a text closely from start to finish before judging it, so leaving the page feels careless.",
           "kind": "prior-schooling",
           "revealedBy": "Learners spend all the available time reading the site itself before any external check",
           "response": "Distinguish purposes: close reading is for understanding content; lateral reading establishes whether to trust the source first. Model and time the routine.",
@@ -2435,7 +2464,7 @@
             "Discuss why the article may still be cited and what a writer should do"
           ],
           "intendedInsight": "Published work can be withdrawn, so status must be checked before citing.",
-          "rationale": "Seeing notices in situ makes the concept concrete and builds a routine check.",
+          "rationale": "Seeing notices in situ makes the concept concrete and is intended to build a routine check.",
           "citations": [
             "acrl2016"
           ]
@@ -2476,9 +2505,7 @@
         "wineburg2019",
         "grudniewicz2019"
       ],
-      "reviewNotes": [
-        "grudniewicz2019 is a proposed reference and must be verified before publication; if it is removed, the statement that definitions of predatory publishing are contested needs another source."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "inf.citation-chaining",
@@ -2646,9 +2673,9 @@
         },
         {
           "pattern": "Everyone uses those download sites; there is no other way.",
-          "kind": "prior-schooling",
+          "kind": "institutional",
           "revealedBy": "Learners report unauthorised download sites as their default route",
-          "response": "Acknowledge access inequities without judgement, demonstrate the legitimate routes now available to them, and explain the legal and security risks. Avoid moralising.",
+          "response": "Acknowledge access inequities without judgement: many learners have studied where subscriptions were limited. Demonstrate the legitimate routes now available to them and explain the legal and security risks, and make sure induction shows every learner how off-campus access and interlibrary loan work. Avoid moralising.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -2724,15 +2751,13 @@
         "partialResponse": "Describes databases and keywords but not criteria or screening records.",
         "gapResponse": "Cannot describe the search beyond naming one search engine."
       },
-      "contextNotes": "This topic serves mainly taught postgraduates and doctoral researchers in fields with an evidence-synthesis tradition, and final-year undergraduates in health disciplines. Match expectations to the assignment: many taught dissertations require a structured, documented search rather than a full systematic review.",
+      "contextNotes": "This topic serves mainly doctoral researchers and taught postgraduates in fields with an evidence-synthesis tradition, and final-year undergraduates in health disciplines. Match expectations to the assignment: many taught dissertations require a structured, documented search rather than a full systematic review. Writing the protocol and the review report, including flow diagrams and synthesis, is taught in res.systematic-review-writing; this topic covers designing, running and recording the search.",
       "citations": [
         "page2021prisma",
         "arksey2005",
         "acrl2016"
       ],
-      "reviewNotes": [
-        "page2021prisma and arksey2005 are proposed references and need verification before publication."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "src.quoting",
@@ -2746,7 +2771,7 @@
             "Justify two decisions to a partner"
           ],
           "intendedInsight": "Quotation is warranted when the wording itself matters.",
-          "rationale": "Explicit criteria counter both over-quotation and blanket avoidance, and can be tied to disciplinary norms.",
+          "rationale": "Explicit criteria are intended to counter both over-quotation and blanket avoidance, and can be tied to disciplinary norms.",
           "citations": [
             "hyland1999attribution"
           ]
@@ -2759,7 +2784,7 @@
             "Check with a partner that the trimmed version has not changed the meaning"
           ],
           "intendedInsight": "Economical quotation requires exact marking of changes without distorting the source.",
-          "rationale": "Practising omission and insertion conventions builds accuracy and economy together.",
+          "rationale": "Practising omission and insertion conventions is intended to build accuracy and economy together.",
           "citations": [
             "pecorari2013"
           ]
@@ -2781,7 +2806,7 @@
           "reteachPrerequisiteId": "sen.punctuation-mechanics"
         },
         {
-          "pattern": "In my previous studies we always quoted the authority.",
+          "pattern": "In my previous courses, marks were given for quoting the set authorities.",
           "kind": "prior-schooling",
           "revealedBy": "Heavy quotation in a target discipline where it is unusual, such as engineering",
           "response": "Compare expert texts from the learner's target discipline and discuss its norms, without implying that previous practice was wrong.",
@@ -2813,7 +2838,7 @@
             "Add one or two sentences interpreting each quotation and linking it to the paragraph's claim"
           ],
           "intendedInsight": "A quotation becomes evidence only when the writer frames and interprets it.",
-          "rationale": "Explicit attention to the follow-up move addresses the tendency for citations to be used for attribution only.",
+          "rationale": "Explicit attention to the follow-up move targets the tendency for citations to be used for attribution only.",
           "citations": [
             "petric2007"
           ]
@@ -2895,7 +2920,7 @@
             "Rewrite the paraphrase so that it foregrounds the aspect your paragraph will discuss"
           ],
           "intendedInsight": "Paraphrase serves the writer's purpose and can be shaped to the argument.",
-          "rationale": "Hirvela and Du found that students who approached paraphrasing as a display requirement did not connect it to their own understanding or argument; linking paraphrase to purpose addresses this.",
+          "rationale": "Hirvela and Du found that students who approached paraphrasing as a display requirement did not connect it to their own understanding or argument; linking paraphrase to purpose is intended to address this.",
           "citations": [
             "hirveladu2013"
           ]
@@ -2938,9 +2963,7 @@
         "hirveladu2013",
         "shi2012"
       ],
-      "reviewNotes": [
-        "shi2012 is a proposed reference, cited for disagreement among instructors about acceptable paraphrase; if it is not verified, the final sentence of the summary should be softened or re-sourced."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "src.paraphrase-techniques",
@@ -2954,7 +2977,7 @@
             "Judge which versions preserve the meaning and which read naturally in context"
           ],
           "intendedInsight": "Each operation changes something different, and not every change preserves meaning or reads well.",
-          "rationale": "Isolated practice builds the lexicogrammatical repertoire paraphrase requires before it is combined with comprehension-based writing; Keck's categories give a way to judge the result.",
+          "rationale": "Isolated practice is intended to build the lexicogrammatical repertoire paraphrase requires before it is combined with comprehension-based writing; Keck's categories give a way to judge the result.",
           "citations": [
             "keck2006"
           ]
@@ -2967,7 +2990,7 @@
             "Identify any word that should not be replaced because it is a technical term"
           ],
           "intendedInsight": "Synonyms are rarely exact, and some words should be kept.",
-          "rationale": "Making near-synonym differences explicit addresses meaning distortion, a typical outcome when substitution is the main strategy.",
+          "rationale": "Making near-synonym differences explicit targets meaning distortion, a typical outcome when substitution is the main strategy.",
           "citations": [
             "hirveladu2013"
           ]
@@ -3059,7 +3082,7 @@
           "reteachPrerequisiteId": "int.plagiarism"
         },
         {
-          "pattern": "Copying good sentences is how I learned to write well.",
+          "pattern": "At school we memorised model sentences and reused them; that is how I learned to write well.",
           "kind": "prior-schooling",
           "revealedBy": "Memorised sentences from sources reproduced without marking",
           "response": "Acknowledge imitation and memorisation as legitimate learning strategies, and distinguish reusing general academic phrases ('it has been argued that') from reproducing a source's specific wording. Pennycook's discussion of memory and ownership supports a non-judgemental approach.",
@@ -3096,7 +3119,7 @@
             "Expand it into a 25-word attributed summary, keeping any qualification that affects meaning"
           ],
           "intendedInsight": "Summary starts with deciding what matters, then expressing it in new words.",
-          "rationale": "Separating selection from reformulation reduces the load that tends to produce copying, a pattern Johns and Mayes observed in lower-proficiency summarisers.",
+          "rationale": "Separating selection from reformulation is intended to reduce the load that tends to produce copying, a pattern Johns and Mayes observed in lower-proficiency summarisers.",
           "citations": [
             "johnsmayes1990"
           ]
@@ -3213,7 +3236,7 @@
         "partialResponse": "Covers the main points but follows paragraph order, over-represents detail or borrows phrasing.",
         "gapResponse": "Summarises only the introduction, lists details, or misrepresents the main claim."
       },
-      "contextNotes": "Foundation learners summarise textbook sections and short articles. Pre-sessional learners summarise journal articles for extended writing and progression tasks. Taught postgraduates must summarise research articles quickly and accurately for literature reviews and critiques (ges.critique).",
+      "contextNotes": "Foundation learners summarise textbook sections and short articles, and undergraduate pre-sessional learners summarise articles for extended writing. Postgraduate pre-sessional learners and taught postgraduates must summarise research articles quickly and accurately for literature reviews and critiques (ges.critique).",
       "citations": [
         "browday1983",
         "kintsch1978",
@@ -3225,8 +3248,21 @@
     },
     {
       "topicId": "src.reporting-verbs",
-      "summary": "Thompson and Ye classified reporting verbs by the kind of act reported and by the evaluation they convey, distinguishing the cited author's stance from the reporting writer's, and Hyland documented disciplinary differences in reporting-verb preferences. Teach verbs in functional groups with their evaluative force, using examples from learners' own disciplines. Emphasise precision over variety: the aim is to represent accurately what the source did and how far the writer accepts it.",
+      "summary": "Hunston's distinction between averral and attribution explains why readers need signals: each proposition is either the writer's own or attributed to someone else, and readers rely on linguistic signals to tell which. Thompson and Ye classified reporting verbs by the kind of act reported and by the evaluation they convey, and Hyland documented disciplinary differences in reporting-verb preferences. Teach a small set of grammatically secure signal phrases and continued attribution first, then verbs in functional groups with their evaluative force, using examples from learners' own disciplines; Pecorari argues that good source use of this kind needs explicit teaching rather than being assumed. Emphasise precision over variety: the aim is to represent accurately what the source did and how far the writer accepts it.",
       "activities": [
+        {
+          "title": "Whose idea is it?",
+          "learnerActions": [
+            "Read a summary paragraph in which only the first sentence is attributed",
+            "Mark each sentence as 'source' or 'writer' and compare with a partner",
+            "Revise using continued attribution ('The authors further argue…', 'According to the same study…')"
+          ],
+          "intendedInsight": "Attribution must be maintained across sentences, not only at the start.",
+          "rationale": "The task turns the averral–attribution distinction into a practical reading and writing problem.",
+          "citations": [
+            "hunstonthompson2000"
+          ]
+        },
         {
           "title": "Stance continuum",
           "learnerActions": [
@@ -3241,32 +3277,41 @@
           ]
         },
         {
-          "title": "Discipline verb profile",
+          "title": "Frame and verb profile",
           "learnerActions": [
-            "Collect reporting verbs from three articles in your field",
-            "Group them by the act reported (research, cognition, discourse)",
+            "Collect signal phrases and reporting verbs from three articles in your field",
+            "Sort them by grammatical pattern (according to + noun; X + verb + that-clause; as + X + verb) and by the act reported (research, cognition, discourse)",
+            "Write one sentence with each pattern about a source you are using",
             "Compare your profile with a peer from another discipline"
           ],
-          "intendedInsight": "Disciplines prefer different reporting verbs.",
-          "rationale": "Hyland found clear disciplinary differences in reporting-verb choice; learner-collected data makes these visible in the learner's own field.",
+          "intendedInsight": "Signal phrases follow a few learnable patterns, and disciplines prefer different reporting verbs.",
+          "rationale": "Hyland found clear disciplinary differences in reporting-verb choice, and learner-collected examples make these visible in the learner's own field. Learning frames as patterns is intended to reduce blended frames (a practitioner proposal); Pecorari (2013) supports explicit teaching of source use, not this specific effect.",
           "citations": [
-            "hyland1999attribution"
+            "hyland1999attribution",
+            "pecorari2013"
           ]
         }
       ],
       "difficulties": [
         {
-          "pattern": "I should never repeat a reporting verb.",
-          "kind": "overgeneralisation",
-          "revealedBy": "Strained variation that produces inaccurate verbs, such as 'Smith confesses that'",
-          "response": "Explain that accuracy matters more than variety and show expert texts that repeat neutral verbs. Avoid handing out long undifferentiated verb lists.",
-          "reteachPrerequisiteId": null
+          "pattern": "According to Smith, he argues that…",
+          "kind": "developmental",
+          "revealedBy": "Double attribution and blended frames",
+          "response": "Contrast the two patterns and practise transforming one into the other. Treat the blend as a stage in learning the patterns, not as carelessness, and do not respond by banning one of the frames.",
+          "reteachPrerequisiteId": "grm.reporting-structures"
         },
         {
-          "pattern": "Claim and state mean the same thing.",
+          "pattern": "After I cite once, the reader knows the rest is from the source.",
           "kind": "conceptual",
-          "revealedBy": "Unintended distancing from, or endorsement of, reported claims",
-          "response": "Contrast verb pairs in context and ask what each implies about the writer's view, linking back to how the source itself commits to its claim.",
+          "revealedBy": "Unclear attribution in later sentences of summaries",
+          "response": "Show that readers tend to assume unattributed sentences are the writer's own, and practise continuation devices.",
+          "reteachPrerequisiteId": "cit.when-to-cite"
+        },
+        {
+          "pattern": "I should never repeat a reporting verb, so I use claim, state and argue in turn.",
+          "kind": "overgeneralisation",
+          "revealedBy": "Strained variation that produces inaccurate verbs or unintended stance, such as 'Smith confesses that' or 'claims' for a finding the writer accepts",
+          "response": "Explain that accuracy matters more than variety, show expert texts that repeat neutral verbs, and contrast verb pairs in context, asking what each implies about the writer's view. Avoid handing out long undifferentiated verb lists.",
           "reteachPrerequisiteId": null
         },
         {
@@ -3274,22 +3319,25 @@
           "kind": "overgeneralisation",
           "revealedBy": "Prepositions added to transitive reporting verbs",
           "response": "Learners often extend the pattern of a related noun ('a discussion about', 'an emphasis on') to the verb. Teach verbs with their complementation from corpus or dictionary examples and practise noun–verb pairs side by side.",
-          "reteachPrerequisiteId": null
+          "reteachPrerequisiteId": "grm.reporting-structures"
         }
       ],
       "diagnostic": {
-        "task": "Give a sentence reporting a study's finding with a blank for the verb, and three contexts: the writer agrees, is neutral, and doubts the finding. Ask for a suitable verb for each.",
-        "strongResponse": "Chooses verbs that convey the intended stance with correct grammar, such as 'demonstrates', 'reports' and 'claims'.",
-        "partialResponse": "Chooses suitable verbs for two contexts, or makes complementation errors.",
-        "gapResponse": "Uses the same verb throughout, or chooses verbs with unintended stance."
+        "task": "Ask the learner to write three sentences reporting one study's finding so that a reader can tell all three come from the source, then to change one verb to show that they doubt the finding.",
+        "strongResponse": "Uses an accurate initial frame and continuation devices, and switches to a distancing verb (such as 'claims') with correct complementation.",
+        "partialResponse": "Attributes only the first sentence, uses a blended frame, or changes the verb without a real change of stance.",
+        "gapResponse": "Gives no attribution or only an end citation, and uses 'says' throughout."
       },
-      "contextNotes": "Foundation learners need a small set of neutral verbs used accurately. Pre-sessional learners should learn stance contrasts. Undergraduates and taught postgraduates should profile their discipline's verbs, and doctoral researchers need fine control of stance when positioning their own work.",
+      "contextNotes": "Foundation and early pre-sessional learners should automate a small set of signal phrases, continued attribution and neutral verbs. Pre-sessional learners, especially those heading for postgraduate study, add stance contrasts. Undergraduates and taught postgraduates profile their discipline's verbs, and doctoral researchers need fine control of stance when positioning their own work. Tense choice with reporting verbs is treated in grm.tense-in-reporting, once verb and frame choice are secure.",
       "citations": [
+        "hunstonthompson2000",
         "thompsonye1991",
         "hyland1999attribution",
-        "hyland2004disciplinary"
+        "pecorari2013"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R1-37 asked for the grammar topics to be linked as hard prerequisites. grm.reporting-structures is now a hard prerequisite, but grm.tense-in-reporting is not linked: it starts at B2, above this topic's B1+ start, and it already depends on src.citation-forms, which depends on this topic, so the edge would invert the CEFR order and create a cycle."
+      ]
     },
     {
       "topicId": "src.citation-forms",
@@ -3325,7 +3373,7 @@
       ],
       "difficulties": [
         {
-          "pattern": "I always start with the author's name; it is clearer.",
+          "pattern": "I was taught to begin each sentence about a source with the author's name.",
           "kind": "prior-schooling",
           "revealedBy": "Paragraphs that read 'X (2019) says… Y (2020) says…'",
           "response": "Show how information-prominent citation foregrounds ideas and supports synthesis. Do not ban integral forms; the aim is choice.",
@@ -3389,14 +3437,14 @@
       ],
       "difficulties": [
         {
-          "pattern": "I put one citation at the end of the paragraph to cover everything.",
+          "pattern": "My previous teachers accepted one citation at the end of each paragraph.",
           "kind": "prior-schooling",
           "revealedBy": "Single end-of-paragraph citations covering mixed content",
           "response": "Show that an end-placed citation leaves the reader unsure what it covers, and teach citation placement and continued attribution.",
           "reteachPrerequisiteId": "src.reporting-verbs"
         },
         {
-          "pattern": "My own opinion is not allowed in academic writing.",
+          "pattern": "I was taught that academic writing should not contain my own opinion.",
           "kind": "prior-schooling",
           "revealedBy": "Paragraphs consisting entirely of reported content",
           "response": "Show expert texts in which writers evaluate and connect sources, and distinguish argued evaluation from unsupported personal opinion, without implying the learner's previous context was wrong.",
@@ -3450,7 +3498,7 @@
             "Explain to a partner which work is listed and why"
           ],
           "intendedInsight": "Secondary citation has specific format rules that differ between styles.",
-          "rationale": "Checking against the guide prevents common errors such as listing the unread original.",
+          "rationale": "Checking against the guide is intended to prevent common errors such as listing the unread original.",
           "citations": [
             "apa2020"
           ]
@@ -3512,7 +3560,7 @@
             "Plan how to raise its use with your tutor"
           ],
           "intendedInsight": "Non-English scholarship can add perspectives, and its use should be discussed openly.",
-          "rationale": "Lillis and Curry document inequalities in English-medium publishing; reflecting on them supports informed choices of sources.",
+          "rationale": "Lillis and Curry document inequalities in English-medium publishing; reflecting on them is intended to support informed choices of sources.",
           "citations": [
             "lilliscurry2010"
           ]
@@ -3553,7 +3601,8 @@
         "lilliscurry2010"
       ],
       "reviewNotes": [
-        "Conventions for presenting original-language text alongside translations vary by discipline and style; local guidance should be checked."
+        "Conventions for presenting original-language text alongside translations vary by discipline and style; local guidance should be checked.",
+        "Review response: R5-02 notes that this topic is a dead-end leaf. Its natural dependants (cit.citation-politics, pub.multilingual-scholars) belong to other groups, which can add edges from this topic; no topic in this file depends on it without forcing the sequence."
       ]
     },
     {
@@ -3596,10 +3645,10 @@
           "reteachPrerequisiteId": "src.summarising-passage"
         },
         {
-          "pattern": "The sources are the experts; who am I to organise them?",
-          "kind": "affective",
-          "revealedBy": "Reluctance to impose an organising idea on sources",
-          "response": "Present synthesis as interpretive work that experts themselves do in reviews, and model tentative organising claims. Return to the idea that sources serve the writer's purpose.",
+          "pattern": "Synthesis means giving my opinion and adding citations at the end.",
+          "kind": "conceptual",
+          "revealedBy": "Paragraphs whose organising claim does not come from the sources, with citations attached that do not support the role given to them",
+          "response": "Show that the organising point must be accountable to what the sources say: ask learners to state, for each source, what it contributes to the point and to check that it does. Return to the functions sources perform for the writer.",
           "reteachPrerequisiteId": "cit.citation-functions"
         }
       ],
@@ -3609,7 +3658,7 @@
         "partialResponse": "Says synthesis uses several sources but does not mention organisation or relationships.",
         "gapResponse": "Equates synthesis with summary or with using many citations."
       },
-      "contextNotes": "Introduce synthesis at foundation level with two or three short texts. Pre-sessional extended writing requires it, and it underpins literature review assignments for undergraduates and taught postgraduates.",
+      "contextNotes": "Introduce synthesis at foundation level with two or three short texts. Undergraduate pre-sessional extended essays require it explicitly; postgraduate pre-sessional learners meet it mainly through synthesis paragraphs and relating sources. It underpins literature review assignments for undergraduates and taught postgraduates.",
       "citations": [
         "spivey1990",
         "feakswales2009litrev"
@@ -3641,7 +3690,7 @@
             "Compare the plan with an author-by-author plan for the same sources"
           ],
           "intendedInsight": "Matrix columns map onto synthesis paragraphs.",
-          "rationale": "Making the matrix-to-paragraph link explicit stops the matrix becoming an isolated note-making exercise and reflects the thematic organisation Feak and Swales recommend for reviews.",
+          "rationale": "Making the matrix-to-paragraph link explicit is intended to stop the matrix becoming an isolated note-making exercise and reflects the thematic organisation Feak and Swales recommend for reviews.",
           "citations": [
             "feakswales2009litrev"
           ]
@@ -3697,7 +3746,7 @@
             "Re-sort using a different criterion and decide which grouping better serves the question"
           ],
           "intendedInsight": "Themes are constructed by the writer, and different groupings suit different arguments.",
-          "rationale": "Physical sorting makes classification criteria visible and encourages testing alternatives before committing to a structure.",
+          "rationale": "Physical sorting makes classification criteria visible and is intended to encourage testing alternatives before committing to a structure.",
           "citations": [
             "feakswales2009litrev"
           ]
@@ -3833,7 +3882,7 @@
             "Annotate each sentence with the matrix evidence that supports it"
           ],
           "intendedInsight": "Gaps must be grounded in evidence from the literature reviewed.",
-          "rationale": "Linking each claimed gap to matrix evidence discourages unsupported claims that no research exists.",
+          "rationale": "Linking each claimed gap to matrix evidence is intended to discourage unsupported claims that no research exists.",
           "citations": [
             "feakswales2009litrev"
           ]
@@ -3868,11 +3917,11 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Criticising published research feels disrespectful.",
-          "kind": "affective",
-          "revealedBy": "Reluctance to identify limitations or tensions",
-          "response": "Model respectful critique and show that authors themselves identify limitations; frame gaps as opportunities the field itself recognises.",
-          "reteachPrerequisiteId": "rdc.methods-critique"
+          "pattern": "The authors say what future research should do, so that is the gap.",
+          "kind": "conceptual",
+          "revealedBy": "Gap statements copied from the limitations or future-research sections of single studies, sometimes already addressed by later work",
+          "response": "Treat authors' suggestions as leads to check, not as gaps: trace later work by forward chaining and compare across the set of sources before claiming that something remains unstudied.",
+          "reteachPrerequisiteId": "rdc.literature-mapping"
         }
       ],
       "diagnostic": {
@@ -3881,7 +3930,7 @@
         "partialResponse": "States a plausible gap but with weak evidence or overclaiming.",
         "gapResponse": "Cannot identify a gap, or claims an absolute gap without evidence."
       },
-      "contextNotes": "Final-year undergraduates need this for dissertations. Taught postgraduates use gaps to justify dissertation questions, and doctoral researchers must articulate gaps that position an original contribution (res.gap-niche).",
+      "contextNotes": "On pre-sessional courses, gap statements are introduced in hedged, small-scale form: undergraduate pre-sessional learners use them to give an extended essay a direction, and postgraduate pre-sessional learners use them in project proposals. Final-year undergraduates need this for dissertations. Taught postgraduates use gaps to justify dissertation questions, and doctoral researchers must articulate gaps that position an original contribution (res.gap-niche).",
       "citations": [
         "swales1990",
         "feakswales2009litrev",
@@ -3960,18 +4009,32 @@
     },
     {
       "topicId": "syn.integrated-tasks",
-      "summary": "Plakans found that reading-to-write tasks elicited more interactive, recursive composing processes than writing-only tasks, and Plakans and Gebril showed that writers used sources for several purposes, including ideas, organisation and language support. Grabe and Zhang argue that reading and writing should be taught together in EAP, and Hirvela treats reading-to-write connections as central to L2 writing instruction. Teach integrated tasks as a process (task analysis, purposeful reading and listening, selective notes, planning by point, transformation of source language) rather than as test technique, so that it transfers to coursework.",
+      "summary": "Plakans found that reading-to-write test tasks elicited more interactive, recursive composing processes than writing-only tasks, and Plakans and Gebril showed that writers used sources for ideas, support, organisation and language, with the selection of important source ideas and the handling of source language among the differences between performances. Grabe and Zhang argue that reading and writing should be taught together in EAP, and Hirvela treats reading-to-write connections as central to L2 writing instruction. Teach integrated tasks as one process (task analysis, purposeful reading and listening, notes organised by relationship, planning by point, transformation of source language) and then rehearse it under the time limits and format of the assessment learners face, so that test preparation and coursework preparation reinforce each other. Moore and Morton's comparison of university assignments with a writing-only test task, which found that university tasks drew far more on sources, is one reason to treat integrated tasks as preparation for study rather than only as test technique.",
       "activities": [
         {
-          "title": "Process walkthrough",
+          "title": "Relationship notes",
+          "learnerActions": [
+            "Divide a page into one column per source (a reading, a talk or a second reading)",
+            "Note the main points of each source in matching rows",
+            "Draw arrows to show how points relate (supports, qualifies, challenges, extends, illustrates)",
+            "Plan and write the response from the arrows rather than from the source texts"
+          ],
+          "intendedInsight": "Integrated tasks usually ask about how sources relate, not about each source separately.",
+          "rationale": "Organising notes by relationship is intended to support the selection of important source ideas, which Plakans and Gebril (2012) link to differences in performance.",
+          "citations": [
+            "plakansgebril2012"
+          ]
+        },
+        {
+          "title": "Process walkthrough under time",
           "learnerActions": [
             "Analyse an integrated task prompt and underline what must be done with each source",
-            "Read and listen with the task in mind, making two-column notes (source point; relevance to the task)",
-            "Plan the response by points, then write it within a time limit",
-            "Check for copied strings and for explicit relationships between sources"
+            "Read and listen with the task in mind, making notes in the relationship format",
+            "Plan the response by points, then write it within the time limit of the assessment you will take",
+            "Record how long each stage took and agree a time split to try on the next task"
           ],
-          "intendedInsight": "Integrated tasks reward selection and transformation organised by the task.",
-          "rationale": "Breaking the process into stages reflects the composing processes observed in reading-to-write tasks and the case for teaching reading and writing together.",
+          "intendedInsight": "The same process works under time pressure if time is divided deliberately between input, planning and writing.",
+          "rationale": "Breaking the process into stages reflects the composing processes Plakans observed in reading-to-write tasks and the case for teaching reading and writing together; rehearsing the stages under time is a practitioner proposal rather than a tested intervention.",
           "citations": [
             "plakans2008",
             "grabezhang2013"
@@ -3980,13 +4043,14 @@
         {
           "title": "Source-use audit",
           "learnerActions": [
-            "Compare your response with the sources",
-            "Highlight copied strings, paraphrases, summaries and your own comment in different colours",
-            "Revise one section to reduce reliance on source wording"
+            "Compare your response with the sources and highlight copied strings of three or more words, paraphrases, summaries and your own comment in different colours",
+            "Decide for each copied string whether it is a technical term to keep or wording to transform",
+            "Revise one section to reduce reliance on source wording and check that each point is attributed"
           ],
           "intendedInsight": "Source language can support writing, but it must be transformed and attributed.",
-          "rationale": "Plakans and Gebril found that writers drew on sources for language support as well as content; making this use visible allows it to be managed rather than hidden.",
+          "rationale": "Plakans (2008) and Plakans and Gebril (2012) document how writers draw on source language in integrated tasks; making that use visible allows it to be managed rather than hidden.",
           "citations": [
+            "plakans2008",
             "plakansgebril2012"
           ]
         }
@@ -3995,39 +4059,50 @@
         {
           "pattern": "I summarise the reading, then I summarise the lecture.",
           "kind": "developmental",
-          "revealedBy": "Responses organised by source rather than by the relationship the task asks for",
-          "response": "Plan by points of relationship using a planning grid that requires links between sources.",
+          "revealedBy": "Two-part responses organised by source ('The reading says… The lecture says…') rather than by the relationship the task asks for",
+          "response": "Model responses organised around the relationship and plan with the relationship-notes format, which requires links between sources.",
           "reteachPrerequisiteId": "syn.synthesis-concept"
         },
         {
           "pattern": "I ran out of time, so I copied.",
           "kind": "performance",
-          "revealedBy": "Copied strings concentrated towards the end of responses",
-          "response": "Practise time allocation and condensed note-making that does not reproduce full sentences, then summarise from notes.",
+          "revealedBy": "Copied strings from the reading concentrated towards the end of responses, with little transformation",
+          "response": "Practise time allocation and condensed notes that do not reproduce full sentences, then summarise from notes. Treat copying in practice tasks as a stage in learning to use sources, not as misconduct.",
           "reteachPrerequisiteId": "src.summarising-passage"
         },
         {
-          "pattern": "I missed the lecturer's main point.",
+          "pattern": "I missed the speaker's main point.",
           "kind": "performance",
-          "revealedBy": "Responses that omit or misrepresent the listening input",
-          "response": "Practise lecture note-taking focused on structure and on markers of stance and contrast.",
+          "revealedBy": "Responses based mainly on the reading that omit or misrepresent the listening input",
+          "response": "Practise note-taking on short talks, focusing on structure and on markers of stance and contrast, and require each noted point to be linked to the reading.",
           "reteachPrerequisiteId": "ntk.lecture-notes"
+        },
+        {
+          "pattern": "My preparation book says the talk always disagrees with the reading, so I start every answer that way.",
+          "kind": "institutional",
+          "revealedBy": "Formulaic openings that misstate the relationship when a task asks for something else, such as agreement, extension or a combined summary",
+          "response": "Preparation materials can describe a test's former format. Teachers should check the test owner's current task list and sample tasks before teaching task-specific strategies; learners should read each prompt for the relationship it actually asks about and practise with varied relationships.",
+          "reteachPrerequisiteId": "tst.test-formats"
         }
       ],
       "diagnostic": {
-        "task": "Set a short integrated task with one reading and one lecture extract that disagree.",
-        "strongResponse": "Explains the relationship, uses both sources accurately and selectively, transforms language and is organised by points.",
-        "partialResponse": "Covers both sources but summarises them separately or borrows phrasing.",
-        "gapResponse": "Uses only one source or copies extensively."
+        "task": "Give a short reading and a short spoken or written second source with partly different positions, and ask for a two-to-three-sentence account of how they relate, written within a set time.",
+        "strongResponse": "States the relationship accurately, includes key points from both sources and uses own wording with attribution.",
+        "partialResponse": "Covers both sources but summarises them separately, or states the relationship with copied wording.",
+        "gapResponse": "Uses only one source, misrepresents the relationship or copies extensively."
       },
-      "contextNotes": "Integrated tasks feature in foundation and pre-sessional assessment and in some proficiency tests (see tst.integrated-test-tasks). For undergraduates, the same process underlies source-based coursework, so emphasise transfer from assessment tasks to real assignments.",
+      "contextNotes": "On foundation and pre-sessional programmes, integrated reading-into-writing tasks are common in assessment and progression decisions, at both undergraduate and postgraduate pre-sessional level; teach the process so that it transfers to coursework. For learners preparing for a proficiency or in-house test, check the test owner's current task list and sample materials before teaching task-specific strategies: tests have added, removed and redesigned integrated tasks in recent revisions, some are delivered on computer with adaptive sections, and preparation materials can lag behind. Undergraduates meet the same process in summary–response and source-based coursework without strict time limits, so shift the emphasis from speed to the depth of selection and transformation. Learners with access arrangements in timed assessment, such as extra time for dyslexia, should practise under the conditions they will actually have.",
       "citations": [
         "plakans2008",
         "plakansgebril2012",
         "grabezhang2013",
-        "hirvela2004"
+        "hirvela2004",
+        "mooremorton2005"
       ],
-      "reviewNotes": []
+      "reviewNotes": [
+        "Review response: R1-14 also asks for this topic to become a named task anchor in pathways (R1-02); pathways are outside this strand file, so that part is left to the pathway authors.",
+        "The difficulty about outdated preparation materials is a practitioner observation; no source in the closed bibliography documents it."
+      ]
     }
   ],
   "authorNotes": [
@@ -4036,18 +4111,16 @@
     "inf.search-records overlaps with ntk.notes-from-reading (full source details in notes) and dig.reference-managers. I did not link them, to avoid guessing other groups' directions; suggested direction: dig.reference-managers depends on inf.search-records.",
     "Cycle risk for the integrator: inf.citation-chaining has cit.referencing-systems as a soft prerequisite. The CIT group should not make cit.referencing-systems depend on inf.citation-chaining.",
     "inf.problematic-publishing touches gai.verifying-output (fabricated references) and pub.journal-selection (choosing where to publish). Suggest both may depend on inf.problematic-publishing or inf.source-evaluation; no edge in the reverse direction should be added.",
-    "src.source-functions overlaps with cit.why-cite and cit.citation-functions. Suggested split: cit.why-cite = reasons the academy requires citation (credit, verifiability); src.source-functions = writer-facing choice of what a source will do in one's own argument; cit.citation-functions = analytic taxonomy of citation functions. Recommend cit.citation-functions depend on src.source-functions, not the reverse.",
-    "src.signal-phrases, src.reporting-verbs and grm.reporting-structures overlap. I treated grm.reporting-structures as the grammatical prerequisite of src.signal-phrases, and src.signal-phrases as the prerequisite of src.reporting-verbs (basic frames before stance-bearing verb choice). The GRM group should not make grm.reporting-structures depend on any src topic.",
     "src.patchwriting is placed after src.paraphrasing (hard) and int.plagiarism (soft): the concept is recognised against the target of acceptable paraphrase. The paraphrasing mastery evidence asks learners to judge closeness without requiring the term. The INT group should not make int.plagiarism depend on src.patchwriting; int.similarity-reports could reasonably depend on src.patchwriting.",
-    "Cycle risks for the integrator (my topics depend on these; their owners must not depend back on the named src topic): cit.when-to-cite (src.quoting, src.paraphrasing, src.signal-phrases); cit.author-date-in-text (src.citation-forms, src.secondary-citation); cit.reference-list (src.secondary-citation, src.multilingual-sources); sen.quotation-punctuation (src.quoting); rds.writer-stance (src.reporting-verbs); sta.averral-attribution (src.voice-boundaries); int.plagiarism (src.patchwriting).",
+    "Cycle risks for the integrator (my topics depend on these; their owners must not depend back on the named src topic): cit.when-to-cite (src.paraphrasing, src.reporting-verbs); cit.author-date-in-text (src.citation-forms, src.secondary-citation); cit.reference-list (src.secondary-citation, src.multilingual-sources); sen.punctuation-mechanics (src.quoting); grm.reporting-structures (src.reporting-verbs); sta.averral-attribution (src.voice-boundaries); int.plagiarism (src.patchwriting).",
     "Topics I expect to depend on this domain: par.integrating-evidence (on src.integrating-quotations and src.voice-boundaries), ntk.notes-from-reading (on src.paraphrasing or src.summarising-passage), ges.summary-response and ges.annotated-bibliography (on src.summarising-text), cit.locators (on src.quoting), cit.disciplinary-citation (on src.citation-forms and src.reporting-verbs), sta.authorial-voice (could depend on src.voice-boundaries).",
-    "src.quoting and sen.quotation-punctuation: I chose punctuation mechanics as the more foundational (hard prerequisite). If the SEN group instead treats quotation punctuation as following quoting, one of the two edges must be dropped.",
     "No topic covers accurately reporting quantitative findings from sources (effect sizes, percentages, sample descriptions) in summary and synthesis; num.interpreting-statistics covers comprehension only. Consider a topic or an explicit scope note in src.summarising-text.",
     "syn.thematic-grouping and syn.gaps-tensions overlap with rdc.literature-mapping (themes, debates, key authors). I treated rdc.literature-mapping as the reading-side overview and made it a soft prerequisite of syn.gaps-tensions only. The RDC group should not make rdc.literature-mapping depend on syn.gaps-tensions; depending on syn.thematic-grouping would be acceptable.",
     "syn.synthesis-matrix is placed before syn.thematic-grouping (soft): teacher-set columns scaffold independent theme generation. I did not add a direct syn.synthesis-concept -> syn.thematic-grouping edge because it is implied through the matrix.",
-    "syn.integrated-tasks overlaps with tst.integrated-test-tasks, ges.summary-response and wpr.reading-to-write. I made wpr.reading-to-write a soft prerequisite of syn.integrated-tasks; the WPR group should therefore not make wpr.reading-to-write depend on syn.integrated-tasks. Suggest tst.integrated-test-tasks depend on syn.integrated-tasks.",
-    "Cross-strand prerequisites used in SYN whose owners must not depend back on the named syn topic: ntk.notes-from-reading (syn.synthesis-matrix), rdc.reading-for-writing (syn.thematic-grouping), rdc.multiple-texts (syn.relating-sources), par.topic-sentences (syn.synthesis-paragraphs), ntk.lecture-notes (syn.integrated-tasks).",
+    "syn.integrated-tasks now includes the former tst.integrated-test-tasks (R1-14). It overlaps with ges.summary-response and wpr.reading-to-write; wpr.reading-to-write is a soft prerequisite, so the WPR group should not make wpr.reading-to-write depend on syn.integrated-tasks. The edge from tst.test-formats is soft because coursework integrated tasks do not depend on test knowledge.",
+    "Cross-strand prerequisites used in SYN whose owners must not depend back on the named syn topic: ntk.notes-from-reading (syn.synthesis-matrix), wpr.reading-to-write (syn.thematic-grouping, syn.integrated-tasks), rdc.multiple-texts (syn.relating-sources), par.topic-sentences (syn.synthesis-paragraphs), ntk.lecture-notes (syn.integrated-tasks).",
     "Downstream topics expected to depend on SYN: ges.literature-review-assignment and res.literature-review (on syn.synthesis-paragraphs and syn.thematic-grouping), res.gap-niche (on syn.gaps-tensions), sem.building-on-others could soft-depend on syn.relating-sources for oral synthesis.",
-    "syn.gaps-tensions uses cefrEnd C2 because identifying significant gaps continues to develop into expert research performance."
+    "syn.gaps-tensions uses cefrEnd C2 because identifying significant gaps continues to develop into expert research performance.",
+    "src.reporting-verbs now includes the former src.signal-phrases (R1-37); grm.reporting-structures is its hard grammatical prerequisite. cit.citation-functions now includes the former src.source-functions (R1-15) and is a soft prerequisite of src.quoting and syn.synthesis-concept."
   ]
 }

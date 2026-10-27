@@ -5,15 +5,15 @@
       "code": "EDT",
       "strand": "Academic Writing",
       "name": "Revising, Editing & Proofreading",
-      "summary": "Covers how writers improve drafts: distinguishing revision of argument and structure from sentence-level editing and surface proofreading, and the techniques, feedback sources, tools and ethical limits involved. Sommers (1980) found that inexperienced writers tend to treat revision as rewording, so teaching should put global revision and criteria-based self-assessment before editing. The value of written corrective feedback has been contested (Truscott, 1996; Ferris, 1999), but meta-analytic evidence suggests it can improve accuracy (Kang & Han, 2015); learners therefore need routines for targeted self-editing, trained peer review (Lundstrom & Baker, 2009) and critical use of tools and permitted third-party help.",
-      "learnerSummary": "You will learn how to improve your drafts in stages—first the argument and structure, then the sentences, then surface errors—and how to use marking criteria, classmates' feedback, digital tools and proofreaders appropriately.",
+      "summary": "Covers how writers improve drafts: distinguishing revision of argument and structure from sentence-level editing and surface proofreading, and the techniques, feedback sources, tools and ethical limits involved. Sommers (1980) found that inexperienced writers tend to treat revision as rewording, so teaching should put global revision and criteria-based self-assessment before editing. The value of written corrective feedback has been contested (Truscott, 1996; Ferris, 1999), but meta-analytic evidence suggests it can improve accuracy (Kang & Han, 2015); learners therefore need routines for targeted self-editing, trained peer review (Lundstrom & Baker, 2009) and critical use of automated tools (see dig.automated-feedback-tools) and of the third-party help their institution permits, which varies between countries and institutions.",
+      "learnerSummary": "You will learn to improve drafts in stages: argument and structure first, then sentences, then surface errors. You will also learn to use criteria, peer feedback, tools and proofreaders within the rules.",
       "stageEmphasis": {
         "foundation": "Establish the difference between revising and correcting, basic self-editing routines and structured, supported peer review.",
+        "pre-sessional-ug": "Build multi-draft cycles in which global revision comes before editing, with structured peer review and personal error logs for the accuracy that progression assessment usually rewards.",
+        "pre-sessional-pg": "Compress the cycle for writers who may already draft fluently: prioritise global revision and criteria-based self-assessment of a source-based project, and agree what proofreading and AI help the programme permits.",
         "in-sessional-ug": "Apply revision strategies to module assignments and use tools and proofreading support within institutional rules.",
         "in-sessional-pgt": "Focus on efficient global revision under time pressure and on critical use of editing and AI tools.",
-        "pgr": "Revise long texts with reverse outlining and supervisor and peer feedback, edit for style at publication level, and understand the rules on editorial help with theses and articles.",
-        "pre-sessional-ug": "Build multi-draft cycles with criteria-based self-assessment, peer review and targeted editing of personal error patterns.",
-        "pre-sessional-pg": "Build multi-draft cycles with criteria-based self-assessment, peer review and targeted editing of personal error patterns."
+        "pgr": "Revise long texts with reverse outlining and supervisor and peer feedback, edit for style at publication level, and understand the rules on editorial help with theses and articles."
       },
       "keyReferences": [
         "sommers1980",
@@ -27,15 +27,15 @@
       "code": "ESS",
       "strand": "Academic Writing",
       "name": "Essay Construction",
-      "summary": "Covers how an essay is built around a central argument: structure, thesis, introductions, body organisation, conclusions, relevance to the question, essay types, depth of focus, criticality, headings and titles. The essay is a major assessed genre in many humanities and social science programmes but is only one of many genre families in university writing (Nesi & Gardner, 2012), and the five-paragraph essay taught in many schools and test-preparation courses is a scaffold that does not match university essays in length, structure or source use (Caplan & Johns, 2019; Moore & Morton, 2005). Teaching should centre on argument (Wingate, 2012) and treat structural templates as means to that end.",
-      "learnerSummary": "You will learn how to plan and build an essay that answers the question with a clear, well-supported and critical argument, from the thesis and introduction through the body to the conclusion and title.",
+      "summary": "Covers how an essay is built around a central argument: structure, thesis, introductions, body organisation, conclusions, depth of focus, criticality, headings and titles; essay types are treated under ges.genre-families and answering the question set under wpr.task-analysis. The essay is a major assessed genre in many humanities and social science programmes but is only one of many genre families in university writing (Nesi & Gardner, 2012), and the five-paragraph essay taught in many schools and test-preparation courses is a scaffold that does not match university essays in length, structure or source use (Caplan & Johns, 2019; Moore & Morton, 2005). Teaching should centre on argument (Wingate, 2012) and treat structural templates as means to that end.",
+      "learnerSummary": "You will learn to plan and build an essay around a clear, well-supported position that answers the question, from thesis and introduction to body, conclusion and title.",
       "stageEmphasis": {
         "foundation": "Introduce thesis-led essay structure with scaffolds, moving from short opinion-based essays to short source-based ones.",
+        "pre-sessional-ug": "Move from short essays to extended source-based essays with an explicit thesis, thematic body and evaluative conclusion, using structural scaffolds first and then unlearning test-driven templates.",
+        "pre-sessional-pg": "Assume basic essay structure; concentrate on scope, criticality and thematic organisation of a larger reading base, and on how essay expectations vary across target departments and countries.",
         "in-sessional-ug": "Work with disciplinary essay types, answering the specific question, choosing depth over breadth and demonstrating criticality.",
         "in-sessional-pgt": "Focus on criticality, scope and argument in short, dense essays and on discipline-specific conventions such as headings.",
-        "pgr": "Carry argument structure and title-writing skills into articles and thesis chapters; essays themselves are less central.",
-        "pre-sessional-ug": "Develop extended source-based essays with a clear thesis, organised body and evaluative conclusion, and unlearn test-driven templates.",
-        "pre-sessional-pg": "Develop extended source-based essays with a clear thesis, organised body and evaluative conclusion, and unlearn test-driven templates."
+        "pgr": "Carry argument structure and title-writing skills into articles and thesis chapters; essays themselves are less central."
       },
       "keyReferences": [
         "wingate2012argument",
@@ -49,14 +49,14 @@
       "code": "PAR",
       "strand": "Academic Writing",
       "name": "Paragraph Development",
-      "summary": "Covers the paragraph as the main unit through which academic writers develop and support a point: controlling ideas, support and analysis, internal coherence, closure, division, paragraph functions and the integration of sources. Paragraph scaffolds such as topic-sentence models and PEEL are useful entry points for foundation and pre-sessional writers, but expert paragraphs vary considerably (Braddock, 1974), so teaching should move learners from templates towards functional judgements about what a paragraph needs to do in its context. Coherence is better taught through information flow and logical relations than through connector lists (Crossley & McNamara, 2012).",
-      "learnerSummary": "You will learn how to build paragraphs that make one clear point, support it with explanation and evidence, flow logically from sentence to sentence, use sources while keeping your own voice, and connect to the rest of your text.",
+      "summary": "Covers the paragraph as the main unit through which academic writers develop and support a point: controlling ideas, support and analysis, internal coherence, closure, division, paragraph functions and the integration of sources. Paragraph scaffolds such as topic-sentence models and PEEL are useful entry points for foundation and undergraduate-entry pre-sessional writers, but expert paragraphs vary considerably (Braddock, 1974), so teaching should move learners from templates towards functional judgements about what a paragraph needs to do in its context. Coherence is better taught through information flow and logical relations than through connector lists (Crossley & McNamara, 2012).",
+      "learnerSummary": "You will learn to build paragraphs that make one clear point, support it with explanation and evidence, and use sources while keeping your own voice.",
       "stageEmphasis": {
         "foundation": "Build secure control of the controlling idea, support and closure, using scaffolds such as PEEL explicitly as temporary supports.",
+        "pre-sessional-ug": "Teach paragraph scaffolds (PEEL, topic and concluding sentences) explicitly, then withdraw them as learners move to source-based paragraphs in which their own point leads.",
+        "pre-sessional-pg": "Revisit scaffolds only where diagnosis shows a need; focus on multi-source paragraphs in which the writer's point leads, evidence is evaluated and paragraphing follows function rather than formula.",
         "in-sessional-ug": "Diagnose paragraph-level problems in disciplinary assignments, especially description without analysis and breaks in internal coherence.",
-        "in-sessional-pgt": "Focus on dense, multi-source paragraphs and on flexible paragraphing that serves the argument rather than a formula.",
-        "pre-sessional-ug": "Shift to source-based paragraphs in which the writer's own point leads and evidence is integrated and commented on.",
-        "pre-sessional-pg": "Shift to source-based paragraphs in which the writer's own point leads and evidence is integrated and commented on."
+        "in-sessional-pgt": "Focus on dense, multi-source paragraphs and on flexible paragraphing that serves the argument rather than a formula."
       },
       "keyReferences": [
         "braddock1974",
@@ -70,15 +70,15 @@
       "code": "WPR",
       "strand": "Academic Writing",
       "name": "Writing Process",
-      "summary": "Covers how academic texts are produced rather than what they look like: representing the task, generating and organising content, drafting, writing from sources, and managing time, language choice and affect across extended projects. It draws on cognitive process models (Flower & Hayes, 1981; Bereiter & Scardamalia, 1987) and L2 composing research (Zamel, 1983), which show that skilled writers plan, draft and review recursively and use writing to develop ideas. Hyland (2003) argues that process pedagogy needs to be complemented by explicit attention to genre and reader expectations, so these topics should be taught alongside PAR, ESS and the genre strands rather than as a free-standing ‘process approach’.",
-      "learnerSummary": "You will learn how to turn an assignment brief into a plan and a draft, how to use your reading and your other languages while you write, and how to manage longer projects and the times when writing feels stuck.",
+      "summary": "Covers how academic texts are produced rather than what they look like: representing coursework and exam tasks, generating and organising content, drafting, writing from sources, and managing time, language choice and affect across extended projects. It draws on cognitive process models (Flower & Hayes, 1981; Bereiter & Scardamalia, 1987) and L2 composing research (Zamel, 1983), which show that skilled writers plan, draft and review recursively and use writing to develop ideas. Hyland (2003) argues that process pedagogy needs to be complemented by explicit attention to genre and reader expectations, so these topics should be taught alongside PAR, ESS and the genre strands rather than as a free-standing ‘process approach’.",
+      "learnerSummary": "You will learn to turn a brief or exam question into a plan and draft, write from your reading, use all your languages, and manage long projects.",
       "stageEmphasis": {
         "foundation": "Make the process visible: task analysis, idea generation and outlining for short assignments, with plans and drafts submitted and discussed before the final text.",
+        "pre-sessional-ug": "Rehearse the full cycle on an extended essay: analysing the brief, reading to write from a small set of sources, drafting from notes and working to a word budget.",
+        "pre-sessional-pg": "Use a larger source-based project, often modelled on a literature-based assignment or dissertation proposal, to practise question-driven reading, scoping, milestone planning and drafting from extensive notes.",
         "in-sessional-ug": "Apply process strategies to learners' own module assignments, with emphasis on interpreting briefs, juggling deadlines and integrating disciplinary reading.",
         "in-sessional-pgt": "Compress the cycle for dense, short-turnaround master's assignments and plan ahead for the dissertation.",
-        "pgr": "Treat writing as a way of thinking and as sustained practice: routines, milestones, writing blocks and plurilingual composing across a multi-year project.",
-        "pre-sessional-ug": "Use the extended source-based project to rehearse the full cycle under realistic deadlines, including reading-to-write, word budgeting and drafting from notes.",
-        "pre-sessional-pg": "Use the extended source-based project to rehearse the full cycle under realistic deadlines, including reading-to-write, word budgeting and drafting from notes."
+        "pgr": "Treat writing as a way of thinking and as sustained practice: routines, milestones, writing blocks and plurilingual composing across a multi-year project."
       },
       "keyReferences": [
         "flowerhayes1981",
@@ -99,7 +99,17 @@
       "description": "Distinguish three levels of work on a draft—revision (changing argument, content and structure), editing (improving sentences for clarity, accuracy and style) and proofreading (correcting surface errors in the final version)—and sequence them so that effort is not spent polishing text that may later be cut. The distinction underpins efficient self-review, well-targeted feedback requests and institutional rules on third-party help.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Classifies given changes to a draft as revision, editing or proofreading",
         "Sequences work on a draft from global to local and explains why",
@@ -121,17 +131,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.global-revision",
@@ -142,7 +142,18 @@
       "description": "Revise a draft at whole-text level by re-examining the thesis, the line of argument, the selection and sufficiency of evidence, the order of sections and the fit with the task and reader, and make substantial changes—adding, cutting, moving or rewriting sections—where needed. Global revision usually improves a text far more than sentence-level correction does.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies the most important global problem in a draft, such as a thesis–body mismatch or a missing counter-argument",
         "Makes structural changes (moving, cutting, adding sections) and explains how they improve the argument",
@@ -173,18 +184,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.reverse-outlining",
@@ -195,7 +195,17 @@
       "description": "Test the structure of a draft by writing a one-line statement of each paragraph's point (and, optionally, its function), then reading the statements in sequence to find gaps, repetition, misplaced paragraphs, paragraphs with more than one point and mismatches with the thesis. The technique turns a vague sense that ‘something is wrong’ into specific revision decisions.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes an accurate one-line statement of the point of each paragraph in a draft",
         "Identifies from the outline paragraphs with no clear point or with more than one point",
@@ -224,17 +234,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.style-editing",
@@ -245,7 +245,17 @@
       "description": "Edit sentences to make them clearer, more concise and appropriate in register—bringing subjects and verbs together, reducing wordiness and redundancy, managing information density, choosing precise vocabulary and revising informal or vague expressions—while preserving meaning and the writer's voice. Style editing follows global revision and precedes proofreading.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies and revises unclear sentences (buried or distant subject and verb, ambiguous reference)",
         "Removes redundancy and empty phrases without losing meaning",
@@ -280,17 +290,7 @@
           "key": "ielts:wr.lexical-resource",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.grammar-editing",
@@ -301,7 +301,18 @@
       "description": "Edit drafts for grammatical accuracy by targeting one's own recurrent error types (for example articles, subject–verb agreement, tense, sentence boundaries) in focused passes, using feedback history, reference resources and personal checklists, rather than reading once for ‘all errors’. Targeted self-editing is more efficient than undirected checking and builds independence from teacher correction.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Names their three to five most frequent error types, using evidence from feedback history",
         "Edits a draft in separate passes, each for a single error type",
@@ -337,18 +348,7 @@
           "key": "ielts:wr.grammatical-range-accuracy",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.proofreading",
@@ -359,7 +359,18 @@
       "description": "Check a final version for surface errors—spelling, typing errors, punctuation, missing or repeated words, formatting, and consistency of spelling variety, terms and numbers—using techniques that counter the tendency to read what one meant rather than what is on the page, such as reading aloud, changing the font or layout, reading in reverse order for spelling, and using a checklist. Proofreading is the last stage, after revision and editing.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit",
+        "pgr": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Proofreads using at least two techniques that change how the text is perceived",
         "Detects and corrects most planted surface errors in a short text within a time limit",
@@ -387,18 +398,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.criteria-self-assessment",
@@ -409,7 +409,17 @@
       "description": "Use marking criteria, rubrics, checklists and exemplars to judge the quality of one's own draft, identify the gap between current and target performance, and plan the revisions most likely to close it. Developing this evaluative judgement is central to becoming an independent writer and to making good use of feedback.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Translates each marking criterion into questions to ask of their own draft",
         "Points to evidence in their draft to justify a judgement against each criterion",
@@ -432,17 +442,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.peer-review",
@@ -453,7 +453,18 @@
       "description": "Give specific, criteria-referenced and constructive feedback on a peer's draft, prioritising global issues, and receive and evaluate peer feedback, deciding what to act on. Reviewing others' writing also develops the reviewer's own evaluative judgement and revision skills.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Gives feedback that identifies specific strengths and the most important problems, with reasons and suggestions",
         "Prioritises argument and organisation over surface errors when reviewing early drafts",
@@ -481,18 +492,7 @@
           "key": "vitae-rdf:D1",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "edt.proofreading-ethics",
@@ -503,7 +503,18 @@
       "description": "Understand institutional policies on proofreading and editing by third parties (friends, paid proofreaders, editors, AI tools): which kinds of change are typically permitted (surface errors, formatting consistency) and prohibited (rewriting content, argument or structure), what must be disclosed, and how editorial support for theses and publications differs from that permitted for assessed coursework. Crossing these limits can constitute misconduct even when help is well intended.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Summarises their institution's proofreading policy and says where it is published",
         "Classifies proposed third-party changes as permitted or not under a given policy",
@@ -521,18 +532,7 @@
           "key": "vitae-rdf:C1",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.essay-structure",
@@ -543,7 +543,21 @@
       "description": "Understand how an essay's introduction, body and conclusion relate to a central argument: the introduction frames the question and states the position, the body develops it through a sequence of supported points, and the conclusion draws the argument together. Structure serves the argument, so the number, order and length of sections follow from the line of reasoning rather than from a fixed template.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [
+        "humanities",
+        "social-sciences",
+        "business-management",
+        "law",
+        "education"
+      ],
+      "audience": "learner",
       "masteryEvidence": [
         "Explains the role of the introduction, body and conclusion in relation to the essay's central argument",
         "Maps the argument of a model essay by stating each body paragraph's point and how it advances the thesis",
@@ -573,15 +587,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.thesis-statement",
@@ -592,7 +598,23 @@
       "description": "Write a thesis statement that answers the question with a specific, arguable position, scoped to what the essay can support within its length and evidence, and that may preview the main lines of reasoning. A thesis states what the essay will argue, not merely what it will discuss, and is revised as the argument develops.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [
+        "humanities",
+        "social-sciences",
+        "business-management",
+        "law",
+        "education"
+      ],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes a thesis that takes a position on the question rather than announcing a topic",
         "Scopes the thesis with qualification and limiting conditions so that it can be supported within the word limit",
@@ -618,17 +640,7 @@
           "key": "ielts:wr2.task-response",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.introductions",
@@ -639,7 +651,23 @@
       "description": "Write an introduction that establishes the context and relevance of the topic, narrows to the specific focus and any key definitions, states the thesis and, where appropriate, outlines the structure, moving efficiently from general to specific. The introduction sets the reader's expectations for the whole essay and is usually best finalised after the body is drafted.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [
+        "humanities",
+        "social-sciences",
+        "business-management",
+        "law",
+        "education"
+      ],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes an introduction that moves from context to focus to thesis in proportion to the essay's length",
         "Opens with a specific, relevant context rather than a sweeping generalisation or dictionary definition",
@@ -669,17 +697,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.conclusions",
@@ -690,7 +708,23 @@
       "description": "Write a conclusion that synthesises the argument rather than repeating it, gives a direct answer to the question, and indicates implications, limitations or questions for further work without introducing new evidence. The conclusion is where the essay's overall judgement is made fully explicit and calibrated to the evidence presented.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [
+        "humanities",
+        "social-sciences",
+        "business-management",
+        "law",
+        "education"
+      ],
+      "audience": "learner",
       "masteryEvidence": [
         "States a direct answer to the question that is consistent with the thesis and the body",
         "Synthesises how the main points together support the answer rather than listing them in order",
@@ -716,17 +750,7 @@
           "key": "ielts:wr2.task-response",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.body-organisation",
@@ -737,7 +761,23 @@
       "description": "Sequence and group body paragraphs so that they build the argument logically—by importance, causal chain, comparison criteria, or concession and rebuttal—and organise source material thematically around the writer's points rather than source by source. The organisation should be visible to the reader through topic sentences and transitions.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [
+        "humanities",
+        "social-sciences",
+        "business-management",
+        "law",
+        "education"
+      ],
+      "audience": "learner",
       "masteryEvidence": [
         "Chooses and justifies an ordering principle for the body that suits the question",
         "Groups source material by theme or point rather than by author",
@@ -772,17 +812,7 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.headings",
@@ -793,7 +823,17 @@
       "description": "Judge whether headings are expected, permitted or discouraged in a given essay (practice varies by discipline, length and department) and, where they are used, write informative headings in a consistent hierarchy without letting them replace topic sentences and transitions. Reports and dissertations use headings conventionally; many essay traditions do not.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "States the local convention on headings for a given assignment and follows it",
         "Writes informative headings that indicate the content or claim of a section rather than generic labels",
@@ -814,16 +854,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.depth-focus",
@@ -834,7 +865,16 @@
       "description": "Narrow the scope of an essay to a manageable number of points, cases or perspectives so that each can be analysed in depth, and justify the focus explicitly. Covering everything relevant at a superficial level is a common cause of ‘descriptive’ feedback; within a word limit, depth of analysis is usually valued over breadth of coverage.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Narrows a broad question to a defensible focus and states the focus and its rationale in the introduction",
         "Reduces a plan with many points to fewer, better-developed ones",
@@ -863,16 +903,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.criticality",
@@ -883,7 +914,16 @@
       "description": "Move beyond describing content to analysing how and why, evaluating the strength of evidence and arguments, comparing perspectives and reaching reasoned judgements, and make these moves visible in the text through evaluative language, concession and explicit reasoning. Criticality is among the qualities markers mention most often, and it is understood somewhat differently across disciplines.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "core"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Distinguishes descriptive, analytical and evaluative sentences in a model essay and in their own writing",
         "Evaluates a source's evidence or method and states the consequence for the essay's argument",
@@ -906,16 +946,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "ess.titles",
@@ -926,7 +957,17 @@
       "description": "Write informative titles for self-chosen essays, reports, dissertations and articles that indicate the topic, focus and, where appropriate, the argument or method, using conventions such as two-part colon titles, and apply the capitalisation rules of the required style. A title is often the first thing a marker, examiner or database user sees.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes a title that identifies topic, focus and, where appropriate, position or method",
         "Uses a two-part colon title where it helps combine an engaging element with a descriptive one",
@@ -938,17 +979,7 @@
         "swalesfeak2012",
         "apa2020"
       ],
-      "frameworks": [],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      "frameworks": []
     },
     {
       "id": "par.paragraph-unit",
@@ -959,7 +990,15 @@
       "description": "Understand the academic paragraph as a unit that typically develops one controlling idea, signalled to the reader and developed through explanation and evidence, and that serves the purpose of the whole text. The one-idea paragraph is a reliable default for planning and reading, although expert writers vary paragraph structure according to function and discipline.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies the controlling idea of a paragraph and the sentences that develop it",
         "Explains why a paragraph that combines two unrelated points is harder for a reader to follow",
@@ -984,15 +1023,7 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.topic-sentences",
@@ -1003,7 +1034,16 @@
       "description": "Write sentences that state a paragraph's controlling idea precisely enough to predict and constrain what follows, and that connect the paragraph to the thesis or the previous paragraph. Effective topic sentences make claims rather than announce topics, and read in sequence they give the reader an outline of the argument.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes topic sentences that make a claim the paragraph then supports, rather than naming a topic or stating a fact",
         "Pitches the controlling idea at a level of generality that one paragraph can support",
@@ -1029,16 +1069,7 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.support",
@@ -1049,7 +1080,16 @@
       "description": "Develop a controlling idea with a suitable combination of explanation, reasoning, evidence, examples and analysis, choosing support that is relevant and sufficient for the strength of the claim and stating how it supports the claim. Paragraphs that assert without support, or pile up examples without explanation, are a frequent cause of ‘underdeveloped’ or ‘descriptive’ feedback.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Supports a claim with at least two different kinds of development (explanation, data, example, comparison, concession)",
         "Selects evidence that bears directly on the controlling idea and is appropriate to the claim's strength",
@@ -1077,16 +1117,7 @@
           "key": "ielts:wr2.task-response",
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.peel",
@@ -1097,7 +1128,15 @@
       "description": "Use PEEL-type scaffolds (point, evidence, explanation, link, and variants such as PEE or PEEL-C) to construct supported paragraphs while learning, and recognise their limits: many paragraphs need several pieces of evidence, a counter-point or no explicit link, and mechanical application produces formulaic text. The aim is to internalise the functions the scaffold names and then write without it.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes a paragraph that realises each PEEL function without needing labels",
         "Maps the PEEL functions onto an authentic academic paragraph and notes where it departs from the pattern",
@@ -1119,15 +1158,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.internal-coherence",
@@ -1138,7 +1169,17 @@
       "description": "Order and connect the sentences of a paragraph so that each follows logically from the previous one and from the controlling idea, using given-before-new information structure, thematic progression, consistent reference and lexical chains, with explicit connectors where a logical relation needs signalling. Coherence depends on logic and information flow far more than on the number of linking words.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Begins sentences with information already introduced and places new information towards the end",
         "Maintains unambiguous reference chains (repeated terms, pronouns, this + noun) through a paragraph",
@@ -1166,17 +1207,7 @@
           "key": "ielts:wr.coherence-cohesion",
           "contribution": "core"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.concluding-sentences",
@@ -1187,7 +1218,15 @@
       "description": "Close a paragraph, where useful, with a sentence that draws out the significance of its content for the argument, qualifies it, or prepares the next point, rather than repeating the topic sentence. Not every paragraph needs a separate concluding sentence; the choice depends on the paragraph's length and function.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Writes a closing sentence that states what the paragraph's evidence shows for the thesis",
         "Distinguishes a closing sentence that adds significance from one that restates the topic sentence",
@@ -1208,15 +1247,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.length-division",
@@ -1227,7 +1258,16 @@
       "description": "Decide where to begin a new paragraph according to shifts in point, function or stage of the argument, and keep paragraphs long enough to develop an idea but short enough not to overload the reader, generally avoiding one-sentence paragraphs and page-long blocks in essays. Conventions vary with genre, discipline and medium.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Divides an overlong paragraph at a shift in point or function",
         "Develops or merges single-sentence paragraphs that lack support",
@@ -1251,16 +1291,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.paragraph-functions",
@@ -1271,7 +1302,15 @@
       "description": "Recognise and write paragraphs that serve different functions within a text—introductory, body (argument, evidence, counter-argument), transitional and concluding—and understand that each function calls for different internal organisation and language. Treating every paragraph as a body paragraph produces weak introductions, conclusions and transitions.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies the function of each paragraph in a model text",
         "Describes how introductory and concluding paragraphs differ in organisation from body paragraphs",
@@ -1292,15 +1331,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "par.integrating-evidence",
@@ -1311,7 +1342,17 @@
       "description": "Integrate source material into a paragraph so that the writer's point leads, sources are introduced and attributed, and each piece of evidence is followed by commentary that interprets, evaluates or connects it (introduce–cite–comment). This keeps the writer's voice in control and distinguishes argument from a chain of summaries.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Opens source-based paragraphs with their own claim rather than with a source",
         "Introduces evidence with a signal phrase or citation form suited to its role in the paragraph",
@@ -1338,17 +1379,7 @@
           "key": "acrl:conversation",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.writing-process",
@@ -1359,7 +1390,18 @@
       "description": "Understand academic writing as interleaved planning, translating (putting ideas into language) and reviewing, revisited recursively rather than performed once in sequence, and distinguish knowledge-telling (writing down what one knows in the order it is recalled) from knowledge-transforming (reworking content to meet rhetorical goals). The model explains why much of the thinking in academic writing happens during drafting and revision, and why early surface correction can be counter-productive.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "both",
       "masteryEvidence": [
         "Describes their own composing process for a recent assignment and identifies where planning, drafting and reviewing overlapped or looped back",
         "Distinguishes, in two sample texts on the same question, writing that reproduces recalled content from writing that reorganises content to answer the question",
@@ -1390,40 +1432,40 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.task-analysis",
       "type": "PROCEDURAL",
       "strand": "Academic Writing",
       "domain": "Writing Process",
-      "name": "Analysing assignment and exam tasks",
-      "description": "Unpack an assignment brief or question to identify the command word(s), the topic and its limits, required sources, genre and reader, word limit and marking criteria, and turn these into a working statement of what the text must do. Task representation shapes every later writing decision, and misreading the task is a common, avoidable cause of low marks.",
+      "name": "Analysing and answering assignment and exam tasks",
+      "description": "Unpack a coursework brief or an exam question to identify the command word(s), topic, focus and limiting conditions, implicit sub-questions, genre, reader, required sources, length and marking criteria, and turn these into a working statement of what the text must do; then keep the text answering that task through planning, drafting and revision by checking the thesis, topic sentences and conclusion against it. The same procedure applies under exam conditions, where it must be done quickly. Misreading or drifting from the task is a common, avoidable cause of low marks.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
-        "Rewrites an assignment question in their own words, separating the instruction, the topic and any limiting conditions (period, context, theory)",
-        "Identifies what each command word in a multi-part question requires and how the parts relate",
-        "Lists the explicit requirements of a brief (genre, length, sources, format, deadline) and flags any that are ambiguous",
-        "Links at least two marking criteria to concrete decisions about content or structure",
-        "Formulates an appropriate clarification question to a tutor when a brief is genuinely ambiguous"
+        "Rewrites a brief or exam question in their own words, separating the command, topic, focus and limiting conditions (period, context, theory), and states what a full answer must do",
+        "Identifies multi-part questions and implicit sub-questions, such as the judgement of degree required by 'to what extent', and plans coverage in proportion to their weight",
+        "Lists the explicit requirements of a coursework brief (genre, length, sources, format, criteria), links at least two criteria to decisions about content or structure, and drafts a clarification question where the brief is genuinely ambiguous",
+        "Under exam conditions, analyses each question within a few minutes, recognises when a question twists a revised topic, and allocates time across questions in proportion to their marks, including planning and checking time",
+        "Checks the thesis, each topic sentence and the conclusion against the task during drafting and revision, and cuts or reframes material that is accurate but does not answer the question"
       ],
-      "assessmentPrompt": "Give a multi-part question that asks learners to outline a policy and evaluate its effectiveness in a named context. Ask the learner what a full answer must contain. Check whether they notice both command words, the limiting context and the implied need for a judgement, rather than only the topic.",
+      "assessmentPrompt": "Give three questions on the same topic with different command words and limiting phrases (for example 'Outline…', 'Critically evaluate… with reference to…', 'To what extent… since 2010?') and ask what a good answer to each would do. Then show a short draft in which one paragraph is on the topic but not on the question, and ask whether to cut or reframe it. Check that the learner distinguishes the shape of each answer, attends to limiting words and judges relevance by the question rather than the topic.",
       "citations": [
         "flowerhayes1981",
         "horowitz1986",
+        "horowitz1986exam",
         "leastreet1998"
       ],
       "frameworks": [
@@ -1436,28 +1478,18 @@
           "contribution": "component"
         },
         {
-          "key": "ielts:wr2.task-response",
-          "contribution": "related"
-        },
-        {
           "key": "cefr-cv:rec.read.instructions",
           "levels": [
             "B1+",
             "B2"
           ],
           "contribution": "component"
+        },
+        {
+          "key": "ielts:wr2.task-response",
+          "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.generating-ideas",
@@ -1468,7 +1500,16 @@
       "description": "Use deliberate techniques—brainstorming, focused freewriting, question heuristics, mapping and talking ideas through—to produce more and better content than first recall provides, and then select from it in the light of the task. Separating generation from evaluation helps writers get beyond the first, most obvious points.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Produces a range of candidate points for a question using at least two different techniques",
         "Extends an initial idea with question heuristics (why, how, under what conditions, according to whom, so what)",
@@ -1490,16 +1531,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.planning-outlining",
@@ -1510,7 +1542,17 @@
       "description": "Turn a position and selected evidence into a hierarchical plan that sequences points, attaches support to each and shows how each part advances the answer, in a format (linear outline, map, table) suited to the writer and task. A plan is a working hypothesis to be revised during drafting, not a contract.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "core",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Produces an outline in which each main entry is a claim linked to the overall position, not a topic label",
         "Attaches specific evidence or sources to each point and marks gaps",
@@ -1541,17 +1583,7 @@
           ],
           "contribution": "component"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.drafting",
@@ -1562,7 +1594,17 @@
       "description": "Produce a complete first draft from a plan, keeping momentum by deferring sentence-level correction, marking gaps to fill later and allowing the argument to develop as it is written. Treating the first draft as provisional makes revision possible and reduces the paralysis of trying to write a final version first time.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Completes a full draft of a set length within an agreed time without stopping to polish individual sentences",
         "Uses placeholders for missing references, words or data and resolves them in a later session",
@@ -1592,41 +1634,42 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.reading-to-write",
       "type": "PROCEDURAL",
       "strand": "Academic Writing",
       "domain": "Writing Process",
-      "name": "Integrating reading into writing",
-      "description": "Move from reading and notes to one's own text by selecting source content for its relevance to the task, organising it around one's own points rather than the sources' order, and connecting it with commentary. This discourse-synthesis process underlies most university writing, which is source-based rather than written from personal knowledge.",
+      "name": "Reading to write: from task to source-based text",
+      "description": "Carry out the whole discourse-synthesis process for a writing task: set reading priorities from the task, select sources and sections, read and make notes that record source details and separate quotation, paraphrase and own comment, organise the notes around one's own points, draft from the notes with the sources closed, and connect source content with commentary, revising reading priorities as the argument develops. Most university writing is source-based, and both the quality and the integrity of source use depend on how the reading was done.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "core",
+        "pre-sessional-pg": "core",
+        "in-sessional-ug": "core",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
-        "Selects from notes only the source content that serves the current point, leaving out accurate but irrelevant material",
-        "Reorganises source content under their own points rather than following the order of the sources",
-        "Drafts from notes with the source closed, reducing reliance on source wording",
-        "Adds their own interpretation or connection after source content",
-        "Keeps track of which idea came from which source throughout drafting"
+        "Derives reading priorities and search directions from the task and justifies the choice of sources and sections",
+        "Makes notes that record full source details and distinguish quotation, paraphrase and own comment",
+        "Organises notes and plans under their own points rather than source by source",
+        "Drafts from notes with the sources closed, then checks back against the sources for accuracy and attribution",
+        "Follows source content with their own interpretation or connection and keeps attribution clear throughout",
+        "Revises reading priorities as the argument develops and returns to the sources to fill identified gaps"
       ],
-      "assessmentPrompt": "Give two short texts and a question, allow 15 minutes for reading and note-making, then remove the texts and ask for one paragraph written from the notes. Check selection (relevant content only), organisation (around the learner's point), attribution and the presence of the learner's own commentary.",
+      "assessmentPrompt": "Give an essay question and five short sources of varying relevance. Ask the learner which sources and sections they would use and why, allow 15 minutes for notes, then remove the sources and ask for one paragraph written from the notes. Check that selection follows from the question, notes are organised by point and separate source from comment, and the paragraph is led by the learner's own point with clear attribution and commentary.",
       "citations": [
         "spivey1990",
         "plakans2008",
         "grabezhang2013",
-        "hirvela2004"
+        "lekicarson1997"
       ],
       "frameworks": [
         {
@@ -1645,17 +1688,7 @@
           "key": "acrl:inquiry",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.audience-purpose",
@@ -1666,7 +1699,17 @@
       "description": "Recognise that most assessed university writing addresses an expert reader who knows the content but expects the writer to display understanding, make reasoning explicit and argue a position, and adjust content, explicitness and register to that reader and to the text's purpose. Mismatched assumptions about the reader explain many ‘too descriptive’ or ‘explain this’ comments.",
       "cefrStart": "B1",
       "cefrEnd": "C1",
+      "coreBand": "B1+",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies the reader and purpose of a given assignment and explains how they differ from those of a blog post or exam answer on the same topic",
         "Explains why defining key terms and stating reasoning is expected even though the marker already knows the content",
@@ -1696,17 +1739,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.managing-long-projects",
@@ -1717,7 +1750,17 @@
       "description": "Plan and sustain projects of several thousand words or more by breaking them into dated milestones, budgeting words and time across sections, writing regularly rather than in a final burst, scheduling feedback, and tracking versions and progress. Extended projects such as pre-sessional research projects, dissertations and theses often falter through poor management rather than weak language.",
       "cefrStart": "B2",
       "cefrEnd": "C1",
+      "coreBand": "B2+",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "core",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Produces a backward-planned schedule from the deadline with dated milestones for reading, drafting, feedback and editing",
         "Allocates a word budget across sections and monitors it during drafting",
@@ -1740,17 +1783,7 @@
           "key": "vitae-rdf:D2",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B2",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.writing-blocks",
@@ -1761,7 +1794,17 @@
       "description": "Recognise likely causes of being unable to start or continue writing—perfectionism, rigid rules, an unclear task, anxiety about language or evaluation, fatigue—and apply matched strategies such as freewriting, generative writing, lowering the stakes of drafts, starting with an easier section or breaking the task down. Blocks are common at every level, including among experienced researchers, and are usually solvable.",
       "cefrStart": "B1+",
       "cefrEnd": "C1",
+      "coreBand": "B2",
+      "stageRoles": {
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "develop",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Identifies the probable cause of a recent block (unclear task, rigid rule, fear of judgement, fatigue)",
         "Applies a strategy matched to the cause, such as freewriting, starting with a methods or body section, or a short timed goal",
@@ -1783,17 +1826,7 @@
           "key": "vitae-rdf:B2",
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.l1-in-composing",
@@ -1801,20 +1834,31 @@
       "strand": "Academic Writing",
       "domain": "Writing Process",
       "name": "Using the first language in composing",
-      "description": "Use the first language and other languages strategically while composing in English—for generating ideas, planning, note-making, checking meaning and solving lexical problems—while drafting the text predominantly in English and using machine translation transparently and within local rules. Plurilingual composing is a resource. Evidence on drafting fully in another language and then translating is mixed: it can support content and organisation, especially at lower proficiency, but may carry over source-language structures, reduce L2 practice and, with machine translation, breach assessment rules.",
+      "description": "Use the first language and other languages strategically while composing in English—for generating ideas, planning, note-making, checking meaning and solving lexical problems—decide, within the language requirements of each task, how much of the text to draft directly in English, and use machine translation transparently and within local rules. Plurilingual composing is a resource. Evidence on drafting fully in another language and then translating is mixed: it can support content and organisation, especially at lower proficiency (Kobayashi & Rinnert, 1992), but may carry over source-language structures, reduce L2 practice and, with machine translation, breach assessment rules.",
       "cefrStart": "B1",
       "cefrEnd": "B2+",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit",
+        "pgr": "develop"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Describes which composing activities they carry out in which language and why",
-        "Uses L1 or mixed-language notes and plans to support an English draft without translating sentence by sentence",
+        "Uses L1 or mixed-language notes and plans to support an English draft, and explains when they draft directly in English and when, if permitted, they draft a section in another language first",
         "Checks terms and collocations derived from the L1 against English sources, dictionaries or corpora",
         "States the module's or institution's rules on machine translation and complies with them"
       ],
       "assessmentPrompt": "Ask the learner to show the notes and plan for a recent assignment and explain which languages they used at each stage. Check whether other languages support thinking and planning, and whether the English text was drafted from these rather than translated in full.",
       "citations": [
         "wangwen2002",
-        "cumming1989",
+        "kobayashirinnert1992",
         "garciawei2014",
         "lee2020mt"
       ],
@@ -1836,18 +1880,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop",
-        "pgr": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.word-limits",
@@ -1858,7 +1891,17 @@
       "description": "Plan to a word limit by allocating words across sections in proportion to their importance, cut over-length drafts by removing low-value content before trimming sentences, expand under-length drafts by developing analysis rather than adding background, and follow local conventions on what counts (references, headings, tables, appendices) and on tolerances. Meeting a limit is a matter of prioritisation, not only concision.",
       "cefrStart": "B1+",
       "cefrEnd": "B2+",
+      "coreBand": "B2",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "develop",
+        "in-sessional-ug": "develop",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Produces a word budget that gives most words to the sections that carry the argument",
         "Cuts an over-length draft by removing or compressing whole points, background or repetition before editing sentences",
@@ -1879,17 +1922,7 @@
           ],
           "contribution": "related"
         }
-      ],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1+",
-      "audience": "learner",
-      "disciplines": []
+      ]
     },
     {
       "id": "wpr.formatting",
@@ -1900,7 +1933,17 @@
       "description": "Present a text according to the required conventions—style guide, departmental template, cover sheet, page layout, heading levels, numbering of figures and tables, font and spacing—and apply them consistently using word-processing styles. Presentation rarely carries much weight in marking, but it affects readability, the reader's first impression and sometimes compliance with submission rules.",
       "cefrStart": "B1",
       "cefrEnd": "B2",
+      "coreBand": "B1",
+      "stageRoles": {
+        "foundation": "develop",
+        "pre-sessional-ug": "develop",
+        "pre-sessional-pg": "revisit",
+        "in-sessional-ug": "revisit",
+        "in-sessional-pgt": "revisit"
+      },
       "specificity": "EGAP",
+      "disciplines": [],
+      "audience": "learner",
       "masteryEvidence": [
         "Locates and follows the formatting requirements in an assignment brief, handbook or style guide",
         "Applies consistent heading levels, page numbering, spacing and figure and table numbering",
@@ -1912,17 +1955,7 @@
         "apa2020",
         "mla2021"
       ],
-      "frameworks": [],
-      "stageRoles": {
-        "foundation": "develop",
-        "pre-sessional-ug": "develop",
-        "pre-sessional-pg": "develop",
-        "in-sessional-ug": "develop",
-        "in-sessional-pgt": "develop"
-      },
-      "coreBand": "B1",
-      "audience": "learner",
-      "disciplines": []
+      "frameworks": []
     }
   ],
   "dependencies": [
@@ -2159,18 +2192,6 @@
       "prerequisiteId": "syn.synthesis-concept",
       "strength": "soft",
       "reason": "Thematic rather than source-by-source organisation depends on understanding synthesis"
-    },
-    {
-      "topicId": "wpr.task-analysis",
-      "prerequisiteId": "ess.thesis-statement",
-      "strength": "hard",
-      "reason": "Relevance is maintained by checking each part of the essay against a thesis that answers the question"
-    },
-    {
-      "topicId": "wpr.task-analysis",
-      "prerequisiteId": "par.topic-sentences",
-      "strength": "soft",
-      "reason": "Topic sentences are the main place where each paragraph's link to the question is made explicit"
     },
     {
       "topicId": "ess.headings",
@@ -2494,7 +2515,7 @@
       "topicId": "wpr.task-analysis",
       "prerequisiteId": "exm.exam-formats",
       "strength": "soft",
-      "reason": "Time allocation and expected answer types depend on the paper's format and mark scheme"
+      "reason": "Analysing exam questions and allocating time depend on knowing the paper's format and how marks are distributed"
     },
     {
       "topicId": "wpr.reading-to-write",
@@ -2507,6 +2528,12 @@
       "prerequisiteId": "rdp.managing-reading-load",
       "strength": "soft",
       "reason": "Reading for a task applies triage and planning to the sources an assignment requires"
+    },
+    {
+      "topicId": "ess.thesis-statement",
+      "prerequisiteId": "wpr.task-analysis",
+      "strength": "soft",
+      "reason": "A thesis answers the question as the writer has represented it, including its command words and limiting conditions"
     }
   ],
   "guidance": [
@@ -2814,7 +2841,7 @@
         "partialResponse": "Finds some targeted errors but works unsystematically.",
         "gapResponse": "Finds few errors, or introduces new ones."
       },
-      "contextNotes": "Foundation learners need simple checklists and supported practice. Pre-sessional programmes often assess accuracy, so error logs and editing passes fit well into multi-draft cycles. Postgraduate and doctoral writers usually have fewer but more persistent error types and benefit from corpus checking.",
+      "contextNotes": "Foundation learners need simple checklists and supported practice. Pre-sessional programmes often assess accuracy, so error logs and editing passes fit well into multi-draft cycles. Postgraduate and doctoral writers usually have fewer but more persistent error types and benefit from corpus checking. Automated grammar checkers and AI tools can support targeted passes when the learner decides what to accept (see dig.automated-feedback-tools).",
       "citations": [
         "bitchenerferris2012",
         "kanghan2015",
@@ -2857,7 +2884,7 @@
           "pattern": "Relying entirely on the spell-checker.",
           "kind": "overgeneralisation",
           "revealedBy": "Correctly spelt wrong words (form/from, their/there, causal/casual).",
-          "response": "Teach a homophone and near-miss check as part of proofreading.",
+          "response": "Teach a homophone and near-miss check as part of proofreading, alongside the spell-checker rather than instead of it; text-to-speech read-back helps many writers hear errors the eye misses.",
           "reteachPrerequisiteId": null
         },
         {
@@ -2881,7 +2908,7 @@
         "partialResponse": "Finds five to seven, mainly obvious misspellings.",
         "gapResponse": "Finds fewer than five or makes new errors."
       },
-      "contextNotes": "Foundation and pre-sessional learners benefit from explicit technique practice. In-sessional learners need to fit proofreading into tight deadlines. Doctoral researchers proofread long documents, where consistency checks (terms, abbreviations, numbers, references) become more important than isolated errors.",
+      "contextNotes": "Foundation and pre-sessional learners benefit from explicit technique practice. In-sessional learners need to fit proofreading into tight deadlines. Doctoral researchers proofread long documents, where consistency checks (terms, abbreviations, numbers, references) become more important than isolated errors. For writers with dyslexia or other specific learning differences, which carry across languages, spell-checkers, text-to-speech read-back and screen-reading tools are legitimate core techniques rather than crutches (see dig.assistive-technology), and planted-error tasks should not be timed in ways that penalise slower reading.",
       "citations": [
         "bitchenerferris2012"
       ],
@@ -3020,9 +3047,7 @@
         "min2006",
         "hylandhyland2019"
       ],
-      "reviewNotes": [
-        "min2006 is a proposed reference pending verification."
-      ]
+      "reviewNotes": []
     },
     {
       "topicId": "edt.proofreading-ethics",
@@ -3073,13 +3098,13 @@
         "partialResponse": "Classifies correctly but cannot explain the principle.",
         "gapResponse": "Treats all help as acceptable, or all as cheating."
       },
-      "contextNotes": "Foundation and pre-sessional learners need clear institutional rules, especially where progression depends on assessed writing. In-sessional learners may be tempted by paid services under pressure. Doctoral researchers need to know thesis regulations on editorial help, which often differ from coursework rules, and norms of professional editing for publication.",
+      "contextNotes": "Foundation and pre-sessional learners need clear rules, especially where progression depends on assessed writing. In-sessional learners may be offered paid services under pressure. Doctoral researchers need to know thesis regulations on editorial help, which often differ from coursework rules, and norms of professional editing for publication. Policies differ widely: some UK universities publish detailed proofreading policies, whereas many North American writing centres do not proofread at all, and EMI and transnational programmes may follow either the home or the partner institution's rules. Disability-related support, such as specialist study-skills tutoring for dyslexic students, is usually governed by separate arrangements. Rules on AI tools are covered by gai.policies and dig.automated-feedback-tools.",
       "citations": [
         "harwood2009",
         "lilliscurry2010"
       ],
       "reviewNotes": [
-        "harwood2009 is a proposed reference pending verification. Institutional policies vary; guidance does not prescribe a single standard."
+        "Institutional policies vary; guidance does not prescribe a single standard."
       ]
     },
     {
@@ -3135,7 +3160,7 @@
         "partialResponse": "Thesis present, but the body is balanced for and against without building to the judgement.",
         "gapResponse": "A list of topics with no thesis."
       },
-      "contextNotes": "Foundation programmes may begin with structured templates. Pre-sessional programmes should move learners to argument-driven structure in extended essays, with explicit discussion of how university essays differ from test essays.",
+      "contextNotes": "Foundation programmes and undergraduate-entry pre-sessionals may begin with structured templates and should move learners to argument-driven structure in extended essays, with explicit discussion of how university essays differ from test essays. On postgraduate-entry pre-sessionals this is usually a brief review. Essay conventions differ between, for example, UK, North American and continental European universities and between EMI contexts, so use model essays from the target context.",
       "citations": [
         "wingate2012argument",
         "caplanjohns2019",
@@ -3183,10 +3208,10 @@
           "reteachPrerequisiteId": "arg.claim-types"
         },
         {
-          "pattern": "Avoiding a clear position because it feels presumptuous or risky.",
-          "kind": "affective",
-          "revealedBy": "Heavily hedged or evenly balanced theses (‘there are both advantages and disadvantages’).",
-          "response": "Show theses that are clear but qualified and discuss what markers reward.",
+          "pattern": "'A balanced essay is safer, so my thesis should say there are arguments on both sides.'",
+          "kind": "prior-schooling",
+          "revealedBy": "Evenly balanced theses with no judgement; conclusions that restate both sides.",
+          "response": "Where test-preparation advice presented a 'balanced view' as the safe option, explain that most university questions require a reasoned judgement, and show theses that are clear but qualified.",
           "reteachPrerequisiteId": null
         },
         {
@@ -3452,7 +3477,7 @@
         "partialResponse": "Reasonable decision, but generic headings.",
         "gapResponse": "Uses or omits headings without reference to the brief; headings inconsistent."
       },
-      "contextNotes": "Pre-sessional learners should meet both headed and unheaded essays. In-sessional undergraduates need disciplinary conventions. PGT essays are often longer and more likely to permit headings, but expectations still vary by department.",
+      "contextNotes": "Foundation learners meet headings first in short reports, and should learn early that essays in their target departments may not use them. Pre-sessional learners should meet both headed and unheaded essays. In-sessional undergraduates need disciplinary conventions. PGT essays are often longer and more likely to permit headings, but expectations still vary by department and institution.",
       "citations": [
         "gardnernesi2013",
         "apa2020"
@@ -3557,10 +3582,10 @@
           "reteachPrerequisiteId": "crt.description-analysis-evaluation"
         },
         {
-          "pattern": "Reluctance to evaluate published authors or lecturers.",
-          "kind": "prior-schooling",
+          "pattern": "Hesitating to evaluate published authors or lecturers, because it is unclear when a student is entitled to judge expert work.",
+          "kind": "affective",
           "revealedBy": "Neutral reporting with no evaluation even when the question asks for it.",
-          "response": "Show mitigated evaluative language and explain what markers expect. Many learners from many backgrounds share this hesitation, so avoid attributing it to any national or cultural group.",
+          "response": "Show mitigated evaluative language and annotated exemplars of what markers reward, and make the expectation explicit. This hesitation is common among novice writers of all language backgrounds and is often reinforced by assessments that rewarded accurate reproduction, so do not attribute it to any national or cultural group.",
           "reteachPrerequisiteId": "sta.evaluating-others-language"
         },
         {
@@ -3700,13 +3725,13 @@
         "partialResponse": "Breaks mostly correct, but labels are topics, or one break is driven by length.",
         "gapResponse": "Breaks at arbitrary points or before every connector."
       },
-      "contextNotes": "Foundation and early pre-sessional learners benefit most from explicit work on unity. By the later stages of a pre-sessional programme, authentic disciplinary paragraphs should be used to show legitimate variation.",
+      "contextNotes": "Foundation and undergraduate-entry pre-sessional learners benefit most from explicit work on unity. Postgraduate-entry pre-sessionals usually need only a diagnostic review, and authentic disciplinary paragraphs should be used from the later stages of any pre-sessional to show legitimate variation.",
       "citations": [
         "braddock1974",
         "swalesfeak2012"
       ],
       "reviewNotes": [
-        "Braddock (1974) analysed edited professional essays, not student academic writing; it is cited to qualify the universality of the topic-sentence model, not to dismiss the model. braddock1974 is a proposed reference."
+        "Braddock (1974) analysed edited professional essays, not student academic writing; it is cited to qualify the universality of the topic-sentence model, not to dismiss the model."
       ]
     },
     {
@@ -3884,14 +3909,14 @@
         "partialResponse": "Uses PEEL rigidly, with two separate evidence–explanation blocks and a formulaic link.",
         "gapResponse": "Cannot accommodate the second source or the disagreement; only one source is summarised."
       },
-      "contextNotes": "PEEL is most useful at foundation and early pre-sessional stages, especially for learners whose schooling used it. By the end of a pre-sessional programme, learners should treat it as one option. Some learners arriving in in-sessional classes have to unlearn rigid PEEL in disciplines that value other paragraph patterns.",
+      "contextNotes": "PEEL is most useful at foundation and on undergraduate-entry pre-sessionals, especially for learners whose schooling used it; by the end of such a course learners should treat it as one option. On postgraduate-entry pre-sessionals it should at most be revisited diagnostically, since most learners need multi-source paragraphs rather than a single-evidence template. The acronym is common in UK schooling; other systems use similar scaffolds under different names, so ask learners what they were taught. Some learners arriving in in-sessional classes have to unlearn rigid PEEL in disciplines that value other paragraph patterns.",
       "citations": [
         "wingate2012argument",
         "caplanjohns2019",
         "rosemartin2012"
       ],
       "reviewNotes": [
-        "No published study known to the author tests PEEL specifically; the critique draws on broader work on formulaic writing instruction. caplanjohns2019 is a proposed reference."
+        "No published study known to the author tests PEEL specifically; the critique draws on broader work on formulaic writing instruction, including the five-paragraph essay (Caplan & Johns, 2019)."
       ]
     },
     {
@@ -4011,7 +4036,7 @@
         "partialResponse": "The closing either summarises or links, but not both.",
         "gapResponse": "Restates the topic sentence."
       },
-      "contextNotes": "Foundation learners can use closing sentences routinely. From late pre-sessional stages, the emphasis moves to deciding when a closing is needed and to stating significance, which connects to criticality.",
+      "contextNotes": "Foundation and undergraduate-entry pre-sessional learners can use closing sentences routinely at first. From the later stages of a pre-sessional, and on postgraduate-entry courses from the start, the emphasis moves to deciding when a closing sentence is needed and to stating significance, which connects to criticality.",
       "citations": [
         "wingate2012argument",
         "swalesfeak2012"
@@ -4050,16 +4075,16 @@
       "difficulties": [
         {
           "pattern": "A new single-sentence paragraph for every point, as in journalistic or online writing.",
-          "kind": "prior-schooling",
+          "kind": "overgeneralisation",
           "revealedBy": "Many very short paragraphs; points asserted without support.",
           "response": "Ask learners to develop each short paragraph (see par.support) or merge it with a related one, and show that development is what markers reward.",
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Page-long paragraphs containing several points, sometimes reflecting paragraphing conventions learned in other languages or educational settings.",
-          "kind": "prior-schooling",
+          "pattern": "Page-long paragraphs containing several points.",
+          "kind": "developmental",
           "revealedBy": "Paragraphs of 300 words or more in which readers lose track.",
-          "response": "Reverse-outline the paragraph to locate shifts in point and divide there; present the English convention as a reader-oriented choice rather than as correcting a deficit.",
+          "response": "Reverse-outline the paragraph to locate shifts in point and divide there. Paragraphing norms vary across genres and writing traditions, so present the convention as a reader-oriented choice in the target context rather than as correcting a deficit.",
           "reteachPrerequisiteId": "par.paragraph-unit"
         }
       ],
@@ -4181,11 +4206,11 @@
           "reteachPrerequisiteId": "sta.averral-attribution"
         },
         {
-          "pattern": "Avoiding commentary because evaluating published authors feels presumptuous.",
-          "kind": "prior-schooling",
-          "revealedBy": "Neutral reporting with no evaluation, even where the task asks for it.",
-          "response": "Show mitigated evaluative language and examples of what markers reward. Treat this as an expectation to make explicit, not as a trait of any group of learners.",
-          "reteachPrerequisiteId": null
+          "pattern": "Commentary that only restates the evidence in other words ('This shows that pollution is a serious problem').",
+          "kind": "developmental",
+          "revealedBy": "Comment sentences that add no interpretation, evaluation or link to the paragraph's claim.",
+          "response": "Give a menu of comment moves (explain the mechanism, evaluate the evidence, compare with another source, state the consequence for the claim) and ask learners to label which move each comment makes.",
+          "reteachPrerequisiteId": "par.support"
         }
       ],
       "diagnostic": {
@@ -4271,14 +4296,14 @@
     },
     {
       "topicId": "wpr.task-analysis",
-      "summary": "Flower and Hayes (1981) place the writer's representation of the rhetorical problem at the start of composing; a weak representation constrains everything that follows. Lea and Street (1998) show that tutors' expectations are often tacit, so task analysis should cover the implicit requirements of genre and discipline as well as the explicit wording. Use authentic briefs from learners' target departments where possible (Horowitz, 1986, documents the range of tasks set), and treat command words as cues to interpret in context rather than as fixed definitions.",
+      "summary": "Flower and Hayes (1981) place the writer's representation of the rhetorical problem at the start of composing, and a weak representation constrains everything that follows. In two 1986 studies Horowitz documented the coursework tasks university staff set (Horowitz, 1986) and analysed essay examination prompts (Horowitz, 1986), showing that exam questions also call for selecting and organising material for a specific purpose. Under pressure, writers may fall back on knowledge telling, writing all they know about the topic (Bereiter & Scardamalia, 1987), and Lea and Street (1998) show that tutors' expectations about 'answering the question' are often tacit. Teach one routine for coursework briefs and exam questions, use authentic briefs and past papers from target departments, treat command words as cues to interpret in context, and keep checking relevance after the plan is made, since relevance depends on how content is framed for the argument (Wingate, 2012).",
       "activities": [
         {
           "title": "Brief deconstruction",
           "learnerActions": [
             "Annotate a real assignment brief in four colours: instruction, topic, limits and other requirements",
-            "Rewrite the task as one sentence beginning ‘My text must…’",
-            "Compare with a partner, list the remaining ambiguities and draft a short email asking a tutor about one of them"
+            "Rewrite the task as one sentence beginning 'My text must…'",
+            "Compare with a partner, list remaining ambiguities and draft a short message asking the tutor about one of them"
           ],
           "intendedInsight": "A brief contains more instructions than the question line, and some requirements are implicit.",
           "rationale": "Explicit task representation is the first planning operation in cognitive models (Flower & Hayes, 1981), and authentic briefs expose the task types learners will actually meet (Horowitz, 1986).",
@@ -4288,57 +4313,83 @@
           ]
         },
         {
-          "title": "Same topic, different task",
+          "title": "Same topic, different question",
           "learnerActions": [
-            "Read three questions on the same topic with different command words and limiting conditions",
-            "Sketch the main point a strong answer to each would make",
-            "Explain why one paragraph of content could be relevant to one question but not to another"
+            "Read three exam questions on the same topic with different command and limiting words",
+            "Mark the command, topic, focus and limiting words and write one sentence on what a good answer to each would do",
+            "For a past paper, convert marks into minutes for each question, including planning and checking time"
           ],
-          "intendedInsight": "Relevance is defined by the task, not by the topic.",
-          "rationale": "Contrasting tasks that share a topic makes the effect of the instruction visible and counters topic-driven knowledge-telling (Bereiter & Scardamalia, 1987).",
+          "intendedInsight": "The question's wording, not the topic, decides what counts as a good answer, and time should follow marks.",
+          "rationale": "Contrasting questions that share a topic makes the transformation demand visible that knowledge telling misses (Bereiter & Scardamalia, 1987); exam prompts vary in what they ask writers to do with content (Horowitz, 1986).",
           "citations": [
-            "bereiter1987"
+            "bereiter1987",
+            "horowitz1986exam"
+          ]
+        },
+        {
+          "title": "Relevance audit",
+          "learnerActions": [
+            "Write the question at the top of a draft",
+            "In the margin of each paragraph, write one line on how it helps answer the question",
+            "Keep, reframe or cut each paragraph, and rewrite the opening and closing sentences of one reframed paragraph"
+          ],
+          "intendedInsight": "Every paragraph has to earn its place, and relevance is often a matter of framing as well as content.",
+          "rationale": "Makes tacit expectations about relevance explicit (Lea & Street, 1998) and connects relevance with argument (Wingate, 2012).",
+          "citations": [
+            "leastreet1998",
+            "wingate2012argument"
           ]
         }
       ],
       "difficulties": [
         {
-          "pattern": "Learners write everything they know about the topic and overlook the command word or a limiting condition such as a period or context.",
+          "pattern": "Writing everything known about the topic and overlooking the command word or a limiting condition such as a period or context.",
           "kind": "developmental",
-          "revealedBy": "Accurate but generic essays; tutor comments such as ‘not focused on the question’.",
-          "response": "Require a one-sentence task statement before planning and check plans against it. Rather than handing out a list of command-word definitions, have learners infer what a command word demands from high- and low-scoring answers.",
+          "revealedBy": "Accurate but generic essays or exam answers; tutor comments such as 'not focused on the question' or 'relevance?'.",
+          "response": "Require a one-sentence task statement before planning and a relevance audit before submission. Rather than handing out command-word definitions, have learners infer what a command word demands from higher- and lower-scoring answers. Do not tell learners to repeat the question's wording in every paragraph, which produces mechanical text without improving relevance.",
           "reteachPrerequisiteId": "voc.command-words"
         },
         {
-          "pattern": "‘Discuss means describe both sides; critically evaluate means criticise.’",
-          "kind": "overgeneralisation",
-          "revealedBy": "Balanced lists with no conclusion; wholly negative evaluations.",
-          "response": "Compare answers to the same command word that received different marks and have learners articulate the difference; stress that most command words require a reasoned judgement.",
-          "reteachPrerequisiteId": "voc.command-words"
-        },
-        {
-          "pattern": "Assuming that asking a tutor to clarify a brief is impolite or will be judged negatively.",
+          "pattern": "In an exam, recognising a revised topic and writing a prepared answer that does not address the specific question.",
           "kind": "prior-schooling",
-          "revealedBy": "Questions about the brief surface only after submission; optional elements misinterpreted.",
-          "response": "Model appropriate clarification requests and discuss when tutors expect them, linking to email and office-hour conventions.",
+          "revealedBy": "Answers relevant to the topic but not to the question; feedback such as 'does not answer the question'.",
+          "response": "Practise with questions that deliberately twist familiar topics. Where assessment systems the learner knows rewarded reproducing model answers, make the different expectation explicit rather than criticising the habit.",
+          "reteachPrerequisiteId": "exm.exam-formats"
+        },
+        {
+          "pattern": "Answering one part of a multi-part question at length and neglecting the other, or spending too long on the first exam question.",
+          "kind": "performance",
+          "revealedBy": "Unbalanced texts in which the evaluative part receives one paragraph; unfinished final exam answers.",
+          "response": "Word-budget or time-budget each part at the planning stage and practise with fixed checkpoints.",
+          "reteachPrerequisiteId": "exm.exam-formats"
+        },
+        {
+          "pattern": "Briefs whose requirements are vague, contradictory or left to tacit departmental convention, so that learners cannot tell what is expected.",
+          "kind": "institutional",
+          "revealedBy": "Several learners misreading the same brief in the same way; questions about the brief surfacing only after marking.",
+          "response": "With learners, model clarification requests and when tutors expect them. With departments, share examples of briefs that state genre, reader, criteria and word-count rules explicitly, and feed recurring misreadings back to module leaders rather than treating them as learner error.",
           "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "Give a brief containing a question, a word limit, required reading and a three-criterion rubric. Ask for a list of everything the assignment requires, in five minutes.",
-        "strongResponse": "Identifies instruction, topic, limits, genre, required sources and at least one implication of the criteria (for example that ‘critical analysis’ requires evaluation, not description).",
-        "partialResponse": "Identifies topic and word limit but misses limiting conditions or the implications of the criteria.",
-        "gapResponse": "Restates the topic only, or lists generic study advice unrelated to the brief."
+        "task": "Give a coursework brief (question, word limit, required reading, three-criterion rubric) and an exam question on a related topic. Ask for a list of what each requires, in five minutes.",
+        "strongResponse": "Identifies command, topic, limits and sub-questions in both; notes genre, sources and at least one implication of the criteria for the brief; describes the shape of the exam answer and a time allocation.",
+        "partialResponse": "Identifies topic and command words but misses limiting conditions, sub-questions or the implications of the criteria.",
+        "gapResponse": "Restates the topic only, or lists generic study advice unrelated to the task."
       },
-      "contextNotes": "Foundation and pre-sessional teaching can start with adapted briefs but should move quickly to authentic ones. In-sessional work is most effective when learners bring their own module briefs. At PGT level briefs are often shorter and more open, so the emphasis shifts to defining scope and choosing an angle. Test preparation can foster a narrow view of writing tasks (Moore & Morton, 2005), which may need explicit unlearning.",
+      "contextNotes": "Foundation learners need the routine for both subject exams and short coursework, starting with adapted briefs and moving quickly to authentic ones. Undergraduate-entry pre-sessionals apply it to extended essays and to timed tasks in progression assessment; postgraduate-entry pre-sessionals, who usually control command words already, concentrate on open briefs that leave scope and angle to the writer. In-sessional work is most effective when learners bring their own module briefs and past papers. At PGT level briefs are shorter and more open, and dissertation students set their own questions, which then have to be answered consistently. Test preparation can foster a narrow view of writing tasks (Moore & Morton, 2005), which may need explicit unlearning. Brief conventions, exam formats and word-count rules vary between institutions and countries, so work from the target context's documents.",
       "citations": [
         "flowerhayes1981",
-        "leastreet1998",
         "horowitz1986",
+        "horowitz1986exam",
+        "leastreet1998",
+        "bereiter1987",
+        "wingate2012argument",
         "mooremorton2005"
       ],
       "reviewNotes": [
-        "Overlaps with voc.command-words (lexical meaning of command words) and exm.question-analysis (exam questions and time allocation); this topic covers representation of the whole brief."
+        "Absorbs exm.question-analysis and ess.answering-question (R1-13). voc.command-words remains the lexical resource; exm.timed-writing covers pacing and planning within a timed answer.",
+        "Review response: R1-13 suggested moving time allocation by marks to exm.timed-writing. It is kept here as one exam mastery statement, because allocating time follows directly from reading the paper's questions and mark weightings; exm.timed-writing covers pacing within an answer."
       ]
     },
     {
@@ -4430,7 +4481,7 @@
             "Note which format exposed missing links or evidence"
           ],
           "intendedInsight": "Different formats reveal different weaknesses; there is no single correct planning format.",
-          "rationale": "Offering formats as tools to compare supports learner choice without relying on unsupported learning-styles claims.",
+          "rationale": "Formats are compared by what each reveals about the plan for this task, so the choice rests on observable results rather than on a presumed personal preference or 'style'.",
           "citations": []
         }
       ],
@@ -4464,7 +4515,8 @@
         "hyland2003writing"
       ],
       "reviewNotes": [
-        "Ellis and Yuan (2004) used a narrative writing task; the effects of planning time on extended, source-based academic writing are extrapolated."
+        "Ellis and Yuan (2004) used a narrative writing task; the effects of planning time on extended, source-based academic writing are extrapolated.",
+        "Review response: R4-08 suggested citing Pashler et al. (2008) for the learning-styles debunk. Declined to avoid adding an unverified proposed reference; the activity rationale has been reworded so that it makes no empirical claim about learning styles."
       ]
     },
     {
@@ -4511,7 +4563,7 @@
           "pattern": "Composing each sentence in the first language and translating it word by word carries L1 clause structure and collocation into the English text.",
           "kind": "L1-transfer",
           "revealedBy": "Sentences that are locally grammatical but hard to parse; collocations that mirror L1 patterns; heavy translator use.",
-          "response": "Encourage the L1 for notes and planning, but draft in English from those notes (see wpr.l1-in-composing). Do not ban other languages outright, which usually drives the practice underground.",
+          "response": "Encourage other languages for notes and planning, and try drafting from those notes rather than translating sentence by sentence (see wpr.l1-in-composing); for some writers and tasks, drafting a section in another language first is a legitimate alternative where rules permit. Do not ban other languages outright, which usually drives the practice underground.",
           "reteachPrerequisiteId": null
         }
       ],
@@ -4521,7 +4573,7 @@
         "partialResponse": "Complete draft but with long pauses for correction, or an incomplete draft with polished early paragraphs.",
         "gapResponse": "Introduction only, heavily reworked; reports being unable to continue until it was right."
       },
-      "contextNotes": "At foundation level, scaffold with paragraph-by-paragraph drafting from detailed plans. On pre-sessional programmes, draft deadlines within extended projects make drafting visible and give an opportunity for content-focused feedback. Postgraduates often over-read before drafting; encourage early, low-stakes drafting of more descriptive sections such as methods or background.",
+      "contextNotes": "At foundation level, scaffold with paragraph-by-paragraph drafting from detailed plans. On pre-sessional programmes, draft deadlines within extended projects make drafting visible and give an opportunity for content-focused feedback. Postgraduates often over-read before drafting; encourage early, low-stakes drafting of more descriptive sections such as methods or background. Dictation and speech-to-text drafting are legitimate ways to keep momentum, particularly for writers with dyslexia or motor difficulties (see dig.assistive-technology).",
       "citations": [
         "zamel1983",
         "sommers1980",
@@ -4531,67 +4583,98 @@
     },
     {
       "topicId": "wpr.reading-to-write",
-      "summary": "Spivey (1990) describes writing from sources as discourse synthesis involving selecting, organising and connecting content. Plakans (2008) found that composing processes differed between reading-to-write and writing-only tasks, with source-based tasks prompting more interaction between reading and writing for many writers. Grabe and Zhang (2013) and Hirvela (2004) argue that EAP should teach reading and writing together. Teach the transition from notes to text explicitly, including note formats that separate source content from the writer's own comments.",
+      "summary": "Spivey (1990) describes writing from sources as discourse synthesis, in which writers select, organise and connect content from several texts. Studies of university tasks show that much assessed writing draws on reading (Horowitz, 1986; Leki & Carson, 1997), and Plakans (2008) and Plakans and Gebril (2012) found that reading-to-write tasks prompt interaction between reading and writing, with sources used for ideas, organisation and language. Grabe and Zhang (2013) and Hirvela (2004) argue that EAP should teach reading and writing together. Teach the process end to end on one task, from question-driven reading through notes that separate source from comment to drafting from notes, rather than as separate reading and writing lessons.",
       "activities": [
         {
-          "title": "Notes to paragraph, sources closed",
+          "title": "Question-driven reading plan",
           "learnerActions": [
-            "Make two-column notes from two short sources: source content on the left, own reactions and questions on the right",
-            "Close the sources and write a paragraph making one point, using both columns",
-            "Check the paragraph against the sources for accuracy and attribution only after writing"
+            "Break an essay question into sub-questions",
+            "Map each sub-question to likely sources and sections, and decide what to skip",
+            "Read and take notes under sub-question headings, marking quotation, paraphrase and own comment differently"
           ],
-          "intendedInsight": "Writing from notes rather than from the source supports transformation and reduces close copying.",
-          "rationale": "Separating source content and personal response at the note stage prepares the connecting operation of discourse synthesis (Spivey, 1990).",
+          "intendedInsight": "Reading for writing is organised by the question, not by the source.",
+          "rationale": "Integrates reading and writing instruction as Grabe and Zhang (2013) and Hirvela (2004) recommend.",
           "citations": [
-            "spivey1990"
+            "grabezhang2013",
+            "hirvela2004"
           ]
         },
         {
           "title": "Reorganise, don't summarise in order",
           "learnerActions": [
-            "Receive short summaries of three sources",
-            "Cut them into points and regroup the points under two claims that answer a question",
-            "Write a topic sentence for each group"
+            "Cut notes from three sources into individual points",
+            "Regroup the points under two claims that answer the question",
+            "Write a topic sentence for each group and note which sources support it"
           ],
           "intendedInsight": "Source content should be arranged by the writer's points, not by source.",
-          "rationale": "Organising is the operation that distinguishes synthesis from serial summary (Spivey, 1990) and benefits from integrated reading–writing instruction (Grabe & Zhang, 2013).",
+          "rationale": "Organising is the operation that distinguishes synthesis from serial summary (Spivey, 1990).",
           "citations": [
-            "spivey1990",
-            "grabezhang2013"
+            "spivey1990"
+          ]
+        },
+        {
+          "title": "Notes to paragraph, sources closed",
+          "learnerActions": [
+            "Close the sources and write a paragraph making one point from your grouped notes",
+            "Check the paragraph against the sources for accuracy and attribution only after writing",
+            "Note any gap that sends you back to reading"
+          ],
+          "intendedInsight": "How you read and take notes determines how easily, and how honestly, you can write.",
+          "rationale": "Writing from notes supports transformation of source content and reflects the reading-to-write processes observed in integrated tasks (Plakans & Gebril, 2012).",
+          "citations": [
+            "plakansgebril2012"
           ]
         }
       ],
       "difficulties": [
         {
-          "pattern": "Writing with the source open and composing sentence by sentence from it.",
+          "pattern": "Reading everything on the topic before deciding what the task requires.",
+          "kind": "performance",
+          "revealedBy": "Large volumes of notes, many irrelevant to the question; drafting starts late.",
+          "response": "Begin with task analysis and set reading priorities before reading; review them after the first draft.",
+          "reteachPrerequisiteId": "wpr.task-analysis"
+        },
+        {
+          "pattern": "Writing with the source open and composing sentence by sentence from it, or from notes in which copied wording is unmarked.",
           "kind": "developmental",
-          "revealedBy": "Patchwritten passages, source-order organisation, little or no commentary.",
-          "response": "Teach close-the-source drafting from notes, and treat patchwriting first as a developmental stage to be moved beyond rather than as misconduct.",
+          "revealedBy": "Patchwritten passages traceable to the source or to unmarked notes; source-order organisation; little commentary.",
+          "response": "Teach note conventions that separate quotation, paraphrase and comment, and close-the-source drafting. Treat early patchwriting as a developmental stage to move beyond rather than as misconduct.",
           "reteachPrerequisiteId": "ntk.notes-from-reading"
         },
         {
-          "pattern": "‘The more sources I include, the more academic my essay is.’",
+          "pattern": "'The more sources I include, the more academic my essay is.'",
           "kind": "overgeneralisation",
           "revealedBy": "Sources piled up with no link to the point; reporting verbs carrying the whole argument.",
           "response": "Ask for a one-line justification of each source's role in the paragraph, and limit sources per point in practice tasks.",
           "reteachPrerequisiteId": null
+        },
+        {
+          "pattern": "Expecting to write from personal opinion and general knowledge, as many proficiency-test and school essay tasks require.",
+          "kind": "prior-schooling",
+          "revealedBy": "Assignments with few sources and much unsupported assertion.",
+          "response": "Use source-based writing tasks from the start of the course and make the expectation of source use explicit.",
+          "reteachPrerequisiteId": null
         }
       ],
       "diagnostic": {
-        "task": "Give a short source and a question and ask for one paragraph that uses the source to support a point of the learner's own.",
-        "strongResponse": "The learner's point leads; source content is selected, paraphrased and attributed; a comment links the evidence to the point.",
-        "partialResponse": "Accurate, attributed summary of the source, but no point of the learner's own or no comment.",
-        "gapResponse": "Copied or closely patchwritten source sentences, missing attribution, or no link to the question."
+        "task": "Give an essay question and five sources; ask which to use, which sections to read and how to organise notes, then for one paragraph from the notes with sources closed.",
+        "strongResponse": "Question-driven selection, a note plan organised by points, and a paragraph led by the learner's point with selected, paraphrased and attributed content and a linking comment.",
+        "partialResponse": "Relevant selection, but notes planned source by source or a paragraph that summarises accurately without a point of the learner's own.",
+        "gapResponse": "All sources treated equally or selection unrelated to the question; copied or closely patchwritten sentences, or missing attribution."
       },
-      "contextNotes": "Foundation and pre-sessional programmes should build reading-to-write tasks into assessment, since many proficiency tests ask for writing from personal knowledge (Moore & Morton, 2005). In-sessional learners need help applying the process to longer, denser disciplinary readings. At PGT level the emphasis moves to organising large reading loads around a focused argument.",
+      "contextNotes": "Foundation and undergraduate-entry pre-sessional courses should build assessment around short reading-to-write tasks with a small, given source set, since many proficiency tests ask for writing from personal knowledge (Moore & Morton, 2005). Postgraduate-entry pre-sessionals extend the process to learner-selected research articles and a larger reading base for a project or proposal. In-sessional undergraduates apply it to longer, denser disciplinary reading, and PGT students to organising large reading loads around a focused argument in assignments and dissertations. Timed reading-into-writing test tasks are treated under syn.integrated-tasks. Learners who use text-to-speech or other reading support (see dig.assistive-technology) may make and organise notes in audio or visual formats; what matters is that source and comment remain distinguishable.",
       "citations": [
         "spivey1990",
         "plakans2008",
+        "plakansgebril2012",
         "grabezhang2013",
+        "hirvela2004",
+        "lekicarson1997",
+        "horowitz1986",
         "mooremorton2005"
       ],
       "reviewNotes": [
-        "Overlaps with syn.integrated-tasks and rdc.reading-for-writing; this topic focuses on the composing transition from notes to the writer's own text."
+        "Absorbs rdc.reading-for-writing (R1-14), so that selecting, reading, noting, organising and drafting are taught as one procedure. Timed integrated test tasks are covered by syn.integrated-tasks."
       ]
     },
     {
@@ -4634,9 +4717,9 @@
           "reteachPrerequisiteId": null
         },
         {
-          "pattern": "Treating the marker as an authority to agree with or impress with elaborate vocabulary.",
-          "kind": "prior-schooling",
-          "revealedBy": "Lecture views reproduced without evaluation; inflated register.",
+          "pattern": "'The marker wants to see that I know the lecture content and can use advanced vocabulary.'",
+          "kind": "conceptual",
+          "revealedBy": "Lecture content reproduced without a position; inflated register.",
           "response": "Discuss what markers reward using criteria and exemplars, and reframe the task as offering a reasoned view to an informed reader.",
           "reteachPrerequisiteId": null
         }
@@ -4785,7 +4868,7 @@
     },
     {
       "topicId": "wpr.l1-in-composing",
-      "summary": "Studies of L2 composing show that writers use the L1 for particular sub-processes, especially planning and generating ideas, and that L1 use tends to decrease as L2 proficiency rises (Wang & Wen, 2002). Cumming (1989) found that writing expertise and L2 proficiency make separate contributions to L2 writing, so composing expertise developed in another language is a resource. Translanguaging perspectives (García & Li Wei, 2014) legitimise plurilingual composing. Lee (2020) reports that EFL students who used machine-translation output as a reference while revising reduced some errors, but full-text translation raises learning and integrity concerns, so rules need explicit discussion.",
+      "summary": "Studies of L2 composing show that writers use the L1 for particular sub-processes, especially planning and generating ideas, and that L1 use tends to decrease as L2 proficiency rises (Wang & Wen, 2002). Cumming (1989) found that writing expertise and L2 proficiency make separate contributions to L2 writing, so composing expertise developed in another language is a resource. Kobayashi and Rinnert (1992) found that lower-proficiency Japanese EFL writers' essays written in Japanese and then translated scored higher on content and organisation than their directly composed essays, so whether to draft directly in English is a contested, task-dependent choice rather than a rule. Translanguaging perspectives (García & Li Wei, 2014) legitimise plurilingual composing. Lee (2020) reports that EFL students who used machine-translation output as a reference while revising reduced some errors, but full-text translation raises learning and integrity questions, so local rules need explicit discussion.",
       "activities": [
         {
           "title": "Language map of my process",
@@ -4794,23 +4877,24 @@
             "Compare with peers and discuss the benefits and risks at each step",
             "Choose one change to try in the next assignment"
           ],
-          "intendedInsight": "Other languages are most useful for thinking and planning; drafting in English from those plans builds L2 composing fluency.",
+          "intendedInsight": "Different languages can serve different steps; the useful question is which choice helps this task, within its rules.",
           "rationale": "Making language choice explicit turns habit into strategy, consistent with evidence that L1 use varies by composing activity (Wang & Wen, 2002).",
           "citations": [
             "wangwen2002"
           ]
         },
         {
-          "title": "Plan in any language, draft in English",
+          "title": "Plurilingual plan, two drafting routes",
           "learnerActions": [
             "Plan a paragraph in your strongest language or a mixture of languages",
-            "Draft it in English without translating the plan line by line",
-            "Afterwards, check specific terms with a dictionary, corpus or (if permitted) machine translation"
+            "Draft it once directly in English and, where permitted, once in another language before rendering it in English",
+            "Compare the two versions for content, organisation and naturalness, and check specific terms with a dictionary or corpus"
           ],
-          "intendedInsight": "A plurilingual plan can support an English text that follows English academic patterns.",
-          "rationale": "Draws on the plurilingual repertoire as a resource (García & Li Wei, 2014) while limiting carry-over of L1 sentence structure.",
+          "intendedInsight": "Each route has costs and benefits that depend on the task, the writer's proficiency and the rules.",
+          "rationale": "Draws on the plurilingual repertoire as a resource (García & Li Wei, 2014) and on mixed evidence comparing translation with direct composition (Kobayashi & Rinnert, 1992).",
           "citations": [
-            "garciawei2014"
+            "garciawei2014",
+            "kobayashirinnert1992"
           ]
         }
       ],
@@ -4843,16 +4927,16 @@
         "partialResponse": "Plans in L1; the English paragraph closely translates plan sentences and contains awkward structures.",
         "gapResponse": "No plan; translates sentence by sentence or asks to use a translator for the whole paragraph."
       },
-      "contextNotes": "Foundation learners rely most on the L1 and need explicit guidance on productive uses. Pre-sessional programmes should state rules on translation and AI tools clearly, as practice varies. Doctoral researchers often read and think in several languages; plurilingual note-making and the use of non-English sources are part of research practice (see src.multilingual-sources).",
+      "contextNotes": "Foundation learners rely most on other languages and need explicit guidance on productive uses. Pre-sessional programmes should state rules on translation and AI tools clearly, as practice varies. Whether assessed texts may themselves be translingual (quoting and glossing sources in other languages, or bilingual submission in some EMI programmes) is contested and varies by task (see idn.translingual-writing). Doctoral researchers often read and think in several languages; plurilingual note-making and the use of non-English sources are part of research practice (see src.multilingual-sources).",
       "citations": [
         "wangwen2002",
         "cumming1989",
+        "kobayashirinnert1992",
         "garciawei2014",
         "lee2020mt"
       ],
       "reviewNotes": [
-        "Institutional rules on machine translation vary widely and change quickly; guidance here is deliberately non-prescriptive.",
-        "wangwen2002 and cumming1989 are proposed references pending verification."
+        "Institutional rules on machine translation vary widely and change quickly; guidance here is deliberately non-prescriptive."
       ]
     },
     {
@@ -4915,7 +4999,7 @@
         "partialResponse": "Reasonable budget, but the cutting plan trims sentences evenly throughout.",
         "gapResponse": "No budget; cuts the conclusion or the analysis."
       },
-      "contextNotes": "Foundation and early pre-sessional learners more often struggle to reach limits and need help developing analysis. Undergraduates and PGT students more often overshoot, especially in reading-heavy assignments. Doctoral researchers deal with journal limits and thesis regulations, where cutting may mean moving material to appendices or other outputs.",
+      "contextNotes": "Foundation and early pre-sessional learners more often struggle to reach limits and need help developing analysis. Undergraduates and PGT students more often overshoot, especially in reading-heavy assignments. Doctoral researchers deal with journal limits and thesis regulations, where cutting may mean moving material to appendices or other outputs. Conventions differ by context: some UK institutions allow a stated tolerance (often around 10%) while others treat the limit as absolute; North American courses often set page rather than word limits; some continental European programmes count characters. Learners should find the rule in their target context rather than assume one.",
       "citations": [
         "hyland2003writing",
         "sommers1980"
@@ -4984,27 +5068,34 @@
     }
   ],
   "authorNotes": [
-    "edt.editing-tools overlaps substantially with dig.automated-feedback-tools and gai.language-support. I linked edt.editing-tools to gai.how-genai-works only, so the DIG and GAI authors can make their topics depend on edt.editing-tools or edt.grammar-editing without creating cycles.",
+    "edt.editing-tools was merged into dig.automated-feedback-tools (R1-17); EDT topics point to that topic for automated tools.",
     "edt.grammar-editing overlaps with grm.error-monitoring and fbk.corrective-feedback. I treat grm.error-monitoring as a hard prerequisite and deliberately did not link to fbk.corrective-feedback, to leave the FBK author free to choose the direction.",
     "edt.criteria-self-assessment overlaps with fbk.self-peer-assessment, and edt.peer-review overlaps with it too. I avoided edges to fbk.self-peer-assessment for the same reason; one of the two self-assessment topics could perhaps be merged in a later revision.",
     "edt.proofreading-ethics overlaps with int.collusion and gai.policies; there is no skeleton topic on literacy brokering and editorial support for doctoral writers beyond pub.multilingual-scholars.",
     "No skeleton topic covers revising in response to tutor or supervisor feedback specifically (as opposed to fbk.acting-on-feedback in general or pub.responding-reviewers); a topic such as ‘revising from feedback’ would sit naturally in EDT.",
-    "ess.essay-types overlaps with the GES production topics and with ges.genre-families. Suggested division: ess.essay-types is the conceptual overview of essay purposes and is a natural prerequisite for ges.argumentative-essay, ges.discussion-essay, ges.compare-contrast-essay, ges.explanation-essay and ges.problem-solution-essay. I avoided any edge from ess.* to ges.* to keep this direction open.",
+    "ess.essay-types was merged into ges.genre-families (R1-16); the ESS topics treat essay construction across essay types and leave the typology to GES.",
     "ess.criticality overlaps with crt.description-analysis-evaluation and rdc.critical-response. I treat the CRT topic as the conceptual prerequisite and ess.criticality as its written realisation.",
     "ess.headings overlaps with grp.report-conventions and wpr.formatting. I did not link to grp.report-conventions so that the report topic may depend on ess.headings if its author wishes.",
     "ess.titles is not essay-specific (it covers reports, dissertations and articles); it might sit better in a cross-genre domain, or its scope note could be widened explicitly.",
-    "ess.answering-question overlaps with wpr.task-analysis; the distinction is that task analysis happens before writing, whereas answering the question is maintained during drafting and revision.",
+    "ess.answering-question and exm.question-analysis were merged into wpr.task-analysis (R1-13), which now covers coursework and exam tasks and maintaining relevance during drafting. Its former hard edge to ess.thesis-statement was reversed: ess.thesis-statement now depends softly on wpr.task-analysis.",
     "There is no skeleton topic for the exploratory or ‘delayed-thesis’ essay common in some humanities traditions; ess.thesis-statement notes it as a variant.",
     "par.internal-coherence overlaps heavily with coh.thematic-progression, coh.given-new and coh.lexical-cohesion. I treat the COH topics as prerequisites (resources) and par.internal-coherence as their application to paragraph construction; COH authors should avoid edges from COH topics to par.* to prevent cycles.",
     "par.integrating-evidence overlaps with src.integrating-quotations, src.voice-boundaries and syn.synthesis-paragraphs. I deliberately used sta.averral-attribution and src.signal-phrases rather than src.voice-boundaries as prerequisites so that src.voice-boundaries and syn.synthesis-paragraphs can depend on par.integrating-evidence if their authors wish.",
     "par.paragraph-unit is linked to rds.main-ideas rather than rds.paragraph-structure-reading, so that the reading author can make rds.paragraph-structure-reading depend on par.paragraph-unit or vice versa without creating a cycle through my edges.",
     "par.peel is a scaffold rather than a competence; it might sit better as a teaching note inside par.support, but it is retained because the skeleton fixes it and because many foundation programmes teach it explicitly.",
     "par.concluding-sentences has thin research support; it might be merged with par.paragraph-functions in a later revision.",
-    "wpr.task-analysis overlaps with voc.command-words and exm.question-analysis. Suggested division: voc = meanings of command words; wpr = representation of a whole coursework brief, including criteria and implicit genre requirements; exm = timed exam questions and mark allocation. The fbk.marking-criteria topic should probably not list wpr.task-analysis as a prerequisite, because edt.criteria-self-assessment already depends on fbk.marking-criteria.",
-    "wpr.reading-to-write overlaps with rdc.reading-for-writing and syn.integrated-tasks. I have made rdc.reading-for-writing a prerequisite of wpr.reading-to-write; the reading and synthesis authors should avoid the reverse edge to prevent a cycle.",
+    "wpr.task-analysis vs voc.command-words: voc covers the meanings of command words; wpr covers representing and answering a whole brief or exam question, including time allocation by marks in exams. exm.timed-writing covers pacing within an answer.",
+    "rdc.reading-for-writing was merged into wpr.reading-to-write (R1-14), which is now the single end-to-end reading-to-write procedure; syn.integrated-tasks covers timed integrated test tasks and may depend on it.",
     "wpr.managing-long-projects overlaps with res.writing-productivity and lrn.time-management. I treat res.writing-productivity as the doctoral specialisation that could depend on wpr.managing-long-projects, not the reverse.",
     "wpr.formatting's scope (headings, page layout, templates) overlaps with dig.word-processing (tool use) and ess.headings (rhetorical use of headings). I link wpr.formatting -> dig.word-processing (soft); the digital-literacy author should avoid the reverse edge.",
     "wpr.l1-in-composing overlaps with dig.machine-translation and idn.plurilingual-repertoire. I deliberately did not make it depend on dig.machine-translation, so dig.machine-translation may depend on wpr.l1-in-composing if its author wishes.",
-    "No skeleton topic covers dictation or speech-to-text drafting and other assistive composing technologies; this could sit in DIG or here."
+    "Dictation, speech-to-text and other assistive composing technologies are now covered by dig.assistive-technology; EDT and WPR guidance points to it where it changes how a skill is shown."
+  ],
+  "proposedReferences": [
+    {
+      "key": "kobayashirinnert1992",
+      "apa": "Kobayashi, H., & Rinnert, C. (1992). Effects of first language on second language writing: Translation versus direct composition. *Language Learning, 42*(2), 183–215.",
+      "note": "Recommended by reviewer R5-06 to support the mixed-evidence claim in wpr.l1-in-composing. Existence, authors, title and pages confirmed by web search during revision; one bibliographic record gives 1991 and issue 1, so year and issue should be checked, and no DOI is given because none was confirmed against the publisher record."
+    }
   ]
 }

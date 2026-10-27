@@ -1,0 +1,974 @@
+[
+  {
+    "id": "R6-01",
+    "severity": "major",
+    "category": "coverage",
+    "topicIds": [
+      "res.research-proposal",
+      "pub.viva",
+      "res.thesis-macrostructure",
+      "int.recycling-own-work"
+    ],
+    "finding": "The doctoral trajectory has gaps at its assessed milestones. Nothing covers (a) the confirmation, upgrade or annual progression review (a written report plus a panel conversation, often the first formal assessment of a PGR's writing and oral defence of a design); (b) what happens after the viva: reading examiners' reports, producing a corrections table or response document, negotiating corrections with the internal examiner, and language-related corrections (many regulations judge the thesis's 'presentation'); (c) turning thesis chapters into articles and vice versa (re-scoping, compressing, re-framing for a journal readership, text-recycling and copyright or permission rules when published papers go into a thesis). Experienced PGR provision treats all three as core. res.research-proposal mentions confirmation reports only in passing, and pub.viva stops at the oral.",
+    "recommendation": "Add three PGR topics, linked as follows: res.progression-review after res.research-proposal; pub.thesis-corrections after pub.viva and pub.responding-reviewers; pub.thesis-to-article after res.thesis-macrostructure, pub.journal-selection and int.recycling-own-work.",
+    "proposedChanges": [
+      {
+        "kind": "add-topic",
+        "id": "res.progression-review",
+        "domainCode": "RES",
+        "name": "Confirmation, upgrade and progression reviews",
+        "type": "GENRE",
+        "scope": "Write the progression or confirmation report expected at doctoral milestones (progress to date, revised questions and design, preliminary findings, a plan and timeline, and identified risks and training needs) and discuss it with a review panel. Reviewers judge feasibility, coherence and the candidate's ability to defend choices orally. Local regulations, outcomes and timings vary widely."
+      },
+      {
+        "kind": "add-topic",
+        "id": "pub.thesis-corrections",
+        "domainCode": "PUB",
+        "name": "Examiners' reports and thesis corrections",
+        "type": "GENRE",
+        "scope": "Interpret examiners' reports and viva outcomes (for example minor or major corrections, or revise and resubmit), turn them into a corrections plan, and produce the response document or corrections table that maps each required change to its location. Recognise and fix language-related corrections. Communicate with the examiner who approves the corrections, and meet the regulatory deadlines."
+      },
+      {
+        "kind": "add-topic",
+        "id": "pub.thesis-to-article",
+        "domainCode": "PUB",
+        "name": "From thesis to articles",
+        "type": "PROCEDURAL",
+        "scope": "Turn thesis chapters into journal articles, or integrate published papers into a thesis. This means re-scoping the argument for a journal's readership, compressing literature and methods, rewriting introductions and contributions for a stand-alone paper, and following text-recycling, co-authorship-statement and copyright or permission rules for previously published material."
+      }
+    ]
+  },
+  {
+    "id": "R6-02",
+    "severity": "major",
+    "category": "coverage",
+    "topicIds": [
+      "dhl.critical-appraisal",
+      "inf.systematic-searching",
+      "pub.publishing-process",
+      "pub.journal-selection"
+    ],
+    "finding": "Two cross-disciplinary PGR genres are absent or confined to one ESAP domain. (1) Systematic and scoping review writing appears only inside dhl.critical-appraisal, which bundles single-study appraisal for UG health students with PRISMA reporting for PGR; its own review note concedes these are 'distinct genres at different levels'. Systematic and scoping reviews are standard doctoral outputs in education, social policy, management, software engineering and environmental science, not only health. (2) Open research practices are absent as a writing topic: preprints, preregistration and registered reports, data availability statements, data management plans, ORCID and licences, and funder open-access and rights-retention requirements. These now generate mandatory text in submissions and grant applications. inf.open-access covers access from the reader's side only.",
+    "recommendation": "Add res.systematic-review-writing (protocol registration, PRISMA 2020 or PRISMA-ScR reporting, risk-of-bias and certainty language, narrative synthesis). Narrow dhl.critical-appraisal to appraisal of single studies, with the new topic as its PGR successor. Add pub.open-research as a PUB topic.",
+    "proposedChanges": [
+      {
+        "kind": "add-topic",
+        "id": "res.systematic-review-writing",
+        "domainCode": "RES",
+        "name": "Writing systematic and scoping reviews",
+        "type": "GENRE",
+        "scope": "Write the protocol and report of a systematic, scoping or other structured review in any discipline. This covers registering or publishing a protocol, reporting search and selection transparently with the relevant reporting guideline (for example PRISMA 2020 or PRISMA-ScR) and a flow diagram, describing risk-of-bias or quality appraisal, writing narrative or quantitative synthesis, and calibrating conclusions to the certainty of the evidence."
+      },
+      {
+        "kind": "add-topic",
+        "id": "pub.open-research",
+        "domainCode": "PUB",
+        "name": "Open research practices and statements",
+        "type": "PROCEDURAL",
+        "scope": "Understand and write the texts that open-research practices require: preprints and their versioning, preregistration and registered reports, data and code availability statements, data management plans, licence choices, ORCID and persistent identifiers, and statements that meet funder and institutional open-access and rights-retention requirements. Disciplinary norms and policies vary and change."
+      },
+      {
+        "kind": "other",
+        "detail": "Retitle dhl.critical-appraisal 'Critical appraisal of health research' and remove the PRISMA-reporting mastery evidence (masteryEvidence[4]) and the second guidance activity, moving them to res.systematic-review-writing. Add a soft edge dhl.critical-appraisal -> res.systematic-review-writing."
+      }
+    ]
+  },
+  {
+    "id": "R6-03",
+    "severity": "major",
+    "category": "coverage",
+    "topicIds": [
+      "dlw.legal-essays",
+      "dlw.problem-questions",
+      "dad.design-rationale",
+      "dad.artist-statement",
+      "dbe.business-case-analysis"
+    ],
+    "finding": "The ESAP strand stops at PGT for law, business and creative arts: no DLW, DBE or DAD topic is tagged pgr. Experts co-teaching with these faculties would expect at least: (a) law, oral legal argument (mooting and advocacy exercises are assessed on most LLB programmes and many LLMs), and legal research and dissertation writing (doctrinal, socio-legal and comparative method; the doctrinal thesis is not organised by IMRaD, and nothing in RES addresses doctrinal method); (b) creative arts, the practice-based or practice-led doctorate and MA, where an artefact or portfolio is examined with an exegesis or critical commentary. This is a distinct genre with its own debates about how practice and text relate, and dad.artist-statement and dad.design-rationale do not cover it.",
+    "recommendation": "Add the three topics below. Tag them pgt and pgr, and pre-sessional or UG where noted.",
+    "proposedChanges": [
+      {
+        "kind": "add-topic",
+        "id": "dlw.mooting",
+        "domainCode": "DLW",
+        "name": "Mooting and oral legal argument",
+        "type": "GENRE",
+        "scope": "Prepare and deliver oral legal submissions in moots and similar assessed advocacy exercises: building skeleton arguments, ordering grounds, citing authority orally by the conventions used in court, answering judicial interventions, conceding and distinguishing, and using forms of address and courtroom register appropriately."
+      },
+      {
+        "kind": "add-topic",
+        "id": "dlw.legal-research-writing",
+        "domainCode": "DLW",
+        "name": "Legal research and dissertation writing",
+        "type": "PROCEDURAL",
+        "scope": "Plan and write an LLM or doctoral law dissertation. This means choosing and justifying a method (doctrinal, socio-legal, comparative, theoretical), building a research question from the state of the law rather than from an empirical gap, structuring a doctrinal argument across chapters, and handling primary and secondary authority and OSCOLA referencing at length."
+      },
+      {
+        "kind": "add-topic",
+        "id": "dad.practice-research-exegesis",
+        "domainCode": "DAD",
+        "name": "Practice-based research and exegesis",
+        "type": "GENRE",
+        "scope": "Write the exegesis or critical commentary that accompanies practice-based or practice-led research in art, design and performance. It situates the practice in its field, articulates research questions and method through practice, documents the process, and argues the contribution of the work and text together, following the institution's rules on how practice and writing are weighted."
+      }
+    ]
+  },
+  {
+    "id": "R6-04",
+    "severity": "major",
+    "category": "coverage",
+    "topicIds": [
+      "prs.research-presentations",
+      "res.supervision",
+      "fbk.self-peer-assessment"
+    ],
+    "finding": "Graduate teaching assistants and demonstrators are not covered. Many international PGRs teach seminars, run labs and mark undergraduate work in English. Institutional ESAP and PGR provision commonly includes classroom language, explaining and questioning, and giving written feedback to students. No topic addresses the PGR as teacher or marker.",
+    "recommendation": "Add a PGR topic on teaching and demonstrating communication. It could sit under SEM or RES; RES is proposed so that it appears on the PGR pathway.",
+    "proposedChanges": [
+      {
+        "kind": "add-topic",
+        "id": "res.teaching-as-pgr",
+        "domainCode": "RES",
+        "name": "Teaching, demonstrating and marking as a doctoral researcher",
+        "type": "SOCIOPRAGMATIC",
+        "scope": "Communicate as a graduate teaching assistant or demonstrator: explaining concepts and procedures to undergraduates, asking and handling questions, managing small-group discussion and lab safety talk, and writing clear, criterion-referenced feedback on student work within the module's marking guidance."
+      }
+    ]
+  },
+  {
+    "id": "R6-05",
+    "severity": "major",
+    "category": "assessment",
+    "topicIds": [
+      "tst.test-formats",
+      "tst.integrated-test-tasks"
+    ],
+    "finding": "Test-format descriptions are anchored in a dated model. tst.test-formats lists 'independent and integrated writing' as a generic format. tst.integrated-test-tasks takes 'a talk that challenges a reading' as its prototype, which is the legacy TOEFL iBT integrated writing task. TOEFL iBT replaced its independent essay in 2023, and ETS announced a further redesign from January 2026 with new task types, adaptive sections and a CEFR-aligned score scale (verify the current task list with ETS). Other tests have added integrated tasks (for example, group-discussion summary tasks). So whether 'integrated tasks' exist, and what they look like, depends on which test the learner takes and when. The topics avoid naming tests, which is right, but their generic examples now describe one test's former format. Computer-adaptive item selection, now common, is not mentioned.",
+    "recommendation": "Reword the examples generically. Add adaptive delivery. In the context notes, tell teachers to check the test owner's current task list before teaching integrated-task strategies. Keep the topic, since some major tests, in-house university tests and pre-sessional tasks still use reading- or listening-into-writing.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "tst.test-formats",
+        "file": "topics",
+        "path": "description",
+        "oldText": "lecture-style listening, independent and integrated writing, and interview-based or computer-delivered speaking)",
+        "newValue": "lecture-style listening, independent writing and, in some tests only, integrated reading- or listening-into-writing or -speaking tasks, interview-based or computer-delivered speaking, and computer-adaptive item selection)"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "tst.integrated-test-tasks",
+        "file": "topics",
+        "path": "description",
+        "oldText": "(for example, a talk that challenges a reading)",
+        "newValue": "(for example, a talk that challenges or extends a reading, or several speakers' views that must be summarised together)"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "tst.integrated-test-tasks",
+        "file": "guidance",
+        "path": "contextNotes",
+        "oldText": "Foundation and pre-sessional learners preparing for tests with integrated tasks need this directly;",
+        "newValue": "Foundation and pre-sessional learners preparing for tests that currently include integrated tasks need this directly (major tests have both added and removed integrated tasks in recent revisions, so check the test owner's current task list before teaching task-specific strategies);"
+      }
+    ]
+  },
+  {
+    "id": "R6-06",
+    "severity": "major",
+    "category": "accuracy",
+    "topicIds": [
+      "pub.viva"
+    ],
+    "finding": "The viva/defence topic oversimplifies international formats in ways that mislead preparation. (1) In the Netherlands, the Nordic countries, Germany and France, the written thesis is normally approved by a committee before the public defence. The defence therefore has a different function and risk profile from a UK viva, and failure at defence is rare. The topic presents these as parallel formats. (2) 'Nordic and Dutch public defences with an opponent' is inaccurate for the Netherlands, where several committee members act as opponents in a fixed, ceremonial time slot. (3) North American defences are described as committee defences, without the earlier proposal or prospectus defence and qualifying examinations that are the main oral hurdles there. (4) UK outcomes are reduced to minor or major corrections, omitting revise-and-resubmit and lower awards, which change how candidates prepare. (5) Online and hybrid vivas, now routine, are not mentioned. (6) Nothing covers what follows the oral (see R6-01). The mock-viva prompt (ten minutes, three questions, no follow-ups) does not reproduce the probing follow-up questions that discriminate at C1–C2.",
+    "recommendation": "Rewrite the format sentences with these distinctions and keep the advice to check local regulations. Extend ME[0] to cover post-viva processes. Strengthen the prompt with follow-up probing and navigation of the thesis.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "pub.viva",
+        "file": "topics",
+        "path": "description",
+        "oldText": "from closed UK-style vivas with internal and external examiners to public defences with an opponent in parts of continental Europe and committee defences in North America,",
+        "newValue": "from closed UK-style vivas with internal and external examiners, whose recommendation follows the oral, to public defences in much of continental Europe that take place only after a committee has approved the written thesis, often with one or more opponents, and committee defences in North America that follow earlier proposal defences or qualifying examinations,"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "pub.viva",
+        "file": "topics",
+        "path": "masteryEvidence[0]",
+        "oldText": "Describes the format, participants, procedures and possible outcomes of the viva or defence in their institution",
+        "newValue": "Describes the format (including online or hybrid arrangements), participants, procedures and possible outcomes of the viva or defence in their institution, and what happens afterwards, such as how required corrections are specified, made and approved"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "pub.viva",
+        "file": "topics",
+        "path": "assessmentPrompt",
+        "oldText": "Run a ten-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation.",
+        "newValue": "Run a 15–20-minute mock viva with three questions: one open (summarise your contribution), one challenging (why not method X?) and one about a genuine limitation. Follow each answer with at least one probing follow-up, including one that requires the candidate to find and use a specific passage in the thesis."
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "pub.viva",
+        "file": "guidance",
+        "path": "contextNotes",
+        "oldText": "Nordic and Dutch public defences with an opponent; North American committee defences;",
+        "newValue": "public defences in the Netherlands, the Nordic countries and elsewhere in continental Europe, usually held after a committee has approved the written thesis and conducted by one opponent (as in Sweden or Finland) or several committee members (as in the Netherlands); North American committee defences, preceded by proposal defences or qualifying examinations; UK outcomes that also include revise-and-resubmit or a lower award; online and hybrid vivas;"
+      }
+    ]
+  },
+  {
+    "id": "R6-07",
+    "severity": "major",
+    "category": "accuracy",
+    "topicIds": [
+      "pub.peer-review-reports"
+    ],
+    "finding": "Reviewer ethics omit the most pressing current breach for early-career reviewers: uploading a confidential manuscript to a generative AI tool to summarise, translate or polish a report. ICMJE guidance and many publishers' and funders' policies prohibit this unless confidentiality can be assured. The topic also omits that involving a co-reviewer, such as the supervisor arrangement the guidance itself recommends, requires the editor's permission and disclosure.",
+    "recommendation": "Add both to ME[4] and to the guidance summary.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "pub.peer-review-reports",
+        "file": "topics",
+        "path": "masteryEvidence[4]",
+        "oldText": "Identifies the ethical obligations of reviewers, including confidentiality and declaring competing interests",
+        "newValue": "Identifies the ethical obligations of reviewers, including confidentiality (for example not sharing the manuscript or uploading it to generative AI tools unless the journal explicitly permits this), declaring competing interests and involving co-reviewers only with the editor's permission"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "pub.peer-review-reports",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "including confidentiality and declaring competing interests.",
+        "newValue": "including confidentiality and declaring competing interests; journals and funders increasingly state that confidentiality rules out uploading manuscripts to generative AI tools."
+      }
+    ]
+  },
+  {
+    "id": "R6-08",
+    "severity": "major",
+    "category": "accuracy",
+    "topicIds": [
+      "dhl.evidence-based-practice"
+    ],
+    "finding": "Question framing is reduced to PICO. PICO suits intervention questions. Health programmes routinely teach PEO, SPIDER or PICo for qualitative and experience questions, and nursing and allied health students frequently set such questions in dissertations and literature reviews. As written, ME[1] would mark a correctly framed qualitative question as wrong. The single 'hierarchy of evidence' also omits that current practice grades certainty of evidence (for example GRADE) rather than ranking designs in a pyramid.",
+    "recommendation": "Make question framing fit the question type in the description and ME[1]. Add GRADE-type certainty to the guidance as context.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "dhl.evidence-based-practice",
+        "file": "topics",
+        "path": "description",
+        "oldText": "framing focused clinical questions (for example in PICO form)",
+        "newValue": "framing focused clinical questions with a framework suited to the question (for example PICO for intervention questions, or PEO or SPIDER for questions about experience)"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "dhl.evidence-based-practice",
+        "file": "topics",
+        "path": "masteryEvidence[1]",
+        "oldText": "Turns a clinical scenario into a focused, searchable question that names population, intervention, comparison and outcome",
+        "newValue": "Turns a clinical scenario into a focused, searchable question using a framework suited to the question type (for example PICO for an intervention question, PEO or SPIDER for a question about patient experience)"
+      }
+    ]
+  },
+  {
+    "id": "R6-09",
+    "severity": "major",
+    "category": "accuracy",
+    "topicIds": [
+      "dhl.case-reports-care-plans"
+    ],
+    "finding": "The topic bundles the medical oral case presentation (presenting complaint to plan) with the nursing care plan, which is structured by the nursing process and usually a programme-specified nursing model. These genres belong to different professions and use different structures; the topic's own review note recommends splitting them. 'Case report' also clashes with the published clinical case report, which has its own reporting guideline (CARE). As written, the care-plan half has no described structure.",
+    "recommendation": "Split the topic. Narrow the existing topic to case presentations and rename it 'Case presentations'. Add dhl.care-plans. Until the split is done, describe the nursing-process structure.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "dhl.case-reports-care-plans",
+        "file": "topics",
+        "path": "description",
+        "oldText": "and care plans that link assessed needs to goals, interventions with rationales, and evaluation",
+        "newValue": "and care plans, usually structured by the nursing process (assessment, problem identification or diagnosis, planning, implementation, evaluation) and often by a nursing model the programme specifies, that link assessed needs to goals, interventions with rationales, and evaluation"
+      },
+      {
+        "kind": "add-topic",
+        "id": "dhl.care-plans",
+        "domainCode": "DHL",
+        "name": "Care plans",
+        "type": "GENRE",
+        "scope": "Write care plans and care-planning assignments that move from holistic assessment to prioritised, person-centred problems or needs, SMART goals, evidence-based interventions with rationales and evaluation criteria, structured by the nursing process and the nursing model or documentation standard the programme specifies, with anonymisation and approved abbreviations."
+      },
+      {
+        "kind": "other",
+        "detail": "After the split, rename dhl.case-reports-care-plans to 'Case presentations' (id may stay for stability), remove care-plan content from masteryEvidence[1] and the second guidance activity, and add a reviewNote distinguishing it from published case reports (CARE guideline)."
+      }
+    ]
+  },
+  {
+    "id": "R6-10",
+    "severity": "major",
+    "category": "framework-mapping",
+    "topicIds": [
+      "grw.purposes",
+      "grw.roles-planning",
+      "grw.contribution-assessment",
+      "ess.criticality",
+      "crt.problem-solving",
+      "mmd.multimodal-literacy",
+      "res.chapter-metatext"
+    ],
+    "finding": "The Vitae RDF is a framework for researchers, yet seven links attach it to topics not tagged pgr, including foundation group-work topics (grw.purposes, grw.roles-planning, grw.contribution-assessment: D1) and foundation critical thinking (crt.problem-solving: A2 component, A3). This dilutes what a Vitae link means for users filtering the PGR pathway. Conversely, res.chapter-metatext is the only PGT/PGR-only topic with no Vitae link. On PGR topics, the Vitae links are generally apt (C1 for authorship and ethics, B2 and C2 for writing productivity, D3 for engagement, B3 for CVs, A3 'argument construction' for contribution and gap). A1, whose descriptors include academic literacy and languages, is a defensible default anchor for PGR language topics. A3 is under-used (three links) given that it includes argument construction.",
+    "recommendation": "Remove the seven non-PGR Vitae links, or tag those topics pgr if they are genuinely intended for doctoral provision. Add D2 to res.chapter-metatext. Consider A3 for arg.extended-argument (PUTR).",
+    "proposedChanges": [
+      {
+        "kind": "framework-remove",
+        "topicId": "grw.purposes",
+        "key": "vitae-rdf:D1"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "grw.roles-planning",
+        "key": "vitae-rdf:D1"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "grw.contribution-assessment",
+        "key": "vitae-rdf:D1"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "ess.criticality",
+        "key": "vitae-rdf:A2"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "crt.problem-solving",
+        "key": "vitae-rdf:A2"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "crt.problem-solving",
+        "key": "vitae-rdf:A3"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "mmd.multimodal-literacy",
+        "key": "vitae-rdf:D2"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.chapter-metatext",
+        "key": "vitae-rdf:D2",
+        "levels": [],
+        "contribution": "related"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "arg.extended-argument",
+        "key": "vitae-rdf:A3",
+        "levels": [],
+        "contribution": "related"
+      }
+    ]
+  },
+  {
+    "id": "R6-11",
+    "severity": "major",
+    "category": "framework-mapping",
+    "topicIds": [
+      "dat.data-commentary",
+      "sen.clarity-end-weight",
+      "sta.claim-calibration",
+      "phr.bundles-research-oriented",
+      "phr.spoken-academic-formulas",
+      "tst.test-formats"
+    ],
+    "finding": "IELTS criterion links (97 in all) are partly decorative and in one case contradict the topic. dat.data-commentary's description says data commentary 'differs from description-only tasks such as IELTS Writing Task 1', yet it links to ielts:wr1.task-achievement. sen.clarity-end-weight is linked to IELTS although it has no foundation or pre-sessional stage. 27 links sit on topics tagged pgr, several at B2–C2 (sta.claim-calibration -> Task 2 Task Response; phr.bundles-research-oriented -> Lexical Resource), where IELTS performance is irrelevant. Coverage is also uneven: the Writing Lexical Resource and Grammatical Range and Accuracy criteria carry 33 links, while their Speaking counterparts carry none, although spoken-formula and spoken-stance topics exist. Because IELTS is the only test framework, the links privilege one test; tst.test-formats links three IELTS components, which implies the topic is IELTS-specific.",
+    "recommendation": "Adopt a rule: link IELTS criteria only from topics tagged foundation or pre-sessional whose primary use includes test preparation or transition, and never from topics whose content contrasts with the test task. Apply the removals below. Add the Speaking Lexical Resource link where spoken lexis is taught. In the frameworks note, state that IELTS is included as a reference criterion set, not as a preferred test.",
+    "proposedChanges": [
+      {
+        "kind": "framework-remove",
+        "topicId": "dat.data-commentary",
+        "key": "ielts:wr1.task-achievement"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "sen.clarity-end-weight",
+        "key": "ielts:wr.coherence-cohesion"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "sta.claim-calibration",
+        "key": "ielts:wr2.task-response"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "phr.bundles-research-oriented",
+        "key": "ielts:wr.lexical-resource"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "phr.spoken-academic-formulas",
+        "key": "ielts:sp.lexical-resource",
+        "levels": [],
+        "contribution": "related"
+      },
+      {
+        "kind": "other",
+        "detail": "Audit the remaining 23 IELTS links on pgr-tagged topics against the rule above, and add a sentence to frameworks.json 'note' that IELTS criteria are included as a reference set and that links do not endorse any test."
+      }
+    ]
+  },
+  {
+    "id": "R6-12",
+    "severity": "major",
+    "category": "framework-mapping",
+    "topicIds": [
+      "ges.reflective-writing",
+      "dhl.reflective-practice",
+      "lrn.reflective-logs"
+    ],
+    "finding": "Reflective genres are mapped to 'Reports and essays' (ges.reflective-writing: related only; dhl.reflective-practice: component plus 'Overall written production'), and lrn.reflective-logs has no link. Meanwhile 'Creative writing' and 'Sustained monologue: describing experience' have no links in the whole dataset. Despite its name, the CEFR 'Creative writing' scale is where written accounts of experiences, feelings and reactions are described at B1–B2, which is the recount stage of reflective writing. 'Describing experience' is the spoken counterpart, relevant to oral reflection and to crit presentations.",
+    "recommendation": "Link the reflective topics to prod.writ.creative, as a component for the recount stage, while keeping 'Reports and essays' for the analytic stage where present. Add a short note in the frameworks documentation explaining why a 'creative writing' scale is linked to reflective genres.",
+    "proposedChanges": [
+      {
+        "kind": "framework-add",
+        "topicId": "ges.reflective-writing",
+        "key": "cefr-cv:prod.writ.creative",
+        "levels": [
+          "B1",
+          "B2"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "dhl.reflective-practice",
+        "key": "cefr-cv:prod.writ.overall"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "dhl.reflective-practice",
+        "key": "cefr-cv:prod.writ.creative",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "lrn.reflective-logs",
+        "key": "cefr-cv:prod.writ.creative",
+        "levels": [
+          "B1",
+          "B2"
+        ],
+        "contribution": "related"
+      }
+    ]
+  },
+  {
+    "id": "R6-13",
+    "severity": "minor",
+    "category": "framework-mapping",
+    "topicIds": [
+      "cit.author-date-in-text",
+      "src.integrating-quotations",
+      "crt.description-analysis-evaluation"
+    ],
+    "finding": "'Reports and essays' is the default CEFR link: 90 of 1018 links (9%), nearly twice the next scale. It is attached to topics where a more specific scale exists or where the link is decorative, for example cit.author-date-in-text (related), src.integrating-quotations (its only link, although 'Processing text' or 'Relaying specific information' fit source integration better) and crt.description-analysis-evaluation. Meanwhile, the more specific scales 'Reading correspondence', 'Overall oral interaction' and 'Overall written interaction' have no links. Reading decision letters, reviewer reports and supervisor comments (pub.publishing-process, pub.responding-reviewers, res.supervision) is exactly the kind of activity 'Reading correspondence' covers.",
+    "recommendation": "Remove decorative 'Reports and essays' links. Prefer the mediation scales for source handling. Consider rec.read.correspondence for topics about interpreting decision letters and written feedback, in place of a weaker existing link.",
+    "proposedChanges": [
+      {
+        "kind": "framework-remove",
+        "topicId": "cit.author-date-in-text",
+        "key": "cefr-cv:prod.writ.reports-essays"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "src.integrating-quotations",
+        "key": "cefr-cv:med.text.relaying-information",
+        "levels": [
+          "B2"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "other",
+        "detail": "For pub.publishing-process, consider replacing acrl:authority (component) with cefr-cv:rec.read.correspondence [C1] (component), since ME[2] and the prompt centre on interpreting a decision letter."
+      }
+    ]
+  },
+  {
+    "id": "R6-14",
+    "severity": "minor",
+    "category": "framework-mapping",
+    "topicIds": [
+      "res.abstracts",
+      "dat.captions-labelling",
+      "dhl.case-reports-care-plans",
+      "dhu.interpretive-argument"
+    ],
+    "finding": "There are obvious mismatches or omissions on individual topics. res.abstracts links only 'Streamlining a text' (at C1/C2, above the topic's C1 ceiling), although the CEFR summarising scale is 'Processing text'. dat.captions-labelling's only link is acrl:value; 'Explaining data' is the natural home. dhl.case-reports-care-plans links only oral and relaying scales, although care plans are written. dhu.interpretive-argument makes 'Analysis and criticism of creative texts' its core link; that fits literary interpretation but not the historical and documentary interpretation the topic also covers, where 'Reports and essays' should be core. Note-taking and data-commentary mappings, by contrast, are sound: all ntk.* topics link 'Note-taking (lectures, seminars, meetings, etc.)', and dat.*, res.results and prs.explaining-visuals link 'Explaining data'.",
+    "recommendation": "Apply the link changes below.",
+    "proposedChanges": [
+      {
+        "kind": "framework-remove",
+        "topicId": "res.abstracts",
+        "key": "cefr-cv:med.strat.streamlining-text"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.abstracts",
+        "key": "cefr-cv:med.text.processing-text",
+        "levels": [
+          "C1"
+        ],
+        "contribution": "core"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.abstracts",
+        "key": "cefr-cv:med.strat.streamlining-text",
+        "levels": [
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "dat.captions-labelling",
+        "key": "cefr-cv:med.text.explaining-data",
+        "levels": [
+          "B2"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "dhl.case-reports-care-plans",
+        "key": "cefr-cv:prod.writ.reports-essays",
+        "levels": [
+          "B2",
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "dhu.interpretive-argument",
+        "key": "cefr-cv:med.text.analysis-creative"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "dhu.interpretive-argument",
+        "key": "cefr-cv:prod.writ.reports-essays"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "dhu.interpretive-argument",
+        "key": "cefr-cv:prod.writ.reports-essays",
+        "levels": [
+          "C1",
+          "C2"
+        ],
+        "contribution": "core"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "dhu.interpretive-argument",
+        "key": "cefr-cv:med.text.analysis-creative",
+        "levels": [
+          "C1",
+          "C2"
+        ],
+        "contribution": "component"
+      }
+    ]
+  },
+  {
+    "id": "R6-15",
+    "severity": "minor",
+    "category": "stage-level",
+    "topicIds": [
+      "res.thesis-macrostructure",
+      "res.chapter-metatext",
+      "res.qualitative-reporting",
+      "res.gap-niche",
+      "pub.journal-selection"
+    ],
+    "finding": "On several RES topics, link levels exceed the topic's CEFR range. Each of these topics ends at C1, but links claim C1/C2: res.thesis-macrostructure (thematic development), res.chapter-metatext (coherence and cohesion; thematic development), res.qualitative-reporting (thematic development) and res.gap-niche (reports and essays). Either the range or the link is wrong. C1 is the realistic band for successful L2 doctoral writing, so trimming the links is preferable to raising the ranges. pub.journal-selection has a degenerate range, C1–C1, which is inconsistent with the parallel pub.cover-letters (B2+–C1).",
+    "recommendation": "Trim these links to C1, and set pub.journal-selection to B2+–C1.",
+    "proposedChanges": [
+      {
+        "kind": "framework-remove",
+        "topicId": "res.thesis-macrostructure",
+        "key": "cefr-cv:prag.thematic-development"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.thesis-macrostructure",
+        "key": "cefr-cv:prag.thematic-development",
+        "levels": [
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "res.chapter-metatext",
+        "key": "cefr-cv:prag.coherence-cohesion"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.chapter-metatext",
+        "key": "cefr-cv:prag.coherence-cohesion",
+        "levels": [
+          "C1"
+        ],
+        "contribution": "core"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "res.chapter-metatext",
+        "key": "cefr-cv:prag.thematic-development"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.chapter-metatext",
+        "key": "cefr-cv:prag.thematic-development",
+        "levels": [
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "res.qualitative-reporting",
+        "key": "cefr-cv:prag.thematic-development"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.qualitative-reporting",
+        "key": "cefr-cv:prag.thematic-development",
+        "levels": [
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "framework-remove",
+        "topicId": "res.gap-niche",
+        "key": "cefr-cv:prod.writ.reports-essays"
+      },
+      {
+        "kind": "framework-add",
+        "topicId": "res.gap-niche",
+        "key": "cefr-cv:prod.writ.reports-essays",
+        "levels": [
+          "C1"
+        ],
+        "contribution": "component"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "pub.journal-selection",
+        "cefrStart": "B2+",
+        "cefrEnd": "C1"
+      }
+    ]
+  },
+  {
+    "id": "R6-16",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "res.introductions-cars"
+    ],
+    "finding": "The CARS description conflates Swales's 1990 and 2004 models. It lists the 1990 Move 1 steps (claiming centrality, generalising, reviewing previous research) and the 1990 Move 3 label ('occupying' the niche), while the guidance cites Swales (2004). The 2004 revision drops the centrality step, makes citation pervasive across topic generalisations of increasing specificity, recasts Move 2 as indicating a gap or adding to what is known, and renames Move 3 'presenting the present work', with a longer list of optional steps. Teachers comparing the dataset with either source will find a mismatch.",
+    "recommendation": "Name both versions explicitly.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "res.introductions-cars",
+        "file": "topics",
+        "path": "description",
+        "oldText": "establishing a territory (claiming centrality, generalising, reviewing previous research), establishing a niche, and occupying it by announcing the present research, its questions, and optionally its findings, value and structure.",
+        "newValue": "establishing a territory (in Swales's 1990 model by claiming centrality, making topic generalisations and reviewing previous research; in the 2004 revision through cited topic generalisations of increasing specificity), establishing a niche (indicating a gap or adding to what is known), and presenting the present work (the 1990 'occupying the niche'), by announcing the research and its questions and, optionally, its methods, findings, value and structure."
+      }
+    ]
+  },
+  {
+    "id": "R6-17",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "pub.authorship"
+    ],
+    "finding": "The authorship topic is broadly accurate, with two imprecisions. (1) Under ICMJE, acquisition of data can satisfy criterion 1. ICMJE also says that contributors who meet criterion 1 should be given the opportunity to meet criteria 2–4. The diagnostic's 'strong response' (data collection 'usually warrants acknowledgement') is therefore right only if that opportunity is not taken up, and it omits the point. (2) The description presents CRediT alongside eligibility criteria without saying that CRediT records roles but does not determine who qualifies as an author, a common confusion when journals require CRediT statements. ICMJE is also a biomedical standard; the context note mentions field variation, but the description should not imply ICMJE is general.",
+    "recommendation": "Apply the edits below.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "pub.authorship",
+        "file": "topics",
+        "path": "description",
+        "oldText": "and how contributions are described with contributor-role taxonomies such as CRediT,",
+        "newValue": "and how contributions are described with contributor-role taxonomies such as CRediT (which record who did what but do not by themselves decide who qualifies as an author),"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "pub.authorship",
+        "file": "guidance",
+        "path": "diagnostic.strongResponse",
+        "oldText": "Applies all the criteria and explains that data collection alone usually warrants acknowledgement rather than authorship under ICMJE, while noting field variation.",
+        "newValue": "Applies all four ICMJE criteria: notes that data acquisition can satisfy the first, so the person is acknowledged unless they are also given, and take up, the opportunity to draft or critically revise, approve the final version and accept accountability; and notes that ICMJE was written for medical journals and that other fields follow other norms."
+      }
+    ]
+  },
+  {
+    "id": "R6-18",
+    "severity": "minor",
+    "category": "assessment",
+    "topicIds": [
+      "tst.cefr-entry"
+    ],
+    "finding": "UK visa framing is mostly well hedged, but the guidance gives an incomplete rule as if it were the rule. It omits: the B1 requirement below degree level; that a provider's own assessment is available only to higher education providers with a track record of compliance, and only for degree-level study; nationality and prior-qualification exemptions; and that the approved-test (SELT) arrangements themselves have been reformed before and are subject to announced change. ME[3] makes the UK route the reference case for an internationally used dataset. The topic rightly avoids score-to-CEFR concordances, and tst.cefr-entry correctly treats test-owner alignments as claims.",
+    "recommendation": "Rewrite the UK sentence with 'at the time of writing' and the missing conditions, and generalise ME[3]. Keep the dated reference, and review it at every release.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "tst.cefr-entry",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "As a UK example, the Student route requires English at CEFR B2 for degree-level study, shown through an approved test or, in some cases, the sponsoring provider's own assessment (UK Visas and Immigration, 2025); these rules change and must be checked at source.",
+        "newValue": "As a UK example, at the time of writing the Student route requires English at CEFR B2 for degree-level study (B1 below degree level), shown through a Home Office-approved secure English language test or, for degree-level study at higher education providers with a track record of compliance, the provider's own assessment, with some nationality and qualification exemptions (UK Visas and Immigration, 2025). Both the requirements and the approved-test arrangements change, so they must be checked at source and visa questions referred to qualified advisers."
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "tst.cefr-entry",
+        "file": "topics",
+        "path": "masteryEvidence[3]",
+        "oldText": "using the UK Student route as an example",
+        "newValue": "using a relevant national student-visa route (for example the UK Student route) as an example"
+      }
+    ]
+  },
+  {
+    "id": "R6-19",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "dhl.reflective-practice",
+      "ges.reflective-writing"
+    ],
+    "finding": "Reflective-model attributions and one safety point need tightening. 'What? So what? Now what?' is attributed solely to Rolfe et al. (2001). The questions originate with Borton and were developed by Driscoll before Rolfe et al.'s framework. ges.reflective-writing calls the 4Rs 'Ryan's' scaffold; Ryan adapted it from Bain and colleagues. More substantively, health students are told to anonymise but not why it matters beyond confidentiality. Since the Bawa-Garba case, UK health regulators' joint guidance has advised that reflective accounts focus on learning rather than on a detailed factual record, because such accounts can be requested in legal proceedings. Experienced health EAP practitioners teach this explicitly.",
+    "recommendation": "Correct the attributions and add the regulatory point to the context notes.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "dhl.reflective-practice",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Rolfe et al.'s (2001) What? So what? Now what? framework",
+        "newValue": "the What? So what? Now what? questions (originating with Borton and developed by Driscoll and by Rolfe et al., 2001)"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "dhl.reflective-practice",
+        "file": "guidance",
+        "path": "contextNotes",
+        "oldText": "UG nursing, midwifery and allied health students write reflections from the first placement onwards.",
+        "newValue": "UG nursing, midwifery and allied health students write reflections from the first placement onwards; teach early that, following UK regulators' joint guidance on reflective practice, reflective accounts should be anonymised and focused on learning rather than on a detailed factual record, because they are not legally privileged."
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "ges.reflective-writing",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "Applies Ryan's (2011) social semiotic account of reflective writing and its 4Rs scaffold.",
+        "newValue": "Applies Ryan's (2011) social semiotic account of reflective writing and the 4Rs scaffold she adapted from earlier work by Bain and colleagues."
+      }
+    ]
+  },
+  {
+    "id": "R6-20",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "dlw.statutes"
+    ],
+    "finding": "The description presents 'literal, golden, mischief and purposive' as the main approaches courts take to statutory interpretation. These are a textbook heuristic. UK appellate courts now describe a single contextual, purposive method, in which the traditional 'rules' survive only as aids. LLM students from civil-law systems are prone to learn the four 'rules' as a decision procedure.",
+    "recommendation": "Reframe the four approaches as the traditional heuristics alongside the modern contextual approach.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "dlw.statutes",
+        "file": "topics",
+        "path": "description",
+        "oldText": "and recognise the main approaches courts take to interpretation (literal, golden, mischief and purposive)",
+        "newValue": "and recognise both the traditional textbook approaches to interpretation (literal, golden and mischief rules) and the contextual, purposive approach that UK courts now describe as the modern method"
+      }
+    ]
+  },
+  {
+    "id": "R6-21",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "dad.artist-statement"
+    ],
+    "finding": "The description says statements are 'usually written in the present tense and the first person'. The topic explicitly includes exhibition labels and degree-show contexts, where wall labels, catalogue entries and short bios are typically in the third person and are often curatorial. Learners told that first person is the norm will misjudge label and catalogue tasks.",
+    "recommendation": "Qualify the convention.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "dad.artist-statement",
+        "file": "topics",
+        "path": "description",
+        "oldText": "usually written in the present tense and the first person",
+        "newValue": "usually written in the present tense, in the first person for statements the artist or designer authors but often in the third person for wall labels, catalogue entries and short bios"
+      }
+    ]
+  },
+  {
+    "id": "R6-22",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "res.thesis-macrostructure"
+    ],
+    "finding": "The thesis-type typology (after Paltridge 2002) is accurate, but it omits two variants a PGR adviser meets often: the retrospective PhD by published works (prior publications plus a critical commentary, often taken by staff candidates), as distinct from the prospective thesis by publication, and practice-based doctorates (artefact or portfolio plus exegesis). The professional doctorate portfolio is also absent. Separately, the hard prerequisite res.imrad -> res.thesis-macrostructure is inappropriate for topic-based, theoretical and humanities theses, which the topic itself legitimises.",
+    "recommendation": "Extend the description, and soften the dependency.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "res.thesis-macrostructure",
+        "file": "topics",
+        "path": "description",
+        "oldText": "or publication-based (compilation of articles with framing chapters)",
+        "newValue": "or publication-based (compilation of articles with framing chapters, assembled during candidature or, in some systems, retrospectively as a PhD by published works), alongside practice-based and professional-doctorate variants that combine an artefact or portfolio with an exegesis or commentary"
+      },
+      {
+        "kind": "other",
+        "detail": "In dependencies.json change the edge res.thesis-macrostructure <- res.imrad from 'hard' to 'soft'."
+      }
+    ]
+  },
+  {
+    "id": "R6-23",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "res.quantitative-reporting",
+      "res.methods",
+      "res.qualitative-reporting",
+      "dss.qualitative-writing",
+      "pub.publishing-process"
+    ],
+    "finding": "Several research-writing statements are slightly over-simplified. (a) 'exact p-values' should note the style-guide convention of p < .001 for very small values; otherwise learners copy p = .000-style outputs into exact decimals. (b) res.methods refers to 'reporting guidelines' without naming the families that ESAP teachers will meet: CONSORT, STROBE, COREQ and SRQR, collected by the EQUATOR Network. (c) The qualitative topics anchor thematic analysis in Braun and Clarke (2006); the authors' later reflexive TA work (2019, 2021) is what examiners and reviewers now invoke, especially against 'themes emerged' and inter-rater coding in reflexive designs. (d) The publishing-process topic lists single, double and open review but not transparent review, registered reports, or review of preprints, which PGRs increasingly encounter.",
+    "recommendation": "Apply the text edits below and add the later Braun and Clarke references to the bibliography.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "res.quantitative-reporting",
+        "file": "topics",
+        "path": "description",
+        "oldText": "exact p-values",
+        "newValue": "exact p-values (reported as p < .001 when very small)"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "res.methods",
+        "file": "topics",
+        "path": "description",
+        "oldText": "so writers calibrate against field exemplars and reporting guidelines.",
+        "newValue": "so writers calibrate against field exemplars and reporting guidelines (for example CONSORT, STROBE, COREQ or SRQR, collected by the EQUATOR Network)."
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "pub.publishing-process",
+        "file": "topics",
+        "path": "description",
+        "oldText": "peer review (single-anonymous, double-anonymous, open)",
+        "newValue": "peer review (single-anonymous, double-anonymous, open or transparent, and models such as registered reports and review of preprints)"
+      },
+      {
+        "kind": "other",
+        "detail": "Add Braun & Clarke (2019, 'Reflecting on reflexive thematic analysis', Qualitative Research in Sport, Exercise and Health) and/or Braun & Clarke (2021, Thematic analysis: A practical guide, SAGE) to references.json, after verifying them, and cite them in the guidance for res.qualitative-reporting and dss.qualitative-writing alongside braunclarke2006."
+      }
+    ]
+  },
+  {
+    "id": "R6-24",
+    "severity": "minor",
+    "category": "evidence-prompt",
+    "topicIds": [
+      "res.positionality-writing",
+      "res.writing-productivity"
+    ],
+    "finding": "Mastery evidence in the PGR domains is generally observable and discriminating: most items name a product, such as an annotated draft, a chapter plan, a response matrix or a contributor statement, together with a quality condition. Two items are not observable as written. res.positionality-writing ME[2] ('confidently and appropriately') names an attitude, not a textual feature. res.writing-productivity ME[2] ('uses at least one social structure') records attendance, not competence, and the diagnostic for that topic relies on self-report.",
+    "recommendation": "Rewrite the two items in terms of textual or behavioural evidence.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "res.positionality-writing",
+        "file": "topics",
+        "path": "masteryEvidence[2]",
+        "oldText": "Uses first-person reference confidently and appropriately to the field",
+        "newValue": "Uses first-person reference where the field's exemplars do, consistently across reflexive passages, without retreating into third-person self-reference ('the researcher')"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "res.writing-productivity",
+        "file": "topics",
+        "path": "masteryEvidence[2]",
+        "oldText": "Uses at least one social structure for writing, such as a writing group, retreat or accountability partner",
+        "newValue": "Uses at least one social structure for writing, such as a writing group, retreat or accountability partner, and can show from their writing log what it changed in their output"
+      }
+    ]
+  },
+  {
+    "id": "R6-25",
+    "severity": "minor",
+    "category": "coverage",
+    "topicIds": [
+      "tst.assessment-purposes",
+      "tst.test-formats",
+      "tst.cefr-entry"
+    ],
+    "finding": "Assessment coverage omits practical score-use issues that pre-sessional and admissions teams handle daily: reading score reports (overall and component scores, single-skill retakes, combining sittings), score validity periods, at-home or remote-proctored versions and whether they are accepted, and integrity rules in high-stakes testing.",
+    "recommendation": "Add a short TST topic, framed generically and directing learners to official sources.",
+    "proposedChanges": [
+      {
+        "kind": "add-topic",
+        "id": "tst.score-reports",
+        "domainCode": "TST",
+        "name": "Score reports, validity and test choice",
+        "type": "CONCEPTUAL",
+        "scope": "Read a proficiency-test score report (overall and component scores, single-skill retakes or combined sittings where a test allows them) and judge whether it meets a requirement, taking into account score validity periods, the delivery modes (test centre, computer-based, at home) that institutions or visa authorities accept, and the integrity rules that govern high-stakes tests. Check every rule against current official sources."
+      }
+    ]
+  },
+  {
+    "id": "R6-26",
+    "severity": "minor",
+    "category": "accuracy",
+    "topicIds": [
+      "ges.genre-families"
+    ],
+    "finding": "The list of Gardner and Nesi families in the description omits Empathy Writing, one of the 13 families, while the guidance cites the full classification of thirteen families.",
+    "recommendation": "Add Empathy Writing to the list.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "ges.genre-families",
+        "file": "topics",
+        "path": "description",
+        "oldText": "and narrative or reflective recounts)",
+        "newValue": "narrative or reflective recounts, and empathy writing for non-specialist or professional readers)"
+      }
+    ]
+  }
+]

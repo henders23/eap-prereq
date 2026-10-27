@@ -1,0 +1,1061 @@
+[
+  {
+    "id": "R3-01",
+    "severity": "critical",
+    "category": "hub",
+    "topicIds": [
+      "acu.university-structures",
+      "acu.teaching-formats",
+      "grm.clause-elements",
+      "voc.high-frequency-base",
+      "voc.word-families-morphology"
+    ],
+    "finding": "The derived metrics in topics.json (downstreamCount, depth, centrality) treat soft edges as equivalent to hard ones and compose them transitively. Of 20,047 transitive dependency pairs, only 1,614 (8%) exist through hard edges; 92% are chains of \"usually taught first\" hints. This produces implausible hubs: acu.university-structures (downstream 368, centrality 0.55, #2) and acu.teaching-formats (326, 0.50, #3) have hard-only downstream reach of 3 and 0. grm.clause-elements reaches 463 of 557 topics but only 81 through hard edges. Any adaptive system that uses these fields for diagnosis (e.g. \"probe high-centrality prerequisites first\") or gating will over-weight orientation topics and let soft hints block content transitively. The validator also cannot see the level problems in R3-07/R3-08, because it only checks whether a hard prerequisite starts above the dependent's cefrEnd, which never happens.",
+    "recommendation": "Compute downstreamCount, depth and centrality on hard edges only, or publish hardDownstreamCount and hardDepth alongside them and document that soft edges are one-step ordering hints that should not be composed. Extend validate.mjs to warn when a hard prerequisite's cefrStart is above the dependent's cefrStart, and when a soft prerequisite starts two or more CEFR steps or stages later.",
+    "proposedChanges": [
+      {
+        "kind": "other",
+        "detail": "scripts/build.mjs: compute downstreamCount, depth and centrality on hard edges only (or publish hardDownstreamCount, hardDepth alongside the current values and document that the current values include soft edges). 92% of transitive dependency pairs (18,433 of 20,047) exist only through soft edges, so the current metrics mostly measure soft-edge chaining."
+      },
+      {
+        "kind": "other",
+        "detail": "scripts/validate.mjs: add a warning for hard edges whose prerequisite cefrStart is above the dependent topic's cefrStart (current check only compares against cefrEnd and never fires), and a warning for soft edges whose prerequisite starts two or more CEFR steps or stages later."
+      }
+    ]
+  },
+  {
+    "id": "R3-02",
+    "severity": "critical",
+    "category": "hub",
+    "topicIds": [
+      "rds.main-ideas",
+      "rdp.parsing-complex-sentences",
+      "rds.fact-opinion-claim",
+      "sta.hedging",
+      "grm.anticipatory-it",
+      "grm.nominalisation"
+    ],
+    "finding": "A soft-edge \"reading spine\" links B2 grammar to almost every foundation literacy topic: voc.high-frequency-base > phr.collocation-awareness > grm.prepositions > grm.np-postmodification > grm.nominalisation (B2) =H=> rdp.parsing-complex-sentences > rds.main-ideas (B1) > rds.fact-opinion-claim > arg.argument-concept > ess.essay-structure / src.* / syn.* / res.*. Removing one edge, rds.main-ideas <- rdp.parsing-complex-sentences, removes 988 transitive pairs, the largest effect of any edge. Under this spine, B1 \"identifying main ideas\" sits at depth 6, \"what counts as an argument\" at depth 8 and \"essay structure\" at depth 9, all behind B2 nominalisation. Two other high-impact edges have the same problem: sta.hedging <- grm.anticipatory-it (809 pairs; it-frame hedges are already covered by phr.bundles-stance, which hard-depends on anticipatory it) and rds.fact-opinion-claim <- sta.hedging (628 pairs). The last one gates a B1 receptive skill behind a B1+–C2 productive one; the natural order is the reverse, and sta.claim-calibration already reaches fact-opinion-claim through crt.evidence-types. The hard edge rdp.parsing-complex-sentences <- grm.nominalisation (B2, not taught at foundation) gates a foundation reading skill. It is also one of the 23 validator warnings.",
+    "recommendation": "Remove the three spine edges and soften parsing <- nominalisation. Unpacking nominalisations remains part of parsing, but the core skill of finding the main clause is supplied by the new clause-combining edges in R3-10. The two reteach targets that used removed edges (rds.main-ideas \"Copies a long sentence…\", rds.fact-opinion-claim \"Ignores hedges…\") are cleared to null by the tool; mention parsing and hedging in their response text instead.",
+    "proposedChanges": [
+      {
+        "kind": "edge-remove",
+        "topicId": "rds.main-ideas",
+        "prerequisiteId": "rdp.parsing-complex-sentences"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "rds.fact-opinion-claim",
+        "prerequisiteId": "sta.hedging"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "sta.hedging",
+        "prerequisiteId": "grm.anticipatory-it"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "rdp.parsing-complex-sentences",
+        "prerequisiteId": "grm.nominalisation",
+        "strength": "soft"
+      }
+    ]
+  },
+  {
+    "id": "R3-03",
+    "severity": "major",
+    "category": "hub",
+    "topicIds": [
+      "reg.register-awareness",
+      "acu.teaching-formats",
+      "acu.discourse-communities",
+      "acu.university-structures",
+      "wpr.audience-purpose",
+      "acu.academic-expectations",
+      "voc.command-words",
+      "voc.university-terminology",
+      "lrn.goal-setting"
+    ],
+    "finding": "The acu orientation hub creates reach through edges that are not dependencies: reg.register-awareness <- acu.teaching-formats (register theory does not need knowledge of seminar formats; any contrasting situations will do); acu.discourse-communities <- acu.university-structures (the reason itself concedes that administrative units must be \"reconceptualised\", so they are an analogy, not a prerequisite); wpr.audience-purpose <- acu.academic-expectations (audience and purpose analysis applies to any text); voc.command-words <- voc.university-terminology (the two co-occur in briefs, which is not a dependency); lrn.goal-setting <- acu.academic-expectations (goal setting is a general self-regulation process and is already hard-dependent on lrn.self-regulation). After removal, acu.university-structures falls from 368 to 226 downstream. The remainder flows through crt.concept <- acu.academic-expectations, which is kept as a defensible ordering hint that is also used well as a reteach target. This shows why R3-01, not more deletions, is the fix for residual reach.",
+    "recommendation": "Remove the five edges. The tool will clear reteach targets on reg.register-awareness, wpr.audience-purpose and voc.command-words to null; none of them had an apt alternative among the remaining prerequisites.",
+    "proposedChanges": [
+      {
+        "kind": "edge-remove",
+        "topicId": "reg.register-awareness",
+        "prerequisiteId": "acu.teaching-formats"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "acu.discourse-communities",
+        "prerequisiteId": "acu.university-structures"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "wpr.audience-purpose",
+        "prerequisiteId": "acu.academic-expectations"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "voc.command-words",
+        "prerequisiteId": "voc.university-terminology"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "lrn.goal-setting",
+        "prerequisiteId": "acu.academic-expectations"
+      }
+    ]
+  },
+  {
+    "id": "R3-04",
+    "severity": "major",
+    "category": "direction",
+    "topicIds": [
+      "sem.turn-taking",
+      "lis.multi-party-discussion",
+      "lis.speaker-stance",
+      "idn.diversity-as-resource",
+      "acu.academic-literacies",
+      "grw.contribution-assessment",
+      "grw.meetings",
+      "sem.building-on-others"
+    ],
+    "finding": "Seminar and group-work topics are over-chained through edges pitched above their dependents. sem.turn-taking (B1+, foundation) hard-depends on lis.multi-party-discussion (B2, not foundation), which hard-depends on lis.speaker-stance. This places basic floor-taking at depth 11, behind a chain that runs through acu.academic-literacies and idn.elf. grw.contribution-assessment (B1+, foundation) sits at depth 16 because of a soft edge from grw.meetings (B2). idn.diversity-as-resource (B1) depends on acu.academic-literacies (B2+, UG/PGT/PGR), a gap of three CEFR steps. Learners need to listen in multi-party talk to build on others, not to take a turn at all.",
+    "recommendation": "Remove sem.turn-taking <- lis.multi-party-discussion and attach multi-party listening to sem.building-on-others, the topic that actually needs it. Soften lis.multi-party-discussion <- lis.speaker-stance. Remove the two other above-level edges. Before removing the turn-taking edge, repoint its reteach (the difficulty \"I wait for a long enough pause to be polite…\") to prg.politeness, which fits the pattern better. sem.turn-taking falls from depth 11 to 3, and grw.contribution-assessment from 16 to 8.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "sem.turn-taking",
+        "path": "difficulties[0].reteachPrerequisiteId",
+        "oldText": "lis.multi-party-discussion",
+        "newValue": "prg.politeness"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "sem.turn-taking",
+        "prerequisiteId": "lis.multi-party-discussion"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "lis.multi-party-discussion",
+        "prerequisiteId": "lis.speaker-stance",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "idn.diversity-as-resource",
+        "prerequisiteId": "acu.academic-literacies"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "grw.contribution-assessment",
+        "prerequisiteId": "grw.meetings"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "sem.building-on-others",
+        "prerequisiteId": "lis.multi-party-discussion",
+        "strength": "soft",
+        "reason": "Linking to a peer's point depends on having tracked which participant said what and how contributions respond to one another in multi-party talk"
+      }
+    ]
+  },
+  {
+    "id": "R3-05",
+    "severity": "major",
+    "category": "direction",
+    "topicIds": [
+      "dig.word-processing",
+      "grp.report-conventions",
+      "sen.capitalisation",
+      "cit.referencing-systems",
+      "src.reporting-verbs",
+      "rds.writer-stance"
+    ],
+    "finding": "Edges that run backwards or are not dependencies: dig.word-processing (B1, a basic tool skill) <- grp.report-conventions (347 transitive pairs; motivation for using styles is not a prerequisite, and it places word processing, accessibility, reference managers and digital collaboration downstream of the essay and argument chain). sen.capitalisation (B1) <- cit.referencing-systems: capitalisation is general and is itself a soft prerequisite of cit.reference-list. src.reporting-verbs (B1+, foundation) <- rds.writer-stance (B2, not foundation): stance-sensitive verb choice is already modelled by sta.evaluating-others-language, which depends on reporting verbs. This edge lies on the 20-topic longest chain.",
+    "recommendation": "Remove all three. Reteach targets on sen.capitalisation and src.reporting-verbs are cleared to null.",
+    "proposedChanges": [
+      {
+        "kind": "edge-remove",
+        "topicId": "dig.word-processing",
+        "prerequisiteId": "grp.report-conventions"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "sen.capitalisation",
+        "prerequisiteId": "cit.referencing-systems"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "src.reporting-verbs",
+        "prerequisiteId": "rds.writer-stance"
+      }
+    ]
+  },
+  {
+    "id": "R3-06",
+    "severity": "major",
+    "category": "level-stage",
+    "topicIds": [
+      "par.topic-sentences",
+      "voc.abstract-shell-nouns",
+      "par.concluding-sentences",
+      "coh.signalling-nouns",
+      "prs.openings",
+      "sta.engagement-markers",
+      "crt.applying-theory",
+      "rdc.theoretical-texts",
+      "wpr.generating-ideas",
+      "crt.questioning"
+    ],
+    "finding": "Soft edges whose prerequisite is two or more CEFR steps or stages above the dependent turn enrichment into gating and inflate depth: par.topic-sentences (B1, FPU) <- voc.abstract-shell-nouns (B2, not foundation); par.concluding-sentences (B1, FP) <- coh.signalling-nouns (B2); prs.openings (B1+) <- sta.engagement-markers (B2+, UG/PGT/PGR only); crt.applying-theory (B1+, foundation) <- rdc.theoretical-texts (B2+, UG/PGT/PGR only). In addition, wpr.generating-ideas (B1) <- crt.questioning (B1+) puts drafting at depth 9.",
+    "recommendation": "Remove these five edges. Before removing par.topic-sentences <- voc.abstract-shell-nouns, repoint its reteach (topic sentences too broad or too narrow) to par.paragraph-unit. After all changes, four soft edges with gaps of two or more steps remain and are acceptable as enrichment hints (see R3-17).",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "par.topic-sentences",
+        "path": "difficulties[0].reteachPrerequisiteId",
+        "oldText": "voc.abstract-shell-nouns",
+        "newValue": "par.paragraph-unit"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "par.topic-sentences",
+        "prerequisiteId": "voc.abstract-shell-nouns"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "par.concluding-sentences",
+        "prerequisiteId": "coh.signalling-nouns"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "prs.openings",
+        "prerequisiteId": "sta.engagement-markers"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "crt.applying-theory",
+        "prerequisiteId": "rdc.theoretical-texts"
+      },
+      {
+        "kind": "edge-remove",
+        "topicId": "wpr.generating-ideas",
+        "prerequisiteId": "crt.questioning"
+      }
+    ]
+  },
+  {
+    "id": "R3-07",
+    "severity": "major",
+    "category": "level-stage",
+    "topicIds": [
+      "rdc.critical-response",
+      "rdc.evidence-evaluation",
+      "src.voice-boundaries",
+      "sta.averral-attribution",
+      "crt.multiple-perspectives",
+      "rds.writer-stance",
+      "ges.argumentative-essay",
+      "arg.extended-argument",
+      "arg.position",
+      "grp.lab-report",
+      "dat.data-commentary",
+      "dat.referring-to-visuals",
+      "prs.explaining-visuals",
+      "dat.describing-trends",
+      "prn.prominence",
+      "coh.given-new",
+      "dse.scientific-language",
+      "grm.nominalisation",
+      "dse.mathematical-writing",
+      "crt.reasoning-types",
+      "dhl.professional-communication",
+      "reg.non-specialist-audiences",
+      "res.conclusions-implications",
+      "res.contribution",
+      "res.research-proposal",
+      "res.literature-review",
+      "sem.debate",
+      "syn.gaps-tensions",
+      "prs.handling-questions",
+      "voc.subtechnical-polysemy"
+    ],
+    "finding": "All 23 validator warnings (hard prerequisite first taught at a later stage) are real sequencing errors. A stage-filtered pathway would offer the dependent at a stage where its prerequisite is not taught. They fall into three groups. Over-strong edges: rdc.critical-response <- rdc.evidence-evaluation; src.voice-boundaries <- sta.averral-attribution; crt.multiple-perspectives <- rds.writer-stance; ges.argumentative-essay <- arg.extended-argument; grp.lab-report and prs.explaining-visuals <- dat.data-commentary; prn.prominence <- coh.given-new; dse.scientific-language and rdp.parsing-complex-sentences <- grm.nominalisation; dse.mathematical-writing <- crt.reasoning-types; dhl.professional-communication <- reg.non-specialist-audiences; res.conclusions-implications <- res.contribution; res.research-proposal <- res.literature-review. Mis-tagged prerequisites: syn.gaps-tensions has three hard dependents taught at pre-sessional; prs.handling-questions has foundation dependents and Q&A is routine in foundation presentations; voc.subtechnical-polysemy is a core foundation science and law vocabulary topic. Mis-tagged dependent: sem.debate is tagged foundation, but it starts at B2 and both of its defining prerequisites start at pre-sessional.",
+    "recommendation": "Soften the over-strong edges. Where softening would remove the only foundation-level hard support, add a hard edge to the foundation-level component that the genre actually needs: ges.argumentative-essay <- arg.position, grp.lab-report <- dat.referring-to-visuals, prs.explaining-visuals <- dat.describing-trends. Retag and re-level syn.gaps-tensions (add pre-sessional; B2–C2), prs.handling-questions (add foundation; B1+–C1) and voc.subtechnical-polysemy (add foundation; B1+–C1), and drop foundation from sem.debate. Applied together with R3-02, these leave 0 stage warnings.",
+    "proposedChanges": [
+      {
+        "kind": "edge-strength",
+        "topicId": "rdc.critical-response",
+        "prerequisiteId": "rdc.evidence-evaluation",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "src.voice-boundaries",
+        "prerequisiteId": "sta.averral-attribution",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "crt.multiple-perspectives",
+        "prerequisiteId": "rds.writer-stance",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "ges.argumentative-essay",
+        "prerequisiteId": "arg.extended-argument",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "ges.argumentative-essay",
+        "prerequisiteId": "arg.position",
+        "strength": "hard",
+        "reason": "The genre is organised around a sustained, supported position on the question; taking and defending a position is the core argumentative competence the essay assesses"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "grp.lab-report",
+        "prerequisiteId": "dat.data-commentary",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "grp.lab-report",
+        "prerequisiteId": "dat.referring-to-visuals",
+        "strength": "hard",
+        "reason": "Lab-report results present measurements in numbered tables and figures that the text must refer to and direct the reader through"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "prs.explaining-visuals",
+        "prerequisiteId": "dat.data-commentary",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "prs.explaining-visuals",
+        "prerequisiteId": "dat.describing-trends",
+        "strength": "hard",
+        "reason": "Talking an audience through a chart requires describing its pattern, magnitudes and turning points in trend language"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "prn.prominence",
+        "prerequisiteId": "coh.given-new",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "dse.scientific-language",
+        "prerequisiteId": "grm.nominalisation",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "dse.mathematical-writing",
+        "prerequisiteId": "crt.reasoning-types",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "dhl.professional-communication",
+        "prerequisiteId": "reg.non-specialist-audiences",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "res.conclusions-implications",
+        "prerequisiteId": "res.contribution",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "res.research-proposal",
+        "prerequisiteId": "res.literature-review",
+        "strength": "soft"
+      },
+      {
+        "kind": "retag-stages",
+        "topicIds": [
+          "sem.debate"
+        ],
+        "stages": [
+          "pre-sessional",
+          "in-sessional-ug"
+        ]
+      },
+      {
+        "kind": "retag-stages",
+        "topicIds": [
+          "syn.gaps-tensions"
+        ],
+        "stages": [
+          "pre-sessional",
+          "in-sessional-ug",
+          "in-sessional-pgt",
+          "pgr"
+        ]
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "syn.gaps-tensions",
+        "cefrStart": "B2",
+        "cefrEnd": "C2"
+      },
+      {
+        "kind": "retag-stages",
+        "topicIds": [
+          "prs.handling-questions"
+        ],
+        "stages": [
+          "foundation",
+          "pre-sessional",
+          "in-sessional-ug",
+          "in-sessional-pgt",
+          "pgr"
+        ]
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "prs.handling-questions",
+        "cefrStart": "B1+",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "retag-stages",
+        "topicIds": [
+          "voc.subtechnical-polysemy"
+        ],
+        "stages": [
+          "foundation",
+          "pre-sessional",
+          "in-sessional-ug",
+          "in-sessional-pgt"
+        ]
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "voc.subtechnical-polysemy",
+        "cefrStart": "B1+",
+        "cefrEnd": "C1"
+      }
+    ]
+  },
+  {
+    "id": "R3-08",
+    "severity": "major",
+    "category": "level-stage",
+    "topicIds": [
+      "grm.subject-verb-agreement",
+      "grm.np-postmodification",
+      "sen.apostrophes-hyphens-dashes",
+      "grm.np-premodification",
+      "lis.main-points",
+      "lis.relevance-markers",
+      "sem.opinions",
+      "fun.explaining",
+      "prs.structure",
+      "reg.spoken-vs-written",
+      "prs.speaking-from-notes",
+      "src.signal-phrases",
+      "grm.reporting-structures",
+      "grm.reference-pronouns",
+      "coh.spoken-signposting",
+      "prs.delivery-voice",
+      "ess.answering-question",
+      "sen.quotation-punctuation",
+      "cit.referencing-systems",
+      "crt.evidence-types",
+      "ges.discussion-essay",
+      "ges.explanation-essay",
+      "ges.problem-solution-essay",
+      "ges.short-answer",
+      "sta.evaluating-others-language",
+      "res.research-questions",
+      "pub.journal-selection",
+      "prg.politeness",
+      "prg.requests",
+      "gai.authorship-voice"
+    ],
+    "finding": "44 hard edges have a prerequisite whose cefrStart is above the dependent's cefrStart. The dependent then cannot be unlocked at its own entry level, which contradicts the topic's CEFR range. The current validator never sees this (R3-01). Examples: grm.subject-verb-agreement (B1) <- grm.np-postmodification (B1+); rds.reference-tracking (B1) <- grm.reference-pronouns (B1+); src.quoting (B1) <- sen.quotation-punctuation (B1+); cit.author-date-in-text and cit.reference-list (B1) <- cit.referencing-systems (B1+); ges.discussion-, explanation- and problem-solution-essay (B1) <- fun.* (B1+); prg.emails-to-staff (B1) <- prg.requests (B1+); pub.cover-letters (B2+) <- pub.journal-selection (C1).",
+    "recommendation": "Fix each edge by softening it where the prerequisite is enrichment, or by re-levelling one endpoint where the CEFR range was mis-set: lower basic prerequisites (pronoun reference, quotation punctuation, referencing systems, evidence types, politeness, requests, research questions, journal selection, evaluating others' language, spoken signposting) or raise composite dependents (the four B1 essay genres and short answer, answering the question, delivery and voice, AI authorship and voice). With R3-07, every hard edge then satisfies prerequisite cefrStart <= dependent cefrStart.",
+    "proposedChanges": [
+      {
+        "kind": "edge-strength",
+        "topicId": "grm.subject-verb-agreement",
+        "prerequisiteId": "grm.np-postmodification",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "sen.apostrophes-hyphens-dashes",
+        "prerequisiteId": "grm.np-premodification",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "lis.main-points",
+        "prerequisiteId": "lis.relevance-markers",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "sem.opinions",
+        "prerequisiteId": "fun.explaining",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "prs.structure",
+        "prerequisiteId": "reg.spoken-vs-written",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "prs.speaking-from-notes",
+        "prerequisiteId": "reg.spoken-vs-written",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "src.signal-phrases",
+        "prerequisiteId": "grm.reporting-structures",
+        "strength": "soft"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "grm.reference-pronouns",
+        "cefrStart": "B1",
+        "cefrEnd": "B2+"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "coh.spoken-signposting",
+        "cefrStart": "B1",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "prs.delivery-voice",
+        "cefrStart": "B1+",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "ess.answering-question",
+        "cefrStart": "B1+",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "sen.quotation-punctuation",
+        "cefrStart": "B1",
+        "cefrEnd": "B2+"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "cit.referencing-systems",
+        "cefrStart": "B1",
+        "cefrEnd": "B2+"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "crt.evidence-types",
+        "cefrStart": "B1",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "ges.discussion-essay",
+        "cefrStart": "B1+",
+        "cefrEnd": "B2+"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "ges.explanation-essay",
+        "cefrStart": "B1+",
+        "cefrEnd": "B2+"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "ges.problem-solution-essay",
+        "cefrStart": "B1+",
+        "cefrEnd": "B2+"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "ges.short-answer",
+        "cefrStart": "B1+",
+        "cefrEnd": "B2+"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "sta.evaluating-others-language",
+        "cefrStart": "B2",
+        "cefrEnd": "C2"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "res.research-questions",
+        "cefrStart": "B2",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "pub.journal-selection",
+        "cefrStart": "B2+",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "prg.politeness",
+        "cefrStart": "B1",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "prg.requests",
+        "cefrStart": "B1",
+        "cefrEnd": "C1"
+      },
+      {
+        "kind": "set-cefr",
+        "topicId": "gai.authorship-voice",
+        "cefrStart": "B2+",
+        "cefrEnd": "C2"
+      }
+    ]
+  },
+  {
+    "id": "R3-09",
+    "severity": "minor",
+    "category": "strength",
+    "topicIds": [
+      "voc.academic-verbs",
+      "voc.word-grammar-patterns",
+      "grm.np-premodification",
+      "voc.word-families-morphology",
+      "grm.conditionals",
+      "grm.epistemic-modality",
+      "grm.fronting-inversion",
+      "grm.tense-aspect",
+      "grm.linking-adverbial-placement",
+      "sen.semicolons-colons",
+      "fun.recommending",
+      "grm.complement-clauses",
+      "prs.purpose-audience",
+      "reg.register-awareness",
+      "prn.word-stress",
+      "grw.inclusive-collaboration",
+      "idn.elf",
+      "src.paraphrasing",
+      "cit.when-to-cite",
+      "ges.reflective-writing",
+      "crt.applying-theory",
+      "lrn.time-management",
+      "lrn.goal-setting"
+    ],
+    "finding": "Hard edges that are not \"cannot be learned without\". voc.academic-verbs <- voc.word-grammar-patterns: verb meaning can be learned before complementation. grm.np-premodification <- voc.word-families-morphology and prn.word-stress <- voc.word-families-morphology: only sub-cases depend on derivation. grm.conditionals <- grm.epistemic-modality: conditionals are conventionally taught first. grm.fronting-inversion <- grm.tense-aspect. grm.linking-adverbial-placement <- sen.semicolons-colons: placement does not need semicolons. fun.recommending <- grm.complement-clauses: \"should\" suffices. prs.purpose-audience <- reg.register-awareness. grw.inclusive-collaboration <- idn.elf. src.paraphrasing <- cit.when-to-cite: this is an integrity obligation, not a component of the linguistic skill. ges.reflective-writing <- crt.applying-theory: foundation reflection is often theory-light. lrn.time-management <- lrn.goal-setting. Several of these are also among the 69 hard edges already implied by a longer path (R3-16).",
+    "recommendation": "Soften all twelve.",
+    "proposedChanges": [
+      {
+        "kind": "edge-strength",
+        "topicId": "voc.academic-verbs",
+        "prerequisiteId": "voc.word-grammar-patterns",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "grm.np-premodification",
+        "prerequisiteId": "voc.word-families-morphology",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "grm.conditionals",
+        "prerequisiteId": "grm.epistemic-modality",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "grm.fronting-inversion",
+        "prerequisiteId": "grm.tense-aspect",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "grm.linking-adverbial-placement",
+        "prerequisiteId": "sen.semicolons-colons",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "fun.recommending",
+        "prerequisiteId": "grm.complement-clauses",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "prs.purpose-audience",
+        "prerequisiteId": "reg.register-awareness",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "prn.word-stress",
+        "prerequisiteId": "voc.word-families-morphology",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "grw.inclusive-collaboration",
+        "prerequisiteId": "idn.elf",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "src.paraphrasing",
+        "prerequisiteId": "cit.when-to-cite",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "ges.reflective-writing",
+        "prerequisiteId": "crt.applying-theory",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "lrn.time-management",
+        "prerequisiteId": "lrn.goal-setting",
+        "strength": "soft"
+      }
+    ]
+  },
+  {
+    "id": "R3-10",
+    "severity": "major",
+    "category": "missing-edge",
+    "topicIds": [
+      "rdp.parsing-complex-sentences",
+      "grm.subordination",
+      "grm.relative-clauses"
+    ],
+    "finding": "rdp.parsing-complex-sentences (\"find the main clause, scope and modifiers\") has only two prerequisites, noun-phrase premodification and nominalisation, and cannot reach grm.subordination or sen.sentence-types at all. Parsing a long sentence is primarily clause bracketing.",
+    "recommendation": "Add hard edges from grm.subordination and grm.relative-clauses. Both are B1 and foundation-tagged, so parsing stays teachable at foundation once its nominalisation edge is softened (R3-02).",
+    "proposedChanges": [
+      {
+        "kind": "edge-add",
+        "topicId": "rdp.parsing-complex-sentences",
+        "prerequisiteId": "grm.subordination",
+        "strength": "hard",
+        "reason": "Finding the main clause of a long sentence means bracketing adverbial and other subordinate clauses and identifying which finite verb belongs to the main clause"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "rdp.parsing-complex-sentences",
+        "prerequisiteId": "grm.relative-clauses",
+        "strength": "hard",
+        "reason": "Embedded relative clauses separate a head noun from its verb; parsing requires locating where the relative clause begins and ends"
+      }
+    ]
+  },
+  {
+    "id": "R3-11",
+    "severity": "major",
+    "category": "missing-edge",
+    "topicIds": [
+      "res.discussion",
+      "sta.claim-calibration",
+      "dat.data-commentary",
+      "res.limitations",
+      "res.methods",
+      "reg.impersonality-presence"
+    ],
+    "finding": "Research-writing topics are weakly coupled to stance. res.discussion reaches sta.claim-calibration only through res.results > dat.data-commentary, and that edge is softened in R3-07/R3-11. res.limitations, res.introductions-cars, res.gap-niche, res.methods and res.literature-review do not reach sta.claim-calibration. No res.* topic except contribution and positionality reaches sta.self-mention or reg.impersonality-presence, even though the methods section is the classic site of the passive versus \"we\" choice.",
+    "recommendation": "Add res.discussion <- sta.claim-calibration (hard), res.limitations <- sta.claim-calibration (soft) and res.methods <- reg.impersonality-presence (soft). Soften dat.data-commentary <- sta.claim-calibration, so that foundation lab and data work is not gated by a B2–C2 topic; hedging remains reachable through it.",
+    "proposedChanges": [
+      {
+        "kind": "edge-add",
+        "topicId": "res.discussion",
+        "prerequisiteId": "sta.claim-calibration",
+        "strength": "hard",
+        "reason": "Interpreting findings, comparing them with prior work and proposing explanations requires matching each claim's strength to what the results can support"
+      },
+      {
+        "kind": "edge-strength",
+        "topicId": "dat.data-commentary",
+        "prerequisiteId": "sta.claim-calibration",
+        "strength": "soft"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "res.limitations",
+        "prerequisiteId": "sta.claim-calibration",
+        "strength": "soft",
+        "reason": "Stating limitations is the counterpart of calibrating claims: it marks the scope beyond which the study's claims should not be extended"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "res.methods",
+        "prerequisiteId": "reg.impersonality-presence",
+        "strength": "soft",
+        "reason": "Methods sections force the choice between agentless passives and author-visible 'we' or 'I'; learners need the impersonality-presence choice to make it deliberately"
+      }
+    ]
+  },
+  {
+    "id": "R3-12",
+    "severity": "major",
+    "category": "missing-edge",
+    "topicIds": [
+      "prs.research-presentations",
+      "prs.delivery-voice",
+      "prs.signposting",
+      "prn.fluency"
+    ],
+    "finding": "Pronunciation is almost absent from the presentation graph. Only prs.delivery-voice links to prn.* (through prominence). prs.research-presentations, the capstone speaking genre, depends on neither delivery nor signposting, and prs.delivery-voice does not reach prn.fluency. pub.viva, exm.oral-exams and dad.studio-critique reach no prn.* topic at all.",
+    "recommendation": "Add prs.research-presentations <- prs.delivery-voice and <- prs.signposting, and prs.delivery-voice <- prn.fluency (all soft). Through delivery-voice, oral genres then reach prominence, thought groups, word stress and fluency.",
+    "proposedChanges": [
+      {
+        "kind": "edge-add",
+        "topicId": "prs.research-presentations",
+        "prerequisiteId": "prs.delivery-voice",
+        "strength": "soft",
+        "reason": "Conference talks to international audiences depend on intelligible, well-paced delivery with key information made prominent"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "prs.research-presentations",
+        "prerequisiteId": "prs.signposting",
+        "strength": "soft",
+        "reason": "Research talks carry dense content in a fixed slot, so audiences rely on explicit previews and section transitions"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "prs.delivery-voice",
+        "prerequisiteId": "prn.fluency",
+        "strength": "soft",
+        "reason": "Pacing and pausing a talk so it sounds controlled rather than read or halting draws on fluency resources such as chunked planning and pausing at boundaries"
+      }
+    ]
+  },
+  {
+    "id": "R3-13",
+    "severity": "major",
+    "category": "missing-edge",
+    "topicIds": [
+      "par.integrating-evidence",
+      "cit.author-date-in-text",
+      "ges.discussion-essay",
+      "ges.compare-contrast-essay",
+      "ges.explanation-essay",
+      "ges.problem-solution-essay",
+      "ges.reflective-writing",
+      "lrn.reflective-logs"
+    ],
+    "finding": "Source-based essay genres do not reach in-text citation. par.integrating-evidence, the hub for source use in paragraphs, has no citation-format prerequisite. ges.discussion-, compare-contrast-, explanation- and problem-solution-essay do not reach par.integrating-evidence, src.paraphrasing or any cit.* format topic, so a system could certify a learner on university essays with no citation skill. ges.reflective-writing is not linked to lrn.reflective-logs, its natural precursor.",
+    "recommendation": "Add par.integrating-evidence <- cit.author-date-in-text, the four essay genres <- par.integrating-evidence, and ges.reflective-writing <- lrn.reflective-logs. All are soft and all keep the graph acyclic.",
+    "proposedChanges": [
+      {
+        "kind": "edge-add",
+        "topicId": "par.integrating-evidence",
+        "prerequisiteId": "cit.author-date-in-text",
+        "strength": "soft",
+        "reason": "Evidence integrated in a paragraph must carry an in-text citation placed correctly relative to the signal phrase or the borrowed content"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "ges.discussion-essay",
+        "prerequisiteId": "par.integrating-evidence",
+        "strength": "soft",
+        "reason": "University discussion essays present perspectives from sources, which must be introduced, cited and commented on within paragraphs"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "ges.compare-contrast-essay",
+        "prerequisiteId": "par.integrating-evidence",
+        "strength": "soft",
+        "reason": "Points of comparison in university essays are usually supported with cited source evidence integrated within paragraphs"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "ges.explanation-essay",
+        "prerequisiteId": "par.integrating-evidence",
+        "strength": "soft",
+        "reason": "Factors and mechanisms in university explanation essays are supported with cited evidence integrated within paragraphs"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "ges.problem-solution-essay",
+        "prerequisiteId": "par.integrating-evidence",
+        "strength": "soft",
+        "reason": "Claims about the problem and the effectiveness of responses are supported with cited evidence integrated within paragraphs"
+      },
+      {
+        "kind": "edge-add",
+        "topicId": "ges.reflective-writing",
+        "prerequisiteId": "lrn.reflective-logs",
+        "strength": "soft",
+        "reason": "Regular dated learning logs build the habit of selective recording and evaluation on which extended reflective commentaries draw"
+      }
+    ]
+  },
+  {
+    "id": "R3-14",
+    "severity": "major",
+    "category": "entry-depth",
+    "topicIds": [],
+    "finding": "The 18 entry points are individually sensible: clause analysis, high-frequency vocabulary, orientation, and concept topics for reading, writing, sources, integrity, listening, notes, learning, AI and testing. But too few topics are entry-like, because soft chaining pushes basic B1 foundation topics deep. 61 of 170 foundation topics that start at B1 or B1+ have depth 6 or more, for example ess.essay-structure 9, arg.argument-concept 8, par.paragraph-unit 7 and sem.turn-taking 11. The longest chain (20 topics, ending at res.chapter-metatext) passes through grammar, reading, synthesis, coursework genres and the dissertation, and 14 of its 19 links are soft. A long PGR chain is acceptable in itself; the defect is that its first nine links are foundation topics gated by B2 grammar. With the hard-only metric, maximum depth is 8.",
+    "recommendation": "After R3-02 to R3-08 are applied, entry points rise to 22 (reg.register-awareness, sen.capitalisation, acu.discourse-communities and dig.word-processing become entry points), longest-chain depth falls from 19 to 17, and foundation B1 topics with depth 6 or more fall from 61 to 51. Report depth on hard edges (maximum 7 after fixes), and treat soft depth as an ordering heuristic.",
+    "proposedChanges": [
+      {
+        "kind": "other",
+        "detail": "Recompute depth/downstream on hard edges after applying R3-02..R3-13 (see R3-01); the soft-depth longest chain will still be 18 topics, which is expected for res.chapter-metatext but should not be used for gating."
+      }
+    ]
+  },
+  {
+    "id": "R3-15",
+    "severity": "major",
+    "category": "reteach",
+    "topicIds": [
+      "voc.countability-academic-nouns",
+      "rdc.critical-response",
+      "prn.repair",
+      "exm.objective-questions",
+      "crt.multiple-perspectives",
+      "coh.writer-responsibility",
+      "coh.text-patterns",
+      "sem.preparation",
+      "res.literature-review"
+    ],
+    "finding": "The validator requires reteachPrerequisiteId to be a direct prerequisite. This couples the guidance to the edge set. Nine reteach choices rest on edges removed in this review, and at least one spurious edge (rds.main-ideas <- rdp.parsing-complex-sentences) appears to exist mainly to license a remedial pointer. In addition, these reteach choices do not address their difficulty pattern: voc.countability (Greco-Latin plurals) -> core academic vocabulary; rdc.critical-response (opinion unconnected to the text) -> evidence evaluation; prn.repair (not noticing listener confusion) -> code glosses; exm.objective-questions (cue-based tricks) -> generalisation and qualification; crt.multiple-perspectives (essays must not take sides) -> reading writer stance; coh.writer-responsibility (over-explicitness) -> cohesion versus coherence; coh.text-patterns (evaluation element missing) -> cohesion versus coherence; sem.preparation (underestimating reading time) -> notes from reading; res.literature-review (\"I am only a student\") -> gap and niche. 563 of 1,445 difficulties (39%) have no reteach target.",
+    "recommendation": "Apply the guidance edits below; each new target is a direct prerequisite after all R3 changes. For the longer term, allow a separate remedialTopicId that may point to any ancestor or related topic, so that guidance needs no longer force graph edges.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "voc.countability-academic-nouns",
+        "path": "difficulties[1].reteachPrerequisiteId",
+        "oldText": "voc.core-academic-vocabulary",
+        "newValue": "voc.dictionary-use"
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "rdc.critical-response",
+        "path": "difficulties[0].reteachPrerequisiteId",
+        "oldText": "rdc.evidence-evaluation",
+        "newValue": "rdc.critical-questions"
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "prn.repair",
+        "path": "difficulties[2].reteachPrerequisiteId",
+        "oldText": "sta.code-glosses",
+        "newValue": "prn.intelligibility"
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "exm.objective-questions",
+        "path": "difficulties[2].reteachPrerequisiteId",
+        "oldText": "sta.generalisation-qualification",
+        "newValue": "exm.exam-formats"
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "crt.multiple-perspectives",
+        "path": "difficulties[2].reteachPrerequisiteId",
+        "oldText": "rds.writer-stance",
+        "newValue": null
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "coh.writer-responsibility",
+        "path": "difficulties[2].reteachPrerequisiteId",
+        "oldText": "coh.cohesion-vs-coherence",
+        "newValue": "wpr.audience-purpose"
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "coh.text-patterns",
+        "path": "difficulties[1].reteachPrerequisiteId",
+        "oldText": "coh.cohesion-vs-coherence",
+        "newValue": null
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "sem.preparation",
+        "path": "difficulties[2].reteachPrerequisiteId",
+        "oldText": "ntk.notes-from-reading",
+        "newValue": null
+      },
+      {
+        "kind": "edit-field",
+        "file": "guidance",
+        "topicId": "res.literature-review",
+        "path": "difficulties[2].reteachPrerequisiteId",
+        "oldText": "res.gap-niche",
+        "newValue": null
+      },
+      {
+        "kind": "other",
+        "detail": "Schema/validator: add optional remedialTopicIds (any topic) distinct from reteachPrerequisiteId (direct prerequisite) so remediation pointers do not force edges."
+      }
+    ]
+  },
+  {
+    "id": "R3-16",
+    "severity": "minor",
+    "category": "strength",
+    "topicIds": [],
+    "finding": "69 hard edges are already implied by a longer path. This conflicts with AUTHORING section 3 (\"do not add an edge already implied by a chain unless distinct and important\"). Examples: sta.claim-calibration <- sta.hedging, grm.passive-voice <- grm.clause-elements, cit.accuracy-consistency <- cit.reference-list, ges.problem-solution-essay <- fun.evaluating, grp.dissertation-overview <- ges.literature-review-assignment. Many are legitimately distinct, and several are softened above. Because the redundancy check counts paths through soft edges, it overstates hard redundancy.",
+    "recommendation": "Do not remove these mechanically. Run findRedundantEdges on hard edges only after applying R3, and remove only edges whose dependency is fully carried by a hard chain.",
+    "proposedChanges": [
+      {
+        "kind": "other",
+        "detail": "Run scripts/graph.mjs findRedundantEdges on hard edges only after R3 changes and review the residue editorially."
+      }
+    ]
+  },
+  {
+    "id": "R3-17",
+    "severity": "minor",
+    "category": "level-stage",
+    "topicIds": [],
+    "finding": "15 topics are tagged foundation but start at B2, which conflicts with AUTHORING's statement that foundation learners are typically B1–B1+: sem.debate (fixed in R3-07), exm.open-book, prg.formal-statements, dse.protocols-specifications, dse.mathematical-writing, dhl.evidence-based-practice, dbe.business-case-analysis, dbe.economic-reasoning, dbe.critical-frameworks, dlw.legal-language, dlw.case-reading, dhu.close-reading, dad.studio-critique, dad.artist-statement and dad.design-rationale. Several have soft prerequisites at B2+ that are taught only from undergraduate in-sessional (dhl.evidence-based-practice <- num.interpreting-statistics, dbe.critical-frameworks <- crt.evaluating-theories, dad.artist-statement <- reg.non-specialist-audiences).",
+    "recommendation": "Decide editorially whether subject-specific foundation programmes justify the foundation tag. If they do, lower cefrStart to B1+. If not, drop the foundation tag. Do not change these mechanically.",
+    "proposedChanges": [
+      {
+        "kind": "other",
+        "detail": "Editorial review of foundation tag vs B2 start for: exm.open-book, prg.formal-statements, dse.protocols-specifications, dse.mathematical-writing, dhl.evidence-based-practice, dbe.business-case-analysis, dbe.economic-reasoning, dbe.critical-frameworks, dlw.legal-language, dlw.case-reading, dhu.close-reading, dad.studio-critique, dad.artist-statement, dad.design-rationale."
+      }
+    ]
+  },
+  {
+    "id": "R3-18",
+    "severity": "minor",
+    "category": "missing-edge",
+    "topicIds": [],
+    "finding": "Weakly connected topics with total degree 1: lis.digressions, prn.segmental-priorities, par.length-division, cit.locators, lrn.motivation, acu.critical-eap, acu.emi-tne and dig.automated-feedback-tools. 133 topics are leaves. lrn.motivation is an entry point with a single dependent (lrn.self-regulation). prn.segmental-priorities is isolated from listening (lis.connected-speech, lis.word-segmentation) and from prn.technical-terms. Seminar topics, apart from turn-taking and questions, do not link to any listening topic.",
+    "recommendation": "These are mostly acceptable leaves. Consider soft links when the speaking strand is next revised (for example prn.technical-terms <- prn.segmental-priorities), but the evidence here is not strong enough to warrant mechanical edges.",
+    "proposedChanges": [
+      {
+        "kind": "other",
+        "detail": "Optional editorial pass on speaking/listening cross-links; no mechanical change proposed."
+      }
+    ]
+  }
+]

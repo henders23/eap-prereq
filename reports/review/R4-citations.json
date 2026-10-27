@@ -1,0 +1,587 @@
+[
+  {
+    "id": "R4-01",
+    "severity": "critical",
+    "category": "misattribution",
+    "topicIds": [
+      "ess.criticality",
+      "rdc.critical-reading"
+    ],
+    "referenceKeys": [
+      "moore2013"
+    ],
+    "finding": "Moore (2013) interviewed 17 academics in history, philosophy and cultural studies only. ess.criticality contextNotes attribute to Moore a contrast between engineering and history ('which differ, for example, between engineering and history (Moore, 2013)'); engineering was not studied. rdc.critical-reading summary says 'academics across disciplines', which overstates a three-discipline humanities sample (crt.concept describes it correctly).",
+    "recommendation": "Restrict the attribution to the disciplines Moore sampled; do not cite Moore for any science/engineering contrast.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "ess.criticality",
+        "file": "guidance",
+        "path": "contextNotes",
+        "oldText": "which differ, for example, between engineering and history (Moore, 2013)",
+        "newValue": "which differ across fields; even within the humanities, Moore (2013) found academics in history, philosophy and cultural studies holding distinct conceptions of critical thinking"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "rdc.critical-reading",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Moore (2013) found that academics across disciplines understand critical thinking",
+        "newValue": "Moore (2013) found that academics in history, philosophy and cultural studies understand critical thinking"
+      }
+    ]
+  },
+  {
+    "id": "R4-02",
+    "severity": "critical",
+    "category": "misattribution",
+    "topicIds": [
+      "phr.corpus-consultation"
+    ],
+    "referenceKeys": [
+      "charles2007"
+    ],
+    "finding": "Charles (2007) combined top-down analysis of rhetorical functions with concordance searches of teacher-compiled thesis corpora (politics/IR and materials science). Students building their own discipline-specific 'do-it-yourself' corpora is the subject of Charles's later work (2012, ESP 31(2); 2014, ESP 35), not the 2007 article. Summary: 'Charles shows how graduate writers can build small corpora of theses in their own field'; activities[1].rationale: 'Charles describes graduate writers building their own corpora'.",
+    "recommendation": "Describe what the 2007 article reports; if DIY corpus-building is to stay, add Charles (2012) as a reference.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "phr.corpus-consultation",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Charles shows how graduate writers can build small corpora of theses in their own field to link bottom-up searches with rhetorical functions",
+        "newValue": "Charles (2007) shows how concordance searches of thesis corpora can be linked to the rhetorical functions students first identify in whole texts"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "phr.corpus-consultation",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "Charles describes graduate writers building their own corpora to explore rhetorical functions in their disciplines.",
+        "newValue": "Charles (2007) links concordance searches of thesis corpora to the rhetorical functions graduate writers identify in whole texts; students building their own discipline-specific corpora is reported in Charles's later work (2012), which should be added before this activity is attributed to it."
+      },
+      {
+        "kind": "other",
+        "detail": "Add to references.json: Charles, M. (2012). 'Proper vocabulary and juicy collocations': EAP students evaluate do-it-yourself corpus-building. English for Specific Purposes, 31(2), 93–102 (verify before use), and cite it in phr.corpus-consultation activities[1]."
+      }
+    ]
+  },
+  {
+    "id": "R4-03",
+    "severity": "critical",
+    "category": "misattribution",
+    "topicIds": [
+      "voc.deliberate-learning-systems"
+    ],
+    "referenceKeys": [
+      "cepeda2006",
+      "roediger2006"
+    ],
+    "finding": "The summary says the testing effect and distributed-practice research 'explains why retrieval and expanding intervals outperform rereading'. Roediger & Karpicke (2006) compare retrieval with restudy. Cepeda et al. (2006) compare spaced with massed practice and model the optimal gap relative to the retention interval. Neither shows that expanding schedules beat rereading, and the evidence on expanding versus equal spacing is mixed. This misdescribes a landmark finding and builds a popular flashcard-app claim into the text.",
+    "recommendation": "State the two findings separately and drop 'expanding'.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "voc.deliberate-learning-systems",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "explains why retrieval and expanding intervals outperform rereading",
+        "newValue": "explains why retrieval practice outperforms restudy and spaced practice outperforms massed practice (the cited work does not show that expanding intervals beat equal spacing)"
+      }
+    ]
+  },
+  {
+    "id": "R4-04",
+    "severity": "critical",
+    "category": "misattribution",
+    "topicIds": [
+      "pub.academic-cv-bio"
+    ],
+    "referenceKeys": [
+      "hyland2012bios"
+    ],
+    "finding": "Verification corrected the reference to Hyland, K., & Tse, P. (2012). The guidance text still attributes the bio-statement study to Hyland alone: 'Hyland (2012) analysed article bio statements' and 'Hyland (2012) shows that bio statements'. Text and bibliography now disagree on authorship.",
+    "recommendation": "Update the in-text attributions to Hyland and Tse (2012). Re-run an author-surname check for the other 33 references corrected during verification.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "pub.academic-cv-bio",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "and Hyland (2012) analysed article bio statements",
+        "newValue": "and Hyland and Tse (2012) analysed article bio statements"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "pub.academic-cv-bio",
+        "file": "guidance",
+        "path": "activities[0].rationale",
+        "oldText": "Hyland (2012) shows that bio statements",
+        "newValue": "Hyland and Tse (2012) show that bio statements"
+      }
+    ]
+  },
+  {
+    "id": "R4-05",
+    "severity": "major",
+    "category": "systemic",
+    "topicIds": [
+      "grm.reporting-structures",
+      "grm.non-finite-clauses",
+      "grm.existential-there",
+      "grm.linking-adverbial-placement",
+      "sen.sentence-boundaries"
+    ],
+    "referenceKeys": [
+      "ferris1999"
+    ],
+    "finding": "Ferris (1999) is a short position paper. Its 'treatable' category is verb tense/form, subject–verb agreement, articles, noun endings and fragments; lexical errors and sentence-structure problems (missing or unnecessary words, word order) are explicitly 'untreatable'. Nine activity rationales use it as a generic warrant ('a rule-governed error suited to focused self-editing (Ferris, 1999)'). Several apply it to error types Ferris placed in the other category: reporting-frame errors, which the dataset's own vocabulary topics describe as lexically governed; dangling participles; 'There are many studies show'; and comma splices. The citation is also not evidence that focused self-editing of these errors works.",
+    "recommendation": "Limit the Ferris attribution to her listed categories and label the extensions as analogies.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "grm.reporting-structures",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "These are rule-governed errors suited to focused self-editing (Ferris, 1999).",
+        "newValue": "Reporting-frame errors are largely lexically governed (each verb has its own complementation), so they are best tracked verb by verb in a personal pattern record and checked against a corpus or learner dictionary."
+      },
+      {
+        "kind": "remove-citation",
+        "topicId": "grm.reporting-structures",
+        "file": "guidance",
+        "path": "activities[1].citations",
+        "referenceKey": "ferris1999"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "grm.non-finite-clauses",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "suits a rule-governed, treatable structure (Ferris, 1999)",
+        "newValue": "suits a structure with a checkable rule (the implied subject must be the main-clause subject), although Ferris (1999) classed sentence-structure problems as less readily 'treatable' than agreement or tense"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "grm.existential-there",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "Targeted repair of a frequent, rule-governed error supports self-editing (Ferris, 1999).",
+        "newValue": "Targeted repair of a frequent, recognisable error pattern supports self-editing; Ferris (1999) would class this sentence-structure error as less readily 'treatable' than agreement or tense, so expect repeated practice to be needed."
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "grm.linking-adverbial-placement",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "The comma splice with linking adverbials is a rule-governed error suited to focused attention and self-editing (Ferris, 1999).",
+        "newValue": "The comma splice with linking adverbials follows a clear punctuation rule and suits focused self-editing; Ferris (1999) listed fragments, not comma splices, among 'treatable' errors, so the extension is by analogy."
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "sen.sentence-boundaries",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Comma splices, fused sentences and fragments are rule-governed and therefore 'treatable' errors in Ferris's (1999) sense",
+        "newValue": "Fragments are among the 'treatable' rule-governed errors in Ferris's (1999) sense, and comma splices and fused sentences follow similarly clear rules"
+      }
+    ]
+  },
+  {
+    "id": "R4-06",
+    "severity": "major",
+    "category": "overclaim",
+    "topicIds": [
+      "cit.author-date-in-text",
+      "reg.vague-overgeneralised",
+      "res.research-questions",
+      "crt.problem-solving"
+    ],
+    "referenceKeys": [
+      "swales1990",
+      "thompsontribble2001",
+      "hinkel2002",
+      "aulllancaster2014",
+      "creswell2018",
+      "bunton2002",
+      "hoey1983",
+      "facione1990"
+    ],
+    "finding": "Several summaries present untested teaching recommendations as established ('works best', 'most likely to improve') right next to descriptive or theoretical citations, so readers will take the citation as the evidence. Examples: 'Instruction works best when formatting is linked to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) rather than taught as an isolated rule list'; 'Teaching works best by asking the reader's questions' (after citing Hinkel's and Aull & Lancaster's descriptive corpus work); 'Teaching works best through repeated revision of the learner's own questions'; 'are the two moves most likely to improve student work'. None of the cited works tests the instruction.",
+    "recommendation": "Mark these as practitioner proposals.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "cit.author-date-in-text",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Instruction works best when formatting is linked to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) rather than taught as an isolated rule list",
+        "newValue": "Linking formatting to the integral/non-integral distinction (Swales, 1990; Thompson & Tribble, 2001) gives the mechanics a rhetorical rationale and is likely to be more useful than an isolated rule list, although this has not been tested"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "reg.vague-overgeneralised",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Teaching works best by asking",
+        "newValue": "Teaching is likely to work best (a practitioner judgement; the cited studies are descriptive) by asking"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "res.research-questions",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Teaching works best through repeated revision",
+        "newValue": "In practitioner experience, teaching works best through repeated revision"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "crt.problem-solving",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "are the two moves most likely to improve student work",
+        "newValue": "are, in practitioner experience, the two moves most likely to improve student work; neither cited source tests this"
+      }
+    ]
+  },
+  {
+    "id": "R4-07",
+    "severity": "major",
+    "category": "overclaim",
+    "topicIds": [
+      "inf.open-access",
+      "int.policy-processes",
+      "src.signal-phrases"
+    ],
+    "referenceKeys": [
+      "acrl2016",
+      "bretag2016",
+      "pecorari2013"
+    ],
+    "finding": "Activity rationales state untested learning effects as fact under a framework or handbook citation: 'Practising the routes reduces reliance on unauthorised sources' (ACRL 2016); 'Rehearsing the genre before it is needed reduces anxiety and supports appropriate formality' (Bretag 2016); 'Learning frames as patterns reduces the blending errors common at this stage' (Pecorari 2013). None of these works tested the activity or the effect.",
+    "recommendation": "Present the effects as intended outcomes and say what the citation does support.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "inf.open-access",
+        "file": "guidance",
+        "path": "activities[0].rationale",
+        "oldText": "Practising the routes reduces reliance on unauthorised sources",
+        "newValue": "Practising the legitimate routes is intended to reduce reliance on unauthorised sources (an untested expectation)"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "int.policy-processes",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "Rehearsing the genre before it is needed reduces anxiety and supports appropriate formality.",
+        "newValue": "Rehearsing the genre before it is needed is intended to reduce anxiety and support appropriate formality (a practitioner proposal); Bretag (2016) is cited for the educative approach to integrity, not for this effect."
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "src.signal-phrases",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "Learning frames as patterns reduces the blending errors common at this stage.",
+        "newValue": "Learning frames as patterns is intended to reduce the blending errors common at this stage (a practitioner proposal); Pecorari (2013) supports explicit teaching of source use, not this specific effect."
+      }
+    ]
+  },
+  {
+    "id": "R4-08",
+    "severity": "major",
+    "category": "decorative",
+    "topicIds": [
+      "exm.open-book",
+      "res.ethics-documentation",
+      "grm.subject-verb-agreement",
+      "par.concluding-sentences",
+      "wpr.planning-outlining"
+    ],
+    "referenceKeys": [
+      "pecorari2013",
+      "creswell2018",
+      "boultoncobb2017",
+      "wingate2012argument",
+      "swalesfeak2012",
+      "hyland2003writing"
+    ],
+    "finding": "Heavily cited references are attached to rationales they do not address. Pecorari (2013) for 'Time spent searching unorganised materials reduces time for analysis' (exm.open-book). Creswell & Creswell (2018) for 'Adapting register for a non-specialist audience is a mediation skill' (res.ethics-documentation). Boulton & Cobb (2017), a learning-outcome meta-analysis, for 'Data-driven learning encourages evidence-based usage judgements'. Wingate (2012) for a sentence-level finding she did not report ('the link between evidence and argument that Wingate (2012) found students often leave implicit'). Swales & Feak (2012), a textbook, as the source of a frequency claim ('authentic paragraphs frequently end on evidence or comment'). Hyland (2003) attached to a rationale whose only substantive claim is the learning-styles debunk, which that book does not address. The most-cited sources (swalesfeak2012 ×115, apa2020 ×103, biber1999lgswe ×88, celcemurcia1999 ×61, wingate2012argument ×57) are mostly used appropriately, but each has a tail of decorative uses.",
+    "recommendation": "Remove decorative citations or reword so that each citation supports only what the source says.",
+    "proposedChanges": [
+      {
+        "kind": "remove-citation",
+        "topicId": "exm.open-book",
+        "file": "guidance",
+        "path": "activities[0].citations",
+        "referenceKey": "pecorari2013"
+      },
+      {
+        "kind": "remove-citation",
+        "topicId": "res.ethics-documentation",
+        "file": "guidance",
+        "path": "activities[0].citations",
+        "referenceKey": "creswell2018"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "grm.subject-verb-agreement",
+        "file": "guidance",
+        "path": "activities[1].rationale",
+        "oldText": "Data-driven learning encourages evidence-based usage judgements (Boulton & Cobb, 2017)",
+        "newValue": "Corpus consultation grounds usage judgements in attested examples, and a meta-analysis reports generally positive learning effects of data-driven learning (Boulton & Cobb, 2017)"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "par.concluding-sentences",
+        "file": "guidance",
+        "path": "activities[0].rationale",
+        "oldText": "that Wingate (2012) found students often leave implicit",
+        "newValue": "which Wingate (2012) treats as part of developing a position through analysis of sources"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "par.concluding-sentences",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "and show that authentic paragraphs frequently end on evidence or comment without a separate closing formula (Swales & Feak, 2012)",
+        "newValue": "and use authentic paragraphs, which often end on evidence or comment without a separate closing formula (a practitioner observation; Swales and Feak (2012) supply model paragraphs for analysis)"
+      },
+      {
+        "kind": "remove-citation",
+        "topicId": "wpr.planning-outlining",
+        "file": "guidance",
+        "path": "activities[1].citations",
+        "referenceKey": "hyland2003writing"
+      },
+      {
+        "kind": "other",
+        "detail": "Add a verified source for the learning-styles statements (e.g. Pashler, McDaniel, Rohrer & Bjork, 2008, Psychological Science in the Public Interest, 9(3), 105–119) and cite it in wpr.planning-outlining activities[1], lrn.metacognitive-knowledge difficulties[1] and the ntk.note-formats 'visual learner' difficulty; the debunks are correct but currently unsourced or wrongly sourced."
+      }
+    ]
+  },
+  {
+    "id": "R4-09",
+    "severity": "minor",
+    "category": "partial",
+    "topicIds": [
+      "gai.detection-limits"
+    ],
+    "referenceKeys": [
+      "liang2023"
+    ],
+    "finding": "The Liang et al. (2023) comparison group is misdescribed as 'essays by US students'. They were US eighth-grade essays, not university writing, and that limits what the contrast shows for EAP students.",
+    "recommendation": "Name the comparison group.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "gai.detection-limits",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "while classifying essays by US students largely correctly",
+        "newValue": "while classifying essays by US eighth-grade students largely correctly"
+      }
+    ]
+  },
+  {
+    "id": "R4-10",
+    "severity": "minor",
+    "category": "partial",
+    "topicIds": [
+      "rds.annotation"
+    ],
+    "referenceKeys": [
+      "kiewra1985"
+    ],
+    "finding": "Rationale cites 'the encoding benefits of generative note-taking (Kiewra, 1985)'. Kiewra's review found the encoding effect of note-taking inconsistent and the external-storage (review) effect more reliable. He proposed a depth-of-processing account rather than establishing encoding benefits. ntk.functions-of-notes describes him correctly.",
+    "recommendation": "Hedge the attribution.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "rds.annotation",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "in parallel with the encoding benefits of generative note-taking (Kiewra, 1985)",
+        "newValue": "in line with Kiewra's (1985) depth-of-processing account of note-taking, although his review found the benefits of reviewing notes more consistent than the encoding benefits of taking them"
+      }
+    ]
+  },
+  {
+    "id": "R4-11",
+    "severity": "minor",
+    "category": "partial",
+    "topicIds": [
+      "rds.skimming"
+    ],
+    "referenceKeys": [
+      "rayner2016"
+    ],
+    "finding": "'Rayner et al. (2016) show that it trades comprehension for speed: readers lose information in what they skip and are less able to judge what mattered.' Rayner et al. report that skimming costs comprehension except for gist when readers can identify the important parts. The second clause overstates their conclusion.",
+    "recommendation": "Narrow the wording.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "rds.skimming",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "readers lose information in what they skip and are less able to judge what mattered",
+        "newValue": "readers lose information in what they skip, so skimming serves gist and relevance decisions only when readers can identify the important parts"
+      }
+    ]
+  },
+  {
+    "id": "R4-12",
+    "severity": "minor",
+    "category": "partial",
+    "topicIds": [
+      "voc.word-families-morphology"
+    ],
+    "referenceKeys": [
+      "bauernation1993"
+    ],
+    "finding": "Bauer & Nation (1993) propose a graded scale of affix levels based on frequency, productivity and regularity. The text says the levels 'show that a limited set of regular, frequent affixes accounts for most family relationships' and that the framework 'shows that regular affixation makes word families learnable as sets'. These present the framework's design assumptions as demonstrated findings.",
+    "recommendation": "Describe the levels as a proposal or assumption.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "voc.word-families-morphology",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Bauer and Nation's word-family levels show that a limited set of regular, frequent affixes accounts for most family relationships, so teaching these explicitly is efficient",
+        "newValue": "Bauer and Nation's word-family levels rank affixes by frequency, regularity and productivity, implying that a limited set of regular, frequent affixes is the efficient place to start explicit teaching"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "voc.word-families-morphology",
+        "file": "guidance",
+        "path": "activities[0].rationale",
+        "oldText": "Bauer and Nation's framework shows that regular affixation makes word families learnable as sets.",
+        "newValue": "Bauer and Nation's framework assumes that once regular affixes are known, word families can be learned as sets."
+      }
+    ]
+  },
+  {
+    "id": "R4-13",
+    "severity": "minor",
+    "category": "partial",
+    "topicIds": [
+      "rds.comprehension-monitoring",
+      "grm.clause-elements",
+      "grm.error-monitoring",
+      "tst.test-formats"
+    ],
+    "referenceKeys": [
+      "plonsky2011",
+      "norrisortega2000",
+      "ellisyuan2004",
+      "alderson1993washback"
+    ],
+    "finding": "Four findings are slightly stretched. (a) 'the effects of strategy instruction are variable and depend on adequate language knowledge (Plonsky, 2011)': Plonsky reports variable effects; the language-threshold point comes from the reading-component literature. (b) 'Explicit instruction has measurable benefits for grammatical development (Norris & Ortega, 2000)' leaves out their own caveat that outcome measures favoured explicit knowledge. (c) 'Ellis and Yuan (2004) found that careful online planning was associated with greater accuracy, which supports separating composing from monitoring': the study manipulated unpressured writing time, not separate editing passes. (d) 'Washback ... is real but complex (Alderson & Wall, 1993)': that paper argued washback must be demonstrated rather than assumed.",
+    "recommendation": "Narrow each attribution.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "rds.comprehension-monitoring",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "the effects of strategy instruction are variable and depend on adequate language knowledge (Plonsky, 2011)",
+        "newValue": "the effects of strategy instruction are variable (Plonsky, 2011) and are likely to depend on adequate language knowledge"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "grm.clause-elements",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "Explicit instruction has measurable benefits for grammatical development (Norris & Ortega, 2000)",
+        "newValue": "Norris and Ortega's (2000) meta-analysis found explicit instruction effective, although many outcome measures favoured explicit knowledge"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "grm.error-monitoring",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "which supports separating composing from monitoring",
+        "newValue": "which is consistent with, though it did not test, separating composing from monitoring"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "tst.test-formats",
+        "file": "guidance",
+        "path": "summary",
+        "oldText": "is real but complex (Alderson & Wall, 1993)",
+        "newValue": "is more complex than often assumed and has to be demonstrated rather than presumed (Alderson & Wall, 1993)"
+      }
+    ]
+  },
+  {
+    "id": "R4-14",
+    "severity": "minor",
+    "category": "overclaim",
+    "topicIds": [
+      "grm.error-monitoring",
+      "grw.contribution-assessment"
+    ],
+    "referenceKeys": [],
+    "finding": "Activity titles 'Evidence-based error log' and 'Evidence-based rating' use a term readers will take to mean empirically tested. The activities are untested proposals; 'evidence' here means the learner's own data.",
+    "recommendation": "Retitle.",
+    "proposedChanges": [
+      {
+        "kind": "edit-field",
+        "topicId": "grm.error-monitoring",
+        "file": "guidance",
+        "path": "activities[0].title",
+        "oldText": "Evidence-based error log",
+        "newValue": "Error log built from your own feedback"
+      },
+      {
+        "kind": "edit-field",
+        "topicId": "grw.contribution-assessment",
+        "file": "guidance",
+        "path": "activities[0].title",
+        "oldText": "Evidence-based rating",
+        "newValue": "Rating backed by documented contributions"
+      }
+    ]
+  },
+  {
+    "id": "R4-15",
+    "severity": "minor",
+    "category": "systemic",
+    "topicIds": [],
+    "referenceKeys": [],
+    "finding": "The 128 author-proposed references were verified bibliographically (existence and details), not for content. 82 reviewNotes still say a reference is 'a proposed reference', 'pending verification' or 'not yet in the bibliography' (e.g. reg.non-specialist-audiences, sem.online-discussion, grw.collaborative-writing), so they are now stale. This audit content-checked every claim attached to a former proposal (about 150 pairs). All were supported except the Hyland & Tse authorship mismatch (R4-04). Notes that read 'claim is from memory; verify' (res.results, res.discussion, res.supervision, pub.viva, dlw.case-reading, lab-report) remain open and were confirmed by this audit for Basturkmen (2009), Belcher (1994) and Bhatia's legal-case moves.",
+    "recommendation": "Regenerate reviewNotes. Replace 'proposed/pending verification' notes with a note that the reference is verified and the claim was content-checked in R4. Close the 'from memory' notes for Basturkmen 2009, Belcher 1994 and Bhatia 1993. Keep pub.viva's Mežek & Swales chapter and the Swales (2004) PhD-defence claim open until someone checks them against the books.",
+    "proposedChanges": [
+      {
+        "kind": "other",
+        "detail": "Bulk-update the 82 reviewNotes containing 'proposed reference', 'pending verification' or 'not yet in the bibliography' to reflect the merged, web-verified status; do not delete the content caveats in those notes."
+      }
+    ]
+  },
+  {
+    "id": "R4-16",
+    "severity": "minor",
+    "category": "systemic",
+    "topicIds": [],
+    "referenceKeys": [
+      "hyland2004disciplinary",
+      "hyland2004graduates",
+      "hyland2005metadiscourse",
+      "hyland2005stance",
+      "hyland2001selfmention",
+      "hyland2001reader",
+      "hyland2002authority",
+      "hyland2002specificity",
+      "wingate2012argument",
+      "wingate2012literacy"
+    ],
+    "finding": "Prose citations are ambiguous where one author has two works in the same year: 'Hyland (2004)' is used for both Disciplinary Discourses and the acknowledgements article; 'Hyland (2005)' for both the metadiscourse book and the stance article; similarly Hyland 2001 and 2002 and Wingate 2012. Readers cannot tell which work supports a claim without the key. Also, 40 activity-level citations are missing from their record's citations array (e.g. ferris1999 in five grammar records, schmidt1990, boultoncobb2017, nesbit2006, vangelder2005, carlessboud2018), so record-level bibliographies are incomplete.",
+    "recommendation": "Use 2004a/2004b-style suffixes in rendered text, or name the work at first mention. Make each record's citations array a superset of its activity citations.",
+    "proposedChanges": [
+      {
+        "kind": "other",
+        "detail": "Add year suffixes (a/b) to same-author-same-year references in the bibliography renderer and in guidance prose; add the 40 missing activity citations to their records' citations arrays."
+      }
+    ]
+  }
+]
